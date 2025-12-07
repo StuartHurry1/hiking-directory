@@ -1,0 +1,18 @@
+{
+  "id": "example-hike",
+  "slug": "example-hike",
+  "name": "Example Ridge Walk",
+  "region": "Test Region",
+  "distance_km": 8.5,
+  "difficulty": "moderate",
+  "summary": "A scenic ridge walk with broad views over the surrounding countryside.",
+  "terrain": "Field paths, farm tracks and a short rocky ridge section.",
+  "estimated_time_hours": 3.0,
+  "ascent_meters": 350,
+  "gpx_path": "gpx/example-ridge-walk.gpx",
+  "start": {
+    "lat": 53.42,
+    "lon": -1.3,
+    "nearest_postcode": "S66 7RR"
+  }
+}

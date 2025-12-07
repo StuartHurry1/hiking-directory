@@ -1,0 +1,18 @@
+{
+  "id": "stanage-edge-ridge-walk",
+  "slug": "stanage-edge-ridge-walk",
+  "name": "Stanage Edge Ridge Walk",
+  "region": "Peak District, Derbyshire",
+  "distance_km": 9.8,
+  "difficulty": "moderate",
+  "summary": "Classic Peak District ridge walk along the gritstone edge of Stanage with huge views and dramatic rock formations.",
+  "terrain": "Gritstone edges, rocky paths, moorland tracks, occasional boggy patches.",
+  "estimated_time_hours": 3.5,
+  "ascent_meters": 420,
+  "gpx_path": "gpx/stanage-edge-ridge-walk.gpx",
+  "start": {
+    "lat": 53.347,
+    "lon": -1.621,
+    "nearest_postcode": "S66 7RR"
+  }
+}

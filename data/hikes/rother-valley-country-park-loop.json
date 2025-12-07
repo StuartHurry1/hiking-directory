@@ -1,0 +1,18 @@
+{
+  "id": "rother-valley-country-park-loop",
+  "slug": "rother-valley-country-park-loop",
+  "name": "Rother Valley Country Park Loop",
+  "region": "South Yorkshire",
+  "distance_km": 7.2,
+  "difficulty": "easy",
+  "summary": "A relaxed loop around the lakes and meadows of Rother Valley Country Park, ideal for families and beginners.",
+  "terrain": "Largely level paths, gravel tracks, sections of tarmac and grass.",
+  "estimated_time_hours": 2.0,
+  "ascent_meters": 80,
+  "gpx_path": "gpx/rother-valley-country-park-loop.gpx",
+  "start": {
+    "lat": 53.33,
+    "lon": -1.32,
+    "nearest_postcode": "S66 7RR"
+  }
+}

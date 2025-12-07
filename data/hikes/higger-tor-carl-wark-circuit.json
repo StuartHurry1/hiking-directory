@@ -1,0 +1,18 @@
+{
+  "id": "higger-tor-carl-wark-circuit",
+  "slug": "higger-tor-carl-wark-circuit",
+  "name": "Higger Tor & Carl Wark Circuit",
+  "region": "Peak District, Derbyshire",
+  "distance_km": 6.4,
+  "difficulty": "moderate",
+  "summary": "A short but spectacular circuit visiting the rocky summit of Higger Tor and the ancient hillfort of Carl Wark.",
+  "terrain": "Stone-flagged paths, rocky steps, short steep climbs, open moorland.",
+  "estimated_time_hours": 2.5,
+  "ascent_meters": 300,
+  "gpx_path": "gpx/higger-tor-carl-wark-circuit.gpx",
+  "start": {
+    "lat": 53.344,
+    "lon": -1.625,
+    "nearest_postcode": "S66 7RR"
+  }
+}
