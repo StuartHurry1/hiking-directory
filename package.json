@@ -3,20 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-
-  "scrape:osm": "tsx scripts/scrape-osm-hikes.ts",
-  "hikes:normalise": "tsx scripts/normalise-hikes.ts",
-  "hikes:enrich": "tsx scripts/enrich-hikes.ts",
-  "hikes:indexes": "tsx scripts/generate-indexes.ts",
-  "hikes:stats": "tsx scripts/hikes-stats.ts",
-
-  "hikes:all": "pnpm scrape:osm && pnpm hikes:normalise && pnpm hikes:enrich && pnpm hikes:indexes && pnpm hikes:stats"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "scrape:osm": "tsx scripts/scrape-osm-hikes.ts",
+    "hikes:normalise": "tsx scripts/normalise-hikes.ts",
+    "hikes:enrich": "tsx scripts/enrich-hikes.ts",
+    "hikes:indexes": "tsx scripts/generate-indexes.ts",
+    "hikes:stats": "tsx scripts/hikes-stats.ts",
+    "hikes:all": "pnpm scrape:osm && pnpm hikes:normalise && pnpm hikes:enrich && pnpm hikes:indexes && pnpm hikes:stats"
+  },
   "dependencies": {
     "@tmcw/togeojson": "^7.1.2",
+    "dotenv": "^17.2.3",
     "leaflet": "^1.9.4",
     "maplibre-gl": "^5.14.0",
     "next": "16.0.7",
