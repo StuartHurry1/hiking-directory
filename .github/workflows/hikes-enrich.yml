@@ -1,23 +1,20 @@
 name: Enrich hikes (manual, limited)
 
 on:
-  # Only runs when you press "Run workflow" in the Actions tab
   workflow_dispatch:
     inputs:
       max_hikes:
         description: "Maximum number of hikes to enrich this run"
         required: true
-        default: "200"   # Adjust this default to a safe level for your budget
+        default: "200"
 
 jobs:
   enrich:
     runs-on: ubuntu-latest
 
     env:
-      # OpenAI key must be added in: Settings → Secrets and variables → Actions
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      # Safety limit passed down to your script
-      MAX_HIKES_PER_RUN: ${{ github.event.inputs.max_hikes }}
+      HIKES_ENRICH_MAX_PER_RUN: ${{ github.event.inputs.max_hikes }}
 
     steps:
       - name: Check out repository
@@ -35,10 +32,5 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Show configured safety limit
-        run: echo "MAX_HIKES_PER_RUN is set to $MAX_HIKES_PER_RUN"
-
-      - name: Run enrichment script (respecting MAX_HIKES_PER_RUN)
+      - name: Run enrichment script
         run: pnpm hikes:enrich
-        # Internally, scripts/enrich-hikes.ts should read process.env.MAX_HIKES_PER_RUN
-        # and stop after enriching that many hikes.
