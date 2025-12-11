@@ -1,0 +1,21 @@
+{
+  "id": "osm-19327404",
+  "slug": "hannas-close-green-lane-walk-19327404",
+  "name": "Hanna's Close - Green Lane Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0809138,
+    "lon": -5.9950059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19327404
+  }
+}

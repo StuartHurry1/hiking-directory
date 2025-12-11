@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761174",
+  "slug": "egham-to-runnymede-countryside-circular-walk-runnymede-19761174",
+  "name": "Egham to Runnymede Countryside Circular Walk, Runnymede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4315938,
+    "lon": -0.5497756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761174
+  }
+}

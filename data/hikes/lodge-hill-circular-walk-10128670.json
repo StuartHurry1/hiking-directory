@@ -1,0 +1,21 @@
+{
+  "id": "osm-10128670",
+  "slug": "lodge-hill-circular-walk-10128670",
+  "name": "Lodge Hill Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6123957,
+    "lon": -2.9933637
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10128670
+  }
+}

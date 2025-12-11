@@ -1,0 +1,47 @@
+{
+  "id": "osm-557483",
+  "slug": "a-coventry-way-557483",
+  "name": "A Coventry Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 227.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3465879,
+    "lon": -1.5153021
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 557483
+  },
+  "ai": {
+    "summary": "A Coventry Way is a demanding long-distance hike in the UK, covering about 227.8 km. It requires good navigation, steady stamina, and careful planning across varied rural landscapes, including farmland, hedgerows, and occasional road sections.",
+    "terrain_summary": "Terrain varies from open farmland and country lanes to hedgerows and woodland edges. Expect some muddy sections, boggy ground after rain, stile and gate crossings, and a few longer road stretches. Elevation changes can add to the effort, with exposed sections possible in unsettled weather.",
+    "safety_notes": "Because it is a hard multi-day trek in the UK, pre-plan with a route and overnight stops. Carry a map and compass (or GPS) and know how to use them. Check weather forecasts and daylight hours; be prepared for rain, wind, and cold even in summer. Tell someone your itinerary and expected return. Pack sufficient food and water, and have a backup plan for emergencies (whistle, first aid kit, thermal blanket). Wear sturdy waterproof footwear and bring blister care. Stay aware of daylight limits and pace yourself to avoid exhaustion.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots or shoes with good ankle support",
+      "Weatherproof jacket and waterproof trousers",
+      "Layered clothing for varying temperatures",
+      "Backpack with rain cover (20–40 L depending on length of trip)",
+      "Map and compass (or GPS) with extra batteries",
+      "Water bottles or hydration system (at least 2 liters capacity)",
+      "High-energy food and snacks for multi-day hiking",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit including blister care",
+      "Emergency shelter or bivy sack",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful)",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn: typically April to October, when daylight is longer and conditions are milder. However, UK weather is variable, so be prepared for rain, wind, and cold at any time.",
+    "seo": {
+      "title": "A Coventry Way - 227.8 km UK Long-Distance Trail Guide",
+      "meta_description": "Plan your trek on the A Coventry Way, a hard 227.8 km route across the UK. Read terrain, safety notes, gear lists and best seasons for this challenging hike.",
+      "h1": "A Coventry Way - 227.8 km UK Long-Distance Trail Guide"
+    }
+  }
+}

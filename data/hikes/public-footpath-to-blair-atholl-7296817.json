@@ -1,0 +1,21 @@
+{
+  "id": "osm-7296817",
+  "slug": "public-footpath-to-blair-atholl-7296817",
+  "name": "Public Footpath to Blair Atholl",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7632528,
+    "lon": -3.8489004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7296817
+  }
+}

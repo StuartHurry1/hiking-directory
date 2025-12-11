@@ -1,0 +1,21 @@
+{
+  "id": "osm-19741689",
+  "slug": "views-walk-claremont-19741689",
+  "name": "Views Walk, Claremont",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3558708,
+    "lon": -0.3818862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19741689
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-162603",
+  "slug": "shutlingsloe-walk-162603",
+  "name": "Shutlingsloe Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2238684,
+    "lon": -2.072358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 162603
+  }
+}

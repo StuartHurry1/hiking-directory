@@ -1,0 +1,21 @@
+{
+  "id": "osm-10334421",
+  "slug": "camborne-fp-54-10334421",
+  "name": "Camborne FP 54",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1963681,
+    "lon": -5.2691522
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10334421
+  }
+}

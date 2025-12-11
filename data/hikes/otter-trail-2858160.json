@@ -1,0 +1,21 @@
+{
+  "id": "osm-2858160",
+  "slug": "otter-trail-2858160",
+  "name": "Otter Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9873329,
+    "lon": -1.3440925
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858160
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-5623220",
+  "slug": "craigivar-red-trail-5623220",
+  "name": "Craigivar Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.175945,
+    "lon": -2.7171091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5623220
+  }
+}

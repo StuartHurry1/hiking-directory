@@ -1,0 +1,21 @@
+{
+  "id": "osm-14191896",
+  "slug": "helston-br-5-14191896",
+  "name": "Helston BR 5",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0951764,
+    "lon": -5.2826538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14191896
+  }
+}

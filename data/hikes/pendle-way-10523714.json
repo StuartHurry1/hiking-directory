@@ -1,0 +1,21 @@
+{
+  "id": "osm-10523714",
+  "slug": "pendle-way-10523714",
+  "name": "Pendle Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 210.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9303102,
+    "lon": -2.1663966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10523714
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19253650",
+  "slug": "lough-shannagh-19253650",
+  "name": "Lough Shannagh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1259701,
+    "lon": -6.0357968
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19253650
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-15926698",
+  "slug": "alternatives-in-teesdale-way-middleton-in-teesdale-to-middlesbrough-15926698",
+  "name": "Alternatives in Teesdale Way (Middleton in Teesdale to Middlesbrough)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5284817,
+    "lon": -1.8902091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15926698
+  },
+  "ai": {
+    "summary": "Hard 50 km long-distance hike along the Teesdale Way from Middleton in Teesdale to Middlesbrough. The route combines upland moorland, riverbank paths, and urban fringe, demanding steady navigation, endurance, and careful planning.",
+    "terrain_summary": "Expect varied terrain: upland moorland and limestone pavements near Middleton-in-Teesdale, rocky and muddy riverbank sections along the Tees, occasional disused railway and minor road segments, and urban approaches into Middlesbrough. Elevation changes, exposed stretches, and potential boggy or overgrown paths.",
+    "safety_notes": "This is a hard, 50 km route. Consider splitting into two days or starting very early. Check weather forecasts; exposed moorland sections can be windy and cold. Carry map and compass; some sections have limited signage. Stay aware of traffic on road and rail heritage paths. Ensure you have enough water and food, and inform someone of your plan and timings. In remote segments, mobile signal may be unreliable.",
+    "recommended_gear": [
+      "Map and compass (OS recommended)",
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and trousers",
+      "Insulating layer (fleece or down)",
+      "Warm hat and gloves",
+      "Water bottle or hydration system (min 2 L)",
+      "High-energy food and snacks",
+      "First aid kit and blister care",
+      "Headlamp with spare batteries and a portable power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best weather and daylight. The hike remains challenging in any season; winter conditions are harsher and require extra preparation.",
+    "seo": {
+      "title": "Alternatives in Teesdale Way: Middleton in Teesdale to Middlesbrough – 50 km Hard Hike",
+      "meta_description": "A demanding 50 km section of the Teesdale Way from Middleton in Teesdale to Middlesbrough in the UK. Learn terrain, safety, and gear for a rewarding long-distance trek.",
+      "h1": "Alternatives in Teesdale Way: Middleton in Teesdale to Middlesbrough"
+    }
+  }
+}

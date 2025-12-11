@@ -1,0 +1,21 @@
+{
+  "id": "osm-15850390",
+  "slug": "magees-walk-15850390",
+  "name": "Magee's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.260897,
+    "lon": -5.9324239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15850390
+  }
+}

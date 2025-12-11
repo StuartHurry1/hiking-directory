@@ -1,0 +1,21 @@
+{
+  "id": "osm-17192637",
+  "slug": "cheddleton-1-17192637",
+  "name": "Cheddleton 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0676848,
+    "lon": -2.0479405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17192637
+  }
+}

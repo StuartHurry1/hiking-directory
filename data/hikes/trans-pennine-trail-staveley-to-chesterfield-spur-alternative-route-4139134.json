@@ -1,0 +1,21 @@
+{
+  "id": "osm-4139134",
+  "slug": "trans-pennine-trail-staveley-to-chesterfield-spur-alternative-route-4139134",
+  "name": "Trans-Pennine Trail (Staveley to Chesterfield spur - alternative route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2386068,
+    "lon": -1.4199893
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4139134
+  }
+}

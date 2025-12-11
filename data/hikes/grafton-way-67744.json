@@ -1,0 +1,21 @@
+{
+  "id": "osm-67744",
+  "slug": "grafton-way-67744",
+  "name": "Grafton Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 89.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1283696,
+    "lon": -1.0044712
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 67744
+  }
+}

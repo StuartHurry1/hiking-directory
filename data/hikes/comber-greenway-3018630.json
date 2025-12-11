@@ -1,0 +1,21 @@
+{
+  "id": "osm-3018630",
+  "slug": "comber-greenway-3018630",
+  "name": "Comber Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6010685,
+    "lon": -5.8963246
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3018630
+  }
+}

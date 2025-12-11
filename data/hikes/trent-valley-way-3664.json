@@ -1,0 +1,21 @@
+{
+  "id": "osm-3664",
+  "slug": "trent-valley-way-3664",
+  "name": "Trent Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.36711,
+    "lon": -0.87304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3664
+  }
+}

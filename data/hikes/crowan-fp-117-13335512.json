@@ -1,0 +1,21 @@
+{
+  "id": "osm-13335512",
+  "slug": "crowan-fp-117-13335512",
+  "name": "Crowan FP 117",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1701028,
+    "lon": -5.2875434
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13335512
+  }
+}

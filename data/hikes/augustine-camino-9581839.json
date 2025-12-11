@@ -1,0 +1,46 @@
+{
+  "id": "osm-9581839",
+  "slug": "augustine-camino-9581839",
+  "name": "Augustine Camino",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 207.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3899551,
+    "lon": 0.5013469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9581839
+  },
+  "ai": {
+    "summary": "Augustine Camino is a challenging long-distance hike in the United Kingdom, approximately 207.2 km in length. The route traverses an unspecified region, featuring a mix of rural, moorland, and woodland terrain that tests endurance and navigation.",
+    "terrain_summary": "Expect varied terrain including uneven trails, grassy moorland, forest paths, and occasional steep ascents. Sections may be exposed to wind and rain; navigation can be tricky where waymarks are sparse, so a map or GPS is recommended.",
+    "safety_notes": "This is a demanding multi-day trek in remote sections. Plan daily stages with safe overnight stops, monitor weather changes, and carry sufficient water and food. Good ankle-support boots, waterproof layers, and a reliable navigation method are essential. Carry a first aid kit, emergency gear, and a means of communication. Inform someone of your itinerary and check in when possible.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Waterproof and windproof jacket",
+      "Insulated layer and moisture-wicking base layers",
+      "Backpack with rain cover and enough capacity for multi-day food and gear",
+      "Map and compass or GPS device with extra batteries",
+      "Headlamp with spare batteries",
+      "Trekking poles",
+      "Sufficient water containers or hydration system and water treatment method",
+      "High-energy food and snacks plus a lightweight stove if needed",
+      "First aid kit and emergency shelter/space blanket",
+      "Sunscreen, sunglasses, and a wide-brimmed hat",
+      "Personal safety item (whistle, multi-tool) and, if available, a PLB or mobile with offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) are generally favorable, offering longer daylight and better trail conditions, but weather in the UK can still be unpredictable.",
+    "seo": {
+      "title": "Augustine Camino – 207.2 km Hard Hike in the UK",
+      "meta_description": "Plan your route on the Augustine Camino, a demanding 207.2 km hike in the United Kingdom. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Augustine Camino: A 207.2 km Hard Hike in the UK"
+    }
+  }
+}

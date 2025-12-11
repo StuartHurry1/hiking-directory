@@ -1,0 +1,21 @@
+{
+  "id": "osm-7476127",
+  "slug": "the-broomway-7476127",
+  "name": "The Broomway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5483083,
+    "lon": 0.8398695
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7476127
+  }
+}

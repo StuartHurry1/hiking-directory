@@ -1,0 +1,21 @@
+{
+  "id": "osm-593557",
+  "slug": "john-ray-walk-593557",
+  "name": "John Ray Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8058183,
+    "lon": 0.6386936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 593557
+  }
+}

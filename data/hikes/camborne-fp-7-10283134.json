@@ -1,0 +1,21 @@
+{
+  "id": "osm-10283134",
+  "slug": "camborne-fp-7-10283134",
+  "name": "Camborne FP 7",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2284321,
+    "lon": -5.3406463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10283134
+  }
+}

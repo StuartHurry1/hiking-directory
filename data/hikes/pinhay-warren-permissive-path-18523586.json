@@ -1,0 +1,21 @@
+{
+  "id": "osm-18523586",
+  "slug": "pinhay-warren-permissive-path-18523586",
+  "name": "Pinhay Warren Permissive Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7138961,
+    "lon": -2.9681316
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18523586
+  }
+}

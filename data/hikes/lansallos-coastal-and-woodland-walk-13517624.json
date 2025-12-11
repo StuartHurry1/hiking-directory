@@ -1,0 +1,23 @@
+{
+  "id": "osm-13517624",
+  "slug": "lansallos-coastal-and-woodland-walk-13517624",
+  "name": "Lansallos coastal and woodland walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3281889,
+    "lon": -4.5594516
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13517624
+  }
+}

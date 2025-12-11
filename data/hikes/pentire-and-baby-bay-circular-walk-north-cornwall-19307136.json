@@ -1,0 +1,23 @@
+{
+  "id": "osm-19307136",
+  "slug": "pentire-and-baby-bay-circular-walk-north-cornwall-19307136",
+  "name": "Pentire and Baby Bay circular walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5815857,
+    "lon": -4.9054724
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307136
+  }
+}

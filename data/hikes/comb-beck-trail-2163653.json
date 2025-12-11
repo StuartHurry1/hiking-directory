@@ -1,0 +1,21 @@
+{
+  "id": "osm-2163653",
+  "slug": "comb-beck-trail-2163653",
+  "name": "Comb Beck Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6134548,
+    "lon": -3.217517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2163653
+  }
+}

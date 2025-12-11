@@ -1,0 +1,21 @@
+{
+  "id": "osm-9786613",
+  "slug": "longshaw-woodland-explorer-walk-longshaw-estate-9786613",
+  "name": "Longshaw Woodland Explorer Walk, Longshaw Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.315892,
+    "lon": -1.6041468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9786613
+  }
+}

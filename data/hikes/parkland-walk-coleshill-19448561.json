@@ -1,0 +1,21 @@
+{
+  "id": "osm-19448561",
+  "slug": "parkland-walk-coleshill-19448561",
+  "name": "Parkland Walk, Coleshill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6397807,
+    "lon": -1.6610147
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19448561
+  }
+}

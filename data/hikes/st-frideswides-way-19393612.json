@@ -1,0 +1,21 @@
+{
+  "id": "osm-19393612",
+  "slug": "st-frideswides-way-19393612",
+  "name": "St Frideswide’s Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7500456,
+    "lon": -1.255282
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19393612
+  }
+}

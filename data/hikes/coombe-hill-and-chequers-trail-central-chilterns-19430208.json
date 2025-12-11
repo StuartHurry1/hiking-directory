@@ -1,0 +1,21 @@
+{
+  "id": "osm-19430208",
+  "slug": "coombe-hill-and-chequers-trail-central-chilterns-19430208",
+  "name": "Coombe Hill and Chequers Trail, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7481508,
+    "lon": -0.7677353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19430208
+  }
+}

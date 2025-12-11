@@ -1,0 +1,21 @@
+{
+  "id": "osm-5616821",
+  "slug": "fairy-lochan-5616821",
+  "name": "Fairy Lochan",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0600877,
+    "lon": -2.8314449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5616821
+  }
+}

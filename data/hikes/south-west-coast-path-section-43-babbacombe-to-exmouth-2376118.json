@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376118",
+  "slug": "south-west-coast-path-section-43-babbacombe-to-exmouth-2376118",
+  "name": "South West Coast Path (Section 43: Babbacombe to Exmouth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4849119,
+    "lon": -3.5221603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376118
+  }
+}

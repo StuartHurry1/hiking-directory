@@ -1,0 +1,21 @@
+{
+  "id": "osm-78462",
+  "slug": "walk-around-wybunbury-78462",
+  "name": "Walk around Wybunbury",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0465896,
+    "lon": -2.4544507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 78462
+  }
+}

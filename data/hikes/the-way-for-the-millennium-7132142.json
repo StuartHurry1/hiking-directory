@@ -1,0 +1,21 @@
+{
+  "id": "osm-7132142",
+  "slug": "the-way-for-the-millennium-7132142",
+  "name": "The Way for the Millennium",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 284.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8068732,
+    "lon": -1.6552064
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7132142
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376018",
+  "slug": "south-west-coast-path-section-37-newton-ferrers-to-bigbury-on-sea-2376018",
+  "name": "South West Coast Path (section 37 Newton Ferrers to Bigbury on Sea)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3123706,
+    "lon": -4.0505382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376018
+  }
+}

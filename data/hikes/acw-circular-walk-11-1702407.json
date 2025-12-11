@@ -1,0 +1,47 @@
+{
+  "id": "osm-1702407",
+  "slug": "acw-circular-walk-11-1702407",
+  "name": "ACW Circular Walk 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4221408,
+    "lon": -1.404963
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1702407
+  },
+  "ai": {
+    "summary": "A strenuous 27 km circular hike labeled ACW Circular Walk 11 in the UK, designed for experienced walkers with a high level of fitness. The route features long distances, mixed terrain and potential elevation gain, requiring good navigation and stamina.",
+    "terrain_summary": "Expect a mix of grassy paths, mud, uneven ground, and occasional rocky sections, with stiles and gates. The hike may traverse fields, woodlands and exposed viewpoints; surfaces can be soft and soggy after rain, and large sections may involve long climbs or descents.",
+    "safety_notes": "Plan for a long day and check the forecast; wear sturdy boots and layered clothing; carry map and navigation tools and know your route; tell someone your plan and estimated return time; bring ample water and high-energy food; pack a weatherproof jacket, optional hat and gloves, and a headtorch for late finishes; be prepared for sudden weather changes, keep to marked paths, and have a means of signaling (phone with offline map or whistle) in case of emergency; in rural areas be mindful of livestock and farm gateways; daylight hours may be limited in autumn and winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2-3 liters depending on conditions)",
+      "Map and compass or GPS device",
+      "Layered, weather-appropriate clothing (base layer, insulating layer, and waterproof outer shell)",
+      "Lightweight rain jacket and pants",
+      "Headlamp or flashlight with extra batteries",
+      "High-energy snacks and a portable meal if needed",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Phone with offline maps and emergency numbers",
+      "Compact space blanket or emergency shelter",
+      "Dry bag or waterproof liner for valuables"
+    ],
+    "best_seasons": "Spring to autumn. Dry, longer days offer the best conditions in the UK, though be prepared for variable weather; winter hiking is possible with full winter gear and shorter daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 11 – 27 km Hard Circular Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 11, a challenging 27 km circular hike in the UK. Learn about terrain, safety tips, and essential gear for experienced hikers.",
+      "h1": "ACW Circular Walk 11: 27 km Hard Circular Hike (UK)"
+    }
+  }
+}

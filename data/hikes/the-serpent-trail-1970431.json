@@ -1,0 +1,21 @@
+{
+  "id": "osm-1970431",
+  "slug": "the-serpent-trail-1970431",
+  "name": "The Serpent Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 369.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0891768,
+    "lon": -0.7084537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1970431
+  }
+}

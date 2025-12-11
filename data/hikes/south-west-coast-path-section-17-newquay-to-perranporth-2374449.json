@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374449",
+  "slug": "south-west-coast-path-section-17-newquay-to-perranporth-2374449",
+  "name": "South West Coast Path (Section 17: Newquay to Perranporth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4133768,
+    "lon": -5.0865473
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374449
+  }
+}

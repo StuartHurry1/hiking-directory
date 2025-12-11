@@ -1,0 +1,21 @@
+{
+  "id": "osm-16254130",
+  "slug": "wherry-lines-walk-8-16254130",
+  "name": "Wherry Lines Walk 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6346855,
+    "lon": 1.543832
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16254130
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16123349",
+  "slug": "st-abbs-head-trail-16123349",
+  "name": "St. Abb's Head Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8997937,
+    "lon": -2.1403989
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16123349
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-19060074",
+  "slug": "accessible-garden-route-sizergh-19060074",
+  "name": "Accessible Garden Route, Sizergh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.284709,
+    "lon": -2.772006
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19060074
+  },
+  "ai": {
+    "summary": "A short, easy, fully accessible garden route at Sizergh, UK, covering about 2.2 km of flat, well-maintained paths through formal gardens and parkland. Suitable for wheelchairs and mobility scooters, families, and casual walkers.",
+    "terrain_summary": "Predominantly flat, with compacted gravel and paved paths. The route is designed for accessibility, with gentle gradients and wide, even surfaces. Some sections may be grassy margins or damp after rain; seating is available at several points.",
+    "safety_notes": "Weather can change quickly in the UK; paths can be slippery when wet. Stick to marked routes, mind uneven surfaces after rain, and avoid stepping off path near garden beds. Keep an eye on children. Carry water and a charged phone; if using a mobility aid, ensure battery life and clearance at gates; contact staff for assistance if needed.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (waterproof jacket or umbrella)",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Mobility aid if needed (wheelchair or mobility scooter)",
+      "Lightweight backpack with essentials"
+    ],
+    "best_seasons": "Spring to autumn; particularly late spring and early autumn when paths are dry and gardens are in bloom.",
+    "seo": {
+      "title": "Accessible Garden Route, Sizergh — Easy 2.2 km Wheelchair-Friendly Walk in the UK",
+      "meta_description": "Explore the Accessible Garden Route at Sizergh, a 2.2 km easy, wheelchair-friendly stroll through UK gardens. Practical safety tips, gear suggestions, and best seasons.",
+      "h1": "Accessible Garden Route, Sizergh (2.2 km) – Easy, Wheelchair-Friendly Garden Walk"
+    }
+  }
+}

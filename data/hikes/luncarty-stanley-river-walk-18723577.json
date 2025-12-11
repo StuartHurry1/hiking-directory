@@ -1,0 +1,23 @@
+{
+  "id": "osm-18723577",
+  "slug": "luncarty-stanley-river-walk-18723577",
+  "name": "Luncarty Stanley River Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4553479,
+    "lon": -3.4694121
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18723577
+  }
+}

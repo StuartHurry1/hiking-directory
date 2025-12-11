@@ -1,0 +1,23 @@
+{
+  "id": "osm-11565736",
+  "slug": "king-charles-iii-england-coast-path-south-bents-to-amble-11565736",
+  "name": "King Charles III England Coast Path (South Bents to Amble)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 141.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9442261,
+    "lon": -1.3654009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11565736
+  }
+}

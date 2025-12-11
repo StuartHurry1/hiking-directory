@@ -1,0 +1,21 @@
+{
+  "id": "osm-18215409",
+  "slug": "thornham-circular-18215409",
+  "name": "Thornham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.959257,
+    "lon": 0.5724814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18215409
+  }
+}

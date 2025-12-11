@@ -1,0 +1,23 @@
+{
+  "id": "osm-19022282",
+  "slug": "southwood-estate-coast-to-coast-walk-southwood-19022282",
+  "name": "Southwood Estate Coast to Coast Walk, Southwood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8477973,
+    "lon": -5.1066612
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19022282
+  }
+}

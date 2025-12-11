@@ -1,0 +1,21 @@
+{
+  "id": "osm-17048886",
+  "slug": "geotrail-saltwells-lnr-17048886",
+  "name": "GeoTrail (Saltwells LNR)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.486865,
+    "lon": -2.0947742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17048886
+  }
+}

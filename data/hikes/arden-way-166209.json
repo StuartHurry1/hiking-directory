@@ -1,0 +1,47 @@
+{
+  "id": "osm-166209",
+  "slug": "arden-way-166209",
+  "name": "Arden Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 94.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2474085,
+    "lon": -1.7996097
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 166209
+  },
+  "ai": {
+    "summary": "Arden Way is a demanding long-distance hike in the UK, spanning about 94.3 km. It traverses varied countryside and requires careful planning, reliable navigation, and suitable gear for multi-day trekking.",
+    "terrain_summary": "Expect a mixed surface route across rural lanes, fields, and woodland, with occasional road sections. Footing may be uneven and muddy after rain; there can be stiles and short steep segments. Because of the distance and variable weather, the route is best tackled as a multi-day trek with planned daily stages.",
+    "safety_notes": "Carry a detailed map and compass or GPS and know how to use them. Share your itinerary with someone and check in daily if possible. Check weather forecasts and be prepared for sudden changes common in the UK; bring waterproof layers. Stay hydrated, carry enough food, and plan regular rest breaks. Watch for road traffic on exposed sections and use reflective gear in low visibility. In remote sections, emergencies can take time; carry a basic first-aid kit and a whistle, and have a plan for signaling for help and contacting local authorities if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Moisture-wicking base layers and multiple insulating layers",
+      "Waterproof jacket and overpants",
+      "Wide-brimmed hat and gloves",
+      "Backpack 25-40 L with rain cover",
+      "Hydration system or 2-3 L of water capacity",
+      "Map and compass (and/or GPS device) with known routes",
+      "Headlamp with extra batteries",
+      "First-aid kit and blister care supplies",
+      "Emergency whistle and multi-tool",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Lightweight sleeping bag and emergency bivvy or tent for multi-day trips",
+      "Food, energy bars, and lightweight stove/pot if camping"
+    ],
+    "best_seasons": "Late spring to early autumn (April to October) are usually best for Arden Way in the UK, when days are longer and weather is milder. Be prepared for wet conditions year-round and reduced daylight in winter.",
+    "seo": {
+      "title": "Arden Way – 94.3 km Hard Hike in the UK",
+      "meta_description": "Plan the Arden Way, a challenging 94.3 km hiking route in the United Kingdom. Practical tips on terrain, safety, gear, best seasons and route planning.",
+      "h1": "Arden Way: UK 94.3 km Hard Hiking Trail"
+    }
+  }
+}

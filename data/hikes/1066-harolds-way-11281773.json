@@ -1,0 +1,44 @@
+{
+  "id": "osm-11281773",
+  "slug": "1066-harolds-way-11281773",
+  "name": "1066 Harold's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4376598,
+    "lon": 0.223089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11281773
+  },
+  "ai": {
+    "summary": "1066 Harold's Way is a demanding 46 km long-distance hike in the UK that traverses a mix of coastal, downs, and rural landscapes. Expect significant elevation changes, rough trails, and varied weather, requiring good navigation and solid planning. The route offers historic scenery and a sense of expedition rather than a casual day hike.",
+    "terrain_summary": "Expect a mix of surfaces: stony and muddy tracks, chalk downland paths, grassy fields, coastal cliffs or shingle sections, woodland bridleways, and occasional road or village sections. Obstacles may include gates or stiles, uneven footing, and exposed ridgelines with changing winds.",
+    "safety_notes": "Plan for long days, variable weather, and limited services along the route. Bring waterproofs, extra layers, and sufficient food and water. Wear sturdy boots, bring a map and compass (and GPS as backup). Check tide times if any coastal segments; avoid exposed sections in high winds. Share your plan, carry a charged phone with offline maps, and know emergency contacts. Respect private land and farm animals; close gates and follow waymarked paths.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and an insulating layer",
+      "Hat, gloves and sun protection",
+      "Map, compass and/or GPS device; fully charged",
+      "Water bottle or hydration system (2–3 liters) and high-energy snacks",
+      "Lightweight emergency shelter or bivy",
+      "First aid kit and blister care",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Headlamp with spare batteries",
+      "Phone power bank and basic survival basics"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for daylight and drier, more navigable trail conditions; can be attempted in winter with extra caution and preparation.",
+    "seo": {
+      "title": "1066 Harold's Way – 46km Hard Hike in the UK",
+      "meta_description": "Explore the challenging 46 km of 1066 Harold's Way in the UK. Comprehensive route overview, terrain insights, safety tips, and essential gear.",
+      "h1": "1066 Harold's Way – 46km Hard Hike (UK)"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19251266",
+  "slug": "shropshire-way-link-19251266",
+  "name": "Shropshire Way - link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7216242,
+    "lon": -2.6949815
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19251266
+  }
+}

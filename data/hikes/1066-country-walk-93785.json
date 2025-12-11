@@ -1,0 +1,46 @@
+{
+  "id": "osm-93785",
+  "slug": "1066-country-walk-93785",
+  "name": "1066 Country Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 126.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9133803,
+    "lon": 0.6804813
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 93785
+  },
+  "ai": {
+    "summary": "The 1066 Country Walk is a challenging long-distance route in the UK, spanning 126.9 km with a hard difficulty. It blends coastal paths, chalk downs, farmland, and rural lanes, offering varied scenery and multiple small settlements along the way.",
+    "terrain_summary": "Expect a mix of coastal cliff paths, pebbly beaches, open downs, farmland tracks, woodlands, and occasional road sections. Surfaces can be uneven, with gates, stiles, and mud after rain. Navigation may require a map or GPS in parts with limited signage.",
+    "safety_notes": "Plan around daylight hours and tides on coastal sections. Carry a detailed map and compass (or a reliable GPS) and know your route. Tell someone your plan and expected finish. Wear sturdy, waterproof boots and bring layers for changing weather. Stay hydrated and energized with regular breaks. Be prepared for fatigue, sudden weather changes, and farm or livestock crossings; watch for busy roads and provide caution at road crossings. Always check local closures before setting out.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Map and compass (or GPS device)",
+      "Fully charged mobile phone with offline maps",
+      "Water bottle or hydration system (2–3 litres)",
+      "High-energy snacks and spare food",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Headlamp or flashlight with spare batteries",
+      "Compact emergency shelter or poncho for sudden weather",
+      "First aid kit and any personal medications",
+      "Whistle, multitool, and emergency blanket",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October) are generally best for milder weather and longer daylight, but coastal winds and rain can occur any time of year.",
+    "seo": {
+      "title": "1066 Country Walk - 126.9 km Hard Hike in the UK",
+      "meta_description": "Discover the 1066 Country Walk, a challenging 126.9 km route through the UK countryside. Read about terrain, safety tips, and gear for this hard-distance hike.",
+      "h1": "1066 Country Walk: A 126.9 km Hard UK Hike"
+    }
+  }
+}

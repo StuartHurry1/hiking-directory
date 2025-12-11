@@ -1,0 +1,21 @@
+{
+  "id": "osm-19529158",
+  "slug": "rhaeadr-ddu-and-coed-ganllwyd-walk-19529158",
+  "name": "Rhaeadr Ddu and Coed Ganllwyd walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8016412,
+    "lon": -3.890248
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19529158
+  }
+}

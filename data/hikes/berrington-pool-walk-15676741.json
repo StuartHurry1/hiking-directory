@@ -1,0 +1,40 @@
+{
+  "id": "osm-15676741",
+  "slug": "berrington-pool-walk-15676741",
+  "name": "Berrington Pool Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.26891,
+    "lon": -2.7189673
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15676741
+  },
+  "ai": {
+    "summary": "Berrington Pool Walk is a short, easy 2.6 km trail in the United Kingdom that follows well-maintained paths beside a tranquil pool. Ideal for families and casual walkers, it offers a peaceful countryside experience with light scenery and manageable terrain.",
+    "terrain_summary": "Mostly flat or gently undulating track with surfaced paths alongside the pool; some sections may be muddy after rain and underfoot may be uneven near the water's edge.",
+    "safety_notes": "Walker's footing can be slippery near the pool after rain. Stay on marked paths, keep children and pets under control, and be aware of weather changes. In low light, use a head torch; carry a small first aid kit and a charged phone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layered)",
+      "Water bottle",
+      "Map or GPS device or smartphone with offline map",
+      "Small first aid kit and basic emergency items",
+      "Snack for energy and sunscreen/light rain gear as needed"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the route is accessible year-round with proper footwear and weather protection.",
+    "seo": {
+      "title": "Berrington Pool Walk - Easy 2.6 km Hike in the UK",
+      "meta_description": "Explore Berrington Pool Walk, a short and easy 2.6 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for walking this scenic route.",
+      "h1": "Berrington Pool Walk: Easy 2.6 km Hike in the UK"
+    }
+  }
+}

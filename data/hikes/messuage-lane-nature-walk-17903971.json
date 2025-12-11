@@ -1,0 +1,21 @@
+{
+  "id": "osm-17903971",
+  "slug": "messuage-lane-nature-walk-17903971",
+  "name": "Messuage Lane Nature Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2069025,
+    "lon": -2.2627365
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17903971
+  }
+}

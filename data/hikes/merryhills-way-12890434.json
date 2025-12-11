@@ -1,0 +1,21 @@
+{
+  "id": "osm-12890434",
+  "slug": "merryhills-way-12890434",
+  "name": "Merryhills Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6548947,
+    "lon": -0.1256214
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12890434
+  }
+}

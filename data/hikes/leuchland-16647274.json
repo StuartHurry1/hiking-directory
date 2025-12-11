@@ -1,0 +1,21 @@
+{
+  "id": "osm-16647274",
+  "slug": "leuchland-16647274",
+  "name": "Leuchland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7331451,
+    "lon": -2.6412372
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647274
+  }
+}

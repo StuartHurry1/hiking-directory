@@ -1,0 +1,21 @@
+{
+  "id": "osm-19318765",
+  "slug": "capability-browns-pleasure-gardens-walk-petworth-19318765",
+  "name": "Capability Brown's Pleasure Gardens walk, Petworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9943506,
+    "lon": -0.6119692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19318765
+  }
+}

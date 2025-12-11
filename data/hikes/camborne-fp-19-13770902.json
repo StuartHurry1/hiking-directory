@@ -1,0 +1,40 @@
+{
+  "id": "osm-13770902",
+  "slug": "camborne-fp-19-13770902",
+  "name": "Camborne FP 19",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2312029,
+    "lon": -5.2932276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13770902
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km stroll along a public footpath. Suitable for beginners and families, with minimal elevation and straightforward terrain.",
+    "terrain_summary": "Predominantly flat or gently undulating public footpath. Expect a compact surface, with occasional grass verges and small uneven patches. Generally easy to traverse with safe footing.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on the marked path and watch for farm gates or livestock where applicable. Check local conditions before you go; even a short route can be affected by rain or mud. Bring water and a light layer for variable UK weather.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light snack",
+      "Light rain jacket or windbreaker",
+      "Map or offline route (optional)"
+    ],
+    "best_seasons": "Year-round; best in spring and autumn, but conditions can be muddy in winter.",
+    "seo": {
+      "title": "Camborne FP 19: Easy 0.5 km Public Footpath Walk in the UK",
+      "meta_description": "Explore Camborne FP 19, a short 0.5 km easy walk in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this gentle hike.",
+      "h1": "Camborne FP 19: 0.5 km Easy Public Footpath Walk"
+    }
+  }
+}

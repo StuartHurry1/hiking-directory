@@ -1,0 +1,21 @@
+{
+  "id": "osm-17962042",
+  "slug": "trunch-circular-walk-17962042",
+  "name": "Trunch Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8625233,
+    "lon": 1.3973182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17962042
+  }
+}

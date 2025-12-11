@@ -1,0 +1,21 @@
+{
+  "id": "osm-19877077",
+  "slug": "ridlands-grove-short-spring-walk-at-limpsfield-common-harewoods-19877077",
+  "name": "Ridlands Grove short spring walk at Limpsfield Common, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2513699,
+    "lon": 0.031393
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877077
+  }
+}

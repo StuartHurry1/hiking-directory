@@ -1,0 +1,43 @@
+{
+  "id": "osm-19133613",
+  "slug": "cadbury-camp-ramble-cadbury-camp-19133613",
+  "name": "Cadbury Camp ramble, Cadbury Camp",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4429461,
+    "lon": -2.7895193
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19133613
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate hike around Cadbury Camp, an Iron Age hill fort in the UK. The route blends grassy paths, gentle ascents, and open countryside with distant views, offering a rewarding walk for those who enjoy history and scenery.",
+    "terrain_summary": "Combination of field paths, grassy lanes, and compact earth tracks. Expect uneven ground, occasional stiles, and mild elevations as you approach the hill fort. Ground can be muddy after rain; wear sturdy footwear.",
+    "safety_notes": "Check local weather and daylight hours before you go. Wear sturdy, supportive footwear and weather-appropriate clothing. Stay on marked paths, be mindful of livestock and gates, and watch for mud and loose stones. Carry a map and compass or GPS, a charged phone, and enough water and snacks. Let someone know your route and expected return time; be prepared for patchy phone signal in rural areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water and snacks (1–2 litres of water recommended)",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Headlamp or flashlight for possible late finishes",
+      "Lightweight rain cover or packable rain jacket",
+      "Fully charged mobile phone and emergency contact information"
+    ],
+    "best_seasons": "Spring to autumn is ideal, when trails are drier and views clearer. The hike can be done year-round, but winter conditions may be slippery, daylight is shorter, and weather can be harsher.",
+    "seo": {
+      "title": "Cadbury Camp Ramble – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Plan a 6.3 km moderate hike around Cadbury Camp. Learn about the terrain, safety considerations, gear recommendations, and the best seasons for hiking in the UK countryside.",
+      "h1": "Cadbury Camp Ramble – 6.3 km Moderate Hike"
+    }
+  }
+}

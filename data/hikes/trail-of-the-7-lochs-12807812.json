@@ -1,0 +1,21 @@
+{
+  "id": "osm-12807812",
+  "slug": "trail-of-the-7-lochs-12807812",
+  "name": "Trail of the 7 Lochs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 136.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3615938,
+    "lon": -4.2541704
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12807812
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19821078",
+  "slug": "crags-constitutional-walk-19821078",
+  "name": "Crags Constitutional Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7753718,
+    "lon": -2.0421436
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19821078
+  }
+}

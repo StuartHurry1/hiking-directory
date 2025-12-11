@@ -1,0 +1,21 @@
+{
+  "id": "osm-10686971",
+  "slug": "carn-brea-fp-23-10686971",
+  "name": "Carn Brea FP 23",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2252116,
+    "lon": -5.2402412
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10686971
+  }
+}

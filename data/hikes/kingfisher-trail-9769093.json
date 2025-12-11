@@ -1,0 +1,21 @@
+{
+  "id": "osm-9769093",
+  "slug": "kingfisher-trail-9769093",
+  "name": "Kingfisher Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3040165,
+    "lon": 0.6391394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9769093
+  }
+}

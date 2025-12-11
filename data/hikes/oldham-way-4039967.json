@@ -1,0 +1,21 @@
+{
+  "id": "osm-4039967",
+  "slug": "oldham-way-4039967",
+  "name": "Oldham Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 179.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5740406,
+    "lon": -1.9801602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4039967
+  }
+}

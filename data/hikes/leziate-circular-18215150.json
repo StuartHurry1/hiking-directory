@@ -1,0 +1,21 @@
+{
+  "id": "osm-18215150",
+  "slug": "leziate-circular-18215150",
+  "name": "Leziate Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7479475,
+    "lon": 0.501367
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18215150
+  }
+}

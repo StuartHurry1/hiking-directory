@@ -1,0 +1,44 @@
+{
+  "id": "osm-19255887",
+  "slug": "borderline-greenway-19255887",
+  "name": "Borderline Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.389228,
+    "lon": -1.7333435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19255887
+  },
+  "ai": {
+    "summary": "Borderline Greenway is a scenic 6.5 km hike in the UK that blends accessible paths with gentle elevation. Designed as a moderate outing, it suits hikers with some day-trail experience and offers varied scenery along the way.",
+    "terrain_summary": "The trail follows a mixture of well-maintained gravel tracks, grassy verges, and sections that can become muddy after rain. Expect occasional gentle ascents, exposed roots, and a short boardwalk by the water's edge. Footing is generally stable, but waterproof footwear is recommended.",
+    "safety_notes": "Weather in the UK can be changeable; check the forecast before you set out. Wear sturdy, waterproof footwear and bring a waterproof layer. Stay on marked paths, carry a map or GPS, and let someone know your planned route and ETA. Bring snacks and enough water, and be prepared for muddy or slippery sections after rain. In low light, carry a flashlight or headlamp.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Water bottle (1-2 liters)",
+      "Lightweight waterproof jacket",
+      "Breathable layers and a hat",
+      "Snacks or energy bars",
+      "Map or offline GPS",
+      "Phone with charged battery and emergency contacts",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly April-October) offer milder weather and longer daylight; winter hiking is possible but conditions can be muddy and daylight hours are reduced.",
+    "seo": {
+      "title": "Borderline Greenway – 6.5 km Moderate Hike in the UK",
+      "meta_description": "Explore Borderline Greenway, a 6.5 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this scenic trail.",
+      "h1": "Borderline Greenway – A 6.5 km Moderate Hike in the UK"
+    }
+  }
+}

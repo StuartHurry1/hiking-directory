@@ -1,0 +1,21 @@
+{
+  "id": "osm-65891",
+  "slug": "wysis-way-65891",
+  "name": "Wysis Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 170.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8822417,
+    "lon": -2.4640589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 65891
+  }
+}

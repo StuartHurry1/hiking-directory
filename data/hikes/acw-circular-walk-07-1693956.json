@@ -1,0 +1,46 @@
+{
+  "id": "osm-1693956",
+  "slug": "acw-circular-walk-07-1693956",
+  "name": "ACW Circular Walk 07",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3468717,
+    "lon": -1.4683215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1693956
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 07 is a challenging 20 km circular hike in the UK. The route combines rugged upland sections with woodland tracks, offering varied scenery, elevation, and potential boggy ground. This hard-grade circuit is best undertaken by experienced walkers with navigation skills and a good fitness level.",
+    "terrain_summary": "Expect a mix of steep climbs and descents, exposed grassy and rocky ridges, muddy tracks, rocky trods, woodland paths, and occasional field stiles. The surface can be uneven with loose stones; some sections may be boggy after rain. Navigation is important in places due to limited waymarking.",
+    "safety_notes": "Check weather forecasts and daylight hours before setting out. Wear sturdy, waterproof hiking boots and bring weather-appropriate clothing. Carry a detailed map and compass or a GPS device; do not rely solely on phone signal. Tackle exposed ridges with caution in windy conditions. Inform someone of your planned route and expected finish time. Carry enough water and snacks; be mindful of fatigue on long ascents. In autumn/winter, use headlamp if there is a chance of finishing after dark.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof breathable jacket and trousers",
+      "Warm layers and hat/gloves as needed",
+      "Map and compass or GPS",
+      "Water bottle or hydration system",
+      "High-energy snacks or lunch",
+      "First aid kit",
+      "Whistle and emergency blanket",
+      "Head torch with extra batteries",
+      "Sunscreen and sunglasses",
+      "Mobile phone with offline maps",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn for best conditions and daylight; can be tackled in winter with proper equipment and shorter daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 07 – 20 km Hard Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 07, a 20 km challenging circular hike in the UK. Terrain, safety tips, gear list, and best seasons for this rugged circuit.",
+      "h1": "ACW Circular Walk 07 – 20 km Hard Circular Hike in the UK"
+    }
+  }
+}

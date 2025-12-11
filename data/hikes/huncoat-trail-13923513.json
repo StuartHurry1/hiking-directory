@@ -1,0 +1,21 @@
+{
+  "id": "osm-13923513",
+  "slug": "huncoat-trail-13923513",
+  "name": "Huncoat Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7605133,
+    "lon": -2.3436461
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13923513
+  }
+}

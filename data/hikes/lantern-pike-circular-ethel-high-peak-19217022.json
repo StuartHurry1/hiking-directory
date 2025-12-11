@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217022",
+  "slug": "lantern-pike-circular-ethel-high-peak-19217022",
+  "name": "Lantern Pike Circular (Ethel), High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3793231,
+    "lon": -1.9470103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217022
+  }
+}

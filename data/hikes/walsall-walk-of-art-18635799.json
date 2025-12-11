@@ -1,0 +1,21 @@
+{
+  "id": "osm-18635799",
+  "slug": "walsall-walk-of-art-18635799",
+  "name": "Walsall Walk of Art",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5858033,
+    "lon": -1.9862786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18635799
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7581462",
+  "slug": "the-oak-walk-hardwick-7581462",
+  "name": "The Oak Walk, Hardwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1664738,
+    "lon": -1.3066929
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7581462
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16146010",
+  "slug": "drumain-dander-16146010",
+  "name": "Drumain Dander",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.218416,
+    "lon": -3.255767
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16146010
+  }
+}

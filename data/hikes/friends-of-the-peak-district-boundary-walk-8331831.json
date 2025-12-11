@@ -1,0 +1,21 @@
+{
+  "id": "osm-8331831",
+  "slug": "friends-of-the-peak-district-boundary-walk-8331831",
+  "name": "Friends of the Peak District Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.048788,
+    "lon": -1.8276729
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8331831
+  }
+}

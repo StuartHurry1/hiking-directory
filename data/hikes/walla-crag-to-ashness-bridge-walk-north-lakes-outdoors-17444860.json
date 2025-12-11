@@ -1,0 +1,24 @@
+{
+  "id": "osm-17444860",
+  "slug": "walla-crag-to-ashness-bridge-walk-north-lakes-outdoors-17444860",
+  "name": "Walla Crag to Ashness Bridge walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5839914,
+    "lon": -3.1124627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17444860
+  }
+}

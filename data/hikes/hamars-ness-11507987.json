@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507987",
+  "slug": "hamars-ness-11507987",
+  "name": "Hamars Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7644733,
+    "lon": -0.8249153
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507987
+  }
+}

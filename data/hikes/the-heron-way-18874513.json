@@ -1,0 +1,21 @@
+{
+  "id": "osm-18874513",
+  "slug": "the-heron-way-18874513",
+  "name": "The Heron Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4950319,
+    "lon": -1.2632724
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18874513
+  }
+}

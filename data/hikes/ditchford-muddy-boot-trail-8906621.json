@@ -1,0 +1,21 @@
+{
+  "id": "osm-8906621",
+  "slug": "ditchford-muddy-boot-trail-8906621",
+  "name": "Ditchford Muddy Boot Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3013051,
+    "lon": -0.6267433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8906621
+  }
+}

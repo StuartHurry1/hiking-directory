@@ -1,0 +1,21 @@
+{
+  "id": "osm-12858065",
+  "slug": "grand-union-canal-aylesbury-arm-walk-12858065",
+  "name": "Grand Union Canal (Aylesbury Arm) Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8185991,
+    "lon": -0.6670767
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12858065
+  }
+}

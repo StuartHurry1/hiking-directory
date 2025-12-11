@@ -1,0 +1,21 @@
+{
+  "id": "osm-17141127",
+  "slug": "lark-rise-farm-walks-route-2-yellow-markers-17141127",
+  "name": "Lark Rise Farm Walks (Route 2 - Yellow Markers)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1765239,
+    "lon": 0.0597291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17141127
+  }
+}

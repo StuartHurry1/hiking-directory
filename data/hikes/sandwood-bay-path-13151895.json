@@ -1,0 +1,23 @@
+{
+  "id": "osm-13151895",
+  "slug": "sandwood-bay-path-13151895",
+  "name": "Sandwood Bay path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.4910957,
+    "lon": -5.0989601
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13151895
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "osm-17795178",
+  "slug": "blickling-circular-walk-17795178",
+  "name": "Blickling Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8108072,
+    "lon": 1.227584
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17795178
+  },
+  "ai": {
+    "summary": "A demanding 22 km circular hike around the Blickling Estate in the UK, combining long distances with varied countryside terrain. Expect fields, gravel tracks, woodland paths, and occasional road sections. Suitable for experienced hikers prepared for weather changes and mud; this is a full-day outing with rural scenery and estate views.",
+    "terrain_summary": "Varied countryside terrain: grassy fields, dirt and gravel tracks, intermittent woodland paths, and some road sections. Expect gates and stiles, potential mud in wet weather, and occasional gentle ascents. Mostly flat to gently rolling, with exposure to weather on open sections.",
+    "safety_notes": "Check access and any estate-specific restrictions before starting. Carry a map and compass (or GPS) and ensure your phone is charged. Wear sturdy waterproof boots and dress in layers; be prepared for sudden weather changes. Bring enough water and snacks; be mindful of livestock and other trail users on shared paths. Plan for daylight hours and have a means of signaling for help (whistle, etc.). If navigation feels uncertain or conditions are poor, consider turning back or shortening the route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, fleece, waterproof outer shell)",
+      "Daypack (15–25 L) with waterproof cover",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS) and a fully charged phone",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Weather-appropriate rain gear (jacket and pants)",
+      "Headlamp or small flashlight with spare batteries",
+      "First aid kit",
+      "Whistle and multi-tool",
+      "Trekking poles (optional but helpful on long days)",
+      "Insect repellent and any personal medications",
+      "Emergency blanket or bivvy sack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for longer daylight and better trail conditions; winter hiking is possible with extra caution, shorter daylight, and more mud.",
+    "seo": {
+      "title": "Blickling Circular Walk – 22 km Hard Hike in the UK",
+      "meta_description": "Plan your Blickling Circular Walk: a 22 km challenging circular hike in the UK, featuring fields, tracks and woodlands around the Blickling Estate. Gear, safety tips, and route overview.",
+      "h1": "Blickling Circular Walk (22 km) – Hard Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9395127",
+  "slug": "mineral-valleys-walk-st-johns-chapel-9395127",
+  "name": "Mineral Valleys Walk: St. John's Chapel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7365246,
+    "lon": -2.1807578
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9395127
+  }
+}

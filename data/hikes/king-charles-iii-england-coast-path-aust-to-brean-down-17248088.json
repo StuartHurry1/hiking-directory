@@ -1,0 +1,23 @@
+{
+  "id": "osm-17248088",
+  "slug": "king-charles-iii-england-coast-path-aust-to-brean-down-17248088",
+  "name": "King Charles III England Coast Path: Aust to Brean Down",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 111.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5981575,
+    "lon": -2.6281303
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17248088
+  }
+}

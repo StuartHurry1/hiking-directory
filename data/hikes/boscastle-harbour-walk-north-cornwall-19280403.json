@@ -1,0 +1,40 @@
+{
+  "id": "osm-19280403",
+  "slug": "boscastle-harbour-walk-north-cornwall-19280403",
+  "name": "Boscastle Harbour walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6899343,
+    "lon": -4.6894488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280403
+  },
+  "ai": {
+    "summary": "A short, easy coastal stroll along Boscastle Harbour in North Cornwall, offering harbour views, gentle terrain, and a pleasant glimpse of the Cornish coast. This 2.4 km route is suitable for most ages and fitness levels.",
+    "terrain_summary": "Mostly flat harbour-side paths with a mix of tarmac and compact gravel. The route is well-made but can be uneven or slippery when wet, and some sections run close to the water with low parapets. Expect a few gentle inclines and steps near the harbour.",
+    "safety_notes": "Potential hazards include wet and slippery surfaces after rain, windy exposed sections along the coast, and proximity to the water. Stay on marked paths, supervise children, and be mindful of tides and crowds near the harbour at peak times. Wear sturdy footwear and bring a light layer for changing coastal conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Phone with emergency numbers",
+      "Small backpack"
+    ],
+    "best_seasons": "Spring, Summer and early Autumn (roughly March to October) offer the best weather and daylight for this short coastal walk.",
+    "seo": {
+      "title": "Boscastle Harbour Walk – Easy 2.4 km Coastal Stroll in North Cornwall, UK",
+      "meta_description": "Explore Boscastle Harbour with this easy 2.4 km coastal walk in North Cornwall. A flat, scenic route ideal for all ages, with harbour and sea views.",
+      "h1": "Boscastle Harbour Walk – Easy 2.4 km Coastal Stroll in North Cornwall"
+    }
+  }
+}

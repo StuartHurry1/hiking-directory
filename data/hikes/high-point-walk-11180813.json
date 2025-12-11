@@ -1,0 +1,21 @@
+{
+  "id": "osm-11180813",
+  "slug": "high-point-walk-11180813",
+  "name": "High Point Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3364413,
+    "lon": 0.9924587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11180813
+  }
+}

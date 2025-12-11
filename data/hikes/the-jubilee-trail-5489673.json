@@ -1,0 +1,21 @@
+{
+  "id": "osm-5489673",
+  "slug": "the-jubilee-trail-5489673",
+  "name": "The Jubilee Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8759914,
+    "lon": -1.6567851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5489673
+  }
+}

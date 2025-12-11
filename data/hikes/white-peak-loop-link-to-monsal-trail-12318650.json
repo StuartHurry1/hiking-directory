@@ -1,0 +1,21 @@
+{
+  "id": "osm-12318650",
+  "slug": "white-peak-loop-link-to-monsal-trail-12318650",
+  "name": "White Peak Loop - Link to Monsal Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2706631,
+    "lon": -1.8845711
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12318650
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18085727",
+  "slug": "linn-of-dee-circuit-18085727",
+  "name": "Linn of Dee Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.990179,
+    "lon": -3.5350783
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18085727
+  }
+}

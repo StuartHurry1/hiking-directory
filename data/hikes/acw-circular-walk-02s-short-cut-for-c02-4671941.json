@@ -1,0 +1,42 @@
+{
+  "id": "osm-4671941",
+  "slug": "acw-circular-walk-02s-short-cut-for-c02-4671941",
+  "name": "ACW Circular Walk 02S (short-cut for C02)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4096809,
+    "lon": -1.6393788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4671941
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 02S is a short, easy 2.9 km circular hike in the UK, designed as a shortcut variant of the ACW route. It’s suitable for beginners and families looking for a quick loop with light terrain and gentle gradients.",
+    "terrain_summary": "The route blends paved paths with compact dirt tracks and some grassy sections. Expect flat to gently undulating terrain, occasional curb crossings, and potential mud after rain; good footwear is recommended.",
+    "safety_notes": "This is an easy stroll, but watch for uneven surfaces, steps, and road crossings. Check the weather and daylight hours before you go, wear sturdy shoes, bring water, and carry a map or have offline navigation available. Stay on marked paths and supervise children; in wet conditions allow extra stopping distance.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Small backpack",
+      "Map or offline navigation app",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring through autumn are ideal. Winter hikes are possible but can be shorter in daylight with more slippery surfaces.",
+    "seo": {
+      "title": "ACW Circular Walk 02S – Short Shortcut (2.9 km, Easy) | UK Walks",
+      "meta_description": "Discover ACW Circular Walk 02S, a 2.9 km easy circular hike in the UK. Learn about the terrain, safety tips, gear, and best seasons for this quick loop.",
+      "h1": "ACW Circular Walk 02S (Short Shortcut) – 2.9 km Easy Circular Hike"
+    }
+  }
+}

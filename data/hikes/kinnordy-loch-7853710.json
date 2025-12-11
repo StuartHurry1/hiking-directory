@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853710",
+  "slug": "kinnordy-loch-7853710",
+  "name": "Kinnordy Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6770136,
+    "lon": -3.0171766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853710
+  }
+}

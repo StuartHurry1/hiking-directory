@@ -1,0 +1,21 @@
+{
+  "id": "osm-16160353",
+  "slug": "glen-canisp-trail-16160353",
+  "name": "Glen Canisp Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.1479336,
+    "lon": -5.2404499
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16160353
+  }
+}

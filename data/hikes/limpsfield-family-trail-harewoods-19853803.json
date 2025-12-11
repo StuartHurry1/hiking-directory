@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853803",
+  "slug": "limpsfield-family-trail-harewoods-19853803",
+  "name": "Limpsfield Family Trail, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2507533,
+    "lon": 0.0458134
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853803
+  }
+}

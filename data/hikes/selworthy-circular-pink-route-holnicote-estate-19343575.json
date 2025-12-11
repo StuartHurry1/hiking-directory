@@ -1,0 +1,21 @@
+{
+  "id": "osm-19343575",
+  "slug": "selworthy-circular-pink-route-holnicote-estate-19343575",
+  "name": "Selworthy Circular Pink Route, Holnicote Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2096819,
+    "lon": -3.5461735
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19343575
+  }
+}

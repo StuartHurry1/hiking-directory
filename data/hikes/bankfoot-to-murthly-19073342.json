@@ -1,0 +1,43 @@
+{
+  "id": "osm-19073342",
+  "slug": "bankfoot-to-murthly-19073342",
+  "name": "Bankfoot to Murthly",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5037281,
+    "lon": -3.5157799
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19073342
+  },
+  "ai": {
+    "summary": "A scenic rural hike from Bankfoot to Murthly in the UK, covering about 8.8 km on a mix of tracks and minor roads. The route is moderate in difficulty, suitable for hikers with basic fitness, and offers open countryside, hedgerows, and possible woodland sections.",
+    "terrain_summary": "Terrain is a mix of rural tracks, field edges, and occasional small roads. Expect uneven surfaces, grass verges, and occasional muddy patches after rain. There are gentle gradients and some sections may be exposed to wind; waterproof footwear and layers are recommended.",
+    "safety_notes": "Plan for changeable UK weather: check forecasts and daylight hours. Wear sturdy footwear and layered clothing, and bring waterproof gear. Carry a map and compass or GPS, a charged phone, and a small first-aid kit. Tell someone your planned route and expected return time. Stay on designated paths, be mindful of livestock on farmland, and watch for traffic on any road sections. Bring water and snacks; adjust plans if conditions become unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket and trousers)",
+      "Map and compass or GPS device",
+      "Charged mobile phone with offline maps",
+      "Water and high-energy snacks",
+      "Lightweight rain cover or poncho",
+      "Small first-aid kit",
+      "Headlamp or flashlight (plus extra batteries)",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring to Autumn (April–October)",
+    "seo": {
+      "title": "Bankfoot to Murthly Hike - 8.8 km Moderate Trail in the UK",
+      "meta_description": "Discover the Bankfoot to Murthly route in the UK: an 8.8 km moderate hike through rural scenery, with terrain, safety tips, and gear recommendations.",
+      "h1": "Bankfoot to Murthly: 8.8 km Moderate Hike"
+    }
+  }
+}

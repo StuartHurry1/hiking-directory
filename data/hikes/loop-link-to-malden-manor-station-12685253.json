@@ -1,0 +1,21 @@
+{
+  "id": "osm-12685253",
+  "slug": "loop-link-to-malden-manor-station-12685253",
+  "name": "LOOP link to Malden Manor station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3840728,
+    "lon": -0.2654185
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12685253
+  }
+}

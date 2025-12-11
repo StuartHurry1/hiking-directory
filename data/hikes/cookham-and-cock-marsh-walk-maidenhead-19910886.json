@@ -1,0 +1,21 @@
+{
+  "id": "osm-19910886",
+  "slug": "cookham-and-cock-marsh-walk-maidenhead-19910886",
+  "name": "Cookham and Cock Marsh Walk, Maidenhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.559835,
+    "lon": -0.7140148
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19910886
+  }
+}

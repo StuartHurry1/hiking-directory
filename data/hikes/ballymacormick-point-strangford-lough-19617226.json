@@ -1,0 +1,42 @@
+{
+  "id": "osm-19617226",
+  "slug": "ballymacormick-point-strangford-lough-19617226",
+  "name": "Ballymacormick Point, Strangford Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6674312,
+    "lon": -5.6366812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617226
+  },
+  "ai": {
+    "summary": "A short, easy coastal walk at Ballymacormick Point overlooking Strangford Lough. The route is about 4.2 km with mostly flat terrain and minimal ascent, suitable for beginners, families, and visitors seeking sea views without a big climb.",
+    "terrain_summary": "Coastal path along Ballymacormick Point with a mix of compact gravel and grassy sections. Expect some uneven or rocky patches near the headland and potential muddy areas after rain. Strong coastal winds are common and parts may be exposed.",
+    "safety_notes": "Check tide times and weather before heading out since coastal paths can be affected by tides and rapid weather changes. Stay on marked paths, wear sturdy footwear, and dress in layers. Be cautious of slippery surfaces after rain and keep a safe distance from cliff edges. Carry water and basic first aid, and note that mobile coverage may be limited in remote stretches.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Water and a light snack",
+      "Sunscreen, hat, and sunglasses",
+      "Map, GPS, or offline route information",
+      "Phone with emergency contacts and a basic first aid kit",
+      "Small first aid kit, blister care supplies, and a whistle",
+      "Lightweight rain cover or extra layer for wind protection"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder conditions and better visibility; the walk is doable year-round with proper gear.",
+    "seo": {
+      "title": "Ballymacormick Point Walk – Strangford Lough, UK (4.2 km, Easy)",
+      "meta_description": "Explore Ballymacormick Point on Strangford Lough with an easy 4.2 km coastal walk. Practical safety tips, gear list, and best seasons.",
+      "h1": "Ballymacormick Point Walk – Strangford Lough (4.2 km, Easy)"
+    }
+  }
+}

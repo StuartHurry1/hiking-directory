@@ -1,0 +1,21 @@
+{
+  "id": "osm-2643635",
+  "slug": "coventry-hard-access-paths-2643635",
+  "name": "Coventry Hard Access Paths",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3832514,
+    "lon": -1.4578123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2643635
+  }
+}

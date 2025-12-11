@@ -1,0 +1,21 @@
+{
+  "id": "osm-10383474",
+  "slug": "crowan-fp-57-ground-truth-10383474",
+  "name": "Crowan FP 57 Ground truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1819051,
+    "lon": -5.3199041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10383474
+  }
+}

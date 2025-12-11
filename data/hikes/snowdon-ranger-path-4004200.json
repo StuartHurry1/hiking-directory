@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004200",
+  "slug": "snowdon-ranger-path-4004200",
+  "name": "Snowdon Ranger Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0764351,
+    "lon": -4.1220466
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004200
+  }
+}

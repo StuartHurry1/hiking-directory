@@ -1,0 +1,21 @@
+{
+  "id": "osm-2152699",
+  "slug": "new-town-trail-2152699",
+  "name": "New Town Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6405079,
+    "lon": -4.6510684
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2152699
+  }
+}

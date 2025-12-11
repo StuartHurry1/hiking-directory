@@ -1,0 +1,23 @@
+{
+  "id": "osm-18609147",
+  "slug": "the-crystal-canal-walk-18609147",
+  "name": "The Crystal Canal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4609152,
+    "lon": -2.1489184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18609147
+  }
+}

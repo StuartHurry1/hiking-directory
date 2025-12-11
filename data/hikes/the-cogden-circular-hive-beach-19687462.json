@@ -1,0 +1,21 @@
+{
+  "id": "osm-19687462",
+  "slug": "the-cogden-circular-hive-beach-19687462",
+  "name": "The Cogden Circular, Hive Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6948174,
+    "lon": -2.7061857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19687462
+  }
+}

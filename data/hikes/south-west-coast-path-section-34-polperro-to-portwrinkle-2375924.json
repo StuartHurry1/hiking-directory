@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375924",
+  "slug": "south-west-coast-path-section-34-polperro-to-portwrinkle-2375924",
+  "name": "South West Coast Path (Section 34: Polperro to Portwrinkle)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3314668,
+    "lon": -4.5184028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375924
+  }
+}

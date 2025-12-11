@@ -1,0 +1,23 @@
+{
+  "id": "osm-18626609",
+  "slug": "sutton-park-archeology-walk-6-bracebridge-pool-18626609",
+  "name": "Sutton Park Archeology Walk 6: Bracebridge Pool",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5787739,
+    "lon": -1.849225
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18626609
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2683563",
+  "slug": "the-shipwrights-way-2683563",
+  "name": "The Shipwrights Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 211.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.181598,
+    "lon": -0.8684973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2683563
+  }
+}

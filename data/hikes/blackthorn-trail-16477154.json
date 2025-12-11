@@ -1,0 +1,41 @@
+{
+  "id": "osm-16477154",
+  "slug": "blackthorn-trail-16477154",
+  "name": "Blackthorn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4118851,
+    "lon": -5.7741662
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16477154
+  },
+  "ai": {
+    "summary": "The Blackthorn Trail is a short, easy 1.3 km walk in the UK, ideal for families and casual hikers. The route offers gentle terrain, light scenery, and a relaxed pace.",
+    "terrain_summary": "Mostly flat, well-trodden path with a mix of compacted earth and gravel. Occasional roots or grassy edges and potential muddy spots after rain; some gentle inclines but no steep sections.",
+    "safety_notes": "Check weather and wear sturdy, comfortable footwear. Stay on marked paths, supervise children and pets, and carry water. Bring a map or a phone with offline access and a means of navigation. Be mindful of uneven surfaces and mud after rain; observe local guidelines and respect wildlife. If walking near dusk, carry a light and stay visible.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing and a light layer",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline route info / fully charged phone",
+      "Insect repellent",
+      "Small rain jacket or poncho"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and autumn. Summer can be warm but mild; winter may be muddy or icy depending on weather.",
+    "seo": {
+      "title": "Blackthorn Trail: Easy 1.3 km Hike in the UK",
+      "meta_description": "Explore the Blackthorn Trail, a gentle 1.3 km walk in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this easy hike.",
+      "h1": "Blackthorn Trail – Easy 1.3 km Hike in the UK"
+    }
+  }
+}

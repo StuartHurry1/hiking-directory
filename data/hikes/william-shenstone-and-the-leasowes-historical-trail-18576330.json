@@ -1,0 +1,21 @@
+{
+  "id": "osm-18576330",
+  "slug": "william-shenstone-and-the-leasowes-historical-trail-18576330",
+  "name": "William Shenstone & The Leasowes Historical Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4541323,
+    "lon": -2.0343201
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18576330
+  }
+}

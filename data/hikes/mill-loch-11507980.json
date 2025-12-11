@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507980",
+  "slug": "mill-loch-11507980",
+  "name": "Mill Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3715641,
+    "lon": -1.3150924
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507980
+  }
+}

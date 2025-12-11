@@ -1,0 +1,24 @@
+{
+  "id": "osm-19307123",
+  "slug": "pentire-headland-walk-north-cornwall-19307123",
+  "name": "Pentire headland walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5815857,
+    "lon": -4.9054724
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307123
+  }
+}

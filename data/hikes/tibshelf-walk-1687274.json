@@ -1,0 +1,21 @@
+{
+  "id": "osm-1687274",
+  "slug": "tibshelf-walk-1687274",
+  "name": "Tibshelf Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1448865,
+    "lon": -1.3450803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1687274
+  }
+}

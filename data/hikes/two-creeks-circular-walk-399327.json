@@ -1,0 +1,21 @@
+{
+  "id": "osm-399327",
+  "slug": "two-creeks-circular-walk-399327",
+  "name": "Two Creeks Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3282159,
+    "lon": 0.8802915
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 399327
+  }
+}

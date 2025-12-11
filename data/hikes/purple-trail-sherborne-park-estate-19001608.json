@@ -1,0 +1,21 @@
+{
+  "id": "osm-19001608",
+  "slug": "purple-trail-sherborne-park-estate-19001608",
+  "name": "Purple Trail, Sherborne Park Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8275638,
+    "lon": -1.7709881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001608
+  }
+}

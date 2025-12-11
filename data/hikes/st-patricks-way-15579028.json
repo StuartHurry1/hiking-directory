@@ -1,0 +1,21 @@
+{
+  "id": "osm-15579028",
+  "slug": "st-patricks-way-15579028",
+  "name": "St Patrick's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3413976,
+    "lon": -5.6638964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15579028
+  }
+}

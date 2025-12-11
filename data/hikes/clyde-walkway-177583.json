@@ -1,0 +1,21 @@
+{
+  "id": "osm-177583",
+  "slug": "clyde-walkway-177583",
+  "name": "Clyde Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 193.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8625059,
+    "lon": -4.2962801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 177583
+  }
+}

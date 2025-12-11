@@ -1,0 +1,23 @@
+{
+  "id": "osm-19032541",
+  "slug": "vales-rock-trail-kinver-edge-19032541",
+  "name": "Vale's Rock Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4371202,
+    "lon": -2.2561059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032541
+  }
+}

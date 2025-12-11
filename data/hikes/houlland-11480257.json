@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480257",
+  "slug": "houlland-11480257",
+  "name": "Houlland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9980502,
+    "lon": -1.2390277
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480257
+  }
+}

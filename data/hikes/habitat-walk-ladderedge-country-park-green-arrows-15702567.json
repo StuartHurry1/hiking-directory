@@ -1,0 +1,23 @@
+{
+  "id": "osm-15702567",
+  "slug": "habitat-walk-ladderedge-country-park-green-arrows-15702567",
+  "name": "Habitat Walk Ladderedge Country Park (Green Arrows)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0935127,
+    "lon": -2.0426164
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15702567
+  }
+}

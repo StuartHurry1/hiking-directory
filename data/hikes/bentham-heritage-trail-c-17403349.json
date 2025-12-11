@@ -1,0 +1,46 @@
+{
+  "id": "osm-17403349",
+  "slug": "bentham-heritage-trail-c-17403349",
+  "name": "Bentham Heritage Trail C",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1144471,
+    "lon": -2.5092589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17403349
+  },
+  "ai": {
+    "summary": "Bentham Heritage Trail C is a challenging 15.7 km hike in the UK, designed for experienced walkers. The route blends rural tracks, fields, and occasional road sections, with steady elevation that adds to the difficulty. Expect scenic views, historic hedgerows, and variable terrain as you traverse countryside landscapes.",
+    "terrain_summary": "The trail uses undulating countryside terrain: gravel and dirt paths, grassy verges, and some tarmacked stretches. Footing can be uneven with exposed roots or stones; mud is common after rain. Weather and visibility affect navigation, and there are occasional open ridges where wind can be strong. Waymarking is present but map reading is advisable in sections.",
+    "safety_notes": "This is a long, strenuous outing. Plan for a full day, check weather forecasts, and start early in winter months. Wear sturdy boots with good grip, dress in layers, and carry waterproofs. Bring sufficient water and high-energy snacks, a map and compass or GPS, a fully charged phone, a first aid kit, a whistle, and sun protection. Inform someone of your route and expected return time. Watch for livestock and farm gates, and be prepared for limited signal in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Insulating mid-layer",
+      "Water and high-energy snacks (2-3 L of water recommended)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Small first aid kit and blister care",
+      "Headlamp or small flashlight with extra batteries",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency whistle",
+      "Trekking poles (optional but helpful on rough sections)",
+      "Lightweight dry bag for valuables"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (roughly March to October). Winter conditions can be significantly more challenging and may require extra preparation.",
+    "seo": {
+      "title": "Bentham Heritage Trail C — 15.7 km Hard Hike in the UK",
+      "meta_description": "Discover Bentham Heritage Trail C, a demanding 15.7 km hike in the UK. Learn about terrain, safety, gear, and the best seasons to tackle this challenging route.",
+      "h1": "Bentham Heritage Trail C: 15.7 km Hard Hike in the UK"
+    }
+  }
+}

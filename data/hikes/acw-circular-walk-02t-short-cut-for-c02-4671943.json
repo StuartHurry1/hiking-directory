@@ -1,0 +1,45 @@
+{
+  "id": "osm-4671943",
+  "slug": "acw-circular-walk-02t-short-cut-for-c02-4671943",
+  "name": "ACW Circular Walk 02T (short-cut for C02)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4096809,
+    "lon": -1.6393788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4671943
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 02T is a 6.7 km moderate circular hike in the UK, offered as the short-cut variant of C02. The route provides a mid-length outing with varied terrain and countryside views suitable for walkers seeking a steady challenge.",
+    "terrain_summary": "A mix of public footpaths and minor roads with gentle to moderate elevation changes. Surfaces range from compacted paths to grassy or muddy sections depending on the weather, with some uneven ground and occasional stiles.",
+    "safety_notes": "Plan for all-weather conditions and check daylight hours before you go. Wear sturdy waterproof footwear and bring a weatherproof outer layer. Stay on official paths, be mindful of livestock and gates, and allow extra time for slower sections. Carry a map or offline navigation, a fully charged phone, water and snacks, and a small first aid kit. Let someone know your route and expected return time, and watch for road crossings and potential signal gaps in remote parts.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weatherproof outer layer (jacket/coat)",
+      "Extra layers and a hat/gloves as needed",
+      "Water (1–2 liters) and snacks",
+      "Map, compass, or offline GPS",
+      "Fully charged phone with emergency numbers",
+      "Lightweight backpack",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Optional trekking poles",
+      "Whistle for safety"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October)",
+    "seo": {
+      "title": "ACW Circular Walk 02T (C02 Shortcut) – 6.7 km Moderate Walk in the UK",
+      "meta_description": "Discover the ACW Circular Walk 02T, a 6.7 km moderate circuit in the UK. This shortcut variant of C02 features varied terrain, practical safety tips, and gear recommendations for a comfortable day out.",
+      "h1": "ACW Circular Walk 02T (C02 Shortcut) – 6.7 km Moderate Hike in the UK"
+    }
+  }
+}

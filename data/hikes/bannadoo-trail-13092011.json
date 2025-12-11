@@ -1,0 +1,44 @@
+{
+  "id": "osm-13092011",
+  "slug": "bannadoo-trail-13092011",
+  "name": "Bannadoo Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6558432,
+    "lon": -7.8542288
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13092011
+  },
+  "ai": {
+    "summary": "Bannadoo Trail is a demanding 15.1 km hike in the United Kingdom, designed for experienced hikers. The route combines varied terrain and notable elevation, requiring good stamina, sturdy footwear, and solid navigation skills.",
+    "terrain_summary": "Expect a mix of gravel tracks, grassy moorland, and uneven, rooty sections. The long distance and potential UK weather can make footing slippery; prepare for muddy patches, wind, and changing conditions.",
+    "safety_notes": "This is a hard, day-long hike. Plan for variable weather, daylight, and possible navigation challenges. Wear sturdy boots and a waterproof, windproof layer; bring a map and compass (GPS as backup). Carry sufficient water and high-energy snacks. Inform someone of your route and expected return time. Check local access rules and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and insulating layers",
+      "Navigation tools (map and compass; GPS optional)",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sufficient water (2–3 liters) and high-energy snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Warm hat and gloves, depending on season",
+      "Emergency space blanket or bivy",
+      "Mobile phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for daylight and more stable conditions; winter hiking is possible for experienced hikers with proper gear.",
+    "seo": {
+      "title": "Bannadoo Trail – 15.1 km Hard Hike in the UK",
+      "meta_description": "Plan your Bannadoo Trail hike in the UK. A challenging 15.1 km route with varied terrain, safety tips, gear lists, and the best seasons for this long-distance trail.",
+      "h1": "Bannadoo Trail Hiking Guide"
+    }
+  }
+}

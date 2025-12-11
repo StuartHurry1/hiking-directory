@@ -1,0 +1,21 @@
+{
+  "id": "osm-3293905",
+  "slug": "newhaven-brighton-clifftop-path-3293905",
+  "name": "Newhaven-Brighton Clifftop Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7852378,
+    "lon": 0.0529467
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3293905
+  }
+}

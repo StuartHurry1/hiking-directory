@@ -1,0 +1,21 @@
+{
+  "id": "osm-1866255",
+  "slug": "mardley-heath-multi-purpose-path-1866255",
+  "name": "Mardley Heath Multi-Purpose Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8517005,
+    "lon": -0.1948265
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1866255
+  }
+}

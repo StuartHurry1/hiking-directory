@@ -1,0 +1,21 @@
+{
+  "id": "osm-1957003",
+  "slug": "staffordshire-way-cannock-chase-south-1957003",
+  "name": "Staffordshire Way (Cannock Chase South)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 290.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7277411,
+    "lon": -2.1164652
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1957003
+  }
+}

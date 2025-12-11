@@ -1,0 +1,21 @@
+{
+  "id": "osm-2227883",
+  "slug": "wychavon-way-old-2227883",
+  "name": "Wychavon Way (old)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.126796,
+    "lon": -1.9949695
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2227883
+  }
+}

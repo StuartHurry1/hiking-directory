@@ -1,0 +1,21 @@
+{
+  "id": "osm-19697104",
+  "slug": "sailors-stroll-walk-at-hindhead-commons-19697104",
+  "name": "Sailor's Stroll Walk at Hindhead Commons",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1144444,
+    "lon": -0.7291922
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697104
+  }
+}

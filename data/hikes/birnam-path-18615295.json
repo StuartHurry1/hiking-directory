@@ -1,0 +1,41 @@
+{
+  "id": "osm-18615295",
+  "slug": "birnam-path-18615295",
+  "name": "Birnam Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5590663,
+    "lon": -3.576902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18615295
+  },
+  "ai": {
+    "summary": "Birnam Path is a short, easy 1.5 km hike in the UK designed for beginners and families. The route offers a gentle stroll with minimal elevation gain, making it a relaxing introduction to outdoor walking.",
+    "terrain_summary": "The trail runs on a mostly flat, well-trodden gravel and dirt path. Expect some tree shade, occasional muddy patches after rain, and a few gentle slopes.",
+    "safety_notes": "Wear sturdy shoes and bring water. Stay on marked paths, watch for other hikers, and check local weather conditions. In rural UK areas, mobile reception can be spotty, so plan accordingly and tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Small backpack for essentials",
+      "Map or offline GPS / fully charged phone",
+      "Hat and sunscreen (sunny days)",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Birnam Path: Easy 1.5 km UK hike for beginners",
+      "meta_description": "Explore Birnam Path, a gentle 1.5 km hike in the UK suitable for beginners. Learn about terrain, safety tips, and essential gear for a family-friendly stroll.",
+      "h1": "Birnam Path – Easy 1.5 km UK Hike"
+    }
+  }
+}

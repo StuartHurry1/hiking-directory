@@ -1,0 +1,23 @@
+{
+  "id": "osm-13944709",
+  "slug": "standedge-trail-13944709",
+  "name": "Standedge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.9,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5740406,
+    "lon": -1.9801602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13944709
+  }
+}

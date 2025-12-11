@@ -1,0 +1,21 @@
+{
+  "id": "osm-19583704",
+  "slug": "the-valley-of-cinders-walk-19583704",
+  "name": "The Valley of Cinders Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.562495,
+    "lon": -3.2964999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19583704
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-18085779",
+  "slug": "ben-macdui-and-derry-cairngorm-trail-18085779",
+  "name": "Ben Macdui and Derry Cairngorm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0285459,
+    "lon": -3.6272325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18085779
+  },
+  "ai": {
+    "summary": "Ben Macdui and Derry Cairngorm Trail is a 5.6 km easy hike in the UK that offers an uplifting upland experience. The route traverses open moorland with rocky sections and provides sweeping views of the Cairngorms on clear days. Suitable for most walkers, the terrain is gentle overall but can become rough underfoot and weather can change quickly in high country.",
+    "terrain_summary": "Mostly well-marked upland paths over grassy moorland with occasional rocky outcrops. Expect uneven footing, potential boggy patches, and exposed sections at higher elevations. The route offers wide-open panoramas and a sense of the Scottish hillscape, with views extending to surrounding peaks in fair conditions.",
+    "safety_notes": "Weather in the Highlands can change rapidly; check forecasts before setting out and be prepared for sudden wind, rain, or temperature drops. Carry map and compass or a GPS device; stay on marked paths and avoid boggy areas. Wear sturdy waterproof footwear and bring layers, a hat, gloves, and extra food and water. Start early to maximize daylight; tell someone your plan and expected return time; consider shorter or alternative routes if visibility is poor or conditions are unsafe.",
+    "recommended_gear": [
+      "Waterproof jacket and trousers",
+      "Sturdy waterproof hiking boots",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Map and compass (or GPS device)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency shelter or space blanket",
+      "First aid kit",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (May–Sept) generally offers the most favorable weather and daylight for this 5.6 km hike; it can be tackled in winter with proper gear and experience, but conditions are more demanding.",
+    "seo": {
+      "title": "Ben Macdui and Derry Cairngorm Trail – Easy 5.6 km Hike in the UK Cairngorms",
+      "meta_description": "Explore the Ben Macdui and Derry Cairngorm Trail, an easy 5.6 km hike in the UK. Terrain, safety tips, gear, best seasons, and practical planning.",
+      "h1": "Ben Macdui and Derry Cairngorm Trail – 5.6 km Easy Hike"
+    }
+  }
+}

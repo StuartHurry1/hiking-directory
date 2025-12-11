@@ -1,0 +1,45 @@
+{
+  "id": "osm-11630291",
+  "slug": "brancaster-staithe-circular-11630291",
+  "name": "Brancaster Staithe Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9653379,
+    "lon": 0.6840227
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11630291
+  },
+  "ai": {
+    "summary": "A coastal circular hike of approximately 10.4 km around Brancaster Staithe in Norfolk, offering sea views, marsh habitats and exposed coastal scenery. Moderate difficulty with uneven surfaces and possible mud at low tide; suitable for walkers with a basic level of fitness and good footwear.",
+    "terrain_summary": "Mostly well-defined coastal and field paths with a mix of grassy tracks, boardwalks over marsh, sandy sections and short road stretches. Expect uneven ground, potential mud close to the tide line, and windy, open stretches along the headland. Some gentle climbs, with more sheltered sections inland.",
+    "safety_notes": "Check local tide times before starting; portions of the route run along the coast with exposed winds. Wear sturdy waterproof footwear and dress in layers. Bring a map or GPS and a charged phone; stay on official paths, watch for mud and soft ground, and avoid cliff edges. Inform someone of your plans and carry sufficient water and snacks; be prepared for changing weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Water or hydration system",
+      "Snack/energy bars",
+      "Map and/or GPS device",
+      "Phone with offline maps",
+      "Small first aid kit",
+      "Sunscreen and sunglasses (seasonal)",
+      "Hat and gloves (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offers the best weather and daylight; hiking is possible year-round with extra tide and weather precautions.",
+    "seo": {
+      "title": "Brancaster Staithe Circular: 10.4 km Coastal Walk in Norfolk, UK",
+      "meta_description": "Discover the Brancaster Staithe Circular, a 10.4 km coastal hike along Norfolk's shoreline. Moderate terrain, mud flats, and practical safety tips.",
+      "h1": "Brancaster Staithe Circular – 10.4 km Coastal Hike"
+    }
+  }
+}

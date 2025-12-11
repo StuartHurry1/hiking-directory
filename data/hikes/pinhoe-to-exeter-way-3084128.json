@@ -1,0 +1,21 @@
+{
+  "id": "osm-3084128",
+  "slug": "pinhoe-to-exeter-way-3084128",
+  "name": "Pinhoe to Exeter Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7399012,
+    "lon": -3.4749284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3084128
+  }
+}

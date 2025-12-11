@@ -1,0 +1,21 @@
+{
+  "id": "osm-3990721",
+  "slug": "lime-craig-trail-3990721",
+  "name": "Lime Craig Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1823259,
+    "lon": -4.3854262
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3990721
+  }
+}

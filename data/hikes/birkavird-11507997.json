@@ -1,0 +1,39 @@
+{
+  "id": "osm-11507997",
+  "slug": "birkavird-11507997",
+  "name": "Birkavird",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4559616,
+    "lon": -1.4198755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507997
+  },
+  "ai": {
+    "summary": "Birkavird is a very short, easy hike in the UK, spanning about 0.6 km. The route is suitable for beginners and families seeking a quick outdoor stroll with minimal elevation and pleasant surroundings.",
+    "terrain_summary": "The path is flat to gently undulating, with a mix of grassy track and compact gravel. Surface can be soft or muddy after rain, so sturdy, closed-toe shoes are recommended.",
+    "safety_notes": "Weather in the UK can change quickly. Check the forecast and daylight hours before you go. Wear sturdy footwear, bring water, and stay on marked paths. Carry a phone or map where possible and tell someone your planned route.",
+    "recommended_gear": [
+      "Comfortable closed-toe walking shoes",
+      "Water bottle",
+      "Light waterproof layer",
+      "Small backpack",
+      "Phone with emergency contacts and offline maps"
+    ],
+    "best_seasons": "All year, with the most comfortable conditions from late spring to early autumn.",
+    "seo": {
+      "title": "Birkavird Hike – Easy 0.6 km Walk in the UK",
+      "meta_description": "Discover Birkavird, a short and easy 0.6 km hike in the UK. Perfect for beginners and families seeking a quick outdoor outing, with practical safety tips and gear.",
+      "h1": "Birkavird: Easy 0.6 km Hike (UK)"
+    }
+  }
+}

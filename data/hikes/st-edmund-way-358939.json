@@ -1,0 +1,21 @@
+{
+  "id": "osm-358939",
+  "slug": "st-edmund-way-358939",
+  "name": "St Edmund Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 385.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9491018,
+    "lon": 1.0364031
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 358939
+  }
+}

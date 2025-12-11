@@ -1,0 +1,40 @@
+{
+  "id": "osm-14016246",
+  "slug": "bentley-priory-circular-trail-14016246",
+  "name": "Bentley Priory Circular Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6204856,
+    "lon": -0.3493965
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14016246
+  },
+  "ai": {
+    "summary": "An 11.3 km circular hike around the Bentley Priory area in the UK. Rated as moderate, the route weaves woodland paths, open fields, and gentle climbs, delivering a peaceful circuit with subtle heritage interest near the Bentley Priory estate. Suitable for hikers with reasonable fitness and some navigation experience.",
+    "terrain_summary": "The trail uses a mix of woodland paths, gravel tracks, and grassy verges with occasional road sections. Surfaces can be uneven and muddy after rain, with gentle ascents and descents and some gates or stiles. Footing is generally moderate but will vary with weather.",
+    "safety_notes": "Stay on public rights of way and respect any private property boundaries. Check the weather, daylight hours, and accessibility before you go. Wear sturdy footwear and bring a map or offline navigation. Carry water and snacks. Be mindful of other walkers and cyclists on shared paths and take care at road crossings; tell someone your plan if hiking alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing and a light waterproof layer",
+      "Water and high-energy snacks",
+      "Map or offline navigation app on your phone",
+      "Fully charged phone with emergency contacts",
+      "Hat and sunscreen for sunny conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for milder, drier conditions and better trail visibility. Winter hikes are possible with waterproof gear and shorter daylight hours.",
+    "seo": {
+      "title": "Bentley Priory Circular Trail – 11.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the 11.3 km Bentley Priory Circular Trail in the UK. A moderate circuit through woodlands and countryside, with safety tips, gear suggestions, and the best seasons to hike.",
+      "h1": "Bentley Priory Circular Trail (11.3 km) – Moderate Hike in the UK"
+    }
+  }
+}

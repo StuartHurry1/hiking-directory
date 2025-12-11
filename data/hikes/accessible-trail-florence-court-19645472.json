@@ -1,0 +1,40 @@
+{
+  "id": "osm-19645472",
+  "slug": "accessible-trail-florence-court-19645472",
+  "name": "Accessible Trail, Florence Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2589829,
+    "lon": -7.7329203
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19645472
+  },
+  "ai": {
+    "summary": "A short, fully accessible 1.4 km trail at Florence Court estate in the UK. The route follows flat, well-surfaced paths through gardens and woodland, making it suitable for wheelchairs, strollers, and visitors with limited mobility. It is a relaxed stroll with scenic views and opportunities to learn about the estate.",
+    "terrain_summary": "Flat to gently undulating paths, predominantly firm surfaces such as tarmac or compact gravel. Some tree roots may be present in shaded sections; overall smooth and even for ease of navigation.",
+    "safety_notes": "Always stay on marked paths and respect private property. Check the weather, as surfaces can become slippery when wet. Bring water and wear appropriate footwear. Be mindful of other visitors; yield to wheelchairs and strollers on narrower sections. In case of emergency, contact estate staff or local authorities.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Rain jacket or poncho",
+      "Sun protection (hat and sunscreen)",
+      "Mobility aid as needed (wheelchair, cane, or walker)"
+    ],
+    "best_seasons": "Year-round; spring and summer typically offer the most pleasant conditions, with autumn also pleasant. Winter visits are possible but can be cold and windy and surfaces may be slippery.",
+    "seo": {
+      "title": "Accessible Trail, Florence Court – Easy 1.4 km Walk in the UK",
+      "meta_description": "Explore a short, accessible 1.4 km trail at Florence Court estate in the UK. Flat surfaces, wheelchair and stroller friendly, with safety tips and recommended gear.",
+      "h1": "Accessible Trail, Florence Court – 1.4 km Easy Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-157485",
+  "slug": "west-sussex-literary-trail-157485",
+  "name": "West Sussex Literary Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 194.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0634083,
+    "lon": -0.3321938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 157485
+  }
+}

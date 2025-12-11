@@ -1,0 +1,40 @@
+{
+  "id": "osm-13797611",
+  "slug": "blue-trail-13797611",
+  "name": "Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7203443,
+    "lon": -0.1446864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13797611
+  },
+  "ai": {
+    "summary": "Blue Trail is a short, easy 4.1 km hike in the UK. It offers a gentle introduction to trail walking for beginners with scenic countryside views and a straightforward route.",
+    "terrain_summary": "The trail uses well-maintained paths with gentle inclines, suitable for beginners. Expect a mix of grassy paths and gravel surfaces along a short, straightforward route.",
+    "safety_notes": "Check the local weather forecast before you go, wear sturdy footwear, and bring layers and a waterproof jacket. Carry enough water, a small snack, and a map or a charged phone with offline maps. Start early in shorter daylight months and inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing (layered, waterproof jacket if rain is likely)",
+      "Water and a small snack",
+      "Map, compass, or a fully charged phone with offline maps",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight backpack for essentials"
+    ],
+    "best_seasons": "Year-round in the UK; spring and summer often offer the most comfortable conditions, while autumn and winter require warmer clothing and careful weather checks.",
+    "seo": {
+      "title": "Blue Trail: Easy 4.1 km Hike in the UK",
+      "meta_description": "Discover the Blue Trail, a 4.1 km easy hike in the UK suitable for beginners. Plan your trip with terrain insights, safety tips, gear recommendations, and seasonal guidance.",
+      "h1": "Blue Trail: Easy 4.1 km Hike in the UK"
+    }
+  }
+}

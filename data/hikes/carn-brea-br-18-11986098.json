@@ -1,0 +1,21 @@
+{
+  "id": "osm-11986098",
+  "slug": "carn-brea-br-18-11986098",
+  "name": "Carn Brea BR 18",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2193372,
+    "lon": -5.2487229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11986098
+  }
+}

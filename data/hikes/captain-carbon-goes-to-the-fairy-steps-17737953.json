@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737953",
+  "slug": "captain-carbon-goes-to-the-fairy-steps-17737953",
+  "name": "Captain Carbon goes to the Fairy Steps",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2129431,
+    "lon": -3.3277523
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737953
+  }
+}

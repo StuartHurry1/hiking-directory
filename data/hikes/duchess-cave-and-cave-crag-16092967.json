@@ -1,0 +1,23 @@
+{
+  "id": "osm-16092967",
+  "slug": "duchess-cave-and-cave-crag-16092967",
+  "name": "Duchess Cave and Cave Crag",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5753469,
+    "lon": -3.5959521
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16092967
+  }
+}

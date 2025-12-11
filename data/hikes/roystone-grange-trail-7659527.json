@@ -1,0 +1,21 @@
+{
+  "id": "osm-7659527",
+  "slug": "roystone-grange-trail-7659527",
+  "name": "Roystone Grange Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1202889,
+    "lon": -1.7110484
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7659527
+  }
+}

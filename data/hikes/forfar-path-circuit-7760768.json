@@ -1,0 +1,21 @@
+{
+  "id": "osm-7760768",
+  "slug": "forfar-path-circuit-7760768",
+  "name": "Forfar Path Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6445195,
+    "lon": -2.8975578
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7760768
+  }
+}

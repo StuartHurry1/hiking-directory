@@ -1,0 +1,21 @@
+{
+  "id": "osm-18683372",
+  "slug": "tettenhall-village-trail-18683372",
+  "name": "Tettenhall Village Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5992405,
+    "lon": -2.1681258
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18683372
+  }
+}

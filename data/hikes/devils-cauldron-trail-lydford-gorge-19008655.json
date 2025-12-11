@@ -1,0 +1,21 @@
+{
+  "id": "osm-19008655",
+  "slug": "devils-cauldron-trail-lydford-gorge-19008655",
+  "name": "Devil's Cauldron Trail, Lydford Gorge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6404492,
+    "lon": -4.1110734
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19008655
+  }
+}

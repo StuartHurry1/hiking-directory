@@ -1,0 +1,44 @@
+{
+  "id": "osm-11224083",
+  "slug": "cairnhill-woods-11224083",
+  "name": "Cairnhill Woods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9062209,
+    "lon": -4.3364687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11224083
+  },
+  "ai": {
+    "summary": "Cairnhill Woods is a short, easy woodland hike in the UK, about 1.1 km in length. It suits families and casual walkers seeking a quiet nature stroll through mixed woodland with gentle terrain.",
+    "terrain_summary": "The trail is flat to gently undulating with a surface that may be compact gravel, packed earth, or mud depending on recent weather. Expect tree roots and occasional damp patches; conditions are generally comfortable but can be slippery when wet.",
+    "safety_notes": "Plan for changing weather; wear sturdy footwear and bring a waterproof layer; stay on marked paths and watch for uneven ground and roots; allow extra time in winter or after rain; carry water, a small snack, a phone with emergency numbers, and a basic first aid kit; check for ticks in wooded areas and be mindful of local wildlife; let someone know your plan and return time.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Light waterproof jacket",
+      "Water and a small snack",
+      "Map or offline navigation on your phone",
+      "Fully charged phone and portable charger",
+      "Basic first aid kit",
+      "Sunscreen and a hat for sunny days",
+      "Insect repellent (seasonal)",
+      "Optional trekking poles",
+      "Extra warm layer for cooler days"
+    ],
+    "best_seasons": "All year, with best conditions in spring through autumn. Winter visits are possible but expect mud, shorter daylight, and colder temperatures; adjust gear accordingly.",
+    "seo": {
+      "title": "Cairnhill Woods — Easy 1.1 km Woodland Hike in the UK",
+      "meta_description": "Explore Cairnhill Woods, an easy 1.1 km woodland hike in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this family-friendly stroll.",
+      "h1": "Cairnhill Woods: An Easy 1.1 km Woodland Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-4510992",
+  "slug": "king-charles-iii-england-coast-path-sea-palling-to-weybourne-4510992",
+  "name": "King Charles III England Coast Path: Sea Palling to Weybourne",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 84.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7897167,
+    "lon": 1.6024077
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4510992
+  }
+}

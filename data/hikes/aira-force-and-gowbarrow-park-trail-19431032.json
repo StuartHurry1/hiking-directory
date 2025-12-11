@@ -1,0 +1,44 @@
+{
+  "id": "osm-19431032",
+  "slug": "aira-force-and-gowbarrow-park-trail-19431032",
+  "name": "Aira Force and Gowbarrow Park Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5715593,
+    "lon": -2.9286627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19431032
+  },
+  "ai": {
+    "summary": "A demanding 16.8 km loop that links the Aira Force waterfall with Gowbarrow Park, offering rugged upland terrain, long climbs, and sweeping views. Best for experienced hikers comfortable with uneven ground and variable weather.",
+    "terrain_summary": "Varied terrain including long, steep ascents to Gowbarrow Fell, rocky steps, exposed ridgelines, and tussocky moorland. Expect muddy patches after rain, gate crossings, and uneven footing; steady navigation is helpful in poorer visibility.",
+    "safety_notes": "Plan for upland conditions: weather can change rapidly, winds can be strong, and daylight may be limited in winter. Wear sturdy boots and layered clothing; carry waterproofs, a map and compass or GPS, and enough water and snacks for a long day. Stay on marked paths to protect ground and avoid erosion. Let someone know your route and expected return time; carry a whistle and a means of signaling for emergencies; be prepared to turn back if conditions worsen; watch for livestock and livestock gates; use caution on exposed sections when windy or icy.",
+    "recommended_gear": [
+      "Sturdy, ankle-supporting hiking boots",
+      "Water and a way to carry at least 2–3 liters of liquid",
+      "Layered clothing: base layer, mid-layer, and waterproof outer shell",
+      "Warm hat and gloves for cold or windy conditions",
+      "Map and compass (or GPS) with a charged phone as backup",
+      "Backpack with rain cover and extra dry bags",
+      "Energy-rich snacks and a light meal for the day",
+      "First aid kit and a small emergency blanket",
+      "Whistle and headlamp or torch (for late finishes)",
+      "Trekking poles (optional but helpful on steep or uneven sections)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); winter conditions can be very changeable and muddy.",
+    "seo": {
+      "title": "Aira Force and Gowbarrow Park Trail – 16.8 km Hard Hike in the UK",
+      "meta_description": "Conquer a 16.8 km hard loop from Aira Force to Gowbarrow Park. This UK upland route combines waterfalls, ridges, and challenging terrain with rewarding views.",
+      "h1": "Aira Force and Gowbarrow Park Trail"
+    }
+  }
+}

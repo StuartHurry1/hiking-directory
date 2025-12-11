@@ -1,0 +1,23 @@
+{
+  "id": "osm-17444767",
+  "slug": "octavia-hill-walk-at-brandelhow-park-derwent-water-north-lakes-outdoors-17444767",
+  "name": "Octavia Hill walk at Brandelhow Park, Derwent Water, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5813431,
+    "lon": -3.1600575
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17444767
+  }
+}

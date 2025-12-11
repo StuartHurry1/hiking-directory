@@ -1,0 +1,21 @@
+{
+  "id": "osm-3734589",
+  "slug": "freckenham-circular-walk-3734589",
+  "name": "Freckenham Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3197468,
+    "lon": 0.4475169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3734589
+  }
+}

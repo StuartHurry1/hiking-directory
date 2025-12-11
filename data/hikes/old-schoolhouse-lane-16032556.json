@@ -1,0 +1,21 @@
+{
+  "id": "osm-16032556",
+  "slug": "old-schoolhouse-lane-16032556",
+  "name": "Old Schoolhouse Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.070708,
+    "lon": -6.1538625
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16032556
+  }
+}

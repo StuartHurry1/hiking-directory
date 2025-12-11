@@ -1,0 +1,21 @@
+{
+  "id": "osm-6027711",
+  "slug": "taunton-deane-circular-walk-1-6027711",
+  "name": "Taunton Deane Circular Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0595918,
+    "lon": -3.2271643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6027711
+  }
+}

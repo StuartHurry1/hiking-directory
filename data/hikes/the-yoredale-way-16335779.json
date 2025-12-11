@@ -1,0 +1,21 @@
+{
+  "id": "osm-16335779",
+  "slug": "the-yoredale-way-16335779",
+  "name": "The Yoredale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0080557,
+    "lon": -1.1892679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16335779
+  }
+}

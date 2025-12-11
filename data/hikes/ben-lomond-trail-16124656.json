@@ -1,0 +1,45 @@
+{
+  "id": "osm-16124656",
+  "slug": "ben-lomond-trail-16124656",
+  "name": "Ben Lomond Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1521968,
+    "lon": -4.6416014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124656
+  },
+  "ai": {
+    "summary": "Ben Lomond Trail is a demanding 19.9 km hike in the UK that climbs from foothills to the summit of Ben Lomond. The route blends forest tracks, grassy slopes, and rocky sections, requiring good fitness, navigation, and weather awareness. The payoff is panoramic views from the summit on clear days.",
+    "terrain_summary": "Initial forest paths with a long ascent, followed by exposed rocky sections. Expect steep gradients, boggy patches, and uneven footing, especially on the final approach. Weather and wind can be strong at the summit.",
+    "safety_notes": "Check the weather forecast as conditions can change rapidly. Wear sturdy, waterproof footwear and layered clothing. Bring a map and compass (GPS as backup) and know how to use them. Start early to avoid late finishes; tell someone your planned route and expected return. Carry sufficient water and snacks, a headtorch, a first aid kit, and an emergency whistle. Be prepared for possible scrambling on rocky sections and avoid going solo in poor visibility.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Warm mid-layer and hat/gloves",
+      "Backpack with 20–30 L capacity",
+      "Map and compass (GPS as backup)",
+      "Headtorch with extra batteries",
+      "Water and high-energy snacks",
+      "Emergency bivvy or space blanket",
+      "First aid kit",
+      "Whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for better weather and daylight; winter conditions require mountaineering experience and specialized gear.",
+    "seo": {
+      "title": "Ben Lomond Trail – 19.9 km hard hike in the UK",
+      "meta_description": "A detailed guide to the Ben Lomond Trail in the UK. Learn about route, terrain, safety tips, gear, and best seasons for this challenging 19.9 km hike.",
+      "h1": "Ben Lomond Trail: a challenging 19.9 km hike in the UK"
+    }
+  }
+}

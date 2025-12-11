@@ -1,0 +1,42 @@
+{
+  "id": "osm-4086593",
+  "slug": "ashclyst-purple-walk-4086593",
+  "name": "Ashclyst Purple Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7879904,
+    "lon": -3.4209277
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086593
+  },
+  "ai": {
+    "summary": "Ashclyst Purple Walk is a short, easy 1.9 km circuit in the UK that is perfect for families and casual walkers. The route threads through woodland and open areas with gentle gradients, offering pleasant scenery, shade, and a relaxed pace. Approximately 1.9 km in length for a quick and achievable outing.",
+    "terrain_summary": "The hike mainly uses well-maintained paths: flat to gently undulating, with a mix of compacted earth, gravel, and occasional wooden boardwalks. Expect shaded woodland sections interspersed with open clearings; surfaces can be uneven or muddy after rain, so sturdy footwear is advised.",
+    "safety_notes": "Check the weather before you go and wear sturdy, waterproof footwear. The trail can be slippery when wet; stay on marked paths and supervise children. Bring water, a map or offline navigation on your phone, a light layer for cool conditions, and a small first aid kit. Inform someone of your plan if walking alone.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and light snacks",
+      "Sun protection (hat and sunscreen) or warm layers as needed",
+      "Map, compass, or offline map on your phone",
+      "Small first-aid kit",
+      "Phone with emergency contacts",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for this short, easy trail; it can be enjoyed year-round with weather-appropriate clothing, but winter visits require warmer, waterproof gear and careful footing.",
+    "seo": {
+      "title": "Ashclyst Purple Walk – 1.9 km Easy Family Trail in the UK",
+      "meta_description": "Discover the Ashclyst Purple Walk, a short and easy 1.9 km circuit in the UK. Perfect for families and casual walkers with shaded woodland and gentle paths.",
+      "h1": "Ashclyst Purple Walk – Easy 1.9 km Family-Friendly Trail"
+    }
+  }
+}

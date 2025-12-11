@@ -1,0 +1,42 @@
+{
+  "id": "osm-18668744",
+  "slug": "brindleyplace-wellness-walk-2-18668744",
+  "name": "Brindleyplace Wellness Walk 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4774183,
+    "lon": -1.9125145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18668744
+  },
+  "ai": {
+    "summary": "An easy 2.1 km urban wellness stroll around Brindleyplace in the UK. The route follows flat, paved paths along canal towpaths and through nearby parks, making it suitable for all ages and fitness levels. Expect water views, sculptures, and accessible surfaces throughout.",
+    "terrain_summary": "Primarily flat and paved, with canal towpaths and short curb crossings. Minimal elevation change, but surfaces may vary in older sections. Expect some crowded areas during peak times.",
+    "safety_notes": "Stay aware of pedestrians and cyclists on shared paths, use designated crossings, and keep to the right where required. Check weather and daylight hours, bring water, and secure personal belongings. If mobility is a concern, choose well-lit, accessible segments and avoid peak crowds.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sunscreen and hat",
+      "Light rain jacket",
+      "Sunglasses",
+      "Phone with emergency contacts",
+      "Small daypack"
+    ],
+    "best_seasons": "All year, with the best conditions in spring and summer when daylight is longer and the weather is milder.",
+    "seo": {
+      "title": "Brindleyplace Wellness Walk 2 – Easy 2.1 km Urban Walk in the UK",
+      "meta_description": "Explore Brindleyplace Wellness Walk 2, a flat 2.1 km easy urban stroll in the UK. Learn about the terrain, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Brindleyplace Wellness Walk 2: Easy 2.1 km Urban Stroll in the UK"
+    }
+  }
+}

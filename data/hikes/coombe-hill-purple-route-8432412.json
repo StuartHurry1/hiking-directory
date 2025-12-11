@@ -1,0 +1,21 @@
+{
+  "id": "osm-8432412",
+  "slug": "coombe-hill-purple-route-8432412",
+  "name": "Coombe Hill Purple Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7482777,
+    "lon": -0.7681864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8432412
+  }
+}

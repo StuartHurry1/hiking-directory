@@ -1,0 +1,40 @@
+{
+  "id": "osm-16659800",
+  "slug": "ardtole-church-16659800",
+  "name": "Ardtole Church",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2687338,
+    "lon": -5.599896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16659800
+  },
+  "ai": {
+    "summary": "Ardtole Church offers a very short, easy stroll to a historic ruin in the UK. At only 0.2 km, the route is quick and suitable for all ages, providing a light outing with a heritage point of interest.",
+    "terrain_summary": "Flat or gently graded path leading to the church ruin. Expect a short, well-trodden track with possible grassy sections and some uneven stones near the ruin, especially after rain.",
+    "safety_notes": "Ground near the ruin can be uneven; wear sturdy shoes. Weather in the UK can change quickly, so bring a light layer. Respect boundaries and private property; stay on the path and leave no trace. This is a short walk, but be mindful of other visitors and supervise children as needed.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water",
+      "Phone with offline map or GPS",
+      "Small backpack or daypack",
+      "Optional: sunglasses or sunscreen"
+    ],
+    "best_seasons": "All year round in the UK; spring and summer often offer pleasant conditions with longer daylight.",
+    "seo": {
+      "title": "Ardtole Church – Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore Ardtole Church on a short, easy 0.2 km hike in the UK. Learn about the terrain, safety tips, and gear for a quick heritage walk.",
+      "h1": "Ardtole Church – Easy 0.2 km Hike"
+    }
+  }
+}

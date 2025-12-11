@@ -1,0 +1,43 @@
+{
+  "id": "osm-9551211",
+  "slug": "brill-tramway-walk-9551211",
+  "name": "Brill Tramway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8552389,
+    "lon": -0.9452064
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9551211
+  },
+  "ai": {
+    "summary": "A long, hard hike of 21.9 km along the route of the former Brill Tramway in the English countryside. The walk combines rural lanes, grassy rail-bed sections, and open farmland with steady, sustained effort required. Best suited to experienced hikers with good footwear and ample daylight.",
+    "terrain_summary": "Primarily along the disused Brill Tramway bed and surrounding rural paths. Surfaces include compacted gravel on the old rail bed, grassy track, dirt paths, and occasional mud at field edges. Expect gentle to moderate climbs, several stiles and gates, and occasional road crossings. Weather can make ground slick; waterproof footwear is advised.",
+    "safety_notes": "Plan for a long, remote stretch with limited facilities; carry a map and compass or GPS, and ensure your phone is charged. Be prepared for uneven ground and loose ballast on the old track bed, plus muddy grass after rain. Watch for changing weather, winter ice, and sun exposure in summer. Rural roads may have traffic and cyclists at crossings; check for path closures before you go and start early to ensure daylight. Bring water, a small first aid kit, and a lightweight emergency layer.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing (base layer, mid-layer, waterproof outer layer)",
+      "Water bottle or hydration system and snacks",
+      "Map and compass or GPS device; fully charged phone as backup",
+      "Headwear and sun protection (hat, sunscreen)",
+      "Lightweight emergency blanket or foil bivy",
+      "Small first aid kit and whistle",
+      "Rain gear and extra socks",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the best combination of daylight and drier conditions; winter hikes are possible but muddy and colder with shorter days.",
+    "seo": {
+      "title": "Brill Tramway Walk – 21.9 km Hard Hike in the UK",
+      "meta_description": "Explore the Brill Tramway Walk, a 21.9 km challenging hike through rural Buckinghamshire, UK. Terrain, safety tips, best seasons, and gear recommendations.",
+      "h1": "Brill Tramway Walk: 21.9 km Hard Hike in the UK"
+    }
+  }
+}

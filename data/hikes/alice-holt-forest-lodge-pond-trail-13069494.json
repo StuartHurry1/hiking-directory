@@ -1,0 +1,44 @@
+{
+  "id": "osm-13069494",
+  "slug": "alice-holt-forest-lodge-pond-trail-13069494",
+  "name": "Alice Holt Forest: Lodge Pond Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1695976,
+    "lon": -0.839471
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13069494
+  },
+  "ai": {
+    "summary": "A scenic 9.4 km moderate forest hike on the Lodge Pond Trail in Alice Holt Forest, UK. The route circles Lodge Pond with gentle elevation changes, shaded paths, and tranquil woodland scenery, suitable for hikers with some experience and proper footwear.",
+    "terrain_summary": "Mostly forest paths with packed dirt and gravel, occasional roots and damp sections. Some segments run along the pond edge and through open glades; expect shade most of the day and potential mud after rain. Elevation changes are gentle, not steep.",
+    "safety_notes": "Stay on marked paths and be aware of cyclists on shared trails. Wear sturdy footwear and carry a waterproof layer. Bring water, a map or GPS, and a small first aid kit. Check local conditions for mud or boggy patches and daylight hours; be mindful that mobile signal can be limited in forested areas. Keep dogs under control where allowed; observe wildlife and pack out all rubbish.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Map, compass or GPS device",
+      "Small first aid kit",
+      "Insect repellent",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Snacks or energy bars",
+      "Headlamp or flashlight (in case of late return)",
+      "Lightweight rain cover or bag for belongings"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering particularly pleasant conditions and scenery.",
+    "seo": {
+      "title": "Lodge Pond Trail at Alice Holt Forest – 9.4 km Moderate Hike in the UK",
+      "meta_description": "Explore the Lodge Pond Trail in Alice Holt Forest. A 9.4 km moderate hike through shaded woodlands around Lodge Pond in the UK, with safety tips and gear recommendations.",
+      "h1": "Lodge Pond Trail, Alice Holt Forest (9.4 km)"
+    }
+  }
+}

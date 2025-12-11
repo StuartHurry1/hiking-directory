@@ -1,0 +1,21 @@
+{
+  "id": "osm-19738712",
+  "slug": "heathland-walk-brownsea-island-19738712",
+  "name": "Heathland Walk, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6896547,
+    "lon": -1.9751865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738712
+  }
+}

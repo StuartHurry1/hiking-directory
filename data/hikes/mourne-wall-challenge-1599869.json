@@ -1,0 +1,21 @@
+{
+  "id": "osm-1599869",
+  "slug": "mourne-wall-challenge-1599869",
+  "name": "Mourne Wall Challenge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1286089,
+    "lon": -5.943057
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1599869
+  }
+}

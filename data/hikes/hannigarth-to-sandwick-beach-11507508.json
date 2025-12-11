@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507508",
+  "slug": "hannigarth-to-sandwick-beach-11507508",
+  "name": "Hannigarth to Sandwick Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6934691,
+    "lon": -0.8681465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507508
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17288595",
+  "slug": "pickenhams-circular-walk-17288595",
+  "name": "Pickenhams Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6273872,
+    "lon": 0.7541449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17288595
+  }
+}

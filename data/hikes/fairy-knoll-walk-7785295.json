@@ -1,0 +1,21 @@
+{
+  "id": "osm-7785295",
+  "slug": "fairy-knoll-walk-7785295",
+  "name": "Fairy Knoll Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6365689,
+    "lon": -7.2168062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7785295
+  }
+}

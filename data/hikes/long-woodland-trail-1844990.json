@@ -1,0 +1,21 @@
+{
+  "id": "osm-1844990",
+  "slug": "long-woodland-trail-1844990",
+  "name": "Long Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.958562,
+    "lon": -0.977822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1844990
+  }
+}

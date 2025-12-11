@@ -1,0 +1,21 @@
+{
+  "id": "osm-1647400",
+  "slug": "the-danelaw-way-1647400",
+  "name": "The Danelaw Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7975948,
+    "lon": -0.5247495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1647400
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-85093",
+  "slug": "nene-way-85093",
+  "name": "Nene Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 523,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2281796,
+    "lon": -1.1804115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 85093
+  }
+}

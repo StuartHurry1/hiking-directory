@@ -1,0 +1,21 @@
+{
+  "id": "osm-5880518",
+  "slug": "portstewart-cliff-path-5880518",
+  "name": "Portstewart Cliff Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1716507,
+    "lon": -6.7257401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5880518
+  }
+}

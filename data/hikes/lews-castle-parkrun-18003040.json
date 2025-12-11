@@ -1,0 +1,21 @@
+{
+  "id": "osm-18003040",
+  "slug": "lews-castle-parkrun-18003040",
+  "name": "Lews Castle Parkrun",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.2003524,
+    "lon": -6.397868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18003040
+  }
+}

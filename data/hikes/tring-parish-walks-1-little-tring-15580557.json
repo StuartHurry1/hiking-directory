@@ -1,0 +1,21 @@
+{
+  "id": "osm-15580557",
+  "slug": "tring-parish-walks-1-little-tring-15580557",
+  "name": "Tring Parish Walks: 1- Little Tring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7945103,
+    "lon": -0.6618889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15580557
+  }
+}

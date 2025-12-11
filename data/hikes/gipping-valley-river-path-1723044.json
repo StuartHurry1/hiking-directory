@@ -1,0 +1,21 @@
+{
+  "id": "osm-1723044",
+  "slug": "gipping-valley-river-path-1723044",
+  "name": "Gipping Valley River Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0515009,
+    "lon": 1.1450854
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1723044
+  }
+}

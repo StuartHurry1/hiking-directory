@@ -1,0 +1,44 @@
+{
+  "id": "osm-19217702",
+  "slug": "blue-route-longshaw-estate-19217702",
+  "name": "Blue Route, Longshaw Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.303022,
+    "lon": -1.6036358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217702
+  },
+  "ai": {
+    "summary": "The Blue Route on Longshaw Estate is a roughly 14.2 km hike offering woodland trails, open fields, and gentle elevation. Rated as moderate, it suits hikers with some experience and typically takes about 3.5–4.5 hours depending on pace and breaks.",
+    "terrain_summary": "Varied surfaces including shaded dirt paths, grassy plateaus, rocky/stone sections, and occasional muddy patches after rain. Expect gentle ascents and descents with some uneven roots; navigation is straightforward but a map is recommended.",
+    "safety_notes": "Check weather forecast and daylight hours before setting out. Stay on designated paths and respect private estate areas. Watch for other trail users, cyclists, and livestock. Wear sturdy footwear, bring a map or GPS, sufficient water, snacks, and a basic first aid kit. Tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Water (2–3 liters if hot or long day) and some high-energy snacks",
+      "Map and compass or a reliable GPS device",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Basic first aid kit and a whistle",
+      "Headtorch or flashlight (for early/late starts)",
+      "Mobile phone with offline maps and emergency numbers",
+      "Lightweight rain cover for your backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal with drier trails and longer daylight. Winter hikes are possible but expect mud, wet weather, and shorter days.",
+    "seo": {
+      "title": "Blue Route, Longshaw Estate — 14.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the 14.2 km Blue Route on Longshaw Estate in the UK. A moderate woodland-and-field hike with scenic views, practical safety tips, and gear recommendations.",
+      "h1": "Blue Route, Longshaw Estate – 14.2 km Moderate Hike"
+    }
+  }
+}

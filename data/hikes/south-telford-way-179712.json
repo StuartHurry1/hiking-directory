@@ -1,0 +1,21 @@
+{
+  "id": "osm-179712",
+  "slug": "south-telford-way-179712",
+  "name": "South Telford Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6705679,
+    "lon": -2.446612
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 179712
+  }
+}

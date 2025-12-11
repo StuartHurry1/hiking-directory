@@ -1,0 +1,21 @@
+{
+  "id": "osm-19526416",
+  "slug": "upper-tarell-valley-walk-19526416",
+  "name": "Upper Tarell Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8678547,
+    "lon": -3.4714571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19526416
+  }
+}

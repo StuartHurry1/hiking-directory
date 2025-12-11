@@ -1,0 +1,23 @@
+{
+  "id": "osm-18732966",
+  "slug": "rail-trail-shirley-greater-the-lakes-18732966",
+  "name": "Rail Trail: Shirley > The Lakes",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4037392,
+    "lon": -1.8450368
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18732966
+  }
+}

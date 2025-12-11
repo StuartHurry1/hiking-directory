@@ -1,0 +1,21 @@
+{
+  "id": "osm-61495",
+  "slug": "wye-valley-walk-61495",
+  "name": "Wye Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 434.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6440738,
+    "lon": -2.6740943
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 61495
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15488325",
+  "slug": "short-walk-15488325",
+  "name": "Short walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9594036,
+    "lon": -1.5392401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15488325
+  }
+}

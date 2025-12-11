@@ -1,0 +1,21 @@
+{
+  "id": "osm-19887196",
+  "slug": "capability-brown-walk-at-dinefwr-19887196",
+  "name": "‘Capability’ Brown walk at Dinefwr",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8830727,
+    "lon": -4.0133465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19887196
+  }
+}

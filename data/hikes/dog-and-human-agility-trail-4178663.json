@@ -1,0 +1,21 @@
+{
+  "id": "osm-4178663",
+  "slug": "dog-and-human-agility-trail-4178663",
+  "name": "Dog and Human Agility Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5127767,
+    "lon": 0.6847788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4178663
+  }
+}

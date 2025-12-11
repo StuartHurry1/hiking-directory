@@ -1,0 +1,41 @@
+{
+  "id": "osm-17403347",
+  "slug": "bentham-heritage-trail-a-17403347",
+  "name": "Bentham Heritage Trail A",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1144471,
+    "lon": -2.5092589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17403347
+  },
+  "ai": {
+    "summary": "Bentham Heritage Trail A is a gentle 5.2 km route in the United Kingdom offering an easy, accessible stroll through local heritage sites. Suitable for casual walkers and families, the trail follows mostly well-maintained paths with minor urban sections and light elevation changes.",
+    "terrain_summary": "The trail combines pavements, compacted paths, and occasional grassy edges. Most of the route is flat to gently undulating with smooth surfaces; some street crossings require attention to footing and curb transitions.",
+    "safety_notes": "Wear sturdy, comfortable footwear and weather-appropriate clothing. Stay on marked paths, obey pedestrian signs, and be mindful of traffic at road crossings. Supervise children and pets. Carry a charged phone and a basic map or offline navigation in case of detours. Check local conditions for closures or disruptions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Light backpack or daypack",
+      "Map or offline maps on phone",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (March–October) typically offers the best weather and daylight for this easy, urban heritage trail.",
+    "seo": {
+      "title": "Bentham Heritage Trail A – Easy 5.2 km Walk in the UK",
+      "meta_description": "Explore Bentham Heritage Trail A, a 5.2 km easy walk in the United Kingdom. Find route details, terrain, safety tips, and gear recommendations for a pleasant heritage stroll.",
+      "h1": "Bentham Heritage Trail A – Easy 5.2 km Walk in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19445571",
+  "slug": "play-trail-19445571",
+  "name": "Play Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0706419,
+    "lon": 0.4485749
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19445571
+  }
+}

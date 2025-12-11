@@ -1,0 +1,21 @@
+{
+  "id": "osm-13443413",
+  "slug": "farm-circuit-13443413",
+  "name": "Farm Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4745787,
+    "lon": -6.1594844
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13443413
+  }
+}

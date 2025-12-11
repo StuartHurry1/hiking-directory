@@ -1,0 +1,41 @@
+{
+  "id": "osm-7814001",
+  "slug": "bradninch-town-trail-7814001",
+  "name": "Bradninch Town Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8285074,
+    "lon": -3.4206709
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7814001
+  },
+  "ai": {
+    "summary": "Bradninch Town Trail is a short, easy 4.6 km walk in the UK. The route combines urban streets with green spaces, offering a gentle and accessible hike suitable for beginners, families, and casual walkers while avoiding strenuous terrain.",
+    "terrain_summary": "Mostly flat to gently undulating paths. The trail uses paved sidewalks and park pathways, with a few compacted gravel sections in green spaces. Expect well-maintained surfaces and occasional street crossings.",
+    "safety_notes": "Treat this as a typical urban-to-suburban hike in the UK: check the forecast and daylight hours; wear sturdy footwear; keep to the left on shared paths; watch for cyclists and other pedestrians at crossings; stay hydrated; bring a map or mobile device with offline access; keep dogs under control and on a leash where required; carry a light layer for changing weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking shoes",
+      "Reusable water bottle",
+      "Lightweight waterproof jacket (and an extra layer if rain is forecast)",
+      "Sunscreen, hat, and sunglasses for sunny days",
+      "Map or smartphone with offline map and a small power bank",
+      "Small backpack or daypack for essentials",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for this trail; it can be walked year-round, but winter conditions—wet, windy, or icy surfaces—may be less pleasant.",
+    "seo": {
+      "title": "Bradninch Town Trail – Easy 4.6 km Hike in the UK",
+      "meta_description": "Discover Bradninch Town Trail, a gentle 4.6 km walk in the UK suitable for beginners. Learn about the terrain, safety tips, and what to bring.",
+      "h1": "Bradninch Town Trail – Easy 4.6 km Hike"
+    }
+  }
+}

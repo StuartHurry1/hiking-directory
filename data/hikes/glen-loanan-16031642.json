@@ -1,0 +1,21 @@
+{
+  "id": "osm-16031642",
+  "slug": "glen-loanan-16031642",
+  "name": "Glen Loanan",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0796714,
+    "lon": -5.9533048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16031642
+  }
+}

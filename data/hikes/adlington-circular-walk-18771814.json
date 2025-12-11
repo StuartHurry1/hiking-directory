@@ -1,0 +1,42 @@
+{
+  "id": "osm-18771814",
+  "slug": "adlington-circular-walk-18771814",
+  "name": "Adlington Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6268268,
+    "lon": -2.6109195
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18771814
+  },
+  "ai": {
+    "summary": "A gentle 4.8 km circular walk in the UK that starts and ends at the same point, designed for beginners and families. The route follows easy paths with light elevation, making it suitable for most ages and abilities.",
+    "terrain_summary": "Primarily well-maintained paths with occasional grassy or gravel sections. The route features gentle undulations and a few short slopes. Generally easy, but after rainfall sections can become muddy; strollers may be feasible on the smoother stretches.",
+    "safety_notes": "Check the weather and daylight hours before you go. Wear sturdy footwear and bring a waterproof layer. Stay on marked paths and respect landowners. Have a map or offline route available and know how to navigate back. Carry water, sun protection in dry months, and a basic first aid kit. Inform someone of your plans and be cautious near road crossings and in rural livestock areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Water and snacks",
+      "Map or offline route download",
+      "Phone with emergency numbers",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn are best for pleasant walking; summer offers longer daylight, while autumn provides good scenery. Winter walks are possible but can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Adlington Circular Walk – 4.8 km Easy Hike in the UK",
+      "meta_description": "Explore the Adlington Circular Walk in the UK. A 4.8 km easy circular route suitable for all ages, with practical safety tips, terrain details, and gear recommendations.",
+      "h1": "Adlington Circular Walk – 4.8 km Easy Hike (UK)"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12692899",
+  "slug": "capital-ring-link-to-clapton-station-12692899",
+  "name": "Capital Ring link to Clapton Station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5614346,
+    "lon": -0.0570873
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12692899
+  }
+}

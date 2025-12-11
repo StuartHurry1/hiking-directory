@@ -1,0 +1,21 @@
+{
+  "id": "osm-19527471",
+  "slug": "dolmelynllyn-estate-walk-19527471",
+  "name": "Dolmelynllyn Estate Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7943561,
+    "lon": -3.9048374
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19527471
+  }
+}

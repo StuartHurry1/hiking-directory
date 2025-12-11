@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756395",
+  "slug": "cateran-trail-1756395",
+  "name": "Cateran Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 174.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5932991,
+    "lon": -3.3370387
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756395
+  }
+}

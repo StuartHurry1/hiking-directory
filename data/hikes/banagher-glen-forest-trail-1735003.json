@@ -1,0 +1,45 @@
+{
+  "id": "osm-1735003",
+  "slug": "banagher-glen-forest-trail-1735003",
+  "name": "Banagher Glen - Forest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8889701,
+    "lon": -6.9558518
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1735003
+  },
+  "ai": {
+    "summary": "Banagher Glen Forest Trail is a challenging 18.8 km hike through UK woodland. Classified as hard, the route combines long distances with elevation changes and variable trail conditions, including muddy sections and uneven terrain. Expect dense forest scenery, occasional open viewpoints, and a physically demanding day.",
+    "terrain_summary": "Forest trail with mixed surfaces: muddy packed earth, exposed roots, rocky steps, and occasional rutted sections. Elevation varies with sections of ascent and descent; footing can be slippery when wet. Navigation is straightforward but can become tricky in dense cover; wear sturdy boots.",
+    "safety_notes": "Plan for variable UK weather; dress in layers and carry rain protection. Wear sturdy waterproof footwear with good grip. Bring a map and compass or GPS; don't rely on phone reception. Start with plenty of daylight; the full 18.8 km can take 6–9 hours depending on pace. Carry enough water and snacks, plus a basic first aid kit. Inform someone of your route and expected return. If conditions are foggy or icy, consider postponing or turning back. Be mindful of wildlife and follow Leave No Trace principles. In forests, some sections can be exposed to wind; watch for sudden weather changes.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a waterproof jacket",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Mobile phone with offline maps",
+      "Trekking poles (optional)",
+      "Extra socks",
+      "Rain pants and waterproof shell"
+    ],
+    "best_seasons": "Spring to Autumn; winter hikes are possible with proper gear and careful planning",
+    "seo": {
+      "title": "Banagher Glen Forest Trail – 18.8 km Hard Hike in the UK",
+      "meta_description": "A challenging 18.8 km forest trail hike in the UK. Get terrain, safety tips, gear recommendations, and the best seasons for Banagher Glen Forest Trail.",
+      "h1": "Banagher Glen Forest Trail – 18.8 km (Hard)"
+    }
+  }
+}

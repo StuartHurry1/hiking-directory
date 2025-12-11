@@ -1,0 +1,21 @@
+{
+  "id": "osm-15552434",
+  "slug": "red-walk-15552434",
+  "name": "Red Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8016297,
+    "lon": -1.4642901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15552434
+  }
+}

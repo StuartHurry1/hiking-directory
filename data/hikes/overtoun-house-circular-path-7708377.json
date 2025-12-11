@@ -1,0 +1,21 @@
+{
+  "id": "osm-7708377",
+  "slug": "overtoun-house-circular-path-7708377",
+  "name": "Overtoun House Circular Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9437485,
+    "lon": -4.543189
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7708377
+  }
+}

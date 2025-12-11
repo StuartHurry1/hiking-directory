@@ -1,0 +1,21 @@
+{
+  "id": "osm-1969184",
+  "slug": "mineral-valleys-walk-frosterley-walk-3-1969184",
+  "name": "Mineral Valleys Walk: Frosterley (Walk 3)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7272315,
+    "lon": -1.9653722
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1969184
+  }
+}

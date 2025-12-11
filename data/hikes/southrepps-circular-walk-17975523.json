@@ -1,0 +1,21 @@
+{
+  "id": "osm-17975523",
+  "slug": "southrepps-circular-walk-17975523",
+  "name": "Southrepps Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8659814,
+    "lon": 1.3574429
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17975523
+  }
+}

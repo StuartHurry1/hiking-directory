@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374590",
+  "slug": "south-west-coast-path-section-20-hayle-to-st-ives-2374590",
+  "name": "South West Coast Path (Section 20: Hayle to St Ives)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1841437,
+    "lon": -5.4214434
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374590
+  }
+}

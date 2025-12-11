@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497970",
+  "slug": "fladdabister-11497970",
+  "name": "Fladdabister",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0782916,
+    "lon": -1.2251957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497970
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17962989",
+  "slug": "tow-law-17962989",
+  "name": "Tow Law",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7454164,
+    "lon": -1.8144541
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17962989
+  }
+}

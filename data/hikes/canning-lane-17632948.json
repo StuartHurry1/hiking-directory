@@ -1,0 +1,21 @@
+{
+  "id": "osm-17632948",
+  "slug": "canning-lane-17632948",
+  "name": "Canning Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6213706,
+    "lon": -6.2202743
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17632948
+  }
+}

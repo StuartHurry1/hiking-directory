@@ -1,0 +1,23 @@
+{
+  "id": "osm-2101311",
+  "slug": "coleridge-way-2101311",
+  "name": "Coleridge Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 279.1,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1519622,
+    "lon": -3.2679518
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2101311
+  }
+}

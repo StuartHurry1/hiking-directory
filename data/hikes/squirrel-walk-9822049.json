@@ -1,0 +1,21 @@
+{
+  "id": "osm-9822049",
+  "slug": "squirrel-walk-9822049",
+  "name": "Squirrel Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.551258,
+    "lon": -3.0947251
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9822049
+  }
+}

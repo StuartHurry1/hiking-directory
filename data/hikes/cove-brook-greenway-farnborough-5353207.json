@@ -1,0 +1,21 @@
+{
+  "id": "osm-5353207",
+  "slug": "cove-brook-greenway-farnborough-5353207",
+  "name": "Cove Brook Greenway, Farnborough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2940847,
+    "lon": -0.7727515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5353207
+  }
+}

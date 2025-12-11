@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763991",
+  "slug": "cross-borders-drove-road-west-linton-to-traquair-19763991",
+  "name": "Cross Borders Drove Road (West Linton to Traquair)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 78.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7540076,
+    "lon": -3.3565434
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763991
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8236449",
+  "slug": "scorrybreac-8236449",
+  "name": "Scorrybreac",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4154748,
+    "lon": -6.185192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8236449
+  }
+}

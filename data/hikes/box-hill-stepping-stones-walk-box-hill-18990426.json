@@ -1,0 +1,40 @@
+{
+  "id": "osm-18990426",
+  "slug": "box-hill-stepping-stones-walk-box-hill-18990426",
+  "name": "Box Hill Stepping Stones walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2490394,
+    "lon": -0.3128167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990426
+  },
+  "ai": {
+    "summary": "A pleasant 5.9 km easy loop around Box Hill, featuring the famous stepping stones across a river and panoramic views of the Surrey Hills. Suitable for families and casual walkers seeking a relaxed hike with gentle climbs.",
+    "terrain_summary": "Mainly chalk paths with well-marked trails and occasional steps. Gentle ascents with some uneven ground and a few muddy patches, especially after rain. The standout feature is crossing the stepping stones over a stream near the Stepping Stones area.",
+    "safety_notes": "Wear sturdy, waterproof walking boots and bring a light waterproof layer. Slippery stepping stones can be hazardous when wet; take care when crossing and avoid them in flood conditions. Stay on marked paths, supervise children, and be mindful of weather changes and exposed sections.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes with good grip",
+      "Water and snacks",
+      "Light waterproof jacket",
+      "Map or offline navigation",
+      "Small first-aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring and autumn (March–May and September–October) for milder weather and scenery; the route is also doable year-round, though summers can be busier and winters mudier.",
+    "seo": {
+      "title": "Box Hill Stepping Stones Walk – Easy 5.9 km Loop (Box Hill, UK)",
+      "meta_description": "Explore the Box Hill Stepping Stones walk, an easy 5.9 km route with river crossing stepping stones, chalk paths, and panoramic views of the Surrey Hills.",
+      "h1": "Box Hill Stepping Stones Walk – Easy 5.9 km"
+    }
+  }
+}

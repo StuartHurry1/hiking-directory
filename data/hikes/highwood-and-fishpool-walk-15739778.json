@@ -1,0 +1,21 @@
+{
+  "id": "osm-15739778",
+  "slug": "highwood-and-fishpool-walk-15739778",
+  "name": "Highwood and Fishpool walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2944286,
+    "lon": -2.8054674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15739778
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-5637581",
+  "slug": "stephen-langton-trail-5637581",
+  "name": "Stephen Langton Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2598455,
+    "lon": -0.3537981
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5637581
+  }
+}

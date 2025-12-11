@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004199",
+  "slug": "rhyd-ddu-path-4004199",
+  "name": "Rhyd Ddu Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0679514,
+    "lon": -4.0768658
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004199
+  }
+}

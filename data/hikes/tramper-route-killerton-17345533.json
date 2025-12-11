@@ -1,0 +1,21 @@
+{
+  "id": "osm-17345533",
+  "slug": "tramper-route-killerton-17345533",
+  "name": "Tramper Route, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17345533
+  }
+}

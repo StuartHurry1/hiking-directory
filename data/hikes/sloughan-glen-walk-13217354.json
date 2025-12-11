@@ -1,0 +1,21 @@
+{
+  "id": "osm-13217354",
+  "slug": "sloughan-glen-walk-13217354",
+  "name": "Sloughan Glen Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6145575,
+    "lon": -7.5769508
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13217354
+  }
+}

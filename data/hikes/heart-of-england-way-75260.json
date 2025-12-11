@@ -1,0 +1,21 @@
+{
+  "id": "osm-75260",
+  "slug": "heart-of-england-way-75260",
+  "name": "Heart of England Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 359.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7826772,
+    "lon": -2.0386842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 75260
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2934125",
+  "slug": "great-english-walk-2934125",
+  "name": "Great English Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1420806,
+    "lon": -2.4692345
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2934125
+  }
+}

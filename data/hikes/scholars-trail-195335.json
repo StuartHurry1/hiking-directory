@@ -1,0 +1,21 @@
+{
+  "id": "osm-195335",
+  "slug": "scholars-trail-195335",
+  "name": "Scholar's Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2246559,
+    "lon": -0.5767018
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 195335
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11920062",
+  "slug": "pulham-market-workhouse-walk-11920062",
+  "name": "Pulham Market Workhouse Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4297273,
+    "lon": 1.2306647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11920062
+  }
+}

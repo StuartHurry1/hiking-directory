@@ -1,0 +1,21 @@
+{
+  "id": "osm-17477779",
+  "slug": "hoe-trail-17477779",
+  "name": "Hoe Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3661999,
+    "lon": -4.1339801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17477779
+  }
+}

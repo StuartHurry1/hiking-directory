@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756397",
+  "slug": "formartine-and-buchan-way-1756397",
+  "name": "Formartine and Buchan Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 208.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2065412,
+    "lon": -2.1931003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756397
+  }
+}

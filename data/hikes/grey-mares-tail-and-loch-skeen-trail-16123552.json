@@ -1,0 +1,21 @@
+{
+  "id": "osm-16123552",
+  "slug": "grey-mares-tail-and-loch-skeen-trail-16123552",
+  "name": "Grey Mare's Tail and Loch Skeen Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4189222,
+    "lon": -3.2870889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16123552
+  }
+}

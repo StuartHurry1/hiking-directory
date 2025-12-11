@@ -1,0 +1,21 @@
+{
+  "id": "osm-10664122",
+  "slug": "loop-link-to-bexley-station-10664122",
+  "name": "LOOP link to Bexley station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4409346,
+    "lon": 0.1488163
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10664122
+  }
+}

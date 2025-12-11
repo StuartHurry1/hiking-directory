@@ -1,0 +1,33 @@
+{
+  "id": 14500449,
+  "slug": "green-chain-walk-section-1-link-14500449",
+  "name": "Green Chain Walk section 1 link",
+  "network": "rwn",
+  "tags": {
+    "colour": "#08a856",
+    "name": "Green Chain Walk section 1 link",
+    "network": "rwn",
+    "ref": "G-C",
+    "route": "foot",
+    "type": "route",
+    "website": "https://tfl.gov.uk/modes/walking/thamesmead-to-lesnes-abbey"
+  },
+  "coordinates": [
+    [
+      0.1240281,
+      51.5008767
+    ],
+    [
+      0.1237162,
+      51.5012453
+    ],
+    [
+      0.1241969,
+      51.5013896
+    ],
+    [
+      0.1245053,
+      51.5010345
+    ]
+  ]
+}

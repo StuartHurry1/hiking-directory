@@ -1,0 +1,21 @@
+{
+  "id": "osm-11585034",
+  "slug": "sulphur-and-salt-trail-11585034",
+  "name": "Sulphur and Salt Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7520242,
+    "lon": -1.5848651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11585034
+  }
+}

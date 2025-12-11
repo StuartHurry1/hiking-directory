@@ -1,0 +1,21 @@
+{
+  "id": "osm-18976933",
+  "slug": "north-woolley-loop-arlington-court-18976933",
+  "name": "North Woolley Loop, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1370916,
+    "lon": -4.0055867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976933
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12661372",
+  "slug": "capital-ring-link-to-finsbury-park-station-12661372",
+  "name": "Capital Ring link to Finsbury Park station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5662991,
+    "lon": -0.1052405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12661372
+  }
+}

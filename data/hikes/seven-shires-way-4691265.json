@@ -1,0 +1,21 @@
+{
+  "id": "osm-4691265",
+  "slug": "seven-shires-way-4691265",
+  "name": "Seven Shires Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.977555,
+    "lon": -1.5550939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4691265
+  }
+}

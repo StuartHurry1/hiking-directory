@@ -1,0 +1,23 @@
+{
+  "id": "osm-19817854",
+  "slug": "osterley-trail-osterley-19817854",
+  "name": "Osterley Trail, Osterley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4887592,
+    "lon": -0.3479056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19817854
+  }
+}

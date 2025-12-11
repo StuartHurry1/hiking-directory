@@ -1,0 +1,21 @@
+{
+  "id": "osm-15906971",
+  "slug": "sheepland-harbour-path-15906971",
+  "name": "Sheepland Harbour Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2763852,
+    "lon": -5.5772325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15906971
+  }
+}

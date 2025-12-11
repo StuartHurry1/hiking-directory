@@ -1,0 +1,21 @@
+{
+  "id": "osm-2348335",
+  "slug": "mausoleum-walk-red-route-2348335",
+  "name": "Mausoleum walk (Red Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8120365,
+    "lon": 1.2267032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2348335
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-1707885",
+  "slug": "acw-circular-walk-18-1707885",
+  "name": "ACW Circular Walk 18",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4621471,
+    "lon": -1.5906866
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707885
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 18 is a demanding 30.2 km circular hike in the United Kingdom. The route combines varied terrain and significant distance, making it a challenging day in the countryside.",
+    "terrain_summary": "Expect a mix of grassy uplands, muddy and rocky trails, forest tracks, and occasional stile crossings. Surfaces can be uneven and weather-dependent; waterproof footwear and careful footing are essential.",
+    "safety_notes": "This is a long, hard hike that requires good navigation and planning. In an unknown region, carry a current map or GPS, a fully charged phone, and a backup power source. Plan for daylight, weather changes, and ample water and snacks. Tell someone your route and expected finish time. Start early and be prepared to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof, breathable outer layer",
+      "Insulating layer and hat/gloves as needed",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Water (2–3 liters) and high-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "First-aid kit",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (roughly March–October) are ideal for this route; winter conditions can be harsh with shorter daylight and more mud and ice.",
+    "seo": {
+      "title": "ACW Circular Walk 18 — 30.2 km Hard UK Hike",
+      "meta_description": "Plan your trek on ACW Circular Walk 18, a 30.2 km hard hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons.",
+      "h1": "ACW Circular Walk 18 – 30.2 km Hard Hike in the UK"
+    }
+  }
+}

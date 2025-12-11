@@ -1,0 +1,21 @@
+{
+  "id": "osm-7906617",
+  "slug": "eglish-heritage-trail-7906617",
+  "name": "Eglish Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4542768,
+    "lon": -6.7997945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7906617
+  }
+}

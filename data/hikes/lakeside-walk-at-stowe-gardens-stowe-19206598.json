@@ -1,0 +1,23 @@
+{
+  "id": "osm-19206598",
+  "slug": "lakeside-walk-at-stowe-gardens-stowe-19206598",
+  "name": "Lakeside walk at Stowe Gardens, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0215874,
+    "lon": -1.0091676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19206598
+  }
+}

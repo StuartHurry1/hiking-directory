@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507216",
+  "slug": "loch-of-brekon-11507216",
+  "name": "Loch of Brekon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4861609,
+    "lon": -1.6122115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507216
+  }
+}

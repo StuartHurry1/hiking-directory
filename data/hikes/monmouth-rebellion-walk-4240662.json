@@ -1,0 +1,21 @@
+{
+  "id": "osm-4240662",
+  "slug": "monmouth-rebellion-walk-4240662",
+  "name": "Monmouth Rebellion Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 273,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7361811,
+    "lon": -2.9045305
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4240662
+  }
+}

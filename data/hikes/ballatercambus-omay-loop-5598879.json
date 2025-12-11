@@ -1,0 +1,44 @@
+{
+  "id": "osm-5598879",
+  "slug": "ballatercambus-omay-loop-5598879",
+  "name": "Ballater/Cambus o'May loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0503678,
+    "lon": -3.0400561
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5598879
+  },
+  "ai": {
+    "summary": "Hard 22.8 km circular hike known as the Ballater/Cambus o'May loop. The route threads through a mix of open moorland, forest tracks, and occasional rocky sections, with notable elevation changes and potential navigation challenges. It is best tackled by experienced hikers with good fitness, preparation, and a map or GPS.",
+    "terrain_summary": "Expect long exposed sections over heather moor and grassy paths, interspersed with woodland trails and rough, uneven ground. Some stretches can be boggy or rocky, and water crossings may be encountered after rain. Terrain can be varied and remote in places, so reliable navigation and footwear are essential.",
+    "safety_notes": "Plan according to weather; UK conditions can change quickly. Start with plenty of daylight; carry a map and compass or GPS, and know your route. Wear sturdy footwear and bring waterproof clothing and extra layers. Carry sufficient water and high-energy food; have a small first aid kit and a means to signal for help (whistle, fully charged phone). Consider trekking poles for balance; inform someone of your planned return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Insulating layers (fleece or down)",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone with offline maps",
+      "Water, electrolytes, and high-energy snacks",
+      "Lightweight emergency bivvy or space blanket",
+      "First aid kit including blister care",
+      "Whistle and headlamp with spare batteries",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best hiking conditions in the UK, but be prepared for sudden weather changes and muddy sections year-round.",
+    "seo": {
+      "title": "Ballater/Cambus o'May loop – 22.8 km Hard Hike in the UK",
+      "meta_description": "Discover the Ballater/Cambus o'May loop, a 22.8 km hard hike in the UK featuring moorland, forest tracks, and rugged terrain. Route overview, safety tips, and gear recommendations.",
+      "h1": "Ballater/Cambus o'May loop – 22.8 km Hard Hike"
+    }
+  }
+}

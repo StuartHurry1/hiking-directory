@@ -1,0 +1,21 @@
+{
+  "id": "osm-19262058",
+  "slug": "duchess-cave-from-cally-car-park-19262058",
+  "name": "Duchess Cave from Cally Car Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5752059,
+    "lon": -3.5915061
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19262058
+  }
+}

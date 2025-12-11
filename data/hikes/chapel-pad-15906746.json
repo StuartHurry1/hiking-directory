@@ -1,0 +1,21 @@
+{
+  "id": "osm-15906746",
+  "slug": "chapel-pad-15906746",
+  "name": "Chapel Pad",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3670889,
+    "lon": -5.8506614
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15906746
+  }
+}

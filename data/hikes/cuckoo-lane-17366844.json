@@ -1,0 +1,21 @@
+{
+  "id": "osm-17366844",
+  "slug": "cuckoo-lane-17366844",
+  "name": "Cuckoo Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7619978,
+    "lon": -1.2111472
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17366844
+  }
+}

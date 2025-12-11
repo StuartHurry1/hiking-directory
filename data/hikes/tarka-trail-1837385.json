@@ -1,0 +1,21 @@
+{
+  "id": "osm-1837385",
+  "slug": "tarka-trail-1837385",
+  "name": "Tarka Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 910.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7989639,
+    "lon": -3.9084332
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1837385
+  }
+}

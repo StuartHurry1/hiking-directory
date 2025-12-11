@@ -1,0 +1,21 @@
+{
+  "id": "osm-13221073",
+  "slug": "crockbrack-way-13221073",
+  "name": "Crockbrack Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8092391,
+    "lon": -6.855112
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13221073
+  }
+}

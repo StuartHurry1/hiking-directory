@@ -1,0 +1,21 @@
+{
+  "id": "osm-15723889",
+  "slug": "skye-trail-shortcut-camasunary-to-kilmarie-15723889",
+  "name": "Skye Trail - shortcut Camasunary to Kilmarie",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1908686,
+    "lon": -6.1092248
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15723889
+  }
+}

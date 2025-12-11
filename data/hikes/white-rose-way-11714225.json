@@ -1,0 +1,21 @@
+{
+  "id": "osm-11714225",
+  "slug": "white-rose-way-11714225",
+  "name": "White Rose Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0051791,
+    "lon": -0.8900443
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11714225
+  }
+}

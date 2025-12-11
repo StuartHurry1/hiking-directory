@@ -1,0 +1,21 @@
+{
+  "id": "osm-2964584",
+  "slug": "castle-ward-shore-trail-2964584",
+  "name": "Castle Ward - Shore Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3719141,
+    "lon": -5.577592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2964584
+  }
+}

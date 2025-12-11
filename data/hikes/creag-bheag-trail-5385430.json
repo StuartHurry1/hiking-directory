@@ -1,0 +1,21 @@
+{
+  "id": "osm-5385430",
+  "slug": "creag-bheag-trail-5385430",
+  "name": "Creag Bheag Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0808112,
+    "lon": -4.0541319
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5385430
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9315",
+  "slug": "mordiford-loop-9315",
+  "name": "Mordiford Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0325623,
+    "lon": -2.6230681
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9315
+  }
+}

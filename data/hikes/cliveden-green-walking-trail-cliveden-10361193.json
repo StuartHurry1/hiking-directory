@@ -1,0 +1,21 @@
+{
+  "id": "osm-10361193",
+  "slug": "cliveden-green-walking-trail-cliveden-10361193",
+  "name": "Cliveden Green Walking Trail, Cliveden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.549658,
+    "lon": -0.6866384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10361193
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19852433",
+  "slug": "mini-explorer-trail-and-brass-rubbing-hardy-monument-19852433",
+  "name": "Mini Explorer Trail and Brass Rubbing, Hardy Monument",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6867794,
+    "lon": -2.5495993
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19852433
+  }
+}

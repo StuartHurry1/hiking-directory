@@ -1,0 +1,21 @@
+{
+  "id": "osm-4242235",
+  "slug": "mosses-trail-green-4242235",
+  "name": "Mosses Trail Green",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9119754,
+    "lon": -2.7612534
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4242235
+  }
+}

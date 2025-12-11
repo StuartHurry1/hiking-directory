@@ -1,0 +1,23 @@
+{
+  "id": "osm-13678910",
+  "slug": "king-charles-iii-england-coast-path-grain-to-woolwich-13678910",
+  "name": "King Charles III England Coast Path: Grain to Woolwich",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 178.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4604766,
+    "lon": 0.7181305
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13678910
+  }
+}

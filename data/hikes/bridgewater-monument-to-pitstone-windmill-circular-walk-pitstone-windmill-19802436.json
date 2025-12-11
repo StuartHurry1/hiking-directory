@@ -1,0 +1,47 @@
+{
+  "id": "osm-19802436",
+  "slug": "bridgewater-monument-to-pitstone-windmill-circular-walk-pitstone-windmill-19802436",
+  "name": "Bridgewater Monument to Pitstone Windmill Circular Walk, Pitstone Windmill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8076301,
+    "lon": -0.5927286
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19802436
+  },
+  "ai": {
+    "summary": "A demanding 23.2 km circular hike from Bridgewater Monument to Pitstone Windmill, weaving along ridges with long ascents and expansive views. Suitable for experienced walkers comfortable with long distances, variable footing, and changing UK weather.",
+    "terrain_summary": "Primarily grassy ridge paths and chalky tracks, with field lanes, gates and occasional rocky or uneven sections. Expect uneven footing, potential mud after rain, hedges and stile crossings, and some exposed sections offering wide-open views.",
+    "safety_notes": "This is a hard, long-distance route; plan for 5–7+ hours depending on conditions. Check the forecast, avoid stormy or icy weather, and turn back if conditions deteriorate. Wear sturdy boots with good grip and bring layered waterproof clothing. Carry sufficient water and high-energy snacks, a map or GPS, and a fully charged phone. Stay on marked paths, watch for livestock, and note gate closures. Let someone know your plans and expected return time; navigation can be challenging in poor visibility.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (2–3 L) and energy snacks",
+      "Waterproof jacket and warm layers",
+      "Hat and gloves",
+      "Map and compass or GPS",
+      "Fully charged phone with offline map",
+      "Small first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for longer daylight and drier conditions; winter hikes are possible but more challenging due to mud, wind, and reduced visibility.",
+    "seo": {
+      "title": "Bridgewater Monument to Pitstone Windmill Circular Walk – 23.2 km Hard Ridge Hike",
+      "meta_description": "Plan a challenging 23.2 km circular hike from Bridgewater Monument to Pitstone Windmill. Expect ridge terrain, long climbs, and exposed viewpoints along this UK route.",
+      "h1": "Bridgewater Monument to Pitstone Windmill Circular Walk"
+    }
+  }
+}

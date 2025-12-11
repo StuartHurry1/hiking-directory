@@ -1,0 +1,23 @@
+{
+  "id": "osm-17954602",
+  "slug": "dundrum-coastal-path-17954602",
+  "name": "Dundrum Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2832094,
+    "lon": -5.8192096
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17954602
+  }
+}

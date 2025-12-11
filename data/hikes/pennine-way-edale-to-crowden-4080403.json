@@ -1,0 +1,21 @@
+{
+  "id": "osm-4080403",
+  "slug": "pennine-way-edale-to-crowden-4080403",
+  "name": "Pennine Way (Edale to Crowden)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3704759,
+    "lon": -1.8168639
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4080403
+  }
+}

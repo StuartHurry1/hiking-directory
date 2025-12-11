@@ -1,0 +1,21 @@
+{
+  "id": "osm-12660246",
+  "slug": "capital-ring-link-to-stoke-newington-station-12660246",
+  "name": "Capital Ring link to Stoke Newington station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5655017,
+    "lon": -0.0729568
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12660246
+  }
+}

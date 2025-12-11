@@ -1,0 +1,21 @@
+{
+  "id": "osm-12835687",
+  "slug": "the-vale-way-12835687",
+  "name": "The Vale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 158,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6162996,
+    "lon": -1.6065667
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12835687
+  }
+}

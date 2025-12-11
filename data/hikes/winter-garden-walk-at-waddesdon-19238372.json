@@ -1,0 +1,21 @@
+{
+  "id": "osm-19238372",
+  "slug": "winter-garden-walk-at-waddesdon-19238372",
+  "name": "Winter Garden Walk at Waddesdon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8445242,
+    "lon": -0.9363224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19238372
+  }
+}

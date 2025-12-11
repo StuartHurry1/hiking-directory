@@ -1,0 +1,21 @@
+{
+  "id": "osm-15460050",
+  "slug": "glen-loanin-15460050",
+  "name": "Glen Loanin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3663663,
+    "lon": -5.9680768
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15460050
+  }
+}

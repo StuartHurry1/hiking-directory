@@ -1,0 +1,21 @@
+{
+  "id": "osm-14191899",
+  "slug": "helston-br-30-14191899",
+  "name": "Helston BR 30",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0739214,
+    "lon": -5.2787978
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14191899
+  }
+}

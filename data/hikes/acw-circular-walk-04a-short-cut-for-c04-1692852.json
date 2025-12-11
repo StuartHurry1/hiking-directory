@@ -1,0 +1,46 @@
+{
+  "id": "osm-1692852",
+  "slug": "acw-circular-walk-04a-short-cut-for-c04-1692852",
+  "name": "ACW Circular Walk 04A (short-cut for C04)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3460382,
+    "lon": -1.5895129
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1692852
+  },
+  "ai": {
+    "summary": "A demanding 24.8 km circular hike in the UK, a short-cut variant of ACW C04, combining rural lanes, woodland trails, and exposed viewpoints. Suitable for experienced hikers with solid navigation and preparation.",
+    "terrain_summary": "Mixed terrain throughout: quiet country lanes, grassy fields, woodland paths, and several short rocky or muddy sections. Expect gentle to steep ascents, stiles, and occasional boggy ground; long sections can be exposed to wind.",
+    "safety_notes": "Plan for 6–9 hours and check the forecast before you go. Weather in the UK can change quickly, and some sections may be remote with limited mobile signal. Navigation is important—bring a map and compass (or GPS). Wear sturdy boots and dress in layers with a waterproof jacket and trousers. Carry sufficient water and snacks, plus a small first aid kit, whistle, and thermal blanket. Tell someone your route and expected return time and consider starting early to avoid dusk.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus extra insulation",
+      "Waterproof jacket and trousers",
+      "Backpack with at least 2 liters of water",
+      "Map and compass (or GPS with offline maps)",
+      "Headtorch or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Snacks or energy bars",
+      "Sunscreen and sun hat",
+      "Optional trekking poles",
+      "Emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October). Weather is usually milder and daylight longer, though muddy conditions can persist after rain.",
+    "seo": {
+      "title": "ACW Circular Walk 04A (short-cut for C04) – 24.8 km Hard Circular Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 04A, a 24.8 km hard circular hike in the UK. Learn the route highlights, terrain, safety tips, and what to pack for this challenging long-distance trek.",
+      "h1": "ACW Circular Walk 04A (short-cut for C04) – 24.8 km Hard Circular Hike in the UK"
+    }
+  }
+}

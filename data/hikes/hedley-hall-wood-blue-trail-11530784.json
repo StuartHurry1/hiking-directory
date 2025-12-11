@@ -1,0 +1,21 @@
+{
+  "id": "osm-11530784",
+  "slug": "hedley-hall-wood-blue-trail-11530784",
+  "name": "Hedley Hall Wood Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9030175,
+    "lon": -1.6648655
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11530784
+  }
+}

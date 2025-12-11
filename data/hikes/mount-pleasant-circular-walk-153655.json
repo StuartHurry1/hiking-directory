@@ -1,0 +1,21 @@
+{
+  "id": "osm-153655",
+  "slug": "mount-pleasant-circular-walk-153655",
+  "name": "Mount Pleasant Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2178964,
+    "lon": -2.7004327
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 153655
+  }
+}

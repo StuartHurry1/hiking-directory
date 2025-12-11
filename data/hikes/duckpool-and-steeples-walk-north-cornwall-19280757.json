@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280757",
+  "slug": "duckpool-and-steeples-walk-north-cornwall-19280757",
+  "name": "Duckpool and steeples walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.87674,
+    "lon": -4.5566587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280757
+  }
+}

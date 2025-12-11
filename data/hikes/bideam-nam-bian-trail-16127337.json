@@ -1,0 +1,47 @@
+{
+  "id": "osm-16127337",
+  "slug": "bideam-nam-bian-trail-16127337",
+  "name": "Bideam nam Bian Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.66777,
+    "lon": -4.9867456
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127337
+  },
+  "ai": {
+    "summary": "The Bideam nam Bian Trail is a 14.2 km moderate hike in the United Kingdom with an unknown region. The route offers varied terrain and rural scenery, suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Expect varied terrain including forest tracks, grassy paths, and some uneven or rocky sections. Trails may be muddy after rain, with occasional exposed ground and gentle to moderate elevation changes.",
+    "safety_notes": "Plan for changeable UK weather: bring layers, waterproofs, and sun protection. Wear sturdy boots, stay on marked paths, carry a map and compass or GPS, and tell someone your plans. Bring enough water and snacks, a small first aid kit, a headlamp, and a means to signal for help in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Small first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Emergency blanket or bivy sack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (May–October) is typically best; the hike can be done year-round with appropriate gear and daylight.",
+    "seo": {
+      "title": "Bideam nam Bian Trail Hike Guide | 14.2 km Moderate UK Trek",
+      "meta_description": "Discover the Bideam nam Bian Trail, a 14.2 km moderate hike in the UK. Practical safety tips, terrain overview, gear recommendations, and the best seasons for this trail.",
+      "h1": "Bideam nam Bian Trail — 14.2 km Moderate Hike in the UK"
+    }
+  }
+}

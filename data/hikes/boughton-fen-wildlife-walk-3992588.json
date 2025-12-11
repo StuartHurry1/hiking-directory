@@ -1,0 +1,42 @@
+{
+  "id": "osm-3992588",
+  "slug": "boughton-fen-wildlife-walk-3992588",
+  "name": "Boughton Fen Wildlife Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5866328,
+    "lon": 0.5380505
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3992588
+  },
+  "ai": {
+    "summary": "A short, easy wildlife walk in the United Kingdom, about 0.8 km in length. The route follows fen boardwalks and open wetland scenery, offering chances to see birds and marsh plants. The ground is mostly flat and suited for families and casual walkers; conditions can be wet or muddy in the wetter months.",
+    "terrain_summary": "Flat, mostly raised boardwalk with occasional adjacent wetlands. The surface is firm on the boardwalk but may be soft or muddy off it. Some sections may be exposed to sun, wind, or rain; watch for puddles and uneven patches.",
+    "safety_notes": "Check weather and water levels before you go. Stay on approved paths and yield to others when on shared sections. Wear sturdy waterproof footwear and bring a light waterproof layer. Insect repellent and sun protection are recommended. Watch for ticks in tall grass. Supervise children and dogs closely. Do not disturb wildlife, and take care near nesting birds. Carry a map or offline device and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Insect repellent",
+      "Sunscreen and hat",
+      "Binoculars or camera",
+      "Map or offline navigation (optional)",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) when wildlife and plants are most active; visits in winter are possible but often cold, damp, and less wildlife visible.",
+    "seo": {
+      "title": "Boughton Fen Wildlife Walk – Easy 0.8 km Fen Boardwalk in the UK",
+      "meta_description": "Discover the Boughton Fen Wildlife Walk, a short and easy 0.8 km trail through fen habitat in the UK. Flat boardwalk, wildlife viewing, and practical safety tips.",
+      "h1": "Boughton Fen Wildlife Walk – Easy 0.8 km Fen Boardwalk"
+    }
+  }
+}

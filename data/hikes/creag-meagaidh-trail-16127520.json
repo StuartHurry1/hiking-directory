@@ -1,0 +1,21 @@
+{
+  "id": "osm-16127520",
+  "slug": "creag-meagaidh-trail-16127520",
+  "name": "Creag Mèagaidh Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.952132,
+    "lon": -4.4964044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127520
+  }
+}

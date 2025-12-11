@@ -1,0 +1,21 @@
+{
+  "id": "osm-16672871",
+  "slug": "stow-cum-quy-fen-sssi-16672871",
+  "name": "Stow-cum-Quy Fen SSSI",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2420529,
+    "lon": 0.2150825
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16672871
+  }
+}

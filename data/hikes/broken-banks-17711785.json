@@ -1,0 +1,41 @@
+{
+  "id": "osm-17711785",
+  "slug": "broken-banks-17711785",
+  "name": "Broken Banks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3334615,
+    "lon": -1.9624185
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17711785
+  },
+  "ai": {
+    "summary": "Broken Banks is a short, easy 0.5 km hike in the UK, offering a gentle stroll along grassy riverbanks with occasional woodland tracks and open views of the surrounding landscape.",
+    "terrain_summary": "The route follows mostly well-defined paths with some grassy or dirt sections. Expect gentle gradients, occasional uneven ground, and potential mud near the banks after rain. Wind exposure can be present on open sections.",
+    "safety_notes": "Wear sturdy footwear and stay to the marked paths. Check the weather before you go and be mindful of slippery surfaces after rain. Supervise children, watch for cyclists on shared paths, and beware of low branches. Keep a safe distance from the edge of river or water features and carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Light rain jacket",
+      "Sunscreen and hat (summer)",
+      "Phone with map or offline route",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions for this easy, short hike, with dry paths and longer daylight. Winter visits are possible but can be muddy and windy.",
+    "seo": {
+      "title": "Broken Banks – Easy 0.5 km Hike in the UK",
+      "meta_description": "Explore Broken Banks, a short and easy 0.5 km hike in the UK. Gentle terrain, scenic riverbank views, and practical safety tips for a quick outdoor stroll.",
+      "h1": "Broken Banks: 0.5 km Easy Hike in the UK"
+    }
+  }
+}

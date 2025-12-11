@@ -1,0 +1,47 @@
+{
+  "id": "osm-19854096",
+  "slug": "aarons-walk-19854096",
+  "name": "Aaron's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3326019,
+    "lon": -3.3159336
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19854096
+  },
+  "ai": {
+    "summary": "Aaron's Walk is a challenging 17.9-kilometer hike in the United Kingdom designed for experienced walkers. The route combines varied terrain with significant elevation, demanding good fitness, navigation ability, and appropriate gear. Expect scenic viewpoints and potential weather changes typical of UK landscapes.",
+    "terrain_summary": "Expect a mix of good paths, uneven rocky sections, grassy moorland, and some steep ascents and descents. Footing can be uneven and muddy after rain; sections may be exposed with changing weather. Navigation may be required if the route is not clearly signed.",
+    "safety_notes": "Plan for variable UK weather and short daylight hours. Bring a map and compass or GPS, stay on official paths, and share your plan with someone. Wear sturdy boots, carry layers, rain protection, water, and snacks. Allow extra time for difficult terrain, and be prepared for fatigue, slippery surfaces, and crosswinds on exposed sections. If conditions are poor or you’re unsure, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece or mid-layer)",
+      "Water and high-energy snacks (at least 2–3 liters of water)",
+      "Map and compass or reliable GPS device",
+      "Head covering and gloves as needed",
+      "Emergency layer or bivvy/space blanket",
+      "First aid kit",
+      "Whistle and flashlight/headlamp",
+      "Trekking poles (optional)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Mobile phone with offline maps",
+      "Emergency contact details"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter hiking advised only for experienced hikers with appropriate equipment and shorter daylight hours.",
+    "seo": {
+      "title": "Aaron's Walk: A 17.9 km Hard Hike in the UK",
+      "meta_description": "Explore Aaron's Walk, a demanding 17.9 km hike in the United Kingdom. This guide covers terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Aaron's Walk – 17.9 km Hard Hike in the UK"
+    }
+  }
+}

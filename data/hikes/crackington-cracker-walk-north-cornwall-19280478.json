@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280478",
+  "slug": "crackington-cracker-walk-north-cornwall-19280478",
+  "name": "Crackington cracker walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7411096,
+    "lon": -4.6326281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280478
+  }
+}

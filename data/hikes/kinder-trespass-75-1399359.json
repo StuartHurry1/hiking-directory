@@ -1,0 +1,21 @@
+{
+  "id": "osm-1399359",
+  "slug": "kinder-trespass-75-1399359",
+  "name": "Kinder Trespass 75",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3792729,
+    "lon": -1.9496342
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1399359
+  }
+}

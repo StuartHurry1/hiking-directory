@@ -1,0 +1,21 @@
+{
+  "id": "osm-11498084",
+  "slug": "trondra-farm-11498084",
+  "name": "Trondra Farm",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1160067,
+    "lon": -1.2955359
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498084
+  }
+}

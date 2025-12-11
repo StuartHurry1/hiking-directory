@@ -1,0 +1,21 @@
+{
+  "id": "osm-19165409",
+  "slug": "millennium-way-circular-walk-15-19165409",
+  "name": "Millennium Way Circular Walk 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.916735,
+    "lon": -1.8221043
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19165409
+  }
+}

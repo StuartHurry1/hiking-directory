@@ -1,0 +1,47 @@
+{
+  "id": "osm-176673",
+  "slug": "archaeological-way-old-route-176673",
+  "name": "Archaeological Way (old route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2856516,
+    "lon": -1.2116793
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 176673
+  },
+  "ai": {
+    "summary": "A hard, multi-day trek along the Archaeological Way (old route) in the UK, covering 66.6 km. The route blends heritage sites with varied, often rugged terrain, requiring solid navigation, endurance, and careful planning.",
+    "terrain_summary": "Varied terrain including grassy fields, hedged paths, gravel and rocky tracks, and occasional road crossings. Expect muddy sections, uneven footing, and some steep ascents. Some upland or exposed sections may demand good weather preparedness and navigation as waymarks can be sparse.",
+    "safety_notes": "Plan for a multi-day trek with realistic daily distances. Check weather forecasts and prepare for rain and cold. Wear sturdy boots and bring a map and compass or GPS with backups. Carry sufficient water, high-energy food, and a basic first aid kit. Include an emergency whistle, headlamp, spare batteries, and an emergency layer. Inform someone of your route and expected timings; be mindful of limited mobile signal in rural areas and respect land access rights and livestock.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with ankle support",
+      "Waterproof jacket and warm layers",
+      "Hat and gloves for cold or windy weather",
+      "Map and compass or GPS device with backups",
+      "Water bottle or hydration system and extra water for longer legs",
+      "High-energy snacks and meals",
+      "Small first aid kit with blister care",
+      "Emergency whistle",
+      "Headlamp or flashlight with spare batteries",
+      "Walking poles (optional but helpful)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency blanket or bivy sack",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (May-September) for better daylight and generally milder conditions; plan for variable weather and shorter daylight in autumn.",
+    "seo": {
+      "title": "Archaeological Way (old route) – 66.6 km Hard Hike in the UK",
+      "meta_description": "Explore the Archaeological Way (old route), a challenging 66.6 km trek across the UK. Learn terrain, safety tips, and gear for this heritage-rich, multi-day hike.",
+      "h1": "Archaeological Way (old route) – 66.6 km Hard UK Hike"
+    }
+  }
+}

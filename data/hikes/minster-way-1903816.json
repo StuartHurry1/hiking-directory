@@ -1,0 +1,21 @@
+{
+  "id": "osm-1903816",
+  "slug": "minster-way-1903816",
+  "name": "Minster Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 235.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8392219,
+    "lon": -0.425186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1903816
+  }
+}

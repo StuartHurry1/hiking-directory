@@ -1,0 +1,21 @@
+{
+  "id": "osm-14519665",
+  "slug": "thames-path-14519665",
+  "name": "Thames Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 478.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.694499,
+    "lon": -2.0296812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14519665
+  }
+}

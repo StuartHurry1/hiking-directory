@@ -1,0 +1,21 @@
+{
+  "id": "osm-18744141",
+  "slug": "rail-trail-wilmcote-greater-wootton-wawen-18744141",
+  "name": "Rail Trail: Wilmcote > Wootton Wawen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2227876,
+    "lon": -1.7571676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18744141
+  }
+}

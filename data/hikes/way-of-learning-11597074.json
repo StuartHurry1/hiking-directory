@@ -1,0 +1,21 @@
+{
+  "id": "osm-11597074",
+  "slug": "way-of-learning-11597074",
+  "name": "Way of Learning",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 110.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7737954,
+    "lon": -1.5768823
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11597074
+  }
+}

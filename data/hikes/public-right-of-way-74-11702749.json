@@ -1,0 +1,21 @@
+{
+  "id": "osm-11702749",
+  "slug": "public-right-of-way-74-11702749",
+  "name": "Public Right of Way 74",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.598871,
+    "lon": 0.066422
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11702749
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-14594961",
+  "slug": "broadford-community-woodland-14594961",
+  "name": "Broadford Community Woodland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2464404,
+    "lon": -5.9274455
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594961
+  },
+  "ai": {
+    "summary": "A 10.4 km moderate woodland hike through Broadford Community Woodland in the UK. The route follows forest paths at a steady pace, offering a peaceful nature experience with mostly gentle elevation and shaded sections.",
+    "terrain_summary": "Forest trails with packed earth and occasional gravel. Expect uneven surfaces, exposed roots and a few short climbs. Much of the track is shaded, with open clearings where views are possible.",
+    "safety_notes": "Plan for typical UK weather and shorter daylight hours in winter. Stay on marked paths and bring a map or GPS. Wear sturdy footwear and dress in layers. Carry water and snacks, and a small first-aid kit. Watch for muddy sections after rain, and take care on roots and wet leaves. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and waterproof jacket",
+      "Water and high-energy snacks",
+      "Map and/or GPS device",
+      "Phone in a protective case",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight rain cover or poncho",
+      "Backpack to carry gear",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering the best balance of mild weather and scenery; summer provides long daylight hours; winter can be muddy and slippery.",
+    "seo": {
+      "title": "Broadford Community Woodland Hike – 10.4 km Moderate Trail in the UK",
+      "meta_description": "Discover Broadford Community Woodland with a 10.4 km moderate hike through UK woodland. Practical tips on terrain, gear, and seasonal considerations.",
+      "h1": "Broadford Community Woodland: 10.4 km Moderate Hike in the UK"
+    }
+  }
+}

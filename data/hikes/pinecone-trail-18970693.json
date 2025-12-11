@@ -1,0 +1,21 @@
+{
+  "id": "osm-18970693",
+  "slug": "pinecone-trail-18970693",
+  "name": "Pinecone Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4073271,
+    "lon": -2.8171182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18970693
+  }
+}

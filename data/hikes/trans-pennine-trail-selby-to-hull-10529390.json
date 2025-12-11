@@ -1,0 +1,21 @@
+{
+  "id": "osm-10529390",
+  "slug": "trans-pennine-trail-selby-to-hull-10529390",
+  "name": "Trans-Pennine Trail (Selby to Hull)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 211.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7846029,
+    "lon": -1.0624688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10529390
+  }
+}

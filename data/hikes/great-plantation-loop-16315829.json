@@ -1,0 +1,21 @@
+{
+  "id": "osm-16315829",
+  "slug": "great-plantation-loop-16315829",
+  "name": "Great Plantation Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5643423,
+    "lon": -3.6441778
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16315829
+  }
+}

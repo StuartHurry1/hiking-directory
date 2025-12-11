@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376377",
+  "slug": "south-west-coast-path-section-47-seatown-to-abbotsbury-2376377",
+  "name": "South West Coast Path (Section 47: Seatown to Abbotsbury)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 54.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7219006,
+    "lon": -2.821965
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376377
+  }
+}

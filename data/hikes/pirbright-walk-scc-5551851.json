@@ -1,0 +1,21 @@
+{
+  "id": "osm-5551851",
+  "slug": "pirbright-walk-scc-5551851",
+  "name": "Pirbright walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2868361,
+    "lon": -0.6311762
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5551851
+  }
+}

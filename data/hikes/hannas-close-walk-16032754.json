@@ -1,0 +1,21 @@
+{
+  "id": "osm-16032754",
+  "slug": "hannas-close-walk-16032754",
+  "name": "Hanna's Close Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0795444,
+    "lon": -5.9944363
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16032754
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12109273",
+  "slug": "capital-ring-link-to-streatham-common-station-12109273",
+  "name": "Capital Ring link to Streatham Common station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4205628,
+    "lon": -0.1367855
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12109273
+  }
+}

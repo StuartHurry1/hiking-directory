@@ -1,0 +1,21 @@
+{
+  "id": "osm-1085449",
+  "slug": "tollymore-forest-river-trail-1085449",
+  "name": "Tollymore Forest - River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2243012,
+    "lon": -5.9406044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1085449
+  }
+}

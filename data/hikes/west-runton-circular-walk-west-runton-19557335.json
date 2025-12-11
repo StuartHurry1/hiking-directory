@@ -1,0 +1,21 @@
+{
+  "id": "osm-19557335",
+  "slug": "west-runton-circular-walk-west-runton-19557335",
+  "name": "West Runton Circular Walk, West Runton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9254145,
+    "lon": 1.2470529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19557335
+  }
+}

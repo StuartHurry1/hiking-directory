@@ -1,0 +1,21 @@
+{
+  "id": "osm-9058233",
+  "slug": "combe-valley-greenway-9058233",
+  "name": "Combe Valley Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8567635,
+    "lon": 0.4789412
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9058233
+  }
+}

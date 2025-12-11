@@ -1,0 +1,21 @@
+{
+  "id": "osm-11696716",
+  "slug": "purple-clover-leaf-walk-11696716",
+  "name": "Purple Clover Leaf Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8151433,
+    "lon": -1.5034198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11696716
+  }
+}

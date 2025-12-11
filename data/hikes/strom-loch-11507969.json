@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507969",
+  "slug": "strom-loch-11507969",
+  "name": "Strom Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.242947,
+    "lon": -1.2671344
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507969
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7904877",
+  "slug": "edzell-to-rocks-of-solitude-7904877",
+  "name": "Edzell to Rocks of Solitude",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8276351,
+    "lon": -2.6569404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7904877
+  }
+}

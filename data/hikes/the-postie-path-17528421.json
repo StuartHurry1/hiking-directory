@@ -1,0 +1,21 @@
+{
+  "id": "osm-17528421",
+  "slug": "the-postie-path-17528421",
+  "name": "The Postie Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9634264,
+    "lon": -5.1547017
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17528421
+  }
+}

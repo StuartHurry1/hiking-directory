@@ -1,0 +1,21 @@
+{
+  "id": "osm-8616090",
+  "slug": "red-walk-8616090",
+  "name": "Red Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7356267,
+    "lon": -0.49759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8616090
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19063676",
+  "slug": "leigh-woods-veteran-tree-walk-leigh-woods-19063676",
+  "name": "Leigh Woods veteran tree walk, Leigh Woods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4543944,
+    "lon": -2.641671
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19063676
+  }
+}

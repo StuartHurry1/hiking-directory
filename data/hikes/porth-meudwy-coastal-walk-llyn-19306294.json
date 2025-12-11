@@ -1,0 +1,23 @@
+{
+  "id": "osm-19306294",
+  "slug": "porth-meudwy-coastal-walk-llyn-19306294",
+  "name": "Porth Meudwy Coastal Walk, Llyn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7988826,
+    "lon": -4.7320609
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306294
+  }
+}

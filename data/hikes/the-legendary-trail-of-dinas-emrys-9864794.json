@@ -1,0 +1,23 @@
+{
+  "id": "osm-9864794",
+  "slug": "the-legendary-trail-of-dinas-emrys-9864794",
+  "name": "The Legendary Trail of Dinas Emrys",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0195129,
+    "lon": -4.088774
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9864794
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3840113",
+  "slug": "food-and-farming-trails-3840113",
+  "name": "Food and Farming Trails",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1798313,
+    "lon": -0.8991209
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3840113
+  }
+}

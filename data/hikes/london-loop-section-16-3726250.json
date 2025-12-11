@@ -1,0 +1,21 @@
+{
+  "id": "osm-3726250",
+  "slug": "london-loop-section-16-3726250",
+  "name": "London LOOP (Section 16)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6527546,
+    "lon": -0.2817901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3726250
+  }
+}

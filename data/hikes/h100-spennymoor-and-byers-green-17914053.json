@@ -1,0 +1,21 @@
+{
+  "id": "osm-17914053",
+  "slug": "h100-spennymoor-and-byers-green-17914053",
+  "name": "H100 - Spennymoor and Byers Green",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7006399,
+    "lon": -1.607135
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17914053
+  }
+}

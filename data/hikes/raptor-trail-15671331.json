@@ -1,0 +1,21 @@
+{
+  "id": "osm-15671331",
+  "slug": "raptor-trail-15671331",
+  "name": "Raptor Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6876727,
+    "lon": -2.0430383
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15671331
+  }
+}

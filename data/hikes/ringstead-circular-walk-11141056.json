@@ -1,0 +1,23 @@
+{
+  "id": "osm-11141056",
+  "slug": "ringstead-circular-walk-11141056",
+  "name": "Ringstead Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9331597,
+    "lon": 0.5384849
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11141056
+  }
+}

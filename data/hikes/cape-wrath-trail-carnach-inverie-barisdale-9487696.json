@@ -1,0 +1,21 @@
+{
+  "id": "osm-9487696",
+  "slug": "cape-wrath-trail-carnach-inverie-barisdale-9487696",
+  "name": "Cape-Wrath-Trail (Carnach → Inverie → Barisdale)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0217974,
+    "lon": -5.5389156
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9487696
+  }
+}

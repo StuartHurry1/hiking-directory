@@ -1,0 +1,21 @@
+{
+  "id": "osm-10663710",
+  "slug": "loop-link-to-moor-park-underground-10663710",
+  "name": "LOOP link to Moor Park Underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6237913,
+    "lon": -0.4279413
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10663710
+  }
+}

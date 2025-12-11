@@ -1,0 +1,21 @@
+{
+  "id": "osm-18099477",
+  "slug": "st-cuthberts-three-church-trail-18099477",
+  "name": "St Cuthbert's Three Church Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2298886,
+    "lon": -2.1038488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18099477
+  }
+}

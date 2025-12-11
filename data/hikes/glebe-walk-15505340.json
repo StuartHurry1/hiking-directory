@@ -1,0 +1,21 @@
+{
+  "id": "osm-15505340",
+  "slug": "glebe-walk-15505340",
+  "name": "Glebe Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3283579,
+    "lon": -5.5646818
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15505340
+  }
+}

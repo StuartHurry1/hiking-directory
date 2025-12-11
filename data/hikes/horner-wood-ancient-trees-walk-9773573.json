@@ -1,0 +1,21 @@
+{
+  "id": "osm-9773573",
+  "slug": "horner-wood-ancient-trees-walk-9773573",
+  "name": "Horner Wood ancient trees walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.175849,
+    "lon": -3.5787204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773573
+  }
+}

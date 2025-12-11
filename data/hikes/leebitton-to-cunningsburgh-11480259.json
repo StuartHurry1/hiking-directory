@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480259",
+  "slug": "leebitton-to-cunningsburgh-11480259",
+  "name": "Leebitton to Cunningsburgh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0294919,
+    "lon": -1.2351676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480259
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6373100",
+  "slug": "three-ridings-on-foot-6373100",
+  "name": "Three Ridings on Foot",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 91,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4863142,
+    "lon": -1.2483817
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6373100
+  }
+}

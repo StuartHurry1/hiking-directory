@@ -1,0 +1,21 @@
+{
+  "id": "osm-10800125",
+  "slug": "colne-valley-path-10800125",
+  "name": "Colne Valley Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 138.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0160688,
+    "lon": 0.5637956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10800125
+  }
+}

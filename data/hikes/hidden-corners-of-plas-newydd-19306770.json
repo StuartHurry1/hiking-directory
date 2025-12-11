@@ -1,0 +1,21 @@
+{
+  "id": "osm-19306770",
+  "slug": "hidden-corners-of-plas-newydd-19306770",
+  "name": "Hidden Corners of Plas Newydd",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.20476,
+    "lon": -4.2206906
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306770
+  }
+}

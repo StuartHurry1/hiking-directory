@@ -1,0 +1,45 @@
+{
+  "id": "osm-7225044",
+  "slug": "abbots-way-7225044",
+  "name": "Abbot's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 119.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.492168,
+    "lon": -3.7780366
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7225044
+  },
+  "ai": {
+    "summary": "Abbot's Way is a challenging long-distance hike in the United Kingdom, covering approximately 119.7 kilometers. The route traverses rural lanes, hedgerows, and historic villages, offering varied scenery and remote sections that require good navigation and fitness.",
+    "terrain_summary": "Terrain is varied: mostly well-defined paths and quiet country lanes, with occasional rough or muddy sections, gentle to moderate ascents, and a few steeper stretches. Expect farm tracks, field crossings, and variable footing depending on season.",
+    "safety_notes": "Plan for long days with limited daylight in shoulder seasons or winter. Carry map and compass (and a backup device), stay aware of weather changes, and share your itinerary. Use sturdy footwear, hydrate regularly, and be cautious on road sections and when crossing farmland. Mobile signal may be unreliable in remote areas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, including a warm layer)",
+      "Waterproof jacket and pants",
+      "Daypack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy food and snacks",
+      "Map, compass, and a backup navigation device (GPS)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Sun protection (hat, sunscreen)",
+      "Lightweight emergency shelter or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (March–October) in the UK, with caution for shoulder seasons and potential mud in winter.",
+    "seo": {
+      "title": "Abbot's Way: 119.7 km UK Long-Distance Hiking Route",
+      "meta_description": "Explore Abbot's Way, a hard 119.7 km hike through rural UK landscapes. Terrain insights, safety tips, gear recommendations, and the best seasons for completion.",
+      "h1": "Abbot's Way – 119.7 km UK Long-Distance Hike"
+    }
+  }
+}

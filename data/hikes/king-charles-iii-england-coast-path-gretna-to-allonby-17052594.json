@@ -1,0 +1,23 @@
+{
+  "id": "osm-17052594",
+  "slug": "king-charles-iii-england-coast-path-gretna-to-allonby-17052594",
+  "name": "King Charles III England Coast Path: Gretna to Allonby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 100.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9930292,
+    "lon": -3.0532407
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17052594
+  }
+}

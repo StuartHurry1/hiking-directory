@@ -1,0 +1,21 @@
+{
+  "id": "osm-17550227",
+  "slug": "red-trail-17550227",
+  "name": "Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6927282,
+    "lon": -0.1543873
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17550227
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14406009",
+  "slug": "quiraing-loop-14406009",
+  "name": "Quiraing loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.628329,
+    "lon": -6.2900135
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14406009
+  }
+}

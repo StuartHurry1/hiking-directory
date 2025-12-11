@@ -1,0 +1,21 @@
+{
+  "id": "osm-19637408",
+  "slug": "castle-coole-beech-trail-castle-coole-19637408",
+  "name": "Castle Coole Beech Trail, Castle Coole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3352574,
+    "lon": -7.6018462
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19637408
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19065955",
+  "slug": "clumber-park-waymarked-walk-clumber-park-19065955",
+  "name": "Clumber Park Waymarked Walk, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2655767,
+    "lon": -1.062425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19065955
+  }
+}

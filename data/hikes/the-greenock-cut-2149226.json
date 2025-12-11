@@ -1,0 +1,21 @@
+{
+  "id": "osm-2149226",
+  "slug": "the-greenock-cut-2149226",
+  "name": "The Greenock Cut",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9092618,
+    "lon": -4.8161145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2149226
+  }
+}

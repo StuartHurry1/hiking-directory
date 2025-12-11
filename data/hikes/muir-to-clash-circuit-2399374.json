@@ -1,0 +1,21 @@
+{
+  "id": "osm-2399374",
+  "slug": "muir-to-clash-circuit-2399374",
+  "name": "Muir to Clash Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5242912,
+    "lon": -4.4711822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2399374
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18548197",
+  "slug": "preston-guild-wheel-18548197",
+  "name": "Preston Guild Wheel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 64.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7887079,
+    "lon": -2.6821013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18548197
+  }
+}

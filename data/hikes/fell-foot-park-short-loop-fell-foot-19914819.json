@@ -1,0 +1,23 @@
+{
+  "id": "osm-19914819",
+  "slug": "fell-foot-park-short-loop-fell-foot-19914819",
+  "name": "Fell Foot Park Short Loop, Fell Foot",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2730054,
+    "lon": -2.9537864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19914819
+  }
+}

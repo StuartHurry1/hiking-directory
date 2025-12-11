@@ -1,0 +1,21 @@
+{
+  "id": "osm-1002129",
+  "slug": "sussex-border-path-1002129",
+  "name": "Sussex Border Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 755.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8460891,
+    "lon": -0.9295475
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1002129
+  }
+}

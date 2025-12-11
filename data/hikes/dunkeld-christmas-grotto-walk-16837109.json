@@ -1,0 +1,21 @@
+{
+  "id": "osm-16837109",
+  "slug": "dunkeld-christmas-grotto-walk-16837109",
+  "name": "Dunkeld Christmas Grotto Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5658029,
+    "lon": -3.5867116
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16837109
+  }
+}

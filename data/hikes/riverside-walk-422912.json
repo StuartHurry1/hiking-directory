@@ -1,0 +1,21 @@
+{
+  "id": "osm-422912",
+  "slug": "riverside-walk-422912",
+  "name": "Riverside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2455484,
+    "lon": -0.3083274
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 422912
+  }
+}

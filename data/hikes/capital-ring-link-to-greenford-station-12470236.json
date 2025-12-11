@@ -1,0 +1,21 @@
+{
+  "id": "osm-12470236",
+  "slug": "capital-ring-link-to-greenford-station-12470236",
+  "name": "Capital Ring link to Greenford station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5422203,
+    "lon": -0.3461963
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12470236
+  }
+}

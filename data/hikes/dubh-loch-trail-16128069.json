@@ -1,0 +1,21 @@
+{
+  "id": "osm-16128069",
+  "slug": "dubh-loch-trail-16128069",
+  "name": "Dubh Loch Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9524269,
+    "lon": -3.1367167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16128069
+  }
+}

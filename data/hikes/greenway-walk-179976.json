@@ -1,0 +1,21 @@
+{
+  "id": "osm-179976",
+  "slug": "greenway-walk-179976",
+  "name": "Greenway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3959986,
+    "lon": -3.5638688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 179976
+  }
+}

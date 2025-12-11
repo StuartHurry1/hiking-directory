@@ -1,0 +1,21 @@
+{
+  "id": "osm-14425575",
+  "slug": "knepp-wildland-white-route-14425575",
+  "name": "Knepp Wildland White Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9722227,
+    "lon": -0.3644496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14425575
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19430199",
+  "slug": "chiltern-hills-three-in-one-walk-central-chilterns-19430199",
+  "name": "Chiltern Hills Three-in-One walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6486466,
+    "lon": -0.8062953
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19430199
+  }
+}

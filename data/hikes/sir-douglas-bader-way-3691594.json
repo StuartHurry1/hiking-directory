@@ -1,0 +1,21 @@
+{
+  "id": "osm-3691594",
+  "slug": "sir-douglas-bader-way-3691594",
+  "name": "Sir Douglas Bader Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9377684,
+    "lon": 0.4856977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3691594
+  }
+}

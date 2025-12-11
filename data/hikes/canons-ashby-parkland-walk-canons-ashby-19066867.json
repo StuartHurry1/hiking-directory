@@ -1,0 +1,21 @@
+{
+  "id": "osm-19066867",
+  "slug": "canons-ashby-parkland-walk-canons-ashby-19066867",
+  "name": "Canons Ashby Parkland Walk, Canons Ashby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.150905,
+    "lon": -1.1573312
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19066867
+  }
+}

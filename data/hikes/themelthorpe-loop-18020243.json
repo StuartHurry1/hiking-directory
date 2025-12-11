@@ -1,0 +1,21 @@
+{
+  "id": "osm-18020243",
+  "slug": "themelthorpe-loop-18020243",
+  "name": "Themelthorpe Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.752388,
+    "lon": 1.0975379
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18020243
+  }
+}

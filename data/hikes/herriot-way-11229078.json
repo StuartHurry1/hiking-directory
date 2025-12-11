@@ -1,0 +1,21 @@
+{
+  "id": "osm-11229078",
+  "slug": "herriot-way-11229078",
+  "name": "Herriot Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 167.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.295621,
+    "lon": -2.0082647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11229078
+  }
+}

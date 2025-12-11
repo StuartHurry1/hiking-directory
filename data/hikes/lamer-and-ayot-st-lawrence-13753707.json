@@ -1,0 +1,21 @@
+{
+  "id": "osm-13753707",
+  "slug": "lamer-and-ayot-st-lawrence-13753707",
+  "name": "Lamer & Ayot St Lawrence",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8130106,
+    "lon": -0.2926543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13753707
+  }
+}

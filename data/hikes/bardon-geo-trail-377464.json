@@ -1,0 +1,42 @@
+{
+  "id": "osm-377464",
+  "slug": "bardon-geo-trail-377464",
+  "name": "Bardon Geo Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.719771,
+    "lon": -2.6859389
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 377464
+  },
+  "ai": {
+    "summary": "Bardon Geo Trail is a short, easy 1.4 km hike in the UK, suitable for families and casual walkers. The route offers a pleasant stroll along well-kept paths with light elevation, making it an ideal introductory hike for those new to outdoor walking.",
+    "terrain_summary": "The trail mostly follows flat, well-maintained paths with a mix of compacted dirt and gravel. Expect gentle gradients and occasional boardwalk or paved segments. Surfaces are generally even, but light mud or uneven spots can occur after rain.",
+    "safety_notes": "- Check weather conditions before you go; UK weather can change quickly. - Wear sturdy, non-slip footwear and bring a light layer in case of wind or rain. - Stay on marked paths and bring a map or offline guidance. - Carry water and sun protection in warm weather. - Be mindful of other hikers and dogs; the trail is short but can be busy.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small backpack",
+      "Map or offline guide (optional)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and summer. Autumn can be scenic with changing leaves.",
+    "seo": {
+      "title": "Bardon Geo Trail — Easy 1.4 km Hike in the UK",
+      "meta_description": "Discover Bardon Geo Trail, a short and easy 1.4 km hike in the UK. Ideal for families and casual walkers with flat terrain and light elevation.",
+      "h1": "Bardon Geo Trail — Easy 1.4 km Hike in the UK"
+    }
+  }
+}

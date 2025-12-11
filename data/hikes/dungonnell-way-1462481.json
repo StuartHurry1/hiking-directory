@@ -1,0 +1,21 @@
+{
+  "id": "osm-1462481",
+  "slug": "dungonnell-way-1462481",
+  "name": "Dungonnell Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0192127,
+    "lon": -6.137509
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1462481
+  }
+}

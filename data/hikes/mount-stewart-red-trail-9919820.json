@@ -1,0 +1,21 @@
+{
+  "id": "osm-9919820",
+  "slug": "mount-stewart-red-trail-9919820",
+  "name": "Mount Stewart Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5490463,
+    "lon": -5.5953618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9919820
+  }
+}

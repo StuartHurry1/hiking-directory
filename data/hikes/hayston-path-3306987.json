@@ -1,0 +1,21 @@
+{
+  "id": "osm-3306987",
+  "slug": "hayston-path-3306987",
+  "name": "Hayston Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9398612,
+    "lon": -4.2112357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3306987
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12901754",
+  "slug": "leaves-green-circular-walk-12901754",
+  "name": "Leaves Green Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3386172,
+    "lon": 0.0292755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12901754
+  }
+}

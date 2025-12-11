@@ -1,0 +1,21 @@
+{
+  "id": "osm-18330956",
+  "slug": "paupers-memorial-trail-18330956",
+  "name": "Paupers Memorial Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5316145,
+    "lon": -1.9866323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18330956
+  }
+}

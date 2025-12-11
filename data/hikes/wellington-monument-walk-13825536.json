@@ -1,0 +1,21 @@
+{
+  "id": "osm-13825536",
+  "slug": "wellington-monument-walk-13825536",
+  "name": "Wellington Monument walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9440835,
+    "lon": -3.2215755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13825536
+  }
+}

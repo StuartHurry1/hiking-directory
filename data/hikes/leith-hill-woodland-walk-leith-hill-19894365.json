@@ -1,0 +1,21 @@
+{
+  "id": "osm-19894365",
+  "slug": "leith-hill-woodland-walk-leith-hill-19894365",
+  "name": "Leith Hill Woodland Walk, Leith Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.176329,
+    "lon": -0.3713244
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19894365
+  }
+}

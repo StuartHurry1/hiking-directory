@@ -1,0 +1,21 @@
+{
+  "id": "osm-11585033",
+  "slug": "riverside-trail-11585033",
+  "name": "Riverside Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.75313,
+    "lon": -1.5887139
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11585033
+  }
+}

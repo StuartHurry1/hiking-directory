@@ -1,0 +1,21 @@
+{
+  "id": "osm-9726946",
+  "slug": "cornish-hill-trail-9726946",
+  "name": "Cornish Hill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2288303,
+    "lon": -4.5223385
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9726946
+  }
+}

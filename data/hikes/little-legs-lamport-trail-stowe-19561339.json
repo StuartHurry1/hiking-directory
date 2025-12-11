@@ -1,0 +1,21 @@
+{
+  "id": "osm-19561339",
+  "slug": "little-legs-lamport-trail-stowe-19561339",
+  "name": "Little Legs - Lamport Trail, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0266429,
+    "lon": -1.0131992
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561339
+  }
+}

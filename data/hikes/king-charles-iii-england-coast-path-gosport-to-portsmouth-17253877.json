@@ -1,0 +1,23 @@
+{
+  "id": "osm-17253877",
+  "slug": "king-charles-iii-england-coast-path-gosport-to-portsmouth-17253877",
+  "name": "King Charles III England Coast Path: Gosport to Portsmouth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 85.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8072201,
+    "lon": -1.2106508
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17253877
+  }
+}

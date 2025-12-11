@@ -1,0 +1,21 @@
+{
+  "id": "osm-13833886",
+  "slug": "link-to-charlton-station-section-4a-13833886",
+  "name": "link to Charlton station (section 4A)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4868396,
+    "lon": 0.0320297
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13833886
+  }
+}

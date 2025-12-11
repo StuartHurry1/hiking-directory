@@ -1,0 +1,21 @@
+{
+  "id": "osm-19118719",
+  "slug": "headley-heath-circuit-box-hill-19118719",
+  "name": "Headley Heath Circuit, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2706072,
+    "lon": -0.2733011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19118719
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3258864",
+  "slug": "chess-valley-walk-3258864",
+  "name": "Chess Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6535246,
+    "lon": -0.4839888
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3258864
+  }
+}

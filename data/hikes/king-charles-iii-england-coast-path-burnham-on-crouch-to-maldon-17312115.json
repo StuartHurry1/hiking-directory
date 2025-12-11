@@ -1,0 +1,23 @@
+{
+  "id": "osm-17312115",
+  "slug": "king-charles-iii-england-coast-path-burnham-on-crouch-to-maldon-17312115",
+  "name": "King Charles III England Coast Path: Burnham-on-Crouch to Maldon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 146.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6245601,
+    "lon": 0.8186094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17312115
+  }
+}

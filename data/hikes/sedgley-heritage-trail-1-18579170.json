@@ -1,0 +1,21 @@
+{
+  "id": "osm-18579170",
+  "slug": "sedgley-heritage-trail-1-18579170",
+  "name": "Sedgley Heritage Trail 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5401043,
+    "lon": -2.1225098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18579170
+  }
+}

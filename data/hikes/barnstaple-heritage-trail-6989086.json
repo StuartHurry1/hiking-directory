@@ -1,0 +1,44 @@
+{
+  "id": "osm-6989086",
+  "slug": "barnstaple-heritage-trail-6989086",
+  "name": "Barnstaple Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0782579,
+    "lon": -4.0593539
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6989086
+  },
+  "ai": {
+    "summary": "The Barnstaple Heritage Trail is a 7.2 km moderate walking route in the UK that navigates historic sites and town scenery around Barnstaple. Suitable for casual walkers, it offers a mix of paved paths and gentle trails with intermittent viewpoints.",
+    "terrain_summary": "Mostly paved streets and well-maintained paths with occasional gravel sections; some historic lanes may be uneven; expect gentle gradients and occasional steps in older areas.",
+    "safety_notes": "Plan for a 2–3 hour walk. Wear sturdy footwear and weather-appropriate clothing. Bring water and snacks. Stay on marked paths and follow trail signs. Watch for pedestrians, cyclists, and road crossings. Carry a map or offline navigation and a charged phone. Keep children and pets under control (leash for dogs). Check the weather and daylight hours before you go and inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light snacks",
+      "Map or offline map / GPS device",
+      "Phone with charger or power bank",
+      "Hat and sunscreen",
+      "Light rain jacket",
+      "Small backpack",
+      "First aid kit (basic)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) offers the most comfortable temperatures and daylight for exploring the trail. Year-round hiking is possible with extra precautions in winter.",
+    "seo": {
+      "title": "Barnstaple Heritage Trail — 7.2 km Moderate Walk in the UK",
+      "meta_description": "Discover the Barnstaple Heritage Trail, a 7.2 km moderate walking route through historic sights and town scenery in Barnstaple, UK. Plan your visit and hike.",
+      "h1": "Barnstaple Heritage Trail: A 7.2 km Moderate Walk"
+    }
+  }
+}

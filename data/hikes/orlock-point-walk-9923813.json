@@ -1,0 +1,21 @@
+{
+  "id": "osm-9923813",
+  "slug": "orlock-point-walk-9923813",
+  "name": "Orlock Point walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6690227,
+    "lon": -5.5747776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9923813
+  }
+}

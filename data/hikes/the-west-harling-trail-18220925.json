@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220925",
+  "slug": "the-west-harling-trail-18220925",
+  "name": "The West Harling Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4167639,
+    "lon": 0.8911979
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220925
+  }
+}

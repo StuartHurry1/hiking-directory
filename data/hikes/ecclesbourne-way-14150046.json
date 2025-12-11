@@ -1,0 +1,21 @@
+{
+  "id": "osm-14150046",
+  "slug": "ecclesbourne-way-14150046",
+  "name": "Ecclesbourne Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0820518,
+    "lon": -1.5692353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14150046
+  }
+}

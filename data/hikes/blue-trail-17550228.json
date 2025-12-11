@@ -1,0 +1,43 @@
+{
+  "id": "osm-17550228",
+  "slug": "blue-trail-17550228",
+  "name": "Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6927282,
+    "lon": -0.1543873
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17550228
+  },
+  "ai": {
+    "summary": "The Blue Trail is a short, easy UK hike of about 2.6 km. With a gentle grade and a straightforward path, it’s suitable for beginners, families, and casual walkers. The route location is in the UK, with the exact regional area not specified.",
+    "terrain_summary": "Expect a well-defined, easy-going trail common to lowland UK paths. The surface is usually compact dirt or gravel, with occasional damp patches and minor roots or uneven spots, especially after rain. The route offers light scenery along a short, accessible walk.",
+    "safety_notes": "Check local weather before you go and wear sturdy footwear. Let someone know your plans and expected return time. Stay on marked paths, be cautious on damp or muddy sections, and watch for exposed roots or loose stones. In the UK, conditions can change quickly, so bring a waterproof layer and enough water. Respect wildlife and local guidelines, and carry a map or GPS as a backup.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water and snacks",
+      "Lightweight waterproof jacket",
+      "Layered clothing",
+      "Hat and sunscreen (in sunny weather)",
+      "Map or GPS/device",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Headlamp or flashlight (in case of late return)"
+    ],
+    "best_seasons": "All year; best conditions in spring to autumn.",
+    "seo": {
+      "title": "Blue Trail – Easy 2.6 km Hike in the UK",
+      "meta_description": "Discover the Blue Trail, a 2.6 km easy hike in the UK. Perfect for beginners and families, with practical safety tips, terrain overview, and gear recommendations.",
+      "h1": "Blue Trail: Easy 2.6 km Hike in the UK"
+    }
+  }
+}

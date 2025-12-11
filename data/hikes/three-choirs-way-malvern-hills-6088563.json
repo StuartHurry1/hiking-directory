@@ -1,0 +1,21 @@
+{
+  "id": "osm-6088563",
+  "slug": "three-choirs-way-malvern-hills-6088563",
+  "name": "Three Choirs Way (Malvern Hills)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 152,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.061571,
+    "lon": -2.3472022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6088563
+  }
+}

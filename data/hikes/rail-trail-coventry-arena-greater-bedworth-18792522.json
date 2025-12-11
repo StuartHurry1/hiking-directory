@@ -1,0 +1,21 @@
+{
+  "id": "osm-18792522",
+  "slug": "rail-trail-coventry-arena-greater-bedworth-18792522",
+  "name": "Rail Trail: Coventry Arena > Bedworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4466992,
+    "lon": -1.4951636
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18792522
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18736508",
+  "slug": "rail-trail-whitlocks-end-greater-shirley-18736508",
+  "name": "Rail Trail: Whitlocks End > Shirley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3924737,
+    "lon": -1.8509315
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18736508
+  }
+}

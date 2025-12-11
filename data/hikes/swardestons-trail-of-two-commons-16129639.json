@@ -1,0 +1,21 @@
+{
+  "id": "osm-16129639",
+  "slug": "swardestons-trail-of-two-commons-16129639",
+  "name": "Swardeston’s Trail of Two Commons",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5740821,
+    "lon": 1.2451448
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16129639
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-10744044",
+  "slug": "camborne-br-34-ground-truth-10744044",
+  "name": "Camborne BR 34 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.186167,
+    "lon": -5.2928991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10744044
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km hike in the UK suitable for families and casual walkers. The route offers a flat to gently undulating walk along well-maintained paths, making it ideal for a quick outdoor outing.",
+    "terrain_summary": "Primarily flat and well-trodden paths with a mix of tarmac, compact dirt, and occasional grassy sections. After rain, surfaces can become muddy and slippery.",
+    "safety_notes": "This is an easy route. Wear sturdy footwear and check the weather before you go. Stay on marked paths, be aware of other walkers and any cyclists on shared sections, and bring water. In wet conditions expect slick surfaces.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Weather-appropriate clothing and a lightweight waterproof layer",
+      "Water bottle",
+      "Small backpack for essentials",
+      "Hat and sunscreen",
+      "Map or a smartphone with offline map"
+    ],
+    "best_seasons": "Spring to Autumn; year-round hiking possible with appropriate rain gear.",
+    "seo": {
+      "title": "Camborne BR 34 Ground Truth - Easy 1.7 km Hike in the UK",
+      "meta_description": "Explore the easy 1.7 km Camborne BR 34 Ground Truth hike in the UK. Flat terrain, family-friendly path with practical safety tips and gear recommendations.",
+      "h1": "Camborne BR 34 Ground Truth - Easy 1.7 km Hike in the UK"
+    }
+  }
+}

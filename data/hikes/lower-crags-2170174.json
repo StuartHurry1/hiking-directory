@@ -1,0 +1,21 @@
+{
+  "id": "osm-2170174",
+  "slug": "lower-crags-2170174",
+  "name": "Lower Crags",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.245289,
+    "lon": -4.2225762
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2170174
+  }
+}

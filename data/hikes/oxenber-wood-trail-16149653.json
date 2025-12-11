@@ -1,0 +1,21 @@
+{
+  "id": "osm-16149653",
+  "slug": "oxenber-wood-trail-16149653",
+  "name": "Oxenber Wood trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1138484,
+    "lon": -2.3386284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16149653
+  }
+}

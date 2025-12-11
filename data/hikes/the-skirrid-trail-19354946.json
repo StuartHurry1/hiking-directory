@@ -1,0 +1,21 @@
+{
+  "id": "osm-19354946",
+  "slug": "the-skirrid-trail-19354946",
+  "name": "The Skirrid Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8425938,
+    "lon": -2.9744433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19354946
+  }
+}

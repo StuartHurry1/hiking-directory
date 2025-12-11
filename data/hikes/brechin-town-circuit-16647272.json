@@ -1,0 +1,43 @@
+{
+  "id": "osm-16647272",
+  "slug": "brechin-town-circuit-16647272",
+  "name": "Brechin Town Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.72968,
+    "lon": -2.6493122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647272
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate loop around Brechin town, UK. The route blends town streets with green spaces and riverside sections, offering a relaxed day hike with gentle slopes and seasonal views of historic sights.",
+    "terrain_summary": "Mostly paved sidewalks and park paths with occasional gravel sections. Generally smooth, with a few uneven patches on older streets and grassy edges; expect mild gradients in places.",
+    "safety_notes": "General safety: check forecast and daylight; wear sturdy footwear and weather-appropriate clothing; be mindful of traffic on shared streets; stay on marked paths and watch for uneven surfaces; bring water and some snacks; carry a small map or phone with offline navigation; tell someone your plan; in winter and wet conditions, surfaces can be slippery; use sun protection in sunny weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Water bottle",
+      "Snacks",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack",
+      "Map or offline navigation (phone or paper map)",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "Spring, summer, and autumn are ideal; winter can be windy and wet, so plan accordingly.",
+    "seo": {
+      "title": "Brechin Town Circuit – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Brechin Town Circuit, a 6.3 km moderate loop in the UK with urban and park scenery. Practical safety tips, gear list, and best seasons.",
+      "h1": "Brechin Town Circuit: 6.3 km Moderate Loop Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15841622",
+  "slug": "hip-road-15841622",
+  "name": "Hip Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0639058,
+    "lon": -6.4055061
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15841622
+  }
+}

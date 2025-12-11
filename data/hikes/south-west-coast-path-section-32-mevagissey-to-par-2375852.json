@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375852",
+  "slug": "south-west-coast-path-section-32-mevagissey-to-par-2375852",
+  "name": "South West Coast Path (Section 32: Mevagissey to Par)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.27022,
+    "lon": -4.7868149
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375852
+  }
+}

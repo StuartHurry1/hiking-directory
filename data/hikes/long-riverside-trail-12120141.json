@@ -1,0 +1,21 @@
+{
+  "id": "osm-12120141",
+  "slug": "long-riverside-trail-12120141",
+  "name": "Long Riverside Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3951758,
+    "lon": 0.8561689
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12120141
+  }
+}

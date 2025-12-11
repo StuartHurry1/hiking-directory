@@ -1,0 +1,21 @@
+{
+  "id": "osm-19121070",
+  "slug": "captain-geoffreys-estate-walk-dudmaston-estate-19121070",
+  "name": "Captain Geoffrey's Estate Walk, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4763277,
+    "lon": -2.373033
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19121070
+  }
+}

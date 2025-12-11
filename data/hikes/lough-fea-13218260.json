@@ -1,0 +1,21 @@
+{
+  "id": "osm-13218260",
+  "slug": "lough-fea-13218260",
+  "name": "Lough Fea",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7209906,
+    "lon": -6.8144394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13218260
+  }
+}

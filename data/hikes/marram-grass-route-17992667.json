@@ -1,0 +1,21 @@
+{
+  "id": "osm-17992667",
+  "slug": "marram-grass-route-17992667",
+  "name": "Marram Grass Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.249558,
+    "lon": -2.0415603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17992667
+  }
+}

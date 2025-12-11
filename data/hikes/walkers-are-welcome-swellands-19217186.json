@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217186",
+  "slug": "walkers-are-welcome-swellands-19217186",
+  "name": "Walkers are Welcome Swellands",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5880625,
+    "lon": -1.9444935
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217186
+  }
+}

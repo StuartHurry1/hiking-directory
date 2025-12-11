@@ -1,0 +1,21 @@
+{
+  "id": "osm-17717312",
+  "slug": "john-ogroats-trail-whaligoe-to-wick-17717312",
+  "name": "John O'Groats Trail (Whaligoe to Wick)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.3462867,
+    "lon": -3.1627884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17717312
+  }
+}

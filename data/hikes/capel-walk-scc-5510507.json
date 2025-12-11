@@ -1,0 +1,21 @@
+{
+  "id": "osm-5510507",
+  "slug": "capel-walk-scc-5510507",
+  "name": "Capel walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1537228,
+    "lon": -0.3197179
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5510507
+  }
+}

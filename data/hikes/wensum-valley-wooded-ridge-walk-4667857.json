@@ -1,0 +1,23 @@
+{
+  "id": "osm-4667857",
+  "slug": "wensum-valley-wooded-ridge-walk-4667857",
+  "name": "Wensum Valley Wooded Ridge Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6239941,
+    "lon": 1.2986687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4667857
+  }
+}

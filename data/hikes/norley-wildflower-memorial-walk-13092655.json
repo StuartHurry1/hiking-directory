@@ -1,0 +1,21 @@
+{
+  "id": "osm-13092655",
+  "slug": "norley-wildflower-memorial-walk-13092655",
+  "name": "Norley Wildflower Memorial Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2535918,
+    "lon": -2.6483658
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13092655
+  }
+}

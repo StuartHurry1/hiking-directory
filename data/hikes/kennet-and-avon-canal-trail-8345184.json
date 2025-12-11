@@ -1,0 +1,21 @@
+{
+  "id": "osm-8345184",
+  "slug": "kennet-and-avon-canal-trail-8345184",
+  "name": "Kennet and Avon Canal Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 343.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.449644,
+    "lon": -2.6239449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8345184
+  }
+}

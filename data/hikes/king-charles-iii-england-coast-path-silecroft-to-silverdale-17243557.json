@@ -1,0 +1,23 @@
+{
+  "id": "osm-17243557",
+  "slug": "king-charles-iii-england-coast-path-silecroft-to-silverdale-17243557",
+  "name": "King Charles III England Coast Path: Silecroft to Silverdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2179221,
+    "lon": -3.3488668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17243557
+  }
+}

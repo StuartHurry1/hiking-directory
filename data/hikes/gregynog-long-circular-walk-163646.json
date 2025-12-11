@@ -1,0 +1,21 @@
+{
+  "id": "osm-163646",
+  "slug": "gregynog-long-circular-walk-163646",
+  "name": "Gregynog long circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5683411,
+    "lon": -3.3504786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 163646
+  }
+}

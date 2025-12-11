@@ -1,0 +1,41 @@
+{
+  "id": "osm-19009199",
+  "slug": "a-walk-to-the-hydro-turbine-at-castle-drogo-castle-drogo-19009199",
+  "name": "A walk to the Hydro Turbine at Castle Drogo, Castle Drogo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6944146,
+    "lon": -3.8061019
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009199
+  },
+  "ai": {
+    "summary": "A short, easy walk from Castle Drogo to the hydro turbine and back, totaling about 4.7 km. The route follows gentle paths through castle grounds and surrounding parkland, suitable for families and casual walkers.",
+    "terrain_summary": "Predominantly well-maintained gravel paths and grass tracks with some shaded woodland sections. Expect gentle elevation changes and potential mud after rain. The surface is firm but can be uneven in places near streams.",
+    "safety_notes": "Stay on designated paths within the castle grounds. Ground can be uneven or slippery when wet; wear sturdy footwear. Be mindful of other visitors, livestock in fields, and weather changes. Bring water, sun protection in sunny conditions, and a light layer for cooler times.",
+    "recommended_gear": [
+      "Comfortable walking shoes or hiking boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Additional layer for warmth",
+      "Map or offline map",
+      "Phone with emergency contacts",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring through autumn are ideal for comfortable walking; the route is still accessible in winter but can be very muddy and windy.",
+    "seo": {
+      "title": "A Walk to the Hydro Turbine at Castle Drogo – Easy 4.7 km Hike in the UK",
+      "meta_description": "Discover a relaxed 4.7 km hike to the Hydro Turbine at Castle Drogo in the UK. Easy terrain, family-friendly route, tips, gear, and best seasons.",
+      "h1": "A Walk to the Hydro Turbine at Castle Drogo"
+    }
+  }
+}

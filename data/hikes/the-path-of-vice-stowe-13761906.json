@@ -1,0 +1,21 @@
+{
+  "id": "osm-13761906",
+  "slug": "the-path-of-vice-stowe-13761906",
+  "name": "The Path of Vice, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0268857,
+    "lon": -1.0153847
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13761906
+  }
+}

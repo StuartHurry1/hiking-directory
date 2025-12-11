@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506931",
+  "slug": "loch-of-voe-11506931",
+  "name": "Loch of Voe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3475512,
+    "lon": -1.2533489
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506931
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-16202085",
+  "slug": "victory-v-walk-felbrigg-16202085",
+  "name": "Victory V Walk, Felbrigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9104577,
+    "lon": 1.2548858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16202085
+  }
+}

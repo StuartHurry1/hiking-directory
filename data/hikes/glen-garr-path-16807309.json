@@ -1,0 +1,21 @@
+{
+  "id": "osm-16807309",
+  "slug": "glen-garr-path-16807309",
+  "name": "Glen Garr Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5130677,
+    "lon": -3.5772384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16807309
+  }
+}

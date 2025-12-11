@@ -1,0 +1,44 @@
+{
+  "id": "osm-3177366",
+  "slug": "1066-country-walk-south-downs-link-3177366",
+  "name": "1066 Country Walk - South Downs Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7908957,
+    "lon": 0.2156388
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3177366
+  },
+  "ai": {
+    "summary": "A challenging 36 km hike that links the 1066 Country Walk with the South Downs Link across southern England. Expect a mix of coastal views, rolling chalk downs and farmland, with long distances and frequent navigation decisions. This route rewards stamina and good preparation with varied scenery and rewarding endpoints.",
+    "terrain_summary": "Mostly chalk downland and well-trodden paths with sections of gravel and grass. Expect long, exposed stretches along the downs, possible mud in winter, coastal wind, and moderate ascents and descents. The route includes gates, stiles and some uneven footing; plan for several hours of steady pace.",
+    "safety_notes": "Prepare for a long day of walking (roughly 10–12 hours depending on pace). Weather and tides can change quickly along the coast; check forecasts and tide times before setting out. Wear sturdy waterproof boots and dress in layers; bring a windproof and rain jacket. Carry a current map or GPS, a charged phone, and a power bank. Bring sufficient water and high-energy snacks for the full distance. Stick to marked paths, watch for cliff edges and uneven ground, and let someone know your planned finish time. If you're uncertain about navigation, consider a guided or supported option.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Layered clothing and a windproof/rain jacket",
+      "Map and compass or GPS device",
+      "Charged phone and portable power bank",
+      "Hat, sunglasses and sunscreen",
+      "First aid kit with blister care",
+      "Headtorch or spare lighting (for late finish)",
+      "Emergency space blanket or bivvy sack",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for longer daylight and more stable weather; winter hiking is possible with careful planning but carries higher risk of mud and storms.",
+    "seo": {
+      "title": "1066 Country Walk - South Downs Link (36 km, Hard) – UK Hike Guide",
+      "meta_description": "Plan a demanding 36 km hike along the 1066 Country Walk and the South Downs Link in the UK. Terrain, safety tips, gear recommendations and best seasons included.",
+      "h1": "1066 Country Walk - South Downs Link (36 km, Hard)"
+    }
+  }
+}

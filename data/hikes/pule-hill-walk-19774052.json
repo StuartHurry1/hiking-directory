@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774052",
+  "slug": "pule-hill-walk-19774052",
+  "name": "Pule Hill Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6021173,
+    "lon": -1.9564025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774052
+  }
+}

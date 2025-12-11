@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756398",
+  "slug": "forth-and-clydeunion-canal-towpath-1756398",
+  "name": "Forth & Clyde/Union Canal Towpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 205.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9298311,
+    "lon": -4.4827229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756398
+  }
+}

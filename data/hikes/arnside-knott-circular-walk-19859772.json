@@ -1,0 +1,42 @@
+{
+  "id": "osm-19859772",
+  "slug": "arnside-knott-circular-walk-19859772",
+  "name": "Arnside Knott Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1901211,
+    "lon": -2.8350313
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19859772
+  },
+  "ai": {
+    "summary": "An easy 5.4 km circular hike around Arnside Knott, offering coastal views and a gentle climb suitable for most walkers. The route is well-marked and typically traverses a mix of tarmac, gravel, and grassy paths with occasional steps and uneven sections.",
+    "terrain_summary": "The terrain is varied but gentle: paved and gravel tracks, grassy paths, and a few rocky or stepped sections. Expect coastal winds and possible mud after rain; the climb to the knott is steady with generally good footing.",
+    "safety_notes": "Check the weather forecast before you go; coastal conditions can change rapidly. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths and be prepared for mud, wind, and increased exposure near the coast. Mobile reception may be patchy. Bring water, a small first-aid kit, and a map or offline navigation. Keep children and dogs close and watch for uneven ground and slippery surfaces, especially after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Water and snacks",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Map or offline GPS (OS map recommended)",
+      "Small first-aid kit and blister care",
+      "Headlamp or small flashlight for low visibility",
+      "Lightweight rain cover or packable shell"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically in spring and autumn when temperatures are mild and visibility is good. Summer offers longer daylight; winter can be windy and wet, making coastal sections more exposed.",
+    "seo": {
+      "title": "Arnside Knott Circular Walk | Easy 5.4 km Coastal Hike in the UK",
+      "meta_description": "Discover the Arnside Knott Circular Walk: a 5.4 km easy coastal loop in the UK. Enjoy gentle climbs, coastal views, and well-marked paths suitable for casual walkers.",
+      "h1": "Arnside Knott Circular Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18749078",
+  "slug": "rail-trail-hatton-greater-lapworth-18749078",
+  "name": "Rail Trail: Hatton > Lapworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2955561,
+    "lon": -1.6740717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18749078
+  }
+}

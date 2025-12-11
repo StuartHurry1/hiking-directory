@@ -1,0 +1,21 @@
+{
+  "id": "osm-2109641",
+  "slug": "lulworth-country-trail-2109641",
+  "name": "Lulworth Country Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6337357,
+    "lon": -2.24355
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2109641
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10933416",
+  "slug": "carn-brea-fp-36-10933416",
+  "name": "Carn Brea FP 36",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2133312,
+    "lon": -5.265229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10933416
+  }
+}

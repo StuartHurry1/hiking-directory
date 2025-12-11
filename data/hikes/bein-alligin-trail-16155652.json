@@ -1,0 +1,46 @@
+{
+  "id": "osm-16155652",
+  "slug": "bein-alligin-trail-16155652",
+  "name": "Bein Alligin Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5586031,
+    "lon": -5.5632423
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16155652
+  },
+  "ai": {
+    "summary": "Beinn Alligin Trail is a scenic 10.6 km circuit in the Scottish Highlands, offering dramatic mountain scenery and a rewarding ridge walk. The hike combines grassy paths and rocky sections, with some hands-on scrambling along the Horns of Beinn Alligin. It's best suited for fit hikers who are comfortable with uneven terrain and changing weather, and it rewards with expansive views over Torridon, Loch Maree, and the surrounding peaks.",
+    "terrain_summary": "Primarily rocky and uneven trails with several exposed ridge sections on the Horns of Beinn Alligin. Expect a mix of stony paths, grassy trods, and short scrambling segments where using hands helps with balance. The route can be wet and slippery after rain; loose rock and scree may be present in higher sections. Navigation is straightforward on a clearly signposted path, but be prepared for remote, exposed terrain and rapidly changing weather.",
+    "safety_notes": "Plan for mountain weather that can change quickly. Wear sturdy, grippy boots and bring layers, including waterproof outerwear. Carry a map and compass or GPS, plus a fully charged phone as a backup. Stay on the marked route; some sections require basic scrambling and good footing. Do not hike alone if possible; tell someone your plan and expected return. Check forecasts before starting and be prepared to turn back if conditions deteriorate. In winter, snow and ice require mountaineering gear.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and waterproof pants",
+      "Insulating layers (fleece or lightweight puffer)",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Headlamp with extra batteries",
+      "Water and high-energy snacks (plan 2–3 litres of water depending on conditions)",
+      "Backpack with rain cover",
+      "Basic first aid kit",
+      "Emergency whistle and space blanket",
+      "Trekking poles (optional but helpful)",
+      "Rock scrambling helmet (recommended for exposed sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) typically offers the best weather and daylight for Beinn Alligin, though mountain weather can be highly variable and conditions may deteriorate rapidly at any time.",
+    "seo": {
+      "title": "Beinn Alligin Trail Guide – 10.6 km Moderate Hike in the Scottish Highlands",
+      "meta_description": "Plan your Beinn Alligin Trail hike: a 10.6 km moderate circuit with rugged ridges, panoramic views, and tips on safety, gear, and best seasons.",
+      "h1": "Beinn Alligin Trail – A 10.6 km Moderate Highland Hike"
+    }
+  }
+}

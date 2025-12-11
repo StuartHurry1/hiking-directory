@@ -1,0 +1,23 @@
+{
+  "id": "osm-19347112",
+  "slug": "the-lizard-coastal-walk-lizard-point-19347112",
+  "name": "The Lizard coastal walk, Lizard Point",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 49.9757474,
+    "lon": -5.2302727
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347112
+  }
+}

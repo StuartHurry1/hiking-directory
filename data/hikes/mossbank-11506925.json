@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506925",
+  "slug": "mossbank-11506925",
+  "name": "Mossbank",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4574291,
+    "lon": -1.1820987
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506925
+  }
+}

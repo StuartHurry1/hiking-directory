@@ -1,0 +1,21 @@
+{
+  "id": "osm-19321856",
+  "slug": "grey-trail-dunwich-heath-19321856",
+  "name": "Grey Trail, Dunwich Heath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2515799,
+    "lon": 1.6283902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321856
+  }
+}

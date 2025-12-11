@@ -1,0 +1,21 @@
+{
+  "id": "osm-9412286",
+  "slug": "the-lavenham-walk-9412286",
+  "name": "The Lavenham Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.11239,
+    "lon": 0.7973504
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9412286
+  }
+}

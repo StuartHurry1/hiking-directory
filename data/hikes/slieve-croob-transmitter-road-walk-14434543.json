@@ -1,0 +1,21 @@
+{
+  "id": "osm-14434543",
+  "slug": "slieve-croob-transmitter-road-walk-14434543",
+  "name": "Slieve Croob Transmitter Road walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3410568,
+    "lon": -5.9735616
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14434543
+  }
+}

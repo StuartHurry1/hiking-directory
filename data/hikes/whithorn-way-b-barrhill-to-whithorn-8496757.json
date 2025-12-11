@@ -1,0 +1,21 @@
+{
+  "id": "osm-8496757",
+  "slug": "whithorn-way-b-barrhill-to-whithorn-8496757",
+  "name": "Whithorn Way - b Barrhill to Whithorn)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 177.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1580611,
+    "lon": -4.9211119
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8496757
+  }
+}

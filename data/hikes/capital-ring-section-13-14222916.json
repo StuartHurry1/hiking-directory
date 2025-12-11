@@ -1,0 +1,21 @@
+{
+  "id": "osm-14222916",
+  "slug": "capital-ring-section-13-14222916",
+  "name": "Capital Ring (Section 13)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5705259,
+    "lon": -0.0564815
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14222916
+  }
+}

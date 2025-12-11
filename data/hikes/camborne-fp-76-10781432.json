@@ -1,0 +1,21 @@
+{
+  "id": "osm-10781432",
+  "slug": "camborne-fp-76-10781432",
+  "name": "Camborne FP 76",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2219411,
+    "lon": -5.2835374
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10781432
+  }
+}

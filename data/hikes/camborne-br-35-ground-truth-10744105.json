@@ -1,0 +1,40 @@
+{
+  "id": "osm-10744105",
+  "slug": "camborne-br-35-ground-truth-10744105",
+  "name": "Camborne BR 35 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1878702,
+    "lon": -5.2968322
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10744105
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.3 km hike named Camborne BR 35 Ground Truth in the UK. A very short trail suitable for beginners and casual strolls; minimal elevation gain and gentle surfaces, ideal for a quick outdoor break.",
+    "terrain_summary": "Short, easy route with flat to gently undulating terrain. Expect paved sidewalks, compact gravel, or grassy paths; mostly level with a few minor bumps. Total distance 0.3 km.",
+    "safety_notes": "Check local conditions before you go. Stay on the designated path, watch for uneven surfaces and wet areas, especially after rain. Suitable for all ages, but children should be supervised. If you have mobility concerns, verify surface accessibility locally. Carry water and wear appropriate footwear; in winter, be cautious of ice and chilly conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Phone or map",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) for sunny days"
+    ],
+    "best_seasons": "All year round; spring and summer offer pleasant weather and longer daylight, while autumn and winter are still feasible with proper clothing and precautions.",
+    "seo": {
+      "title": "Camborne BR 35 Ground Truth – Easy 0.3 km Hike in the UK",
+      "meta_description": "Discover a very short, easy 0.3 km hike in the UK. Flat terrain, minimal effort, ideal for beginners or a quick outdoor break.",
+      "h1": "Camborne BR 35 Ground Truth – Easy 0.3 km Hike"
+    }
+  }
+}

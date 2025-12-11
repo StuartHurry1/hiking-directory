@@ -1,0 +1,21 @@
+{
+  "id": "osm-19193254",
+  "slug": "lime-avenue-ponds-walk-19193254",
+  "name": "Lime Avenue Ponds Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3325944,
+    "lon": -2.0512316
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19193254
+  }
+}

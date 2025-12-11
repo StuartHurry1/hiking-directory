@@ -1,0 +1,21 @@
+{
+  "id": "osm-13487882",
+  "slug": "queens-drive-13487882",
+  "name": "Queen's Drive",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0056468,
+    "lon": -3.3987112
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13487882
+  }
+}

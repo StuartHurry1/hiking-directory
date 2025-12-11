@@ -1,0 +1,21 @@
+{
+  "id": "osm-19437205",
+  "slug": "hambleden-mill-to-henley-on-thames-circular-river-walk-central-chilterns-19437205",
+  "name": "Hambleden Mill to Henley-on-Thames Circular River Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.562559,
+    "lon": -0.8684354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19437205
+  }
+}

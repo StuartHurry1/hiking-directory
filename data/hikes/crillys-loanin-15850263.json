@@ -1,0 +1,21 @@
+{
+  "id": "osm-15850263",
+  "slug": "crillys-loanin-15850263",
+  "name": "Crilly's Loanin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1872704,
+    "lon": -6.4008041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15850263
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6207521",
+  "slug": "farleitter-crag-trail-6207521",
+  "name": "Farleitter Crag Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0962656,
+    "lon": -3.9244577
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6207521
+  }
+}

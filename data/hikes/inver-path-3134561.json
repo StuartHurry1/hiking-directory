@@ -1,0 +1,21 @@
+{
+  "id": "osm-3134561",
+  "slug": "inver-path-3134561",
+  "name": "Inver Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5619651,
+    "lon": -3.6036764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3134561
+  }
+}

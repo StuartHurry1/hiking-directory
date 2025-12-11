@@ -1,0 +1,43 @@
+{
+  "id": "osm-10950900",
+  "slug": "camborne-fp-18-10950900",
+  "name": "Camborne FP 18",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2258864,
+    "lon": -5.2958998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10950900
+  },
+  "ai": {
+    "summary": "Camborne FP 18 is a short, easy 1 km hike in the UK along a public footpath. It's suitable for beginners and families, offering a quick countryside stroll with minimal elevation and a well-defined route.",
+    "terrain_summary": "Mostly flat to gently rolling public footpath. Surface varies from packed soil to gravel; expect patches of mud after rain and occasional gates or stiles along the way.",
+    "safety_notes": "Always check the weather and daylight hours before you go. Wear sturdy, waterproof footwear and dress in layers. Stay on the marked path, watch for uneven ground and mud, and be mindful of other walkers, cyclists, and livestock. Carry a map or phone with offline mapping, tell someone your plan, and bring a small first-aid kit and emergency contact information.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Waterproof jacket",
+      "Extra warm layer or fleece",
+      "Water bottle",
+      "Snack",
+      "Hat and sunscreen",
+      "Map or offline navigation",
+      "Small first-aid kit",
+      "Mobile phone with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn; winter is doable with warm clothing, waterproofs, and careful footing.",
+    "seo": {
+      "title": "Camborne FP 18: Easy 1 km Hike in the UK",
+      "meta_description": "Explore Camborne FP 18, a short and easy 1 km hike in the UK. Find terrain details, safety tips, gear suggestions, and the best seasons for this quick countryside walk.",
+      "h1": "Camborne FP 18 – Easy 1 km Hike in the UK"
+    }
+  }
+}

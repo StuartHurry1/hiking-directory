@@ -1,0 +1,45 @@
+{
+  "id": "osm-15099194",
+  "slug": "allerton-country-walk-15099194",
+  "name": "Allerton Country Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3706662,
+    "lon": -2.8808884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15099194
+  },
+  "ai": {
+    "summary": "Allerton Country Walk is a challenging 33.6 km hike in the United Kingdom. The route traverses a mix of rural farmland, woodlands, and country lanes, with sections of uneven footing and gentle to moderate elevation gain. Designed for experienced hikers, it rewards with varied scenery and a sustained long-distance workout.",
+    "terrain_summary": "The terrain is varied: grassy fields, muddy trails, woodlands, and surfaced country lanes. Expect uneven ground, stiles, gates, and occasional sections with loose gravel. Navigation is straightforward on open countryside, but some segments may be poorly marked or overgrown.",
+    "safety_notes": "This is a long, strenuous outing. Plan for 8–12 hours and check weather conditions, as UK weather can change quickly. Wear sturdy waterproof boots and bring waterproof clothing; carry sufficient water and high-energy snacks. Have a map or GPS, a charged phone, and a basic first-aid kit. Be prepared for livestock fields, gates, and stiles; take care crossing roads and watch for other trail users. Inform someone of your route and expected return time, and carry identification and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weather-appropriate layers (base layer, fleece, waterproof outer layer)",
+      "Waterproof jacket and trousers",
+      "Backpack with 20–30 L capacity",
+      "Water bottle or hydration system (2+ liters)",
+      "Navigation: map and compass or GPS device",
+      "Headlamp or flashlight (in case of delays)",
+      "First aid kit and emergency whistle",
+      "Snacks and energy foods",
+      "Sun protection and insect repellent",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the best weather and daylight; winter hiking is possible but more challenging due to shorter days and harsher conditions.",
+    "seo": {
+      "title": "Allerton Country Walk – 33.6 km Hard Hike in the UK",
+      "meta_description": "Explore Allerton Country Walk, a demanding 33.6 km route through UK countryside. Practical tips, gear recommendations, safety notes, and best seasons for this long-distance hike.",
+      "h1": "Allerton Country Walk: 33.6 km Hard Hike in the UK"
+    }
+  }
+}

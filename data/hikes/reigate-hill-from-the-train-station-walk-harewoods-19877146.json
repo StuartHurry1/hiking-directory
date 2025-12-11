@@ -1,0 +1,21 @@
+{
+  "id": "osm-19877146",
+  "slug": "reigate-hill-from-the-train-station-walk-harewoods-19877146",
+  "name": "Reigate Hill From the Train Station Walk, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2421265,
+    "lon": -0.2038932
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877146
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-16306932",
+  "slug": "birnam-oak-16306932",
+  "name": "Birnam Oak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5590663,
+    "lon": -3.576902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16306932
+  },
+  "ai": {
+    "summary": "A short, family-friendly 1 km walk to Birnam Oak in Scotland. This easy trail weaves through a small woodland to the historic oak, offering a gentle outing suitable for all ages and a glimpse into a landmark linked to Macbeth.",
+    "terrain_summary": "Mostly flat, well-maintained woodland path with a few roots and compact soil. Expect shaded sections, occasional benches, and gentle turns along the 1 km route.",
+    "safety_notes": "Dress for changeable UK weather. Paths can be muddy after rain; wear sturdy shoes. Watch footing on tree roots and uneven surfaces. Keep dogs under control and respect the site; do not climb the tree or disturb surrounding vegetation. Stay on marked paths.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone or camera for photos",
+      "Sunscreen and a hat (in sunny weather)",
+      "Insect repellent (summer)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn when the trees are vibrant and the weather is mild.",
+    "seo": {
+      "title": "Birnam Oak — 1 km Easy Woodland Walk in Scotland",
+      "meta_description": "Discover the Birnam Oak on an easy 1 km trail in Perth and Kinross, Scotland. A short, family-friendly woodland walk to a historic tree tied to Macbeth.",
+      "h1": "Birnam Oak: 1 km Easy Woodland Walk in Scotland"
+    }
+  }
+}

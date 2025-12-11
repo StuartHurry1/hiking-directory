@@ -1,0 +1,21 @@
+{
+  "id": "osm-12685693",
+  "slug": "loop-link-to-high-barnet-underground-12685693",
+  "name": "LOOP link to High Barnet underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6476773,
+    "lon": -0.1904657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12685693
+  }
+}

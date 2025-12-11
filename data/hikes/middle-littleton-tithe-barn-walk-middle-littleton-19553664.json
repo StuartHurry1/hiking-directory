@@ -1,0 +1,23 @@
+{
+  "id": "osm-19553664",
+  "slug": "middle-littleton-tithe-barn-walk-middle-littleton-19553664",
+  "name": "Middle Littleton Tithe Barn Walk, Middle Littleton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1217524,
+    "lon": -1.8844319
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19553664
+  }
+}

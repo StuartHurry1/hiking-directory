@@ -1,0 +1,21 @@
+{
+  "id": "osm-2147653",
+  "slug": "strathkelvin-railway-path-2147653",
+  "name": "Strathkelvin Railway Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9856404,
+    "lon": -4.3032396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2147653
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17744153",
+  "slug": "london-to-walsingham-stage-05-17744153",
+  "name": "London to Walsingham - stage 05",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0783686,
+    "lon": 0.5814667
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17744153
+  }
+}

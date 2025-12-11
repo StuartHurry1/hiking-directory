@@ -1,0 +1,21 @@
+{
+  "id": "osm-18208864",
+  "slug": "surlingham-circular-18208864",
+  "name": "Surlingham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6075046,
+    "lon": 1.4031114
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18208864
+  }
+}

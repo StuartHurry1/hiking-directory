@@ -1,0 +1,21 @@
+{
+  "id": "osm-1394447",
+  "slug": "darcy-dalton-way-1394447",
+  "name": "D'Arcy Dalton Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 563.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9806258,
+    "lon": -1.5254413
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1394447
+  }
+}

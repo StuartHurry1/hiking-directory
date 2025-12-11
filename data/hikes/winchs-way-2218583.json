@@ -1,0 +1,21 @@
+{
+  "id": "osm-2218583",
+  "slug": "winchs-way-2218583",
+  "name": "Winch's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7160866,
+    "lon": 1.1530514
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2218583
+  }
+}

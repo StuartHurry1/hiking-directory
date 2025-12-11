@@ -1,0 +1,21 @@
+{
+  "id": "osm-228443",
+  "slug": "shuttle-riverway-228443",
+  "name": "Shuttle Riverway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4476556,
+    "lon": 0.0872743
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 228443
+  }
+}

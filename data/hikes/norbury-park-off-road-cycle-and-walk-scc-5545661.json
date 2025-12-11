@@ -1,0 +1,21 @@
+{
+  "id": "osm-5545661",
+  "slug": "norbury-park-off-road-cycle-and-walk-scc-5545661",
+  "name": "Norbury Park Off Road Cycle & Walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2814428,
+    "lon": -0.3499395
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5545661
+  }
+}

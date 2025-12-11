@@ -1,0 +1,39 @@
+{
+  "id": "osm-1826182",
+  "slug": "balsall-heath-tree-trail-east-1826182",
+  "name": "Balsall Heath Tree Trail East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4584427,
+    "lon": -1.8855756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1826182
+  },
+  "ai": {
+    "summary": "Balsall Heath Tree Trail East is a short, easy 2.5 km hike in the UK featuring shaded tree-lined paths and urban greenspace. The route offers a gentle walk suitable for families and casual walkers, with mostly flat terrain and light natural scenery. The trail location is listed as unknown region within the UK.",
+    "terrain_summary": "Mostly flat with paved and gravel paths, some sections along quiet streets and through woodlanded park areas. Expect shaded routes under mature trees and occasional benches.",
+    "safety_notes": "As an urban nature trail, stay aware of pedestrians and cyclists, keep to marked paths, and wear appropriate footwear. Check weather and daylight hours, carry essentials, and supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or smartphone with offline map"
+    ],
+    "best_seasons": "Year-round; spring and autumn offer especially pleasant scenery, but the trail is suitable in all seasons with varying weather and daylight.",
+    "seo": {
+      "title": "Balsall Heath Tree Trail East — Easy 2.5 km Hike in the UK",
+      "meta_description": "Explore Balsall Heath Tree Trail East, a 2.5 km easy hike in the UK. Enjoy tree-lined avenues, urban greenspace, and a family-friendly stroll.",
+      "h1": "Balsall Heath Tree Trail East – Easy 2.5 km Hike in the UK"
+    }
+  }
+}

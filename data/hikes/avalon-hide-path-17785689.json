@@ -1,0 +1,40 @@
+{
+  "id": "osm-17785689",
+  "slug": "avalon-hide-path-17785689",
+  "name": "Avalon Hide Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1553054,
+    "lon": -2.7746422
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17785689
+  },
+  "ai": {
+    "summary": "Avalon Hide Path is a very short, easy hike in the UK, running about 0.4 km. It offers a gentle stroll suitable for beginners and families, with a quiet, nature-filled atmosphere.",
+    "terrain_summary": "A short, mostly flat route with a well-trodden surface. Expect grassy patches, compact soil, and a few exposed roots; it can be muddy in wet weather. Overall easy for most walkers.",
+    "safety_notes": "Despite its short length, follow standard UK trail safety: stay on the marked path, wear sturdy footwear, and be prepared for sudden weather changes. The trail may be shared with cyclists or other walkers on narrow sections. Bring water, dress for rain, and supervise children closely. In icy or high-wind conditions, consider postponing the hike.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered, including a waterproof jacket)",
+      "Small day pack",
+      "Sun protection (hat and sunscreen) or warm hat depending on season",
+      "Phone with map or offline navigation"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically from late spring to early autumn.",
+    "seo": {
+      "title": "Avalon Hide Path: Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore Avalon Hide Path, an easy 0.4 km hike in the UK. A short, family-friendly woodland trail perfect for a quick outdoor escape.",
+      "h1": "Avalon Hide Path – Easy 0.4 km UK Hike"
+    }
+  }
+}

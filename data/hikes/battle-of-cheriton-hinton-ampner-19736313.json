@@ -1,0 +1,43 @@
+{
+  "id": "osm-19736313",
+  "slug": "battle-of-cheriton-hinton-ampner-19736313",
+  "name": "Battle of Cheriton, Hinton Ampner",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0602332,
+    "lon": -1.1560852
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19736313
+  },
+  "ai": {
+    "summary": "A 12.6 km moderate hike in the UK that traces countryside lanes and open fields associated with the Battle of Cheriton near Hinton Ampner. Suitable for hikers with a reasonable fitness, offering pastoral scenery, light ascents, and a touch of historical context.",
+    "terrain_summary": "Combination of rural lanes, grassy footpaths, and field edges. Expect uneven surfaces, gates and stiles, and possible mud after rain. Some gentle hills with open views over farmland and hedgerows.",
+    "safety_notes": "Check the weather forecast before you go and plan for changing conditions. Wear sturdy waterproof footwear and bring layers. Stay on waymarked paths, be mindful of gates and livestock, and watch for vehicle traffic at road crossings. Carry water, a map or GPS, a basic first aid kit, and a charged phone with offline maps. In early morning or late evening, visibility may be reduced; consider a headlamp.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water and energy snacks",
+      "Map or GPS device and a compass",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with offline maps",
+      "Trekking poles (optional)",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for the most comfortable conditions; winter hikes can be muddy and more challenging.",
+    "seo": {
+      "title": "Battle of Cheriton, Hinton Ampner – 12.6 km Moderate UK Hike",
+      "meta_description": "Explore the Battle of Cheriton site on a 12.6 km moderate hike starting near Hinton Ampner, UK. Rural lanes, fields, and gentle hills offer scenic country walking.",
+      "h1": "Battle of Cheriton, Hinton Ampner – 12.6 km Moderate Hike"
+    }
+  }
+}

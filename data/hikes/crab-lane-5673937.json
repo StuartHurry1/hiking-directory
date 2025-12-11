@@ -1,0 +1,21 @@
+{
+  "id": "osm-5673937",
+  "slug": "crab-lane-5673937",
+  "name": "Crab Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9979222,
+    "lon": -0.2375002
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5673937
+  }
+}

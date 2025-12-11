@@ -1,0 +1,21 @@
+{
+  "id": "osm-10668776",
+  "slug": "pilgrimage-of-grace-10668776",
+  "name": "Pilgrimage of Grace",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9358157,
+    "lon": -0.7595812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10668776
+  }
+}

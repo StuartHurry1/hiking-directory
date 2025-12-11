@@ -1,0 +1,21 @@
+{
+  "id": "osm-9749720",
+  "slug": "green-trail-giants-causeway-9749720",
+  "name": "Green Trail, Giant's Causeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2332997,
+    "lon": -6.5175922
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9749720
+  }
+}

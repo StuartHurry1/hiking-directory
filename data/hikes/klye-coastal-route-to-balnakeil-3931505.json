@@ -1,0 +1,23 @@
+{
+  "id": "osm-3931505",
+  "slug": "klye-coastal-route-to-balnakeil-3931505",
+  "name": "Klye Coastal Route to Balnakeil",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.553198,
+    "lon": -4.7899463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3931505
+  }
+}

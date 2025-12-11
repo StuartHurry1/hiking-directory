@@ -1,0 +1,23 @@
+{
+  "id": "osm-917969",
+  "slug": "north-down-coastal-path-ulster-way-section-917969",
+  "name": "North Down Coastal Path (Ulster Way Section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 51.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6449994,
+    "lon": -5.8295251
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 917969
+  }
+}

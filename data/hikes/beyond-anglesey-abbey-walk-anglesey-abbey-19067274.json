@@ -1,0 +1,42 @@
+{
+  "id": "osm-19067274",
+  "slug": "beyond-anglesey-abbey-walk-anglesey-abbey-19067274",
+  "name": "Beyond Anglesey Abbey Walk, Anglesey Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2379309,
+    "lon": 0.2436508
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19067274
+  },
+  "ai": {
+    "summary": "A challenging 18 km hike circling Anglesey Abbey, combining parkland, hedged country paths, and rural lanes. The route suits experienced walkers who enjoy varied terrain and elevation with rewarding views.",
+    "terrain_summary": "Undulating mixed terrain: gravel tracks, grassy paths, muddy byways, and occasional paved lanes. Expect uneven footing, some steps and stiles, and mud after rain; conditions can be slippery in wet weather.",
+    "safety_notes": "Check access and opening times for Anglesey Abbey and surrounding trails. Wear sturdy boots and dress for changing UK weather. Carry a map, compass or GPS, and a fully charged phone. Bring plenty of water and snacks. Plan for shorter daylight hours in winter and inform someone of your route. Watch for livestock on rural tracks and keep dogs under control.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Hat and sun protection",
+      "Map, compass or GPS device",
+      "Mobile phone with offline maps",
+      "Small first-aid kit",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for the best conditions; winter walks are possible with extra caution and shorter daylight.",
+    "seo": {
+      "title": "Beyond Anglesey Abbey Walk – 18 km Hard Hike near Anglesey Abbey, UK",
+      "meta_description": "Explore the Beyond Anglesey Abbey Walk, a challenging 18 km route around Anglesey Abbey in the UK. Varied terrain, scenic parkland, and rewarding views for experienced hikers.",
+      "h1": "Beyond Anglesey Abbey Walk • 18 km Hard Hike"
+    }
+  }
+}

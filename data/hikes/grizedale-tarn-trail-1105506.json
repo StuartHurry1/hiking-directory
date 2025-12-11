@@ -1,0 +1,23 @@
+{
+  "id": "osm-1105506",
+  "slug": "grizedale-tarn-trail-1105506",
+  "name": "Grizedale Tarn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.337658,
+    "lon": -3.0187351
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1105506
+  }
+}

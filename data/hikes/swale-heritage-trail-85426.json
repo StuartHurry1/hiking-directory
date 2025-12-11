@@ -1,0 +1,21 @@
+{
+  "id": "osm-85426",
+  "slug": "swale-heritage-trail-85426",
+  "name": "Swale Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.316733,
+    "lon": 0.9013273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 85426
+  }
+}

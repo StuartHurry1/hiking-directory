@@ -1,0 +1,23 @@
+{
+  "id": "osm-19321683",
+  "slug": "danbury-common-to-lingwood-common-walk-danbury-19321683",
+  "name": "Danbury Common to Lingwood Common Walk, Danbury",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7131079,
+    "lon": 0.573579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321683
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19894154",
+  "slug": "leith-hill-50-things-trail-leith-hill-19894154",
+  "name": "Leith Hill '50 things' Trail, Leith Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1733451,
+    "lon": -0.3831328
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19894154
+  }
+}

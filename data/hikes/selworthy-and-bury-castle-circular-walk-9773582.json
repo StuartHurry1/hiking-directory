@@ -1,0 +1,21 @@
+{
+  "id": "osm-9773582",
+  "slug": "selworthy-and-bury-castle-circular-walk-9773582",
+  "name": "Selworthy and Bury Castle circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2102526,
+    "lon": -3.5482863
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773582
+  }
+}

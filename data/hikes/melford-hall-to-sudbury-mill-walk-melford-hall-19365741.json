@@ -1,0 +1,21 @@
+{
+  "id": "osm-19365741",
+  "slug": "melford-hall-to-sudbury-mill-walk-melford-hall-19365741",
+  "name": "Melford Hall to Sudbury Mill Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.083523,
+    "lon": 0.7217372
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365741
+  }
+}

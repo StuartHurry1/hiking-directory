@@ -1,0 +1,118 @@
+{
+  "id": 11160181,
+  "slug": "loop-link-to-enfield-lock-station-11160181",
+  "name": "LOOP link to Enfield Lock station",
+  "network": "rwn",
+  "tags": {
+    "from": "LOOP section 17 / 18",
+    "name": "LOOP link to Enfield Lock station",
+    "network": "rwn",
+    "operator": "London Borough of Enfield",
+    "roundtrip": "no",
+    "route": "foot",
+    "source": "Colin Saunders 'The London Loop' (Aurum Press 2017) ISBN 978 1 78131 561 3",
+    "symbol": "kestrel",
+    "to": "Enfield Lock rail station",
+    "type": "route",
+    "website": "https://www.nationalrail.co.uk/stations_destinations/ENL.aspx",
+    "wikipedia:en": "Enfield Lock railway station"
+  },
+  "coordinates": [
+    [
+      -0.0284474,
+      51.6680586
+    ],
+    [
+      -0.0283985,
+      51.668235
+    ],
+    [
+      -0.0283985,
+      51.668235
+    ],
+    [
+      -0.0284732,
+      51.6682408
+    ],
+    [
+      -0.0284634,
+      51.6683361
+    ],
+    [
+      -0.02845,
+      51.6685064
+    ],
+    [
+      -0.0284365,
+      51.6687162
+    ],
+    [
+      -0.0284268,
+      51.6689316
+    ],
+    [
+      -0.0284009,
+      51.6690999
+    ],
+    [
+      -0.0283863,
+      51.6692355
+    ],
+    [
+      -0.028373,
+      51.6693442
+    ],
+    [
+      -0.0283341,
+      51.66962
+    ],
+    [
+      -0.0283104,
+      51.6697971
+    ],
+    [
+      -0.0282751,
+      51.6700559
+    ],
+    [
+      -0.0282416,
+      51.6702669
+    ],
+    [
+      -0.0281911,
+      51.6705844
+    ],
+    [
+      -0.0281187,
+      51.6709763
+    ],
+    [
+      -0.0281007,
+      51.671072
+    ],
+    [
+      -0.028125,
+      51.6710939
+    ],
+    [
+      -0.0282655,
+      51.6711025
+    ],
+    [
+      -0.0283605,
+      51.6711175
+    ],
+    [
+      -0.0283605,
+      51.6711175
+    ],
+    [
+      -0.0283872,
+      51.6709162
+    ],
+    [
+      -0.0284154,
+      51.6709176
+    ]
+  ]
+}

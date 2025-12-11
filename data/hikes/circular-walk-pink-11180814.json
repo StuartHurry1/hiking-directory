@@ -1,0 +1,21 @@
+{
+  "id": "osm-11180814",
+  "slug": "circular-walk-pink-11180814",
+  "name": "Circular Walk (Pink)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3449387,
+    "lon": 0.9845824
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11180814
+  }
+}

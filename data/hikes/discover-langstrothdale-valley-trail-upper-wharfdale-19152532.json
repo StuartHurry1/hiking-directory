@@ -1,0 +1,24 @@
+{
+  "id": "osm-19152532",
+  "slug": "discover-langstrothdale-valley-trail-upper-wharfdale-19152532",
+  "name": "Discover Langstrothdale valley trail, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2069561,
+    "lon": -2.1479786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19152532
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19638295",
+  "slug": "river-walk-at-the-argory-19638295",
+  "name": "River Walk at The Argory",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4658279,
+    "lon": -6.6569814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19638295
+  }
+}

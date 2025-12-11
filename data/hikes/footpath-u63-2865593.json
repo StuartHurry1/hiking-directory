@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865593",
+  "slug": "footpath-u63-2865593",
+  "name": "Footpath U63",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5307982,
+    "lon": -1.3377682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865593
+  }
+}

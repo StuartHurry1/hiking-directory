@@ -1,0 +1,21 @@
+{
+  "id": "osm-17148500",
+  "slug": "yellow-17148500",
+  "name": "Yellow",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4158904,
+    "lon": -1.7262067
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17148500
+  }
+}

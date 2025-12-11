@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774128",
+  "slug": "eastergate-return-walk-19774128",
+  "name": "Eastergate Return Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6041996,
+    "lon": -1.9406275
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774128
+  }
+}

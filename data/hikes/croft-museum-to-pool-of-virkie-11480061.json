@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480061",
+  "slug": "croft-museum-to-pool-of-virkie-11480061",
+  "name": "Croft Museum to Pool of Virkie",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9148077,
+    "lon": -1.2904534
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480061
+  }
+}

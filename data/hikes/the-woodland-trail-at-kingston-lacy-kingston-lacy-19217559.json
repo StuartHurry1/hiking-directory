@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217559",
+  "slug": "the-woodland-trail-at-kingston-lacy-kingston-lacy-19217559",
+  "name": "The woodland trail at Kingston Lacy, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8116965,
+    "lon": -2.0330339
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217559
+  }
+}

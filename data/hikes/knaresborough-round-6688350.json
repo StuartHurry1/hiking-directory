@@ -1,0 +1,21 @@
+{
+  "id": "osm-6688350",
+  "slug": "knaresborough-round-6688350",
+  "name": "Knaresborough Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0081123,
+    "lon": -1.4703188
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6688350
+  }
+}

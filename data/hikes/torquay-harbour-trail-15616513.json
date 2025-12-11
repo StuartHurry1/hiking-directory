@@ -1,0 +1,21 @@
+{
+  "id": "osm-15616513",
+  "slug": "torquay-harbour-trail-15616513",
+  "name": "Torquay Harbour Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4617055,
+    "lon": -3.5250962
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15616513
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17329760",
+  "slug": "greenwood-trail-17329760",
+  "name": "Greenwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2019104,
+    "lon": -1.0719192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17329760
+  }
+}

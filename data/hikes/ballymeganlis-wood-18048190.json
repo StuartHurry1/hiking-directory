@@ -1,0 +1,41 @@
+{
+  "id": "osm-18048190",
+  "slug": "ballymeganlis-wood-18048190",
+  "name": "Ballymeganlis Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4191053,
+    "lon": -6.1454707
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18048190
+  },
+  "ai": {
+    "summary": "Ballymeganlis Wood offers a very short, easy 0.5 km hike in the UK. This quick nature stroll through woodland is suitable for families and casual walkers looking for a brief outdoor outing.",
+    "terrain_summary": "A flat to gently sloping woodland path with occasional roots and leaf litter. Likely shaded with varying light, and can be muddy after rain; footwear with good grip is recommended.",
+    "safety_notes": "Stay on marked paths, bring weather-appropriate clothing, and be mindful of uneven ground and slippery leaves. Check local timings and any access restrictions. Tick awareness in woodlands; perform a quick head-to-toe check after the hike. If visibility is poor, avoid navigation by yourself and have a map or GPS.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Phone and map or GPS",
+      "Sunscreen and hat (for sunny days)",
+      "Insect repellent",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn",
+    "seo": {
+      "title": "Ballymeganlis Wood Walk – Easy 0.5 km Trail in the UK",
+      "meta_description": "Explore Ballymeganlis Wood with this short, easy 0.5 km hike in the UK. Perfect for a quick family-friendly nature stroll.",
+      "h1": "Ballymeganlis Wood: Easy 0.5 km Family-Friendly Walk"
+    }
+  }
+}

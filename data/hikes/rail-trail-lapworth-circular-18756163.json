@@ -1,0 +1,21 @@
+{
+  "id": "osm-18756163",
+  "slug": "rail-trail-lapworth-circular-18756163",
+  "name": "Rail Trail: Lapworth Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3418513,
+    "lon": -1.7256434
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18756163
+  }
+}

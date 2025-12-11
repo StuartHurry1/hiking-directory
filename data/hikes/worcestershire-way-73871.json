@@ -1,0 +1,21 @@
+{
+  "id": "osm-73871",
+  "slug": "worcestershire-way-73871",
+  "name": "Worcestershire Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 105.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3762933,
+    "lon": -2.3142805
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 73871
+  }
+}

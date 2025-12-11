@@ -1,0 +1,44 @@
+{
+  "id": "osm-1691371",
+  "slug": "acw-circular-walk-03a-short-cut-for-c03-1691371",
+  "name": "ACW Circular Walk 03A (short-cut for C03)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.389184,
+    "lon": -1.6153979
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1691371
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 03A (short-cut for C03) is a challenging 16.2 km circular hike in the UK. The route combines varied terrain, sustained ascents, and several exposed sections that reward careful navigation and good fitness.",
+    "terrain_summary": "Mixed terrain with muddy and grassy sections, rocky steps, and uneven footing. Expect open moorland, brief technical sections, and wind exposure on ridges and higher ground.",
+    "safety_notes": "Plan for rapidly changing UK weather. Wear sturdy boots and dress in layers; carry a waterproof/windproof jacket. Bring a map and compass or GPS and know how to use them. Carry enough water and snacks for a long day and ensure you have a means of communication. Start early in poor visibility and stay on marked paths; be prepared to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water 2–3 liters",
+      "Weather-appropriate clothing (layers + waterproof/windproof jacket)",
+      "Map and compass or GPS device",
+      "Headwear and gloves (seasonal)",
+      "First aid kit",
+      "Snacks and a portable energy source",
+      "Emergency blanket or bivvy sack",
+      "Whistle and a charged phone (plus power bank)",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "ACW Circular Walk 03A (Hard) – 16.2 km Circular Hike in the UK",
+      "meta_description": "Explore ACW Circular Walk 03A, a demanding 16.2 km circular hike in the UK. Terrain overview, safety tips, gear recommendations, and best seasons.",
+      "h1": "ACW Circular Walk 03A (Hard) – 16.2 km Circular Hike in the UK"
+    }
+  }
+}

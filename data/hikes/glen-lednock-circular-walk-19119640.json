@@ -1,0 +1,21 @@
+{
+  "id": "osm-19119640",
+  "slug": "glen-lednock-circular-walk-19119640",
+  "name": "Glen Lednock Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3745376,
+    "lon": -3.9899593
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19119640
+  }
+}

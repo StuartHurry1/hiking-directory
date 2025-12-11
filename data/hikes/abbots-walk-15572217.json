@@ -1,0 +1,41 @@
+{
+  "id": "osm-15572217",
+  "slug": "abbots-walk-15572217",
+  "name": "Abbot's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.480658,
+    "lon": -4.1329612
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15572217
+  },
+  "ai": {
+    "summary": "Abbot's Walk is a short, easy 2.7 km hike in the UK suitable for beginners and families. The route offers gentle terrain and scenic surroundings, making it a quick outdoor outing.",
+    "terrain_summary": "The trail features well-defined, primarily gentle surfaces—mostly compacted paths with occasional grassy or uneven sections. Expect light inclines and some minor steps depending on the exact route.",
+    "safety_notes": "Check the weather and daylight hours before starting. Wear sturdy footwear and dress for changing conditions. Stay on marked paths, be mindful of other users, and carry a light, fully charged phone. Bring water and snacks, and avoid hiking alone if possible. In wet or icy conditions, tread carefully and allow extra time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layered, waterproof if rain is forecast)",
+      "Water bottle",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Small first aid kit and basic emergency info",
+      "Map or offline map on phone, and a charged phone",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the nicest conditions in the UK; winter visits are possible but can be muddy or icy.",
+    "seo": {
+      "title": "Abbot's Walk: Easy 2.7 km Hike in the UK",
+      "meta_description": "Explore Abbot's Walk, a gentle 2.7 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this easy walk.",
+      "h1": "Abbot's Walk — Easy 2.7 km Hike in the UK"
+    }
+  }
+}

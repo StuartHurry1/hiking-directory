@@ -1,0 +1,21 @@
+{
+  "id": "osm-10721673",
+  "slug": "leland-trail-10721673",
+  "name": "Leland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1149807,
+    "lon": -2.3658756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10721673
+  }
+}

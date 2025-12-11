@@ -1,0 +1,21 @@
+{
+  "id": "osm-4626603",
+  "slug": "east-loop-4626603",
+  "name": "East Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8170356,
+    "lon": -4.0542885
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4626603
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3739976",
+  "slug": "dunsford-to-moretonhampstead-trail-3739976",
+  "name": "Dunsford to Moretonhampstead Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.690037,
+    "lon": -3.6823506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3739976
+  }
+}

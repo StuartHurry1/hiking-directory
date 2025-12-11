@@ -1,0 +1,44 @@
+{
+  "id": "osm-16107970",
+  "slug": "bittern-line-walk-9-16107970",
+  "name": "Bittern Line Walk 9",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9354957,
+    "lon": 1.2454734
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16107970
+  },
+  "ai": {
+    "summary": "Bittern Line Walk 9 is a strenuous 23.9 km hike in the UK following the Bittern Line corridor. The route rewards with varied rural scenery but demands solid stamina, reliable navigation, and careful planning. Expect long stretches along hedged farmland, short woodland sections, and occasional road or railway crossings. The total distance and exposure make it best suited to experienced hikers who start early and carry appropriate gear.",
+    "terrain_summary": "The terrain combines gravel and dirt tracks, grassy fields, mud in wetter seasons, hedgerows, and intermittent woodland paths, with occasional rural roads. Footing can be uneven and there are stiles and gates to negotiate. Open stretches provide wind exposure and shade is sporadic.",
+    "safety_notes": "Plan around the weather and daylight; carry a map, compass or GPS, and a charged phone with offline maps. Stay on marked paths and use designated crossings at rail lines; do not cross active tracks. Wear sturdy boots and be prepared for mud and uneven surfaces. Watch for livestock and gates; close gates behind you. Carry enough water and snacks for the distance, and let someone know your route and expected return time. In poor visibility or severe weather, consider postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable layers plus a waterproof and windproof outer layer",
+      "Water container (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device; fully charged phone with offline map",
+      "Lightweight backpack with rain cover",
+      "Hat, sunglasses, and sunscreen for sun exposure",
+      "Headlamp or small flashlight",
+      "First aid kit and blister care",
+      "Trekking poles (optional but helpful on long distances)",
+      "Emergency whistle and basic safety gear"
+    ],
+    "best_seasons": "Spring to Autumn (roughly April to October) offers longer daylight and milder conditions; winter hikes are possible but typically more demanding due to mud, wind exposure, and reduced daylight.",
+    "seo": {
+      "title": "Bittern Line Walk 9: 23.9 km Hard Hike in the UK",
+      "meta_description": "A guide to Bittern Line Walk 9, a 23.9 km hard hike in the UK. Learn terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Bittern Line Walk 9 – 23.9 km Hard Hike in the UK"
+    }
+  }
+}

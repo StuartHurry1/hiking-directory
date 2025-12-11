@@ -1,0 +1,21 @@
+{
+  "id": "osm-19022026",
+  "slug": "southwood-estate-wildlife-walk-southwood-19022026",
+  "name": "Southwood Estate Wildlife Walk, Southwood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8384942,
+    "lon": -5.1103749
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19022026
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3177517",
+  "slug": "walton-2-3177517",
+  "name": "Walton 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6514744,
+    "lon": -1.4645986
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3177517
+  }
+}

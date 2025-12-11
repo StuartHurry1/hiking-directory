@@ -1,0 +1,23 @@
+{
+  "id": "osm-17448525",
+  "slug": "rosthwaite-round-fells-tarn-and-beck-walk-north-lakes-outdoors-17448525",
+  "name": "Rosthwaite Round, Fells, Tarn and Beck Walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.522991,
+    "lon": -3.1495301
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17448525
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19745847",
+  "slug": "wildlife-walk-dunstable-downs-and-whipsnade-estate-19745847",
+  "name": "Wildlife Walk, Dunstable Downs and Whipsnade Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8645082,
+    "lon": -0.5370285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19745847
+  }
+}

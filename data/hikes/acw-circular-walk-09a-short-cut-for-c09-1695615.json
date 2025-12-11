@@ -1,0 +1,44 @@
+{
+  "id": "osm-1695615",
+  "slug": "acw-circular-walk-09a-short-cut-for-c09-1695615",
+  "name": "ACW Circular Walk 09A (short-cut for C09)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3555165,
+    "lon": -1.4099444
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1695615
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 09A is a 24.6 km hard circular route in the UK, a cut-down variant of C09 designed for experienced hikers. The hike traverses a mix of open moorland, woodland paths, and occasional road sections, with challenging ascents and long straight sections that demand stamina and navigation.",
+    "terrain_summary": "Terrain varies from rough, uneven tracks and grassy moorland to forest trails and rocky lanes. Expect steep climbs, loose stones, boggy patches after rain, and exposure in open sections. The short cut nature adds potential wayfinding challenges where routes converge.",
+    "safety_notes": "Plan for long daylight hours or carry a headlamp. Weather in UK uplands changes quickly; check forecast before setting out. Tell someone your planned route and expected return. Carry a map and compass or a GPS device and know how to use them. Stay hydrated and carry enough food; pace yourself to avoid fatigue on long sections. Mobile signal can be sparse in remote parts; bring a power bank and consider a tracker. Avoid crossing livestock and be aware of seasonal closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Thermal layer for cold weather",
+      "Rucksack with 15–20 L capacity",
+      "Water and high energy snacks",
+      "Map and compass or GPS device",
+      "Head torch or flashlight with spare batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency whistle and basic first aid kit",
+      "Mobile phone with power bank and offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best hiking conditions with longer daylight and more reliable footing; winter hiking is more demanding due to ice and weather and can limit accessibility.",
+    "seo": {
+      "title": "ACW Circular Walk 09A (C09 Short-cut) – 24.6 km Hard Circular Trail in the UK",
+      "meta_description": "Explore ACW Circular Walk 09A, a 24.6 km hard circular route in the UK. Short-cut variant of C09 with varied terrain, challenging ascents, safety tips, and gear recommendations.",
+      "h1": "ACW Circular Walk 09A (C09 Short-cut)"
+    }
+  }
+}

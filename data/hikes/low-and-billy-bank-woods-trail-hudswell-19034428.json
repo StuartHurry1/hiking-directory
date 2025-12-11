@@ -1,0 +1,21 @@
+{
+  "id": "osm-19034428",
+  "slug": "low-and-billy-bank-woods-trail-hudswell-19034428",
+  "name": "Low and Billy Bank Woods trail, Hudswell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.401238,
+    "lon": -1.7475649
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19034428
+  }
+}

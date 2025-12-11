@@ -1,0 +1,24 @@
+{
+  "id": "osm-19792137",
+  "slug": "hendersick-and-talland-bay-loop-lansallos-19792137",
+  "name": "Hendersick and Talland Bay Loop, Lansallos",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3415676,
+    "lon": -4.4807313
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19792137
+  }
+}

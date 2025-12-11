@@ -1,0 +1,21 @@
+{
+  "id": "osm-13703050",
+  "slug": "quantock-greenway-13703050",
+  "name": "Quantock Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 120.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0828475,
+    "lon": -3.1114924
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13703050
+  }
+}

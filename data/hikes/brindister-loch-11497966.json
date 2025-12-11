@@ -1,0 +1,43 @@
+{
+  "id": "osm-11497966",
+  "slug": "brindister-loch-11497966",
+  "name": "Brindister Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1159653,
+    "lon": -1.2175459
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497966
+  },
+  "ai": {
+    "summary": "Brindister Loch is a short, easy 2.2 km loop around a tranquil freshwater loch in the UK. The route follows mostly flat, well-defined paths with occasional grassy or boggy patches, making it suitable for walkers of most ages and fitness levels. Expect calm scenery, little elevation gain, and opportunities for wildlife spotting along the shoreline.",
+    "terrain_summary": "Mostly level, well-maintained paths encircle the loch. Expect a few grassy or muddy sections after rain and some exposed stretches along the water. Good grip footwear is advised and a light waterproof layer for changeable conditions.",
+    "safety_notes": "Check weather and daylight hours before you go; coastal conditions can change quickly. The loch edge can be slippery when wet, so stay on marked trails and supervise children and dogs. If visibility is poor or wind is strong, consider postponing the walk. Carry basic survival essentials if venturing into remote sections, and ensure your phone is charged.",
+    "recommended_gear": [
+      "Sturdy footwear with good grip",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Extra warm layer",
+      "Map or offline map of the area",
+      "Mobile phone with a charged battery or power bank",
+      "Small first aid kit",
+      "Sunscreen and hat (seasonal)",
+      "Binoculars (optional for wildlife viewing)"
+    ],
+    "best_seasons": "Spring to autumn offers the best weather and wildlife viewing, with year-round accessibility possible. Winter visits can be windy, muddy and shorter daylight.",
+    "seo": {
+      "title": "Brindister Loch — Easy 2.2 km Hike in the UK",
+      "meta_description": "Discover Brindister Loch on an easy 2.2 km loop. Flat terrain, scenic shoreline, and wildlife opportunities make this a perfect quick nature escape in the UK. Includes terrain and safety tips.",
+      "h1": "Brindister Loch: Easy 2.2 km Hike"
+    }
+  }
+}

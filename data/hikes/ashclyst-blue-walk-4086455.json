@@ -1,0 +1,45 @@
+{
+  "id": "osm-4086455",
+  "slug": "ashclyst-blue-walk-4086455",
+  "name": "Ashclyst Blue Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7805795,
+    "lon": -3.4326071
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086455
+  },
+  "ai": {
+    "summary": "Ashclyst Blue Walk is a challenging 17.7 km loop in the UK that follows a mix of forest tracks, open moorland, and winding paths around Ashclyst Woods. The route suits experienced hikers with solid fitness, featuring long climbs, variable footing, and potential Mud and uneven ground. Expect scenic woodland, intermittent outlooks, and possible navigation challenges in poor visibility.",
+    "terrain_summary": "Varied terrain including well-used forest tracks, muddy footpaths, rooty sections, and occasional steep or uneven climbs. Gates or stiles may be encountered. Conditions can be slippery when wet and boggy after rain; be prepared for exposed, uneven surfaces and changing footing.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy waterproof boots and dress in layers. Carry a map and compass or GPS, and ensure your phone is charged. Bring water, snacks, a basic first aid kit, and a whistle. Stay on marked paths, watch for livestock or riders on shared sections, and let someone know your planned return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Waterproof jacket and insulating layers",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "Small first aid kit and emergency blanket",
+      "Snack foods and high-energy fuel",
+      "Whistle",
+      "Sun protection (hat and sunscreen)",
+      "Gaiters or waterproof trousers for boggy sections",
+      "Phone with offline maps or mapping app"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Ashclyst Blue Walk - 17.7 km Hard Hike in the UK",
+      "meta_description": "Explore the Ashclyst Blue Walk, a challenging 17.7 km hike in the UK. Learn about terrain, safety, gear, and what to expect on this hard-rated trail.",
+      "h1": "Ashclyst Blue Walk – 17.7 km Hard Hike in the UK"
+    }
+  }
+}

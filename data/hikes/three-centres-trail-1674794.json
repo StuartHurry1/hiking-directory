@@ -1,0 +1,21 @@
+{
+  "id": "osm-1674794",
+  "slug": "three-centres-trail-1674794",
+  "name": "Three Centres Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.109976,
+    "lon": -1.2808213
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1674794
+  }
+}

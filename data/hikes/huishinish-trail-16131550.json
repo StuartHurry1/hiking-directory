@@ -1,0 +1,21 @@
+{
+  "id": "osm-16131550",
+  "slug": "huishinish-trail-16131550",
+  "name": "Huishinish Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9955954,
+    "lon": -7.0933395
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16131550
+  }
+}

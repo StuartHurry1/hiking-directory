@@ -1,0 +1,21 @@
+{
+  "id": "osm-1622513",
+  "slug": "the-brecks-1622513",
+  "name": "The Brecks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4580378,
+    "lon": 0.6486271
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1622513
+  }
+}

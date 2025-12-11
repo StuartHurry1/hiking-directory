@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069677",
+  "slug": "centenary-way-derbyshire-1069677",
+  "name": "Centenary Way (Derbyshire)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 167.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9996056,
+    "lon": -1.7168788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069677
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-349324",
+  "slug": "two-ridges-link-349324",
+  "name": "Two Ridges Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8566903,
+    "lon": -0.6625877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 349324
+  }
+}

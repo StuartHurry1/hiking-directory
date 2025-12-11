@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772654",
+  "slug": "west-highland-way-inveroran-to-kingshouse-19772654",
+  "name": "West Highland Way (Inveroran to Kingshouse)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5328825,
+    "lon": -4.8066984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772654
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19032545",
+  "slug": "woodland-trail-kinver-edge-19032545",
+  "name": "Woodland Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4491477,
+    "lon": -2.2405345
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032545
+  }
+}

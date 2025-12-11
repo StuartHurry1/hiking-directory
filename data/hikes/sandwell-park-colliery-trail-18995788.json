@@ -1,0 +1,21 @@
+{
+  "id": "osm-18995788",
+  "slug": "sandwell-park-colliery-trail-18995788",
+  "name": "Sandwell Park Colliery Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5276694,
+    "lon": -1.963565
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18995788
+  }
+}

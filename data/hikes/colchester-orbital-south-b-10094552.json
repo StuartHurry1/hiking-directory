@@ -1,0 +1,21 @@
+{
+  "id": "osm-10094552",
+  "slug": "colchester-orbital-south-b-10094552",
+  "name": "Colchester Orbital South B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.876092,
+    "lon": 0.9124432
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10094552
+  }
+}

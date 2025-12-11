@@ -1,0 +1,21 @@
+{
+  "id": "osm-13216751",
+  "slug": "gortin-forest-nature-trail-13216751",
+  "name": "Gortin Forest Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.683377,
+    "lon": -7.2443249
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216751
+  }
+}

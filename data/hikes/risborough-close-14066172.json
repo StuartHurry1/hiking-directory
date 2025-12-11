@@ -1,0 +1,21 @@
+{
+  "id": "osm-14066172",
+  "slug": "risborough-close-14066172",
+  "name": "Risborough Close",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5904944,
+    "lon": -0.1400761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14066172
+  }
+}

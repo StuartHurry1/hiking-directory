@@ -1,0 +1,21 @@
+{
+  "id": "osm-19318766",
+  "slug": "capability-browns-parkland-walk-petworth-19318766",
+  "name": "Capability Brown's Parkland Walk, Petworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0061279,
+    "lon": -0.6238907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19318766
+  }
+}

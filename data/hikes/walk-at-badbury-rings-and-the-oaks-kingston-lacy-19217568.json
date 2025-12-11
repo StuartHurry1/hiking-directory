@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217568",
+  "slug": "walk-at-badbury-rings-and-the-oaks-kingston-lacy-19217568",
+  "name": "Walk at Badbury Rings and The Oaks, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8202131,
+    "lon": -2.0498139
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217568
+  }
+}

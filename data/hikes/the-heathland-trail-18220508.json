@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220508",
+  "slug": "the-heathland-trail-18220508",
+  "name": "The Heathland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4592505,
+    "lon": 0.8119611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220508
+  }
+}

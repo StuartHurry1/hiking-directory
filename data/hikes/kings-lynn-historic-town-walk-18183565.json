@@ -1,0 +1,21 @@
+{
+  "id": "osm-18183565",
+  "slug": "kings-lynn-historic-town-walk-18183565",
+  "name": "King’s Lynn Historic Town Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7509556,
+    "lon": 0.3937362
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18183565
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15903499",
+  "slug": "designated-footpath-68-15903499",
+  "name": "Designated Footpath 68",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5595957,
+    "lon": -5.5770014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15903499
+  }
+}

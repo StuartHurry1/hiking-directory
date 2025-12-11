@@ -1,0 +1,21 @@
+{
+  "id": "osm-18741515",
+  "slug": "rail-trail-henley-in-arden-circular-18741515",
+  "name": "Rail Trail: Henley-in-Arden Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2789651,
+    "lon": -1.8066239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18741515
+  }
+}

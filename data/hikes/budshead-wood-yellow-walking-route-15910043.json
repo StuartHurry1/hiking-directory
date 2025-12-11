@@ -1,0 +1,40 @@
+{
+  "id": "osm-15910043",
+  "slug": "budshead-wood-yellow-walking-route-15910043",
+  "name": "Budshead Wood Yellow Walking Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4186795,
+    "lon": -4.1653186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15910043
+  },
+  "ai": {
+    "summary": "A gentle 2.8 km woodland walk through Budshead Wood that is easy for families and new hikers. The route offers shaded paths, mild gradients, and opportunities to observe local birds and plants in a tranquil UK woodland setting.",
+    "terrain_summary": "The path runs on well-maintained woodland trails with compact earth, gravel, and occasional tree roots. Expect mostly flat to gently undulating terrain with shaded sections and damp conditions after rain. Footing is generally easy, but wear sturdy footwear and watch for uneven patches and slippery leaves.",
+    "safety_notes": "Stay on marked trails. Wear sturdy footwear and watch for uneven surfaces, exposed roots, and damp leaves, especially after rain. Check the weather and daylight hours, as conditions can change quickly in UK woodlands. Bring water and a light waterproof layer. Keep children within sight and follow Yellow route markers; exercise caution near any adjoining roads and crossings.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a small snack",
+      "Light waterproof jacket (layered clothing)",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS (optional)",
+      "Small first aid kit and emergency whistle"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the most pleasant conditions and scenery.",
+    "seo": {
+      "title": "Budshead Wood Yellow Walking Route – 2.8 km Easy Hike in the UK",
+      "meta_description": "Explore the Budshead Wood Yellow Walking Route: a gentle 2.8 km woodland hike in the UK. Easy terrain, family-friendly paths, and practical safety and gear tips.",
+      "h1": "Budshead Wood Yellow Walking Route"
+    }
+  }
+}

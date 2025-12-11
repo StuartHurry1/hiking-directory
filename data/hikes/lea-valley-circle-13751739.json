@@ -1,0 +1,21 @@
+{
+  "id": "osm-13751739",
+  "slug": "lea-valley-circle-13751739",
+  "name": "Lea Valley Circle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8132499,
+    "lon": -0.2933721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13751739
+  }
+}

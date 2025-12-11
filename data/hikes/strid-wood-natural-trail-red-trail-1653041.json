@@ -1,0 +1,21 @@
+{
+  "id": "osm-1653041",
+  "slug": "strid-wood-natural-trail-red-trail-1653041",
+  "name": "Strid Wood Natural Trail - Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9941914,
+    "lon": -1.8848881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1653041
+  }
+}

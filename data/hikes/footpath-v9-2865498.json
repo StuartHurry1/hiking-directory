@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865498",
+  "slug": "footpath-v9-2865498",
+  "name": "Footpath V9",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5427002,
+    "lon": -1.3611402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865498
+  }
+}

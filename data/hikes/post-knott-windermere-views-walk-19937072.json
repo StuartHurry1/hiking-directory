@@ -1,0 +1,23 @@
+{
+  "id": "osm-19937072",
+  "slug": "post-knott-windermere-views-walk-19937072",
+  "name": "Post Knott, Windermere Views Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3618957,
+    "lon": -2.9128603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19937072
+  }
+}

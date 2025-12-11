@@ -1,0 +1,21 @@
+{
+  "id": "osm-16219399",
+  "slug": "elizabeth-way-16219399",
+  "name": "Elizabeth Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.903665,
+    "lon": 0.4721091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16219399
+  }
+}

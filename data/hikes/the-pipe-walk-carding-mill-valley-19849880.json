@@ -1,0 +1,21 @@
+{
+  "id": "osm-19849880",
+  "slug": "the-pipe-walk-carding-mill-valley-19849880",
+  "name": "The Pipe Walk, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5445907,
+    "lon": -2.8193122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19849880
+  }
+}

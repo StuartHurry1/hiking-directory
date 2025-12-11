@@ -1,0 +1,23 @@
+{
+  "id": "osm-2413672",
+  "slug": "tandridge-border-path-2413672",
+  "name": "Tandridge Border Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 501.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2436392,
+    "lon": 0.0528384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2413672
+  }
+}

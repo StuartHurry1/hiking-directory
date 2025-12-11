@@ -1,0 +1,21 @@
+{
+  "id": "osm-15917229",
+  "slug": "heritage-trails-15917229",
+  "name": "Heritage Trails",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9708667,
+    "lon": -1.6105231
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15917229
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-68723",
+  "slug": "cross-bucks-way-68723",
+  "name": "Cross Bucks Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 104.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9293601,
+    "lon": -1.1159902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 68723
+  }
+}

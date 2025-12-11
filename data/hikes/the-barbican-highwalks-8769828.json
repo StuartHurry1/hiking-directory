@@ -1,0 +1,21 @@
+{
+  "id": "osm-8769828",
+  "slug": "the-barbican-highwalks-8769828",
+  "name": "The Barbican Highwalks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5200201,
+    "lon": -0.0946636
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769828
+  }
+}

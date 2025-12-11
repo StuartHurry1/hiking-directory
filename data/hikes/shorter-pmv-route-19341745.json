@@ -1,0 +1,21 @@
+{
+  "id": "osm-19341745",
+  "slug": "shorter-pmv-route-19341745",
+  "name": "Shorter PMV Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1127684,
+    "lon": -1.5847136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19341745
+  }
+}

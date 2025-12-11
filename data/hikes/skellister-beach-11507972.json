@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507972",
+  "slug": "skellister-beach-11507972",
+  "name": "Skellister Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2797907,
+    "lon": -1.1609941
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507972
+  }
+}

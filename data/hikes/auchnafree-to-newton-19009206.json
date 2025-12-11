@@ -1,0 +1,46 @@
+{
+  "id": "osm-19009206",
+  "slug": "auchnafree-to-newton-19009206",
+  "name": "Auchnafree to Newton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4756037,
+    "lon": -3.9090812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009206
+  },
+  "ai": {
+    "summary": "A challenging 20.9 km hike from Auchnafree to Newton in the UK, suited for experienced walkers. The route combines varied terrain, elevation changes and potentially boggy sections, demanding good fitness, navigation and preparation.",
+    "terrain_summary": "Mixed terrain including upland paths, rocky sections, peat bogs and forest tracks. Expect uneven footing, exposed sections on higher ground, and mud after rain. Navigation can be tricky in poor visibility; plan skills accordingly.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Carry a map and compass (and know how to use them) or a GPS device; share your route and expected turnaround time with someone. Stick to the marked paths where possible, avoid unlikely shortcuts, and be prepared for boggy or wet ground. Wear sturdy boots with good grip and bring waterproof outer layers. Stay hydrated, carry sufficient food, and have a first aid kit, whistle, and a charged phone as an emergency backup. In winter, expect harsher conditions and shorter daylight; adjust plans accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and breathable jacket and trousers",
+      "Warm layers (fleece or down, depending on season)",
+      "Map and compass or a reliable GPS device",
+      "Fully charged phone and offline maps",
+      "Water bottle or hydration system (2–3 litres recommended for 20.9 km)",
+      "High-energy snacks (bars, nuts, dried fruit)",
+      "Headlamp or flashlight with spare batteries",
+      "Personal first aid kit and emergency blanket",
+      "Whistle, multitool or small knife",
+      "Optional trekking poles",
+      "Sun protection (sunglasses, sunscreen, hat)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) is ideal due to milder weather and longer daylight; the route can be undertaken in winter by experienced hikers with extra precautions and gear.",
+    "seo": {
+      "title": "Auchnafree to Newton Hike – 20.9 km Hard Trail in the UK",
+      "meta_description": "Plan and execute a challenging 20.9 km hike from Auchnafree to Newton in the UK. Learn about terrain, safety, gear and the best seasons for this hard route.",
+      "h1": "Auchnafree to Newton: 20.9 km Hard Hike in the UK"
+    }
+  }
+}

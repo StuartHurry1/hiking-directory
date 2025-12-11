@@ -1,0 +1,21 @@
+{
+  "id": "osm-9864670",
+  "slug": "tyn-y-coed-uchaf-and-cwm-eidda-walk-9864670",
+  "name": "Ty'n y Coed Uchaf and Cwm Eidda walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0522724,
+    "lon": -3.7896268
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9864670
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19431591",
+  "slug": "geraldines-walk-ickworth-19431591",
+  "name": "Geraldine's Walk, Ickworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2225848,
+    "lon": 0.6544133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19431591
+  }
+}

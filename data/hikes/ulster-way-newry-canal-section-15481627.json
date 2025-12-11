@@ -1,0 +1,21 @@
+{
+  "id": "osm-15481627",
+  "slug": "ulster-way-newry-canal-section-15481627",
+  "name": "Ulster Way (Newry Canal section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 80.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2374741,
+    "lon": -6.3698839
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15481627
+  }
+}

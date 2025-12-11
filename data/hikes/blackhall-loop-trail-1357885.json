@@ -1,0 +1,45 @@
+{
+  "id": "osm-1357885",
+  "slug": "blackhall-loop-trail-1357885",
+  "name": "Blackhall Loop Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0419207,
+    "lon": -2.6045538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1357885
+  },
+  "ai": {
+    "summary": "The Blackhall Loop Trail is a challenging 15.3 km circuit in the UK designed for experienced hikers. The route combines long ascents, varied terrain, and exposed sections, delivering rewarding views and a rigorous workout. Plan for a full day and solid navigation.",
+    "terrain_summary": "Expect mixed terrain: rough forest tracks, rocky and uneven ground, muddy stretches, and grassy moorland in places. Substantial elevation gain and potentially slippery footing in wet weather. Navigation can be tricky in dense sections; stay on the marked line and watch for cairns or markers.",
+    "safety_notes": "This is a hard, long hike. Pack for changeable UK conditions and start early to ensure daylight. Wear sturdy, ankle‑support hiking boots and consider trekking poles. Bring a map and compass or GPS, plus a charged phone as backup. Carry enough water and high‑energy snacks for 5–7+ hours, plus a lightweight extra layer and waterproof shell. Inform someone of your planned route and expected return time. Stay on marked paths, be cautious on exposed rocky sections, and avoid risky crossings during wet or windy weather. In winter, be prepared for ice, shorter days, and harsher conditions.",
+    "recommended_gear": [
+      "Sturdy ankle‑support hiking boots",
+      "Waterproof and breathable jacket plus layers",
+      "Map and compass or GPS device",
+      "Water and high‑energy snacks",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Extra cold‑weather layers (hat and gloves)",
+      "Phone with offline maps and portable charger",
+      "Rain cover for your backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–Sept) offers the best conditions with longer daylight and drier trails. The hike can be attempted year‑round by experienced hikers, but winter conditions bring mud, ice, and reduced daylight, increasing risk.",
+    "seo": {
+      "title": "Blackhall Loop Trail – 15.3 km Hard Hike in the UK",
+      "meta_description": "Explore the Blackhall Loop Trail, a demanding 15.3 km loop in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this challenging hike.",
+      "h1": "Blackhall Loop Trail – 15.3 km Hard Hike in the UK"
+    }
+  }
+}

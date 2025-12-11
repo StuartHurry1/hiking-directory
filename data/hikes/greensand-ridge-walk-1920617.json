@@ -1,0 +1,23 @@
+{
+  "id": "osm-1920617",
+  "slug": "greensand-ridge-walk-1920617",
+  "name": "Greensand Ridge Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 217.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1608192,
+    "lon": -0.2072252
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1920617
+  }
+}

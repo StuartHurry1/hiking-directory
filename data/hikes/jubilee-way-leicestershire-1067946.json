@@ -1,0 +1,21 @@
+{
+  "id": "osm-1067946",
+  "slug": "jubilee-way-leicestershire-1067946",
+  "name": "Jubilee Way (Leicestershire)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 96.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8807466,
+    "lon": -0.8219055
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1067946
+  }
+}

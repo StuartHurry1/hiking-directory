@@ -1,0 +1,21 @@
+{
+  "id": "osm-10140736",
+  "slug": "colchester-orbital-spoke-north-east-10140736",
+  "name": "Colchester Orbital Spoke (North East)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8849324,
+    "lon": 0.9324971
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10140736
+  }
+}

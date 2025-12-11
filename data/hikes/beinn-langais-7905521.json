@@ -1,0 +1,43 @@
+{
+  "id": "osm-7905521",
+  "slug": "beinn-langais-7905521",
+  "name": "Beinn Langais",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5703867,
+    "lon": -7.2913427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7905521
+  },
+  "ai": {
+    "summary": "Beinn Langais is a short, easy 2.6 km hike in the UK. The trail offers a gentle ascent, suitable for beginners, with potential scenic views on a clear day. The route is straightforward and well-suited to a quick outdoor outing.",
+    "terrain_summary": "A short, gentle route with well-defined paths. Mostly easy walking with occasional rocky or uneven sections near the summit. Expect grassy slopes and a light ascent; footing is generally stable but can be uneven after weather.",
+    "safety_notes": "Carry appropriate clothing for changing UK weather, check forecast, carry water, waterproof layer, sturdy footwear, map or GPS, and let someone know your plan. Short hike; stay on marked paths, watch for uneven ground, and be cautious in windy or wet conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Layered clothing and waterproof shell",
+      "Water bottle",
+      "Map and compass or GPS",
+      "Snack / energy food",
+      "Hat, sunscreen, and sunglasses",
+      "Phone with emergency numbers",
+      "Light rain jacket",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn are ideal for Beinn Langais; summer offers longer daylight and better visibility. Winter hiking is possible but requires preparation for harsher conditions.",
+    "seo": {
+      "title": "Beinn Langais – Easy 2.6 km Hike in the UK",
+      "meta_description": "Explore Beinn Langais, an easy 2.6 km hike in the UK. This beginner-friendly trail features gentle terrain, scenic views, and practical safety and gear tips.",
+      "h1": "Beinn Langais – Easy 2.6 km Hike in the UK"
+    }
+  }
+}

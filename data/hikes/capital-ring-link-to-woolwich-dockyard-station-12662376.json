@@ -1,0 +1,21 @@
+{
+  "id": "osm-12662376",
+  "slug": "capital-ring-link-to-woolwich-dockyard-station-12662376",
+  "name": "Capital Ring link to Woolwich Dockyard station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4909863,
+    "lon": 0.0547136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12662376
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-4139229",
+  "slug": "trans-pennine-trail-liverpool-to-warrington-4139229",
+  "name": "Trans-Pennine Trail (Liverpool to Warrington)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 91.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4034062,
+    "lon": -2.9963423
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4139229
+  }
+}

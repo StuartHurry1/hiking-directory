@@ -1,0 +1,21 @@
+{
+  "id": "osm-19055913",
+  "slug": "sizergh-fell-19055913",
+  "name": "Sizergh Fell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2789963,
+    "lon": -2.7731066
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19055913
+  }
+}

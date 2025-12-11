@@ -1,0 +1,21 @@
+{
+  "id": "osm-6951138",
+  "slug": "risborough-red-route-6951138",
+  "name": "Risborough Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7377468,
+    "lon": -0.802384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6951138
+  }
+}

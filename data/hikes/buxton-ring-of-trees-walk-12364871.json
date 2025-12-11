@@ -1,0 +1,47 @@
+{
+  "id": "osm-12364871",
+  "slug": "buxton-ring-of-trees-walk-12364871",
+  "name": "Buxton Ring of Trees Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2494318,
+    "lon": -1.9449926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12364871
+  },
+  "ai": {
+    "summary": "A challenging circular forest hike of 29.4 km around Buxton in the UK. This hard route combines woodland paths with occasional open sections; expect varied terrain, long daylight hours, and a full-day trek.",
+    "terrain_summary": "Forest trails and woodland roads with uneven footing, some muddy sections, gentle to moderate climbs, and occasional open ground. Navigation can be tricky in dense woodland; stay on markers and be prepared for weather changes.",
+    "safety_notes": "Plan for a full-day hike. The route is long and physically demanding; UK weather can be highly variable, so carry layers and a waterproof. Wear sturdy boots and bring a map and compass (don’t rely solely on phone navigation). In forested sections, visibility can be reduced; daylight hours may be limited in winter. Bring sufficient water and snacks, monitor your pace, and turn back if fatigue or weather worsens. Check permissions for any farmland or access points along the route before setting out.",
+    "recommended_gear": [
+      "Orienteering map and compass",
+      "Water and high-energy snacks",
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof shell, hat, gloves)",
+      "Emergency whistle",
+      "Headtorch or flashlight",
+      "First aid kit",
+      "Sunscreen and sunglasses",
+      "Mobile phone with offline maps",
+      "Spare batteries or portable charger",
+      "Emergency blanket",
+      "Walking poles (optional)",
+      "Small pack rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is generally best for daylight and milder weather; winter hikes are possible with extra precautions.",
+    "seo": {
+      "title": "Buxton Ring of Trees Walk – 29.4 km Hard Circular Hike in the UK",
+      "meta_description": "Discover the Buxton Ring of Trees Walk, a challenging 29.4 km circular hike in the UK. Learn about terrain, safety tips, and gear for a full-day forest trek near Buxton.",
+      "h1": "Buxton Ring of Trees Walk – 29.4 km Hard Circular Hike in the UK"
+    }
+  }
+}

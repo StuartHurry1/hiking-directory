@@ -1,0 +1,21 @@
+{
+  "id": "osm-19687029",
+  "slug": "stonebarrow-walk-golden-cap-19687029",
+  "name": "Stonebarrow walk, Golden Cap",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7358699,
+    "lon": -2.8781116
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19687029
+  }
+}

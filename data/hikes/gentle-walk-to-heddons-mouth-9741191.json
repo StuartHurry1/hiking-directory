@@ -1,0 +1,21 @@
+{
+  "id": "osm-9741191",
+  "slug": "gentle-walk-to-heddons-mouth-9741191",
+  "name": "Gentle walk to Heddon's Mouth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2168401,
+    "lon": -3.9277121
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9741191
+  }
+}

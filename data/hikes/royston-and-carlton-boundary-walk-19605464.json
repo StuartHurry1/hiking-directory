@@ -1,0 +1,21 @@
+{
+  "id": "osm-19605464",
+  "slug": "royston-and-carlton-boundary-walk-19605464",
+  "name": "Royston & Carlton Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5782927,
+    "lon": -1.4493549
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19605464
+  }
+}

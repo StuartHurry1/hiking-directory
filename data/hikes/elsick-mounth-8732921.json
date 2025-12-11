@@ -1,0 +1,21 @@
+{
+  "id": "osm-8732921",
+  "slug": "elsick-mounth-8732921",
+  "name": "Elsick Mounth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.99298,
+    "lon": -2.2686612
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8732921
+  }
+}

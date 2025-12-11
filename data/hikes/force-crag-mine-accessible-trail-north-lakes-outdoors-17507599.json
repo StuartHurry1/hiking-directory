@@ -1,0 +1,23 @@
+{
+  "id": "osm-17507599",
+  "slug": "force-crag-mine-accessible-trail-north-lakes-outdoors-17507599",
+  "name": "Force Crag Mine Accessible Trail, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6031959,
+    "lon": -3.1977443
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17507599
+  }
+}

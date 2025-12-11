@@ -1,0 +1,21 @@
+{
+  "id": "osm-19525612",
+  "slug": "southease-to-monks-house-circular-walk-monks-house-19525612",
+  "name": "Southease to Monk's House Circular Walk, Monks House",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8311861,
+    "lon": 0.0304534
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19525612
+  }
+}

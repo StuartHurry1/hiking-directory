@@ -1,0 +1,21 @@
+{
+  "id": "osm-13271802",
+  "slug": "dodd-summit-trail-13271802",
+  "name": "Dodd Summit Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6429653,
+    "lon": -3.1863242
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13271802
+  }
+}

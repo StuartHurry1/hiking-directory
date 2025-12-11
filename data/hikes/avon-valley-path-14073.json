@@ -1,0 +1,49 @@
+{
+  "id": "osm-14073",
+  "slug": "avon-valley-path-14073",
+  "name": "Avon Valley Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 704,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7660543,
+    "lon": -1.7656928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14073
+  },
+  "ai": {
+    "summary": "The Avon Valley Path is a strenuous long-distance route in the UK, spanning 704 km along the Avon corridor. It weaves through river valleys, farmland, woodlands, and open countryside, offering a demanding multi-day challenge with varied scenery and frequent changes in terrain.",
+    "terrain_summary": "Expect a mix of riverbank paths, hedgerow borders, rural tracks, and woodland trails. Surfaces range from compact dirt and gravel to muddy fields and uneven roots. Some sections may be flooded after rain, with occasional gentle to moderate climbs and stile crossings.",
+    "safety_notes": "This is a hard, long-distance hike requiring careful planning. Prepare for variable UK weather, limited daylight in winter, and remote stretches with few services. Always map the route, carry navigation tools, inform someone of your itinerary, and plan for multiple overnight stops or camping opportunities. Stay hydrated, watch footing on wet surfaces, and have contingency plans for river crossings and trail closures.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Breathable, layered clothing and a waterproof outer shell",
+      "Backpack with a capacity of 40–60 liters",
+      "Compact tent or bivy sack and lightweight sleeping system (if wild camping)",
+      "Thermal layers and extra socks",
+      "Map and compass, plus a GPS device as backup",
+      "Water bottle(s) and water purification tablets or filter",
+      "Headlamp with spare batteries",
+      "First aid kit and any personal medications",
+      "Emergency whistle and multi-tool",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Dry bags or waterproof stuff sacks",
+      "Energy-dense food and snacks for long days",
+      "Trekking poles (optional but helpful)",
+      "Phone with offline maps and protective case"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are ideal for milder weather and longer days. Summer offers the best trail conditions but can be busier; shoulder seasons provide quieter paths with variable weather. Winter hiking is possible but requires extra preparation for cold, wet, and shortened days.",
+    "seo": {
+      "title": "Avon Valley Path: 704 km UK Long-Distance Hike Guide",
+      "meta_description": "Discover the Avon Valley Path, a challenging 704 km long-distance trail in the UK. Learn terrain, safety tips, essential gear, and the best seasons for this demanding hike.",
+      "h1": "Avon Valley Path: 704 km UK Long-Distance Hike"
+    }
+  }
+}

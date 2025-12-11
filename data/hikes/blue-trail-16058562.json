@@ -1,0 +1,40 @@
+{
+  "id": "osm-16058562",
+  "slug": "blue-trail-16058562",
+  "name": "Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.498076,
+    "lon": -6.8596816
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16058562
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km hike in the UK on a gentle, well-maintained trail. Suitable for beginners and families.",
+    "terrain_summary": "The trail offers a flat to gently undulating route with a smooth surface. Expect minimal elevation changes, with some grassy patches and occasional roots.",
+    "safety_notes": "Always check local conditions before you go. Bring water, wear comfortable shoes, and dress for the weather. Stay on marked paths and watch for other hikers. In remote sections, carry a mobile phone and inform someone of your plans.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Lightweight rain jacket",
+      "Hat or cap",
+      "Sunscreen",
+      "Phone with offline map"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October). Summer evenings are popular; winters can be muddy or icy.",
+    "seo": {
+      "title": "Blue Trail — 1.2 km Easy Hike in the UK",
+      "meta_description": "Explore the Blue Trail, a short and easy 1.2 km hike in the UK. Perfect for beginners and families seeking a quick outdoor experience.",
+      "h1": "Blue Trail: Easy 1.2 km Hike in the UK"
+    }
+  }
+}

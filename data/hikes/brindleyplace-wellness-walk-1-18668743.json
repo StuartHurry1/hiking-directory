@@ -1,0 +1,40 @@
+{
+  "id": "osm-18668743",
+  "slug": "brindleyplace-wellness-walk-1-18668743",
+  "name": "Brindleyplace Wellness Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4774183,
+    "lon": -1.9125145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18668743
+  },
+  "ai": {
+    "summary": "A short, easy 1.3 km urban walk designed for wellness and stress relief. The route is flat, predominantly paved, and suitable for most fitness levels, making it a quick option for a light outdoor stroll.",
+    "terrain_summary": "Primarily flat, paved urban paths with smooth surfaces. Some curb transitions and potential pedestrian or cyclist traffic on shared routes; generally wheelchair- and stroller-friendly with accessible entry points.",
+    "safety_notes": "Check local weather and daylight hours before starting. Stay on official paths and be mindful of pedestrians and cyclists in busy areas. Watch for road crossings along the route and keep children close. If near water or canal corridors, stay away from edges and supervise children.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layering)",
+      "Water bottle",
+      "Sun protection (sunscreen, hat)",
+      "Light rain jacket",
+      "Small backpack for essentials"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Brindleyplace Wellness Walk 1 — 1.3 km Easy Urban Walk in the UK",
+      "meta_description": "Explore Brindleyplace Wellness Walk 1, a short 1.3 km easy urban trail in the UK. Flat, paved paths ideal for a quick wellness stroll any season.",
+      "h1": "Brindleyplace Wellness Walk 1 – 1.3 km Easy Urban Walk"
+    }
+  }
+}

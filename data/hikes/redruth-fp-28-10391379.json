@@ -1,0 +1,21 @@
+{
+  "id": "osm-10391379",
+  "slug": "redruth-fp-28-10391379",
+  "name": "Redruth FP 28",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2404146,
+    "lon": -5.2163047
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10391379
+  }
+}

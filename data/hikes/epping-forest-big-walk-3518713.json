@@ -1,0 +1,21 @@
+{
+  "id": "osm-3518713",
+  "slug": "epping-forest-big-walk-3518713",
+  "name": "Epping Forest Big Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 63.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5528958,
+    "lon": 0.0536039
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3518713
+  }
+}

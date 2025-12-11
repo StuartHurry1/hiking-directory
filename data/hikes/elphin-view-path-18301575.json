@@ -1,0 +1,21 @@
+{
+  "id": "osm-18301575",
+  "slug": "elphin-view-path-18301575",
+  "name": "Elphin View Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0520837,
+    "lon": -5.0768151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18301575
+  }
+}

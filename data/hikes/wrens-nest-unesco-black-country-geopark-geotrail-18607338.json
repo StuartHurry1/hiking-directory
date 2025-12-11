@@ -1,0 +1,21 @@
+{
+  "id": "osm-18607338",
+  "slug": "wrens-nest-unesco-black-country-geopark-geotrail-18607338",
+  "name": "Wren's Nest UNESCO Black Country Geopark Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5286015,
+    "lon": -2.0924294
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18607338
+  }
+}

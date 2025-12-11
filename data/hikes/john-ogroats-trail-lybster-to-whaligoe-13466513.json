@@ -1,0 +1,21 @@
+{
+  "id": "osm-13466513",
+  "slug": "john-ogroats-trail-lybster-to-whaligoe-13466513",
+  "name": "John O'Groats Trail (Lybster to Whaligoe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.3440612,
+    "lon": -3.1659025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13466513
+  }
+}

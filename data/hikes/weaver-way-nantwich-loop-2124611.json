@@ -1,0 +1,21 @@
+{
+  "id": "osm-2124611",
+  "slug": "weaver-way-nantwich-loop-2124611",
+  "name": "Weaver Way (Nantwich Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0580468,
+    "lon": -2.5387205
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2124611
+  }
+}

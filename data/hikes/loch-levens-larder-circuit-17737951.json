@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737951",
+  "slug": "loch-levens-larder-circuit-17737951",
+  "name": "Loch Leven’s Larder Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2091977,
+    "lon": -3.3276814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737951
+  }
+}

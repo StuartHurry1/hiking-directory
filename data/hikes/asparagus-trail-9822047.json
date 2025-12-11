@@ -1,0 +1,41 @@
+{
+  "id": "osm-9822047",
+  "slug": "asparagus-trail-9822047",
+  "name": "Asparagus Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5650569,
+    "lon": -3.0921742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9822047
+  },
+  "ai": {
+    "summary": "An easy 5.9 km hike in the UK suitable for beginners. The route features gentle terrain, scenic countryside glimpses, and a straightforward, well-marked path.",
+    "terrain_summary": "Mostly well-defined footpaths and grassy segments with occasional gravel. Expect flat to gently rolling terrain and a few light ascents; muddy patches possible after rain.",
+    "safety_notes": "Weather in the UK can change quickly; wear layers and bring a waterproof jacket. Use sturdy walking shoes, stay on marked paths, and keep dogs under control. Bring water and a small snack, carry a map or a charged phone, and let someone know your plans. Watch for muddy patches, uneven ground, and other hikers.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Small backpack",
+      "Snack or energy bar",
+      "Map or a charged phone with offline navigation",
+      "Sunscreen and a hat"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Asparagus Trail – Easy 5.9 km Hike in the UK",
+      "meta_description": "Discover the easy 5.9 km Asparagus Trail in the United Kingdom. Gentle terrain, practical safety tips, gear recommendations, and the best seasons for hiking this route.",
+      "h1": "Asparagus Trail – Easy 5.9 km Hike in the UK"
+    }
+  }
+}

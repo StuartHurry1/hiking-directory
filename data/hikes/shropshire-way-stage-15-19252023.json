@@ -1,0 +1,21 @@
+{
+  "id": "osm-19252023",
+  "slug": "shropshire-way-stage-15-19252023",
+  "name": "Shropshire Way - stage 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7666053,
+    "lon": -2.9156629
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19252023
+  }
+}

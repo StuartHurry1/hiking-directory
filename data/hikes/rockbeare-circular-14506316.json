@@ -1,0 +1,21 @@
+{
+  "id": "osm-14506316",
+  "slug": "rockbeare-circular-14506316",
+  "name": "Rockbeare Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7439808,
+    "lon": -3.3859746
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14506316
+  }
+}

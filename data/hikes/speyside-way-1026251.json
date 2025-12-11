@@ -1,0 +1,21 @@
+{
+  "id": "osm-1026251",
+  "slug": "speyside-way-1026251",
+  "name": "Speyside Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 467.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6703798,
+    "lon": -3.0838468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1026251
+  }
+}

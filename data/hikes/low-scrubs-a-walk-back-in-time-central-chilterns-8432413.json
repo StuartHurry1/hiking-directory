@@ -1,0 +1,21 @@
+{
+  "id": "osm-8432413",
+  "slug": "low-scrubs-a-walk-back-in-time-central-chilterns-8432413",
+  "name": "Low Scrubs: A Walk Back In Time, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7482772,
+    "lon": -0.7678289
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8432413
+  }
+}

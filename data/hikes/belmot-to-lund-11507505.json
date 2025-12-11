@@ -1,0 +1,46 @@
+{
+  "id": "osm-11507505",
+  "slug": "belmot-to-lund-11507505",
+  "name": "Belmot to Lund",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.68314,
+    "lon": -0.9660509
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507505
+  },
+  "ai": {
+    "summary": "Belmot to Lund is a gentle 5.5 km walk in the UK, suitable for families and casual walkers. The route is easy with mostly flat terrain and scenic rural views, suitable for a relaxed outing of about 1.5 to 2 hours depending on pace.",
+    "terrain_summary": "The trail follows well-marked footpaths with mostly flat to gently rolling ground. Expect a mix of compact soil, gravel, and occasional grassy or muddy patches after rain. Some sections may run along field margins with hedges; footing is generally easy but can be uneven near gates and stiles.",
+    "safety_notes": "Check the forecast and tide (if near coastline). Wear sturdy walking shoes and bring a light waterproof layer. Stay on marked paths, respect livestock and farm gates, and carry a map or GPS. Leave extra time for gates, stiles, and potential mud; carry water and a basic first aid item; ensure mobile signal if you need assistance.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Small backpack",
+      "Sun protection (hat, sunscreen)",
+      "Map, printed or offline map, or GPS device",
+      "Snack or energy bar",
+      "Basic first aid kit",
+      "Phone with emergency contacts",
+      "Whistle",
+      "High-visibility vest or bright clothing"
+    ],
+    "best_seasons": "Spring to early autumn (roughly April to September) offers the best conditions for this easy 5.5 km walk, though it can be completed year-round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Belmot to Lund: Easy 5.5 km UK Hike",
+      "meta_description": "Explore Belmot to Lund, a gentle 5.5 km hike in the UK. Easy terrain, practical gear tips, and safety notes for a family-friendly countryside walk.",
+      "h1": "Belmot to Lund – Easy 5.5 km Hike"
+    }
+  }
+}

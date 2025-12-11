@@ -1,0 +1,44 @@
+{
+  "id": "osm-16078386",
+  "slug": "briggateworstead-circular-16078386",
+  "name": "Briggate/Worstead Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7773574,
+    "lon": 1.4041433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16078386
+  },
+  "ai": {
+    "summary": "The Briggate/Worstead Circular is a demanding 16.1 km hike in the UK, suited for experienced walkers. Starting near Briggate and looping back via Worstead, it features a mix of tracks, field paths, and occasional road sections with uneven footing and occasional ascents and descents.",
+    "terrain_summary": "Varied UK countryside terrain: woodland tracks, grassy field paths, and rural lanes with uneven footing, muddy stretches, gates and stiles, and occasional gentle elevation changes.",
+    "safety_notes": "This is a long, hard route with uneven surfaces. Ensure good fitness and sturdy footwear. Check weather and daylight hours before setting out, as UK conditions can change quickly. Carry a map or GPS and a compass; don't rely on mobile signal. Plan for 4.5–6.5 hours, allow extra time for breaks, and inform someone of your planned route and return time. Be aware of livestock, gates, and road sections; carry water, snacks, a first aid kit, a spare layer, and a waterproofs. In remote stretches, battery life and signal may be limited; consider a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof/windproof jacket)",
+      "Backpack with rain cover",
+      "Map and compass or GPS device; fully charged phone with offline maps",
+      "Water and high-energy snacks (plan 2–3 liters of water per person)",
+      "Headwear and gloves for cooler conditions",
+      "Sunscreen and sunglasses",
+      "Emergency whistle and basic first-aid kit",
+      "Walking poles (optional but helpful on rough terrain)",
+      "Lightweight flashlight or headlamp for potential delays"
+    ],
+    "best_seasons": "Spring to Autumn; winter conditions can be hazardous and require advanced navigation and equipment.",
+    "seo": {
+      "title": "Briggate/Worstead Circular – 16.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Briggate/Worstead Circular, a challenging 16.1 km hike in the UK. Learn about terrain, safety considerations, gear, and the best seasons for this route.",
+      "h1": "Briggate/Worstead Circular – 16.1 km Hard Hike (UK)"
+    }
+  }
+}

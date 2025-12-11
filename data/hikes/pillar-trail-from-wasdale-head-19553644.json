@@ -1,0 +1,21 @@
+{
+  "id": "osm-19553644",
+  "slug": "pillar-trail-from-wasdale-head-19553644",
+  "name": "Pillar Trail from Wasdale Head",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4657077,
+    "lon": -3.2558276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19553644
+  }
+}

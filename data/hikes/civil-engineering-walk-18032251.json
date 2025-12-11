@@ -1,0 +1,21 @@
+{
+  "id": "osm-18032251",
+  "slug": "civil-engineering-walk-18032251",
+  "name": "Civil Engineering Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7135512,
+    "lon": -3.7385712
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18032251
+  }
+}

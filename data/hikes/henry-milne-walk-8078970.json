@@ -1,0 +1,21 @@
+{
+  "id": "osm-8078970",
+  "slug": "henry-milne-walk-8078970",
+  "name": "Henry Milne Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1483209,
+    "lon": -3.9236924
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8078970
+  }
+}

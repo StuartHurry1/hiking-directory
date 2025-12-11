@@ -1,0 +1,21 @@
+{
+  "id": "osm-20611",
+  "slug": "monarchs-way-20611",
+  "name": "Monarch's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3979.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5813897,
+    "lon": -2.0174759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 20611
+  }
+}

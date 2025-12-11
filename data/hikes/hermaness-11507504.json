@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507504",
+  "slug": "hermaness-11507504",
+  "name": "Hermaness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.8103679,
+    "lon": -0.8774332
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507504
+  }
+}

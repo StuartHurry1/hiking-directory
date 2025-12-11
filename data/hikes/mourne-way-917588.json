@@ -1,0 +1,21 @@
+{
+  "id": "osm-917588",
+  "slug": "mourne-way-917588",
+  "name": "Mourne Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 69.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2189699,
+    "lon": -5.9517146
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 917588
+  }
+}

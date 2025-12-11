@@ -1,0 +1,40 @@
+{
+  "id": "osm-11506602",
+  "slug": "burn-of-lunket-11506602",
+  "name": "Burn of Lunket",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3005306,
+    "lon": -1.3382587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506602
+  },
+  "ai": {
+    "summary": "Burn of Lunket is a short and easy 0.7 km hike in the UK, following a gentle burn. With minimal elevation gain and a well-defined path, it’s a good option for families, beginners, and anyone seeking a quick outdoor breath of fresh air.",
+    "terrain_summary": "Primarily flat or gently undulating, with a well-trodden footpath along a small river (burn). Expect sections of compact ground mixed with occasional damp or muddy patches near the water; watch footing in wet conditions.",
+    "safety_notes": "Stay on marked paths; keep an eye on children near the water; weather in the UK can change quickly—bring a light layer or rain gear; wear sturdy shoes; check local conditions before visiting; be cautious of slippery edges and water hazards along the burn.",
+    "recommended_gear": [
+      "Sturdy, waterproof shoes",
+      "Lightweight rain jacket",
+      "Water and a small snack",
+      "Weather-appropriate layers",
+      "Phone with offline map",
+      "Compact first aid kit"
+    ],
+    "best_seasons": "Year-round; spring to autumn offer drier conditions and nicer scenery, while winter visits can be muddy or icy.",
+    "seo": {
+      "title": "Burn of Lunket – Easy 0.7 km UK Hike",
+      "meta_description": "Explore Burn of Lunket, a short 0.7 km easy walk in the UK along a tranquil burn. Ideal for families and beginners; practical tips on terrain, safety, and gear.",
+      "h1": "Burn of Lunket – Easy 0.7 km UK Hike"
+    }
+  }
+}

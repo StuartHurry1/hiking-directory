@@ -1,0 +1,23 @@
+{
+  "id": "osm-10663997",
+  "slug": "loop-link-to-uxbridge-underground-10663997",
+  "name": "LOOP link to Uxbridge Underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5505204,
+    "lon": -0.4848523
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10663997
+  }
+}

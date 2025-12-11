@@ -1,0 +1,21 @@
+{
+  "id": "osm-19027419",
+  "slug": "gordon-way-19027419",
+  "name": "Gordon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2971165,
+    "lon": -2.7531522
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19027419
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 422912,
+  "slug": "riverside-walk-422912",
+  "name": "Riverside Walk",
+  "tags": {
+    "colour": "#FFFF00",
+    "description": "Circular walk along the River Mole near Box Hill, UK",
+    "name": "Riverside Walk",
+    "operator": "National Trust",
+    "route": "foot",
+    "type": "route",
+    "wheelchair": "no"
+  },
+  "coordinates": [
+    [
+      -0.3083274,
+      51.2455484
+    ],
+    [
+      -0.3083549,
+      51.2455487
+    ],
+    [
+      -0.3084809,
+      51.2455502
+    ],
+    [
+      -0.3088419,
+      51.2455546
+    ]
+  ]
+}

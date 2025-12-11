@@ -1,0 +1,21 @@
+{
+  "id": "osm-1344471",
+  "slug": "the-great-eastern-pingo-trail-1344471",
+  "name": "The Great Eastern Pingo Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5323194,
+    "lon": 0.8593151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1344471
+  }
+}

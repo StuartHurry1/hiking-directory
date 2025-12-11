@@ -1,0 +1,21 @@
+{
+  "id": "osm-12466329",
+  "slug": "pittenderich-12466329",
+  "name": "Pittenderich",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1322944,
+    "lon": -2.8502858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12466329
+  }
+}

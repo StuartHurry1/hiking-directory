@@ -1,0 +1,21 @@
+{
+  "id": "osm-19612108",
+  "slug": "loughside-walk-at-castle-ward-19612108",
+  "name": "Loughside Walk at Castle Ward",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3729752,
+    "lon": -5.5783694
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19612108
+  }
+}

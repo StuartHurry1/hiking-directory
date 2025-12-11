@@ -1,0 +1,21 @@
+{
+  "id": "osm-15480793",
+  "slug": "hickeys-lane-15480793",
+  "name": "Hickey's Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1911829,
+    "lon": -6.3453977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15480793
+  }
+}

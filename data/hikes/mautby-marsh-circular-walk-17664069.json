@@ -1,0 +1,21 @@
+{
+  "id": "osm-17664069",
+  "slug": "mautby-marsh-circular-walk-17664069",
+  "name": "Mautby Marsh Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6312705,
+    "lon": 1.7115196
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17664069
+  }
+}

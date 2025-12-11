@@ -1,0 +1,21 @@
+{
+  "id": "osm-4086878",
+  "slug": "pennine-way-warland-reservoir-to-calder-valley-4086878",
+  "name": "Pennine Way (Warland Reservoir to Calder Valley)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7341629,
+    "lon": -2.0446588
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086878
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19617618",
+  "slug": "riverside-circular-walk-minnowburn-19617618",
+  "name": "Riverside circular walk, Minnowburn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5481253,
+    "lon": -5.9528899
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617618
+  }
+}

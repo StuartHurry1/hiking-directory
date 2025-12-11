@@ -1,0 +1,21 @@
+{
+  "id": "osm-1537792",
+  "slug": "paston-way-1537792",
+  "name": "Paston Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 152.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9022985,
+    "lon": 1.3364817
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1537792
+  }
+}

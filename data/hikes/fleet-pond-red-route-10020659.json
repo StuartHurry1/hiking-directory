@@ -1,0 +1,21 @@
+{
+  "id": "osm-10020659",
+  "slug": "fleet-pond-red-route-10020659",
+  "name": "Fleet Pond Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2909205,
+    "lon": -0.8246324
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10020659
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-18657363",
+  "slug": "abcd-war-heritage-trail-18657363",
+  "name": "ABCD War Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5779393,
+    "lon": -2.1152544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18657363
+  },
+  "ai": {
+    "summary": "ABCD War Heritage Trail is a 4.7 km easy hike in the UK that runs along lakeshores and through peaceful landscapes, interwoven with accessible wartime heritage markers. Suitable for families and beginners, the route offers tranquil water views and opportunities to learn about local history without demanding technical terrain.",
+    "terrain_summary": "Mostly flat to gently undulating paths with gravel and boardwalk sections along the lake. Some segments can be muddy after rain and there may be uneven ground near the shore. Suitable footwear recommended.",
+    "safety_notes": "Weather in the UK can change quickly. Stay on marked paths, heed any posted memorial and site access rules. Be mindful of others on shared trails, including cyclists. Take water, sun protection in summer, and a light layer in cooler months. If there are water hazards, supervise children closely and keep a safe distance from edges.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Map or offline GPS / charged phone",
+      "Small first-aid kit",
+      "Snack or energy bar",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn for best weather and scenery; in winter, plan for shorter daylight hours and possible mud or ice.",
+    "seo": {
+      "title": "ABCD War Heritage Trail – 4.7 km Easy Lakeside Hike in the UK",
+      "meta_description": "Explore the 4.7 km ABCD War Heritage Trail in the UK. An easy lakeside hike suitable for families, combining peaceful water scenery with wartime heritage markers.",
+      "h1": "ABCD War Heritage Trail: 4.7 km Easy Lakeside Walk in the UK"
+    }
+  }
+}

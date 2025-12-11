@@ -1,0 +1,21 @@
+{
+  "id": "osm-10411065",
+  "slug": "southern-upland-way-deviation-10411065",
+  "name": "Southern Upland Way - deviation",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4094814,
+    "lon": -3.8102969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10411065
+  }
+}

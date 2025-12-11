@@ -1,0 +1,21 @@
+{
+  "id": "osm-7591396",
+  "slug": "franklin-totnes-trail-7591396",
+  "name": "Franklin Totnes Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4305627,
+    "lon": -3.6819628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7591396
+  }
+}

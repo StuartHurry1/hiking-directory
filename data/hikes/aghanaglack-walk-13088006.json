@@ -1,0 +1,45 @@
+{
+  "id": "osm-13088006",
+  "slug": "aghanaglack-walk-13088006",
+  "name": "Aghanaglack Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3297015,
+    "lon": -7.8511237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13088006
+  },
+  "ai": {
+    "summary": "Aghanaglack Walk is a strenuous 23.9 km hike in the UK, suited to experienced walkers. The route covers varied terrain with long ascents and potential rough, exposed sections. Good navigation, solid footwear, and careful planning are essential for a safe and rewarding day out.",
+    "terrain_summary": "Expect a mix of undulating moorland, rough tracks, stony paths, and intermittent boggy or wet ground. Some sections may be exposed to wind; footing can be uneven and navigation may be necessary where paths are poorly marked. Changes in weather are common, so be prepared for poor visibility and sudden rain.",
+    "safety_notes": "Plan for a long day on difficult terrain. Check the forecast and daylight hours before setting out. Wear sturdy, waterproof hiking boots and dress in layers. Carry a map and compass (and know how to use them), plus a fully charged phone as an emergency backup. Bring sufficient water and high-energy food. Tell someone your planned route and ETA. Stay on marked paths where possible, watch for boggy patches and slippery rocks, and have a plan for sudden weather changes. In remote sections consider a whistle and an emergency blanket; carry a small first aid kit and sun protection.",
+    "recommended_gear": [
+      "Waterproof and breathable jacket",
+      "Sturdy hiking boots with good grip",
+      "Layered clothing, including hat and gloves",
+      "Map and compass (or GPS) and a charged phone",
+      "Sufficient water and high-energy snacks",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency blanket or bivy",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible but harsher with shorter days.",
+    "seo": {
+      "title": "Aghanaglack Walk - Challenging 23.9 km UK Hike",
+      "meta_description": "Plan your Aghanaglack Walk: a demanding 23.9 km hike in the UK with varied terrain and remote sections. Learn route tips, safety essentials, and gear recommendations.",
+      "h1": "Aghanaglack Walk"
+    }
+  }
+}

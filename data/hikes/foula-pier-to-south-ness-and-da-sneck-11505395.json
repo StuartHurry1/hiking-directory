@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505395",
+  "slug": "foula-pier-to-south-ness-and-da-sneck-11505395",
+  "name": "Foula Pier to South Ness and Da Sneck",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1341327,
+    "lon": -2.048336
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505395
+  }
+}

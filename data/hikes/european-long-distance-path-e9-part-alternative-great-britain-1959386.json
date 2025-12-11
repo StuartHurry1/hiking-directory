@@ -1,0 +1,21 @@
+{
+  "id": "osm-1959386",
+  "slug": "european-long-distance-path-e9-part-alternative-great-britain-1959386",
+  "name": "European long distance path E9 - part alternative Great Britain",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1506.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9516554,
+    "lon": 0.7261673
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1959386
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14955150",
+  "slug": "poole-harbour-trails-4-14955150",
+  "name": "Poole Harbour Trails 4",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.684304,
+    "lon": -2.1084408
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14955150
+  }
+}

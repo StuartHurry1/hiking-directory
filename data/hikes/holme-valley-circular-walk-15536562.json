@@ -1,0 +1,21 @@
+{
+  "id": "osm-15536562",
+  "slug": "holme-valley-circular-walk-15536562",
+  "name": "Holme Valley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 99.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5500006,
+    "lon": -1.8385496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15536562
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6550636",
+  "slug": "walk-02x-access-to-c02-6550636",
+  "name": "Walk 02X (Access to C02)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4002676,
+    "lon": -1.650388
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6550636
+  }
+}

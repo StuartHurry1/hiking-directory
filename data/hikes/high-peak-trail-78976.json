@@ -1,0 +1,21 @@
+{
+  "id": "osm-78976",
+  "slug": "high-peak-trail-78976",
+  "name": "High Peak Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 118,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1440674,
+    "lon": -1.7451023
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 78976
+  }
+}

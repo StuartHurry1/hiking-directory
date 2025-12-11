@@ -1,0 +1,23 @@
+{
+  "id": "osm-15702568",
+  "slug": "woodland-walk-ladderedge-country-park-brown-arrows-15702568",
+  "name": "Woodland Walk Ladderedge Country Park (Brown Arrows)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0935127,
+    "lon": -2.0426164
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15702568
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19439156",
+  "slug": "white-horse-hill-to-ashdown-walk-white-horse-hill-19439156",
+  "name": "White Horse Hill to Ashdown Walk, White Horse Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5777191,
+    "lon": -1.5789972
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19439156
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18585331",
+  "slug": "reedbed-walk-18585331",
+  "name": "Reedbed Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6188779,
+    "lon": -2.8685018
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18585331
+  }
+}

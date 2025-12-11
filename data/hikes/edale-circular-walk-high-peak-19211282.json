@@ -1,0 +1,21 @@
+{
+  "id": "osm-19211282",
+  "slug": "edale-circular-walk-high-peak-19211282",
+  "name": "Edale Circular Walk, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3600345,
+    "lon": -1.834033
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19211282
+  }
+}

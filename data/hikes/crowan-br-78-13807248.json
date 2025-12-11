@@ -1,0 +1,21 @@
+{
+  "id": "osm-13807248",
+  "slug": "crowan-br-78-13807248",
+  "name": "Crowan BR 78",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1673989,
+    "lon": -5.3207865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13807248
+  }
+}

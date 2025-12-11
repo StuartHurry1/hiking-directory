@@ -1,0 +1,44 @@
+{
+  "id": "osm-19133594",
+  "slug": "cadbury-camp-hill-walk-cadbury-camp-19133594",
+  "name": "Cadbury Camp hill walk, Cadbury Camp",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4513927,
+    "lon": -2.7945077
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19133594
+  },
+  "ai": {
+    "summary": "Cadbury Camp hill walk is an 8.2 km moderate route around the Cadbury Camp hill fort. The loop features grassy slopes, open countryside, and occasional ridge views, with rolling elevation and a mix of easy and uneven sections. Expect about 2.5 to 3 hours of walking for most hikers.",
+    "terrain_summary": "Grassy paths with occasional uneven ground, short rocky or uneven sections near the hill fort, possible mud after rain, and occasional exposed sections with good views.",
+    "safety_notes": "Check the weather forecast before you go and wear sturdy boots. Stay on marked paths and watch for uneven ground and mud. Carry water, a map or GPS, and a means to communicate. Tell someone your route and expected return time. Be mindful of livestock in fields and watch for other trail users on shared routes.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing and layers",
+      "Water 1-2 litres",
+      "Map and compass or GPS",
+      "Phone with offline maps and emergency contacts",
+      "Lightweight rain jacket",
+      "Hat and sunscreen",
+      "Snacks or energy bars",
+      "Basic first aid kit",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with careful gear but expect mud, wind, and shortened daylight.",
+    "seo": {
+      "title": "Cadbury Camp Hill Walk 8.2 km – Moderate Difficulty in the UK",
+      "meta_description": "Guide to the Cadbury Camp hill walk, an 8.2 km moderate hike around a historic hill fort in the UK. Includes terrain, safety guidance, and gear tips.",
+      "h1": "Cadbury Camp Hill Walk: 8.2 km Moderate Hike in the UK"
+    }
+  }
+}

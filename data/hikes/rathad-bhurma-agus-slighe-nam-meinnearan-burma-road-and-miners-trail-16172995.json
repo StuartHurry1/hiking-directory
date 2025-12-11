@@ -1,0 +1,21 @@
+{
+  "id": "osm-16172995",
+  "slug": "rathad-bhurma-agus-slighe-nam-meinnearan-burma-road-and-miners-trail-16172995",
+  "name": "Rathad Bhurma agus Slighe nam Mèinnearan / Burma Road and Miners' Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3509092,
+    "lon": -6.0618169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16172995
+  }
+}

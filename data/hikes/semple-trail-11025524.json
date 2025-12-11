@@ -1,0 +1,21 @@
+{
+  "id": "osm-11025524",
+  "slug": "semple-trail-11025524",
+  "name": "Semple Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7851579,
+    "lon": -4.607238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11025524
+  }
+}

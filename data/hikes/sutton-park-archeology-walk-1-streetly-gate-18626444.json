@@ -1,0 +1,21 @@
+{
+  "id": "osm-18626444",
+  "slug": "sutton-park-archeology-walk-1-streetly-gate-18626444",
+  "name": "Sutton Park Archeology Walk 1: Streetly Gate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5839665,
+    "lon": -1.87281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18626444
+  }
+}

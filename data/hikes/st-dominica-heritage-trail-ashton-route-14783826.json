@@ -1,0 +1,21 @@
+{
+  "id": "osm-14783826",
+  "slug": "st-dominica-heritage-trail-ashton-route-14783826",
+  "name": "St Dominica Heritage Trail (Ashton Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.494151,
+    "lon": -4.2519332
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14783826
+  }
+}

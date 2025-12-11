@@ -1,0 +1,43 @@
+{
+  "id": "osm-13027819",
+  "slug": "black-bog-wood-belle-isle-13027819",
+  "name": "Black bog Wood, Belle Isle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2730498,
+    "lon": -7.5498136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13027819
+  },
+  "ai": {
+    "summary": "An easy 2.9 km woodland stroll on Belle Isle to explore Black bog Wood. The route follows flat, forested paths with occasional damp patches, making it suitable for families and casual walkers seeking a tranquil woodland experience in the UK.",
+    "terrain_summary": "Flat to gently undulating woodland trail with short damp patches. Expect leaf litter, occasional boggy ground, and optional boardwalk sections. Good footing is typical; sturdy footwear is recommended.",
+    "safety_notes": "Check local conditions and weather before you go. Wear sturdy waterproof boots and appropriate layers. Stay on marked paths, be cautious on muddy sections and near water edges, and avoid disturbing wildlife. Carry a charged phone, a small first-aid kit, and inform someone of your plans if hiking alone. Leave no trace and respect local regulations.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Weather-appropriate clothing and extra layers",
+      "Water and snacks",
+      "Map or offline navigation (or a charged phone with offline maps)",
+      "Lightweight rain jacket or poncho",
+      "Small first-aid kit",
+      "Insect repellent",
+      "Sun protection (hat and sunscreen) if sunny",
+      "Whistle or personal safety device"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy and daylight hours are shorter",
+    "seo": {
+      "title": "Black bog Wood, Belle Isle – Easy 2.9 km Woodland Hike in the UK",
+      "meta_description": "Explore Black bog Wood on Belle Isle with this easy 2.9 km hike. Learn about terrain, safety tips, gear, and the best seasons for a peaceful woodland walk in the UK.",
+      "h1": "Black bog Wood, Belle Isle – Easy 2.9 km Woodland Walk"
+    }
+  }
+}

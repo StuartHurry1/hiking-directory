@@ -1,0 +1,21 @@
+{
+  "id": "osm-19121175",
+  "slug": "three-pools-walk-comer-woods-dudmaston-19121175",
+  "name": "Three Pools Walk, Comer Woods, Dudmaston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.506717,
+    "lon": -2.3818123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19121175
+  }
+}

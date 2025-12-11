@@ -1,0 +1,21 @@
+{
+  "id": "osm-360996",
+  "slug": "saint-cuthberts-way-melrose-to-kirk-yetholm-360996",
+  "name": "Saint Cuthbert's Way (Melrose to Kirk Yetholm)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 102.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.60224,
+    "lon": -2.7228331
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 360996
+  }
+}

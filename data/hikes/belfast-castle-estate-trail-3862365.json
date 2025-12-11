@@ -1,0 +1,41 @@
+{
+  "id": "osm-3862365",
+  "slug": "belfast-castle-estate-trail-3862365",
+  "name": "Belfast Castle Estate Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6417938,
+    "lon": -5.9426396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3862365
+  },
+  "ai": {
+    "summary": "A 5 km easy loop around the Belfast Castle Estate in the UK, combining parkland, woodlands, and castle grounds for a relaxed day hike suitable for families and casual walkers.",
+    "terrain_summary": "The trail is mostly flat to gently rolling with well-maintained gravel and compacted dirt paths. Expect some uneven sections and small stairs near the castle area, with scenic views over the surrounding landscape.",
+    "safety_notes": "Check local conditions before you go. Stay on marked trails; surfaces can be uneven or muddy after rain. Wear sturdy footwear and weather-appropriate clothing. Bring water and snacks; keep children and pets under close supervision. Be mindful of other users and seasonal closures.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Layered clothing for changing weather",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map, printed or offline GPS, or a charged phone",
+      "Snacks and a small daypack"
+    ],
+    "best_seasons": "All year round; spring and autumn offer especially pleasant conditions and scenery.",
+    "seo": {
+      "title": "Belfast Castle Estate Trail – 5 km Easy Walk Near Belfast Castle Grounds",
+      "meta_description": "Explore the 5 km Belfast Castle Estate Trail, an easy, family-friendly loop through parkland and woodland around Belfast Castle in the UK. Suitable for all ages.",
+      "h1": "Belfast Castle Estate Trail — 5 km Easy Loop"
+    }
+  }
+}

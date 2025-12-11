@@ -1,0 +1,21 @@
+{
+  "id": "osm-17882155",
+  "slug": "east-ruston-circular-walk-17882155",
+  "name": "East Ruston Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7917833,
+    "lon": 1.4787176
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17882155
+  }
+}

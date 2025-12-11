@@ -1,0 +1,21 @@
+{
+  "id": "osm-18035539",
+  "slug": "greenbank-trail-18035539",
+  "name": "Greenbank Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1498205,
+    "lon": -6.3187892
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18035539
+  }
+}

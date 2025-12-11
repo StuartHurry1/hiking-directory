@@ -1,0 +1,21 @@
+{
+  "id": "osm-5508387",
+  "slug": "trans-pennine-trail-stockport-to-silkstone-common-5508387",
+  "name": "Trans-Pennine Trail (Stockport to Silkstone Common)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 119.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4084465,
+    "lon": -2.1666845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5508387
+  }
+}

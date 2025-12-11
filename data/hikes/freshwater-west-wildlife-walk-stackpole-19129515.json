@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129515",
+  "slug": "freshwater-west-wildlife-walk-stackpole-19129515",
+  "name": "Freshwater West Wildlife Walk, Stackpole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6564599,
+    "lon": -5.0495249
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129515
+  }
+}

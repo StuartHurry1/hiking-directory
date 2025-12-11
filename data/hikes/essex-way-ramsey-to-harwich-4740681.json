@@ -1,0 +1,21 @@
+{
+  "id": "osm-4740681",
+  "slug": "essex-way-ramsey-to-harwich-4740681",
+  "name": "Essex Way (Ramsey to Harwich)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9286676,
+    "lon": 1.2163852
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4740681
+  }
+}

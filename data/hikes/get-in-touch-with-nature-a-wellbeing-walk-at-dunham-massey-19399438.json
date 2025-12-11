@@ -1,0 +1,21 @@
+{
+  "id": "osm-19399438",
+  "slug": "get-in-touch-with-nature-a-wellbeing-walk-at-dunham-massey-19399438",
+  "name": "Get in touch with nature: a wellbeing walk at Dunham Massey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3834611,
+    "lon": -2.402632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19399438
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507208",
+  "slug": "uyea-11507208",
+  "name": "Uyea",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5872459,
+    "lon": -1.3416796
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507208
+  }
+}

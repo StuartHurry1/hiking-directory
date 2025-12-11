@@ -1,0 +1,21 @@
+{
+  "id": "osm-13334758",
+  "slug": "gortalughany-13334758",
+  "name": "Gortalughany",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2188381,
+    "lon": -7.7435065
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13334758
+  }
+}

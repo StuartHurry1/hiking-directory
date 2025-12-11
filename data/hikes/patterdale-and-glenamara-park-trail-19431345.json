@@ -1,0 +1,21 @@
+{
+  "id": "osm-19431345",
+  "slug": "patterdale-and-glenamara-park-trail-19431345",
+  "name": "Patterdale and Glenamara Park Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5355004,
+    "lon": -2.9361981
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19431345
+  }
+}

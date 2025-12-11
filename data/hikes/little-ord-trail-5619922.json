@@ -1,0 +1,21 @@
+{
+  "id": "osm-5619922",
+  "slug": "little-ord-trail-5619922",
+  "name": "Little Ord Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0848065,
+    "lon": -2.9428389
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5619922
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-17024554",
+  "slug": "bunkers-hill-walkcycle-trail-17024554",
+  "name": "Bunkers Hill Walk/Cycle Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.254734,
+    "lon": -5.9357812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17024554
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km loop along Bunkers Hill in the UK, suitable for walkers and cyclists of all ages. The route offers gentle elevation, pleasant views, and a relaxed outing that can be enjoyed year-round.",
+    "terrain_summary": "The trail combines compacted gravel paths with grassy sections. Expect gentle slopes and a few uneven patches near the hilltop. Surfaces are generally well-maintained but can be muddy after rain, so footwear with good grip is recommended. Shared-use segments mean cyclists should moderate speed and give way to pedestrians.",
+    "safety_notes": "Share the path with pedestrians and other users; keep dogs under control; wear appropriate footwear and weather-appropriate clothing; check the forecast and be prepared for mud or wind; bring a map or GPS device; if cycling, wear a helmet and comply with local cycling rules; ensure good visibility if riding near dusk.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Weather-appropriate clothing (layers, waterproof jacket as needed)",
+      "Water and a small snack",
+      "Sun protection (hat, sunscreen) in sunny conditions",
+      "Lightweight backpack or waist pack",
+      "Bike helmet for cycling; bike lights if riding in low light",
+      "Map, GPS device, or smartphone with offline maps",
+      "Basic first aid items (plaster, wipes)"
+    ],
+    "best_seasons": "All year, with the best conditions in spring and autumn. Summer is suitable but can be hot; winter may be muddy and windy.",
+    "seo": {
+      "title": "Bunkers Hill Walk/Cycle Trail – 2.1 km Easy Route in the UK",
+      "meta_description": "Discover the 2.1 km Bunkers Hill Walk/Cycle Trail in the UK. An easy, family-friendly loop for walking or cycling with gentle terrain and scenic views.",
+      "h1": "Bunkers Hill Walk/Cycle Trail – 2.1 km Easy Route"
+    }
+  }
+}

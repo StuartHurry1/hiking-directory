@@ -1,0 +1,23 @@
+{
+  "id": "osm-19849823",
+  "slug": "lightspout-waterfall-walk-carding-mill-valley-19849823",
+  "name": "Lightspout Waterfall Walk, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5463841,
+    "lon": -2.8232089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19849823
+  }
+}

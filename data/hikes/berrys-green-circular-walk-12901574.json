@@ -1,0 +1,48 @@
+{
+  "id": "osm-12901574",
+  "slug": "berrys-green-circular-walk-12901574",
+  "name": "Berry's Green Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3148172,
+    "lon": 0.047213
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12901574
+  },
+  "ai": {
+    "summary": "Berry's Green Circular Walk is a challenging 29.3 km circular hike in the UK, featuring ridge sections, varied terrain and expansive views. The route is strenuous and best attempted by experienced walkers with good fitness.",
+    "terrain_summary": "Long ridge-and-vale terrain with grassy paths, rocky sections and uneven ground. Expect exposed sections, boggy patches after rain, and occasional forest tracks. Navigation can be tricky in poor visibility, and footing is variable.",
+    "safety_notes": "This is a long, strenuous route with significant elevation and exposed ridge sections. Start early, check weather and daylight, carry a map and compass, and have a planned turnaround time. Bring sufficient water, food, warm layers and waterproofs. Tell someone your plan, and be prepared for rapid weather changes on the ridges.",
+    "recommended_gear": [
+      "Map and compass",
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 litres)",
+      "Weatherproof jacket and insulating layers",
+      "Emergency/space blankets",
+      "Head torch or lightweight flashlight",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Hat and gloves (seasonal)",
+      "Snacks and energy gels",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn for the UK; summer offers longer daylight but can be busy and dusty; avoid severe winter conditions on exposed ridges.",
+    "seo": {
+      "title": "Berry's Green Circular Walk - a 29.3 km ridge hike in the UK",
+      "meta_description": "Plan your adventure on Berry's Green Circular Walk, a hard 29.3 km circuit featuring ridges and varied terrain in the UK. Learn route details, safety tips, and gear recommendations.",
+      "h1": "Berry's Green Circular Walk: A 29.3 km Ridge-Driven Challenge"
+    }
+  }
+}

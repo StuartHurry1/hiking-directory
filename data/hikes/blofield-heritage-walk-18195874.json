@@ -1,0 +1,42 @@
+{
+  "id": "osm-18195874",
+  "slug": "blofield-heritage-walk-18195874",
+  "name": "Blofield Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6305996,
+    "lon": 1.4488729
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18195874
+  },
+  "ai": {
+    "summary": "A gentle 5.5 km heritage-themed stroll suitable for all ages and abilities. The route combines quiet country lanes and well-maintained paths, offering a relaxed introduction to local history and countryside scenery.",
+    "terrain_summary": "Mostly flat to gently undulating, with a mix of well-trodden footpaths and short pavement sections. Expect grassy or muddy patches after rain; some stiles and gates may be present.",
+    "safety_notes": "- Wear sturdy footwear and weather-appropriate clothing. - Check the forecast and daylight hours. - Stay on public rights of way and watch for traffic on road sections. - Bring a map or GPS and a charged mobile phone. - Keep children and pets under control and be mindful of livestock. - Be prepared for mud and slippery surfaces, especially after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Waterproof jacket and an extra layer",
+      "Water bottle",
+      "Snack or energy bar",
+      "Hat and sunscreen",
+      "Map, guidebook, or offline map on phone",
+      "Mobile phone with emergency contacts",
+      "Small backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to Autumn; winter is possible with proper gear, though conditions can be muddy and daylight may be limited.",
+    "seo": {
+      "title": "Blofield Heritage Walk – Easy 5.5 km UK Heritage Trail",
+      "meta_description": "Explore the Blofield Heritage Walk, a gentle 5.5 km route in the UK suitable for all ages. Learn local history while enjoying countryside scenery on an easy circuit.",
+      "h1": "Blofield Heritage Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220602",
+  "slug": "the-history-trail-18220602",
+  "name": "The History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4539504,
+    "lon": 0.6243145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220602
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-19283642",
+  "slug": "accessible-route-ilam-park-19283642",
+  "name": "Accessible Route, Ilam Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0537173,
+    "lon": -1.8063926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283642
+  },
+  "ai": {
+    "summary": "A short, easy 2.5 km walk at Ilam Park in the UK. The route features well-maintained paths through parkland with gentle gradients, suitable for families, casual walkers, and those seeking an accessible option.",
+    "terrain_summary": "The route follows well-surfaced paths across parkland. Mostly flat with gentle slopes; occasional uneven sections or gravel surfaces may require careful footing. Not guaranteed to be fully wheelchair accessible; check on-site signage or National Trust for the latest accessibility details.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. The trail is mostly surfaced but can be muddy in wet conditions; monitor weather and daylight. Stay on marked paths, keep dogs under control, and watch for pedestrians and cyclists. Bring water, sun protection in summer, and a map or phone with offline navigation. If accessibility is critical, confirm current route conditions with the National Trust or park services before you go.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Lightweight rain jacket or waterproof",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation on your phone",
+      "Small backpack or daypack",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "All year round; spring and autumn offer mild weather and scenic views, with summer providing longer daylight and winter potentially muddy conditions.",
+    "seo": {
+      "title": "Accessible Route at Ilam Park, UK — Easy 2.5 km Walk",
+      "meta_description": "Discover an easy 2.5 km accessible route at Ilam Park in the UK. Learn about the terrain, safety tips, recommended gear, best seasons, and how to enjoy this family-friendly trail.",
+      "h1": "Accessible Route, Ilam Park — Easy 2.5 km Walk"
+    }
+  }
+}

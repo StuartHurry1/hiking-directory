@@ -1,0 +1,46 @@
+{
+  "id": "osm-1714077",
+  "slug": "acw-circular-walk-15a-short-cut-for-c15-1714077",
+  "name": "ACW Circular Walk 15A (short-cut for C15)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4570711,
+    "lon": -1.4359189
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1714077
+  },
+  "ai": {
+    "summary": "A strenuous 20.9 km circular hike on ACW Circular Walk 15A (short-cut for C15) in the UK. The route combines rural lanes, woodland paths and exposed sections, with multiple climbs that test stamina and footing.",
+    "terrain_summary": "Varied: muddy field paths, grassy ascents, uneven stiles, woodland trails and occasional surfaced sections. Expect gradients and potentially slippery surfaces when wet; navigation may be needed between waypoints.",
+    "safety_notes": "Plan for 6–8 hours of walking. Check the weather forecast and be prepared for rapid changes typical of the UK. Carry a map and compass (or a GPS device) and know how to use them. Stay on public rights of way and watch for livestock, motorized traffic on shared sections, and other trail users. Inform someone of your route and expected finish time. Bring sufficient water, food, and emergency supplies. Wear sturdy waterproof footwear and keep clothing appropriate for rain and wind. In low light or after dark, have a head torch and reflective gear.",
+    "recommended_gear": [
+      "Waterproof/windproof jacket",
+      "Sturdy waterproof hiking boots",
+      "Rucksack (20–25 L) with a waterproof cover",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone with offline mapping",
+      "Water and high-energy snacks",
+      "Extra layers (fleece, hat, gloves)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Headlamp or flashlight (in case of delays)",
+      "Walking poles (optional but helpful)",
+      "Basic first aid kit and emergency whistle",
+      "Spare dry clothing and a phone power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to October) for longer daylight and more stable conditions; winter hiking is possible with advanced gear and experience, but conditions can be harsh and daylight is limited.",
+    "seo": {
+      "title": "ACW Circular Walk 15A (UK) – 20.9 km Hard Circular Route",
+      "meta_description": "Discover the ACW Circular Walk 15A, a 20.9 km hard circular route in the UK. Mixed terrain, practical safety tips, gear list, and best seasons.",
+      "h1": "ACW Circular Walk 15A (Short-cut for C15) – 20.9 km, Hard"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283706",
+  "slug": "walk-from-dovedale-to-milldale-dovedale-19283706",
+  "name": "Walk from Dovedale to Milldale, Dovedale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0556493,
+    "lon": -1.7827862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283706
+  }
+}

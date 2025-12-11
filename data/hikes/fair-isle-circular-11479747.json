@@ -1,0 +1,21 @@
+{
+  "id": "osm-11479747",
+  "slug": "fair-isle-circular-11479747",
+  "name": "Fair Isle Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.5378462,
+    "lon": -1.603784
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11479747
+  }
+}

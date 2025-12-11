@@ -1,0 +1,21 @@
+{
+  "id": "osm-19682373",
+  "slug": "frog-trail-19682373",
+  "name": "Frog Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9360236,
+    "lon": -4.0491669
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19682373
+  }
+}

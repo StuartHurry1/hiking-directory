@@ -1,0 +1,40 @@
+{
+  "id": "osm-15552431",
+  "slug": "blue-walk-15552431",
+  "name": "Blue Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8016873,
+    "lon": -1.458354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15552431
+  },
+  "ai": {
+    "summary": "Blue Walk is a short, easy 2.9 km hike in the UK suited for beginners and families. The route features gentle, well-maintained paths and pleasant surroundings with minimal elevation gain.",
+    "terrain_summary": "Primarily flat to gently rolling terrain with a mix of compact paths and occasional grassy sections. Surfaces may include gravel, tarmac, and packed earth.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy, comfortable footwear and bring water. Stay on marked paths, watch for other walkers, and be cautious on muddy or slick sections after rain. In case of an emergency, carry a charged phone and know your location.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Weather-appropriate clothing",
+      "Sunscreen and hat",
+      "Map or offline map / GPS on phone"
+    ],
+    "best_seasons": "Spring to Autumn; year-round possible with proper clothing and weather preparation.",
+    "seo": {
+      "title": "Blue Walk – Easy 2.9 km Hike in the UK",
+      "meta_description": "Discover Blue Walk, a gentle 2.9 km hike in the UK. Perfect for beginners and families, with simple terrain and practical safety tips.",
+      "h1": "Blue Walk – Easy 2.9 km Hike in the UK"
+    }
+  }
+}

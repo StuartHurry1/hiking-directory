@@ -1,0 +1,23 @@
+{
+  "id": "osm-19179582",
+  "slug": "peasant-revolt-circular-19179582",
+  "name": "Peasant’ Revolt Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8194973,
+    "lon": 1.3749468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19179582
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osm-3165973",
+  "slug": "battlefields-trail-3165973",
+  "name": "Battlefields Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 81.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1303429,
+    "lon": -1.4287544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3165973
+  },
+  "ai": {
+    "summary": "Battlefields Trail is a long-distance hike in the UK, covering 81.4 km and rated hard. The route traverses varied countryside and woodland, requiring stamina, careful pacing, and multi-day planning for most hikers.",
+    "terrain_summary": "Expect a mix of rural lanes, bridleways, farmland tracks, and forest footpaths. Surfaces may range from smooth paths to muddy, uneven ground with occasional rocky sections. Gates, stiles, and occasional road crossings are common, and elevation gains can be substantial depending on the chosen route variant.",
+    "safety_notes": "Plan for multiple days and check weather conditions before departure. Carry a detailed map and compass or a GPS device, and know how to navigate. Tell someone your itinerary and expected return. Stay hydrated and bring enough food for the day(s). Wear sturdy footwear and layered clothing; protect yourself from rain and sun. Be prepared for mud, cattle or sheep on some paths, and obstructions like gates and stiles. In remote or exposed sections, carry a means to call for help and a basic first-aid kit. Follow local regulations and leave-no-trace practices.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with an insulating layer",
+      "Waterproof jacket and waterproof trousers",
+      "Backpack with rain cover",
+      "Map and compass (or GPS device) and navigation knowledge",
+      "Headlamp or torch with spare batteries",
+      "Water supply (2–3 liters) or hydration system",
+      "High-energy snacks and meals",
+      "First aid kit",
+      "Emergency whistle and lightweight bivy or space blanket",
+      "Portable power bank and charging cable",
+      "Sun protection and insect repellent (hat, sunscreen, etc.)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal in the UK for daylight and weather. The route can be tackled outside this window with careful planning and shorter day plans.",
+    "seo": {
+      "title": "Battlefields Trail – 81.4 km Hard Hike in the UK",
+      "meta_description": "Discover Battlefields Trail, a challenging 81.4 km long-distance hike in the United Kingdom. Learn about terrain, safety tips, and essential gear for a multi-day trek.",
+      "h1": "Battlefields Trail – 81.4 km Hard Hike in the UK"
+    }
+  }
+}

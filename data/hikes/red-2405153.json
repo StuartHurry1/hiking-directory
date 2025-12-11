@@ -1,0 +1,21 @@
+{
+  "id": "osm-2405153",
+  "slug": "red-2405153",
+  "name": "red",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9948705,
+    "lon": -3.7707463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2405153
+  }
+}

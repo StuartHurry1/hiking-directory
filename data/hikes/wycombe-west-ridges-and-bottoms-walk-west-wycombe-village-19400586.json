@@ -1,0 +1,23 @@
+{
+  "id": "osm-19400586",
+  "slug": "wycombe-west-ridges-and-bottoms-walk-west-wycombe-village-19400586",
+  "name": "Wycombe West Ridges and Bottoms walk, West Wycombe Village",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6486466,
+    "lon": -0.8062953
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400586
+  }
+}

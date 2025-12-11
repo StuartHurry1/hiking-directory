@@ -1,0 +1,21 @@
+{
+  "id": "osm-19102114",
+  "slug": "the-line-19102114",
+  "name": "The Line",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5347501,
+    "lon": -0.0088668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19102114
+  }
+}

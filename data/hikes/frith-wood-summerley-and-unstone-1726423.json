@@ -1,0 +1,21 @@
+{
+  "id": "osm-1726423",
+  "slug": "frith-wood-summerley-and-unstone-1726423",
+  "name": "Frith wood, Summerley and Unstone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3046127,
+    "lon": -1.4429606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1726423
+  }
+}

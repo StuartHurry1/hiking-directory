@@ -1,0 +1,21 @@
+{
+  "id": "osm-53637",
+  "slug": "marches-way-53637",
+  "name": "Marches Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 207.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0083722,
+    "lon": -2.7014952
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 53637
+  }
+}

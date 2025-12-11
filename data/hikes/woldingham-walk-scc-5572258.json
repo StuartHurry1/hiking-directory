@@ -1,0 +1,21 @@
+{
+  "id": "osm-5572258",
+  "slug": "woldingham-walk-scc-5572258",
+  "name": "Woldingham walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2911496,
+    "lon": -0.0406472
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5572258
+  }
+}

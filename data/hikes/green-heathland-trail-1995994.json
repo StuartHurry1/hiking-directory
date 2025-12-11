@@ -1,0 +1,21 @@
+{
+  "id": "osm-1995994",
+  "slug": "green-heathland-trail-1995994",
+  "name": "Green Heathland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3900722,
+    "lon": 0.8589815
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1995994
+  }
+}

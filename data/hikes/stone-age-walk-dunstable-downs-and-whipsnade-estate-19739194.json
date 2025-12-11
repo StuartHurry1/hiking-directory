@@ -1,0 +1,21 @@
+{
+  "id": "osm-19739194",
+  "slug": "stone-age-walk-dunstable-downs-and-whipsnade-estate-19739194",
+  "name": "Stone Age Walk, Dunstable Downs and Whipsnade Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8645082,
+    "lon": -0.5370285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19739194
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-16501277",
+  "slug": "wheelchair-accessible-thames-and-severn-way-16501277",
+  "name": "Wheelchair Accessible (Thames & Severn Way)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7377453,
+    "lon": -2.2084137
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16501277
+  }
+}

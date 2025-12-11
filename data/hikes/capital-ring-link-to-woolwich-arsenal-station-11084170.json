@@ -1,0 +1,21 @@
+{
+  "id": "osm-11084170",
+  "slug": "capital-ring-link-to-woolwich-arsenal-station-11084170",
+  "name": "Capital Ring link to Woolwich Arsenal station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4944195,
+    "lon": 0.0628107
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11084170
+  }
+}

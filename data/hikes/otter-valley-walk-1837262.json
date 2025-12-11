@@ -1,0 +1,21 @@
+{
+  "id": "osm-1837262",
+  "slug": "otter-valley-walk-1837262",
+  "name": "Otter Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 115.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6476527,
+    "lon": -3.3091012
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1837262
+  }
+}

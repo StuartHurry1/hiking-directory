@@ -1,0 +1,48 @@
+{
+  "id": "osm-3878675",
+  "slug": "6-dales-trail-3878675",
+  "name": "6 Dales Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 236.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2849391,
+    "lon": -1.8066359
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3878675
+  },
+  "ai": {
+    "summary": "The 6 Dales Trail is a demanding long-distance hike in the UK, covering 236.6 km with varied terrain and a hard difficulty rating. It suits experienced hikers prepared for multi-day trekking.",
+    "terrain_summary": "Expect diverse terrain: limestone dales, exposed moorland, forest tracks, river crossings, and occasional road sections. Significant elevation gain with long ascents and descents.",
+    "safety_notes": "This is a hard, multi-day trek. Prepare for variable UK weather and navigation challenges. Carry a map and compass, inform someone of your itinerary, and allow for contingency days. Start early, stay hydrated, monitor fatigue, and be prepared to turn back if conditions worsen.",
+    "recommended_gear": [
+      "Quality hiking boots with ankle support",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing system (base layer, fleece, insulated layer)",
+      "Backpack with rain cover (40-60 L depending on trip length)",
+      "Navigation tools: map, compass, and optional GPS device",
+      "Hydration system or water bottles (2-3 L capacity)",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Emergency shelter or bivy sack",
+      "Whistle and multi-tool",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Sleeping bag and sleeping liner (for multi-day trips)",
+      "Trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to early October) are best for daylight and more favorable weather, though conditions can vary.",
+    "seo": {
+      "title": "6 Dales Trail – A 236.6 km UK Long-Distance Trek",
+      "meta_description": "Explore the challenging 6 Dales Trail in the UK: a 236.6 km, hard-rated hike with varied terrain, safety tips, and essential gear for multi-day trekking.",
+      "h1": "6 Dales Trail: A challenging 236.6 km UK long-distance hike"
+    }
+  }
+}

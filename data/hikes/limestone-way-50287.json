@@ -1,0 +1,21 @@
+{
+  "id": "osm-50287",
+  "slug": "limestone-way-50287",
+  "name": "Limestone Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 175.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3414398,
+    "lon": -1.7753042
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 50287
+  }
+}

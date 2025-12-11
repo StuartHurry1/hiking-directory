@@ -1,0 +1,21 @@
+{
+  "id": "osm-6694278",
+  "slug": "the-great-estates-trail-6694278",
+  "name": "The Great Estates Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5153663,
+    "lon": 0.684483
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6694278
+  }
+}

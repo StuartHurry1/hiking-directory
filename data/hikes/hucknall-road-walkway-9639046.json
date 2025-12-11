@@ -1,0 +1,21 @@
+{
+  "id": "osm-9639046",
+  "slug": "hucknall-road-walkway-9639046",
+  "name": "Hucknall Road Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0104742,
+    "lon": -1.1852208
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9639046
+  }
+}

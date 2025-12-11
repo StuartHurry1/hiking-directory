@@ -1,0 +1,21 @@
+{
+  "id": "osm-19097369",
+  "slug": "ver-valley-walk-8-19097369",
+  "name": "Ver Valley Walk 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.706303,
+    "lon": -0.3362789
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19097369
+  }
+}

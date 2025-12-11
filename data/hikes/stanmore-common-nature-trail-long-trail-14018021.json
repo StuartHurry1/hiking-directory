@@ -1,0 +1,21 @@
+{
+  "id": "osm-14018021",
+  "slug": "stanmore-common-nature-trail-long-trail-14018021",
+  "name": "Stanmore Common Nature Trail - Long Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6289034,
+    "lon": -0.3258371
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14018021
+  }
+}

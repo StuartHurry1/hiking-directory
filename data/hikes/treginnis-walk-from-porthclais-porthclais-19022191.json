@@ -1,0 +1,21 @@
+{
+  "id": "osm-19022191",
+  "slug": "treginnis-walk-from-porthclais-porthclais-19022191",
+  "name": "Treginnis Walk from Porthclais, Porthclais",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8788847,
+    "lon": -5.3083938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19022191
+  }
+}

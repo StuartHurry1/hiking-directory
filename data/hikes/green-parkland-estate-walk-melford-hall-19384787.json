@@ -1,0 +1,21 @@
+{
+  "id": "osm-19384787",
+  "slug": "green-parkland-estate-walk-melford-hall-19384787",
+  "name": "Green Parkland Estate Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0825375,
+    "lon": 0.7238766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19384787
+  }
+}

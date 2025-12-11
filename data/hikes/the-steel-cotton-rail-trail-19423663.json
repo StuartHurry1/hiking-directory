@@ -1,0 +1,21 @@
+{
+  "id": "osm-19423663",
+  "slug": "the-steel-cotton-rail-trail-19423663",
+  "name": "The Steel Cotton Rail Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3403481,
+    "lon": -1.9437617
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19423663
+  }
+}

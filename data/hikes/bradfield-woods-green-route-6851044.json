@@ -1,0 +1,41 @@
+{
+  "id": "osm-6851044",
+  "slug": "bradfield-woods-green-route-6851044",
+  "name": "Bradfield Woods Green Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1845496,
+    "lon": 0.82925
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6851044
+  },
+  "ai": {
+    "summary": "Bradfield Woods Green Route is a gentle 2.5 km walk through Bradfield Woods in the UK. The route offers easy, flat terrain through deciduous woodland, making it suitable for families, beginners, and walkers seeking a short, peaceful outing.",
+    "terrain_summary": "Mostly flat, well-defined woodland paths with compacted soil. Occasional exposed roots and damp patches after rain; some shaded sections. Expect a tranquil, mostly level loop.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, watch for roots and mud, and be mindful of ticks in wooded areas. Bring water, a light layer for changing conditions, and a small first aid kit. Keep dogs under control and dispose of litter responsibly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Sunscreen and hat (for sunny days)",
+      "Map, guide or offline map on your phone",
+      "Snacks or energy bar",
+      "Insect repellent and a small first aid kit"
+    ],
+    "best_seasons": "Spring and autumn are ideal; the route is accessible year-round with suitable gear.",
+    "seo": {
+      "title": "Bradfield Woods Green Route – Easy 2.5 km Woodland Walk in the UK",
+      "meta_description": "Explore Bradfield Woods Green Route: a gentle 2.5 km easy walk through UK woodland. Learn about terrain, safety tips, and what to bring for a short, family-friendly hike.",
+      "h1": "Bradfield Woods Green Route: Easy 2.5 km Woodland Walk"
+    }
+  }
+}

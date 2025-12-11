@@ -1,0 +1,21 @@
+{
+  "id": "osm-1748150",
+  "slug": "maun-valley-trail-1748150",
+  "name": "Maun Valley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.169143,
+    "lon": -1.1502466
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1748150
+  }
+}

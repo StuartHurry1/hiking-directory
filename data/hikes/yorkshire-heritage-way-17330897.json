@@ -1,0 +1,21 @@
+{
+  "id": "osm-17330897",
+  "slug": "yorkshire-heritage-way-17330897",
+  "name": "Yorkshire Heritage Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8573906,
+    "lon": -1.8026738
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17330897
+  }
+}

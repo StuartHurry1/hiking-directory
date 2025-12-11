@@ -1,0 +1,55 @@
+{
+  "id": "helvellyn-striding-edge",
+  "slug": "helvellyn-striding-edge",
+  "name": "Helvellyn via Striding Edge",
+  "region": "Lake District",
+  "country": "England",
+  "county": "Cumbria",
+
+  "start": {
+    "lat": 54.5448,
+    "lon": -2.9653,
+    "nearest_postcode": "CA11 0PU"
+  },
+  "end": {
+    "lat": 54.5448,
+    "lon": -2.9653,
+    "nearest_postcode": "CA11 0PU"
+  },
+
+  "distance_km": 12.0,
+  "ascent_m": 870,
+  "descent_m": 870,
+  "difficulty": "hard",
+  "terrain": ["mountain", "scramble", "ridge"],
+  "features": ["views", "scrambling", "summit"],
+  "theme_tags": ["ridge", "lakes"],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [
+      {
+        "name": "Penrith",
+        "distance_km": 16.0,
+        "station_code": "PNR"
+      }
+    ],
+    "nearest_bus_stops": [],
+    "access_summary": "Bus services run from Penrith to Glenridding, with the trailhead a short walk away."
+  },
+
+  "ai": {
+    "summary": "A legendary Lake District route climbing Helvellyn via the exposed Striding Edge ridge, offering dramatic views and exhilarating scrambling.",
+    "terrain_summary": "Narrow exposed ridge; hands-on scrambling required. Steep ascents and descents with loose rock.",
+    "safety_notes": "Only for experienced walkers. Avoid in high winds, snow or poor visibility. Scrambling sections require care.",
+    "recommended_gear": ["mountain boots", "layers", "gloves", "OS map/GPS"],
+    "best_seasons": "Late spring to early autumn in good conditions."
+  },
+
+  "seo": {
+    "title": "Helvellyn via Striding Edge – Classic Lake District Scramble",
+    "meta_description": "A challenging 12 km mountain route to Helvellyn via the iconic Striding Edge ridge. For experienced hikers.",
+    "h1": "Helvellyn via Striding Edge"
+  }
+}

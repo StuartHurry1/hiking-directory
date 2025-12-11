@@ -4,6 +4,9 @@ import fs from 'fs'
 import path from 'path'
 import readline from 'readline'
 
+const POSTCODES_CSV_PATH =
+  'C:/Users/stuar/OneDrive/Stuart - Personal/Directory Projects/Postcodes Data CSV/uk_postcodes.csv'
+
 type RawRow = string[]
 
 type HeaderMap = Record<string, number>
@@ -35,7 +38,8 @@ type DistrictIndexItem = {
 }
 
 const ROOT = process.cwd()
-const CSV_PATH = path.join(ROOT, 'data', 'uk_postcodes.csv')
+// CSV is now in OneDrive, shared across projects
+const CSV_PATH = POSTCODES_CSV_PATH
 const OUT_BY_CODE = path.join(ROOT, 'data', 'postcodes', 'by-code')
 const OUT_BY_DISTRICT = path.join(ROOT, 'data', 'postcodes', 'by-district')
 

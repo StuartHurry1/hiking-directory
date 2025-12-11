@@ -1,0 +1,23 @@
+{
+  "id": "osm-3822536",
+  "slug": "tunbridge-wells-circular-walk-high-brooms-link-3822536",
+  "name": "Tunbridge Wells Circular Walk - High Brooms link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1492111,
+    "lon": 0.2775504
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3822536
+  }
+}

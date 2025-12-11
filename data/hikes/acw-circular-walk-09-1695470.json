@@ -1,0 +1,45 @@
+{
+  "id": "osm-1695470",
+  "slug": "acw-circular-walk-09-1695470",
+  "name": "ACW Circular Walk 09",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3771169,
+    "lon": -1.3961868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1695470
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 09 is a challenging 44.4 km circular route in the UK. Designed for experienced hikers, the walk combines long distance with varied terrain and elevation, demanding good navigation and endurance.",
+    "terrain_summary": "The route traverses a mix of grassy trails, muddy byways, rocky sections, and occasional road or paved paths. Footing can be uneven with stiles and gates; expect changes in surface, exposure to wind in open stretches, and potential mud after wet weather. The distance requires sustained effort and good pacing.",
+    "safety_notes": "Plan for a long day on the trail: check the weather, start early to ensure daylight, and carry a reliable map and compass (or a GPS device). Inform someone of your planned route and expected return. Carry ample water (2–3 liters) and high-energy food, plus a weather-appropriate extra layer, waterproofs, and sturdy boots. Pack a basic first aid kit, a charged phone with power bank, a whistle, and emergency shelter if conditions deteriorate. Be prepared for navigation challenges in poorly marked sections and know your limits; turn back if weather or fatigue becomes unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and pants",
+      "Rucksack with rain cover",
+      "Map and compass (or GPS device) and a backup battery",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "Extra clothing layers (fleece, warm hat, gloves)",
+      "Headlamp or flashlight with spare batteries",
+      "Basic first aid kit",
+      "Emergency whistle",
+      "Mobile phone with power bank",
+      "Sun protection (sunscreen, sunglasses)"
+    ],
+    "best_seasons": "Late spring to early autumn (May-September) generally offers milder weather, longer daylight, and better trail conditions for this long-distance hike. The route is doable year-round with extra planning for cold, wet, and daylight constraints.",
+    "seo": {
+      "title": "ACW Circular Walk 09 – 44.4 km Hard Circular Hike in the UK",
+      "meta_description": "Plan your journey on ACW Circular Walk 09, a 44.4 km challenging circular route in the UK. Learn about terrain, safety tips, gear, and ideal seasons.",
+      "h1": "ACW Circular Walk 09: 44.4 km Hard Circular Route in the UK"
+    }
+  }
+}

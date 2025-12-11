@@ -1,0 +1,21 @@
+{
+  "id": "osm-14064061",
+  "slug": "wanderlust-way-14064061",
+  "name": "Wanderlust Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5347035,
+    "lon": -0.1249576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14064061
+  }
+}

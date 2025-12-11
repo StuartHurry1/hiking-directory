@@ -1,0 +1,21 @@
+{
+  "id": "osm-18745717",
+  "slug": "rail-trail-bearley-greater-claverdon-18745717",
+  "name": "Rail Trail: Bearley > Claverdon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2451742,
+    "lon": -1.749712
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18745717
+  }
+}

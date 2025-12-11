@@ -1,0 +1,21 @@
+{
+  "id": "osm-13159639",
+  "slug": "severn-way-1-source-to-shrewsbury-13159639",
+  "name": "Severn Way (1) Source to Shrewsbury",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 331.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4945323,
+    "lon": -3.7374469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13159639
+  }
+}

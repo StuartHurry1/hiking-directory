@@ -1,0 +1,43 @@
+{
+  "id": "osm-13287191",
+  "slug": "airlie-monument-13287191",
+  "name": "Airlie Monument",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.733302,
+    "lon": -3.0292967
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13287191
+  },
+  "ai": {
+    "summary": "Airlie Monument is a short, easy walk in the UK, covering about 5.9 km. The route is suitable for beginners and families, offering gentle terrain and rural countryside views with a low elevation gain to the monument.",
+    "terrain_summary": "Predominantly well-maintained paths of grass and compacted earth. Occasional muddy patches after rain and short stretches of gradual climb. Rural landscape with hedgerows, gates, and possible livestock.",
+    "safety_notes": "Plan for typical UK weather; wear sturdy footwear; bring water and snacks; keep to marked paths and gates; close gates behind you; be cautious of uneven ground and wet surfaces; carry a map or GPS; tell someone your route/time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Comfortable layers",
+      "Sunscreen and hat",
+      "Map or GPS device",
+      "Snacks",
+      "Phone charged",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy and windy, conditions vary.",
+    "seo": {
+      "title": "Airlie Monument Walk – Easy 5.9 km UK Hike",
+      "meta_description": "Explore the easy 5.9 km Airlie Monument walk in the UK. Gentle terrain, scenic countryside, and practical safety tips for a family-friendly day out.",
+      "h1": "Airlie Monument Walk – 5.9 km Easy Hike"
+    }
+  }
+}

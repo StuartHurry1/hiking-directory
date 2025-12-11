@@ -1,0 +1,43 @@
+{
+  "id": "osm-1693941",
+  "slug": "acw-circular-walk-06-1693941",
+  "name": "ACW Circular Walk 06",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3493664,
+    "lon": -1.5187008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1693941
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 06 is an 8.8 km circular hike in the UK, rated moderate in difficulty. The loop combines country lanes, established footpaths, and occasional gentle ascents, offering open views and a chance to observe local scenery. It suits hikers with some experience seeking a balanced day on varied terrain.",
+    "terrain_summary": "Expect a mix of grassy paths, compact earth trails, and some uneven sections. The route may include gates and stiles, with occasional muddy patches after rain. Elevation changes are gradual to moderate, with shorter climbs and descents that keep the pace steady.",
+    "safety_notes": "Carry a map and compass or GPS, check local weather forecasts, and wear sturdy waterproof footwear. Stay on marked paths, beware of muddy or uneven ground, and mind livestock or gates. Inform someone of your plan and expected return time. Bring water, snacks, a small first aid kit, a charged phone, and sun protection.",
+    "recommended_gear": [
+      "Sturdy hiking boots or footwear with good grip",
+      "Weatherproof jacket or shell",
+      "Water bottle or hydration system",
+      "Backpack with snacks and essentials",
+      "Map, compass or offline GPS",
+      "Hat and sunglasses with sun cream",
+      "Thermal layer or fleece",
+      "Small first aid kit",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring and Autumn; the route is typically nicest in mild weather, but can be tackled year-round with appropriate gear.",
+    "seo": {
+      "title": "ACW Circular Walk 06 – 8.8 km Moderate Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 06, an 8.8 km moderate hike in the UK. Learn about terrain, safety tips, and gear for a comfortable day on the trail.",
+      "h1": "ACW Circular Walk 06 – 8.8 km Moderate Hike in the UK"
+    }
+  }
+}

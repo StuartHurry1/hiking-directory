@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506691",
+  "slug": "pier-to-pointataing-circular-11506691",
+  "name": "Pier to Pointataing Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2239195,
+    "lon": -1.570038
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506691
+  }
+}

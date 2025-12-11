@@ -1,0 +1,21 @@
+{
+  "id": "osm-2133670",
+  "slug": "west-deane-way-2133670",
+  "name": "West Deane Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 174.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0482599,
+    "lon": -3.3400208
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2133670
+  }
+}

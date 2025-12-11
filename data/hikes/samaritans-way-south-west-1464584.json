@@ -1,0 +1,21 @@
+{
+  "id": "osm-1464584",
+  "slug": "samaritans-way-south-west-1464584",
+  "name": "Samaritans Way South West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 144.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4544075,
+    "lon": -2.6292433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1464584
+  }
+}

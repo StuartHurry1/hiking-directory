@@ -1,0 +1,21 @@
+{
+  "id": "osm-19395365",
+  "slug": "stafford-57-19395365",
+  "name": "Stafford 57",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8057259,
+    "lon": -2.1466325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19395365
+  }
+}

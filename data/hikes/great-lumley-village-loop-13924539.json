@@ -1,0 +1,21 @@
+{
+  "id": "osm-13924539",
+  "slug": "great-lumley-village-loop-13924539",
+  "name": "Great Lumley Village Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8338516,
+    "lon": -1.544759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13924539
+  }
+}

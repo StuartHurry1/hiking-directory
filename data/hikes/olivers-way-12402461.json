@@ -1,0 +1,21 @@
+{
+  "id": "osm-12402461",
+  "slug": "olivers-way-12402461",
+  "name": "Oliver's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4326727,
+    "lon": 1.0037872
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12402461
+  }
+}

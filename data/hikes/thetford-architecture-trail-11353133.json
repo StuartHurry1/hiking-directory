@@ -1,0 +1,21 @@
+{
+  "id": "osm-11353133",
+  "slug": "thetford-architecture-trail-11353133",
+  "name": "Thetford Architecture Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4086486,
+    "lon": 0.7533519
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11353133
+  }
+}

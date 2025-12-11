@@ -1,0 +1,21 @@
+{
+  "id": "osm-17732514",
+  "slug": "dover-cruise-terminal-to-national-trust-white-cliffs-visitor-centre-walking-trail-white-cliffs-17732514",
+  "name": "Dover Cruise Terminal to National Trust White Cliffs Visitor Centre Walking Trail, White Cliffs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1156297,
+    "lon": 1.3120961
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17732514
+  }
+}

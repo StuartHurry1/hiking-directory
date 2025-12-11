@@ -1,0 +1,21 @@
+{
+  "id": "osm-10731495",
+  "slug": "high-force-geotrail-10731495",
+  "name": "High Force Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6478057,
+    "lon": -2.1469411
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10731495
+  }
+}

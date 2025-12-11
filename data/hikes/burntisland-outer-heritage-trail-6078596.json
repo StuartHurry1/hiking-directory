@@ -1,0 +1,43 @@
+{
+  "id": "osm-6078596",
+  "slug": "burntisland-outer-heritage-trail-6078596",
+  "name": "Burntisland Outer Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0676527,
+    "lon": -3.2240604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6078596
+  },
+  "ai": {
+    "summary": "The Burntisland Outer Heritage Trail is a challenging 15.6 km coastal hike in the UK. It combines rugged maritime paths with exposed sections, steep climbs, and varied surfaces, demanding solid fitness and good navigation. Expect scenic sea views, cliffs, and a remote, windswept atmosphere. This route suits experienced hikers comfortable with navigation and weather changes.",
+    "terrain_summary": "Terrain includes coastal paths, compacted earth and gravel, grassy slopes, rocky stretches, stairs and some boardwalks. Surfaces can be uneven and slip-prone after rain; mud is common in wet conditions. Several sections are exposed to wind and sea spray, and there may be tidal hazards where the route hugs the shoreline.",
+    "safety_notes": "Check tide times and weather forecast before starting; carry a map or GPS and know the route. Wear sturdy boots with good grip and dress in layers; bring waterproofs and sun protection. Stay on marked paths, watch footing on uneven ground, and be prepared for sudden weather changes. Tell someone your planned route and expected return time; carry a whistle and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Whistle and emergency blanket",
+      "Headlamp or flashlight (for late departures or low light)",
+      "Extra socks and a lightweight layer for warmth"
+    ],
+    "best_seasons": "Spring to autumn (April–September) offer milder weather and longer daylight, but be prepared for wind, rain, and rapid changes in conditions year-round.",
+    "seo": {
+      "title": "Burntisland Outer Heritage Trail – 15.6 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore the Burntisland Outer Heritage Trail, a 15.6 km hard coastal hike in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this rugged coastal route.",
+      "h1": "Burntisland Outer Heritage Trail – 15.6 km Hard Coastal Hike"
+    }
+  }
+}

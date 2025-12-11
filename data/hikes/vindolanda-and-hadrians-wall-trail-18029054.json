@@ -1,0 +1,21 @@
+{
+  "id": "osm-18029054",
+  "slug": "vindolanda-and-hadrians-wall-trail-18029054",
+  "name": "Vindolanda & Hadrian's Wall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0022577,
+    "lon": -2.3913899
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18029054
+  }
+}

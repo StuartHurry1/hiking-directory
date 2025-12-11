@@ -1,0 +1,21 @@
+{
+  "id": "osm-1216650",
+  "slug": "high-weald-landscape-trail-1216650",
+  "name": "High Weald Landscape Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 675.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0656577,
+    "lon": -0.3186801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1216650
+  }
+}

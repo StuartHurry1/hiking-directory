@@ -1,0 +1,21 @@
+{
+  "id": "osm-19588105",
+  "slug": "craigower-viewpoint-19588105",
+  "name": "Craigower Viewpoint",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7097099,
+    "lon": -3.7356816
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19588105
+  }
+}

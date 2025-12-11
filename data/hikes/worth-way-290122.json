@@ -1,0 +1,21 @@
+{
+  "id": "osm-290122",
+  "slug": "worth-way-290122",
+  "name": "Worth Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8247547,
+    "lon": -1.9466535
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 290122
+  }
+}

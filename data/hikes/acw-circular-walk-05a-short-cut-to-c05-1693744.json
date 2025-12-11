@@ -1,0 +1,47 @@
+{
+  "id": "osm-1693744",
+  "slug": "acw-circular-walk-05a-short-cut-to-c05-1693744",
+  "name": "ACW Circular Walk 05A (short-cut to C05)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3849514,
+    "lon": -1.5311571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1693744
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 05A (short-cut to C05) is a long, challenging 28.6 km circular hike in the United Kingdom. The route links with the C05 network and is best treated as a full-day or overnight undertaking for experienced hikers. Expect mixed terrains, elevation changes, and potentially variable weather conditions.",
+    "terrain_summary": "The trail comprises a mix of rural tracks, hedgerows, woodland edges, grassy ascents, stiles and occasional road sections. Terrain can be uneven, muddy, and boggy after rain. Navigation relies on countryside waymarkers and map interpretation; some sections may have limited signage and longer unmarked stretches.",
+    "safety_notes": "Plan for a full day or two; check weather forecasts and daylight hours. Carry map and compass or GPS, sufficient water and high-energy food, and a first aid kit. Wear sturdy waterproof boots and be prepared for mud, wind, and cold at higher elevations. Tell someone your route and expected finish time. Stay on marked paths where possible, and have a contingency plan for getting lost or injured; in poor conditions reassess whether to continue.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Rucksack with 15–25 L capacity",
+      "Water and high-energy snacks",
+      "Map and compass or GPS",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Hat and gloves",
+      "Sunscreen and sunglasses",
+      "Waterproof trousers (optional)",
+      "Mobile phone with offline maps",
+      "Spare dry clothing"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for longer daylight and more reliable trail conditions; winter hikes are possible for experienced walkers with proper gear, but expect mud, ice, and exposed sections.",
+    "seo": {
+      "title": "ACW Circular Walk 05A (short-cut to C05) – 28.6 km Hard UK Circular Trail",
+      "meta_description": "Discover ACW Circular Walk 05A (short-cut to C05): a demanding 28.6 km circular hike in the UK with terrain details, safety notes, and gear guidance.",
+      "h1": "ACW Circular Walk 05A (short-cut to C05) – 28.6 km Hard UK Circular Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19399299",
+  "slug": "dunham-masseys-mini-park-loop-19399299",
+  "name": "Dunham Massey's Mini Park Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3834611,
+    "lon": -2.402632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19399299
+  }
+}

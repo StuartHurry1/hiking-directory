@@ -1,0 +1,21 @@
+{
+  "id": "osm-3131984",
+  "slug": "macmillan-way-west-3131984",
+  "name": "Macmillan Way West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 636.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1866674,
+    "lon": -3.5090102
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3131984
+  }
+}

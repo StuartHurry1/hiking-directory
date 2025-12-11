@@ -1,0 +1,21 @@
+{
+  "id": "osm-15917228",
+  "slug": "heritage-trails-city-15917228",
+  "name": "Heritage Trails: city",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9702731,
+    "lon": -1.6098887
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15917228
+  }
+}

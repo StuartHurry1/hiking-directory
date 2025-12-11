@@ -1,0 +1,23 @@
+{
+  "id": "osm-19745866",
+  "slug": "tree-cathedral-walk-dunstable-downs-and-whipsnade-estate-19745866",
+  "name": "Tree Cathedral Walk, Dunstable Downs and Whipsnade Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8645082,
+    "lon": -0.5370285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19745866
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11277537",
+  "slug": "cross-walk-11277537",
+  "name": "Cross Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.716465,
+    "lon": -6.7592433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11277537
+  }
+}

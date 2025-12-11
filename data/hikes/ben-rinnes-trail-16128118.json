@@ -1,0 +1,43 @@
+{
+  "id": "osm-16128118",
+  "slug": "ben-rinnes-trail-16128118",
+  "name": "Ben Rinnes Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4025822,
+    "lon": -3.2205627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16128118
+  },
+  "ai": {
+    "summary": "Ben Rinnes Trail is a roughly 6.8 km hike in the UK, rated moderate in difficulty. The route climbs open ground with occasional rocky sections and culminates at a summit offering broad views. Suitable for hikers with decent fitness and sturdy footwear, the outing can be completed as an out-and-back or a loop depending on the chosen start point.",
+    "terrain_summary": "A mix of well-defined paths, grassy slopes, and rocky steps. Ground can be damp or boggy after rain, with exposed sections near the summit where winds can be strong and temperatures cooler. Views are best from the higher ground, especially on clear days.",
+    "safety_notes": "Check the weather and daylight before setting out; conditions on upland summits can change rapidly. Wear sturdy boots and dress in layers; bring a map or GPS and know your route. Carry sufficient water and snacks, and inform someone of your plan. Stay on marked paths, watch for exposed drops, and be cautious on damp or uneven sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Hat and gloves (season-dependent)",
+      "Extra warm layer for the summit",
+      "Headlamp or flashlight (early/late starts or poor visibility)",
+      "Small first aid kit",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to Autumn (longer daylight hours and generally drier conditions; can be cooler and windier in autumn)",
+    "seo": {
+      "title": "Ben Rinnes Trail – 6.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.8 km Ben Rinnes Trail in the UK. A moderate hike with open viewpoints, practical safety tips, gear recommendations, and the best seasons for hiking.",
+      "h1": "Ben Rinnes Trail – 6.8 km Moderate Hike in the UK"
+    }
+  }
+}

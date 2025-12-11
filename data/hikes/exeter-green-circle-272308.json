@@ -1,0 +1,21 @@
+{
+  "id": "osm-272308",
+  "slug": "exeter-green-circle-272308",
+  "name": "Exeter Green Circle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7308074,
+    "lon": -3.5008702
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 272308
+  }
+}

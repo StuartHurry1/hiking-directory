@@ -1,0 +1,21 @@
+{
+  "id": "osm-8470",
+  "slug": "chattenden-woods-walk-8470",
+  "name": "Chattenden Woods Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4366846,
+    "lon": 0.5128685
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8470
+  }
+}

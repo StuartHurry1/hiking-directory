@@ -1,0 +1,23 @@
+{
+  "id": "osm-38386",
+  "slug": "lancashire-coastal-way-38386",
+  "name": "Lancashire Coastal Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 170.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.981342,
+    "lon": -2.8724336
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 38386
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13983953",
+  "slug": "green-chain-walk-section-10-13983953",
+  "name": "Green Chain Walk section 10",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.419344,
+    "lon": -0.0188304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13983953
+  }
+}

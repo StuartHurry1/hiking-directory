@@ -1,0 +1,21 @@
+{
+  "id": "osm-9822046",
+  "slug": "cornerstone-walk-9822046",
+  "name": "Cornerstone Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5672054,
+    "lon": -3.0967427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9822046
+  }
+}

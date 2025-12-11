@@ -1,0 +1,23 @@
+{
+  "id": "osm-18297638",
+  "slug": "king-charles-iii-england-coast-path-east-shotley-gate-to-felixstowe-ferry-18297638",
+  "name": "King Charles III England Coast Path: East: Shotley Gate to Felixstowe Ferry",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0063016,
+    "lon": 1.2212079
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18297638
+  }
+}

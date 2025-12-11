@@ -1,0 +1,24 @@
+{
+  "id": "osm-17448592",
+  "slug": "seatoller-styhead-tarn-and-grains-gill-walk-north-lakes-outdoors-17448592",
+  "name": "Seatoller, Styhead Tarn and Grains Gill Walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22,
+  "difficulty": "hard",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5137683,
+    "lon": -3.1669273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17448592
+  }
+}

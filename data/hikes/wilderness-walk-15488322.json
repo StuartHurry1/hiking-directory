@@ -1,0 +1,21 @@
+{
+  "id": "osm-15488322",
+  "slug": "wilderness-walk-15488322",
+  "name": "Wilderness walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9625964,
+    "lon": -1.5369009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15488322
+  }
+}

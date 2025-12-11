@@ -1,0 +1,21 @@
+{
+  "id": "osm-9061",
+  "slug": "test-way-9061",
+  "name": "Test Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 503.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0047601,
+    "lon": -1.5333882
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9061
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209196",
+  "slug": "loddon-ingloss-circular-18209196",
+  "name": "Loddon Ingloss Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5349619,
+    "lon": 1.4815567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209196
+  }
+}

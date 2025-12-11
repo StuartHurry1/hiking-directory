@@ -1,0 +1,21 @@
+{
+  "id": "osm-12870917",
+  "slug": "lea-valley-walk-link-to-luton-parkway-station-12870917",
+  "name": "Lea Valley Walk (link to Luton Parkway station)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8718685,
+    "lon": -0.3959502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12870917
+  }
+}

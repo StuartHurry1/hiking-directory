@@ -1,0 +1,21 @@
+{
+  "id": "osm-9802470",
+  "slug": "shore-trail-9802470",
+  "name": "Shore Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8822398,
+    "lon": -5.8387245
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9802470
+  }
+}

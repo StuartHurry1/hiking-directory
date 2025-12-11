@@ -1,0 +1,21 @@
+{
+  "id": "osm-1742453",
+  "slug": "north-chesterfield-way-1742453",
+  "name": "North Chesterfield Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2363445,
+    "lon": -1.4324417
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1742453
+  }
+}

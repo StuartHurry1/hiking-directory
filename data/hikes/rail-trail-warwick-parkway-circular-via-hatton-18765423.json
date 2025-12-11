@@ -1,0 +1,21 @@
+{
+  "id": "osm-18765423",
+  "slug": "rail-trail-warwick-parkway-circular-via-hatton-18765423",
+  "name": "Rail Trail: Warwick Parkway Circular via Hatton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2861665,
+    "lon": -1.6121936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18765423
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2866161",
+  "slug": "footpath-t50-2866161",
+  "name": "Footpath T50",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5435884,
+    "lon": -1.4363189
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866161
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17829485",
+  "slug": "newark-park-orange-trail-17829485",
+  "name": "Newark Park Orange Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6364824,
+    "lon": -2.3194964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17829485
+  }
+}

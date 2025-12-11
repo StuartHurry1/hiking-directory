@@ -1,0 +1,42 @@
+{
+  "id": "osm-2953611",
+  "slug": "amber-valley-routeway-walk-15-2953611",
+  "name": "Amber Valley Routeway Walk 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0286613,
+    "lon": -1.5637094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2953611
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 15 is a short, easy 2.4 km hike in the UK, suitable for beginners and families. The route follows gentle paths along scenic surroundings with light elevation and informative waypoints, offering a relaxing outdoor experience.",
+    "terrain_summary": "Mostly well-defined footpaths and grassy trails with occasional compact gravel. Gentle undulations, occasional wet patches after rain, and some even surfaces suitable for strollers on parts. Expect mild inclines but no strenuous ascents.",
+    "safety_notes": "Check weather and footwear. Some sections may be uneven or muddy after rain. Stay on marked paths, watch for cyclists on shared routes, and bring a map or GPS. Short daylight hours in winter; bring lights if walking near dusk. Pack water, a small first-aid kit, and tell someone your plan.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map or offline map app",
+      "Hat and sunscreen",
+      "Snack",
+      "Small first-aid kit",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn, when the weather is mild and soil is firmer; avoid periods of heavy rain or flood risk in winter.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 15 – Easy 2.4 km Hike in the UK",
+      "meta_description": "Explore Amber Valley Routeway Walk 15, a short and easy 2.4 km hike in the UK. Practical tips, gear recommendations, best seasons, and safety notes for a comfortable walk.",
+      "h1": "Amber Valley Routeway Walk 15 – Easy 2.4 km Hike"
+    }
+  }
+}

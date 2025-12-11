@@ -1,0 +1,23 @@
+{
+  "id": "osm-19529137",
+  "slug": "ornamental-lake-walk-dolmelynllyn-19529137",
+  "name": "Ornamental Lake walk, Dolmelynllyn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8018525,
+    "lon": -3.8900977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19529137
+  }
+}

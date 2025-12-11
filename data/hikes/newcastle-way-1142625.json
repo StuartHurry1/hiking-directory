@@ -1,0 +1,21 @@
+{
+  "id": "osm-1142625",
+  "slug": "newcastle-way-1142625",
+  "name": "Newcastle Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 72.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2098375,
+    "lon": -5.9282066
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1142625
+  }
+}

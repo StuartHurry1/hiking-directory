@@ -1,0 +1,23 @@
+{
+  "id": "osm-1806040",
+  "slug": "ceredigion-coast-path-1806040",
+  "name": "Ceredigion Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 424.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2789137,
+    "lon": -4.189214
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1806040
+  }
+}

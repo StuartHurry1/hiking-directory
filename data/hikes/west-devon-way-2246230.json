@@ -1,0 +1,21 @@
+{
+  "id": "osm-2246230",
+  "slug": "west-devon-way-2246230",
+  "name": "West Devon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 263.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6005905,
+    "lon": -4.1266347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2246230
+  }
+}

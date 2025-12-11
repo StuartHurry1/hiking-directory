@@ -1,0 +1,21 @@
+{
+  "id": "osm-8385409",
+  "slug": "plymouth-city-trail-8385409",
+  "name": "Plymouth City Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3694556,
+    "lon": -4.1393801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8385409
+  }
+}

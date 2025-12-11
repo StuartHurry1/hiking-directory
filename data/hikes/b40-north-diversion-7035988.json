@@ -1,0 +1,40 @@
+{
+  "id": "osm-7035988",
+  "slug": "b40-north-diversion-7035988",
+  "name": "+B40 North Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4737945,
+    "lon": -1.4521268
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7035988
+  },
+  "ai": {
+    "summary": "A short, easy hike along the +B40 North Diversion in the UK. At around 0.5 km, it’s a quick stroll suitable for all ages and a good introduction to longer walks.",
+    "terrain_summary": "Mostly flat and well-surfaced, with a mix of paved or compacted gravel paths. Expect occasional grassy edges and possible minor puddles after rain.",
+    "safety_notes": "Urban-friendly route. Share the path with pedestrians and cyclists where applicable. Wear sturdy footwear and bring weather-appropriate clothing; UK weather can change quickly. If hiking alone, let someone know your plans and carry a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with maps",
+      "Small backpack or daypack",
+      "Sunscreen or hat"
+    ],
+    "best_seasons": "All year round; spring through autumn typically offer the most comfortable conditions, while winter visits require warm clothing and caution on wet surfaces.",
+    "seo": {
+      "title": "+B40 North Diversion – Short Easy 0.5 km Hike in the UK",
+      "meta_description": "A quick 0.5 km easy hike along the +B40 North Diversion in the UK. Flat, well-surfaced path suitable for all ages. Includes safety tips and gear suggestions.",
+      "h1": "+B40 North Diversion – 0.5 km Easy Hike (UK)"
+    }
+  }
+}

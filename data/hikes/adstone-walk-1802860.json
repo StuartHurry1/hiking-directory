@@ -1,0 +1,46 @@
+{
+  "id": "osm-1802860",
+  "slug": "adstone-walk-1802860",
+  "name": "Adstone Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5381903,
+    "lon": -2.9086931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1802860
+  },
+  "ai": {
+    "summary": "Adstone Walk is a 14.8 km moderate hike in the UK. The route traverses a mix of countryside surfaces and rural lanes in an unknown region, offering varied scenery and a steady pace suitable for walkers with some experience. The terrain can be variable and weather-dependent, so preparation is advised.",
+    "terrain_summary": "Terrain is mixed: grassy fields, compact farm tracks, woodland paths, and occasional stiles. Expect uneven ground and possible mud after rain; there may be gates and small ascents/descents typical of rural trails. Good navigation helps, and be prepared for changing conditions.",
+    "safety_notes": "Plan for weather changes, wear sturdy boots, and carry water and snacks. Use a map and/or GPS, keep to public rights of way, and stay on marked paths. Be mindful of livestock and gates, watch footing on mud, consider daylight hours, and carry a light source if hiking near dusk. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof outer shell)",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Phone with offline maps and a charger",
+      "Hat and sun protection",
+      "Small first aid kit",
+      "Energy snacks",
+      "Headlamp or flashlight",
+      "Walking poles (optional)",
+      "Light rain jacket",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are generally best for Adstone Walk, offering milder conditions and longer daylight. Winter hikes are possible but can be cold and wet; adjust gear accordingly.",
+    "seo": {
+      "title": "Adstone Walk – 14.8 km Moderate Hike in the UK",
+      "meta_description": "Explore Adstone Walk, a 14.8 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this countryside route.",
+      "h1": "Adstone Walk: 14.8 km Moderate Hike in the UK"
+    }
+  }
+}

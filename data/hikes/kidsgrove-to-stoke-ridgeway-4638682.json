@@ -1,0 +1,23 @@
+{
+  "id": "osm-4638682",
+  "slug": "kidsgrove-to-stoke-ridgeway-4638682",
+  "name": "Kidsgrove to Stoke Ridgeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 52.6,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0865545,
+    "lon": -2.2438216
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4638682
+  }
+}

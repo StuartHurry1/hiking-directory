@@ -1,0 +1,21 @@
+{
+  "id": "osm-15458688",
+  "slug": "green-lane-15458688",
+  "name": "Green Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3983331,
+    "lon": -5.8296857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15458688
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19946367",
+  "slug": "farm-walk-hawkwoodpettswood-19946367",
+  "name": "Farm Walk, Hawkwood/PettsWood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3990637,
+    "lon": 0.0691536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19946367
+  }
+}

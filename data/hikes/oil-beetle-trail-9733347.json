@@ -1,0 +1,21 @@
+{
+  "id": "osm-9733347",
+  "slug": "oil-beetle-trail-9733347",
+  "name": "Oil Beetle Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5060992,
+    "lon": -2.2426692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9733347
+  }
+}

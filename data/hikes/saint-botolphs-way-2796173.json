@@ -1,0 +1,21 @@
+{
+  "id": "osm-2796173",
+  "slug": "saint-botolphs-way-2796173",
+  "name": "Saint Botolph's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3364413,
+    "lon": 0.9924587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2796173
+  }
+}

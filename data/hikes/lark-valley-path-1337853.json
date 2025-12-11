@@ -1,0 +1,21 @@
+{
+  "id": "osm-1337853",
+  "slug": "lark-valley-path-1337853",
+  "name": "Lark Valley Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 113.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2712781,
+    "lon": 0.7072928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1337853
+  }
+}

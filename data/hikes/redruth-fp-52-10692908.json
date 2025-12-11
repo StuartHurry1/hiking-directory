@@ -1,0 +1,21 @@
+{
+  "id": "osm-10692908",
+  "slug": "redruth-fp-52-10692908",
+  "name": "Redruth FP 52",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2270185,
+    "lon": -5.2390448
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10692908
+  }
+}

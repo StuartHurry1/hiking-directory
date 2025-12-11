@@ -1,0 +1,21 @@
+{
+  "id": "osm-5544307",
+  "slug": "diss-town-starter-walk-5544307",
+  "name": "Diss Town Starter Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3744275,
+    "lon": 1.106875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5544307
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19906162",
+  "slug": "claife-viewing-station-to-wray-castle-trail-claife-viewing-station-19906162",
+  "name": "Claife Viewing Station to Wray Castle trail, Claife Viewing Station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.9,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3502381,
+    "lon": -2.9434651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19906162
+  }
+}

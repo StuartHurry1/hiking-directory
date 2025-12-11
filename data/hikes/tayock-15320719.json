@@ -1,0 +1,21 @@
+{
+  "id": "osm-15320719",
+  "slug": "tayock-15320719",
+  "name": "Tayock",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7200811,
+    "lon": -2.4741665
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15320719
+  }
+}

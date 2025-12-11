@@ -1,0 +1,21 @@
+{
+  "id": "osm-4659923",
+  "slug": "queen-elizabeth-jubilee-walk-4659923",
+  "name": "Queen Elizabeth Jubilee Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5861095,
+    "lon": -3.8925961
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4659923
+  }
+}

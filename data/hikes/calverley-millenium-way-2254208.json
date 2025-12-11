@@ -1,0 +1,48 @@
+{
+  "id": "osm-2254208",
+  "slug": "calverley-millenium-way-2254208",
+  "name": "Calverley Millenium Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8178903,
+    "lon": -1.68425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2254208
+  },
+  "ai": {
+    "summary": "Calverley Millenium Way is a 38.3 km hard hike in the UK that traverses diverse landscapes. Designed for experienced walkers, the route combines long rural tracks, grassy moorland, and occasional country lanes, with significant elevation changes and rough sections. The trail offers remote scenery, rewarding solitude, and a strenuous test of endurance.",
+    "terrain_summary": "Expect a mix of uneven rural tracks, woodland paths, and wet, muddy moorland. Footing can be loose and slippery after rain, with steep ascents and descents in parts. Surfaces range from packed gravel to grassy tussocks and short tarmac stretches. Navigation is generally straightforward on waymarked segments, but fog, overgrowth, or rural gates can slow progress; carrying a map and compass is advised.",
+    "safety_notes": "This is a long and demanding hike. Plan as a long day or split into stages if possible; check daylight hours and weather. Weather in the UK can change rapidly, especially on exposed moorland. Start early to ensure you have enough daylight and a backup plan if conditions deteriorate. Bring ample water and high-energy food, and know where you can refill. Wear sturdy boots and weather-appropriate layers; a waterproof shell is essential in wet conditions. Stay on the marked path, respect landowner access, and be prepared for gates and occasional livestock. Carry a map and compass or a reliable GPS, plus a charged phone for emergencies. Share your route with someone and have a means of signaling for help, such as a whistle or device.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and trousers",
+      "Breathable base layers and mid-layer",
+      "Rucksack with 2–3 liters of drinking water and electrolyte solution",
+      "Map and compass or GPS device",
+      "Headlamp with extra batteries",
+      "High-energy snacks and emergency food",
+      "First aid kit and any personal medications",
+      "Sunscreen, sunglasses, and a hat",
+      "Mobile phone with offline maps and a portable power bank",
+      "Emergency blanket or bivy sack",
+      "Whistle and reflective gear",
+      "Gaiters (useful in mud or tall grass)",
+      "Dry bag or pack liner to keep gear dry"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to September) is best for this hike, when daylight is longer and weather is more stable. Summer can be hot, while winter conditions increase risk and reduce visibility.",
+    "seo": {
+      "title": "Calverley Millenium Way – 38.3 km Hard Hike in the UK",
+      "meta_description": "Discover Calverley Millenium Way, a 38.3 km challenging UK hike. Learn about terrain, safety tips, and essential gear for experienced hikers.",
+      "h1": "Calverley Millenium Way – 38.3 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11098055",
+  "slug": "diss-circular-walk-11098055",
+  "name": "Diss Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.383328,
+    "lon": 1.1159478
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11098055
+  }
+}

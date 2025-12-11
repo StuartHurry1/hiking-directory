@@ -1,0 +1,21 @@
+{
+  "id": "osm-1272105",
+  "slug": "red-open-15-june-15-oct-1272105",
+  "name": "Red: (Open 15 June-15 Oct)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4343791,
+    "lon": -1.7613772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1272105
+  }
+}

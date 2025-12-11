@@ -1,0 +1,21 @@
+{
+  "id": "osm-19878352",
+  "slug": "souter-lighthouse-ranger-run-19878352",
+  "name": "Souter Lighthouse Ranger Run",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9692809,
+    "lon": -1.3652292
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878352
+  }
+}

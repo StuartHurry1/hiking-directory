@@ -1,0 +1,21 @@
+{
+  "id": "osm-57416",
+  "slug": "greensand-way-57416",
+  "name": "Greensand Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 694.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0893802,
+    "lon": -0.7082773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 57416
+  }
+}

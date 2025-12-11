@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865670",
+  "slug": "footpath-u77-2865670",
+  "name": "Footpath U77",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5283507,
+    "lon": -1.3518486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865670
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osm-19039359",
+  "slug": "buckden-to-kettlewell-walk-upper-wharfdale-19039359",
+  "name": "Buckden To Kettlewell walk, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1782545,
+    "lon": -2.0904979
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19039359
+  },
+  "ai": {
+    "summary": "A challenging 17.8 km long-distance hike from Buckden to Kettlewell in Upper Wharfdale, UK. The route combines long ascents, exposed sections, and varied terrain through the Yorkshire Dales, offering dramatic valley scenery and a strenuous day on foot.",
+    "terrain_summary": "Varied terrain including rough country paths, grassy trods, rocky stretches, and boggy moorland. Expect gates and stone walls, occasional steep ascents and descents, and muddy patches. Navigation is straightforward on established paths but weather can reduce visibility.",
+    "safety_notes": "This is a hardUK hike with significant distance and elevation. Check the forecast and start early in winter. Weather can change rapidly in the Dales; dress in layers and bring waterproofs. The route contains exposed sections and uneven ground—use good navigation (map and compass) and/or a GPS. Daylight hours are shorter in winter. Mobile reception can be patchy in remote sections. Carry enough food and water, inform someone of your plans, and be prepared for boggy or slippery conditions and livestock gates/stiles.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Insulating layers and a warm hat/gloves",
+      "Water bottle or hydration system (2–3 litres total)",
+      "High-energy snacks and a packed meal",
+      "Map and compass (or a GPS device); fully charged phone as backup",
+      "Emergency whistle",
+      "First-aid kit",
+      "Headlamp or flashlight",
+      "Sunscreen, sunglasses, and sun hat",
+      "Rucksack with rain cover",
+      "Walking poles (optional but helpful on rough or wet sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October).",
+    "seo": {
+      "title": "Buckden to Kettlewell Walk (Upper Wharfdale) – 17.8 km Hard Hike in the UK",
+      "meta_description": "Conquer a challenging 17.8 km hike from Buckden to Kettlewell in Upper Wharfdale, Yorkshire Dales. Expect varied terrain, long ascents, and stunning valley scenery—plan for a strenuous day outdoors.",
+      "h1": "Buckden to Kettlewell Walk (Upper Wharfdale) – 17.8 km, Hard"
+    }
+  }
+}

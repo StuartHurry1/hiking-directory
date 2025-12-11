@@ -1,0 +1,21 @@
+{
+  "id": "osm-19700683",
+  "slug": "thames-path-diversion-near-henley-19700683",
+  "name": "Thames Path - diversion near henley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5112259,
+    "lon": -0.8841049
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19700683
+  }
+}

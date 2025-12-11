@@ -1,0 +1,21 @@
+{
+  "id": "osm-163953",
+  "slug": "stride-out-walk-163953",
+  "name": "Stride out walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0019544,
+    "lon": -1.4559163
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 163953
+  }
+}

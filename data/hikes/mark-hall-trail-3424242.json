@@ -1,0 +1,21 @@
+{
+  "id": "osm-3424242",
+  "slug": "mark-hall-trail-3424242",
+  "name": "Mark Hall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7811853,
+    "lon": 0.1509535
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3424242
+  }
+}

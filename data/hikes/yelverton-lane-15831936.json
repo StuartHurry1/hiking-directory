@@ -1,0 +1,21 @@
+{
+  "id": "osm-15831936",
+  "slug": "yelverton-lane-15831936",
+  "name": "Yelverton Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0659346,
+    "lon": -6.1509708
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15831936
+  }
+}

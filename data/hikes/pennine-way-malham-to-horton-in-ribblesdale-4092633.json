@@ -1,0 +1,21 @@
+{
+  "id": "osm-4092633",
+  "slug": "pennine-way-malham-to-horton-in-ribblesdale-4092633",
+  "name": "Pennine Way (Malham to Horton in Ribblesdale)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1496784,
+    "lon": -2.2958671
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4092633
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19039392",
+  "slug": "horse-head-moor-and-deepdale-walk-upper-wharfdale-19039392",
+  "name": "Horse Head Moor and Deepdale walk, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2069561,
+    "lon": -2.1479786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19039392
+  }
+}

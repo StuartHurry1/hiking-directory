@@ -1,0 +1,21 @@
+{
+  "id": "osm-14522404",
+  "slug": "lea-valley-walk-link-to-clapton-station-14522404",
+  "name": "Lea Valley Walk (link to Clapton Station)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5614145,
+    "lon": -0.0570796
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14522404
+  }
+}

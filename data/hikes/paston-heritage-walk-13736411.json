@@ -1,0 +1,21 @@
+{
+  "id": "osm-13736411",
+  "slug": "paston-heritage-walk-13736411",
+  "name": "Paston Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8579313,
+    "lon": 1.4490202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13736411
+  }
+}

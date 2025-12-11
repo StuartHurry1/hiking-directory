@@ -1,0 +1,21 @@
+{
+  "id": "osm-2061612",
+  "slug": "dartmoor-way-2061612",
+  "name": "Dartmoor Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 868.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5812064,
+    "lon": -3.6856893
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2061612
+  }
+}

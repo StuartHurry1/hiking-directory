@@ -1,0 +1,21 @@
+{
+  "id": "osm-19567619",
+  "slug": "mickleden-valley-trail-19567619",
+  "name": "Mickleden Valley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4453896,
+    "lon": -3.1023733
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567619
+  }
+}

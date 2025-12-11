@@ -1,0 +1,21 @@
+{
+  "id": "osm-1015851",
+  "slug": "ring-of-gullion-way-1015851",
+  "name": "Ring of Gullion Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 100.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1925139,
+    "lon": -6.3515664
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1015851
+  }
+}

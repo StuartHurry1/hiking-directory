@@ -1,0 +1,31 @@
+{
+  "id": 16171365,
+  "slug": "porters-lane-16171365",
+  "name": "Porter's Lane",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "from": "Main Street",
+    "highway_authority_ref": "CD/RW/8061",
+    "name": "Porter's Lane",
+    "network": "lwn",
+    "operator": "Newry, Mourne & Down District Council",
+    "route": "foot",
+    "to": "Valentia Place",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.8896085,
+      54.2122591
+    ],
+    [
+      -5.8900407,
+      54.2123305
+    ],
+    [
+      -5.8903081,
+      54.2123779
+    ]
+  ]
+}

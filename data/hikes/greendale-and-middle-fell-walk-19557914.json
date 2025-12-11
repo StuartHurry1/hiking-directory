@@ -1,0 +1,21 @@
+{
+  "id": "osm-19557914",
+  "slug": "greendale-and-middle-fell-walk-19557914",
+  "name": "Greendale and Middle Fell Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.438605,
+    "lon": -3.3203384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19557914
+  }
+}

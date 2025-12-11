@@ -1,0 +1,21 @@
+{
+  "id": "osm-17148498",
+  "slug": "walk-1-17148498",
+  "name": "Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4256919,
+    "lon": -1.7411106
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17148498
+  }
+}

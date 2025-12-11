@@ -1,0 +1,21 @@
+{
+  "id": "osm-17141229",
+  "slug": "lark-rise-farm-walks-route-3-blue-markers-17141229",
+  "name": "Lark Rise Farm Walks (Route 3 - Blue Markers)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1765239,
+    "lon": 0.0597291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17141229
+  }
+}

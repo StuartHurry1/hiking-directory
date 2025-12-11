@@ -1,0 +1,23 @@
+{
+  "id": "osm-19802373",
+  "slug": "in-the-footsteps-of-capability-brown-ashridge-estate-19802373",
+  "name": "In the Footsteps of Capability Brown, Ashridge Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8076301,
+    "lon": -0.5927286
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19802373
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-2097330",
+  "slug": "amber-valley-routeway-walk-14-2097330",
+  "name": "Amber Valley Routeway Walk 14",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0399282,
+    "lon": -1.5262697
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2097330
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 14 is a challenging 28.5 km day hike in the UK, part of the Amber Valley Routeway. The route traverses varied landscapes with canal towpaths, hedged lanes, and woodland, featuring significant elevation changes and long stretches between checkpoints. Suitable for experienced hikers with strong navigation and endurance.",
+    "terrain_summary": "The terrain is varied: canal towpaths, gravel and dirt tracks, muddy field edges, occasional road sections, and forested ascents. Expect sustained gradients in wooded sections and some stiles and gates. Navigation is generally straightforward on well-marked segments but check maps for rural crossings.",
+    "safety_notes": "Plan for 8–10 hours of hiking. Weather in the UK can be changeable; bring waterproofs and warm layers. Wear sturdy boots and carry a map and compass or reliable GPS. Tell someone your route and expected finish time. Carry enough water and snacks, a basic first aid kit, a whistle, and a charged phone (preferably with offline maps). Be mindful of private land and livestock; stiles and gates may require slow, careful passage.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration bladder",
+      "Weatherproof jacket and insulating layers",
+      "Hat and gloves if cold",
+      "Map and compass or GPS device",
+      "Snack foods and extra calories",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Whistle",
+      "Emergency blanket",
+      "Charged mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn are generally the best seasons for long-distance day hikes in the UK, offering milder weather and longer daylight. Hikes can be undertaken year-round with appropriate clothing and precautions.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 14 – 28.5 km Hard Day Hike in the UK",
+      "meta_description": "Discover Amber Valley Routeway Walk 14, a challenging 28.5 km hike in the UK. Varied terrain, long distance, and rugged scenery with safety tips and essential gear.",
+      "h1": "Amber Valley Routeway Walk 14: 28.5 km Hard Hike in the UK"
+    }
+  }
+}

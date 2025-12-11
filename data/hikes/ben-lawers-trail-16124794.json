@@ -1,0 +1,47 @@
+{
+  "id": "osm-16124794",
+  "slug": "ben-lawers-trail-16124794",
+  "name": "Ben Lawers Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5244141,
+    "lon": -4.2530581
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124794
+  },
+  "ai": {
+    "summary": "A demanding 34 km circuit in the Scottish Highlands around Ben Lawers, offering high-alpine scenery, exposed ridges, and long, steady ascents. Suitable for experienced hikers with strong endurance, navigation skills, and a weatherproof kit.",
+    "terrain_summary": "Rugged mix of rocky paths, boggy moorland, exposed ridges, and occasional short scrambling. Expect steep climbs, uneven footing, and rapidly changing weather. Some sections are above the tree line and exposed to wind; carry a map and compass and be prepared to turn back if visibility drops.",
+    "safety_notes": "Check the forecast and daylight hours; the weather in the Highlands can change rapidly. Plan for a long day (8–10 hours) and inform someone of your route. Stay on marked paths where possible; carry a map and compass (and know how to use them) or a GPS device. Bring sufficient water and food, a first aid kit, and emergency gear. Be prepared for cold conditions even in summer; in winter, avalanches and ice significantly increase risk and require alpine experience.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weatherproof outer shell and insulating layers",
+      "Warm hat and gloves",
+      "Water bottle or hydration system (2–3 litres)",
+      "High-energy food and a small daypack meal",
+      "Map, compass, and/or GPS device",
+      "Whistle and fully charged phone (with offline maps if available)",
+      "Headlamp with extra batteries",
+      "Emergency foil blanket or bivy sack",
+      "First aid kit and blister treatment",
+      "Trekking poles (recommended for long ascents)",
+      "Sun protection: sunscreen, sunglasses, and a cap",
+      "Rain pants and additional warm layers"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer longer daylight and drier trails; winter conditions in the Scottish Highlands can be severe and require specialized Alpine skills and equipment.",
+    "seo": {
+      "title": "Ben Lawers Trail – 34 km Hard Hike in the Scottish Highlands",
+      "meta_description": "Prepare for a challenging 34 km Ben Lawers Trail hike in the Scottish Highlands. Explore terrain, safety tips, gear recommendations, and the best seasons for this demanding route.",
+      "h1": "Ben Lawers Trail: A 34 km High-Altitude Hike in Scotland"
+    }
+  }
+}

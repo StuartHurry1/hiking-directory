@@ -1,0 +1,21 @@
+{
+  "id": "osm-19738671",
+  "slug": "wildlife-and-wetland-walk-brownsea-island-19738671",
+  "name": "Wildlife and Wetland Walk, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.693108,
+    "lon": -1.9672944
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738671
+  }
+}

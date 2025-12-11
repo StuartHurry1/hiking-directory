@@ -1,0 +1,21 @@
+{
+  "id": "osm-8529295",
+  "slug": "high-lodge-heritage-trail-8529295",
+  "name": "High Lodge Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4334515,
+    "lon": 0.6607915
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8529295
+  }
+}

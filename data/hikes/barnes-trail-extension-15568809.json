@@ -1,0 +1,44 @@
+{
+  "id": "osm-15568809",
+  "slug": "barnes-trail-extension-15568809",
+  "name": "Barnes Trail Extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4752522,
+    "lon": -0.2392411
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15568809
+  },
+  "ai": {
+    "summary": "A 7.2 km moderate hike on Barnes Trail Extension in the UK, combining gentle climbs with flat sections and varied scenery. Suitable for hikers with intermediate experience seeking steady footing and countryside views.",
+    "terrain_summary": "Mixed terrain with well-defined paths, firm dirt and gravel, and occasional muddy stretches. Expect exposed roots, grassy sections, hedgerows, and small gradients; footing is generally steady but can be uneven in places.",
+    "safety_notes": "Plan for UK weather and daylight hours. Wear sturdy footwear and bring a waterproof layer. Stay on marked trails, be mindful of livestock in rural sections, and carry enough water and snacks. Have a map or GPS, a charged phone, and let someone know your route and ETA. In remote sections mobile signal can be limited; consider starting earlier in the day.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Waterproof jacket and insulating layer",
+      "Lightweight backpack",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Basic first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Headlamp or flashlight",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for longer daylight and drier conditions. Winter hikes are possible but can be muddy, icy, and more challenging.",
+    "seo": {
+      "title": "Barnes Trail Extension Hike Guide | 7.2 km Moderate UK Trail",
+      "meta_description": "Explore Barnes Trail Extension, a 7.2 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for this countryside walk.",
+      "h1": "Barnes Trail Extension – 7.2 km Moderate Hike in the UK"
+    }
+  }
+}

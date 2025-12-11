@@ -1,0 +1,21 @@
+{
+  "id": "osm-15337603",
+  "slug": "johns-water-walk-purple-route-15337603",
+  "name": "John's water walk (Purple Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8233609,
+    "lon": 1.2258003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15337603
+  }
+}

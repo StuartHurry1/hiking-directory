@@ -1,0 +1,21 @@
+{
+  "id": "osm-5616132",
+  "slug": "round-loch-muick-5616132",
+  "name": "Round Loch Muick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9524269,
+    "lon": -3.1367167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5616132
+  }
+}

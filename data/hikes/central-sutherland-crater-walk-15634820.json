@@ -1,0 +1,21 @@
+{
+  "id": "osm-15634820",
+  "slug": "central-sutherland-crater-walk-15634820",
+  "name": "Central Sutherland Crater Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9385369,
+    "lon": -4.7397436
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15634820
+  }
+}

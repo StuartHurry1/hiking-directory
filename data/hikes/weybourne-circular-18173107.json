@@ -1,0 +1,21 @@
+{
+  "id": "osm-18173107",
+  "slug": "weybourne-circular-18173107",
+  "name": "Weybourne Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9487216,
+    "lon": 1.1403062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18173107
+  }
+}

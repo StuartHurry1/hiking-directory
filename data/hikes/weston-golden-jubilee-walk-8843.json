@@ -1,0 +1,21 @@
+{
+  "id": "osm-8843",
+  "slug": "weston-golden-jubilee-walk-8843",
+  "name": "Weston Golden Jubilee Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9408587,
+    "lon": -0.1591557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8843
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19062690",
+  "slug": "park-end-moss-wetland-walk-at-sizergh-19062690",
+  "name": "Park End Moss Wetland Walk at Sizergh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2838238,
+    "lon": -2.7738557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19062690
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-2405152",
+  "slug": "blue-2405152",
+  "name": "blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9912302,
+    "lon": -3.7720471
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2405152
+  },
+  "ai": {
+    "summary": "Blue is an easy 5.3 km hike in the UK suitable for beginners and families. The route offers gentle trails with countryside views, minimal elevation gain, and a relaxed pace.",
+    "terrain_summary": "Predominantly well-defined paths and grassy tracks. Occasional compact soil, short sections of uneven ground, and several gates. Expect mud after rain and be mindful of livestock in rural areas.",
+    "safety_notes": "Check the weather and daylight hours before starting. Wear sturdy waterproof footwear and dress for the conditions. Stay on marked paths and close gates behind you. Carry a map or GPS, water, and snacks, and bring a small first-aid kit. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Map or GPS device",
+      "Phone with offline map",
+      "Small first-aid kit",
+      "Sunscreen and hat",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Spring to autumn; dry conditions are most pleasant, though rain can occur and winter visits may be muddy with shorter daylight.",
+    "seo": {
+      "title": "Blue: Easy 5.3 km Hike in the UK | Safe & Scenic Walk",
+      "meta_description": "Discover Blue, an easy 5.3 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this pleasant countryside trail.",
+      "h1": "Blue — 5.3 km Easy Hike in the UK"
+    }
+  }
+}

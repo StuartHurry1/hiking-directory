@@ -1,0 +1,48 @@
+{
+  "id": "osm-19306476",
+  "slug": "boobys-bay-walk-north-cornwall-19306476",
+  "name": "Booby's Bay walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5080582,
+    "lon": -5.0213966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306476
+  },
+  "ai": {
+    "summary": "The Booby's Bay walk in North Cornwall is a challenging coastal hike totaling about 20.7 km. The route follows rugged cliff paths along the Atlantic, with frequent elevation changes and panoramic sea views. Suitable for experienced hikers prepared for long distances, exposure, and variable weather.",
+    "terrain_summary": "Rugged cliff-top paths, uneven dirt tracks, exposed sections with drops, and occasional beach or tidal segments. Footing can be slippery when wet; expect rocky surfaces and potential mud. Sturdy boots with good grip are essential.",
+    "safety_notes": "Check tide times and weather forecast before you go. The route runs along exposed cliff edges and open headlands; sudden gusts and rain are common. There can be unstable ground near the edge and erosion in some areas. Carry a map and compass or GPS, and let someone know your planned route and ETA. Bring sufficient water and snacks; daylight hours vary and the walk may take longer than expected. In poor visibility, turn back to safer sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Map and compass or offline GPS",
+      "Water bottle + hydration system",
+      "Snacks or energy bars",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "First aid kit",
+      "Lightweight insulating layer",
+      "Headlamp or flashlight (in case of late return)",
+      "Phone with offline maps",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (April–October) generally offer the most favorable weather and daylight. Plan around tides and avoid the harshest winter conditions when coastal routes can be exposed and winds strong.",
+    "seo": {
+      "title": "Booby's Bay Walk – 20.7 km Hard Coastal Hike in North Cornwall, UK",
+      "meta_description": "Explore the challenging 20.7 km coastal trail along Booby's Bay in North Cornwall, UK. Learn about terrain, safety, best seasons, and essential gear for this strenuous coastal hike.",
+      "h1": "Booby's Bay Walk – A 20.7 km Hard Coastal Hike in North Cornwall"
+    }
+  }
+}

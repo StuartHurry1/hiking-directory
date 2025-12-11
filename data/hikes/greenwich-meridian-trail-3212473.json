@@ -1,0 +1,21 @@
+{
+  "id": "osm-3212473",
+  "slug": "greenwich-meridian-trail-3212473",
+  "name": "Greenwich Meridian Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1163.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7584813,
+    "lon": 0.0007333
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3212473
+  }
+}

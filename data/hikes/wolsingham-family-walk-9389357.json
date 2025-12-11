@@ -1,0 +1,21 @@
+{
+  "id": "osm-9389357",
+  "slug": "wolsingham-family-walk-9389357",
+  "name": "Wolsingham Family Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7276076,
+    "lon": -1.8885745
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9389357
+  }
+}

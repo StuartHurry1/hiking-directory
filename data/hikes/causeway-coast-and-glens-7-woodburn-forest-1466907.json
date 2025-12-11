@@ -1,0 +1,23 @@
+{
+  "id": "osm-1466907",
+  "slug": "causeway-coast-and-glens-7-woodburn-forest-1466907",
+  "name": "Causeway Coast and Glens - 7 - Woodburn Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7499506,
+    "lon": -5.869912
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1466907
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17716590",
+  "slug": "john-ogroats-trail-keiss-to-john-ogroats-17716590",
+  "name": "John O'Groats Trail (Keiss to John O'Groats)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.6437856,
+    "lon": -3.0272909
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17716590
+  }
+}

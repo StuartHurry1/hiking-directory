@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507434",
+  "slug": "road-walk-11507434",
+  "name": "Road Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4226695,
+    "lon": -0.751164
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507434
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-18186988",
+  "slug": "norfolk-coast-path-sheringham-circular-18186988",
+  "name": "Norfolk Coast Path, Sheringham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.945041,
+    "lon": 1.2138074
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18186988
+  }
+}

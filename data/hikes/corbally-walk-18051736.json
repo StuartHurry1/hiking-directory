@@ -1,0 +1,21 @@
+{
+  "id": "osm-18051736",
+  "slug": "corbally-walk-18051736",
+  "name": "Corbally Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.382477,
+    "lon": -5.6764886
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051736
+  }
+}

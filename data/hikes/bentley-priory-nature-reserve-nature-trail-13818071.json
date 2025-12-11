@@ -1,0 +1,43 @@
+{
+  "id": "osm-13818071",
+  "slug": "bentley-priory-nature-reserve-nature-trail-13818071",
+  "name": "Bentley Priory Nature Reserve Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6185114,
+    "lon": -0.3245029
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13818071
+  },
+  "ai": {
+    "summary": "A gentle 5.5 km nature trail at Bentley Priory Nature Reserve in the United Kingdom. Designed for all ages and abilities, this easy walk follows well-maintained paths through diverse habitats with occasional shaded sections and opportunities to observe local wildlife.",
+    "terrain_summary": "Mostly flat, well-marked gravel and compacted dirt paths with some grassy or woodland sections. Expect occasional uneven patches and muddy segments after rain. The route is suitable for strollers on paved sections but rougher ground may require assistance.",
+    "safety_notes": "Stay on marked trails, keep dogs on a short lead, and watch for bikes on shared paths. Wear sturdy footwear for uneven ground and mud, bring water, and check local conditions for rain or flooding. Respect wildlife and farmed areas, and close gates behind you. In winter, daylight hours are shorter and surfaces can be slippery.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light boots",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle",
+      "Snack/energy bars",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent (seasonal)",
+      "Small first aid kit",
+      "Map or offline navigation (or ensure phone charged)",
+      "Camera or smartphone for wildlife"
+    ],
+    "best_seasons": "Spring to autumn for best weather and wildlife viewing; the trail can be done year-round with appropriate clothing and footwear, but expect mud and colder conditions in winter.",
+    "seo": {
+      "title": "Bentley Priory Nature Reserve Nature Trail — Easy 5.5 km Walk in the UK",
+      "meta_description": "Explore an easy 5.5 km nature trail at Bentley Priory Nature Reserve in the UK. Learn about the terrain, safety tips, and recommended gear for a family-friendly outdoor walk.",
+      "h1": "Bentley Priory Nature Reserve Nature Trail – Easy 5.5 km Hike"
+    }
+  }
+}

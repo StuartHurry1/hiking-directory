@@ -1,0 +1,21 @@
+{
+  "id": "osm-2866084",
+  "slug": "footpath-t54-2866084",
+  "name": "Footpath T54",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5504854,
+    "lon": -1.4139552
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866084
+  }
+}

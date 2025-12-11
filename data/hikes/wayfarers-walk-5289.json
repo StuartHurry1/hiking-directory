@@ -1,0 +1,21 @@
+{
+  "id": "osm-5289",
+  "slug": "wayfarers-walk-5289",
+  "name": "Wayfarers Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 352.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8442476,
+    "lon": -0.9378274
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5289
+  }
+}

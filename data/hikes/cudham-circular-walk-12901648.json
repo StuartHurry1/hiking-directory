@@ -1,0 +1,23 @@
+{
+  "id": "osm-12901648",
+  "slug": "cudham-circular-walk-12901648",
+  "name": "Cudham Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.321582,
+    "lon": 0.0640643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12901648
+  }
+}

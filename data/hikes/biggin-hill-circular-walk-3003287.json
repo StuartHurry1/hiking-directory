@@ -1,0 +1,47 @@
+{
+  "id": "osm-3003287",
+  "slug": "biggin-hill-circular-walk-3003287",
+  "name": "Biggin Hill Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2984909,
+    "lon": 0.0224481
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3003287
+  },
+  "ai": {
+    "summary": "Biggin Hill Circular Walk is a challenging 20.2 km loop in the United Kingdom. Starting and finishing near Biggin Hill, the hike traverses a mix of rural lanes, fields, and woodland with substantial elevation and long, demanding sections that reward experienced hikers with varied scenery and a true long-distance challenge.",
+    "terrain_summary": "Expect a combination of grassy tracks, uneven paths, mud after rain, fields, and short road sections. The route includes gates and stiles, exposed ridges in some parts, and noticeable elevation changes, so a solid pair of boots and good endurance are essential. Conditions can be variable with weather changes affecting grip and visibility.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy, waterproof footwear and bring appropriate layers. Carry a map and compass or a GPS device, plus a fully charged phone. Stay on waymarked routes, heed livestock etiquette, and watch for gates and stiles. Pack water, snacks, a small first-aid kit, a whistle, and a light source if there is any chance of returning after dark. Inform someone of your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 liters)",
+      "Weather-appropriate clothing (waterproof jacket, extra mid-layer, hat/gloves as needed)",
+      "Backpack to carry gear",
+      "Map and compass or GPS device",
+      "Snacks/energy foods",
+      "Sunscreen and sunglasses",
+      "Small first-aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle",
+      "Mobile phone with offline maps and power bank",
+      "Lightweight waterproof pants or gaiters (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to autumn (roughly April–October) offers the best conditions with longer daylight and typically drier trails. Summer provides ample daylight but can be hot; winter hiking is possible with careful planning and weather-appropriate gear.",
+    "seo": {
+      "title": "Biggin Hill Circular Walk – 20.2 km Hard Day Hike in the UK",
+      "meta_description": "Plan your adventure on the Biggin Hill Circular Walk, a 20.2 km challenging loop in the UK. Learn about terrain, safety tips, essential gear, and the best seasons for this demanding countryside hike.",
+      "h1": "Biggin Hill Circular Walk — 20.2 km (Hard) in the UK"
+    }
+  }
+}

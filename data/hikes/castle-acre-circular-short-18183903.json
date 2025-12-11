@@ -1,0 +1,21 @@
+{
+  "id": "osm-18183903",
+  "slug": "castle-acre-circular-short-18183903",
+  "name": "Castle Acre Circular (Short)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7041276,
+    "lon": 0.6922699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18183903
+  }
+}

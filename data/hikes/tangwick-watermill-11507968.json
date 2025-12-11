@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507968",
+  "slug": "tangwick-watermill-11507968",
+  "name": "Tangwick Watermill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4879494,
+    "lon": -1.5780201
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507968
+  }
+}

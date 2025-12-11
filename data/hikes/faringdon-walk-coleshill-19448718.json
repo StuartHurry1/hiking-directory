@@ -1,0 +1,21 @@
+{
+  "id": "osm-19448718",
+  "slug": "faringdon-walk-coleshill-19448718",
+  "name": "Faringdon Walk, Coleshill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6554761,
+    "lon": -1.5934845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19448718
+  }
+}

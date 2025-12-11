@@ -1,0 +1,21 @@
+{
+  "id": "osm-1694536",
+  "slug": "north-wingfield-walk-1694536",
+  "name": "North Wingfield Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1805891,
+    "lon": -1.3614599
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1694536
+  }
+}

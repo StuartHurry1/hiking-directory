@@ -1,0 +1,21 @@
+{
+  "id": "osm-2960531",
+  "slug": "forest-way-sussex-2960531",
+  "name": "Forest Way (Sussex)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1076022,
+    "lon": 0.178602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2960531
+  }
+}

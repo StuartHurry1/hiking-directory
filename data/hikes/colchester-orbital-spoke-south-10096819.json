@@ -1,0 +1,21 @@
+{
+  "id": "osm-10096819",
+  "slug": "colchester-orbital-spoke-south-10096819",
+  "name": "Colchester Orbital Spoke (South)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8820587,
+    "lon": 0.900449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10096819
+  }
+}

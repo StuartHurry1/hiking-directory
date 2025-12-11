@@ -1,0 +1,21 @@
+{
+  "id": "osm-17951966",
+  "slug": "murlough-nature-trail-17951966",
+  "name": "Murlough nature trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2336,
+    "lon": -5.861515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17951966
+  }
+}

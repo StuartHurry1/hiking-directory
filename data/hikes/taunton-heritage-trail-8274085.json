@@ -1,0 +1,21 @@
+{
+  "id": "osm-8274085",
+  "slug": "taunton-heritage-trail-8274085",
+  "name": "Taunton Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0153505,
+    "lon": -3.0970052
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8274085
+  }
+}

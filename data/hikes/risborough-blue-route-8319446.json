@@ -1,0 +1,21 @@
+{
+  "id": "osm-8319446",
+  "slug": "risborough-blue-route-8319446",
+  "name": "Risborough Blue Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7230869,
+    "lon": -0.8384304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8319446
+  }
+}

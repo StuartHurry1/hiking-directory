@@ -1,0 +1,44 @@
+{
+  "id": "osm-6449149",
+  "slug": "acocks-green-heritage-trail-6449149",
+  "name": "Acocks Green Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4471403,
+    "lon": -1.8249469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6449149
+  },
+  "ai": {
+    "summary": "A 14.5 km moderate heritage trail in the UK, centered on Acocks Green. The route weaves urban streets with local green spaces and historical sites, offering a steady pace and rewarding hints of local history. Precise regional details are not specified in the hike data.",
+    "terrain_summary": "Predominantly paved urban paths and sidewalks, with sections across parks and short footpaths. Expect mostly flat terrain with occasional gentle inclines and some uneven surfaces on older paths.",
+    "safety_notes": "Plan around daylight hours and weather. Wear sturdy walking shoes, stay on marked paths, and watch for road crossings in urban areas. Bring a map or offline navigation, a charged phone, water, snacks, and a light rain jacket. Consider starting from a public transport hub and let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers; rain jacket)",
+      "Water bottle",
+      "Map or offline map app",
+      "Charged phone with GPS",
+      "Small backpack to carry essentials",
+      "Snack or energy bars",
+      "Sunscreen and hat",
+      "Basic first aid kit",
+      "Headlamp or flashlight (optional for early/late starts)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight. Hiking outside these months is possible with proper planning for reduced daylight and potential weather.",
+    "seo": {
+      "title": "Acocks Green Heritage Trail – 14.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the Acocks Green Heritage Trail, a 14.5 km moderate hike in the UK that blends local history, parks, and streets. Plan your day with our route overview and safety tips.",
+      "h1": "Acocks Green Heritage Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1810053",
+  "slug": "purbeck-way-1810053",
+  "name": "Purbeck Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 235.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6675047,
+    "lon": -2.1084666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1810053
+  }
+}

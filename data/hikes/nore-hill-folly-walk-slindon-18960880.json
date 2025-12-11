@@ -1,0 +1,21 @@
+{
+  "id": "osm-18960880",
+  "slug": "nore-hill-folly-walk-slindon-18960880",
+  "name": "Nore Hill Folly walk, Slindon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8768446,
+    "lon": -0.6666449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18960880
+  }
+}

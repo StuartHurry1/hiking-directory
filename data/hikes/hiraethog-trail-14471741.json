@@ -1,0 +1,21 @@
+{
+  "id": "osm-14471741",
+  "slug": "hiraethog-trail-14471741",
+  "name": "Hiraethog Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 149.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.058049,
+    "lon": -3.6893521
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14471741
+  }
+}

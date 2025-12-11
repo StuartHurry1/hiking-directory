@@ -1,0 +1,44 @@
+{
+  "id": "osm-16148309",
+  "slug": "bicester-north-east-health-route-16148309",
+  "name": "Bicester North East Health Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9028006,
+    "lon": -1.1447312
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16148309
+  },
+  "ai": {
+    "summary": "A 13.8 km moderate hike in the UK on the Bicester North East Health Route. The route offers a varied, mid-length walk with mixed terrain and gentle to moderate gradients, suitable for walkers with some experience.",
+    "terrain_summary": "Mixed terrain including paved sections, gravel or grassy paths, and rural field routes. Expect gentle climbs, uneven footing, and potential mud after rain. Stiles and gates may require basic navigation and gate etiquette.",
+    "safety_notes": "Plan according to weather; UK conditions can change quickly. Wear sturdy footwear and suitable clothing for mixed terrain. Bring a map or GPS, and keep to public paths; respect gates and livestock. Stay hydrated and carry snacks. Be mindful of daylight hours and carry a light source if there is a chance of dusk. If walking with others or children, ensure supervision. Inform someone of your route and expected return time. Mobile signal may be limited in rural sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weatherproof jacket and layers",
+      "Water bottle and snacks",
+      "Map, compass, or GPS device",
+      "Phone with offline access and portable charger",
+      "Sun protection (hat and sunscreen)",
+      "Small first-aid kit",
+      "Headlamp or flashlight",
+      "Extra socks",
+      "Rucksack or daypack"
+    ],
+    "best_seasons": "Spring to autumn for best conditions; winter walks can be chilly, wet, and muddy with shorter daylight hours.",
+    "seo": {
+      "title": "Bicester North East Health Route – 13.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the 13.8 km Bicester North East Health Route in the UK. A moderate, varied terrain hike with practical safety tips and packing recommendations.",
+      "h1": "Bicester North East Health Route – 13.8 km Moderate Hike (UK)"
+    }
+  }
+}

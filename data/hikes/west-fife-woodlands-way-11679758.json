@@ -1,0 +1,21 @@
+{
+  "id": "osm-11679758",
+  "slug": "west-fife-woodlands-way-11679758",
+  "name": "West Fife Woodlands Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0772779,
+    "lon": -3.6127465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11679758
+  }
+}

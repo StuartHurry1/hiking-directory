@@ -1,0 +1,23 @@
+{
+  "id": "osm-8489823",
+  "slug": "whithorn-way-fisherton-a719-to-maybole-8489823",
+  "name": "Whithorn Way (Fisherton (A719) to Maybole)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.3527418,
+    "lon": -4.6859709
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8489823
+  }
+}

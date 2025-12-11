@@ -1,0 +1,21 @@
+{
+  "id": "osm-18722201",
+  "slug": "leasowes-and-coombeswood-countryside-walk-18722201",
+  "name": "Leasowes & Coombeswood Countryside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4563429,
+    "lon": -2.0370999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18722201
+  }
+}

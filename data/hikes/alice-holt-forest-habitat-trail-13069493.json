@@ -1,0 +1,40 @@
+{
+  "id": "osm-13069493",
+  "slug": "alice-holt-forest-habitat-trail-13069493",
+  "name": "Alice Holt Forest: Habitat Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1704788,
+    "lon": -0.8385753
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13069493
+  },
+  "ai": {
+    "summary": "A short, easy 2 km woodland walk on the Habitat Trail through Alice Holt Forest in the UK—perfect for families and casual walkers seeking a shaded, peaceful outing with habitat-focused interpretation along the way.",
+    "terrain_summary": "Flat to gently rolling woodland trails with compact dirt surfaces, some roots and damp patches. Well-marked paths with shade from trees; be prepared for seasonal mud after rain.",
+    "safety_notes": "Wear sturdy footwear and bring water. Stay on marked paths, yield to cyclists and other hikers, and supervise children. Watch for roots and uneven ground; use caution in wet conditions. Check for ticks in woodland areas and plan for sudden weather changes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate layers (jacket, hat)",
+      "Map or offline trail app",
+      "Insect repellent",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year round; spring and autumn are especially pleasant with milder temperatures and good scenery.",
+    "seo": {
+      "title": "Alice Holt Forest Habitat Trail – 2 km Easy Walk in the UK",
+      "meta_description": "Discover the 2 km Habitat Trail at Alice Holt Forest, UK. An easy, family-friendly woodland walk with gentle terrain, safety tips, and gear recommendations.",
+      "h1": "Alice Holt Forest Habitat Trail – 2 km Easy Walk"
+    }
+  }
+}

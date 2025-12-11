@@ -1,0 +1,40 @@
+{
+  "id": "osm-14279774",
+  "slug": "boscombe-arts-trail-14279774",
+  "name": "Boscombe Arts Trail.",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.720493,
+    "lon": -1.8434171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14279774
+  },
+  "ai": {
+    "summary": "An easy 2.1 km urban trail through Boscombe's public art spaces and seafront streets. This family-friendly route offers a relaxed stroll with art installations and coastal views in the United Kingdom.",
+    "terrain_summary": "Predominantly flat and paved, with sidewalks, pedestrian paths, and occasional boardwalk sections. The route runs along coastal streets and through art installations, featuring curb crossings and light urban traffic.",
+    "safety_notes": "Suitable for all ages and weather conditions; check for any temporary closures or events on the day of your visit. Stay aware of pedestrians and cyclists on shared paths, use crossings where indicated, and wear sturdy, comfortable shoes. Bring a light jacket if it’s windy and a bottle of water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight, weather-appropriate clothing",
+      "Water bottle",
+      "Smartphone with maps or offline directions",
+      "Sunscreen and sunglasses for sunny days",
+      "Small daypack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the trail can be enjoyed year-round with appropriate clothing and weather planning.",
+    "seo": {
+      "title": "Boscombe Arts Trail – Easy 2.1 km Walk in the United Kingdom",
+      "meta_description": "Discover the Boscombe Arts Trail, a 2.1 km easy urban walk in the UK. Flat terrain, public art, and seaside highlights—perfect for families and casual hikers.",
+      "h1": "Boscombe Arts Trail (2.1 km) – Easy Walk in the United Kingdom"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774700",
+  "slug": "parkland-walk-oxburgh-estate-19774700",
+  "name": "Parkland Walk, Oxburgh Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5825771,
+    "lon": 0.5733145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774700
+  }
+}

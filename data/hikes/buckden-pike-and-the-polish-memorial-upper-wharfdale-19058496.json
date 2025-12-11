@@ -1,0 +1,47 @@
+{
+  "id": "osm-19058496",
+  "slug": "buckden-pike-and-the-polish-memorial-upper-wharfdale-19058496",
+  "name": "Buckden Pike and the Polish Memorial, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.187379,
+    "lon": -2.0938837
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19058496
+  },
+  "ai": {
+    "summary": "A demanding 29.2 km ridge hike in Upper Wharfedale, linking Buckden Pike with the Polish Memorial. The route features long ascents, exposed summits, and sweeping views, offering a classic hard ridge walk in the UK.",
+    "terrain_summary": "High-level ridge terrain with grassy and rocky paths, exposed summits, and occasional boggy sections. Expect stony descents, strong winds, and navigation along a continuous ridge between Buckden Pike and the Polish Memorial.",
+    "safety_notes": "Exposed ridges and rapidly changing weather require solid navigation and pacing. Carry a map and compass (and know how to use them), and plan for a full-day hike. Wear sturdy boots and layered, weatherproof clothing; bring a warm layer for the summit wind. Check the forecast, bring extra water and high-energy food, and have a plan for detours or turning back in poor conditions. Stay on marked paths where shown and inform someone of your route and expected return. Dogs may need to be kept under control or avoided on certain sections.",
+    "recommended_gear": [
+      "Orienteering map and compass (and optional GPS)",
+      "Sturdy waterproof hiking boots",
+      "Waterproof and windproof jacket and pants",
+      "Insulating layers and a warm hat/gloves",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Water and high-energy snacks (plus electrolyte if needed)",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp with spare batteries",
+      "Ridge-friendly trekking poles (optional)",
+      "Emergency bivy or space blanket",
+      "Phone with offline maps and a portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September). The route is challenging in winter due to exposure and navigation difficulties; plan for shorter daylight hours and harsher conditions.",
+    "seo": {
+      "title": "Buckden Pike and the Polish Memorial Ridge Walk | Upper Wharfdale, UK",
+      "meta_description": "Tackle the 29.2 km Buckden Pike and Polish Memorial ridge walk in Upper Wharfedale. Hard terrain, exposed summits, and panoramic views. Safety tips, gear, and best seasons.",
+      "h1": "Buckden Pike and the Polish Memorial Ridge Walk"
+    }
+  }
+}

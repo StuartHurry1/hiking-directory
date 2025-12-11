@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763740",
+  "slug": "pentland-way-glencorse-reservoir-to-swanston-19763740",
+  "name": "Pentland Way (Glencorse Reservoir to Swanston)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8621897,
+    "lon": -3.2491668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763740
+  }
+}

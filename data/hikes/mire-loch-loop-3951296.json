@@ -1,0 +1,21 @@
+{
+  "id": "osm-3951296",
+  "slug": "mire-loch-loop-3951296",
+  "name": "Mire Loch Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9138013,
+    "lon": -2.1472765
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3951296
+  }
+}

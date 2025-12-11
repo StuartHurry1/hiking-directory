@@ -1,0 +1,42 @@
+{
+  "id": "osm-126292",
+  "slug": "bunny-old-wood-nature-trail-126292",
+  "name": "Bunny Old Wood Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8486022,
+    "lon": -1.1405095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 126292
+  },
+  "ai": {
+    "summary": "Bunny Old Wood Nature Trail is a short, easy 2.1 km woodland walk in the UK. It’s suitable for families and casual hikers, offering shaded paths through a quiet woodland with a gentle pace and accessible terrain.",
+    "terrain_summary": "The trail is mostly flat with gentle undulations. Surfaces are a mix of dirt and gravel, with some compacted sections. Expect shaded woodland, occasional tree roots, and possible damp patches after rain.",
+    "safety_notes": "- Wear sturdy, waterproof footwear. - Stay on marked paths and follow any posted signs. - Watch for uneven surfaces, roots, and slippery spots, especially after rain. - Check weather and daylight; plan to finish before dusk. - Bring water and a small snack; supervise children. - Respect wildlife, keep your distance, and leave no trace.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and a light snack",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Map, GPS, or offline map of the trail",
+      "Small first aid kit",
+      "Mobile phone with emergency numbers",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring and autumn are ideal for comfortable temperatures and pleasant scenery; summer is fine with longer daylight, while winter can be muddy and more challenging.",
+    "seo": {
+      "title": "Bunny Old Wood Nature Trail - Easy 2.1 km Woodland Walk in the UK",
+      "meta_description": "Discover Bunny Old Wood Nature Trail, a 2.1 km easy woodland walk in the UK. Family friendly, shaded paths, gentle terrain, and scenic woodland.",
+      "h1": "Bunny Old Wood Nature Trail — Easy 2.1 km Woodland Walk in the UK"
+    }
+  }
+}

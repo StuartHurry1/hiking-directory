@@ -1,0 +1,21 @@
+{
+  "id": "osm-18555369",
+  "slug": "weddell-wynd-circular-health-walk-18555369",
+  "name": "Weddell Wynd Circular Health Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5454131,
+    "lon": -2.0567975
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18555369
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19697043",
+  "slug": "hidden-hindhead-walking-trail-hindhead-19697043",
+  "name": "Hidden Hindhead Walking Trail, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1103533,
+    "lon": -0.7122219
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697043
+  }
+}

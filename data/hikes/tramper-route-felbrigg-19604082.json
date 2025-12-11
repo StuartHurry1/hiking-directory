@@ -1,0 +1,21 @@
+{
+  "id": "osm-19604082",
+  "slug": "tramper-route-felbrigg-19604082",
+  "name": "Tramper Route, Felbrigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9070252,
+    "lon": 1.2617449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19604082
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19211321",
+  "slug": "kinder-scout-circular-walk-high-peak-19211321",
+  "name": "Kinder Scout Circular Walk, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3703507,
+    "lon": -1.8174396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19211321
+  }
+}

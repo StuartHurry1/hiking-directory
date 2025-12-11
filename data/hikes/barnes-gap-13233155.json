@@ -1,0 +1,44 @@
+{
+  "id": "osm-13233155",
+  "slug": "barnes-gap-13233155",
+  "name": "Barnes Gap",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7592248,
+    "lon": -7.1443404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13233155
+  },
+  "ai": {
+    "summary": "Barnes Gap is a gentle 5.5 km hike in the United Kingdom, suitable for beginners and families. The route follows well-maintained paths with mostly flat terrain and light elevation gains, offering scenic countryside views. This easy outing typically takes 1.5–2.5 hours depending on pace and stops.",
+    "terrain_summary": "Terrain consists of grassy paths, compact dirt trails, and occasional rocky or muddy patches. Expect gentle inclines and some uneven sections. The track is generally well-marked, but weather can make surfaces slippery.",
+    "safety_notes": "Always check the forecast and daylight hours. Wear sturdy footwear and dress for changing UK weather. Carry water and snacks, and let someone know your plan. Bring a map or GPS; mobile reception can be patchy in rural areas. Watch for livestock, cyclists, or other hikers, and stay on marked paths. If fog or rain reduces visibility, turn back.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layering, rain jacket)",
+      "Map, GPS device, or fully charged smartphone with offline map",
+      "Small first-aid kit",
+      "Snacks",
+      "Hat and sunscreen",
+      "Emergency whistle",
+      "Lightweight waterproof backpack",
+      "Phone with emergency numbers handy"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–September) are ideal for Barnes Gap. Winter hikes are possible with proper gear but can be challenging.",
+    "seo": {
+      "title": "Barnes Gap Hike - Easy 5.5 km Walk in the UK",
+      "meta_description": "Explore Barnes Gap, an easy 5.5 km hike in the United Kingdom. Learn about terrain, safety tips, best seasons, and gear for a comfortable day outdoors.",
+      "h1": "Barnes Gap: Easy 5.5 km UK Hike"
+    }
+  }
+}

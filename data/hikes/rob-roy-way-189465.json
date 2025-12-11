@@ -1,0 +1,21 @@
+{
+  "id": "osm-189465",
+  "slug": "rob-roy-way-189465",
+  "name": "Rob Roy Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 414.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.065778,
+    "lon": -4.4523916
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 189465
+  }
+}

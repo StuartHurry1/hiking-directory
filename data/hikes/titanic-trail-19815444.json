@@ -1,0 +1,21 @@
+{
+  "id": "osm-19815444",
+  "slug": "titanic-trail-19815444",
+  "name": "Titanic Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5967696,
+    "lon": -5.9291572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19815444
+  }
+}

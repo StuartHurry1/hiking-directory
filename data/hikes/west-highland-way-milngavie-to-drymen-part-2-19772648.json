@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772648",
+  "slug": "west-highland-way-milngavie-to-drymen-part-2-19772648",
+  "name": "West Highland Way (Milngavie to Drymen part 2)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.985901,
+    "lon": -4.345764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772648
+  }
+}

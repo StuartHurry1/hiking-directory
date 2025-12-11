@@ -1,0 +1,21 @@
+{
+  "id": "osm-13029610",
+  "slug": "pymmes-brook-trail-link-13029610",
+  "name": "Pymmes Brook Trail Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6583094,
+    "lon": -0.2009311
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13029610
+  }
+}

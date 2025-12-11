@@ -1,0 +1,21 @@
+{
+  "id": "osm-11048758",
+  "slug": "steep-hill-11048758",
+  "name": "Steep Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2336801,
+    "lon": -0.5387732
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11048758
+  }
+}

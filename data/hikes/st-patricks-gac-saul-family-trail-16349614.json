@@ -1,0 +1,21 @@
+{
+  "id": "osm-16349614",
+  "slug": "st-patricks-gac-saul-family-trail-16349614",
+  "name": "St Patrick's GAC - Saul Family Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3500413,
+    "lon": -5.6524032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16349614
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19735099",
+  "slug": "rhosili-down-hillend-and-beach-walk-19735099",
+  "name": "Rhosili Down, Hillend and beach walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5690301,
+    "lon": -4.290019
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19735099
+  }
+}

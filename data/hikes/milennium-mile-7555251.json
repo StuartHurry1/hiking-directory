@@ -1,0 +1,21 @@
+{
+  "id": "osm-7555251",
+  "slug": "milennium-mile-7555251",
+  "name": "Milennium Mile",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1190635,
+    "lon": -2.7703969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7555251
+  }
+}

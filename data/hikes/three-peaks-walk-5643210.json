@@ -1,0 +1,21 @@
+{
+  "id": "osm-5643210",
+  "slug": "three-peaks-walk-5643210",
+  "name": "Three Peaks Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3678434,
+    "lon": -2.6054267
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5643210
+  }
+}

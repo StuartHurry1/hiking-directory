@@ -1,0 +1,23 @@
+{
+  "id": "osm-5903971",
+  "slug": "king-charles-iii-england-coast-path-camber-to-folkestone-5903971",
+  "name": "King Charles III England Coast Path: Camber to Folkestone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 65,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9329701,
+    "lon": 0.7955095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5903971
+  }
+}

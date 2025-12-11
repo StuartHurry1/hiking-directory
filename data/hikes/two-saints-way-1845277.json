@@ -1,0 +1,21 @@
+{
+  "id": "osm-1845277",
+  "slug": "two-saints-way-1845277",
+  "name": "Two Saints Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 305.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1913014,
+    "lon": -2.8917608
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1845277
+  }
+}

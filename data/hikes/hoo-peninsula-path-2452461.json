@@ -1,0 +1,21 @@
+{
+  "id": "osm-2452461",
+  "slug": "hoo-peninsula-path-2452461",
+  "name": "Hoo Peninsula Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 102.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.484882,
+    "lon": 0.5317305
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2452461
+  }
+}

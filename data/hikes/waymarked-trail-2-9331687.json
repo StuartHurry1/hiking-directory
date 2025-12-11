@@ -1,0 +1,21 @@
+{
+  "id": "osm-9331687",
+  "slug": "waymarked-trail-2-9331687",
+  "name": "Waymarked Trail 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9453755,
+    "lon": -1.0981869
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9331687
+  }
+}

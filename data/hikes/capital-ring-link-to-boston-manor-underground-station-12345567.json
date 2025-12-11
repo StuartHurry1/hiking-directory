@@ -1,0 +1,21 @@
+{
+  "id": "osm-12345567",
+  "slug": "capital-ring-link-to-boston-manor-underground-station-12345567",
+  "name": "Capital Ring link to Boston Manor underground station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4973027,
+    "lon": -0.3300292
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12345567
+  }
+}

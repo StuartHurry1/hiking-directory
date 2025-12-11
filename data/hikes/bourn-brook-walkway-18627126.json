@@ -1,0 +1,42 @@
+{
+  "id": "osm-18627126",
+  "slug": "bourn-brook-walkway-18627126",
+  "name": "Bourn Brook Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4475633,
+    "lon": -1.9391091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18627126
+  },
+  "ai": {
+    "summary": "A gentle 5.8 km riverside stroll along Bourn Brook in the UK. The easy route suits families and casual walkers, offering calm water views, shaded sections, and a mostly flat course along woodland edges and open banks.",
+    "terrain_summary": "The surface is predominantly flat and well maintained, with a mix of compacted dirt, gravel, and short wooden boardwalks. Expect some muddy patches after rain and a few uneven spots near the brook; sections can be exposed in open stretches, while shaded segments provide relief.",
+    "safety_notes": "Wear sturdy shoes and appropriate clothing. Check the forecast and be mindful of possible water level rises after rain. Slippery surfaces can occur on wet boardwalks and near the water's edge; supervise children and keep dogs under control. Stay on marked paths and carry a map or mobile device; signal may be limited in parts of the route. Bring water and a small first aid kit if needed.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat, sunscreen)",
+      "Lightweight backpack",
+      "Snacks or a small picnic",
+      "Basic first aid kit",
+      "Mobile phone with offline map (if possible)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal due to mild weather and pleasant scenery. The walk is still possible in winter, but footing can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Bourn Brook Walkway – Easy 5.8 km UK River Walk",
+      "meta_description": "Discover an easy 5.8 km riverside stroll along the Bourn Brook in the UK. Flat, family-friendly terrain with water views, woodlands, and relaxed scenery.",
+      "h1": "Bourn Brook Walkway: Easy 5.8 km River Walk in the UK"
+    }
+  }
+}

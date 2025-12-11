@@ -1,0 +1,21 @@
+{
+  "id": "osm-19556837",
+  "slug": "park-seat-circular-walk-croome-19556837",
+  "name": "Park Seat Circular Walk, Croome",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0913086,
+    "lon": -2.163451
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19556837
+  }
+}

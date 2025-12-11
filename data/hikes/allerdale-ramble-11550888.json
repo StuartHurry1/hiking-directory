@@ -1,0 +1,47 @@
+{
+  "id": "osm-11550888",
+  "slug": "allerdale-ramble-11550888",
+  "name": "Allerdale Ramble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6562227,
+    "lon": -3.2009449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11550888
+  },
+  "ai": {
+    "summary": "Allerdale Ramble is a demanding 30.4 km hike in the UK, designed for experienced walkers. The route combines long stretches of countryside trails with varied terrain and occasional road sections. Accurate navigation and good stamina are essential to complete this hard distance trek in a single day or over multiple stages.",
+    "terrain_summary": "Expect a mix of well defined footpaths, field edges, woodland tracks, and rough moorland in places. Elevation changes are steady but cumulative, with some exposed sections where weather can impact visibility. Footing may be uneven, with boggy patches after rain and occasional rocky steps. Depending on the route, you may encounter gates, stiles crossings, and occasional road walking.",
+    "safety_notes": "General safety: This is a long and strenuous hike. Check the weather forecast and daylight hours before you go. Do not rely on mobile signal; carry a map and compass and know how to use them. Tell someone your planned route and expected return time. Start early to ensure you have enough daylight. Hydration and nutrition: bring ample water and high energy foods. Footwear and clothing: wear sturdy ankle support boots and dress in layers with a waterproof shell. Pack extra socks, hat, and gloves. Navigation and equipment: carry a detailed map, compass, and a fully charged phone as a backup; bring a headlamp and spare batteries. Safety gear: first aid kit, whistle, emergency blanket or bivy. In remote sections be prepared for sudden weather changes and fog; if conditions deteriorate, consider turning back or seeking shelter and safe options. Leave no trace and respect livestock and gates.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Weather-appropriate clothing (base layer, insulating layer, waterproof outer layer)",
+      "Rucksack (20–30 L) with rain cover",
+      "Water supplies (2 L+) and high-energy snacks",
+      "Map and compass (GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit suitable for remote hiking",
+      "Whistle and emergency blanket or bivy",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Extra socks and gloves",
+      "Trekking poles (optional but helpful)",
+      "Mobile phone with offline maps and a power bank",
+      "Personal identification and health information"
+    ],
+    "best_seasons": "Late spring to early autumn (April–September) for most reliable conditions; winter hikes are possible with extra gear and shorter daylight.",
+    "seo": {
+      "title": "Allerdale Ramble – 30.4 km Hard Hike in the UK",
+      "meta_description": "Explore Allerdale Ramble, a challenging 30.4 km hike in the UK. Learn terrain, safety tips, best seasons, and gear to tackle this demanding long-distance trek.",
+      "h1": "Allerdale Ramble (30.4 km) – UK Hard Hike"
+    }
+  }
+}

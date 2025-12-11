@@ -1,0 +1,21 @@
+{
+  "id": "osm-8122887",
+  "slug": "haydon-way-wood-trail-8122887",
+  "name": "Haydon Way Wood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2577651,
+    "lon": -1.8771332
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8122887
+  }
+}

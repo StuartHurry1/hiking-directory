@@ -1,0 +1,43 @@
+{
+  "id": "osm-5844590",
+  "slug": "braes-loan-circular-historical-trail-5844590",
+  "name": "Braes Loan Circular Historical Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2037842,
+    "lon": -3.1136274
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5844590
+  },
+  "ai": {
+    "summary": "Braes Loan Circular Historical Trail is an 8.4 km circular hike in the UK offering a moderate challenge through varied terrain and rural scenery. The loop returns to the start point, with gentle ascents, hedgerows, and open fields along the way.",
+    "terrain_summary": "Varied terrain includes well-defined paths, grassy sections, and occasional uneven ground. Expect a mix of rural lanes and woodland edges, with some short climbs and potential muddy patches after rain.",
+    "safety_notes": "Check the weather forecast before you go and be prepared for sudden changes. Wear sturdy footwear and bring appropriate clothing. Stay on marked paths, and be mindful of livestock and road crossings in rural sections. Carry a map or device for navigation, tell someone your plans, and ensure your phone is charged. Keep dogs under control where allowed and be mindful of others using the trail.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass or GPS device",
+      "Phone with charged battery and emergency contacts",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Headtorch or flashlight (for low-light conditions)",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes possible with extra care and suitable gear",
+    "seo": {
+      "title": "Braes Loan Circular Historical Trail – 8.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the Braes Loan Circular Historical Trail, an 8.4 km moderate hike in the UK. Enjoy varied terrain, gentle climbs, and rural scenery along a circular route that starts and ends at the same point.",
+      "h1": "Braes Loan Circular Historical Trail (8.4 km) – Moderate Hike in the UK"
+    }
+  }
+}

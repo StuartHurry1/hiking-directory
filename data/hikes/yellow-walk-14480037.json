@@ -1,0 +1,21 @@
+{
+  "id": "osm-14480037",
+  "slug": "yellow-walk-14480037",
+  "name": "Yellow Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.874465,
+    "lon": -3.5106439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14480037
+  }
+}

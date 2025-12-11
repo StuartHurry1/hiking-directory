@@ -1,0 +1,21 @@
+{
+  "id": "osm-8450999",
+  "slug": "the-inn-way-8450999",
+  "name": "The Inn Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 406.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3332243,
+    "lon": -1.1272048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8450999
+  }
+}

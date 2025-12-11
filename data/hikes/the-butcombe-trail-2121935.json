@@ -1,0 +1,21 @@
+{
+  "id": "osm-2121935",
+  "slug": "the-butcombe-trail-2121935",
+  "name": "The Butcombe Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 129.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3101117,
+    "lon": -2.5829318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2121935
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507986",
+  "slug": "haroldswick-11507986",
+  "name": "Haroldswick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7978972,
+    "lon": -0.8150065
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507986
+  }
+}

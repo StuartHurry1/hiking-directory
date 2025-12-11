@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507967",
+  "slug": "the-nev-11507967",
+  "name": "The Nev",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1683938,
+    "lon": -1.4918402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507967
+  }
+}

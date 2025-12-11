@@ -1,0 +1,49 @@
+{
+  "id": "osm-16051642",
+  "slug": "bournemouth-coast-path-16051642",
+  "name": "Bournemouth Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7102645,
+    "lon": -1.9016626
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16051642
+  },
+  "ai": {
+    "summary": "A 25.1 km hard coastal hike along the Bournemouth coast in the UK, featuring dramatic cliff views, sandy beaches, and varied terrain from cliff-top paths to beach stretches. Route details assume a single-day outing and may pass exposed sections near the sea.",
+    "terrain_summary": "Mostly coastal trails with a mix of cliff-top paths, shingle and sandy beaches, steps, and uneven surfaces. Expect exposed sections with strong winds, sea spray, and occasional muddy sections after rain.",
+    "safety_notes": "Check tide times before beach sections; stay back from cliff edges and avoid unstable sections. Weather can change rapidly; be prepared for wind and rain. Wear sturdy footwear, carry a map or GPS, and bring adequate water and snacks. Tell someone your planned route and expected return time; carry a charged phone and basic first-aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Map and compass or GPS",
+      "Water bottle or hydration system",
+      "Snacks and emergency energy",
+      "First-aid kit",
+      "Phone and portable charger",
+      "Lightweight rain pants",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Headlamp or flashlight (optional)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March–September) for milder weather and better daylight; be aware that coastal winds can be stronger and weather more unpredictable in autumn and winter.",
+    "seo": {
+      "title": "Bournemouth Coast Path – 25.1 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore Bournemouth Coast Path: a 25.1 km hard coastal hike along the UK's south coast. Expect dramatic cliffs, beaches, and vigorous coastal terrain.",
+      "h1": "Bournemouth Coast Path: 25.1 km Hard Coastal Hike"
+    }
+  }
+}

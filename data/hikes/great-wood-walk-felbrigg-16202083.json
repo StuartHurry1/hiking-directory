@@ -1,0 +1,23 @@
+{
+  "id": "osm-16202083",
+  "slug": "great-wood-walk-felbrigg-16202083",
+  "name": "Great Wood Walk, Felbrigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9085463,
+    "lon": 1.2515975
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16202083
+  }
+}

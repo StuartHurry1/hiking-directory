@@ -1,0 +1,21 @@
+{
+  "id": "osm-4444882",
+  "slug": "trans-pennine-trail-warrington-to-ashton-upon-mersey-4444882",
+  "name": "Trans-Pennine Trail (Warrington to Ashton-upon-Mersey)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 47.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.379105,
+    "lon": -2.5600888
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4444882
+  }
+}

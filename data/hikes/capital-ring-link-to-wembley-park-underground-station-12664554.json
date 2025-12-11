@@ -1,0 +1,21 @@
+{
+  "id": "osm-12664554",
+  "slug": "capital-ring-link-to-wembley-park-underground-station-12664554",
+  "name": "Capital Ring link to Wembley Park underground station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5726648,
+    "lon": -0.2798166
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12664554
+  }
+}

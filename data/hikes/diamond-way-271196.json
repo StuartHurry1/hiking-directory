@@ -1,0 +1,21 @@
+{
+  "id": "osm-271196",
+  "slug": "diamond-way-271196",
+  "name": "Diamond Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 238.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9902226,
+    "lon": -1.7031427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 271196
+  }
+}

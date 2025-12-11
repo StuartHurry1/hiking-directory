@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761175",
+  "slug": "the-park-circular-walk-at-ankerwycke-19761175",
+  "name": "The Park Circular Walk at Ankerwycke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4463309,
+    "lon": -0.5567929
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761175
+  }
+}

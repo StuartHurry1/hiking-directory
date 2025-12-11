@@ -1,0 +1,45 @@
+{
+  "id": "osm-19086876",
+  "slug": "bogle-burn-trail-19086876",
+  "name": "Bogle Burn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4512426,
+    "lon": -3.1291323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19086876
+  },
+  "ai": {
+    "summary": "Bogle Burn Trail is a 6.8 km moderate-length hike in the UK. The route offers a steady pace with varied terrain, including forested sections and open ground. Expect a mix of well-defined paths and natural surfaces with some elevation gain and potential muddy patches. It suits hikers with moderate fitness and comfortable footwear.",
+    "terrain_summary": "Varied terrain with a mix of well-defined trails, dirt tracks and occasional wet or muddy sections. Gentle to moderate elevation changes, some exposed roots and rocks. Surfaces range from earthy paths to grassy tracks and compacted dirt.",
+    "safety_notes": "Check local weather and daylight hours before you go. Wear sturdy waterproof footwear and layerable clothing; bring a waterproof jacket. Carry a map or GPS and a compass, even on familiar routes. Stay on marked paths, watch for mud and slippery surfaces after rain, and be prepared for sudden weather changes. Tell someone your plans and expected return time. Bring water, snacks, a basic first aid kit, a whistle, and a fully charged phone. In low-visibility conditions, consider a headtorch.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Map or GPS device",
+      "Compass (optional but helpful)",
+      "Extra layers (fleece/wool)",
+      "Snack or energy bars",
+      "Basic first aid kit",
+      "Whistle",
+      "Headlamp or flashlight (in case of low light)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); winter conditions can be muddy, with shorter daylight hours and stronger winds.",
+    "seo": {
+      "title": "Bogle Burn Trail – 6.8 km Moderate Hike in the UK",
+      "meta_description": "Discover Bogle Burn Trail, a 6.8 km moderate hike in the UK. Learn about terrain, safety, and essential gear to enjoy this scenic UK route.",
+      "h1": "Bogle Burn Trail – 6.8 km Moderate Hike (UK)"
+    }
+  }
+}

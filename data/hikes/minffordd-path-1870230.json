@@ -1,0 +1,21 @@
+{
+  "id": "osm-1870230",
+  "slug": "minffordd-path-1870230",
+  "name": "Minffordd Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6869621,
+    "lon": -3.8825418
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1870230
+  }
+}

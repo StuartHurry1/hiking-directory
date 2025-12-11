@@ -1,0 +1,21 @@
+{
+  "id": "osm-2739209",
+  "slug": "great-fen-trail-2739209",
+  "name": "Great Fen Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3814097,
+    "lon": 1.0141265
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2739209
+  }
+}

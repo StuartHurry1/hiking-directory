@@ -1,0 +1,21 @@
+{
+  "id": "osm-228450",
+  "slug": "two-moors-way-228450",
+  "name": "Two Moors Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 412.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3906928,
+    "lon": -3.9196218
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 228450
+  }
+}

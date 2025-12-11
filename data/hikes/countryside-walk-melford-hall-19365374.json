@@ -1,0 +1,21 @@
+{
+  "id": "osm-19365374",
+  "slug": "countryside-walk-melford-hall-19365374",
+  "name": "Countryside Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.083523,
+    "lon": 0.7217372
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365374
+  }
+}

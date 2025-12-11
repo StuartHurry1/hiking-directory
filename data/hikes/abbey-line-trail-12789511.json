@@ -1,0 +1,46 @@
+{
+  "id": "osm-12789511",
+  "slug": "abbey-line-trail-12789511",
+  "name": "Abbey Line Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.745309,
+    "lon": -0.3430805
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12789511
+  },
+  "ai": {
+    "summary": "Abbey Line Trail is a challenging 36.4 km long-distance hike in the UK, following a historic rail corridor and featuring mixed terrain from rural fields to urban stretches. Designed for experienced hikers, the route demands good stamina, navigation, and careful planning due to variable conditions and limited services along the way.",
+    "terrain_summary": "The trail traverses a mix of surfaces: timber/grassland tracks, compacted railbed sections, gravel paths, canal towpaths, farm tracks, woodland paths, and occasional road crossings. Expect uneven surfaces, loose stones, wet ground after rain, and some exposed or ridgeline sections. Elevation is variable but can include steep climbs and long gentle gradients; plan for long, steady days.",
+    "safety_notes": "Plan each stage with daylight and weather in mind. Carry a detailed map and compass (and a GPS as backup), informing someone of your planned route and times. UK weather can change quickly; bring waterproofs and warm layers, plus a headtorch and spare batteries. Be prepared for remote stretches with limited mobile signal and transport options; have a plan for contingencies or shorter sections. Respect rights of way and farm access closures; carry emergency contact info.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and waterproof trousers",
+      "Insulating layers and hat/gloves",
+      "Map and compass (and/or GPS device) with planned route",
+      "Fully charged phone and portable charger",
+      "Water (2–3 liters) and high-energy snacks",
+      "First aid kit with blister care",
+      "Emergency whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen, sunglasses",
+      "Lightweight emergency shelter or bivy bag",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Best from spring to autumn (roughly March to October) for longer daylight and more stable conditions. Winter hiking is possible with experience, extra planning, and shorter daylight hours.",
+    "seo": {
+      "title": "Abbey Line Trail – 36.4 km Hard Hike in the UK",
+      "meta_description": "Discover the Abbey Line Trail: a challenging 36.4 km UK long-distance hike. terrain, safety tips, and essential gear for a well-planned trek along this historic rail corridor.",
+      "h1": "Abbey Line Trail: A 36.4 km Hard Hike in the UK"
+    }
+  }
+}

@@ -82,4 +82,6 @@ Thumbs.db
 
 # Huge raw postcode CSV - keep local only
 data/uk_postcodes.csv
+# AI enrichment usage log
+data/hike-enrichment-usage.csv
 

@@ -1,0 +1,45 @@
+{
+  "id": "osm-18168983",
+  "slug": "aldborough-circular-18168983",
+  "name": "Aldborough Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.862494,
+    "lon": 1.2443807
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18168983
+  },
+  "ai": {
+    "summary": "A 13.5 km circular hike in the UK suitable for walkers with moderate fitness. The route weaves through rural lanes, fields, and light woodland, starting and finishing at the same point with varied scenery and a gentle overall elevation gain.",
+    "terrain_summary": "Mixed terrain including paved country lanes, grassy field edges, and occasional woodland paths. Expect uneven footing, gates and stiles, and occasional mud after rain. The elevation is gentle to moderate, with a few short climbs requiring steady footing.",
+    "safety_notes": "Plan for 4–5 hours of walking and check the weather forecast beforehand. Wear sturdy boots and dress in layers with a waterproof jacket. Carry a map and compass or a reliable GPS device, and have a charged phone as a backup. Be prepared for gates and stiles, livestock, and potential muddy sections. Stay on the marked route and note daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing with a waterproof jacket",
+      "Water bottle (1–2 L)",
+      "Snack/energy food",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Sunscreen and hat",
+      "Lightweight rain shell",
+      "Small first aid kit",
+      "Backpack to carry gear",
+      "Headtorch if planning a late return"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and longer daylight; can be done year-round with appropriate clothing and precautions.",
+    "seo": {
+      "title": "Aldborough Circular – 13.5 km Moderate UK Hike",
+      "meta_description": "Discover the Aldborough Circular, a 13.5 km moderate hike in the UK. Learn about terrain, safety tips, essential gear, and best seasons for this route.",
+      "h1": "Aldborough Circular – 13.5 km Moderate Hike in the UK"
+    }
+  }
+}

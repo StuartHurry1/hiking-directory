@@ -1,0 +1,21 @@
+{
+  "id": "osm-19820415",
+  "slug": "mill-walk-riverside-19820415",
+  "name": "Mill Walk (Riverside)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7596485,
+    "lon": -2.0193896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19820415
+  }
+}

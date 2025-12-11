@@ -1,0 +1,21 @@
+{
+  "id": "osm-13611333",
+  "slug": "gwinear-gwithian-br-44-13611333",
+  "name": "Gwinear-Gwithian BR 44",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2025373,
+    "lon": -5.3435386
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13611333
+  }
+}

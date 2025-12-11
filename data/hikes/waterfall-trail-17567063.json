@@ -1,0 +1,23 @@
+{
+  "id": "osm-17567063",
+  "slug": "waterfall-trail-17567063",
+  "name": "Waterfall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0168856,
+    "lon": -6.1032875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17567063
+  }
+}

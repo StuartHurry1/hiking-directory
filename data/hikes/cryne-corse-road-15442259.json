@@ -1,0 +1,21 @@
+{
+  "id": "osm-15442259",
+  "slug": "cryne-corse-road-15442259",
+  "name": "Cryne Corse Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0151881,
+    "lon": -2.3935663
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15442259
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506693",
+  "slug": "lunga-water-loch-11506693",
+  "name": "Lunga Water Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2591749,
+    "lon": -1.5716055
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506693
+  }
+}

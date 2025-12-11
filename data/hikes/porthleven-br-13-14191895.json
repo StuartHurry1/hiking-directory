@@ -1,0 +1,21 @@
+{
+  "id": "osm-14191895",
+  "slug": "porthleven-br-13-14191895",
+  "name": "Porthleven BR 13",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0889845,
+    "lon": -5.2840801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14191895
+  }
+}

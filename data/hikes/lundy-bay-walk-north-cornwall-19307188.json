@@ -1,0 +1,23 @@
+{
+  "id": "osm-19307188",
+  "slug": "lundy-bay-walk-north-cornwall-19307188",
+  "name": "Lundy Bay walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5791984,
+    "lon": -4.8932424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307188
+  }
+}

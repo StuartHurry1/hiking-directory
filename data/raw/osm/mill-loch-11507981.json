@@ -1,0 +1,33 @@
+{
+  "id": 11507981,
+  "slug": "mill-loch-11507981",
+  "name": "Mill Loch",
+  "network": "lwn",
+  "tags": {
+    "designation": "access_route",
+    "name": "Mill Loch",
+    "network": "lwn",
+    "official_ref": "ARNL02",
+    "route": "hiking",
+    "source": "Shetland Islands Council",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -1.0876484,
+      60.3804837
+    ],
+    [
+      -1.087556,
+      60.3799391
+    ],
+    [
+      -1.0875398,
+      60.3776436
+    ],
+    [
+      -1.0876121,
+      60.376012
+    ]
+  ]
+}

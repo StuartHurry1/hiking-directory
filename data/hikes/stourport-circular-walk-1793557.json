@@ -1,0 +1,21 @@
+{
+  "id": "osm-1793557",
+  "slug": "stourport-circular-walk-1793557",
+  "name": "Stourport Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.337946,
+    "lon": -2.2846555
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1793557
+  }
+}

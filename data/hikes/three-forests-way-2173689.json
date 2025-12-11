@@ -1,0 +1,21 @@
+{
+  "id": "osm-2173689",
+  "slug": "three-forests-way-2173689",
+  "name": "Three Forests Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 206.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6697573,
+    "lon": 0.1872579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2173689
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2170176",
+  "slug": "upper-crags-2170176",
+  "name": "Upper Crags",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2476693,
+    "lon": -4.2235856
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2170176
+  }
+}

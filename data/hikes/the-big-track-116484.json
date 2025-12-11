@@ -1,0 +1,21 @@
+{
+  "id": "osm-116484",
+  "slug": "the-big-track-116484",
+  "name": "The Big Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9223681,
+    "lon": -1.1728533
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 116484
+  }
+}

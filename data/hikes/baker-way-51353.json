@@ -1,0 +1,47 @@
+{
+  "id": "osm-51353",
+  "slug": "baker-way-51353",
+  "name": "Baker Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1964332,
+    "lon": -2.8803776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 51353
+  },
+  "ai": {
+    "summary": "Baker Way is a challenging long-distance hike in the UK, covering 21.7 km with a hard difficulty rating. The route traverses varied countryside and exposed sections, making it suited for experienced hikers seeking a strenuous day on the hills.",
+    "terrain_summary": "Expect a mixture of firm trails, grassy ascents, rocky slabs, and wet moorland. The path may include stiles, livestock fencing, and occasional exposed viewpoints. Navigation is straightforward in clear conditions but can be tricky in mist.",
+    "safety_notes": "This is a long, potentially exposed hike in the UK. Start early, check the forecast, and turn back if conditions deteriorate. Wear sturdy boots and carry adequate clothing, water, and food. Stay on marked paths, carry a map and compass (or GPS with backup), and let someone know your plan and expected return time. Be prepared for weather changes and limited daylight.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (2–3 liters) and high-energy snacks",
+      "Waterproof jacket and insulating layers",
+      "Breathable clothing",
+      "Map and compass (or GPS with backup)",
+      "Headwear and gloves",
+      "Emergency whistle",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen and sunglasses",
+      "Trekking poles",
+      "Weather-appropriate hat",
+      "Phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for this hike due to longer daylight and generally more favorable weather; winter travel is more challenging and hazardous in exposed sections.",
+    "seo": {
+      "title": "Baker Way – 21.7 km Hard Hike in the UK",
+      "meta_description": "Explore Baker Way, a 21.7 km hard hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Baker Way – 21.7 km Hard Hike in the UK"
+    }
+  }
+}

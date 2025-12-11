@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376455",
+  "slug": "south-west-coast-path-section-52-worth-matravers-to-south-haven-point-2376455",
+  "name": "South West Coast Path (Section 52: Worth Matravers to South Haven Point)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5997455,
+    "lon": -2.0556536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376455
+  }
+}

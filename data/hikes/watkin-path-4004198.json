@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004198",
+  "slug": "watkin-path-4004198",
+  "name": "Watkin Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0623711,
+    "lon": -4.0615082
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004198
+  }
+}

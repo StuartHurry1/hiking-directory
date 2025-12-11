@@ -1,0 +1,21 @@
+{
+  "id": "osm-13223278",
+  "slug": "sawpit-hill-walk-springhill-13223278",
+  "name": "Sawpit Hill Walk, Springhill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6876427,
+    "lon": -6.6580089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13223278
+  }
+}

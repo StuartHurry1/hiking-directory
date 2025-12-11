@@ -1,0 +1,21 @@
+{
+  "id": "osm-541128",
+  "slug": "herefordshire-trail-541128",
+  "name": "Herefordshire Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 718.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9431645,
+    "lon": -2.8526791
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 541128
+  }
+}

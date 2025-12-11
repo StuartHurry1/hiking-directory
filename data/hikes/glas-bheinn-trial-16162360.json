@@ -1,0 +1,21 @@
+{
+  "id": "osm-16162360",
+  "slug": "glas-bheinn-trial-16162360",
+  "name": "Glas Bheinn Trial",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.2096345,
+    "lon": -5.00009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16162360
+  }
+}

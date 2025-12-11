@@ -1,0 +1,21 @@
+{
+  "id": "osm-15442281",
+  "slug": "stockmounth-15442281",
+  "name": "Stockmounth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9812293,
+    "lon": -2.4724063
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15442281
+  }
+}

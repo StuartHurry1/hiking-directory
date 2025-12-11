@@ -1,0 +1,21 @@
+{
+  "id": "osm-17686287",
+  "slug": "lisnaharney-public-right-of-way-17686287",
+  "name": "Lisnaharney Public Right of Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7114114,
+    "lon": -7.277255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17686287
+  }
+}

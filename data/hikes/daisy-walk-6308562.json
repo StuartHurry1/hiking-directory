@@ -1,0 +1,21 @@
+{
+  "id": "osm-6308562",
+  "slug": "daisy-walk-6308562",
+  "name": "Daisy Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5808656,
+    "lon": 1.2937458
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6308562
+  }
+}

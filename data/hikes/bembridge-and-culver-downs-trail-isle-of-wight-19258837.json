@@ -1,0 +1,47 @@
+{
+  "id": "osm-19258837",
+  "slug": "bembridge-and-culver-downs-trail-isle-of-wight-19258837",
+  "name": "Bembridge and Culver Downs trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6842488,
+    "lon": -1.0945103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19258837
+  },
+  "ai": {
+    "summary": "A demanding 24-kilometre coastal ridge hike on the Isle of Wight, following Bembridge and Culver Downs with expansive sea views, chalk uplands, and rugged trails.",
+    "terrain_summary": "The route traverses chalk downland and exposed ridges with steep ascents and descents, uneven chalk tracks, and some gravel sections. Expect windy, open sections near the coast and cliff-top portions; surfaces can be loose and weather can change quickly, so navigation and steady footing are essential.",
+    "safety_notes": "Stay on marked paths and away from unstable cliff edges on Bembridge and Culver Downs. Check the weather forecast and be prepared for sudden wind shifts and rain. Carry a map and compass or GPS, and a fully charged phone. Bring enough water and snacks, wear sturdy boots, and plan for a long day due to the 24 km distance. In poor conditions or limited daylight, shorten or split the hike. Keep dogs on a leash where required and watch for signage near sensitive cliff areas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers (base layer, insulation, waterproof shell)",
+      "Water and high-energy snacks (at least 2–3 litres of water)",
+      "Hat, sunglasses, and sun protection",
+      "Map and compass or GPS device (plus charged phone with offline maps)",
+      "Lightweight rain gear and a compact emergency kit",
+      "Small first aid kit and any personal medications",
+      "Whistle and emergency blanket",
+      "Headlamp or flashlight (for potential delays)",
+      "Walking poles (optional but helpful on exposed ridges)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for drier trails and clearer views; winter hikes are possible but more exposed and require extra caution and daylight planning.",
+    "seo": {
+      "title": "Bembridge and Culver Downs Trail – Isle of Wight 24 km Coastal Ridge Walk",
+      "meta_description": "Tackle a challenging 24 km coastal ridge hike on the Isle of Wight, linking Bembridge and Culver Downs with dramatic sea views. Safety tips, terrain notes, and gear recommendations.",
+      "h1": "Bembridge and Culver Downs Trail – Isle of Wight (24 km)"
+    }
+  }
+}

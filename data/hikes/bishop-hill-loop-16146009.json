@@ -1,0 +1,44 @@
+{
+  "id": "osm-16146009",
+  "slug": "bishop-hill-loop-16146009",
+  "name": "Bishop Hill Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2153246,
+    "lon": -3.2502415
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16146009
+  },
+  "ai": {
+    "summary": "The Bishop Hill Loop is a challenging 21.6 km circuit in the UK, suited to experienced hikers. It combines long distance with varied terrain and several ascents, including exposed sections and potential muddy or wet conditions.",
+    "terrain_summary": "Mixed countryside terrain: grassy paths, rocky tracks, hedgerows, and occasional road sections. Expect uphill climbs, uneven footing, and muddy patches after rain; gates and stiles are likely, and navigation may be required in unfamiliar areas.",
+    "safety_notes": "Plan for a full-day hike (approximately 6–8 hours). The UK weather can change quickly, so bring waterproof layers and appropriate clothing. Carry a map and compass (GPS as backup), a fully charged phone with a power bank, and sufficient water (2–3 L) and high-energy snacks. Wear sturdy, waterproof boots and be prepared for uneven, potentially slippery surfaces. Have a lightweight emergency layer or bivvy, sun protection, and basic first aid. Follow markers, monitor livestock where present, and inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves)",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone and portable charger",
+      "Water (2–3 liters) and high-energy snacks",
+      "Headlamp or spare light",
+      "Emergency bivvy or space blanket",
+      "Basic first aid kit",
+      "Optional trekking poles",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn are ideal; winter hiking is possible with extra precautions and shorter daylight.",
+    "seo": {
+      "title": "Bishop Hill Loop - 21.6 km Hard Hike in the UK",
+      "meta_description": "Discover the Bishop Hill Loop, a demanding 21.6 km circuit in the UK. Learn about terrain, safety considerations, and gear for a challenging day hike.",
+      "h1": "Bishop Hill Loop: 21.6 km Hard Hike in the UK"
+    }
+  }
+}

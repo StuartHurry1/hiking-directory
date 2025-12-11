@@ -1,0 +1,21 @@
+{
+  "id": "osm-9710808",
+  "slug": "forest-trail-9710808",
+  "name": "Forest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9439746,
+    "lon": -1.3442946
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9710808
+  }
+}

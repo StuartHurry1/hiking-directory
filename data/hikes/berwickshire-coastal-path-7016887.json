@@ -1,0 +1,48 @@
+{
+  "id": "osm-7016887",
+  "slug": "berwickshire-coastal-path-7016887",
+  "name": "Berwickshire Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 106.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9327047,
+    "lon": -2.3602078
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7016887
+  },
+  "ai": {
+    "summary": "Berwickshire Coastal Path is a challenging 106.1 km long-distance trail along Scotland’s southeast coast. With rugged cliffs, long beaches and estuaries, the route offers dramatic coastal scenery and remote sections. It is rated hard and typically completed over multiple days depending on pace.",
+    "terrain_summary": "The route blends cliff-top paths with sandy beaches, tidal flats, marshlands and boardwalks. Expect uneven footing, mud, exposed winds and occasional steps. Some sections are remote with limited services; plan water, food and navigation accordingly.",
+    "safety_notes": "Check tide times before beach sections and be aware of changing coastal conditions. Weather can shift rapidly with strong winds and spray. Carry a map and compass in addition to a GPS device, and keep a charged phone as a backup. Inform someone of your itinerary with estimated times. Wear sturdy footwear, dress in layers, and be mindful of cliff edges and unstable ground. Daylight hours are short in winter; dial 999 in an emergency.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and pants",
+      "Warm layers (fleece or down) and a hat",
+      "Water bottle or hydration system (2–3 L)",
+      "Map, compass and/or GPS device with charged battery",
+      "Dry bag or waterproof pouch for electronics",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp with extra batteries",
+      "Sunscreen, sunglasses and sun hat",
+      "Snack foods and energy bars",
+      "Rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May to September offers longer daylight, milder conditions and more reliable trail sections. Spring features wildflowers, while autumn can bring quieter trails but increasing weather variability; winter trips are harsher with stronger winds and shorter days and are recommended only for experienced hikers.",
+    "seo": {
+      "title": "Berwickshire Coastal Path: 106 km Coastal Hike in the UK",
+      "meta_description": "Plan a challenging 106.1 km coastal hike along the Berwickshire coast in the United Kingdom. Get terrain details, safety tips, gear recommendations and best seasons.",
+      "h1": "Berwickshire Coastal Path – 106 km Coastal Trek in the UK"
+    }
+  }
+}

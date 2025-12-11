@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507974",
+  "slug": "saewaters-11507974",
+  "name": "Saewaters",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3497028,
+    "lon": -1.2346474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507974
+  }
+}

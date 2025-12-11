@@ -1,0 +1,21 @@
+{
+  "id": "osm-19218358",
+  "slug": "ilam-park-to-dovedale-stepping-stones-trail-ilam-park-19218358",
+  "name": "Ilam Park to Dovedale Stepping Stones Trail, Ilam Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0537173,
+    "lon": -1.8063926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19218358
+  }
+}

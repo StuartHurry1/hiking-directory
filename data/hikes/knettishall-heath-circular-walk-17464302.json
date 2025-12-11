@@ -1,0 +1,21 @@
+{
+  "id": "osm-17464302",
+  "slug": "knettishall-heath-circular-walk-17464302",
+  "name": "Knettishall Heath Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3891849,
+    "lon": 0.8718707
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17464302
+  }
+}

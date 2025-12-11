@@ -1,0 +1,21 @@
+{
+  "id": "osm-15546558",
+  "slug": "herefordshire-views-walk-15546558",
+  "name": "Herefordshire Views Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1887236,
+    "lon": -2.4648081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15546558
+  }
+}

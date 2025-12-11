@@ -1,0 +1,47 @@
+{
+  "id": "osm-1462336",
+  "slug": "antrim-hills-way-ulster-way-section-1462336",
+  "name": "Antrim Hills Way (Ulster Way Section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8261536,
+    "lon": -5.9435895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1462336
+  },
+  "ai": {
+    "summary": "Antrim Hills Way (Ulster Way Section) is a demanding 29.2 km long-distance hike through exposed uplands in the UK. This section of the Ulster Way combines steep climbs, rugged paths, and expansive views, offering a challenging day on a classic British hill route.",
+    "terrain_summary": "Terrain is varied and rugged: grassy ridges, rocky outcrops, peat bogs, and uneven stony paths. Expect long ascents and steep descents, with wind exposure and mud especially after rain. Navigation is generally straightforward on waymarked tracks, but visibility can be poor in mist.",
+    "safety_notes": "Hard difficulty and 29.2 km distance require strong fitness and careful planning. Conditions can change rapidly; always check the forecast and dress in layers. Carry map and compass as a primary navigation tool, with GPS as a backup. Start with ample daylight and consider a shorter turnaround if visibility is poor. Wear sturdy boots, be mindful of boggy sections, and have a plan in case of emergency. Cellular coverage may be limited in upland areas; inform someone of your route and expected return. Respect the environment and private land along the route.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Weatherproof clothing (waterproof jacket and pants)",
+      "Insulating layer (fleece or down)",
+      "Rucksack with waterproof cover",
+      "Water supply (2–3 litres) and electrolyte options",
+      "High-energy food and snacks",
+      "Map and compass (GPS as backup)",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Whistle and multipurpose knife",
+      "Trekking poles (optional but helpful)",
+      "Sun protection (sunscreen, sunglasses, hat)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to September) offers the best conditions with longer daylight and typically drier weather. Winter and shoulder seasons can be tackled by experienced hikers with extra precautions for cold, wind, and mud.",
+    "seo": {
+      "title": "Antrim Hills Way (Ulster Way Section) – 29.2 km Hard Hike in the UK",
+      "meta_description": "Discover the challenging 29.2 km Antrim Hills Way, a section of the Ulster Way in the UK. Terrain, safety tips, gear recommendations, and the best seasons for this rugged upland hike.",
+      "h1": "Antrim Hills Way (Ulster Way Section) – 29.2 km Hard Hike"
+    }
+  }
+}

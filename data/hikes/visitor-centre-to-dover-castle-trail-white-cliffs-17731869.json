@@ -1,0 +1,21 @@
+{
+  "id": "osm-17731869",
+  "slug": "visitor-centre-to-dover-castle-trail-white-cliffs-17731869",
+  "name": "Visitor Centre to Dover Castle Trail, White Cliffs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1315122,
+    "lon": 1.3371845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17731869
+  }
+}

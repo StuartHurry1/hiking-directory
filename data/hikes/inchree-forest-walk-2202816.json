@@ -1,0 +1,21 @@
+{
+  "id": "osm-2202816",
+  "slug": "inchree-forest-walk-2202816",
+  "name": "Inchree Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7203525,
+    "lon": -5.221567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2202816
+  }
+}

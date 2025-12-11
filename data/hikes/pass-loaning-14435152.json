@@ -1,0 +1,21 @@
+{
+  "id": "osm-14435152",
+  "slug": "pass-loaning-14435152",
+  "name": "Pass Loaning",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3617561,
+    "lon": -6.0028075
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14435152
+  }
+}

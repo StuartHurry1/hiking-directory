@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853835",
+  "slug": "george-maw-trail-benthall-hall-19853835",
+  "name": "George Maw Trail, Benthall Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6248501,
+    "lon": -2.5008705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853835
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1754431",
+  "slug": "speyside-way-tominoul-spur-1754431",
+  "name": "Speyside Way (Tominoul Spur)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4122732,
+    "lon": -3.3883077
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1754431
+  }
+}

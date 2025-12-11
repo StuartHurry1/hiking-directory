@@ -1,0 +1,21 @@
+{
+  "id": "osm-19892179",
+  "slug": "wannie-line-walk-19892179",
+  "name": "Wannie Line Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1936946,
+    "lon": -1.9595421
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19892179
+  }
+}

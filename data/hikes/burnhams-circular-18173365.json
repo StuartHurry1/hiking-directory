@@ -1,0 +1,41 @@
+{
+  "id": "osm-18173365",
+  "slug": "burnhams-circular-18173365",
+  "name": "Burnhams Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9648245,
+    "lon": 0.7451672
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18173365
+  },
+  "ai": {
+    "summary": "Burnhams Circular is a 12.9 km circular hike in the United Kingdom with a moderate difficulty rating. The route forms a loop that begins and ends at the same point, offering varied scenery and a steady pace for hikers with some experience.",
+    "terrain_summary": "The trail blends quiet country lanes, field edges, and hedgerows, with occasional stony or muddy sections. Expect uneven footing, short rises, and the possibility of wet conditions after rain; views open up in open countryside sections.",
+    "safety_notes": "Check the weather forecast before starting; wear sturdy waterproof boots and layered clothing. Bring water, snacks, and a map or GPS; keep to marked paths and share your route with someone. Carry a charged phone for emergencies and be prepared for changes in conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and extra layers",
+      "Water bottle and high-energy snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Lightweight rain shell and hat for sun protection",
+      "Headlamp or flashlight in case of late finish"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) are typically the best seasons for this hike in the UK, though it can be tackled in winter with appropriate gear.",
+    "seo": {
+      "title": "Burnhams Circular – 12.9 km Moderate Hike in the UK",
+      "meta_description": "Discover Burnhams Circular, a 12.9 km moderate hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons to hike this loop.",
+      "h1": "Burnhams Circular: 12.9 km Moderate Hike in the UK"
+    }
+  }
+}

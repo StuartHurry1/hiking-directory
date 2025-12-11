@@ -1,0 +1,49 @@
+{
+  "id": "osm-17669610",
+  "slug": "beyond-hartham-common-17669610",
+  "name": "Beyond Hartham Common",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7932497,
+    "lon": -0.0739606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17669610
+  },
+  "ai": {
+    "summary": "A demanding 26.5 km circuit named Beyond Hartham Common in the UK. The route combines urban paths, rural lanes, and wooded sections, delivering a hard day on the trail with varied surfaces and several elevation gains. Best suited to experienced hikers with solid navigation skills and a good pace.",
+    "terrain_summary": "Expect a mix of surfaced city pavements, grassy field edges, muddy woodland tracks, uneven forest paths, stiles and gates, and occasional exposed viewpoints. Ground conditions can be slick after rain; be prepared for uneven footing and potential boggy sections.",
+    "safety_notes": "This is a long, hard hike with changing weather and terrain. Check the forecast, daylight hours, and plan for 8–10 hours on trail. Carry a map and compass (and GPS as backup), stay on waymarked routes, and watch for traffic on rural sections. Hydrate, snack regularly, and carry a basic first aid kit. Let someone know your plan and expected return time. In cold or wet conditions, dress in layers and have waterproof outerwear and a warmth layer. Carry a whistle and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers: base, insulating layer, waterproof outer layer)",
+      "Backpack (20–30L)",
+      "Water for hydration (2–3 liters) and snacks",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight rain jacket and pants",
+      "Hat and gloves if cold",
+      "Personal first aid kit",
+      "Emergency whistle",
+      "Emergency blanket or bivy sack",
+      "Trekking poles (optional)",
+      "Sunglasses and sun cream",
+      "Mobile phone with power bank",
+      "Spare socks and basic repair kit"
+    ],
+    "best_seasons": "Spring to autumn for the best daylight and drier conditions; winter hikes are possible but require extra precautions for ice, mud, and shorter days.",
+    "seo": {
+      "title": "Beyond Hartham Common – 26.5 km Hard Hike in the UK",
+      "meta_description": "Take on Beyond Hartham Common: a 26.5 km hard hike through a mix of urban paths, rural lanes and woodlands in the UK. Tips on terrain, safety and gear.",
+      "h1": "Beyond Hartham Common: 26.5 km Hard Hike (UK)"
+    }
+  }
+}

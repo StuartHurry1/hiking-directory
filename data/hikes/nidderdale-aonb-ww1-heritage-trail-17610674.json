@@ -1,0 +1,21 @@
+{
+  "id": "osm-17610674",
+  "slug": "nidderdale-aonb-ww1-heritage-trail-17610674",
+  "name": "Nidderdale AONB WW1 Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2181477,
+    "lon": -1.7692453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17610674
+  }
+}

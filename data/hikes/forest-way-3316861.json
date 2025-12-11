@@ -1,0 +1,21 @@
+{
+  "id": "osm-3316861",
+  "slug": "forest-way-3316861",
+  "name": "Forest Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 133.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6546519,
+    "lon": 0.0505364
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3316861
+  }
+}

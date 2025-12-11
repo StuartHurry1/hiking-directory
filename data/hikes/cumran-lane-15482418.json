@@ -1,0 +1,21 @@
+{
+  "id": "osm-15482418",
+  "slug": "cumran-lane-15482418",
+  "name": "Cumran Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2921479,
+    "lon": -5.8426603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15482418
+  }
+}

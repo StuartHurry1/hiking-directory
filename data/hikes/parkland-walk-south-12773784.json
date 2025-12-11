@@ -1,0 +1,21 @@
+{
+  "id": "osm-12773784",
+  "slug": "parkland-walk-south-12773784",
+  "name": "Parkland Walk (South)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5761378,
+    "lon": -0.1421149
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12773784
+  }
+}

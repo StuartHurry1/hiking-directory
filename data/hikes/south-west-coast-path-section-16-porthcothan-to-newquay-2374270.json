@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374270",
+  "slug": "south-west-coast-path-section-16-porthcothan-to-newquay-2374270",
+  "name": "South West Coast Path (Section 16: Porthcothan to Newquay)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5082271,
+    "lon": -5.0221898
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374270
+  }
+}

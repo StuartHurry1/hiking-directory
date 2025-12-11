@@ -1,0 +1,21 @@
+{
+  "id": "osm-19449464",
+  "slug": "riever-trails-the-sill-circular-19449464",
+  "name": "Riever Trails: The Sill Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9957338,
+    "lon": -2.3876564
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19449464
+  }
+}

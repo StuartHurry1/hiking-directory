@@ -1,0 +1,21 @@
+{
+  "id": "osm-12559350",
+  "slug": "croft-ambrey-walk-12559350",
+  "name": "Croft Ambrey Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2899686,
+    "lon": -2.8149438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12559350
+  }
+}

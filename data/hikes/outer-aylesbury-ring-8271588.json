@@ -1,0 +1,21 @@
+{
+  "id": "osm-8271588",
+  "slug": "outer-aylesbury-ring-8271588",
+  "name": "Outer Aylesbury Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 240.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7234138,
+    "lon": -0.8293998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8271588
+  }
+}

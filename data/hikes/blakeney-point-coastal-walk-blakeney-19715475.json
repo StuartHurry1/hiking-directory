@@ -1,0 +1,48 @@
+{
+  "id": "osm-19715475",
+  "slug": "blakeney-point-coastal-walk-blakeney-19715475",
+  "name": "Blakeney Point Coastal Walk, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9651225,
+    "lon": 1.0487793
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19715475
+  },
+  "ai": {
+    "summary": "A demanding 27 km coastal circuit starting from Blakeney, tracing rugged shorelines, salt marsh edges, and expansive sea views around Blakeney Point. Expect exposed conditions, long beaches, and wildlife-rich landscapes along the Norfolk coast.",
+    "terrain_summary": "The route comprises exposed coastal paths, shingle beaches, mud flats, and occasional dune edges. Ground can be uneven or soft near tidal areas; sea spray and strong winds are common. Some stretches may require careful footing and attention to tide timings.",
+    "safety_notes": "Check tide times before setting out and avoid walking at high tide on exposed coastlines. Wear sturdy footwear and weather-appropriate clothing; windproof layers are essential. Stay on designated paths, respect wildlife areas, and carry a map or GPS. Inform someone of your plan and expected finish time. Bring sun protection in summer and a headlamp if you might finish after dark.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof clothing (windproof/waterproof jacket and trousers)",
+      "Layered clothing for temperature changes",
+      "Water and high-energy snacks",
+      "Map, compass or GPS, and a fully charged phone",
+      "Small first aid kit",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Waterproof backpack or bag liner",
+      "Tide timetable and knowledge of tide safety",
+      "Optional trekking poles",
+      "Headlamp or flashlight (in case of late finish)"
+    ],
+    "best_seasons": "Late spring to early autumn (May–Sept) for daylight and milder conditions; spring offers wildlife viewing opportunities; avoid winter due to harsher weather and rough seas.",
+    "seo": {
+      "title": "Blakeney Point Coastal Walk – 27 km Hard Coastal Trail in Norfolk, UK",
+      "meta_description": "Explore the challenging 27 km Blakeney Point Coastal Walk, a hard coastal hike around Blakeney Point in Norfolk, UK. Wind-swept shores, mud flats, and wildlife await.",
+      "h1": "Blakeney Point Coastal Walk – 27 km Hard Coastal Hike"
+    }
+  }
+}

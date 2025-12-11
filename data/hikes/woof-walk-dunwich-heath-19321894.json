@@ -1,0 +1,21 @@
+{
+  "id": "osm-19321894",
+  "slug": "woof-walk-dunwich-heath-19321894",
+  "name": "Woof Walk, Dunwich Heath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2515799,
+    "lon": 1.6283902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321894
+  }
+}

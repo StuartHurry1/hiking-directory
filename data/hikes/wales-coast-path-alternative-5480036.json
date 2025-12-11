@@ -1,0 +1,23 @@
+{
+  "id": "osm-5480036",
+  "slug": "wales-coast-path-alternative-5480036",
+  "name": "Wales Coast Path (Alternative)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2547326,
+    "lon": -3.912687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5480036
+  }
+}

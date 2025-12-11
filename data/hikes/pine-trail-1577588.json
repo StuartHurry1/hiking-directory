@@ -1,0 +1,21 @@
+{
+  "id": "osm-1577588",
+  "slug": "pine-trail-1577588",
+  "name": "Pine Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4290964,
+    "lon": 0.6590249
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1577588
+  }
+}

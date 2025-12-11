@@ -1,0 +1,24 @@
+{
+  "id": "osm-19258346",
+  "slug": "fine-fortifications-trail-at-bembridge-and-culver-downs-isle-of-wight-19258346",
+  "name": "Fine fortifications trail at Bembridge and Culver Downs, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.667119,
+    "lon": -1.1011089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19258346
+  }
+}

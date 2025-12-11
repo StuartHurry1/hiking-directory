@@ -1,0 +1,21 @@
+{
+  "id": "osm-3287563",
+  "slug": "tree-walk-3287563",
+  "name": "Tree Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6647381,
+    "lon": -1.8965567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3287563
+  }
+}

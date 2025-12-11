@@ -1,0 +1,21 @@
+{
+  "id": "osm-19770468",
+  "slug": "green-walk-emmetts-19770468",
+  "name": "Green Walk, Emmetts",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.245797,
+    "lon": 0.1048293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19770468
+  }
+}

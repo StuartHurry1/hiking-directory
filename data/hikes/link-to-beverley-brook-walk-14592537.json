@@ -1,0 +1,21 @@
+{
+  "id": "osm-14592537",
+  "slug": "link-to-beverley-brook-walk-14592537",
+  "name": "link to Beverley Brook Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4039842,
+    "lon": -0.2568238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14592537
+  }
+}

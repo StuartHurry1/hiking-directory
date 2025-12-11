@@ -1,0 +1,44 @@
+{
+  "id": "osm-9175955",
+  "slug": "albana-walk-ickworth-estate-9175955",
+  "name": "Albana Walk, Ickworth Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2223997,
+    "lon": 0.6523066
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9175955
+  },
+  "ai": {
+    "summary": "Albana Walk is a 9.7 km moderate hike around the Albana Walk area of Ickworth Estate in the UK. The route blends estate tracks, quiet woodland paths, and open parkland, delivering a gentle but rewarding walk with varied scenery and a few gentle rises.",
+    "terrain_summary": "The trail uses a mix of surfaced paths, compact gravel tracks, and grassy lanes. Expect some uneven ground, soft earth after rain, and occasional gates. The route traverses open lawns and shaded woodland, with short climbs and flat stretches suitable for most walkers with moderate fitness.",
+    "safety_notes": "Check the forecast before you go; UK weather can be changeable and muddy conditions are common. Stay on marked trails, mind gates and livestock in fields, and keep dogs under close control. Carry a map or offline navigation, a fully charged phone, and enough water. Sunset times can shorten daylight hours, so allow extra time to return.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing and layers",
+      "Windproof/waterproof jacket",
+      "Map and/or offline navigation",
+      "Fully charged phone and portable charger",
+      "Sun protection (hat, sunscreen)",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Lightweight backpack rain cover or waterproof bag"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October)",
+    "seo": {
+      "title": "Albana Walk, Ickworth Estate – 9.7 km Moderate Hike in the UK",
+      "meta_description": "Discover Albana Walk at Ickworth Estate in the UK. A 9.7 km moderate hike through estate grounds with varied terrain, practical tips, safety notes, and gear recommendations.",
+      "h1": "Albana Walk, Ickworth Estate – 9.7 km Moderate Hike"
+    }
+  }
+}

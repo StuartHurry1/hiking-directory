@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853738",
+  "slug": "outwood-common-walk-at-harewoods-19853738",
+  "name": "Outwood Common Walk at Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1992041,
+    "lon": -0.1139204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853738
+  }
+}

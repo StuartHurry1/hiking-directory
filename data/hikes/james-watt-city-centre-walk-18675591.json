@@ -1,0 +1,21 @@
+{
+  "id": "osm-18675591",
+  "slug": "james-watt-city-centre-walk-18675591",
+  "name": "James Watt City Centre Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.481094,
+    "lon": -1.8984645
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18675591
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19690615",
+  "slug": "pen-y-fan-and-corn-du-circular-walk-19690615",
+  "name": "Pen y Fan and Corn Du Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8678547,
+    "lon": -3.4714571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19690615
+  }
+}

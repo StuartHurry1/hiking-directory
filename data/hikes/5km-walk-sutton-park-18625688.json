@@ -1,0 +1,40 @@
+{
+  "id": "osm-18625688",
+  "slug": "5km-walk-sutton-park-18625688",
+  "name": "5km walk: Sutton Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.564177,
+    "lon": -1.8354994
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18625688
+  },
+  "ai": {
+    "summary": "A gentle 4.9 km stroll through Sutton Park in the UK, suitable for beginners and families. The route follows well-maintained paths with mostly flat terrain and minimal elevation, offering a relaxed day out with parkland scenery.",
+    "terrain_summary": "Mostly flat to gently rolling trails with well-kept gravel and tarmac sections. Some grassy paths and forest edge segments. Expect occasional crowds near popular picnic areas and playgrounds.",
+    "safety_notes": "Stay on marked paths; watch for cyclists. Keep dogs under control. Check weather beforehand; trails can be muddy after rain. Bring water, a small map or charged phone, and inform someone of your plan if hiking alone or in a small group. Shorter daylight hours in winter; wear visible clothing in low light.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light weather-appropriate clothing (layers, waterproof jacket if rain is expected)",
+      "Small backpack with a map or offline navigation, phone, and a basic first-aid kit",
+      "Sunscreen, hat and sunglasses on sunny days",
+      "Snacks for a short day out"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering the most pleasant conditions; summer is popular but can be busier; winter trails may be muddy and cooler.",
+    "seo": {
+      "title": "5km Walk: Sutton Park – Easy Trail in the UK",
+      "meta_description": "Explore a gentle 4.9 km route in Sutton Park, UK. An easy, family-friendly walk with flat paths and parkland scenery—perfect for beginners.",
+      "h1": "5km Walk in Sutton Park (UK) – Easy Trail"
+    }
+  }
+}

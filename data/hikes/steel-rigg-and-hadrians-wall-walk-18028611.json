@@ -1,0 +1,21 @@
+{
+  "id": "osm-18028611",
+  "slug": "steel-rigg-and-hadrians-wall-walk-18028611",
+  "name": "Steel Rigg & Hadrians Wall Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0030208,
+    "lon": -2.3906227
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18028611
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-1702574",
+  "slug": "acw-circular-walk-12a-short-cut-for-c12-1702574",
+  "name": "ACW Circular Walk 12A (short-cut for C12)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4123706,
+    "lon": -1.3622951
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1702574
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12A is a 10 km circular hike in the UK, labeled as a moderate route and offered as a short-cut variant of the longer C12. The walk combines open fields, woodland tracks and gentle ascents, suitable for hikers with a reasonable fitness level.",
+    "terrain_summary": "The route features a mix of grassy field paths, well-defined tracks through woodland, stone stiles, and occasional muddy sections after rain. Expect gentle ascents and descents with uneven surfaces; navigation relies on waymarks and a basic map or GPS.",
+    "safety_notes": "Check weather forecasts and daylight hours before setting out. Wear sturdy boots and weather-appropriate clothing. Carry a map or GPS and a charged phone; inform someone of your plan. Be aware of livestock in fields, cattle gates, and road crossings. Mobile signal may be variable in remote stretches; consider a whistle and basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle (1–2 L)",
+      "High-energy snacks",
+      "Weather-appropriate clothing (layered)",
+      "Lightweight rain jacket",
+      "Map, compass, or GPS device",
+      "Phone with emergency contacts and power bank",
+      "Small first aid kit",
+      "Hat and sunscreen (summer)",
+      "Headlamp or gloves (winter)"
+    ],
+    "best_seasons": "Spring to autumn for best conditions; winter hiking is possible with proper footwear and daylight, but expect mud and limited daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 12A (C12 Shortcut) – 10 km Moderate UK Hike",
+      "meta_description": "Explore ACW Circular Walk 12A, a 10 km moderate circuit in the UK. Learn terrain, safety tips, and what to bring for this accessible day hike.",
+      "h1": "ACW Circular Walk 12A (C12 Shortcut) – 10 km Moderate Hike in the UK"
+    }
+  }
+}

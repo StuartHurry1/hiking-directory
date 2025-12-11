@@ -1,0 +1,21 @@
+{
+  "id": "osm-3724824",
+  "slug": "lon-gwyrfai-3724824",
+  "name": "Lôn Gwyrfai",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0121925,
+    "lon": -4.1079082
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3724824
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15907071",
+  "slug": "manse-lane-15907071",
+  "name": "Manse Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2590862,
+    "lon": -5.8461214
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15907071
+  }
+}

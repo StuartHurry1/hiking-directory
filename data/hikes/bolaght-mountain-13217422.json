@@ -1,0 +1,46 @@
+{
+  "id": "osm-13217422",
+  "slug": "bolaght-mountain-13217422",
+  "name": "Bolaght Mountain",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6165299,
+    "lon": -7.5702514
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13217422
+  },
+  "ai": {
+    "summary": "A challenging 15.4 km hike on rugged, exposed terrain in the UK, featuring steep ascents and variable conditions. Not suited for beginners; be prepared for a long, demanding day.",
+    "terrain_summary": "Expect rocky tracks, uneven footing, potential scree, and some exposed ridges. Navigation can be tricky in low visibility; suitable for hikers with good fitness and balance. Weather can change rapidly in UK hills, so plan accordingly.",
+    "safety_notes": "Check the forecast before you go; UK weather can change rapidly. Wear sturdy boots with ankle support, dress in layers, and bring a waterproof shell. Carry a map and compass (or a GPS device) and know the route. Tell someone your planned route and expected return time. Stay on marked paths; exercise caution on exposed edges and rough ground. Bring enough water and high-energy snacks; monitor hydration and energy. Pack a basic first aid kit, emergency whistle, and a space blanket. If visibility deteriorates or conditions worsen, be prepared to turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Weather-appropriate clothing (layers) and waterproof shell",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system + extra fluids",
+      "High-energy snacks",
+      "Rucksack with waterproof cover",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Space blanket or bivvy bag",
+      "Extra layers for cold conditions",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are generally best for Bolaght Mountain hikes due to longer daylight and milder weather; winter conditions can be severe and require advanced skills and equipment.",
+    "seo": {
+      "title": "Bolaght Mountain Hike — 15.4 km (Hard) in the UK",
+      "meta_description": "Plan your Bolaght Mountain hike: a 15.4 km hard trek in the UK with rugged terrain, safety tips, and gear recommendations.",
+      "h1": "Bolaght Mountain — 15.4 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17295022",
+  "slug": "green-link-walk-section-3-17295022",
+  "name": "Green Link Walk (Section 3)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5329683,
+    "lon": -0.1030708
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17295022
+  }
+}

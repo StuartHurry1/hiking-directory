@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774702",
+  "slug": "my-ladys-wood-oxburgh-estate-19774702",
+  "name": "My Lady's Wood, Oxburgh Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5808171,
+    "lon": 0.5713056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774702
+  }
+}

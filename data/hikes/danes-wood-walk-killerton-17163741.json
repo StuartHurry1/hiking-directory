@@ -1,0 +1,21 @@
+{
+  "id": "osm-17163741",
+  "slug": "danes-wood-walk-killerton-17163741",
+  "name": "Danes Wood Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7865907,
+    "lon": -3.4593879
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17163741
+  }
+}

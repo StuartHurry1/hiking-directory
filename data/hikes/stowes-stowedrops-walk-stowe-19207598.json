@@ -1,0 +1,21 @@
+{
+  "id": "osm-19207598",
+  "slug": "stowes-stowedrops-walk-stowe-19207598",
+  "name": "Stowe's 'Stowedrops' Walk, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0215874,
+    "lon": -1.0091676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19207598
+  }
+}

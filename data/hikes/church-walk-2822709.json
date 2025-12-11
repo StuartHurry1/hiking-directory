@@ -1,0 +1,21 @@
+{
+  "id": "osm-2822709",
+  "slug": "church-walk-2822709",
+  "name": "Church walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1351577,
+    "lon": -2.6816113
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2822709
+  }
+}

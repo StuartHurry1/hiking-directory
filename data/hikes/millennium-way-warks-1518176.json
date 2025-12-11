@@ -1,0 +1,21 @@
+{
+  "id": "osm-1518176",
+  "slug": "millennium-way-warks-1518176",
+  "name": "Millennium Way (Warks)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 697.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2028638,
+    "lon": -1.2854347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1518176
+  }
+}

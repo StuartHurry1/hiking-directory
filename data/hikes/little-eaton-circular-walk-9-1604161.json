@@ -1,0 +1,21 @@
+{
+  "id": "osm-1604161",
+  "slug": "little-eaton-circular-walk-9-1604161",
+  "name": "Little Eaton Circular Walk 9",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9756396,
+    "lon": -1.4608355
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1604161
+  }
+}

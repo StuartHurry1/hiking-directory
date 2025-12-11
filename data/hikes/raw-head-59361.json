@@ -1,0 +1,21 @@
+{
+  "id": "osm-59361",
+  "slug": "raw-head-59361",
+  "name": "Raw Head",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1039201,
+    "lon": -2.7141459
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 59361
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2912447",
+  "slug": "witton-le-wear-circular-walk-1-2912447",
+  "name": "Witton-le-Wear Circular Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6762699,
+    "lon": -1.7666204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2912447
+  }
+}

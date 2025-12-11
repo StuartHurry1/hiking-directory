@@ -1,0 +1,21 @@
+{
+  "id": "osm-2927833",
+  "slug": "routes-around-roots-2927833",
+  "name": "Routes around roots",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7824539,
+    "lon": -4.0825309
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2927833
+  }
+}

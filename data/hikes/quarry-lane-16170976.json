@@ -1,0 +1,21 @@
+{
+  "id": "osm-16170976",
+  "slug": "quarry-lane-16170976",
+  "name": "Quarry Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2601895,
+    "lon": -5.8446647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16170976
+  }
+}

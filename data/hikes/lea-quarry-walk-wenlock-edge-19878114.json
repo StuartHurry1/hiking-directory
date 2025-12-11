@@ -1,0 +1,23 @@
+{
+  "id": "osm-19878114",
+  "slug": "lea-quarry-walk-wenlock-edge-19878114",
+  "name": "Lea Quarry Walk, Wenlock Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5741165,
+    "lon": -2.6162532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878114
+  }
+}

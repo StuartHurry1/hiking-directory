@@ -1,0 +1,21 @@
+{
+  "id": "osm-10528977",
+  "slug": "trans-pennine-trail-10528977",
+  "name": "Trans-Pennine Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 64.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9604043,
+    "lon": -1.0928226
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10528977
+  }
+}

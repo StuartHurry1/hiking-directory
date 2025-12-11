@@ -1,0 +1,23 @@
+{
+  "id": "osm-77964",
+  "slug": "pembrokeshire-coast-path-77964",
+  "name": "Pembrokeshire Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1003.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.87246,
+    "lon": -5.2374201
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77964
+  }
+}

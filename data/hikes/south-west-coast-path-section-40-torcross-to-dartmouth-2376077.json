@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376077",
+  "slug": "south-west-coast-path-section-40-torcross-to-dartmouth-2376077",
+  "name": "South West Coast Path (Section 40: Torcross to Dartmouth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2662824,
+    "lon": -3.652384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376077
+  }
+}

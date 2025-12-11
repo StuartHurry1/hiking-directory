@@ -1,0 +1,21 @@
+{
+  "id": "osm-1706315",
+  "slug": "the-poets-trail-forkhill-route-1706315",
+  "name": "The Poets' Trail - Forkhill Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0800379,
+    "lon": -6.4823407
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1706315
+  }
+}

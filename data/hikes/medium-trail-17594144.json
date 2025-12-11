@@ -1,0 +1,21 @@
+{
+  "id": "osm-17594144",
+  "slug": "medium-trail-17594144",
+  "name": "Medium Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7410166,
+    "lon": -0.0801115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17594144
+  }
+}

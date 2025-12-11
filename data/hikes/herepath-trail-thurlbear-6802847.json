@@ -1,0 +1,21 @@
+{
+  "id": "osm-6802847",
+  "slug": "herepath-trail-thurlbear-6802847",
+  "name": "Herepath Trail - Thurlbear",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.978941,
+    "lon": -3.0762348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6802847
+  }
+}

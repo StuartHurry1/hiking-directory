@@ -1,0 +1,23 @@
+{
+  "id": "osm-19739256",
+  "slug": "whitehaven-colourful-coastal-walk-19739256",
+  "name": "Whitehaven Colourful Coastal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5493133,
+    "lon": -3.5954713
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19739256
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18552183",
+  "slug": "sheepwash-park-circular-health-walk-18552183",
+  "name": "Sheepwash Park Circular Health Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5245984,
+    "lon": -2.0489419
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18552183
+  }
+}

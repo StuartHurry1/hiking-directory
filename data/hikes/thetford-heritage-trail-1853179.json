@@ -1,0 +1,21 @@
+{
+  "id": "osm-1853179",
+  "slug": "thetford-heritage-trail-1853179",
+  "name": "Thetford Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4101071,
+    "lon": 0.7489989
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1853179
+  }
+}

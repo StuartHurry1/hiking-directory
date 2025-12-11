@@ -1,0 +1,21 @@
+{
+  "id": "osm-19002800",
+  "slug": "gm-ringway-stage-16-19002800",
+  "name": "GM Ringway Stage 16",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5438041,
+    "lon": -2.6338588
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19002800
+  }
+}

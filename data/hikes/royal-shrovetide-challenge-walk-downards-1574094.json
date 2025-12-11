@@ -1,0 +1,21 @@
+{
+  "id": "osm-1574094",
+  "slug": "royal-shrovetide-challenge-walk-downards-1574094",
+  "name": "Royal Shrovetide Challenge Walk (down'ards)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.997219,
+    "lon": -1.6809437
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1574094
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1175739",
+  "slug": "etherow-goyt-valley-way-1175739",
+  "name": "Etherow - Goyt Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4091272,
+    "lon": -2.0781889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1175739
+  }
+}

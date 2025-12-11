@@ -1,0 +1,21 @@
+{
+  "id": "osm-17654948",
+  "slug": "killyclougher-burn-walk-17654948",
+  "name": "Killyclougher Burn Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6245917,
+    "lon": -7.2623702
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17654948
+  }
+}

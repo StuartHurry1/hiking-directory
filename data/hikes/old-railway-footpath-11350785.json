@@ -1,0 +1,21 @@
+{
+  "id": "osm-11350785",
+  "slug": "old-railway-footpath-11350785",
+  "name": "Old Railway Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9213963,
+    "lon": -1.7915139
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11350785
+  }
+}

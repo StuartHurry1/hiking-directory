@@ -1,0 +1,46 @@
+{
+  "id": "osm-110670",
+  "slug": "bollin-valley-way-110670",
+  "name": "Bollin Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 74.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2682012,
+    "lon": -2.1310447
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 110670
+  },
+  "ai": {
+    "summary": "Bollin Valley Way is a 74.9 km long-distance hike in the United Kingdom, rated hard. The route traverses varied countryside and river valley scenery with occasional road sections in an unknown region, offering a strenuous challenge for experienced hikers who are prepared for long days, changeable weather, and variable ground conditions.",
+    "terrain_summary": "Expect a mix of grassy trails, woodland paths, muddy footpaths after rain, stiles and gates, and occasional road walking. Terrain is uneven with varying elevation, including some steep sections and long ascents; boggy conditions are common after wet weather. Navigation relies on waymarkers, so bring a map and compass and be prepared for limited GPS signal in remote stretches.",
+    "safety_notes": "Plan as a multi-day trek or prepare for very long days. Check weather forecasts in advance; UK weather can change quickly. Bring waterproof clothing, warm layers, a first aid kit, and navigation tools (map and compass). Carry enough water and high-energy food, plus a means to purify water if needed. Inform someone of your itinerary and expected return. Keep to public rights of way and be mindful of livestock and private land. In remote sections, daylight may be limited in shoulder seasons; carry a headlamp and spare batteries.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof, breathable outer layer",
+      "Insulating layers and moisture-wicking base layers",
+      "Backpack (20–40 L) with rain cover",
+      "Map and compass (or GPS) and a fully charged phone",
+      "Water bottles or hydration reservoir with extra fluids",
+      "High-energy snacks and meals for long days",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and any personal medications",
+      "Whistle and emergency blanket or bivy",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Rain pants and gaiters (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October).",
+    "seo": {
+      "title": "Bollin Valley Way – 74.9 km Hard UK Trail Guide",
+      "meta_description": "Discover Bollin Valley Way, a challenging 74.9 km hike in the United Kingdom. Terrain, safety tips, gear recommendations and the best seasons to hike.",
+      "h1": "Bollin Valley Way: 74.9 km Hard-Distance Trail in the UK"
+    }
+  }
+}

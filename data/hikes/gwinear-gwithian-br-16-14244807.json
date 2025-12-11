@@ -1,0 +1,21 @@
+{
+  "id": "osm-14244807",
+  "slug": "gwinear-gwithian-br-16-14244807",
+  "name": "Gwinear-Gwithian BR 16",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1968386,
+    "lon": -5.3472528
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14244807
+  }
+}

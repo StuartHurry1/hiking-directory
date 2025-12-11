@@ -1,0 +1,21 @@
+{
+  "id": "osm-19426549",
+  "slug": "great-glen-way-low-route-19426549",
+  "name": "Great Glen Way Low Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0267938,
+    "lon": -4.8299356
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426549
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-4077753",
+  "slug": "gritstone-trail-rushton-spencer-kidsgrove-4077753",
+  "name": "Gritstone Trail (Rushton Spencer - Kidsgrove)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1672133,
+    "lon": -2.1065611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4077753
+  }
+}

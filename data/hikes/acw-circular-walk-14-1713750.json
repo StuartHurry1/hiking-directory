@@ -1,0 +1,46 @@
+{
+  "id": "osm-1713750",
+  "slug": "acw-circular-walk-14-1713750",
+  "name": "ACW Circular Walk 14",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4553476,
+    "lon": -1.4266468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1713750
+  },
+  "ai": {
+    "summary": "The ACW Circular Walk 14 is a demanding 44.2 km long-distance loop in the United Kingdom, designed for experienced hikers. The route traverses varied countryside, farmland, and rural lanes with mixed terrain and notable elevation changes. It rewards stamina, solid navigation, and thorough planning, typically taking a full day or more to complete depending on pace and conditions.",
+    "terrain_summary": "Expect a mix of grassy and compact paths, dirt tracks, farm lanes, hedgerows, stiles, gates, and some road sections. Surfaces can be uneven and muddy after rain, with exposed upland stretches. Navigation may be required in uncertain sections, so carry a map and compass even if signs are present.",
+    "safety_notes": "Plan for the length and potential weather changes. Tell someone your route and expected finish time. Carry sufficient water and food, spare warm layers, and waterproof gear. Wear sturdy boots with good grip. Bring a map and compass (GPS as backup). Check daylight hours and start early in shorter days. In rural areas, mobile signal can be unreliable; know emergency numbers and have a plan to seek help if needed. Be mindful of livestock and farm traffic on shared paths, and respect countryside codes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and breathable layers",
+      "Warm layer and hat",
+      "Map and compass (GPS optional as backup)",
+      "Fully charged phone and power bank",
+      "Water 2–3 liters and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) offer the best conditions for this distance in the UK. Summer provides long daylight but can bring heat or rain; spring and autumn offer milder temperatures but potentially more mud. Avoid deep winter unless you are well prepared for shorter days and variable weather.",
+    "seo": {
+      "title": "ACW Circular Walk 14 – 44.2 km Hard Circular Hike in the UK",
+      "meta_description": "Explore the ACW Circular Walk 14, a challenging 44.2 km circuit in the UK. Learn about terrain, safety considerations, and gear to help you plan this long-distance hike.",
+      "h1": "ACW Circular Walk 14: A 44.2 km Hard Circular Hike"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "osm-1713899",
+  "slug": "acw-circular-walk-14a-short-cut-for-c14-1713899",
+  "name": "ACW Circular Walk 14A (short-cut for C14)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4638849,
+    "lon": -1.429604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1713899
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 14A is a challenging 24.1 km circular hike in the United Kingdom. This hard route, a short-cut variant of C14, traverses a mix of rural paths, fields, and minor lanes, offering varied scenery and a demanding pace for experienced walkers.",
+    "terrain_summary": "The walk combines mixed terrain: quiet country lanes, fields and hedgerows, woodland tracks, and occasional rocky or uneven sections. Expect some mud, short steep ascents, and sections exposed to wind in open areas.",
+    "safety_notes": "Plan for a full day on rough, exposed terrain. Check the weather before departure; UK conditions can change rapidly. Wear sturdy boots and weather-appropriate clothing, bring navigation tools (map/compass or GPS), carry enough water and food, and have a basic first aid kit. Tell someone your route and expected return time. In case of emergency, use a whistle and mobile phone with a charged battery. Be prepared for limited daylight in autumn and winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good tread",
+      "Waterproof jacket and trousers",
+      "Layered clothing for changing conditions",
+      "Hat and gloves (as needed)",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone",
+      "Food and water (2–3 liters)",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Lightweight rain cover for your backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is best for this hike due to daylight and drier conditions; if hiking in winter, be prepared for shorter days and harsher weather.",
+    "seo": {
+      "title": "ACW Circular Walk 14A (Short-cut for C14) – 24.1 km UK Hike",
+      "meta_description": "Discover the challenging 24.1 km ACW Circular Walk 14A in the UK. A hard circular route with mixed terrain, safety tips, gear lists, and best seasons for a successful day hike.",
+      "h1": "ACW Circular Walk 14A (short-cut for C14) – 24.1 km UK hike"
+    }
+  }
+}

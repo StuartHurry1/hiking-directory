@@ -1,0 +1,21 @@
+{
+  "id": "osm-17467417",
+  "slug": "ring-of-gullion-way-section-1-17467417",
+  "name": "Ring of Gullion Way - Section 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1708924,
+    "lon": -6.3395682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17467417
+  }
+}

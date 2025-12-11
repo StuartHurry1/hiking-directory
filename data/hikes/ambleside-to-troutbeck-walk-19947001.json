@@ -1,0 +1,44 @@
+{
+  "id": "osm-19947001",
+  "slug": "ambleside-to-troutbeck-walk-19947001",
+  "name": "Ambleside to Troutbeck Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4323141,
+    "lon": -2.9628303
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19947001
+  },
+  "ai": {
+    "summary": "Ambleside to Troutbeck Walk is a hard 25.7 km route in the UK, starting near Ambleside and finishing at Troutbeck. The trek combines sustained climbs, rocky paths, moorland sections, and open viewpoints, delivering dramatic Lakeland scenery while demanding good fitness, navigation, and weather planning.",
+    "terrain_summary": "Expect a mix of steep ascents and descents, rocky slabs, gravel tracks, and some boggy or uneven ground. Exposed ridges and high points may be windy, while forested sections can be muddy after rain. Navigation is important in mist or poorly marked sections.",
+    "safety_notes": "Weather in the UK can change rapidly; always plan for rain and wind, and carry appropriate layers. This long, exposed hike requires good fitness and reliable navigation—carry a map, compass or GPS and know your route. Wear sturdy waterproof boots and bring a waterproof outer layer, extra layers, and emergency supplies. Start early, inform someone of your plan, and be prepared for limited mobile reception in remote areas. Carry sufficient water and high-energy snacks; know where to seek shelter if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof outer layer (waterproof jacket and trousers)",
+      "Insulating layers (fleece or down)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system + high-energy snacks",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Emergency whistle",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best daylight and typically drier conditions, though weather can be highly changeable; winter hiking is possible with advanced skills and equipment.",
+    "seo": {
+      "title": "Ambleside to Troutbeck Walk — Hard 25.7 km Lake District Trek",
+      "meta_description": "Conquer the hard 25.7 km Ambleside to Troutbeck hike in the Lake District. Explore terrain, safety tips, gear recommendations, and the best seasons for this demanding route.",
+      "h1": "Ambleside to Troutbeck Walk: A 25.7 km Hard Lake District Trek"
+    }
+  }
+}

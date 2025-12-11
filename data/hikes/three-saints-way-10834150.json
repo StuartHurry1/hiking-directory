@@ -1,0 +1,23 @@
+{
+  "id": "osm-10834150",
+  "slug": "three-saints-way-10834150",
+  "name": "Three Saints Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 171.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.469721,
+    "lon": -4.3181361
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10834150
+  }
+}

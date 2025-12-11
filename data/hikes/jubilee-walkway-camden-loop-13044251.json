@@ -1,0 +1,21 @@
+{
+  "id": "osm-13044251",
+  "slug": "jubilee-walkway-camden-loop-13044251",
+  "name": "Jubilee Walkway (Camden Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5152981,
+    "lon": -0.1114859
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13044251
+  }
+}

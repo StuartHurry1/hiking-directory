@@ -1,0 +1,21 @@
+{
+  "id": "osm-179627",
+  "slug": "the-north-calder-heritage-trail-179627",
+  "name": "The North Calder Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8624905,
+    "lon": -4.0306184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 179627
+  }
+}

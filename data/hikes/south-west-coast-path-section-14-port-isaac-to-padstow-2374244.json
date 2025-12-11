@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374244",
+  "slug": "south-west-coast-path-section-14-port-isaac-to-padstow-2374244",
+  "name": "South West Coast Path (Section 14: Port Isaac to Padstow)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 52.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.59233,
+    "lon": -4.8338536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374244
+  }
+}

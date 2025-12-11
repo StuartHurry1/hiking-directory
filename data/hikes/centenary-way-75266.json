@@ -1,0 +1,21 @@
+{
+  "id": "osm-75266",
+  "slug": "centenary-way-75266",
+  "name": "Centenary Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 844.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1687721,
+    "lon": -1.4285519
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 75266
+  }
+}

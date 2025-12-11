@@ -1,0 +1,21 @@
+{
+  "id": "osm-12637731",
+  "slug": "john-ogroats-trail-dornoch-to-golspie-12637731",
+  "name": "John O'Groats Trail (Dornoch to Golspie)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.8799257,
+    "lon": -4.0278276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12637731
+  }
+}

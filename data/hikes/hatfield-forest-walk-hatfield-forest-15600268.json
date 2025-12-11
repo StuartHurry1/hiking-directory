@@ -1,0 +1,23 @@
+{
+  "id": "osm-15600268",
+  "slug": "hatfield-forest-walk-hatfield-forest-15600268",
+  "name": "Hatfield Forest Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8584276,
+    "lon": 0.2304566
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15600268
+  }
+}

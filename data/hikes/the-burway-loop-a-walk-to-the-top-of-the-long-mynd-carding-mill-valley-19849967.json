@@ -1,0 +1,21 @@
+{
+  "id": "osm-19849967",
+  "slug": "the-burway-loop-a-walk-to-the-top-of-the-long-mynd-carding-mill-valley-19849967",
+  "name": "The Burway Loop: A Walk to the Top of the Long Mynd, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5445907,
+    "lon": -2.8193122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19849967
+  }
+}

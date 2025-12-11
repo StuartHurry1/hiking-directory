@@ -1,0 +1,48 @@
+{
+  "id": "osm-19009000",
+  "slug": "auchnafree-to-comrie-19009000",
+  "name": "Auchnafree to Comrie",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4771618,
+    "lon": -3.9185621
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009000
+  },
+  "ai": {
+    "summary": "Auchnafree to Comrie is a demanding long-distance hike in the UK, covering 45.1 km from Auchnafree to the village of Comrie. The route traverses diverse terrain and offers remote sections, challenging ascents, and scenic countryside. Suitable for experienced hikers with good navigation and fitness, and should be planned as a multi-day trek or a strenuous day trip with careful pacing.",
+    "terrain_summary": "The route features mixed terrain: open moorland and heath, forest tracks, river or burn crossings, and occasional rocky or muddy sections. Expect long, steady climbs, uneven footing, and potential boggy patches. Weather can change quickly, especially in upland or highland areas.",
+    "safety_notes": "Plan and check weather and daylight hours in advance. Carry map and compass or offline GPS, and know how to use them; do not rely on a phone signal in remote sections. Tell someone your route and expected finish time. Start early to ensure daylight, pace yourself, and allow extra time for difficult sections. Be prepared for sudden weather changes, cold winds, and wet terrain. Stay on marked paths where possible, and avoid crossing unstable ground or fast-moving water after rainfall.",
+    "recommended_gear": [
+      "Map and compass (or GPS with offline maps)",
+      "Waterproof jacket and waterproof trousers",
+      "Insulated layer and hat/gloves",
+      "Sturdy hiking boots with good grip",
+      "Backpack with rain cover",
+      "Water supply and purification method",
+      "High-energy snacks and meals",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and any personal medications",
+      "Emergency shelter or bivvy bag",
+      "Trekking poles (optional but helpful)",
+      "Sun protection (sunscreen, hat) and sunglasses",
+      "Insect repellent",
+      "Whistle or personal locator beacon"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October). Winter trips are possible but require advanced skills and proper equipment due to harsher weather and shorter daylight.",
+    "seo": {
+      "title": "Auchnafree to Comrie Hike – 45.1 km Hard Route in the UK",
+      "meta_description": "Plan and prep for the 45.1 km Auchnafree to Comrie hike in the UK. A challenging route with varied terrain, safety tips, gear checklists, and best seasons.",
+      "h1": "Auchnafree to Comrie: 45.1 km Hard Hike in the UK"
+    }
+  }
+}

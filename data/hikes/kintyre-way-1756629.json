@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756629",
+  "slug": "kintyre-way-1756629",
+  "name": "Kintyre Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 245.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8640283,
+    "lon": -5.4117469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756629
+  }
+}

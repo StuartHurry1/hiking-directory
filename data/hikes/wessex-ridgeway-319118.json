@@ -1,0 +1,23 @@
+{
+  "id": "osm-319118",
+  "slug": "wessex-ridgeway-319118",
+  "name": "Wessex Ridgeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 992.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4193632,
+    "lon": -1.7346596
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 319118
+  }
+}

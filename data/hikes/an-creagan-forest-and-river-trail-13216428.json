@@ -1,0 +1,42 @@
+{
+  "id": "osm-13216428",
+  "slug": "an-creagan-forest-and-river-trail-13216428",
+  "name": "An Creagán, Forest and River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6520961,
+    "lon": -7.0578896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216428
+  },
+  "ai": {
+    "summary": "A gentle 5.7 km hike through forest and along a river in the UK. Suitable for families and casual walkers, with easy terrain and frequent shade from trees.",
+    "terrain_summary": "Mostly well-maintained forest paths and riverside sections with a gentle profile. Expect flat to gently rolling ground, occasional exposed roots, and some muddy patches after rain. Short boardwalks or packed earth near the river.",
+    "safety_notes": "This is an easy trail, but weather and water levels can change conditions. Wear sturdy footwear, stay on marked paths, and watch for uneven ground and slippery roots. Bring water, check local guidelines for river crossings, and keep children within sight near the river. Insect repellent and sun protection are advised in warm weather.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Map or offline guide of the trail",
+      "Lightweight rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal; the trail is accessible year-round with potential mud in winter and shorter daylight.",
+    "seo": {
+      "title": "An Creagán Forest and River Trail – 5.7 km Easy Hike in the UK",
+      "meta_description": "Discover a gentle 5.7 km hike through forest and river on the An Creagán Trail. Easy terrain, woodland scenery and river views—perfect for families and casual walkers in the UK.",
+      "h1": "An Creagán Forest and River Trail – Easy 5.7 km Hike"
+    }
+  }
+}

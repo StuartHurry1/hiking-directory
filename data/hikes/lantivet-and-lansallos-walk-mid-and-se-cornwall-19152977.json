@@ -1,0 +1,24 @@
+{
+  "id": "osm-19152977",
+  "slug": "lantivet-and-lansallos-walk-mid-and-se-cornwall-19152977",
+  "name": "Lantivet and Lansallos walk, Mid and SE Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3362918,
+    "lon": -4.5908771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19152977
+  }
+}

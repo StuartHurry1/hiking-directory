@@ -1,0 +1,21 @@
+{
+  "id": "osm-19302724",
+  "slug": "farmland-big-skies-and-birds-of-prey-walk-19302724",
+  "name": "Farmland, Big Skies and Birds of Prey Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19302724
+  }
+}

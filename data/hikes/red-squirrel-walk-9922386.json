@@ -1,0 +1,23 @@
+{
+  "id": "osm-9922386",
+  "slug": "red-squirrel-walk-9922386",
+  "name": "Red Squirrel Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5544349,
+    "lon": -5.5979032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9922386
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16846802",
+  "slug": "gm-ringway-stage-2-16846802",
+  "name": "GM Ringway Stage 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4281213,
+    "lon": -2.2911366
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16846802
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-15625876",
+  "slug": "bath-lane-15625876",
+  "name": "Bath Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1999603,
+    "lon": -5.8897222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15625876
+  },
+  "ai": {
+    "summary": "Bath Lane is a tiny, easy 0.1 km urban stroll in the UK. This short route is ideal for a quick break, a family-friendly outing, or a gentle introduction to hiking around town.",
+    "terrain_summary": "Mostly flat, paved surface with sidewalks; occasional curb edges and mild street crossings. Suitable for all ages and most footwear.",
+    "safety_notes": "Watch for vehicles and cyclists when crossing or sharing lanes. Stay on designated sidewalks where available. On wet or icy days, sections may be slippery. Keep valuables secure and be mindful of other pedestrians.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight weather-appropriate jacket",
+      "Water bottle",
+      "Smartphone with a local map",
+      "Small backpack or sling bag",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Year-round; best in spring and summer for milder weather and longer daylight.",
+    "seo": {
+      "title": "Bath Lane – Easy 0.1 km Hike in the UK (Urban Walk)",
+      "meta_description": "Discover Bath Lane in the UK: a short, effortless 0.1 km urban hike suitable for all ages. Terrain, safety tips, and gear for a quick outdoor stroll.",
+      "h1": "Bath Lane: Easy 0.1 km Urban Hike in the UK"
+    }
+  }
+}

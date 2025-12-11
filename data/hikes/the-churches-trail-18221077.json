@@ -1,0 +1,21 @@
+{
+  "id": "osm-18221077",
+  "slug": "the-churches-trail-18221077",
+  "name": "The Churches Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3272829,
+    "lon": 0.5966724
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18221077
+  }
+}

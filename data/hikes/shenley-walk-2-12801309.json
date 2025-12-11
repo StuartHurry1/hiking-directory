@@ -1,0 +1,21 @@
+{
+  "id": "osm-12801309",
+  "slug": "shenley-walk-2-12801309",
+  "name": "Shenley Walk 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6867689,
+    "lon": -0.2809377
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12801309
+  }
+}

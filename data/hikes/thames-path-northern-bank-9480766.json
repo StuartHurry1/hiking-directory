@@ -1,0 +1,23 @@
+{
+  "id": "osm-9480766",
+  "slug": "thames-path-northern-bank-9480766",
+  "name": "Thames Path - northern bank",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 83.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4311453,
+    "lon": -0.321494
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9480766
+  }
+}

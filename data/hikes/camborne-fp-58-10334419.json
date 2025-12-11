@@ -1,0 +1,21 @@
+{
+  "id": "osm-10334419",
+  "slug": "camborne-fp-58-10334419",
+  "name": "Camborne FP 58",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1876347,
+    "lon": -5.2674958
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10334419
+  }
+}

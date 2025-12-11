@@ -1,0 +1,21 @@
+{
+  "id": "osm-919106",
+  "slug": "lecale-way-919106",
+  "name": "Lecale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 51.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.361471,
+    "lon": -5.6426547
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 919106
+  }
+}

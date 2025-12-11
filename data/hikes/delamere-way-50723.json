@@ -1,0 +1,23 @@
+{
+  "id": "osm-50723",
+  "slug": "delamere-way-50723",
+  "name": "Delamere Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.1,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2906073,
+    "lon": -2.7203538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 50723
+  }
+}

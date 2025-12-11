@@ -1,0 +1,21 @@
+{
+  "id": "osm-2866160",
+  "slug": "footpath-t53-2866160",
+  "name": "Footpath T53",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5478401,
+    "lon": -1.3939571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866160
+  }
+}

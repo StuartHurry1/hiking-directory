@@ -1,0 +1,21 @@
+{
+  "id": "osm-19197767",
+  "slug": "giants-ring-circular-walk-19197767",
+  "name": "Giant's Ring Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5476571,
+    "lon": -5.9483506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19197767
+  }
+}

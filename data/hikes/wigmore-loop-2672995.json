@@ -1,0 +1,21 @@
+{
+  "id": "osm-2672995",
+  "slug": "wigmore-loop-2672995",
+  "name": "Wigmore Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.285413,
+    "lon": -2.8434599
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2672995
+  }
+}

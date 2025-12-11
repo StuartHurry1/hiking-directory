@@ -1,0 +1,23 @@
+{
+  "id": "osm-1140775",
+  "slug": "suffolk-coast-path-1140775",
+  "name": "Suffolk Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 307.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4568007,
+    "lon": 1.7394926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1140775
+  }
+}

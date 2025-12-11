@@ -1,0 +1,21 @@
+{
+  "id": "osm-19738721",
+  "slug": "scouting-and-maryland-walk-brownsea-island-19738721",
+  "name": "Scouting and Maryland Walk, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6885117,
+    "lon": -1.9726301
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738721
+  }
+}

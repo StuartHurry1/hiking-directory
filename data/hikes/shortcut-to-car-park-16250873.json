@@ -1,0 +1,21 @@
+{
+  "id": "osm-16250873",
+  "slug": "shortcut-to-car-park-16250873",
+  "name": "Shortcut to Car Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3537288,
+    "lon": -5.9424488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16250873
+  }
+}

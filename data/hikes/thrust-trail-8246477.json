@@ -1,0 +1,21 @@
+{
+  "id": "osm-8246477",
+  "slug": "thrust-trail-8246477",
+  "name": "Thrust Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0362757,
+    "lon": -5.0680772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8246477
+  }
+}

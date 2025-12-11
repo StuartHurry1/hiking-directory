@@ -1,0 +1,21 @@
+{
+  "id": "osm-16459675",
+  "slug": "waveney-valley-walks-harleston-16459675",
+  "name": "Waveney Valley Walks - Harleston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4033165,
+    "lon": 1.2994775
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16459675
+  }
+}

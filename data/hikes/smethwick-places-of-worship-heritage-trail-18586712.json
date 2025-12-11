@@ -1,0 +1,21 @@
+{
+  "id": "osm-18586712",
+  "slug": "smethwick-places-of-worship-heritage-trail-18586712",
+  "name": "Smethwick Places of Worship Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5016774,
+    "lon": -1.9804989
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18586712
+  }
+}

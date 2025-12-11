@@ -1,0 +1,51 @@
+{
+  "id": "osm-17910203",
+  "slug": "calderdale-way-link-17910203",
+  "name": "Calderdale Way Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6984918,
+    "lon": -1.8571964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17910203
+  },
+  "ai": {
+    "summary": "A long-distance, hard 42.9 km hike designed as a link route for Calderdale Way. The route traverses varied terrain, including upland moorland, woodland, and river valleys, and demands good navigation and fitness from experienced hikers.",
+    "terrain_summary": "Expected mixed terrain: grassy moorland, dirt and gravel paths, rocky sections, occasional road or village stretches, and muddy or boggy patches after rain. Significant elevation gains and descents with exposed sections on open moorland; navigation is important in fog or poor visibility.",
+    "safety_notes": "This is a hard route requiring preparation. Plan the full distance, check local weather and daylight hours, and carry map and compass. Notify someone of your plan. Wear sturdy boots and dress in layers; waterproofs are essential. Bring enough water and food, plus a way to signal for help. In winter, daylight is limited and conditions can be treacherous; consider a shorter alternative or sensible turnaround times.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, mid layer, outer shell)",
+      "Waterproof and windproof jacket and pants",
+      "Warm hat and gloves",
+      "Extra socks (wool or synthetic)",
+      "Map and compass (or GPS with offline maps)",
+      "Fully charged mobile phone and portable charger",
+      "Headlamp with extra batteries",
+      "Trekking poles",
+      "Hydration: 2–3 liters of water plus water purification method",
+      "High-energy snacks and meals",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Pack with rain cover",
+      "Small repair kit and duct tape"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal for daylight and drier conditions. The route can be attempted year-round, but winter hikes bring shorter days, more mud, and harsher weather—plan carefully and be prepared for rapid changes.",
+    "seo": {
+      "title": "Calderdale Way Link – 42.9 km Hard Hike in the UK",
+      "meta_description": "Plan and prepare for the 42.9 km Calderdale Way Link hike in the UK. This hard-distance route offers varied terrain, long-distance trekking, safety tips, gear lists, and ideal seasons.",
+      "h1": "Calderdale Way Link – 42.9 km Hard Hike in the UK"
+    }
+  }
+}

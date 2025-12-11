@@ -1,0 +1,42 @@
+{
+  "id": "osm-2188696",
+  "slug": "barlborough-heritage-trail-2188696",
+  "name": "Barlborough Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2813894,
+    "lon": -1.3113336
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2188696
+  },
+  "ai": {
+    "summary": "Barlborough Heritage Trail is a gentle 2.2 km walk in the UK, suitable for beginners, families, and anyone seeking a short, informative stroll. The route offers light scenery and a touch of local history.",
+    "terrain_summary": "Primarily flat to gently undulating footpaths with a mix of paved, gravel, and compact trails. After rain, some sections may be muddy; sturdy footwear is advised.",
+    "safety_notes": "Stay on marked paths and heed local signage. Wear sturdy shoes, bring water, and check the weather beforehand. Be aware of road crossings and uneven surfaces; supervise children and dogs. Carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate layers",
+      "Light rain jacket",
+      "Cap or hat and sunscreen",
+      "Small backpack",
+      "Basic first aid kit",
+      "Map or offline map on phone"
+    ],
+    "best_seasons": "Spring to Autumn; suitable year-round but drier, milder conditions are typical.",
+    "seo": {
+      "title": "Barlborough Heritage Trail – Easy 2.2 km Walk in the UK",
+      "meta_description": "Discover the Barlborough Heritage Trail, a 2.2 km easy walk in the UK. Perfect for families and beginners, featuring light terrain, local history, and scenic views.",
+      "h1": "Barlborough Heritage Trail – Easy 2.2 km UK Walk"
+    }
+  }
+}

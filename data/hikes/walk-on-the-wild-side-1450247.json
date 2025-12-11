@@ -1,0 +1,21 @@
+{
+  "id": "osm-1450247",
+  "slug": "walk-on-the-wild-side-1450247",
+  "name": "Walk on the wild side",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9604422,
+    "lon": -0.3728055
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1450247
+  }
+}

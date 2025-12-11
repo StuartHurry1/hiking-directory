@@ -1,0 +1,45 @@
+{
+  "id": "osm-162601",
+  "slug": "a-walk-to-the-forest-162601",
+  "name": "A Walk to the Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2392776,
+    "lon": -2.0487002
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 162601
+  },
+  "ai": {
+    "summary": "A challenging 21.7 km hike in the UK that culminates in a forested area. Suitable for experienced hikers with good fitness and navigation skills, featuring long distances and varied terrain.",
+    "terrain_summary": "The route mixes grassy tracks, woodland paths, and occasional rocky or muddy sections. Footing can be uneven or slippery when wet, with parts passing through forests where shade is variable and visibility may change.",
+    "safety_notes": "Check the weather forecast before setting out; UK conditions can change rapidly. Wear sturdy hiking boots and dress in layers with a waterproof outer layer. Stay on marked trails, carry a map and compass or GPS, and let someone know your plan and expected return. Bring enough water and energy snacks, a basic first aid kit, and a charged phone (with a portable power bank if possible). Be cautious of wildlife and overhanging branches; if river crossings are involved, assess water depth and current and turn back if unsafe.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Insulating layer for warmth",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Emergency blanket or bivvy",
+      "Sunscreen and lip balm",
+      "Mobile power bank (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to November) for milder weather and longer daylight; winter presents higher risk and requires extra precautions.",
+    "seo": {
+      "title": "A Walk to the Forest — 21.7 km Hard Hike in the UK",
+      "meta_description": "Conquer 21.7 km of varied terrain on a hard hiking route in the UK. Forest trails, open countryside, and long-distance effort with practical tips, gear, and safety guidance.",
+      "h1": "A Walk to the Forest: 21.7 km Hard Hike in the UK"
+    }
+  }
+}

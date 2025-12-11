@@ -1,0 +1,43 @@
+{
+  "id": "osm-13217213",
+  "slug": "bessy-bell-east-13217213",
+  "name": "Bessy Bell East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6754309,
+    "lon": -7.3517238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13217213
+  },
+  "ai": {
+    "summary": "Bessy Bell East is a moderate 8.4 km hike in the UK, offering a mix of open upland trails and gentle ascents. With rolling terrain and potential boggy stretches, it suits hikers comfortable with a longer trek and variable weather. The route delivers scenic views and a sense of isolation typical of UK countryside uplands.",
+    "terrain_summary": "Expect a mix of grassy paths, compact gravel, and occasional rocky or uneven sections. Some stretches may be wet or muddy, especially after rain; stiles or gates are possible. The route traverses open moorland with manageable elevation gain and exposed sections, so waterproof gear and sturdy boots are advised.",
+    "safety_notes": "Plan for changeable UK weather and possible limited daylight. Carry a map and compass (or GPS), inform someone of your planned route and return time, and stay on marked paths. Wear sturdy waterproof footwear, bring extra layers, and pack sufficient water and snacks. Be aware of livestock, avoid the route in icy or high-wind conditions, and know when to turn back if visibility worsens.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and warm layer",
+      "Map and compass (or GPS) and a charged phone with offline maps",
+      "Water bottle or hydration system plus snacks",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Headtorch with spare batteries",
+      "Lightweight emergency blanket or bivvy",
+      "First aid kit and blister care",
+      "Walking poles (optional but helpful on uneven ground)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) when daylight is longer and trail conditions are typically best; avoid winter conditions and very wet weather when boggy sections can be hazardous.",
+    "seo": {
+      "title": "Bessy Bell East Hike – 8.4 km Moderate Trail in the UK",
+      "meta_description": "Explore Bessy Bell East, a moderate 8.4 km hike in the UK. Open upland trails, moorland terrain, and scenic views with practical safety tips and gear recommendations.",
+      "h1": "Bessy Bell East: an 8.4 km Moderate UK Hike"
+    }
+  }
+}

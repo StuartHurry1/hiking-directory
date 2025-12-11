@@ -1,0 +1,23 @@
+{
+  "id": "osm-19306642",
+  "slug": "cubert-wildlife-walk-north-cornwall-19306642",
+  "name": "Cubert wildlife walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4023171,
+    "lon": -5.1303148
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306642
+  }
+}

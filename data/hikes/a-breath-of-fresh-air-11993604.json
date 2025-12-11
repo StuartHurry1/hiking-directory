@@ -1,0 +1,43 @@
+{
+  "id": "osm-11993604",
+  "slug": "a-breath-of-fresh-air-11993604",
+  "name": "A Breath of Fresh Air",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3364413,
+    "lon": 0.9924587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11993604
+  },
+  "ai": {
+    "summary": "A Breath of Fresh Air is a 6.4 km moderate hike in the UK countryside. The route blends woodlands, grassy paths, and gentle climbs, offering refreshing views and a satisfying outing for hikers with some experience. Plan roughly 2–3 hours depending on pace and breaks.",
+    "terrain_summary": "The trail comprises a mix of well-marked forest tracks, open grassy sections, and occasional rocky or rooty steps. Expect mud after rain, uneven footing, and gentle ascents and descents. Scenery includes trees, hedgerows, and open skies with light to moderate exposure.",
+    "safety_notes": "Check the forecast before you go; UK weather can shift quickly. Wear sturdy, grippy boots and bring a waterproof, breathable layer. Carry enough water and snacks, and stay on marked paths. Be mindful of uneven ground, roots, and low branches in woodland sections. Have a map and compass or reliable navigation device, and plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered, weather-appropriate clothing",
+      "Backpack with water (1–2 liters) and snacks",
+      "Map and compass or offline GPS",
+      "Lightweight rain shell and hat",
+      "Sunscreen and sunglasses",
+      "First aid kit",
+      "Headlamp or flashlight (for early/late starts)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October) for comfortable conditions and daylight; winter hikes are possible with extra gear and planning.",
+    "seo": {
+      "title": "A Breath of Fresh Air – 6.4 km Moderate Hike in the UK",
+      "meta_description": "Explore a 6.4 km moderate hike in the UK countryside. Learn about terrain, safety, gear, and the best seasons for this scenic trail.",
+      "h1": "A Breath of Fresh Air: 6.4 km Moderate UK Hike"
+    }
+  }
+}

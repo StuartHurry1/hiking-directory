@@ -1,0 +1,21 @@
+{
+  "id": "osm-2092819",
+  "slug": "irvine-valley-trail-2092819",
+  "name": "Irvine Valley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 52.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6018996,
+    "lon": -4.4546976
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2092819
+  }
+}

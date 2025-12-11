@@ -1,0 +1,24 @@
+{
+  "id": "osm-19567658",
+  "slug": "the-purbeck-ridgeway-corfe-castle-to-the-coast-corfe-castle-19567658",
+  "name": "The Purbeck Ridgeway - Corfe Castle to the coast, Corfe Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6398182,
+    "lon": -2.0620425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567658
+  }
+}

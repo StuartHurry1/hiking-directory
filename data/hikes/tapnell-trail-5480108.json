@@ -1,0 +1,21 @@
+{
+  "id": "osm-5480108",
+  "slug": "tapnell-trail-5480108",
+  "name": "Tapnell Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6809394,
+    "lon": -1.4979396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5480108
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772655",
+  "slug": "west-highland-way-kingshouse-to-kinlochleven-19772655",
+  "name": "West Highland Way (Kingshouse to Kinlochleven)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6511483,
+    "lon": -4.8407204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772655
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2372431",
+  "slug": "south-west-coast-path-section-7-instow-to-westward-ho-2372431",
+  "name": "South West Coast Path (Section 7: Instow to Westward Ho! )",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0610248,
+    "lon": -4.1769186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2372431
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375770",
+  "slug": "south-west-coast-path-section-30-falmouth-to-portloe-2375770",
+  "name": "South West Coast Path (Section 30: Falmouth to Portloe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 62.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1581438,
+    "lon": -5.0140588
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375770
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-14344319",
+  "slug": "stockbridge-common-marsh-wildlife-walk-sw-hants-14344319",
+  "name": "Stockbridge Common Marsh Wildlife Walk, SW Hants",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1102264,
+    "lon": -1.4939369
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14344319
+  }
+}

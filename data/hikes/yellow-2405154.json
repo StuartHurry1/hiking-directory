@@ -1,0 +1,21 @@
+{
+  "id": "osm-2405154",
+  "slug": "yellow-2405154",
+  "name": "yellow",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9939626,
+    "lon": -3.7756103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2405154
+  }
+}

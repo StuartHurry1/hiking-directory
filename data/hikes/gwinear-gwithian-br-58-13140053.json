@@ -1,0 +1,21 @@
+{
+  "id": "osm-13140053",
+  "slug": "gwinear-gwithian-br-58-13140053",
+  "name": "Gwinear-Gwithian BR 58",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2015932,
+    "lon": -5.3218445
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13140053
+  }
+}

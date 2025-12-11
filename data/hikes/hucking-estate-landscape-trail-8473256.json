@@ -1,0 +1,21 @@
+{
+  "id": "osm-8473256",
+  "slug": "hucking-estate-landscape-trail-8473256",
+  "name": "Hucking Estate Landscape Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2895744,
+    "lon": 0.6407403
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8473256
+  }
+}

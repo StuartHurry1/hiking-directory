@@ -1,0 +1,21 @@
+{
+  "id": "osm-13761907",
+  "slug": "the-path-of-liberty-stowe-13761907",
+  "name": "The Path of Liberty, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0272271,
+    "lon": -1.0101707
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13761907
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-3306986",
+  "slug": "adamslie-to-canal-path-3306986",
+  "name": "Adamslie to Canal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9362963,
+    "lon": -4.173912
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3306986
+  },
+  "ai": {
+    "summary": "A short, easy 0.9 km stroll from Adamslie to the Canal Path in the UK. The route runs along a flat canal towpath—perfect for a quick, relaxed walk for families, casual walkers, or anyone seeking a brief outdoor break.",
+    "terrain_summary": "Flat, well-maintained towpath surface along the canal. Mostly level with occasional minor uneven patches at access points; broad, scenic waterway on either side with typical canal-side features.",
+    "safety_notes": "Be aware of cyclists on shared towpaths, stay away from the water’s edge, and wear sturdy footwear. Weather can be damp and slippery; dress in layers and bring a light rain jacket. Keep dogs under voice control or on a leash where required. Carry a phone for emergencies and check for any local closures or restrictions before you go.",
+    "recommended_gear": [
+      "Comfortable waterproof shoes",
+      "Water bottle and light snacks",
+      "Light rain jacket or layerable clothing",
+      "Sunscreen and hat (seasonal)",
+      "Phone with maps or offline route",
+      "Small first-aid kit",
+      "Whistle or personal safety device"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder conditions and better scenery; it's still enjoyable in winter with warm clothing, though days are shorter and weather can be more variable.",
+    "seo": {
+      "title": "Adamslie to Canal Path: Easy 0.9 km Walk in the UK",
+      "meta_description": "Discover a short, easy 0.9 km canal-side walk from Adamslie to the Canal Path in the UK. Flat terrain, scenic water views, ideal for beginners and families.",
+      "h1": "Adamslie to Canal Path: Easy 0.9 km Walk in the UK"
+    }
+  }
+}

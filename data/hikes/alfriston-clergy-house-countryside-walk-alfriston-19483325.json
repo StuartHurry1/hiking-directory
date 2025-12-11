@@ -1,0 +1,44 @@
+{
+  "id": "osm-19483325",
+  "slug": "alfriston-clergy-house-countryside-walk-alfriston-19483325",
+  "name": "Alfriston Clergy House Countryside Walk, Alfriston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8253448,
+    "lon": 0.1546273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19483325
+  },
+  "ai": {
+    "summary": "A challenging 18.7 km countryside hike along the Alfriston Clergy House Countryside Walk, starting near Alfriston, offering rural lanes, hedgerows and modest elevation. Suitable for experienced walkers seeking a strenuous day in the countryside.",
+    "terrain_summary": "Primarily rural country lanes, field paths and uneven trails with hedges and gentle to moderate elevation changes. Expect slippery or muddy sections after rain, stiles, and occasional gates; footing can be uneven and may require careful footing.",
+    "safety_notes": "Due to the hard rating and length, plan with daylight hours and weather in mind. Bring detailed map or a GPS device, know your route, and tell someone your plans. Wear sturdy waterproof walking boots, carry enough water and snacks, and dress in layers. Be cautious of livestock, mud, and sudden changes in weather. Have a plan for emergencies and know your limits.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and a waterproof shell",
+      "Map and compass or GPS device",
+      "Hat, sunglasses and sunscreen",
+      "Lightweight backpack",
+      "First aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Walking poles (optional)",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn for comfortable conditions; feasible year-round with proper gear and daylight.",
+    "seo": {
+      "title": "Alfriston Clergy House Countryside Walk – 18.7 km Hard Hike in the UK",
+      "meta_description": "Tackle a demanding 18.7 km countryside hike from Alfriston. This hard route covers rural lanes, fields and varied terrain—guide, safety tips, gear and planning.",
+      "h1": "Alfriston Clergy House Countryside Walk – 18.7 km Hard Trail"
+    }
+  }
+}

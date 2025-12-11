@@ -1,0 +1,43 @@
+{
+  "id": "osm-19578689",
+  "slug": "bourne-mill-pub-tour-bourne-mill-19578689",
+  "name": "Bourne Mill Pub Tour, Bourne Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8771556,
+    "lon": 0.9122882
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19578689
+  },
+  "ai": {
+    "summary": "A scenic 11.4 km moderate walk starting at Bourne Mill in the UK that meanders through rural lanes and riverside paths, with optional pub stops to sample local fare along the way.",
+    "terrain_summary": "Flat to gently rolling terrain with a mix of paved country lanes, gravel paths, woodland trails, and short grassy sections. Expect a few uneven surfaces, steps, and occasional stiles.",
+    "safety_notes": "Plan for roughly 3–4 hours. Wear sturdy footwear and weather-appropriate clothing. Bring a map, compass, or GPS and stay on marked paths. Be mindful of traffic on narrow lanes and crossings. Check pub opening times if planning stops. Carry water and a light snack, and let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered)",
+      "Light snack",
+      "Map, compass, or GPS device",
+      "Phone with emergency contacts",
+      "Small backpack",
+      "Hat and sunglasses",
+      "Rain jacket or compact umbrella"
+    ],
+    "best_seasons": "Spring through autumn; summer days offer long daylight and pleasant temperatures, while spring and autumn provide milder weather and fewer crowds.",
+    "seo": {
+      "title": "Bourne Mill Pub Tour — 11.4 km Moderate Walk in the UK",
+      "meta_description": "Explore an 11.4-km moderate hike starting at Bourne Mill in the UK. Rural lanes, riverside paths, and optional pubs along the route.",
+      "h1": "Bourne Mill Pub Tour – 11.4 km Moderate Walk in the UK"
+    }
+  }
+}

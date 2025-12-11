@@ -1,0 +1,21 @@
+{
+  "id": "osm-19550110",
+  "slug": "stargazing-circular-walk-at-black-down-19550110",
+  "name": "Stargazing Circular Walk at Black Down",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0702069,
+    "lon": -0.6873781
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19550110
+  }
+}

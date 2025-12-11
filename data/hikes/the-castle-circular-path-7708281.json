@@ -1,0 +1,21 @@
+{
+  "id": "osm-7708281",
+  "slug": "the-castle-circular-path-7708281",
+  "name": "The Castle Circular Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9362979,
+    "lon": -4.5612222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7708281
+  }
+}

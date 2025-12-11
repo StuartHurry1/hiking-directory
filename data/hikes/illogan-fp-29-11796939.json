@@ -1,0 +1,21 @@
+{
+  "id": "osm-11796939",
+  "slug": "illogan-fp-29-11796939",
+  "name": "Illogan FP 29",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2416989,
+    "lon": -5.3103376
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11796939
+  }
+}

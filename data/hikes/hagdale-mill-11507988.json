@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507988",
+  "slug": "hagdale-mill-11507988",
+  "name": "Hagdale Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7697219,
+    "lon": -0.8278637
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507988
+  }
+}

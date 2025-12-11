@@ -1,0 +1,39 @@
+{
+  "id": "osm-15907050",
+  "slug": "back-lane-15907050",
+  "name": "Back Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2586577,
+    "lon": -5.8474326
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15907050
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km stroll along a quiet Back Lane in the UK. Designed for beginners, families, and anyone seeking a minimal-effort walk, this route offers a peaceful, low-traffic experience with typical rural or suburban lane scenery.",
+    "terrain_summary": "Mostly flat, with a mix of tarmac and compact gravel. Surface is generally even but can be uneven near hedges or in wet conditions. No climbing or technical terrain; good footing recommended.",
+    "safety_notes": "Stay on the lane and be aware of occasional vehicles, especially during busy times. Wear comfortable footwear and check the forecast; UK lanes can be slippery after rain. Respect private property; close gates if present. Short route is suitable for children and pets under supervision. Carry a mobile phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Phone with emergency contacts",
+      "Compact rain jacket"
+    ],
+    "best_seasons": "All year, with especially pleasant conditions in spring and autumn; winter can be damp or windy.",
+    "seo": {
+      "title": "Back Lane Walk – Easy 0.4 km Route in the UK",
+      "meta_description": "Enjoy a short and easy 0.4 km walk along a quiet Back Lane in the UK. Perfect for a quick, low-effort stroll suitable for families and beginners.",
+      "h1": "Back Lane Easy 0.4 km Walk (UK)"
+    }
+  }
+}

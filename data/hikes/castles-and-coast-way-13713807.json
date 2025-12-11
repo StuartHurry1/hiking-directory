@@ -1,0 +1,23 @@
+{
+  "id": "osm-13713807",
+  "slug": "castles-and-coast-way-13713807",
+  "name": "Castles & Coast Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2014758,
+    "lon": -3.1878506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13713807
+  }
+}

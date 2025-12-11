@@ -1,0 +1,21 @@
+{
+  "id": "osm-7948543",
+  "slug": "machair-way-7948543",
+  "name": "Machair Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3021255,
+    "lon": -7.3906608
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7948543
+  }
+}

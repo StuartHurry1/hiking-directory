@@ -1,0 +1,21 @@
+{
+  "id": "osm-16341741",
+  "slug": "clunie-path-16341741",
+  "name": "Clunie Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6973788,
+    "lon": -3.7322469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16341741
+  }
+}

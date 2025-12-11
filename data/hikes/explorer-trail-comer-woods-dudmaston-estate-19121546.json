@@ -1,0 +1,21 @@
+{
+  "id": "osm-19121546",
+  "slug": "explorer-trail-comer-woods-dudmaston-estate-19121546",
+  "name": "Explorer Trail, Comer Woods, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5073586,
+    "lon": -2.3792964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19121546
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18124252",
+  "slug": "craigmonie-trail-18124252",
+  "name": "Craigmonie Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3299284,
+    "lon": -4.4894496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18124252
+  }
+}

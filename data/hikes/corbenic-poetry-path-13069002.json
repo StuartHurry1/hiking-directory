@@ -1,0 +1,21 @@
+{
+  "id": "osm-13069002",
+  "slug": "corbenic-poetry-path-13069002",
+  "name": "Corbenic Poetry Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5372455,
+    "lon": -3.6716921
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13069002
+  }
+}

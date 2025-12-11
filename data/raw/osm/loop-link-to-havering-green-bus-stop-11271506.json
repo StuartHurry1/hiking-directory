@@ -1,0 +1,48 @@
+{
+  "id": 11271506,
+  "slug": "loop-link-to-havering-green-bus-stop-11271506",
+  "name": "LOOP link to Havering Green bus stop",
+  "network": "rwn",
+  "tags": {
+    "from": "LOOP section 20 / 21",
+    "name": "LOOP link to Havering Green bus stop",
+    "network": "rwn",
+    "operator": "London Borough of Havering",
+    "route": "foot",
+    "source": "Colin Saunders 'The London Loop' (Aurum Press 2017) ISBN 978 1 78131 561 3",
+    "symbol": "kestrel",
+    "to": "Havering Green bus stop",
+    "type": "route",
+    "website": "https://tfl.gov.uk/hub/stop/490G00007916/havering-green/"
+  },
+  "coordinates": [
+    [
+      0.1833268,
+      51.6167989
+    ],
+    [
+      0.1833594,
+      51.6166956
+    ],
+    [
+      0.1833766,
+      51.6166316
+    ],
+    [
+      0.1832635,
+      51.6168021
+    ],
+    [
+      0.1833268,
+      51.6167989
+    ],
+    [
+      0.1831222,
+      51.6168233
+    ],
+    [
+      0.1832635,
+      51.6168021
+    ]
+  ]
+}

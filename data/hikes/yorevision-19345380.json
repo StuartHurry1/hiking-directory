@@ -1,0 +1,21 @@
+{
+  "id": "osm-19345380",
+  "slug": "yorevision-19345380",
+  "name": "Yorevision",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0977372,
+    "lon": -1.3954975
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19345380
+  }
+}

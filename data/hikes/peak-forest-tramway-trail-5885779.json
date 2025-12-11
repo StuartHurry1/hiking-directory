@@ -1,0 +1,21 @@
+{
+  "id": "osm-5885779",
+  "slug": "peak-forest-tramway-trail-5885779",
+  "name": "Peak Forest Tramway Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3355229,
+    "lon": -1.9661036
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5885779
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13028083",
+  "slug": "seskinore-forest-walk-13028083",
+  "name": "Seskinore Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5193235,
+    "lon": -7.2489935
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13028083
+  }
+}

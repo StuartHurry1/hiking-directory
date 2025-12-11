@@ -1,0 +1,21 @@
+{
+  "id": "osm-11573745",
+  "slug": "north-sea-trail-england-11573745",
+  "name": "North Sea Trail, England",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4025102,
+    "lon": -0.4885589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11573745
+  }
+}

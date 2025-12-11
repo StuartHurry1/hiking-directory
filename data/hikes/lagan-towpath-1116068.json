@@ -1,0 +1,21 @@
+{
+  "id": "osm-1116068",
+  "slug": "lagan-towpath-1116068",
+  "name": "Lagan Towpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5109674,
+    "lon": -6.0359621
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1116068
+  }
+}

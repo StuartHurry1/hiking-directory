@@ -1,0 +1,48 @@
+{
+  "id": "osm-9045967",
+  "slug": "avon-estuary-walk-9045967",
+  "name": "Avon Estuary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.291,
+    "lon": -3.8519554
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9045967
+  },
+  "ai": {
+    "summary": "An arduous 34.4 km coastal estuary hike in the UK called the Avon Estuary Walk. The route follows tidal estuary edges with a mix of flat boardwalks, muddy shoreline, gravel tracks and rural lanes. Expect variable weather, exposed winds, and long sections in sun or shade; overall duration and effort classify it as a hard outing.",
+    "terrain_summary": "Mixed coastal terrain: estuary boardwalks, tidal mudflats (check tide times to avoid flooded sections), gravel paths, farm tracks and some paved sections. Sections can be soft or slippery when wet; expect uneven surfaces and occasional gate crossings. Long, exposed stretches with minimal shade.",
+    "safety_notes": "Plan around tide times and weather; check local tide tables for mudflat crossings and potential flooding. The route is long and strenuous; ensure you are physically prepared and carry sufficient food and water. Wear sturdy waterproof footwear and dress in layers; bring waterproofs for rain and wind. Use a map, compass or GPS, and keep a charged phone; share your plan with someone. Stay on marked paths, respect private property, and watch for traffic on rural roads. Daylight can be limited in winter; carry a light and whistle for emergencies.",
+    "recommended_gear": [
+      "Waterproof jacket and layered clothing",
+      "Sturdy hiking boots or approach shoes with good grip",
+      "Hat and gloves (seasonal)",
+      "Water bottle or hydration system",
+      "Energy snacks and a small meal for longer days",
+      "Map and/or GPS device; compass as backup",
+      "Fully charged phone and portable power bank",
+      "Headlamp or flashlight (with spare batteries)",
+      "Emergency whistle",
+      "First aid kit",
+      "Small dry bag for electronics",
+      "Tide timetable or tide app (essential for mudflat sections)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn; longer daylight hours and generally more predictable weather, though conditions can still be changeable.",
+    "seo": {
+      "title": "Avon Estuary Walk – 34.4 km Hard Coastal Trail in the UK",
+      "meta_description": "Explore the Avon Estuary Walk, a challenging 34.4 km coastal hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to go.",
+      "h1": "Avon Estuary Walk – 34.4 km Hard Coastal Trail"
+    }
+  }
+}

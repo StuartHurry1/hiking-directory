@@ -1,0 +1,44 @@
+{
+  "id": "osm-1604139",
+  "slug": "amber-valley-routeway-walk-19-1604139",
+  "name": "Amber Valley Routeway Walk 19",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.092607,
+    "lon": -1.5185036
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1604139
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 19 is an 11.2 km moderate hike in the UK along a section of the Amber Valley Routeway. The route blends rural lanes, woodland paths and open fields, suitable for walkers with decent fitness and basic map-reading skills. Expect varied surfaces and some gentle gradients, with hedgerows, farmland and occasional river views along the way.",
+    "terrain_summary": "Mixed terrain including gravel and compacted paths, grassy field edges and short tarmac sections. Watch for gates and stiles, occasional muddy patches in wet weather, and gentle to moderate gradients throughout.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy footwear and carry a map or GPS. Stay on marked paths, be mindful of livestock and road crossings, and have enough water and snacks. In wet or icy conditions, allow extra time and be prepared for mud; if visibility is poor, consider postponing.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Weather-appropriate outerwear (waterproof jacket/softshell)",
+      "Water bottle",
+      "Energy snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Emergency whistle",
+      "Lightweight rain cover or packable rain gear"
+    ],
+    "best_seasons": "Spring through autumn; be prepared for variable UK weather.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 19 – 11.2 km Moderate UK Hike",
+      "meta_description": "Discover Amber Valley Routeway Walk 19, an 11.2 km moderate hike in the UK offering mixed terrain, countryside scenery and accessible routes for walkers with moderate fitness.",
+      "h1": "Amber Valley Routeway Walk 19 – 11.2 km Moderate Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-8769883",
+  "slug": "baynard-house-pedway-8769883",
+  "name": "Baynard House Pedway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5117326,
+    "lon": -0.100741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769883
+  },
+  "ai": {
+    "summary": "Baynard House Pedway is a short coastal walk in the UK, 1.3 km long with easy difficulty. The route follows a pedestrian walkway near the coast, offering sea views and a flat, straightforward path suitable for most ages and abilities.",
+    "terrain_summary": "The route is mostly flat with a paved or boardwalk surface along a coastal pedway. Expect open exposure to sea winds, railings along edges, and occasional ramps or stairs at access points. Surface can be slick when wet.",
+    "safety_notes": "Urban coastal path safety: check weather and wind conditions before starting; surfaces can be slippery when wet; stay in designated pedestrian lanes and watch for cyclists and other walkers; follow posted closures; keep children close and use handrails on any elevated sections; bring appropriate clothing, water, and sun protection; mobility aids or strollers should verify access at the time of your visit.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Sunscreen",
+      "Hat or sunglasses",
+      "Phone or camera",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Spring through autumn are ideal for this coastal walk; year-round visits are possible, but winters can be windy and damp.",
+    "seo": {
+      "title": "Baynard House Pedway: Easy 1.3 km Coastal Walk in the UK",
+      "meta_description": "Explore the Baynard House Pedway, a short and easy 1.3 km coastal walk in the UK. Flat, scenic, and suitable for all ages, with sea views and urban charm.",
+      "h1": "Baynard House Pedway – Easy 1.3 km Coastal Walk (UK)"
+    }
+  }
+}

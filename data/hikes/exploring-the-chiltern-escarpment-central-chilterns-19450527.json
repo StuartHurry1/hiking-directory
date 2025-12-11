@@ -1,0 +1,21 @@
+{
+  "id": "osm-19450527",
+  "slug": "exploring-the-chiltern-escarpment-central-chilterns-19450527",
+  "name": "Exploring the Chiltern Escarpment, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7481508,
+    "lon": -0.7677353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19450527
+  }
+}

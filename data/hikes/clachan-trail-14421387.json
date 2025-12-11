@@ -1,0 +1,21 @@
+{
+  "id": "osm-14421387",
+  "slug": "clachan-trail-14421387",
+  "name": "Clachan Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7175645,
+    "lon": -3.8673563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14421387
+  }
+}

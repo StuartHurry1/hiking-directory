@@ -1,0 +1,43 @@
+{
+  "id": "osm-5614384",
+  "slug": "avenue-5614384",
+  "name": "Avenue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0547916,
+    "lon": -3.0821879
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5614384
+  },
+  "ai": {
+    "summary": "A 14.4 km moderate-grade hike in the UK called Avenue. The route blends country lanes, woodland paths, and open stretches, delivering a relaxed yet engaging half-day walk suited to walkers with moderate fitness. It does not emphasize any particular theme or motif.",
+    "terrain_summary": "Mixed terrain: grassy trails, woodland track, and occasional tarmac sections. Moderate elevation changes with a few gentle climbs; expect muddy sections after rain and occasional roots or loose gravel. Navigation relies on waymarkers and local landmarks; map or GPS recommended.",
+    "safety_notes": "Plan for daylight and weather; wear sturdy boots; stay on official paths; be cautious of vehicles on country lanes; carry a map/compass or GPS; tell someone your route and expected return; bring water and snacks; check for closures and local advisories before starting.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing; waterproof jacket",
+      "Small backpack to carry essentials",
+      "Snack/energy bars",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Basic first aid kit",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn; particularly pleasant from April to October; conditions can vary in UK, so be prepared for mud and rain year-round.",
+    "seo": {
+      "title": "Avenue Hike - 14.4 km Moderate Walk in the UK",
+      "meta_description": "Discover Avenue, a 14.4 km moderate hike in the UK. Learn about the terrain, safety tips, best seasons, and gear to enjoy a comfortable day on the trail.",
+      "h1": "Avenue: 14.4 km Moderate Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 12660246,
+  "slug": "capital-ring-link-to-stoke-newington-station-12660246",
+  "name": "Capital Ring link to Stoke Newington station",
+  "network": "rwn",
+  "tags": {
+    "from": "Capital Ring section 12 & 13",
+    "name": "Capital Ring link to Stoke Newington station",
+    "network": "rwn",
+    "operator": "London Borough of Hackney",
+    "route": "foot",
+    "source": "Colin Saunders 'The Capital Ring (Aurum Press, 2020) ISBN 978 0 7112 5821 1",
+    "to": "Stoke Newington overground station",
+    "type": "route",
+    "website": "https://tfl.gov.uk/hub/stop/910GSTKNWNG/stoke-newington-rail-station/",
+    "wikipedia:en": "Stoke Newington railway station"
+  },
+  "coordinates": [
+    [
+      -0.0729568,
+      51.5655017
+    ],
+    [
+      -0.0729588,
+      51.5654785
+    ],
+    [
+      -0.0729605,
+      51.5654574
+    ],
+    [
+      -0.0729605,
+      51.5654574
+    ],
+    [
+      -0.0729614,
+      51.5654492
+    ],
+    [
+      -0.0729739,
+      51.5654091
+    ],
+    [
+      -0.0729785,
+      51.5653
+    ],
+    [
+      -0.0729814,
+      51.5652013
+    ],
+    [
+      -0.0729814,
+      51.5652013
+    ],
+    [
+      -0.0729778,
+      51.5651655
+    ],
+    [
+      -0.0729756,
+      51.5651291
+    ],
+    [
+      -0.0729756,
+      51.5651291
+    ],
+    [
+      -0.0729589,
+      51.5647861
+    ],
+    [
+      -0.0729611,
+      51.5641005
+    ]
+  ]
+}

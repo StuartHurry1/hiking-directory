@@ -1,0 +1,47 @@
+{
+  "id": "osm-16124738",
+  "slug": "ben-ledi-trail-16124738",
+  "name": "Ben Ledi Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.252854,
+    "lon": -4.2818896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124738
+  },
+  "ai": {
+    "summary": "Ben Ledi Trail is a demanding 19.1 km hike in the UK that rewards strong climbers with expansive views from the summit. The route involves a steady, steep ascent and rocky, uneven ground, so it is best tackled by experienced hikers who are prepared for changing weather and long, challenging traverses. Plan for several hours, start early, and be ready for a strenuous day.",
+    "terrain_summary": "The trail combines forest tracks, steep rocky climbs, and exposed ridges. Expect steep ascents, loose scree near the summit, mud after rain, and uneven footing with roots and stones. Navigation is straightforward on clear days, but mist or wind can reduce visibility, so proper gear and caution are essential.",
+    "safety_notes": "Weather in the UK can change rapidly; bring appropriate clothing and waterproof layers, sturdy boots, and a fully charged phone. Stay on marked paths, carry a map and compass or GPS, and tell someone your route and expected return. Watch for fatigue, wind exposure near the summit, and loose rocks; if conditions worsen or visibility is poor, consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Breathable mid-layer (fleece or equivalent)",
+      "Map and compass (or GPS device)",
+      "Fully charged mobile phone (with offline maps) and power bank",
+      "Headlamp or flashlight with spare batteries",
+      "Water container or hydration system (2–3 liters)",
+      "High-energy snacks (and a small, lightweight meal if needed)",
+      "First aid kit with blister care",
+      "Sunscreen, sunglasses, and a hat",
+      "Emergency whistle",
+      "Gloves and a warm hat for summit winds",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) typically offer the best balance of daylight and drier conditions. Winter hikes are possible but require advanced mountaineering experience and proper winter gear.",
+    "seo": {
+      "title": "Ben Ledi Trail – 19.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Ben Ledi Trail, a challenging 19.1 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to tackle this rugged summit route.",
+      "h1": "Ben Ledi Trail – A Hard 19.1 km UK Hike"
+    }
+  }
+}

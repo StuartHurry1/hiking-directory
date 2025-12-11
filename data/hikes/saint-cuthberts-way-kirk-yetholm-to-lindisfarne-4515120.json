@@ -1,0 +1,21 @@
+{
+  "id": "osm-4515120",
+  "slug": "saint-cuthberts-way-kirk-yetholm-to-lindisfarne-4515120",
+  "name": "Saint Cuthbert's Way (Kirk Yetholm to Lindisfarne)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 114.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5460822,
+    "lon": -2.2740907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4515120
+  }
+}

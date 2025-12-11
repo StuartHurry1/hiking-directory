@@ -1,0 +1,21 @@
+{
+  "id": "osm-19400457",
+  "slug": "west-wycombe-trial-west-wycombe-village-19400457",
+  "name": "West Wycombe Trial, West Wycombe Village",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6486466,
+    "lon": -0.8062953
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400457
+  }
+}

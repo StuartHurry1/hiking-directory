@@ -1,0 +1,21 @@
+{
+  "id": "osm-4097745",
+  "slug": "teesdale-way-middlesbrough-to-warrenby-4097745",
+  "name": "Teesdale Way (Middlesbrough to Warrenby)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5772219,
+    "lon": -1.2023718
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4097745
+  }
+}

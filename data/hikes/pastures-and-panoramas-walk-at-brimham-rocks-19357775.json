@@ -1,0 +1,21 @@
+{
+  "id": "osm-19357775",
+  "slug": "pastures-and-panoramas-walk-at-brimham-rocks-19357775",
+  "name": "Pastures and Panoramas Walk at Brimham Rocks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19357775
+  }
+}

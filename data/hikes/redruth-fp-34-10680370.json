@@ -1,0 +1,21 @@
+{
+  "id": "osm-10680370",
+  "slug": "redruth-fp-34-10680370",
+  "name": "Redruth FP 34",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2288692,
+    "lon": -5.2282463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10680370
+  }
+}

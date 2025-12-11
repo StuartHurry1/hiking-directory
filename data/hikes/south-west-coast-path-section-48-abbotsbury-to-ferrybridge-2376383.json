@@ -1,0 +1,24 @@
+{
+  "id": "osm-2376383",
+  "slug": "south-west-coast-path-section-48-abbotsbury-to-ferrybridge-2376383",
+  "name": "South West Coast Path (Section 48: Abbotsbury to Ferrybridge)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6597416,
+    "lon": -2.5975361
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376383
+  }
+}

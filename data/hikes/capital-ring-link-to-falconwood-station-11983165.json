@@ -1,0 +1,21 @@
+{
+  "id": "osm-11983165",
+  "slug": "capital-ring-link-to-falconwood-station-11983165",
+  "name": "Capital Ring link to Falconwood station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4589842,
+    "lon": 0.0795765
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11983165
+  }
+}

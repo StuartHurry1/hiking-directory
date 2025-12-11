@@ -1,0 +1,21 @@
+{
+  "id": "osm-325898",
+  "slug": "letchworth-greenway-325898",
+  "name": "Letchworth Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9568597,
+    "lon": -0.2192957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 325898
+  }
+}

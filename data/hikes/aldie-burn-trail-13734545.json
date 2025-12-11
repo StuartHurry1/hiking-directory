@@ -1,0 +1,43 @@
+{
+  "id": "osm-13734545",
+  "slug": "aldie-burn-trail-13734545",
+  "name": "Aldie Burn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.7858071,
+    "lon": -4.0991004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13734545
+  },
+  "ai": {
+    "summary": "Aldie Burn Trail is a short, 3.5 km easy hike in the UK, featuring a pleasant riverside walk along the Aldie Burn. The route is suitable for beginners and families, with gentle terrain and scenic water views.",
+    "terrain_summary": "Predominantly well-maintained footpaths along the riverbank, with a mix of gravel, packed earth, and short grassy sections. The trail is mostly flat with occasional gentle rises and can be muddy near the water, especially after rain. Watch for exposed roots on shaded stretches.",
+    "safety_notes": "Weather in the UK can change quickly; check the forecast before you go. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths and be cautious near the riverbank, as surfaces can be slippery when wet. Bring a map or charged phone with offline maps, and tell someone your plan if hiking alone. This is a short hike, but always be prepared for changes in conditions and daylight.",
+    "recommended_gear": [
+      "Sturdy, waterproof footwear",
+      "Light waterproof jacket and layers",
+      "Water bottle or hydration system",
+      "Snacks",
+      "Map or offline maps app (or a compass)",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight backpack",
+      "Small first aid kit",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for comfortable conditions; winter visits can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Aldie Burn Trail – 3.5 km Easy UK Hike",
+      "meta_description": "Explore Aldie Burn Trail, a 3.5 km easy hike in the UK. Learn about the terrain, practical safety tips, a gear checklist, and the best seasons for this riverside walk.",
+      "h1": "Aldie Burn Trail — 3.5 km Easy UK Hike"
+    }
+  }
+}

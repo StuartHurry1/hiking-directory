@@ -1,0 +1,23 @@
+{
+  "id": "osm-18922949",
+  "slug": "wotton-under-edge-cotswold-gateway-route-1-18922949",
+  "name": "Wotton-under-Edge Cotswold Gateway Route 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.638873,
+    "lon": -2.3481023
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18922949
+  }
+}

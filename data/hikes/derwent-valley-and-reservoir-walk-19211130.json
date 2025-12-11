@@ -1,0 +1,21 @@
+{
+  "id": "osm-19211130",
+  "slug": "derwent-valley-and-reservoir-walk-19211130",
+  "name": "Derwent Valley and Reservoir Walk,",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3946012,
+    "lon": -1.724941
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19211130
+  }
+}

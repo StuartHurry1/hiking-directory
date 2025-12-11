@@ -1,0 +1,40 @@
+{
+  "id": "osm-11507205",
+  "slug": "access-to-ronas-hil-11507205",
+  "name": "Access to Ronas Hil",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5342108,
+    "lon": -1.3913441
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507205
+  },
+  "ai": {
+    "summary": "A short, easy 1.9 km hike to Access to Ronas Hil in the UK. Suitable for beginners, with a gentle ascent and coastal views from the summit.",
+    "terrain_summary": "Relaxed grassy paths with occasional uneven stones. Gentle incline overall; expect some exposed sections near the summit and possible wet or slippery ground in bad weather.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear, stay on the marked path, and be prepared for wind at the summit. Bring waterproofs and sufficient water, and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water",
+      "Windproof jacket and layers",
+      "Hat and sunscreen",
+      "Map or GPS device (or offline map)",
+      "Snack"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); the hike can be done year-round with proper gear and caution for winter conditions.",
+    "seo": {
+      "title": "Access to Ronas Hil – Easy 1.9 km hike in the UK",
+      "meta_description": "Discover a short, easy 1.9 km hike to Access to Ronas Hil in the UK. Gentle terrain, coastal views, and beginner-friendly conditions.",
+      "h1": "Access to Ronas Hil: Easy 1.9 km hike"
+    }
+  }
+}

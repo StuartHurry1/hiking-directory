@@ -1,0 +1,21 @@
+{
+  "id": "osm-10306728",
+  "slug": "cape-wrath-trail-craig-bealach-ban-10306728",
+  "name": "Cape Wrath Trail (Craig-Bealach Ban)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4868337,
+    "lon": -5.3058385
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10306728
+  }
+}

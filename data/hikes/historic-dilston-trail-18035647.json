@@ -1,0 +1,21 @@
+{
+  "id": "osm-18035647",
+  "slug": "historic-dilston-trail-18035647",
+  "name": "Historic Dilston Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.971337,
+    "lon": -2.0194632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18035647
+  }
+}

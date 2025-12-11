@@ -1,0 +1,21 @@
+{
+  "id": "osm-19097853",
+  "slug": "wicken-fen-adventurers-trail-wicken-fen-19097853",
+  "name": "Wicken Fen Adventurers' Trail, Wicken Fen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3107191,
+    "lon": 0.2917099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19097853
+  }
+}

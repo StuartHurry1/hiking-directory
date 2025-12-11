@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507977",
+  "slug": "north-sandwick-yell-11507977",
+  "name": "North Sandwick, Yell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.652044,
+    "lon": -1.0004668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507977
+  }
+}

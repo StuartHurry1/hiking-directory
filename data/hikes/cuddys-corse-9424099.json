@@ -1,0 +1,21 @@
+{
+  "id": "osm-9424099",
+  "slug": "cuddys-corse-9424099",
+  "name": "Cuddy's Corse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8562803,
+    "lon": -1.5720394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9424099
+  }
+}

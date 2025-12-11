@@ -1,0 +1,21 @@
+{
+  "id": "osm-8611587",
+  "slug": "chulmleigh-community-trail-8611587",
+  "name": "Chulmleigh Community Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.91568,
+    "lon": -3.8699072
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8611587
+  }
+}

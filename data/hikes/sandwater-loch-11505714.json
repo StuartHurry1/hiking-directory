@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505714",
+  "slug": "sandwater-loch-11505714",
+  "name": "Sandwater Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2792859,
+    "lon": -1.2505592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505714
+  }
+}

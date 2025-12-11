@@ -1,0 +1,44 @@
+{
+  "id": "osm-18990388",
+  "slug": "box-hill-train-to-stepping-stones-walk-box-hill-18990388",
+  "name": "Box Hill Train To Stepping Stones Walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2540451,
+    "lon": -0.3285095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990388
+  },
+  "ai": {
+    "summary": "An 8.1 km moderate hike starting at Box Hill Train Station that loops through chalk hill scenery, woodlands, and the iconic Stepping Stones, offering sweeping views over the Surrey Hills and varied surfaces suitable for walkers with a basic fitness level.",
+    "terrain_summary": "Mostly well-defined chalk paths, grassy slopes, and woodland tracks. Expect some uneven ground, short flights of steps, and exposed ridges. The Stepping Stones cross a shallow stream and can be slippery when wet; parts of the route may be rocky or bumpy, especially after rain.",
+    "safety_notes": "Prepare for variable conditions: wear sturdy footwear with good grip; check the weather as surfaces can be slick when wet. Stay on marked paths and keep a safe distance from edges around the Stepping Stones. Bring water, snacks, and a small first aid kit; allow extra time for breaks and slower sections. Mobile reception can be limited in wooded areas. Dogs are typically allowed but keep them on a lead in busy sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Warm layers (fleece, hat)",
+      "Water bottle or hydration system (2 L recommended)",
+      "Snacks",
+      "Map or offline route guide (or GPS device)",
+      "Small first-aid kit",
+      "Sunscreen and sunglasses",
+      "Fully charged mobile phone",
+      "Lightweight rain cover for your pack"
+    ],
+    "best_seasons": "Spring (March–May) and Autumn (September–November) offer the best balance of light, color, and footing; summer can be pleasant but busier, while winter days are shorter and paths may be muddy or icy.",
+    "seo": {
+      "title": "Box Hill Train to Stepping Stones Walk – 8.1km Moderate Hike in Box Hill",
+      "meta_description": "Discover an 8.1 km moderate hike from Box Hill Train Station to the Stepping Stones, featuring chalk cliffs, heathland, and sweeping views in Surrey Hills, England.",
+      "h1": "Box Hill Train to Stepping Stones Walk (8.1 km, Moderate)"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18646973",
+  "slug": "four-commons-walk-18646973",
+  "name": "Four Commons Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6449359,
+    "lon": -1.9528197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18646973
+  }
+}

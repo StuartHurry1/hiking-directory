@@ -1,0 +1,46 @@
+{
+  "id": "osm-18226030",
+  "slug": "birnam-hill-and-the-river-tay-18226030",
+  "name": "Birnam Hill and The River Tay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5575696,
+    "lon": -3.577561
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18226030
+  },
+  "ai": {
+    "summary": "A challenging 30 km hike that combines a steep ascent to Birnam Hill with a scenic stretch along the River Tay in the UK. Expect varied terrain, long distances, and rewarding far-reaching views.",
+    "terrain_summary": "The route begins with a steep climb up Birnam Hill via rough paths and open hillside, followed by woodland tracks, heath and peat bogs, then riverbank trails with uneven surfaces and occasional rocky sections. Navigation is straightforward on clear paths but mist can reduce visibility.",
+    "safety_notes": "Prepare for a hard 30 km day with long ascents and potentially changeable UK weather. Carry a map and compass and know your route; don't rely solely on phone navigation. Check the forecast and daylight hours and start early to avoid darkness. Wear sturdy boots and dress in layers with waterproof outerwear. Stay hydrated and bring high-energy snacks; take regular breaks. Be mindful of wildlife, ticks, and midges; use repellent and check for ticks after woodland sections. In remote parts, have a plan for emergency communication and inform someone of your route and timings. Leave no trace and respect the environment.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Rucksack with 20–30 L capacity",
+      "Water bottle or hydration system (2–3 L total)",
+      "Weather-appropriate clothing with a layering system",
+      "Waterproof jacket and trousers",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Whistle and personal identification",
+      "First aid kit and blister care",
+      "Food and high-energy snacks",
+      "Emergency blanket or lightweight shelter",
+      "Sun protection (hat, sunglasses, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for better daylight and trail conditions. Winter hikes can be challenging due to snow, ice, and shorter days; expect mud and exposure in shoulder seasons.",
+    "seo": {
+      "title": "Birnam Hill and The River Tay — 30 km Hard Hike in the UK",
+      "meta_description": "Explore a demanding 30 km route combining Birnam Hill climbs with a scenic stretch along the River Tay in the UK. Get terrain insights, safety tips, and gear recommendations.",
+      "h1": "Birnam Hill and The River Tay: 30 km Hard Hike"
+    }
+  }
+}

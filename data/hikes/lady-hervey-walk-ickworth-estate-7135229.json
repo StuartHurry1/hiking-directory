@@ -1,0 +1,23 @@
+{
+  "id": "osm-7135229",
+  "slug": "lady-hervey-walk-ickworth-estate-7135229",
+  "name": "Lady Hervey Walk, Ickworth Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2206955,
+    "lon": 0.6439034
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7135229
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763831",
+  "slug": "water-of-leith-walkway-slateford-to-leith-19763831",
+  "name": "Water of Leith Walkway (Slateford to Leith)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9562488,
+    "lon": -3.2104885
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763831
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14594957",
+  "slug": "marine-mammal-trail-14594957",
+  "name": "Marine Mammal Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.234818,
+    "lon": -5.6687822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594957
+  }
+}

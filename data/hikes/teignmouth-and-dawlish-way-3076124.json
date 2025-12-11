@@ -1,0 +1,21 @@
+{
+  "id": "osm-3076124",
+  "slug": "teignmouth-and-dawlish-way-3076124",
+  "name": "Teignmouth & Dawlish Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 90.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5472289,
+    "lon": -3.5039651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3076124
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10301540",
+  "slug": "camborne-fp-8-10301540",
+  "name": "Camborne FP 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2246626,
+    "lon": -5.3243686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10301540
+  }
+}

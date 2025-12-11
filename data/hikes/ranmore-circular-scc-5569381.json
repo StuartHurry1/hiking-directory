@@ -1,0 +1,21 @@
+{
+  "id": "osm-5569381",
+  "slug": "ranmore-circular-scc-5569381",
+  "name": "Ranmore Circular (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2541555,
+    "lon": -0.3286382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5569381
+  }
+}

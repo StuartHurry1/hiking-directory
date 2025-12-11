@@ -1,0 +1,21 @@
+{
+  "id": "osm-18578115",
+  "slug": "halesowen-architectural-heritage-trail-18578115",
+  "name": "Halesowen Architectural Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4488671,
+    "lon": -2.0527273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18578115
+  }
+}

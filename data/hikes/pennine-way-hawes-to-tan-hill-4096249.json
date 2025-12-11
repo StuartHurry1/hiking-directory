@@ -1,0 +1,21 @@
+{
+  "id": "osm-4096249",
+  "slug": "pennine-way-hawes-to-tan-hill-4096249",
+  "name": "Pennine Way (Hawes to Tan Hill)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4498666,
+    "lon": -2.1597716
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4096249
+  }
+}

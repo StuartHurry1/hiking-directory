@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507983",
+  "slug": "michaels-wood-extension-11507983",
+  "name": "Michael's wood extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2853635,
+    "lon": -1.3891236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507983
+  }
+}

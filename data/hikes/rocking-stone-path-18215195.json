@@ -1,0 +1,21 @@
+{
+  "id": "osm-18215195",
+  "slug": "rocking-stone-path-18215195",
+  "name": "Rocking Stone Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5690905,
+    "lon": -3.606411
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18215195
+  }
+}

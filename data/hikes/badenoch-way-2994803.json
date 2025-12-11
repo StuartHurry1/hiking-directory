@@ -1,0 +1,49 @@
+{
+  "id": "osm-2994803",
+  "slug": "badenoch-way-2994803",
+  "name": "Badenoch Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1341165,
+    "lon": -3.9154888
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2994803
+  },
+  "ai": {
+    "summary": "A demanding long-distance trek in the UK, Badenoch Way covers 42.7 km of varied terrain. Expect significant elevation changes, remote sections, and rugged paths; suitable for experienced hikers seeking a hard challenge.",
+    "terrain_summary": "Expect mixed terrain: some well-maintained paths, grassy moorlands, rocky sections and occasional boggy ground. Elevation gain is variable with long ascents and descents; weather can be harsh and muddy conditions are common after rain. Navigation may be challenging in remote stretches with limited waypoints.",
+    "safety_notes": "Prepare for rapid weather changes common in the UK. Carry a map and compass and use them in addition to technology; do not rely on a phone as your sole navigation tool. Tell someone your plan and expected return time. Start early to ensure daylight; winter days are short. Pack appropriate clothing, including waterproof layers, and carry an emergency shelter. Bring enough water and high-energy food, and consider a water purification method. Include a basic first aid kit, a whistle, and a headlamp with spare batteries. Trekking poles can help with stability on uneven ground.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating layers (fleece or down)",
+      "Extra hat and gloves",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system; water purification option",
+      "High-energy snacks and meals",
+      "Headlamp with spare batteries",
+      "Basic first aid kit",
+      "Emergency shelter or space blanket",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses, lip balm)",
+      "Rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) for the best conditions; winter hiking is possible but requires experience, proper gear, and careful planning.",
+    "seo": {
+      "title": "Badenoch Way – 42.7 km Hard Hike in the UK",
+      "meta_description": "Plan your Badenoch Way trek: a 42.7 km challenging hike in the United Kingdom. Terrain overview, safety tips, and gear recommendations.",
+      "h1": "Badenoch Way – 42.7 km Hard Hike in the UK"
+    }
+  }
+}

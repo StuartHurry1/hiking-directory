@@ -1,0 +1,43 @@
+{
+  "id": "osm-16124737",
+  "slug": "ben-aan-trail-16124737",
+  "name": "Ben A'an Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2325868,
+    "lon": -4.4060753
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124737
+  },
+  "ai": {
+    "summary": "Ben A'an Trail is a short, easy hike in the UK totaling about 1.9 km. The route climbs steadily to a rocky summit offering broad views of the surrounding hills. It is suitable for most ages and abilities, and is a popular option for a quick outdoor escape.",
+    "terrain_summary": "The trail follows a well-defined path with a mix of dirt and gravel at the lower sections, becoming steeper and rockier near the summit. Expect uneven, rocky steps and some loose stones; the final ascent is on exposed, rocky ground.",
+    "safety_notes": "Even on an easy hike, weather can change quickly and the upper sections can be exposed. Stay on marked paths, wear sturdy footwear with good grip, and bring water and a light layer. Supervise children, watch for loose rocks, and avoid the summit in high winds or icy conditions. If you’re unsure of conditions, turn back and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Layers for warmth",
+      "Map or GPS/mobile offline navigation",
+      "Sun protection",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn; winter can be challenging and is best left to experienced hikers due to ice and exposed rocky sections.",
+    "seo": {
+      "title": "Ben A'an Trail – Easy 1.9 km Hike in the UK",
+      "meta_description": "Discover Ben A'an Trail, a short 1.9 km hike in the UK. An easy ascent to a rocky summit with panoramic views, plus safety tips and gear recommendations.",
+      "h1": "Ben A'an Trail – Easy 1.9 km Hike"
+    }
+  }
+}

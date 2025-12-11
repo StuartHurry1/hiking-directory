@@ -1,0 +1,23 @@
+{
+  "id": "osm-17686347",
+  "slug": "happisburgh-circular-walk-17686347",
+  "name": "Happisburgh Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8220183,
+    "lon": 1.5374358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17686347
+  }
+}

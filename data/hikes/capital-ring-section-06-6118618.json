@@ -1,0 +1,21 @@
+{
+  "id": "osm-6118618",
+  "slug": "capital-ring-section-06-6118618",
+  "name": "Capital Ring (Section 06)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4347253,
+    "lon": -0.1994587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6118618
+  }
+}

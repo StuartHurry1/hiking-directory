@@ -1,0 +1,21 @@
+{
+  "id": "osm-16756976",
+  "slug": "keble-way-16756976",
+  "name": "Keble Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 84,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9988853,
+    "lon": -1.3553312
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16756976
+  }
+}

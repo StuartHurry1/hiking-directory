@@ -1,0 +1,40 @@
+{
+  "id": "osm-10540399",
+  "slug": "camborne-fp-38-ground-truth-10540399",
+  "name": "Camborne FP 38 Ground truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.210133,
+    "lon": -5.2928894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10540399
+  },
+  "ai": {
+    "summary": "A short, easy 0.3 km walk along a public footpath in the UK. Suitable for beginners, families, and anyone looking for a quick stretch, with minimal elevation and straightforward terrain.",
+    "terrain_summary": "Mostly level, well-defined path with a mix of packed earth and gravel. May pass through grassy verges; surfaces can be damp after rain and may have uneven patches in places.",
+    "safety_notes": "Wear sturdy footwear and check the weather forecast. Stay on the designated path, watch for slippery patches when wet, and bring basic essentials such as water and a phone. For accessibility, verify current conditions with local authorities before setting out.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or smartphone with offline map",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring to autumn; winter conditions can be wet or icy, so check local conditions and daylight.",
+    "seo": {
+      "title": "Camborne FP 38 Ground truth – Easy 0.3 km UK Hike",
+      "meta_description": "Discover a short, easy 0.3 km hike on the Camborne FP 38 public footpath in the UK. Gentle terrain, beginner-friendly, and great for a quick outdoor break.",
+      "h1": "Camborne FP 38 Ground truth – Easy 0.3 km Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8349263",
+  "slug": "risborough-pink-route-8349263",
+  "name": "Risborough Pink Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7194585,
+    "lon": -0.8533402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8349263
+  }
+}

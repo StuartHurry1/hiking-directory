@@ -1,0 +1,48 @@
+{
+  "id": "osm-556587",
+  "slug": "aylesbury-ring-556587",
+  "name": "Aylesbury Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 123,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8547428,
+    "lon": -0.8017961
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 556587
+  },
+  "ai": {
+    "summary": "The Aylesbury Ring is a challenging 123 km long-distance hike that loops around the Aylesbury area in the UK. The route traverses rural farmland, woodlands, hedgerows, and occasional road sections, with varied terrain and notable elevation changes. It suits experienced walkers who can plan multiple days on the trail, carry suitable gear, and navigate remote sections. Expect ascents, muddy stretches in wet weather, and sections where good navigation is essential.",
+    "terrain_summary": "Terrain varies from public footpaths and bridleways to country lanes and field margins. Expect hedged fields, gates and stiles, uneven or rocky sections, and muddy tracks after rain. Some moorland or open-country segments may be exposed to wind. Road crossings are possible, and navigation aids are helpful in less well-marked stretches. Overall conditions range from firm surfaces to soft, muddy ground depending on season.",
+    "safety_notes": "Plan as a multi-day trip with daily distances achievable for your pace. Check weather and daylight hours before starting. Carry a map, compass, and a charged device with offline maps; know how to use them. Inform someone of your route and expected timings. Stay on marked paths; watch for livestock and gates. Be prepared for sudden weather changes and have a shelter plan. Bring enough water and energy food; carry a basic first aid kit and blister care. In remote sections, consider travelling with a partner or sharing your itinerary. If signal is limited, rely on navigation tools and have a contingency plan for getting help.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing (base layer, mid-layer, and a waterproof outer shell)",
+      "Waterproof jacket and waterproof trousers",
+      "Backpack sized for multi-day trips (40–60 L) with a rain cover",
+      "Head torch with extra batteries",
+      "Map (OS Explorer or OS Landranger), compass, and/or GPS device",
+      "Water bottles or hydration system with water purification options",
+      "High-energy food and plan for meals plus snacks",
+      "First aid kit with blister care",
+      "Emergency bivy or lightweight shelter and compact sleep system if camping",
+      "Sun protection (sunscreen, hat, sunglasses) and insect repellent",
+      "Emergency whistle and a compact multitool",
+      "Mobile phone with offline maps and a power bank",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–October) are generally preferred for milder temperatures and daylight. Summer offers longer days but can be hot and busy; winter brings shorter days and harsher weather, making the route more challenging.",
+    "seo": {
+      "title": "Aylesbury Ring: 123 km UK Long-Distance Hike (Hard)",
+      "meta_description": "Plan the Aylesbury Ring trek, a challenging 123 km UK hike. Learn terrain, safety tips, gear, and best seasons for this hard-distance trail.",
+      "h1": "Aylesbury Ring Long-Distance Hike (123 km, Hard)"
+    }
+  }
+}

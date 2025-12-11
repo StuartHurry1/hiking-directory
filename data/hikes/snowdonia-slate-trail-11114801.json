@@ -1,0 +1,21 @@
+{
+  "id": "osm-11114801",
+  "slug": "snowdonia-slate-trail-11114801",
+  "name": "Snowdonia Slate Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 327.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2304779,
+    "lon": -4.1100471
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11114801
+  }
+}

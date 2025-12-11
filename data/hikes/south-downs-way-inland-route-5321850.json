@@ -1,0 +1,21 @@
+{
+  "id": "osm-5321850",
+  "slug": "south-downs-way-inland-route-5321850",
+  "name": "South Downs Way (Inland Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8075504,
+    "lon": 0.1592348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5321850
+  }
+}

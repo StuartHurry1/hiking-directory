@@ -1,0 +1,45 @@
+{
+  "id": "osm-57410",
+  "slug": "arley-hall-circular-walk-57410",
+  "name": "Arley Hall Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3095255,
+    "lon": -2.5149213
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 57410
+  },
+  "ai": {
+    "summary": "A challenging 21.1 km circular hike starting and finishing near Arley Hall, weaving through estate lands and surrounding countryside. Expect varied terrain, long distances, and several gentle ascents; suitable for experienced hikers with map, good footwear, and stamina.",
+    "terrain_summary": "Predominantly mixed farmland and woodland paths with some gravel tracks and narrow trails. Expect uneven surfaces, stiles, potential mud after rain, and road crossings. Elevation gains accumulate over the route, contributing to the hard rating.",
+    "safety_notes": "Wear sturdy hiking boots and weather-appropriate clothing. Carry a map and a charged phone with offline access, plus a GPS device if available. Stay on public rights of way and respect private property around Arley Hall. Be prepared for muddy sections, stiles, and potential cattle in fields. Plan for daylight hours to complete the full circuit, and bring water and snacks. Check access permissions for the Hall grounds and be mindful of livestock and farm traffic. In poor weather, consider shortening the route or seeking local advice.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle (2–3 L)",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Map and compass or GPS device",
+      "Headlamp or small flashlight (in case of late finish)",
+      "Snacks and energy food",
+      "Small first-aid kit",
+      "Hat and sunscreen",
+      "Walking poles (optional)",
+      "Phone with emergency contact info",
+      "Lightweight emergency bivy or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn; prefer May to September for drier paths and longer daylight. Winters can be muddy and more challenging.",
+    "seo": {
+      "title": "Arley Hall Circular Walk – 21.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Arley Hall Circular Walk, a strenuous 21.1 km route in the UK featuring mixed terrain, estate paths, and countryside scenery. Perfect for experienced hikers seeking a challenging day out.",
+      "h1": "Arley Hall Circular Walk (21.1 km, Hard)"
+    }
+  }
+}

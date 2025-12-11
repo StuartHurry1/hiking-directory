@@ -1,0 +1,21 @@
+{
+  "id": "osm-2277624",
+  "slug": "the-lichway-2277624",
+  "name": "The Lichway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5826352,
+    "lon": -3.9256329
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2277624
+  }
+}

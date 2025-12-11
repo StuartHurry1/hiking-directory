@@ -1,0 +1,21 @@
+{
+  "id": "osm-1721477",
+  "slug": "the-chiltern-way-southern-extension-1721477",
+  "name": "The Chiltern Way Southern Extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 109.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5900729,
+    "lon": -0.9769718
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1721477
+  }
+}

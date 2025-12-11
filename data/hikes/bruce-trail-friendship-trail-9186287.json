@@ -1,0 +1,43 @@
+{
+  "id": "osm-9186287",
+  "slug": "bruce-trail-friendship-trail-9186287",
+  "name": "Bruce Trail Friendship Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7719464,
+    "lon": -2.2354544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9186287
+  },
+  "ai": {
+    "summary": "A challenging 22.7 km hike along the Bruce Trail Friendship Trail in the UK, offering varied terrain and a long distance that tests endurance.",
+    "terrain_summary": "Varied terrain with rocky and dirt paths, forested sections, and occasional exposed areas. Expect moderate elevation changes and uneven footing in places.",
+    "safety_notes": "Plan for a long hike (typically 6–9 hours). Stay on marked trails and check weather conditions before you go. Carry ample water (2–3 liters) and high-energy snacks. Wear sturdy footwear and dress in layers; bring a waterproof jacket. Have a map and compass or GPS, plus a headlamp or flashlight with spare batteries. Carry a small first aid kit and an emergency whistle. Inform someone of your plan and expected return; be aware that mobile reception may be limited in remote sections. Start early to ensure daylight.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Emergency whistle",
+      "Lightweight rain cover or packable rain shell"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately April–October).",
+    "seo": {
+      "title": "Bruce Trail Friendship Trail – 22.7 km Hard Hike in the UK",
+      "meta_description": "Discover the 22.7 km Bruce Trail Friendship Trail in the UK. A hard, varied hike suited for experienced hikers. Get safety tips, gear lists, and best seasons.",
+      "h1": "Bruce Trail Friendship Trail – 22.7 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19062703",
+  "slug": "church-fell-walk-sizergh-19062703",
+  "name": "Church Fell walk, Sizergh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2838238,
+    "lon": -2.7738557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19062703
+  }
+}

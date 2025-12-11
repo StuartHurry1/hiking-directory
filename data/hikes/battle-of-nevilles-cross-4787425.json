@@ -1,0 +1,43 @@
+{
+  "id": "osm-4787425",
+  "slug": "battle-of-nevilles-cross-4787425",
+  "name": "Battle of Neville's Cross",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7781825,
+    "lon": -1.5984657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4787425
+  },
+  "ai": {
+    "summary": "A 6 km moderate hike in the UK following rural paths near the site of the medieval Battle of Neville's Cross. The route blends fields, hedgerows, and historic markers, offering gentle elevation changes and a touch of history along the way.",
+    "terrain_summary": "Mixed terrain including grassy footpaths, compact gravel tracks, hedged field edges, and a few stiles. Expect occasional mud after rain and uneven surfaces near historic markers.",
+    "safety_notes": "This route uses public and farmland paths; follow posted signs and respect private property. Wear sturdy boots and watch your footing on uneven ground and stiles. Weather in the UK can be changeable—bring layers and waterproofs. Carry a map or GPS, a charged phone, and enough water and snacks. Stay on marked trails, and keep dogs under control where required. Be mindful of road crossings and limited facilities along the way.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration",
+      "Layered clothing",
+      "Map or GPS device",
+      "Sun protection (sunscreen, hat)",
+      "Headlamp or flashlight (for late finishes)",
+      "First aid kit",
+      "Phone with emergency contacts",
+      "Snacks or energy bars"
+    ],
+    "best_seasons": "Spring and autumn (April–June and September–October).",
+    "seo": {
+      "title": "Battle of Neville's Cross Hike – 6 km Moderate Trail in the UK",
+      "meta_description": "Explore a 6 km moderate hike near the Battle of Neville's Cross in the UK. Learn about terrain, safety tips, gear, and the best seasons for this historical countryside route.",
+      "h1": "Battle of Neville's Cross – 6 km Moderate Hike"
+    }
+  }
+}

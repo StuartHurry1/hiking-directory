@@ -1,0 +1,21 @@
+{
+  "id": "osm-19067226",
+  "slug": "lode-dog-walking-trail-anglesey-abbey-19067226",
+  "name": "Lode Dog-Walking Trail, Anglesey Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2395154,
+    "lon": 0.2430331
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19067226
+  }
+}

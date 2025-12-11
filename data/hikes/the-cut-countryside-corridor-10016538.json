@@ -1,0 +1,21 @@
+{
+  "id": "osm-10016538",
+  "slug": "the-cut-countryside-corridor-10016538",
+  "name": "The Cut countryside corridor",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4287221,
+    "lon": -0.7704215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10016538
+  }
+}

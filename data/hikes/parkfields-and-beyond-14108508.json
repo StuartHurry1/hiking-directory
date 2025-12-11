@@ -1,0 +1,21 @@
+{
+  "id": "osm-14108508",
+  "slug": "parkfields-and-beyond-14108508",
+  "name": "Parkfields & Beyond",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6577005,
+    "lon": -0.2972388
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14108508
+  }
+}

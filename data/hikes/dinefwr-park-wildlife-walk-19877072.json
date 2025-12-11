@@ -1,0 +1,21 @@
+{
+  "id": "osm-19877072",
+  "slug": "dinefwr-park-wildlife-walk-19877072",
+  "name": "Dinefwr Park Wildlife Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8820136,
+    "lon": -4.0139417
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877072
+  }
+}

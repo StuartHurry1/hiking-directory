@@ -1,0 +1,23 @@
+{
+  "id": "osm-19793600",
+  "slug": "struddicks-circular-walk-lansallos-19793600",
+  "name": "Struddicks circular walk, Lansallos",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3658547,
+    "lon": -4.3872681
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19793600
+  }
+}

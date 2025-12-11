@@ -1,0 +1,21 @@
+{
+  "id": "osm-17883990",
+  "slug": "miles-without-stiles-wray-castle-to-loanthwaite-17883990",
+  "name": "Miles without Stiles: Wray Castle to Loanthwaite",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4007412,
+    "lon": -2.9652666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17883990
+  }
+}

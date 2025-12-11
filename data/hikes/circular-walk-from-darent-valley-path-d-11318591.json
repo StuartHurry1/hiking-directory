@@ -1,0 +1,21 @@
+{
+  "id": "osm-11318591",
+  "slug": "circular-walk-from-darent-valley-path-d-11318591",
+  "name": "Circular Walk from Darent Valley Path D",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.412742,
+    "lon": 0.2322719
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11318591
+  }
+}

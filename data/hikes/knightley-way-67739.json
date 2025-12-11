@@ -1,0 +1,21 @@
+{
+  "id": "osm-67739",
+  "slug": "knightley-way-67739",
+  "name": "Knightley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1909168,
+    "lon": -1.1009373
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 67739
+  }
+}

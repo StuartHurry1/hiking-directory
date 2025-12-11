@@ -1,0 +1,42 @@
+{
+  "id": "osm-16453129",
+  "slug": "botley-health-routes-pink-16453129",
+  "name": "Botley Health Routes - Pink",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7507306,
+    "lon": -1.2814324
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16453129
+  },
+  "ai": {
+    "summary": "A 10.7 km moderate hike along the Botley Health Routes - Pink in the UK. The route blends countryside lanes with short urban segments, delivering a steady workout and occasional wellness-themed waypoints for a balanced outdoor experience.",
+    "terrain_summary": "Expect a mix of surfaces: well-maintained paths, compact gravel, and some grassy or rooty sections. The route includes gentle elevation changes rather than steep climbs; some sections can be muddy after rain. Suitable footwear is recommended.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check the forecast; UK conditions can change quickly. Stay on marked paths; watch for gates, stiles, and livestock. Be mindful of road crossings during urban segments. Carry a map or offline navigation, a charged phone, and a small first-aid kit. Signal may be patchy in rural sections; plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water and snacks (1–2 liters capacity, depending on conditions)",
+      "Hat, sunscreen, and sunglasses",
+      "Map and compass or a GPS-enabled device",
+      "Fully charged mobile phone with emergency contacts",
+      "Small first-aid kit (blister care, antiseptic wipes)",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to early autumn; winter conditions can be challenging in the UK, so plan accordingly.",
+    "seo": {
+      "title": "Botley Health Routes - Pink: 10.7 km Moderate Hike in the UK",
+      "meta_description": "Explore Botley Health Routes - Pink, a 10.7 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this route.",
+      "h1": "Botley Health Routes - Pink (10.7 km, Moderate)"
+    }
+  }
+}

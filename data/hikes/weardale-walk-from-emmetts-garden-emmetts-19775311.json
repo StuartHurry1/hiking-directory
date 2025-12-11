@@ -1,0 +1,21 @@
+{
+  "id": "osm-19775311",
+  "slug": "weardale-walk-from-emmetts-garden-emmetts-19775311",
+  "name": "Weardale Walk From Emmetts Garden, Emmetts",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2472863,
+    "lon": 0.0819339
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19775311
+  }
+}

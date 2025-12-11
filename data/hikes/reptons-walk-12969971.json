@@ -1,0 +1,21 @@
+{
+  "id": "osm-12969971",
+  "slug": "reptons-walk-12969971",
+  "name": "Repton's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7107114,
+    "lon": 0.437999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12969971
+  }
+}

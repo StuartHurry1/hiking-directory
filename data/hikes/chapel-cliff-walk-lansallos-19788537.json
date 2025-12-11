@@ -1,0 +1,21 @@
+{
+  "id": "osm-19788537",
+  "slug": "chapel-cliff-walk-lansallos-19788537",
+  "name": "Chapel Cliff walk, Lansallos",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3299359,
+    "lon": -4.5171136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19788537
+  }
+}

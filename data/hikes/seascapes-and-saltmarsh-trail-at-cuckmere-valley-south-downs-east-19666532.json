@@ -1,0 +1,23 @@
+{
+  "id": "osm-19666532",
+  "slug": "seascapes-and-saltmarsh-trail-at-cuckmere-valley-south-downs-east-19666532",
+  "name": "Seascapes and Saltmarsh Trail at Cuckmere Valley, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7628232,
+    "lon": 0.1315861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19666532
+  }
+}

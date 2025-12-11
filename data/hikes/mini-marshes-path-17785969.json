@@ -1,0 +1,21 @@
+{
+  "id": "osm-17785969",
+  "slug": "mini-marshes-path-17785969",
+  "name": "Mini Marshes Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.152644,
+    "lon": -2.7868913
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17785969
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-18873850",
+  "slug": "bearwood-beer-mile-18873850",
+  "name": "Bearwood Beer Mile",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4690068,
+    "lon": -1.9746581
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18873850
+  },
+  "ai": {
+    "summary": "The Bearwood Beer Mile is a 5.2 km easy walk in the UK that weaves between local streets and welcoming pubs. Designed for a relaxed pace, it’s suitable for beginners and families who want a light circuit with optional pub stops along the way.",
+    "terrain_summary": "Predominantly urban terrain with pavements and short road segments. The route is mostly flat with occasional gentle slopes and a few grassy patches; surface quality is generally good, but watch for curb heights and busy crossings.",
+    "safety_notes": "Walk at a comfortable pace and use pedestrian crossings. Stay visible in busy areas and stay aware of traffic when on roads. If you plan to sample drinks, designate a non-drinking companion to walk or plan for safe transport back. Check the weather, wear sturdy footwear, carry a charged phone, and have emergency contact information handy. Be mindful of uneven pavements and potential crowds on weekends.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Small backpack",
+      "Light rain jacket",
+      "Sunscreen, hat or sunglasses",
+      "Phone charger or power bank",
+      "Map or offline route reference",
+      "Identification and emergency contact information"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the most comfortable weather for this urban route. Winter walks are possible with appropriate clothing but days are shorter and conditions can be more variable.",
+    "seo": {
+      "title": "Bearwood Beer Mile: Easy 5.2 km UK Walk",
+      "meta_description": "Explore the Bearwood Beer Mile, a 5.2 km easy walk in the UK. Practical gear, safety tips, best seasons, and a concise guide for this urban hike.",
+      "h1": "Bearwood Beer Mile – Easy 5.2 km UK Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1539993",
+  "slug": "pontypridd-circular-1539993",
+  "name": "Pontypridd Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5910289,
+    "lon": -3.3210088
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1539993
+  }
+}

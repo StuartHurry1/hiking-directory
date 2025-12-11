@@ -1,0 +1,40 @@
+{
+  "id": "osm-13970736",
+  "slug": "alton-water-red-route-13970736",
+  "name": "Alton Water Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.982357,
+    "lon": 1.1242183
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13970736
+  },
+  "ai": {
+    "summary": "The Alton Water Red Route is a short, easy 2.1 km circular hike around Alton Water in the United Kingdom. The route follows flat gravel and surfaced paths along the reservoir, making it suitable for beginners, families, and anyone seeking a quick, scenic stroll.",
+    "terrain_summary": "Primarily flat, surfaced paths around the reservoir with some grassy edges. Mostly even underfoot, with occasional wet or muddy patches after rain and potential sun exposure along open sections.",
+    "safety_notes": "Check weather and tide/water conditions before you go. Wear sturdy footwear, stay on marked trails, and be mindful of cyclists on shared paths. Keep children and pets within arm's reach near the water and bring a layer for cooler conditions at the shore. In wet or icy conditions, paths can be slippery.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Rain jacket or windbreaker",
+      "Sun protection (hat and sunscreen)",
+      "Map or route app (optional)"
+    ],
+    "best_seasons": "All year round; generally most pleasant in late spring to early autumn.",
+    "seo": {
+      "title": "Alton Water Red Route – Easy 2.1 km Circular Walk in the UK",
+      "meta_description": "Explore the Alton Water Red Route, a gentle 2.1 km circular walk around Alton Water in the UK. Ideal for beginners and families with flat paths and reservoir views.",
+      "h1": "Alton Water Red Route – Easy 2.1 km Walk"
+    }
+  }
+}

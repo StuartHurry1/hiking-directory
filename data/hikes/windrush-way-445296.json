@@ -1,0 +1,21 @@
+{
+  "id": "osm-445296",
+  "slug": "windrush-way-445296",
+  "name": "Windrush Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.952507,
+    "lon": -1.9666838
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 445296
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1201604",
+  "slug": "downs-link-1201604",
+  "name": "Downs Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 188.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2251695,
+    "lon": -0.5224605
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1201604
+  }
+}

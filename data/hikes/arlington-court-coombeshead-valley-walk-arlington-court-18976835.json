@@ -1,0 +1,41 @@
+{
+  "id": "osm-18976835",
+  "slug": "arlington-court-coombeshead-valley-walk-arlington-court-18976835",
+  "name": "Arlington Court Coombeshead valley walk, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1466191,
+    "lon": -3.9801644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976835
+  },
+  "ai": {
+    "summary": "A gentle 5.2 km walk around Arlington Court and the Coombeshead Valley, offering open parkland, woodland trails and valley views. Suitable for families and walkers of all ages seeking a relaxed day out in the UK countryside.",
+    "terrain_summary": "Mostly well-maintained gravel and grassy paths with some uneven sections and gentle gradients. Occasional stiles and gates; mud after rain; shaded woodland sections and open valley views.",
+    "safety_notes": "- Easy hike suitable for most abilities. - Stay on marked paths; respect livestock and farm gates. - Check the weather; layer up and bring a waterproof jacket. - Mud is common after rain; wear sturdy footwear. - Carry water, a map or GPS, and a fully charged phone; mobile reception may be limited in parts.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Hat and sunscreen",
+      "Map or GPS device (or offline map)",
+      "Snacks",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with caution in winter due to mud and reduced daylight.",
+    "seo": {
+      "title": "Arlington Court Coombeshead Valley Walk - Easy 5.2 km in Arlington Court, UK",
+      "meta_description": "Discover an easy 5.2 km circuit around Arlington Court and the Coombeshead Valley in the UK. Enjoy parkland, woodland and valley views on a gentle countryside stroll.",
+      "h1": "Arlington Court Coombeshead Valley Walk (5.2 km, Easy)"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18765992",
+  "slug": "rail-trail-warwick-circular-18765992",
+  "name": "Rail Trail: Warwick Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.28637,
+    "lon": -1.5817215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18765992
+  }
+}

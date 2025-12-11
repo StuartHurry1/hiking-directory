@@ -1,0 +1,21 @@
+{
+  "id": "osm-1192801",
+  "slug": "mottisfont-estate-walk-mottisfont-1192801",
+  "name": "Mottisfont Estate Walk, Mottisfont",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0520174,
+    "lon": -1.5506923
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1192801
+  }
+}

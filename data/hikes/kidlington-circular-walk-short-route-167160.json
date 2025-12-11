@@ -1,0 +1,21 @@
+{
+  "id": "osm-167160",
+  "slug": "kidlington-circular-walk-short-route-167160",
+  "name": "Kidlington Circular Walk (Short Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8334964,
+    "lon": -1.286966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 167160
+  }
+}

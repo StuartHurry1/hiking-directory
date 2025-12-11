@@ -1,0 +1,23 @@
+{
+  "id": "osm-19306491",
+  "slug": "carnewas-at-bedruthan-coast-walk-north-cornwall-19306491",
+  "name": "Carnewas at Bedruthan coast walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4809456,
+    "lon": -5.0317919
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306491
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18130625",
+  "slug": "potter-heigham-circular-18130625",
+  "name": "Potter Heigham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7103255,
+    "lon": 1.5802744
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18130625
+  }
+}

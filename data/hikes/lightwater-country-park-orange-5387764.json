@@ -1,0 +1,21 @@
+{
+  "id": "osm-5387764",
+  "slug": "lightwater-country-park-orange-5387764",
+  "name": "Lightwater Country Park orange",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3512472,
+    "lon": -0.6855621
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5387764
+  }
+}

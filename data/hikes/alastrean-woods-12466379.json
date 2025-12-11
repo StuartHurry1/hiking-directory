@@ -1,0 +1,45 @@
+{
+  "id": "osm-12466379",
+  "slug": "alastrean-woods-12466379",
+  "name": "Alastrean Woods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1275962,
+    "lon": -2.8579899
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12466379
+  },
+  "ai": {
+    "summary": "Alastrean Woods is a 10.8 km woodland hike in the UK with a moderate level of difficulty. The trail weaves through mixed forest, featuring shaded paths, gentle elevation changes, and a quiet, natural atmosphere perfect for a relaxed day out.",
+    "terrain_summary": "Expect forest paths with leaf litter, exposed roots, and occasional muddy patches. Surfaces vary from smooth, well-trodden trails to narrower, uneven sections; you may cross small streams or damp ground near clearings and sheltered corridors.",
+    "safety_notes": "Tell someone your route and expected return time. Wear sturdy waterproof boots and dress in layers; UK weather can change quickly. Be prepared for mud, rain, and chilly conditions; carry a waterproof layer. Watch for slippery roots and uneven ground; use trekking poles if helpful. Stay on marked paths and respect wildlife; check for ticks in woodland areas. Bring a map or GPS, a fully charged phone, and a basic first aid kit. Carry enough water and snacks; plan for rest breaks. In low light, bring a headlamp or flashlight; daylight hours vary by season.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Water (1-2 liters) and energy snacks",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable power bank",
+      "Personal first aid kit",
+      "Insect repellent and sunscreen",
+      "Hat and gloves if needed",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn offer mild temperatures and colorful foliage; summer provides longer daylight but can be drier or wetter depending on rain, and may be busier; winter treks are possible with proper gear but footing and weather can be challenging.",
+    "seo": {
+      "title": "Alastrean Woods Hike – 10.8 km Moderate Trail in the UK",
+      "meta_description": "Discover Alastrean Woods on a 10.8 km moderate hike in the UK. Learn terrain, safety tips, and gear for a memorable woodland trek.",
+      "h1": "Alastrean Woods: A 10.8 km Moderate Hike in the UK"
+    }
+  }
+}

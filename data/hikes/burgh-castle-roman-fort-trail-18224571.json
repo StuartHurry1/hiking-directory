@@ -1,0 +1,41 @@
+{
+  "id": "osm-18224571",
+  "slug": "burgh-castle-roman-fort-trail-18224571",
+  "name": "Burgh Castle Roman Fort Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5861883,
+    "lon": 1.6582981
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18224571
+  },
+  "ai": {
+    "summary": "An easy 3.8 km out-and-back coastal walk around Burgh Castle Roman Fort near Great Yarmouth. The route is flat and suitable for beginners, families, and casual walkers, featuring the Roman fort ruins, sea views, and open skies along the coastline.",
+    "terrain_summary": "Predominantly flat, with well-maintained gravel and grassy paths. Occasional uneven sections near the fort ruins and damp or muddy stretches after rain. Expect coastal winds and sun exposure.",
+    "safety_notes": "Watch footing on uneven ground near the fort; stay on marked paths and avoid ruins. Be cautious of slippery surfaces after rain. Dress in layers for strong coastal winds, wear sun protection, and carry water and a charged phone. If extending toward the shore, be aware of tides and stay clear of unstable areas near the water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Windproof jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline map/phone with GPS",
+      "Light backpack for essentials",
+      "Camera (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–September) offer the most comfortable conditions for dry paths and clear sea views; the trail is accessible year-round but weather can be windy and wet outside these months.",
+    "seo": {
+      "title": "Burgh Castle Roman Fort Trail – Easy 3.8 km Coastal Hike in the UK",
+      "meta_description": "Explore the Burgh Castle Roman Fort Trail, a gentle 3.8 km coastal walk near Norwich. Flat paths, Roman ruins, sea views, and practical safety tips for a family-friendly day out.",
+      "h1": "Burgh Castle Roman Fort Trail: Easy 3.8 km Coastal Hike"
+    }
+  }
+}

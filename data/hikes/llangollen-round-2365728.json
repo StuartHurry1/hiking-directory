@@ -1,0 +1,21 @@
+{
+  "id": "osm-2365728",
+  "slug": "llangollen-round-2365728",
+  "name": "Llangollen Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.955956,
+    "lon": -3.1146999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2365728
+  }
+}

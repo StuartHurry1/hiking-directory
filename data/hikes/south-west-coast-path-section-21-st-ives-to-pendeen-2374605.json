@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374605",
+  "slug": "south-west-coast-path-section-21-st-ives-to-pendeen-2374605",
+  "name": "South West Coast Path (Section 21: St Ives to Pendeen)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2161496,
+    "lon": -5.4895609
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374605
+  }
+}

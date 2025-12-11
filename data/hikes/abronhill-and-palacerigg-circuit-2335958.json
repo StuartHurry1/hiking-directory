@@ -1,0 +1,44 @@
+{
+  "id": "osm-2335958",
+  "slug": "abronhill-and-palacerigg-circuit-2335958",
+  "name": "Abronhill and Palacerigg Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9461521,
+    "lon": -3.9588653
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2335958
+  },
+  "ai": {
+    "summary": "A 10.5 km circular hike around Abronhill and Palacerigg in the UK, rated moderate. The route combines woodlands, open grassy sections, and country lanes with gentle ascents and descents, suitable for hikers with moderate experience.",
+    "terrain_summary": "Expect a mix of well-maintained paths, gravel tracks, and grassy trails. After rain, some sections may be muddy; there are exposed open areas with light winds and a few short climbs. Elevation changes are moderate, with mostly easy to moderate terrain overall.",
+    "safety_notes": "Check local weather and daylight hours before setting out. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths, and bring a map or GPS in case of detours. Carry enough water and snacks, a basic first aid kit, and a chargeable phone. Inform someone of your planned route and expected return time. Be mindful of livestock gates in rural sections and potential seasonal hazards such as insects or nettles. In winter, path conditions can be slippery and daylight limited; adjust plans accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and warm layers",
+      "Map or GPS device (or offline map app)",
+      "Water bottle and portable snacks",
+      "Hat, gloves, and sun protection as needed",
+      "First aid kit",
+      "Whistle and emergency contact information",
+      "Headlamp or flashlight",
+      "Mobile phone with emergency numbers",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn are generally best for comfortable conditions and daylight; hiking is still possible in winter with proper gear, but be prepared for mud, wind, and shorter daylight hours.",
+    "seo": {
+      "title": "Abronhill and Palacerigg Circuit Hike | 10.5 km Moderate UK Trail",
+      "meta_description": "Discover the Abronhill and Palacerigg Circuit, a 10.5 km moderate hike in the UK. Explore mixed terrain, practical safety tips, and essential gear for this scenic circuit.",
+      "h1": "Abronhill and Palacerigg Circuit Hike"
+    }
+  }
+}

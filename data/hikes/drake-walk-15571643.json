@@ -1,0 +1,21 @@
+{
+  "id": "osm-15571643",
+  "slug": "drake-walk-15571643",
+  "name": "Drake Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4831424,
+    "lon": -4.1339291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15571643
+  }
+}

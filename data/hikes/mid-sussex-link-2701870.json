@@ -1,0 +1,21 @@
+{
+  "id": "osm-2701870",
+  "slug": "mid-sussex-link-2701870",
+  "name": "Mid Sussex Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 180.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8701454,
+    "lon": -0.1503078
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2701870
+  }
+}

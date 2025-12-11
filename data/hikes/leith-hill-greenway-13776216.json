@@ -1,0 +1,21 @@
+{
+  "id": "osm-13776216",
+  "slug": "leith-hill-greenway-13776216",
+  "name": "Leith Hill Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2405704,
+    "lon": -0.3492153
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13776216
+  }
+}

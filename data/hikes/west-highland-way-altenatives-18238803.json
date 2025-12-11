@@ -1,0 +1,21 @@
+{
+  "id": "osm-18238803",
+  "slug": "west-highland-way-altenatives-18238803",
+  "name": "West Highland Way - altenatives",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0852462,
+    "lon": -4.4849641
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18238803
+  }
+}

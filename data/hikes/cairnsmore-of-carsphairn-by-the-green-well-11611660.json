@@ -1,0 +1,45 @@
+{
+  "id": "osm-11611660",
+  "slug": "cairnsmore-of-carsphairn-by-the-green-well-11611660",
+  "name": "Cairnsmore of Carsphairn by the Green Well",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2235514,
+    "lon": -4.269839
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11611660
+  },
+  "ai": {
+    "summary": "A scenic 11.3 km moderate hike to the summit of Cairnsmore of Carsphairn via the Green Well. The route crosses upland moorland with grassy tracks, occasional rocky sections, and rewarding views over the surrounding countryside.",
+    "terrain_summary": "Expect a mix of grassy upland paths, open moorland, and occasional rocky sections near the summit. The ground can be uneven and boggy after rain, and wind exposure increases at higher elevations. The route is non-technical but navigation and sturdy footwear are important.",
+    "safety_notes": "Weather in UK uplands can change rapidly. Check the forecast before you go and plan for shorter daylight hours in shoulder seasons. Wear sturdy waterproof boots and dress in layered, windproof clothing. Carry a map and compass or GPS; do not rely on mobile signal. Bring enough water and high-energy snacks, a basic first aid kit, a whistle, and a lightweight emergency layer. Stay on marked paths, be mindful of livestock and fences, and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a waterproof outer layer",
+      "Map and compass or GPS device",
+      "Sufficient water (2–3 litres) and high-energy snacks",
+      "Hat and gloves (seasonal)",
+      "Lightweight emergency blanket or bivvi",
+      "First aid kit",
+      "Whistle and mobile phone with backup power",
+      "Sunscreen and sunglasses",
+      "Headlamp with spare batteries",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; winter conditions can be challenging with ice, deep bogs, and reduced daylight.",
+    "seo": {
+      "title": "Cairnsmore of Carsphairn via the Green Well – 11.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Cairnsmore of Carsphairn via the Green Well: an 11.3 km moderate hike across upland moorland with expansive views in the UK.",
+      "h1": "Cairnsmore of Carsphairn by the Green Well"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1863757",
+  "slug": "carleton-trail-black-1863757",
+  "name": "Carleton Trail (Black)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4096124,
+    "lon": -7.1737743
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1863757
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19309911",
+  "slug": "errol-south-circular-path-19309911",
+  "name": "Errol South Circular Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3879586,
+    "lon": -3.2052081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19309911
+  }
+}

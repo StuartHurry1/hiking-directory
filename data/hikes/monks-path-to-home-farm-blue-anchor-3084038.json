@@ -1,0 +1,21 @@
+{
+  "id": "osm-3084038",
+  "slug": "monks-path-to-home-farm-blue-anchor-3084038",
+  "name": "Monk's Path to Home Farm Blue Anchor",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1825365,
+    "lon": -3.3903476
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3084038
+  }
+}

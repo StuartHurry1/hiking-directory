@@ -1,0 +1,39 @@
+{
+  "id": "osm-7421728",
+  "slug": "amber-valley-routeways-13-7421728",
+  "name": "Amber Valley Routeways 13",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0286359,
+    "lon": -1.3333634
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7421728
+  },
+  "ai": {
+    "summary": "A very short, easy 0.6 km route in the Amber Valley Routeways network in the UK. Suitable for beginners, families, and anyone seeking a quick, low-effort outdoor stroll.",
+    "terrain_summary": "Mostly flat, well-maintained paths through rural or parkland settings; minimal elevation and easy footing.",
+    "safety_notes": "Check the weather forecast before you go. While the route is short, be mindful of street crossings or shared paths with other pedestrians and cyclists. Wear sturdy walking shoes, bring a light layer and water, and carry a basic map or have offline navigation available. Let someone know your plan and estimated return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light snack",
+      "Map or offline route reference"
+    ],
+    "best_seasons": "All year round, with spring and summer offering the most comfortable conditions for a short outdoor walk.",
+    "seo": {
+      "title": "Amber Valley Routeways 13 – Easy 0.6 km Walk in the UK",
+      "meta_description": "Explore Amber Valley Routeways 13, a short and easy 0.6 km walk in the UK. Perfect for beginners, families, and a quick outdoor escape.",
+      "h1": "Amber Valley Routeways 13: 0.6 km Easy Walk in the UK"
+    }
+  }
+}

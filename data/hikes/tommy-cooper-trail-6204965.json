@@ -1,0 +1,21 @@
+{
+  "id": "osm-6204965",
+  "slug": "tommy-cooper-trail-6204965",
+  "name": "Tommy Cooper Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7147432,
+    "lon": -3.5270305
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6204965
+  }
+}

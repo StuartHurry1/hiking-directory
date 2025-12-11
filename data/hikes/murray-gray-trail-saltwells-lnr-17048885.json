@@ -1,0 +1,21 @@
+{
+  "id": "osm-17048885",
+  "slug": "murray-gray-trail-saltwells-lnr-17048885",
+  "name": "Murray Gray Trail (Saltwells LNR)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4800316,
+    "lon": -2.0989256
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17048885
+  }
+}

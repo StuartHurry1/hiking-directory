@@ -1,0 +1,21 @@
+{
+  "id": "osm-18051718",
+  "slug": "mullagh-walk-18051718",
+  "name": "Mullagh Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3815212,
+    "lon": -5.6766056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051718
+  }
+}

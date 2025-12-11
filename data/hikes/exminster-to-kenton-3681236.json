@@ -1,0 +1,21 @@
+{
+  "id": "osm-3681236",
+  "slug": "exminster-to-kenton-3681236",
+  "name": "Exminster to Kenton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6400416,
+    "lon": -3.4734202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3681236
+  }
+}

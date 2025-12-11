@@ -1,0 +1,21 @@
+{
+  "id": "osm-19065879",
+  "slug": "the-robin-hood-way-clumber-park-19065879",
+  "name": "The Robin Hood Way, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2645064,
+    "lon": -1.0648426
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19065879
+  }
+}

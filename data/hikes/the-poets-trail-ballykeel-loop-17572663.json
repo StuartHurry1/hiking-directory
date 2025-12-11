@@ -1,0 +1,21 @@
+{
+  "id": "osm-17572663",
+  "slug": "the-poets-trail-ballykeel-loop-17572663",
+  "name": "The Poets' Trail - Ballykeel Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1114943,
+    "lon": -6.4678707
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17572663
+  }
+}

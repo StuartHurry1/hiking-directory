@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881634",
+  "slug": "house-route-tyntesfield-19881634",
+  "name": "House Route, Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4412315,
+    "lon": -2.7197894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881634
+  }
+}

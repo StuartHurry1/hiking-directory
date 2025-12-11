@@ -1,0 +1,23 @@
+{
+  "id": "osm-19947105",
+  "slug": "grasmere-village-to-allan-bank-loop-19947105",
+  "name": "Grasmere Village to Allan Bank Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4611522,
+    "lon": -3.0215187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19947105
+  }
+}

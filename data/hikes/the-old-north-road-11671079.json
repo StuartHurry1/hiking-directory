@@ -1,0 +1,21 @@
+{
+  "id": "osm-11671079",
+  "slug": "the-old-north-road-11671079",
+  "name": "The Old North Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0756658,
+    "lon": -3.2757618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11671079
+  }
+}

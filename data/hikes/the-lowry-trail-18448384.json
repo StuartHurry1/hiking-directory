@@ -1,0 +1,21 @@
+{
+  "id": "osm-18448384",
+  "slug": "the-lowry-trail-18448384",
+  "name": "The Lowry trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.767103,
+    "lon": -2.003704
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18448384
+  }
+}

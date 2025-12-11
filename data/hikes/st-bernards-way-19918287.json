@@ -1,0 +1,21 @@
+{
+  "id": "osm-19918287",
+  "slug": "st-bernards-way-19918287",
+  "name": "St Bernard's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1304.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0160843,
+    "lon": -0.640343
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19918287
+  }
+}

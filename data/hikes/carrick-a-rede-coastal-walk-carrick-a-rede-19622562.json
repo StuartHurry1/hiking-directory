@@ -1,0 +1,24 @@
+{
+  "id": "osm-19622562",
+  "slug": "carrick-a-rede-coastal-walk-carrick-a-rede-19622562",
+  "name": "Carrick-a-Rede Coastal Walk, Carrick-a-Rede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2390997,
+    "lon": -6.3473499
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19622562
+  }
+}

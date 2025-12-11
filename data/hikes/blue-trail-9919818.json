@@ -1,0 +1,44 @@
+{
+  "id": "osm-9919818",
+  "slug": "blue-trail-9919818",
+  "name": "Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5490463,
+    "lon": -5.5953618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9919818
+  },
+  "ai": {
+    "summary": "The Blue Trail is a 9.1 km moderate hike in the United Kingdom. With varied terrain and scenic countryside, it suits walkers with some experience and a reasonable fitness level. The route is suitable for a day hike and can be enjoyed in mild weather.",
+    "terrain_summary": "The route combines well-maintained paths with gentle ascents and a few rocky or root-covered sections. Expect woodland, grassy meadows, and occasional exposed viewpoints. Some sections may be muddy after rain; sturdy footwear is recommended.",
+    "safety_notes": "Plan for variable UK weather and shorter daylight hours in autumn and winter. Carry a map and compass or a charged GPS device, and tell someone your route and expected return. Wear sturdy boots with good grip, bring waterproof layers, extra clothing, and sufficient water and snacks. Stay on marked paths, watch for slippery areas, and be cautious in exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 L)",
+      "Weather-appropriate clothing (layers) including waterproof jacket",
+      "Map and compass or reliable GPS device",
+      "Headlamp or flashlight (with extra batteries)",
+      "Lightweight backpack",
+      "Snacks or energy bars",
+      "First aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Phone with offline maps and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the most comfortable conditions; winter hikes are possible with extra precautions and shorter daylight.",
+    "seo": {
+      "title": "Blue Trail Hike in the UK — 9.1 km Moderate Trek",
+      "meta_description": "Explore the 9.1 km Blue Trail in the UK. A moderate, scenic hike with varied terrain, suitable for hikers with some experience. Plan for UK weather and bring essentials.",
+      "h1": "Blue Trail: 9.1 km Moderate Hike in the UK"
+    }
+  }
+}

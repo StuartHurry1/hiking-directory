@@ -1,0 +1,23 @@
+{
+  "id": "osm-4086804",
+  "slug": "pennine-way-standedge-to-warland-reservoir-4086804",
+  "name": "Pennine Way (Standedge to Warland Reservoir)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.8,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6552024,
+    "lon": -2.0498376
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086804
+  }
+}

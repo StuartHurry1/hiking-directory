@@ -1,0 +1,40 @@
+{
+  "id": "osm-11498090",
+  "slug": "bannamin-beach-11498090",
+  "name": "Bannamin Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.061604,
+    "lon": -1.3409952
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498090
+  },
+  "ai": {
+    "summary": "Bannamin Beach offers a short, easy coastal walk of about 1.2 km along the shore in the UK. The route is ideal for families and beginners who want sea views with minimal elevation gain.",
+    "terrain_summary": "Primarily a flat coastal path with packed earth, some gravel, and occasional sandy patches. Sections near the shoreline can be uneven or soft; watch footing and keep away from unstable edges.",
+    "safety_notes": "Check tide times and weather before you go. Stay on the designated path, supervise children, and avoid getting too close to cliffs or unstable ground. Carry water, wear sun protection in sunny conditions, and be prepared for sudden rain or wind typical of UK coastal areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Layered clothing",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "Spring and summer (roughly March–September) offer the most comfortable conditions; the walk is still doable year-round with proper gear.",
+    "seo": {
+      "title": "Bannamin Beach - Easy 1.2 km Coastal Hike in the UK",
+      "meta_description": "Discover Bannamin Beach with this easy 1.2 km coastal hike in the UK. Learn safety tips, gear recommendations, and the best seasons for this short seaside walk.",
+      "h1": "Bannamin Beach: Easy 1.2 km Coastal Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1795515",
+  "slug": "the-roman-way-1795515",
+  "name": "The Roman Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 559.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7968297,
+    "lon": -1.1802667
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1795515
+  }
+}

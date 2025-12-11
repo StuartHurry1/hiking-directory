@@ -1,0 +1,21 @@
+{
+  "id": "osm-14116192",
+  "slug": "green-chain-walk-link-to-sydenham-hill-station-14116192",
+  "name": "Green Chain Walk - link to Sydenham Hill station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4326598,
+    "lon": -0.0730836
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14116192
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-4154805",
+  "slug": "bogle-crag-trail-short-4154805",
+  "name": "Bogle Crag Trail (short)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3322975,
+    "lon": -3.0194717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4154805
+  },
+  "ai": {
+    "summary": "A short, easy 3.9 km hike on the Bogle Crag Trail in the UK, suitable for beginners and families seeking a light outdoor outing.",
+    "terrain_summary": "Mostly easy terrain with gentle ascents and descents. The route follows well-trodden paths with surfaces that can include compact gravel, dirt, and occasional grassy stretches. Be prepared for uneven spots and a few short climbs.",
+    "safety_notes": "Check the weather forecast before you go and avoid exposed cliff edges in strong winds. Wear sturdy footwear with good grip and bring a waterproof layer. Bring water and snacks, stay on the marked path, and be mindful of other walkers. Have a map or GPS and inform someone of your plans if hiking solo.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water and light snacks",
+      "Map, compass or GPS device",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Basic first-aid kit",
+      "Headlamp or flashlight (in case of late return)",
+      "Lightweight rain cover or pack liner"
+    ],
+    "best_seasons": "Spring through autumn are ideal for this hike in the UK; winter visits are possible but can bring mud, cold, and shorter daylight.",
+    "seo": {
+      "title": "Bogle Crag Trail (short) – Easy 3.9 km Hike in the UK",
+      "meta_description": "Explore Bogle Crag Trail (short): a 3.9 km easy hike in the UK. This guide covers terrain, safety tips, best seasons, and packing essentials.",
+      "h1": "Bogle Crag Trail (short) – Easy 3.9 km Hike in the UK"
+    }
+  }
+}

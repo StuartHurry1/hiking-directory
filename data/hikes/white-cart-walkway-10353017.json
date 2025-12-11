@@ -1,0 +1,21 @@
+{
+  "id": "osm-10353017",
+  "slug": "white-cart-walkway-10353017",
+  "name": "White Cart Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8323794,
+    "lon": -4.3368646
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10353017
+  }
+}

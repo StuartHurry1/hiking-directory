@@ -1,0 +1,21 @@
+{
+  "id": "osm-68615",
+  "slug": "essex-way-epping-to-stratford-st-mary-68615",
+  "name": "Essex Way (Epping to Stratford St Mary)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 161.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6937631,
+    "lon": 0.1138562
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 68615
+  }
+}

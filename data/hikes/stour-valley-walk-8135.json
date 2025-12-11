@@ -1,0 +1,21 @@
+{
+  "id": "osm-8135",
+  "slug": "stour-valley-walk-8135",
+  "name": "Stour Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 173.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2364321,
+    "lon": 0.7202697
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8135
+  }
+}

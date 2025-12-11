@@ -1,0 +1,21 @@
+{
+  "id": "osm-16659839",
+  "slug": "midlothian-core-paths-16659839",
+  "name": "Midlothian Core Paths",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8709247,
+    "lon": -3.1754839
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16659839
+  }
+}

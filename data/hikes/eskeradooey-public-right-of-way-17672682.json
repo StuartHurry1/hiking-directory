@@ -1,0 +1,21 @@
+{
+  "id": "osm-17672682",
+  "slug": "eskeradooey-public-right-of-way-17672682",
+  "name": "Eskeradooey Public Right of Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7126647,
+    "lon": -7.2871881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17672682
+  }
+}

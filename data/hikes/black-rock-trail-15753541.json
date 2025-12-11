@@ -1,0 +1,42 @@
+{
+  "id": "osm-15753541",
+  "slug": "black-rock-trail-15753541",
+  "name": "Black Rock Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5898432,
+    "lon": -4.0020117
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15753541
+  },
+  "ai": {
+    "summary": "Black Rock Trail is a short, easy 2.3 km hike in the UK. Suitable for beginners and casual walkers, it offers a gentle pace with minimal elevation and potential scenic views along a well-maintained path.",
+    "terrain_summary": "The trail follows a short, well-maintained route with mostly flat to gentle grades. Expect some uneven ground and small rocks in places, but the path remains easy for most walkers. In the UK, weather can affect footing, so wear appropriate footwear.",
+    "safety_notes": "Always check the weather forecast before you go. Wear sturdy, comfortable footwear and dress in layers. Stay on marked paths and watch for uneven surfaces. Bring enough water and a small snack. Carry a map or GPS and a charged phone for navigation and emergencies. Let someone know your plans and expected return time. Be mindful of other hikers and seasonal changes that may affect trail conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Light rain jacket",
+      "Snack or energy bar",
+      "Sunscreen or hat",
+      "Map or GPS device / charged phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring through autumn are ideal for this trail, offering milder weather and clearer paths. In winter, conditions can be wet and icy; if you hike then, wear appropriate footwear and take extra care.",
+    "seo": {
+      "title": "Black Rock Trail – Easy 2.3 km Hike in the UK",
+      "meta_description": "Discover the 2.3 km Black Rock Trail in the UK. An easy, beginner-friendly hike with gentle terrain and potential scenic views. Plan your day with safety tips and gear.",
+      "h1": "Black Rock Trail: An Easy 2.3 km Hike in the UK"
+    }
+  }
+}

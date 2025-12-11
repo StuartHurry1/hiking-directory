@@ -1,0 +1,21 @@
+{
+  "id": "osm-1694510",
+  "slug": "pilsley-walk-1694510",
+  "name": "Pilsley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.157614,
+    "lon": -1.3592966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1694510
+  }
+}

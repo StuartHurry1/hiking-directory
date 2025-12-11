@@ -1,0 +1,21 @@
+{
+  "id": "osm-4179409",
+  "slug": "john-corbett-way-4179409",
+  "name": "John Corbett Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3145464,
+    "lon": -2.0756527
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4179409
+  }
+}

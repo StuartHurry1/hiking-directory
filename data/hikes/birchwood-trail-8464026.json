@@ -1,0 +1,43 @@
+{
+  "id": "osm-8464026",
+  "slug": "birchwood-trail-8464026",
+  "name": "Birchwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0562894,
+    "lon": -4.9054634
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8464026
+  },
+  "ai": {
+    "summary": "Birchwood Trail is a short, easy 3.1 km hike through birch woodland in the UK. The route is suitable for beginners and families, offering a peaceful forest experience with gentle gradients and well-maintained paths.",
+    "terrain_summary": "Predominantly well-defined woodland trail with packed earth and occasional tree roots. Expect some damp patches after rain and a few short gentle ascents; surfaces are generally level with occasional boardwalk sections.",
+    "safety_notes": "Check weather forecast and daylight hours before you go. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, be aware of slippery patches when wet, and carry a map or offline navigation. Inform someone of your plans if hiking alone. Bring water, snacks, and a basic first aid kit; watch for wildlife and avoid disturbing flora.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Layered clothing and a waterproof jacket",
+      "Water and high-energy snacks",
+      "Map or offline navigation device",
+      "Mobile phone with emergency numbers",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen) and insect repellent",
+      "Lightweight headtorch or flashlight for dusk",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn; summer offers longer daylight and drier conditions, while autumn provides pleasant scenery. In winter, expect mud and shorter daylight; check conditions.",
+    "seo": {
+      "title": "Birchwood Trail – Easy 3.1 km Woodland Walk in the UK",
+      "meta_description": "Explore Birchwood Trail, a beginner-friendly 3.1 km hike through UK woodland. Learn about terrain, safety tips, and what to bring for a comfortable day outdoors.",
+      "h1": "Birchwood Trail: Easy 3.1 km Woodland Walk in the UK"
+    }
+  }
+}

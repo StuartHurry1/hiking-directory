@@ -1,0 +1,41 @@
+{
+  "id": "osm-4266188",
+  "slug": "black-mountain-quarries-walk-4266188",
+  "name": "Black Mountain Quarries Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8541424,
+    "lon": -3.8362457
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4266188
+  },
+  "ai": {
+    "summary": "A short, easy 3.5 km circular walk along historic quarry sites on Black Mountain. The route offers open views, gentle terrain and minimal climbing, making it suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-defined paths with some gravel, occasional rocky patches and a few small rises. Be aware of uneven ground near old quarry edges; surfaces can be muddy after rain.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Keep a safe distance from quarry edges and supervise children or dogs. Check the weather beforehand, as surfaces can be slippery when wet. Bring a map or GPS, a charged phone, water and snacks, and be mindful that mobile reception may be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof layer",
+      "Map or offline navigation",
+      "Snack",
+      "Phone with emergency numbers",
+      "Extra clothing layers"
+    ],
+    "best_seasons": "Spring to autumn for milder, drier conditions; the route can be walked year-round with proper gear in dry weather.",
+    "seo": {
+      "title": "Black Mountain Quarries Walk – Easy 3.5 km UK hike",
+      "meta_description": "Explore the Black Mountain Quarries Walk, a 3.5 km easy hike in the UK. Enjoy quarry views, simple paths, and a family-friendly stroll.",
+      "h1": "Black Mountain Quarries Walk – Easy 3.5 km UK hike"
+    }
+  }
+}

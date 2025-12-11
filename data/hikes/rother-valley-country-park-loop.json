@@ -7,12 +7,30 @@
   "difficulty": "easy",
   "summary": "A relaxed loop around the lakes and meadows of Rother Valley Country Park, ideal for families and beginners.",
   "terrain": "Largely level paths, gravel tracks, sections of tarmac and grass.",
-  "estimated_time_hours": 2.0,
+  "estimated_time_hours": 2,
   "ascent_meters": 80,
   "gpx_path": "gpx/rother-valley-country-park-loop.gpx",
   "start": {
     "lat": 53.33,
     "lon": -1.32,
     "nearest_postcode": "S66 7RR"
+  },
+  "ai": {
+    "summary": "A gentle, easy walk around Rother Valley Country Park in South Yorkshire. The loop follows flat, well-maintained paths around lakes and through woodlands, making it suitable for families and casual walkers.",
+    "terrain_summary": "Flat to gently undulating paths, primarily gravel and tarmac along the park's circuits. Generally well-maintained with some sections that may be muddy after rain; stroller access may vary by section.",
+    "safety_notes": "Share paths with cyclists and other park users; stay on marked trails; wear suitable footwear for variable conditions; bring water and sun protection in warm weather; check weather and park alerts before you go.",
+    "recommended_gear": [
+      "Comfortable walking shoes or sneakers",
+      "Water bottle",
+      "Weather-appropriate outerwear",
+      "Sun protection (hat, sunscreen)",
+      "Light snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn for the best weather and visibility; the route is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Rother Valley Country Park Loop – Easy Walk in South Yorkshire",
+      "meta_description": "Discover the easy, family-friendly Rother Valley Country Park Loop in South Yorkshire. Flat, scenic paths around lakes and woodlands with practical safety tips and gear.",
+      "h1": "Rother Valley Country Park Loop – Easy Walk in South Yorkshire"
+    }
   }
 }

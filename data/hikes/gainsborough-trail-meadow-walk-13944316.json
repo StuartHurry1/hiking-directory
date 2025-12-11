@@ -1,0 +1,21 @@
+{
+  "id": "osm-13944316",
+  "slug": "gainsborough-trail-meadow-walk-13944316",
+  "name": "Gainsborough Trail Meadow Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0416645,
+    "lon": 0.7250725
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13944316
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19904610",
+  "slug": "watbarrow-wood-waymarked-walk-wray-castle-19904610",
+  "name": "Watbarrow Wood Waymarked Walk, Wray Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.401028,
+    "lon": -2.9642529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19904610
+  }
+}

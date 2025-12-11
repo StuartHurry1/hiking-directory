@@ -1,0 +1,45 @@
+{
+  "id": "osm-1704211",
+  "slug": "acw-circular-walk-20a-short-cut-for-c20-1704211",
+  "name": "ACW Circular Walk 20A (short-cut for C20)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4550878,
+    "lon": -1.6095651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1704211
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 20A is a 24.2 km hard circular route in the UK, also used as a shortcut for C20. The trail weaves across varied terrain and hills, offering a demanding day's hike with significant elevation changes and long mileage.",
+    "terrain_summary": "Mixed terrain including well-worn footpaths, field edges, and occasional rough trails. Expect uneven surfaces, mud, stiles, open exposed sections, and potential water crossings depending on rainfall.",
+    "safety_notes": "This is a long, strenuous hike. Plan for a full day and check local weather; carry a map and compass as navigation aids, and don't rely solely on GPS. Inform someone of your plans and expected return. Wear sturdy boots and dress in layers; be prepared for mud, wind, and sudden weather changes. Watch for wildlife, cattle, and flooded sections; take care on stiles and gate transitions. Carry sufficient water and snacks, and have a means of signaling for help (whistle/phone).",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Water and high-energy snacks",
+      "Map and compass or GPS with offline maps",
+      "Phone with emergency contacts and power bank",
+      "Headtorch or small flashlight",
+      "First aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Whistle",
+      "Emergency blanket or extra insulating layer",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for daylight and drier conditions; the route can be hiked in winter, but expect mud, colder temperatures, and reduced daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 20A (C20 Short-Cut) – 24.2 km Hard Circular Hike in the UK",
+      "meta_description": "Discover the ACW Circular Walk 20A, a demanding 24.2 km loop in the UK. Learn about the terrain, safety tips, and gear to prepare for this hard circular hike.",
+      "h1": "ACW Circular Walk 20A (C20 Short-Cut) – 24.2 km Hard Circular Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10773339",
+  "slug": "loop-link-to-hatch-end-10773339",
+  "name": "LOOP link to Hatch End",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6100258,
+    "lon": -0.3810949
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10773339
+  }
+}

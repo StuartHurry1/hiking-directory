@@ -1,0 +1,21 @@
+{
+  "id": "osm-16160287",
+  "slug": "stac-pollaidh-trail-16160287",
+  "name": "Stac Pollaidh Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0346607,
+    "lon": -5.2072622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16160287
+  }
+}

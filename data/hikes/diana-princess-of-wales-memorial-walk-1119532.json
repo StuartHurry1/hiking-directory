@@ -1,0 +1,21 @@
+{
+  "id": "osm-1119532",
+  "slug": "diana-princess-of-wales-memorial-walk-1119532",
+  "name": "Diana Princess of Wales Memorial Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5034209,
+    "lon": -0.1759321
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1119532
+  }
+}

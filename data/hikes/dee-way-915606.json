@@ -1,0 +1,21 @@
+{
+  "id": "osm-915606",
+  "slug": "dee-way-915606",
+  "name": "Dee Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0738846,
+    "lon": -2.8813508
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 915606
+  }
+}

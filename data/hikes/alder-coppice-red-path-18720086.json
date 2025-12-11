@@ -1,0 +1,40 @@
+{
+  "id": "osm-18720086",
+  "slug": "alder-coppice-red-path-18720086",
+  "name": "Alder Coppice: Red Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.551228,
+    "lon": -2.1284318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18720086
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km woodland loop along the Red Path in Alder Coppice, United Kingdom. Perfect for beginners and families, this gentle stroll provides shade, a few small roots, and a peaceful woodland atmosphere, typically taking about 10–15 minutes at a relaxed pace.",
+    "terrain_summary": "Mostly flat, packed-earth track with occasional tree roots and subtle uneven sections. There can be damp or muddy patches after rain; surfaces are generally easy for walking and accessible to most visitors on dry days, but expect some grip changes in wet conditions.",
+    "safety_notes": "Stay on the marked Red Path and supervise children at all times. Wear sturdy footwear and weather-appropriate clothing. Check the forecast for rain, as surfaces can become slippery. Be mindful of other walkers, avoid wildlife disturbance, and carry a small amount of water. In an emergency in the UK, dial 999.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers) and a light rain jacket",
+      "Insect repellent and sun protection (seasonal)",
+      "Small map or phone with offline map",
+      "Light backpack with essentials"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (April to October) offer the best conditions and scenery; winter visits may be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Alder Coppice: Red Path – Easy 0.7 km Woodland Walk in the UK",
+      "meta_description": "Discover Alder Coppice's Red Path, a short and easy 0.7 km woodland hike in the United Kingdom. Learn about the terrain, safety tips, and gear to bring.",
+      "h1": "Alder Coppice: Red Path – Easy 0.7 km Woodland Walk in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16198093",
+  "slug": "loch-leven-heritage-trail-16198093",
+  "name": "Loch Leven Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1783234,
+    "lon": -3.3375012
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16198093
+  }
+}

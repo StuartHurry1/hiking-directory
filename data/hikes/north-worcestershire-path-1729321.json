@@ -1,0 +1,21 @@
+{
+  "id": "osm-1729321",
+  "slug": "north-worcestershire-path-1729321",
+  "name": "North Worcestershire Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 186.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4225382,
+    "lon": -2.3097418
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1729321
+  }
+}

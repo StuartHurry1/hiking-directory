@@ -1,0 +1,21 @@
+{
+  "id": "osm-1754624",
+  "slug": "dava-way-1754624",
+  "name": "Dava Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 97.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.331599,
+    "lon": -3.6103498
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1754624
+  }
+}

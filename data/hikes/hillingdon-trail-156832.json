@@ -1,0 +1,21 @@
+{
+  "id": "osm-156832",
+  "slug": "hillingdon-trail-156832",
+  "name": "Hillingdon Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6253901,
+    "lon": -0.4949386
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 156832
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18789482",
+  "slug": "rail-trail-the-avon-valley-from-rugby-circular-18789482",
+  "name": "Rail Trail: The Avon Valley from Rugby Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3787578,
+    "lon": -1.250657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18789482
+  }
+}

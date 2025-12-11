@@ -1,0 +1,21 @@
+{
+  "id": "osm-2120027",
+  "slug": "tedbury-circular-walk-2120027",
+  "name": "Tedbury Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7348856,
+    "lon": -3.6784544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2120027
+  }
+}

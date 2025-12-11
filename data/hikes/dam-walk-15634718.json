@@ -1,0 +1,21 @@
+{
+  "id": "osm-15634718",
+  "slug": "dam-walk-15634718",
+  "name": "Dam Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2615247,
+    "lon": -5.8513655
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15634718
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10678386",
+  "slug": "redruth-br-41-ground-truth-10678386",
+  "name": "Redruth BR 41 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2303744,
+    "lon": -5.2181068
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10678386
+  }
+}

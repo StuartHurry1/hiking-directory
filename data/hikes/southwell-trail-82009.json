@@ -1,0 +1,21 @@
+{
+  "id": "osm-82009",
+  "slug": "southwell-trail-82009",
+  "name": "Southwell Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1024674,
+    "lon": -0.992432
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 82009
+  }
+}

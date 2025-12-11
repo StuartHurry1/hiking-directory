@@ -1,0 +1,21 @@
+{
+  "id": "osm-1956986",
+  "slug": "staffordshire-way-mow-cop-rushton-spencer-1956986",
+  "name": "Staffordshire Way (Mow Cop-Rushton Spencer)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1143818,
+    "lon": -2.2138651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1956986
+  }
+}

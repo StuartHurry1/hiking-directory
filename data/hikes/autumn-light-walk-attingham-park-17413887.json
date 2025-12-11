@@ -1,0 +1,43 @@
+{
+  "id": "osm-17413887",
+  "slug": "autumn-light-walk-attingham-park-17413887",
+  "name": "Autumn Light Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6860539,
+    "lon": -2.6709909
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17413887
+  },
+  "ai": {
+    "summary": "A gentle 5.4 km loop through Attingham Park, offering a relaxed stroll on easy terrain with woodland and open parkland views, ideal for an autumn day out.",
+    "terrain_summary": "Mostly flat to gently rolling paths with compact gravel, packed earth and some grassy or leaf-covered sections. Expect well-maintained park paths with occasional uneven spots after fallen leaves.",
+    "safety_notes": "This is an easy, family-friendly walk on public park paths. Be mindful of uneven surfaces and slippery leaves in autumn. Stay on marked routes, keep an eye out for cyclists and other pedestrians, and check the weather forecast before you go. Carry water, wear sturdy footwear, and have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle",
+      "Small backpack",
+      "Map or offline navigation on your phone",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Snacks",
+      "Camera or smartphone for photos",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Autumn (primarily September–November); also suitable in spring and early winter with mild weather.",
+    "seo": {
+      "title": "Autumn Light Walk at Attingham Park – Easy 5.4 km Hike in the UK",
+      "meta_description": "Enjoy a relaxed 5.4 km easy hike at Attinam Park in the UK this autumn. Learn about terrain, safety tips, gear and what to expect on the trail.",
+      "h1": "Autumn Light Walk, Attingham Park — Easy 5.4 km Hike"
+    }
+  }
+}

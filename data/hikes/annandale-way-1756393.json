@@ -1,0 +1,55 @@
+{
+  "id": "osm-1756393",
+  "slug": "annandale-way-1756393",
+  "name": "Annandale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 330.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1219944,
+    "lon": -3.3555055
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756393
+  },
+  "ai": {
+    "summary": "Annandale Way is a demanding long-distance trail in the UK, spanning approximately 331 km. Hikers should expect remote countryside, varied terrain, and multiple days of trekking with substantial elevation and limited town access.",
+    "terrain_summary": "The route crosses river valleys, open moorland, rolling hills, and woodland sections. Expect a mix of well-trodden paths and rough tracks, with exposure on high ground and potential for slippery surfaces after rain; navigation may be required across open terrain.",
+    "safety_notes": "Plan for multi-day trips with a clear itinerary and inform someone of your route. UK weather can be unpredictable, so be prepared for rapid changes, rain, and cold conditions even in summer. Carry a map and compass or GPS, a reliable light, sufficient food and water, and a means to treat water. Use proper layering, protect against wind and rain, and be mindful of river crossings after heavy rainfall. Respect local access rules and Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and windproof jacket",
+      "Waterproof pants",
+      "Insulating layers (fleece or down jacket)",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Headlamp with spare batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Multi-tool",
+      "Water purification method (filter, tablets) or adequate water supply",
+      "Reusable water bottles or hydration system",
+      "High-energy food and snacks",
+      "Cash or card for emergencies",
+      "Trekking poles",
+      "Tent or bivy sack",
+      "Sleeping bag suitable for season",
+      "Sleeping mat",
+      "Fire starting kit (where permitted)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and milder conditions; however, weather in the UK can be unpredictable year-round, so be prepared for rapid changes and colder conditions on exposed sections.",
+    "seo": {
+      "title": "Annandale Way: 331 km UK Hard-Distance Trail",
+      "meta_description": "Plan your trek on the Annandale Way, a 330.7 km hard-distance route in the United Kingdom. Explore terrain, safety tips, gear lists, and the best seasons for this challenging hike.",
+      "h1": "Annandale Way: A 331 km UK Long-Distance Trail"
+    }
+  }
+}

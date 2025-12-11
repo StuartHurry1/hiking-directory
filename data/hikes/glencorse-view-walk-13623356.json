@@ -1,0 +1,21 @@
+{
+  "id": "osm-13623356",
+  "slug": "glencorse-view-walk-13623356",
+  "name": "Glencorse View Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8546951,
+    "lon": -3.2317341
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13623356
+  }
+}

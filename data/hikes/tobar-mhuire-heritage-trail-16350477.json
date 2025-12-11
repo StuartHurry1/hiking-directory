@@ -1,0 +1,21 @@
+{
+  "id": "osm-16350477",
+  "slug": "tobar-mhuire-heritage-trail-16350477",
+  "name": "Tobar Mhuire Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3923898,
+    "lon": -5.7538441
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16350477
+  }
+}

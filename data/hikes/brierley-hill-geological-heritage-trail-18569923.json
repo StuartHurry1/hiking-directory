@@ -1,0 +1,42 @@
+{
+  "id": "osm-18569923",
+  "slug": "brierley-hill-geological-heritage-trail-18569923",
+  "name": "Brierley Hill Geological Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4848318,
+    "lon": -2.1230133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18569923
+  },
+  "ai": {
+    "summary": "The Brierley Hill Geological Heritage Trail is a short, easy 2.7 km hike in the UK that highlights local rock features along a gentle route. Suitable for families and casual hikers, it offers an accessible introduction to geological phenomena without strenuous terrain.",
+    "terrain_summary": "Mostly well-maintained footpaths with some gravel sections and gentle gradients. Expect uneven patches near viewpoints and potential mud after rain. The route is accessible to most walkers with basic mobility.",
+    "safety_notes": "Weather conditions can change quickly. Wear sturdy footwear with good grip. Stay on marked paths and avoid restricted rock faces. Bring water, a rain jacket, sun protection as needed, and a map or GPS. Be mindful of other hikers and uneven ground.",
+    "recommended_gear": [
+      "Sturdy, comfortable footwear",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Snacks",
+      "Map or GPS device / offline map",
+      "Sun protection (hat, sunscreen)",
+      "Light rain jacket or shell",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn are typically most comfortable for this trail, with longer daylight and generally drier conditions. The route can be done year-round, but winter conditions may be wetter and muddier.",
+    "seo": {
+      "title": "Brierley Hill Geological Heritage Trail – Easy 2.7 km UK Walk",
+      "meta_description": "Explore the Brierley Hill Geological Heritage Trail in the UK. A short, easy 2.7 km hike showcasing exposed rock features and local geology. Practical tips and gear included.",
+      "h1": "Brierley Hill Geological Heritage Trail – 2.7 km Easy Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-126572",
+  "slug": "great-glen-way-slighe-a-ghlinne-mhoir-126572",
+  "name": "Great Glen Way - Slighe a' Ghlinne Mhòir",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 378.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8223104,
+    "lon": -5.1059081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 126572
+  }
+}

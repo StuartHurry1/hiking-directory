@@ -1,0 +1,21 @@
+{
+  "id": "osm-19946156",
+  "slug": "ironmasters-walk-batemans-19946156",
+  "name": "Ironmaster's Walk, Batemans",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9903138,
+    "lon": 0.3793498
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19946156
+  }
+}

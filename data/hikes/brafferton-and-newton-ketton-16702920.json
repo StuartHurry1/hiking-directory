@@ -1,0 +1,43 @@
+{
+  "id": "osm-16702920",
+  "slug": "brafferton-and-newton-ketton-16702920",
+  "name": "Brafferton & Newton Ketton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.582914,
+    "lon": -1.5493044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16702920
+  },
+  "ai": {
+    "summary": "A 12 km moderate hike in the UK between Brafferton and Newton Ketton. The route passes through rural farmland and quiet lanes, offering open countryside views and a steady pace suitable for walkers with some experience. Expect a mix of footpaths and minor roads with gates and stiles, and plan for about 3–4 hours depending on stops and conditions.",
+    "terrain_summary": "Mixed terrain including farm tracks, grassy footpaths, and some gravel or stony sections. Wet ground is possible after rain; stiles and gates are common; expect uneven footing and mild elevation changes.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy waterproof boots and layered clothing. Stay on marked paths, close gates behind you, and watch for livestock. Be cautious crossing minor roads; carry a map or offline navigation, a fully charged phone, and a small first aid kit. Let someone know your plan and turn back if weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle (2–3 liters depending on conditions)",
+      "Map and compass or offline navigation app",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, sunglasses) and a hat",
+      "Headlamp or flashlight",
+      "Lightweight rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March-October) is the best window; the route can be enjoyed year-round with appropriate gear.",
+    "seo": {
+      "title": "Brafferton & Newton Ketton Walk – 12 km Moderate Hike in the UK",
+      "meta_description": "Explore the Brafferton & Newton Ketton hike: a 12 km moderate walk through UK countryside with practical tips, gear recommendations, best seasons, and safety notes.",
+      "h1": "Brafferton & Newton Ketton Walk"
+    }
+  }
+}

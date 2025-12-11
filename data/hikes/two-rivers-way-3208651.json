@@ -1,0 +1,21 @@
+{
+  "id": "osm-3208651",
+  "slug": "two-rivers-way-3208651",
+  "name": "Two Rivers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3712596,
+    "lon": -2.80847
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3208651
+  }
+}

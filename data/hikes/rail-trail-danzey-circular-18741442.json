@@ -1,0 +1,21 @@
+{
+  "id": "osm-18741442",
+  "slug": "rail-trail-danzey-circular-18741442",
+  "name": "Rail Trail: Danzey Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3249762,
+    "lon": -1.8210974
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18741442
+  }
+}

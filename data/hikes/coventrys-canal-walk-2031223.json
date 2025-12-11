@@ -1,0 +1,21 @@
+{
+  "id": "osm-2031223",
+  "slug": "coventrys-canal-walk-2031223",
+  "name": "Coventry's Canal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4138681,
+    "lon": -1.511145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2031223
+  }
+}

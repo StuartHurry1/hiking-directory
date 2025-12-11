@@ -1,0 +1,45 @@
+{
+  "id": "osm-1675109",
+  "slug": "acw-circular-walk-01a-short-cut-for-c01-1675109",
+  "name": "ACW Circular Walk 01A (short-cut for C01)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4151207,
+    "lon": -1.6260111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1675109
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 01A is a 17.3 km hard circular hike in the UK, offered as a short-cut variation for C01. It combines sustained distance with varied terrain for a demanding day on the trail.",
+    "terrain_summary": "The route traverses mixed UK trail surfaces: well-maintained paths, grassy fields, potential mud and boggy sections, rocky stretches, and multiple steep ascents and descents. Navigation is generally straightforward, but signage can be sparse in remote sections; be prepared for uneven footing and occasional stream crossings.",
+    "safety_notes": "Plan for long daylight hours and changing weather. Wear sturdy waterproof boots and dress in layers. Carry a map and compass or GPS and know how to use them. Bring ample water and high-energy snacks. Pack a lightweight rain shell and a warm layer. Stay on marked paths, respect livestock, and check for any access restrictions. Inform someone of your planned route and expected return. Mobile signal may be limited in remote stretches. Carry a whistle, first-aid kit, and a charged phone/power bank for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat)",
+      "Water bottle or hydration system (2–3 liters as needed)",
+      "High-energy snacks and a packed lunch",
+      "Map and compass or GPS device (with routes downloaded)",
+      "Lightweight rain shell and warm layer",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Emergency whistle and small first-aid kit",
+      "Mobile phone with offline maps and a power bank",
+      "Headlamp or torch (in case of delays or low light)",
+      "Light emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) for the best daylight and generally milder conditions. Winter hiking is more challenging due to cold, ice, and shorter days.",
+    "seo": {
+      "title": "ACW Circular Walk 01A (Short-Cut for C01) – 17.3 km Hard Circular Walk in the UK",
+      "meta_description": "Explore the ACW Circular Walk 01A, a 17.3 km hard circular route in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this challenging hike.",
+      "h1": "ACW Circular Walk 01A (Short-Cut for C01) – 17.3 km Hard Circular Hike in the UK"
+    }
+  }
+}

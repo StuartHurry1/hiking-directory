@@ -1,0 +1,45 @@
+{
+  "id": "osm-15442476",
+  "slug": "builg-mounth-15442476",
+  "name": "Builg Mounth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0087776,
+    "lon": -2.5573277
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15442476
+  },
+  "ai": {
+    "summary": "Builg Mounth is a 10.6 km moderate hike in the UK that winds across varied terrain. The route offers open moorland, rocky sections, and occasional ascent, making it suitable for hikers with some experience who enjoy exposure and changing weather.",
+    "terrain_summary": "Expect a mix of well-defined paths, rocky steps, peat bogs, and some exposed ridge sections. Ground can be wet and uneven, especially after rain, and navigation benefits from a map and compass.",
+    "safety_notes": "Check the forecast and daylight hours; carry a map and compass or GPS; stay on marked paths; be prepared for rapidly changing weather and strong winds at higher elevations; wear layered clothing and carry extra layers, water, and food; inform someone of your plan and expected return time; turn back if conditions worsen; mobile signal may be unreliable in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Backpack with capacity for essentials",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Hat and gloves (season dependent)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care",
+      "Emergency whistle and a space blanket",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offer the best conditions, with longer daylight and drier ground. Winter hikes are possible but more exposed, muddy, and require advanced navigation and preparation.",
+    "seo": {
+      "title": "Builg Mounth Hiking Guide – 10.6 km Moderate UK Trail",
+      "meta_description": "Discover the 10.6 km Builg Mounth hike in the UK. Moderate difficulty with mixed moorland and rocky terrain, plus practical safety tips and gear.",
+      "h1": "Builg Mounth – 10.6 km Moderate Hike in the UK"
+    }
+  }
+}

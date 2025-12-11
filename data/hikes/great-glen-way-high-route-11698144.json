@@ -1,0 +1,21 @@
+{
+  "id": "osm-11698144",
+  "slug": "great-glen-way-high-route-11698144",
+  "name": "Great Glen Way High Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2072784,
+    "lon": -4.614671
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11698144
+  }
+}

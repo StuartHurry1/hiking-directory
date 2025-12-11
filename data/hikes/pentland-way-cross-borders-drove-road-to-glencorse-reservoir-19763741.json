@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763741",
+  "slug": "pentland-way-cross-borders-drove-road-to-glencorse-reservoir-19763741",
+  "name": "Pentland Way (Cross Borders Drove Road to Glencorse Reservoir)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8621897,
+    "lon": -3.2491668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763741
+  }
+}

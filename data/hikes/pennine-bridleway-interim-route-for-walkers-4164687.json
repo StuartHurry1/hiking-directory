@@ -1,0 +1,21 @@
+{
+  "id": "osm-4164687",
+  "slug": "pennine-bridleway-interim-route-for-walkers-4164687",
+  "name": "Pennine Bridleway Interim Route for Walkers",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4236332,
+    "lon": -1.9725883
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4164687
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8464024",
+  "slug": "lairds-trail-8464024",
+  "name": "Laird's Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0540873,
+    "lon": -4.9119384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8464024
+  }
+}

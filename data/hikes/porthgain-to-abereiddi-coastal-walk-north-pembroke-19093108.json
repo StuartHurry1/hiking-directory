@@ -1,0 +1,23 @@
+{
+  "id": "osm-19093108",
+  "slug": "porthgain-to-abereiddi-coastal-walk-north-pembroke-19093108",
+  "name": "Porthgain to Abereiddi Coastal Walk, North Pembroke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9480735,
+    "lon": -5.1806151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19093108
+  }
+}

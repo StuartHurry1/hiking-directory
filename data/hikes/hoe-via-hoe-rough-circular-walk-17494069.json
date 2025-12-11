@@ -1,0 +1,21 @@
+{
+  "id": "osm-17494069",
+  "slug": "hoe-via-hoe-rough-circular-walk-17494069",
+  "name": "Hoe via Hoe Rough Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7131637,
+    "lon": 0.9274304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17494069
+  }
+}

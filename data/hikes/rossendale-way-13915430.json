@@ -1,0 +1,21 @@
+{
+  "id": "osm-13915430",
+  "slug": "rossendale-way-13915430",
+  "name": "Rossendale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 209,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7259722,
+    "lon": -2.3320076
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13915430
+  }
+}

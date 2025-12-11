@@ -1,0 +1,21 @@
+{
+  "id": "osm-11181068",
+  "slug": "wellesley-green-route-11181068",
+  "name": "Wellesley Green Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2633488,
+    "lon": -0.765612
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11181068
+  }
+}

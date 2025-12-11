@@ -1,0 +1,21 @@
+{
+  "id": "osm-5569618",
+  "slug": "tillingbourne-at-work-long-scc-5569618",
+  "name": "Tillingbourne at work (long) (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2154519,
+    "lon": -0.5250632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5569618
+  }
+}

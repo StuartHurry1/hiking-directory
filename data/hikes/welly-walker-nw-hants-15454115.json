@@ -1,0 +1,21 @@
+{
+  "id": "osm-15454115",
+  "slug": "welly-walker-nw-hants-15454115",
+  "name": "Welly Walker, NW Hants",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3609113,
+    "lon": -1.3697022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15454115
+  }
+}

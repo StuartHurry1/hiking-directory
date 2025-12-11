@@ -1,0 +1,44 @@
+{
+  "id": "osm-3091142",
+  "slug": "beverley-brook-walk-3091142",
+  "name": "Beverley Brook Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4720624,
+    "lon": -0.2283757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3091142
+  },
+  "ai": {
+    "summary": "Beverley Brook Walk is a long, challenging 18.3 km trek in the UK that follows the Beverley Brook. The route combines riverside paths, woodland trails, and occasional edge terrain, with mud, uneven footing, and several gates or stiles that test endurance.",
+    "terrain_summary": "Terrain ranges from narrow river paths and grassy banks to woodland trails and some urban-adjacent sections. Expect uneven footing, exposed roots, muddy stretches, and occasional gentle ascents. Water-side sections can be slippery after rain, and cyclists may share parts of the route.",
+    "safety_notes": "Plan as a full-day outing with good fitness and appropriate footwear. The length and hard difficulty demand sturdy boots, layered clothing and a weatherproof layer. Check weather and daylight hours; stay on marked paths; be cautious near water. Bring a map or offline navigation, a charged mobile phone, and enough food and water. Take care on muddy or rutted sections, and let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy, broken-in hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers; waterproof jacket and trousers)",
+      "Water and snacks (enough for the day)",
+      "Map, compass, or offline navigation app",
+      "Fully charged phone and power bank",
+      "Lightweight waterproof backpack",
+      "First aid kit (blister care, basic supplies)",
+      "Whistle and/or personal locator beacon (optional)",
+      "Headlamp or mini flashlight (if walking near dusk)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal; winter hikes are possible but daylight and weather can make the route more challenging.",
+    "seo": {
+      "title": "Beverley Brook Walk – 18.3 km Hard Hike in the UK",
+      "meta_description": "Discover the 18.3 km Beverley Brook Walk in the UK. A challenging riverside trek with mixed terrain, mud, and woodland; plan with proper gear and safety precautions.",
+      "h1": "Beverley Brook Walk – 18.3 km Hard Trek in the UK"
+    }
+  }
+}

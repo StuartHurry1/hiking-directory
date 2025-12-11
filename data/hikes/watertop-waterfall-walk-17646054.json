@@ -1,0 +1,23 @@
+{
+  "id": "osm-17646054",
+  "slug": "watertop-waterfall-walk-17646054",
+  "name": "Watertop Waterfall Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1758082,
+    "lon": -6.1303931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17646054
+  }
+}

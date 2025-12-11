@@ -1,0 +1,21 @@
+{
+  "id": "osm-7896801",
+  "slug": "woodlandwalk-7896801",
+  "name": "Woodlandwalk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3804373,
+    "lon": -7.3052515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7896801
+  }
+}

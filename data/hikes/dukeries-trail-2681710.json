@@ -1,0 +1,21 @@
+{
+  "id": "osm-2681710",
+  "slug": "dukeries-trail-2681710",
+  "name": "Dukeries Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 129.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.225,
+    "lon": -1.1129874
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2681710
+  }
+}

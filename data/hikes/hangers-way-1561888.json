@@ -1,0 +1,21 @@
+{
+  "id": "osm-1561888",
+  "slug": "hangers-way-1561888",
+  "name": "Hangers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 96.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0329548,
+    "lon": -0.9457248
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1561888
+  }
+}

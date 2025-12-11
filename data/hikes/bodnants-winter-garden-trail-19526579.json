@@ -1,0 +1,40 @@
+{
+  "id": "osm-19526579",
+  "slug": "bodnants-winter-garden-trail-19526579",
+  "name": "Bodnant's Winter Garden Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2333984,
+    "lon": -3.7925577
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19526579
+  },
+  "ai": {
+    "summary": "An easy 2.4 km circuit through Bodnant's Winter Garden, offering a serene, family-friendly walk that highlights evergreen displays and seasonal plantings. Suitable for all ages and fitness levels, with mostly flat paths and gentle surfaces.",
+    "terrain_summary": "Mostly flat, well-maintained paths of gravel and paved surfaces. Some damp or muddy sections in wetter weather; gentle slopes at access points. Expect seasonal leaves and possible slick patches in winter; sturdy footwear recommended.",
+    "safety_notes": "Check opening hours for Bodnant Garden before visiting. Paths can be slippery when wet or icy; wear appropriate footwear. Stay on marked paths, supervise children, and keep a safe distance from garden features. Carry weather-appropriate clothing and water; in severe weather, the garden may close. Follow local guidance.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Warm clothing and a waterproof jacket",
+      "Hat and gloves (seasonal)",
+      "Water and a small snack",
+      "Lightweight backpack",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Year-round, with a standout experience in winter when the garden's winter displays are most visible and a fresh spring bloom follows.",
+    "seo": {
+      "title": "Bodnant's Winter Garden Trail — Easy 2.4 km Walk in the UK",
+      "meta_description": "Explore Bodnant's Winter Garden Trail, an easy 2.4 km route through Bodnant Garden in the UK. Learn about terrain, safety, gear, and the best seasons to hike this delightful garden stroll.",
+      "h1": "Bodnant's Winter Garden Trail – 2.4 km Easy Walk"
+    }
+  }
+}

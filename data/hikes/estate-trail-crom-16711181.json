@@ -1,0 +1,21 @@
+{
+  "id": "osm-16711181",
+  "slug": "estate-trail-crom-16711181",
+  "name": "Estate Trail, Crom",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1673759,
+    "lon": -7.4536728
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16711181
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-163645",
+  "slug": "gregynog-medium-circular-walk-163645",
+  "name": "Gregynog medium circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5683411,
+    "lon": -3.3504786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 163645
+  }
+}

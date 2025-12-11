@@ -1,0 +1,21 @@
+{
+  "id": "osm-19008785",
+  "slug": "vole-walk-arlington-court-19008785",
+  "name": "Vole Walk, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1530413,
+    "lon": -3.9806065
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19008785
+  }
+}

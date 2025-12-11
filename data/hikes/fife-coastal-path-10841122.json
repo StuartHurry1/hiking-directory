@@ -1,0 +1,23 @@
+{
+  "id": "osm-10841122",
+  "slug": "fife-coastal-path-10841122",
+  "name": "Fife Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 403.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0662091,
+    "lon": -3.7222595
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10841122
+  }
+}

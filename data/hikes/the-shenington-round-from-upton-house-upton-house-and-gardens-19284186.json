@@ -1,0 +1,23 @@
+{
+  "id": "osm-19284186",
+  "slug": "the-shenington-round-from-upton-house-upton-house-and-gardens-19284186",
+  "name": "The Shenington Round from Upton House, Upton House and Gardens",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.8,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1123837,
+    "lon": -1.4626357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19284186
+  }
+}

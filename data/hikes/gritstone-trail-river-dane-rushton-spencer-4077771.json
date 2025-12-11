@@ -1,0 +1,21 @@
+{
+  "id": "osm-4077771",
+  "slug": "gritstone-trail-river-dane-rushton-spencer-4077771",
+  "name": "Gritstone Trail (River Dane - Rushton Spencer)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1702592,
+    "lon": -2.0859301
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4077771
+  }
+}

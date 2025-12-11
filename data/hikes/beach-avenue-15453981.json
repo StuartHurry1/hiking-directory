@@ -1,0 +1,41 @@
+{
+  "id": "osm-15453981",
+  "slug": "beach-avenue-15453981",
+  "name": "Beach Avenue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2113909,
+    "lon": -5.8888571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15453981
+  },
+  "ai": {
+    "summary": "Beach Avenue is a very short, easy coastal stroll in the UK. At 0.1 km, it follows a flat, scenic path along the shoreline, making it ideal for a quick outing with ocean views.",
+    "terrain_summary": "Flat and accessible terrain along a beach promenade. Likely a mix of boardwalk, paved path, and compact sand near the shoreline. Open to sea breeze and potential wet patches.",
+    "safety_notes": "Be mindful of tides and slippery surfaces when wet. Stay on the designated path and watch for pedestrians. Protect yourself from sun and wind with sunscreen and a hat; stay hydrated. Check local beach warnings for closures or dangerous conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Sunscreen",
+      "Hat or cap",
+      "Light jacket or windbreaker",
+      "Water bottle",
+      "Towel or small blanket (optional)",
+      "Sunglasses"
+    ],
+    "best_seasons": "Spring to autumn are ideal in the UK, with May–September offering the best combination of warmth and daylight. The route is still suitable in winter for a short stroll if the weather is mild.",
+    "seo": {
+      "title": "Beach Avenue: Easy 0.1 km Coastal Walk in the UK",
+      "meta_description": "Discover Beach Avenue, a short and flat 0.1 km coastal walk in the UK. Perfect for a quick, relaxed outing with ocean views.",
+      "h1": "Beach Avenue: Easy 0.1 km Coastal Walk in the UK"
+    }
+  }
+}

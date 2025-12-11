@@ -1,0 +1,21 @@
+{
+  "id": "osm-5385432",
+  "slug": "golf-course-circular-5385432",
+  "name": "Golf Course Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0808112,
+    "lon": -4.0541319
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5385432
+  }
+}

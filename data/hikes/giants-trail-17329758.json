@@ -1,0 +1,21 @@
+{
+  "id": "osm-17329758",
+  "slug": "giants-trail-17329758",
+  "name": "Giants Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2044149,
+    "lon": -1.0724906
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17329758
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19262728",
+  "slug": "derwent-water-and-cockshot-wood-accessible-loop-north-lakes-outdoors-19262728",
+  "name": "Derwent Water and Cockshot Wood Accessible Loop, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5958798,
+    "lon": -3.1394103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19262728
+  }
+}

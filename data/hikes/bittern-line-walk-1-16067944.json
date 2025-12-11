@@ -1,0 +1,44 @@
+{
+  "id": "osm-16067944",
+  "slug": "bittern-line-walk-1-16067944",
+  "name": "Bittern Line Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6270349,
+    "lon": 1.306325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16067944
+  },
+  "ai": {
+    "summary": "A 10.4 km moderate hike along the Bittern Line route in the UK, offering open countryside views, potential marshland scenery, and railway-side landscapes.",
+    "terrain_summary": "Mixed surfaces including gravel paths, compacted dirt, and grassy tracks. Some sections may be uneven or muddy after rain; expect gentle undulations along the route.",
+    "safety_notes": "Check the weather and potential flood risk before starting. Stay on public rights of way and be cautious near railway lines and crossings. Carry a map or GPS, and let someone know your planned route and expected return time. Bring water, snacks, and basic first aid; wear appropriate footwear and clothing for changing conditions. Be mindful of livestock and seasonal wildlife; use high-visibility clothing if walking near tracks in low light.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate layers (waterproof jacket, hat, gloves as needed)",
+      "Water and snacks",
+      "Map and/or GPS device or reliable smartphone with offline maps",
+      "Phone with emergency numbers",
+      "Small first aid kit",
+      "Sunscreen and sunglasses (in sunny weather)",
+      "Headtorch or flashlight (if walking near dusk)",
+      "Rain jacket",
+      "High-visibility vest or bright clothing when near railway areas"
+    ],
+    "best_seasons": "Spring to autumn typically offer milder weather and better wildlife viewing; route is walkable year-round with proper gear.",
+    "seo": {
+      "title": "Bittern Line Walk 1 - 10.4 km Moderate Hike in the UK",
+      "meta_description": "Explore Bittern Line Walk 1, a 10.4 km moderate hike in the UK along the historic Bittern Line. Learn about terrain, safety tips, gear, and the best seasons for this scenic countryside route.",
+      "h1": "Bittern Line Walk 1 – 10.4 km Moderate Hike (UK)"
+    }
+  }
+}

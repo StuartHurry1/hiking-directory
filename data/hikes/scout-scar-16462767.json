@@ -1,0 +1,21 @@
+{
+  "id": "osm-16462767",
+  "slug": "scout-scar-16462767",
+  "name": "Scout Scar",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3244373,
+    "lon": -2.7879306
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16462767
+  }
+}

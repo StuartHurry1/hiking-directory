@@ -1,0 +1,21 @@
+{
+  "id": "osm-19218288",
+  "slug": "orange-route-longshaw-estate-19218288",
+  "name": "Orange Route, Longshaw Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.31705,
+    "lon": -1.601165
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19218288
+  }
+}

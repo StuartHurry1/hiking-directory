@@ -1,0 +1,21 @@
+{
+  "id": "osm-23309",
+  "slug": "the-chiltern-way-23309",
+  "name": "The Chiltern Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 458,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9234028,
+    "lon": -0.5043922
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 23309
+  }
+}

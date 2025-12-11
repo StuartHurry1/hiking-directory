@@ -1,0 +1,21 @@
+{
+  "id": "osm-3720599",
+  "slug": "orange-way-3720599",
+  "name": "Orange Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 408.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7114203,
+    "lon": -3.289766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3720599
+  }
+}

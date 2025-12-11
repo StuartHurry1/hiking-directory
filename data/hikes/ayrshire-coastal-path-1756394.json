@@ -1,0 +1,48 @@
+{
+  "id": "osm-1756394",
+  "slug": "ayrshire-coastal-path-1756394",
+  "name": "Ayrshire Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 425.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5158974,
+    "lon": -4.6214384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756394
+  },
+  "ai": {
+    "summary": "A hard, long-distance coastal trek along the Ayrshire coast in the United Kingdom, spanning 425.4 km. It combines rugged cliff sections, windswept beaches, and occasional road detours, demanding stamina, navigation, and respect for coastal weather.",
+    "terrain_summary": "Primarily coastal paths with sea cliffs, headlands, beaches, and occasional road sections. Expect frequent elevation changes, uneven rocky surfaces, wet and muddy trails after rain, and exposure to wind with limited shelter in remote stretches.",
+    "safety_notes": "Check tides and wave conditions before coastal sections; stay away from unstable cliff edges and erosion zones. Weather in coastal Scotland can change rapidly; carry maps, a compass or GPS, and a fully charged phone. Inform someone of your itinerary and expected return. Bring sufficient water and food, ensure proper clothing layers, and use sun protection. Be prepared for limited cell reception in remote sections; plan contingencies for navigation and shelter. Tidal crossings may require detours or be impassable; do not attempt them alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Layered clothing system (base layer, insulating layer, outer shell)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Water bottle or hydration bladder + water purification method",
+      "High-energy snacks and meals",
+      "Emergency whistle and basic first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Trekking poles",
+      "Lightweight backpack with rain cover",
+      "Emergency shelter or space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) typically offers milder weather and longer daylight for the coastline. Shoulder seasons can be quieter but weather variability remains; winter hiking is for experienced hikers with robust safety plans.",
+    "seo": {
+      "title": "Ayrshire Coastal Path: 425.4 km of UK Coastal Hiking (Hard)",
+      "meta_description": "Explore the Ayrshire Coastal Path, a 425.4 km hard coastal hike in the UK. Learn about terrain, safety, gear, and the best seasons for this challenging route.",
+      "h1": "Ayrshire Coastal Path – 425.4 km Hard Coastal Trek in the UK"
+    }
+  }
+}

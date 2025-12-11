@@ -1,0 +1,43 @@
+{
+  "id": "osm-4004229",
+  "slug": "ben-nevis-mountain-path-4004229",
+  "name": "Ben Nevis Mountain Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8101413,
+    "lon": -5.0764391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004229
+  },
+  "ai": {
+    "summary": "Ben Nevis Mountain Path, also known as the Mountain Track, is a strenuous 17 km round trip to the summit of Britain's highest peak. The route climbs from Glen Nevis through rocky terrain to high exposed ridges, with steadily increasing elevation and rapidly changing weather conditions. Fitness and preparation are essential for this challenging day hike.",
+    "terrain_summary": "The trail starts on a well-used path from Glen Nevis, progressing through rocky ground, scree slopes, boulder fields and occasional ladder sections. Expect exposed sections at higher elevations, loose stones, and long, steep ascents. Total ascent is around 1,300-1,350 m, with winds and cold temperatures possible even in summer.",
+    "safety_notes": "- Weather on Ben Nevis can change quickly; storms, low visibility, and strong winds are common. Check a detailed forecast and be prepared to turn back if conditions deteriorate. - Stay on the marked path; loose scree and wet rock can be hazardous. - The hike involves significant elevation gain and exposure; ensure you have the fitness and experience for a hard day. - Daylight hours are important; start early in longer days and allow ample time to descend before dark. - Tell someone your planned route and timings; carry a map, compass or GPS, and have a charged phone as a backup. - Bring sufficient warmth, waterproofs, food and water; carry an extra layer and emergency shelter. - Be cautious near the summit; altitude can cause hypothermia, dizziness, or fatigue.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and windproof jacket (and waterproof trousers)",
+      "Warm layers (fleece or down mid-layer)",
+      "Warm hat and gloves",
+      "Map and compass or GPS device",
+      "Headlamp with spare batteries",
+      "Sufficient food and 2-3 liters of water",
+      "Emergency shelter or bivy bag",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Best conditions are typically May-September when daylight is longer and weather is more stable. Year-round climbs are possible but winter ascents require mountaineering skills, crampons, axes and specialized experience; shoulder seasons can be variable with strong winds and sudden changes.",
+    "seo": {
+      "title": "Ben Nevis Mountain Path (Mountain Track) – 17 km Hard Hike in the UK",
+      "meta_description": "Plan your Ben Nevis Mountain Path ascent. A challenging 17 km hike to Britain's highest peak with terrain details, safety tips, gear recommendations, and best seasons.",
+      "h1": "Ben Nevis Mountain Path – Mountain Track"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13216763",
+  "slug": "gortin-forest-pollan-trail-13216763",
+  "name": "Gortin Forest Pollan Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6833237,
+    "lon": -7.2461431
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216763
+  }
+}

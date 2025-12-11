@@ -1,0 +1,49 @@
+{
+  "id": "osm-1573805",
+  "slug": "calder-aire-link-1573805",
+  "name": "Calder Aire Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7876589,
+    "lon": -2.0828296
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1573805
+  },
+  "ai": {
+    "summary": "Calder Aire Link is a challenging 57.8 km hike in the United Kingdom, designed for experienced long-distance trekkers. The route combines varied terrain and some remote sections, delivering rewarding scenery while demanding careful planning, fitness, and navigation.",
+    "terrain_summary": "Expect a mix of grassy tracks, rocky paths, peat bogs, river crossings, and occasional road sections. Elevation varies with steep ascents and long gradual climbs. Weather and mud can slow progress, and remote stretches may offer limited services and mobile signal.",
+    "safety_notes": "Before you set out, check the forecast and daylight hours. Carry a map and compass (and know how to use them) or a reliable GPS device. Plan your day with realistic timings and share your route with someone. Bring enough food and water for the day (plus backups), and consider water treatment options for longer sections. Wear sturdy boots and weather-appropriate clothing, and pack a waterproof layer. Be prepared for remote terrain, limited mobile coverage, and changing conditions; know your limits and turn back if safety is compromised.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof outer shell and insulated layers",
+      "Moisture-wicking base layers",
+      "Backpack with 20–40 L capacity",
+      "Map and compass (or GPS device) and knowledge to use them",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Water bottles or hydration reservoir plus water purification method",
+      "High-energy snacks and meals",
+      "Emergency bivy or lightweight shelter",
+      "Whistle and multi-tool",
+      "Sunscreen, sunglasses, and a hat",
+      "Gloves (for cold or wind)",
+      "Trekking poles (optional)",
+      "Phone with portable power bank and offline route backups"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best conditions in the UK with longer daylight and drier weather. Shoulder seasons can be pleasant but enjoy cooler temperatures and the possibility of rain; winter hikes are not recommended for such a long distance due to short days and harsher weather.",
+    "seo": {
+      "title": "Calder Aire Link – 57.8 km Hard Hike in the UK",
+      "meta_description": "Plan a Calder Aire Link adventure: a demanding 57.8 km UK hike with varied terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Calder Aire Link: UK 57.8 km Hard Hike"
+    }
+  }
+}

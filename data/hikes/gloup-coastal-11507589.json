@@ -1,0 +1,23 @@
+{
+  "id": "osm-11507589",
+  "slug": "gloup-coastal-11507589",
+  "name": "Gloup Coastal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7214647,
+    "lon": -1.0718735
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507589
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-13196945",
+  "slug": "brandon-run-walk-route-13196945",
+  "name": "Brandon Run Walk Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4450043,
+    "lon": 0.6142575
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13196945
+  },
+  "ai": {
+    "summary": "The Brandon Run Walk Route is a short, easy 2.9 km hike in the United Kingdom. Designed for casual walkers and families, the route offers gentle terrain and pleasant surroundings suitable for a relaxed outdoor outing.",
+    "terrain_summary": "Primarily well-maintained paths with grassy sections and light woodland edges. Terrain is flat to gently rolling, with occasional muddy patches after rain and some exposed roots on uneven sections.",
+    "safety_notes": "Check the weather before you go and dress accordingly. Wear sturdy footwear and bring a lightweight waterproof layer. Stay on marked paths, watch for cyclists on shared routes, and supervise children and pets. Carry a small first-aid kit, a charged mobile phone, and a map or GPS if you are unfamiliar with the area.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing with layers",
+      "Water bottle",
+      "Lightweight waterproof jacket or shell",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack or daypack",
+      "Map or offline GPS / smartphone with offline map",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the best conditions; winter walks are possible but can be muddy and darker.",
+    "seo": {
+      "title": "Brandon Run Walk Route - Easy 2.9 km hike in the UK",
+      "meta_description": "Explore the Brandon Run Walk Route, a short and easy 2.9 km hike in the United Kingdom. Learn about terrain, safety tips, and gear to bring for a relaxed outdoor stroll.",
+      "h1": "Brandon Run Walk Route - Easy 2.9 km hike in the UK"
+    }
+  }
+}

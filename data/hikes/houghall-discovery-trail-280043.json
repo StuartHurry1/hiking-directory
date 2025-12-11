@@ -1,0 +1,21 @@
+{
+  "id": "osm-280043",
+  "slug": "houghall-discovery-trail-280043",
+  "name": "Houghall Discovery Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7639384,
+    "lon": -1.5564101
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 280043
+  }
+}

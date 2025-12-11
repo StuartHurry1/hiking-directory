@@ -1,0 +1,21 @@
+{
+  "id": "osm-3187536",
+  "slug": "loop-walk-3187536",
+  "name": "Loop Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4380505,
+    "lon": -2.7674868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3187536
+  }
+}

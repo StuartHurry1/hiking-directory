@@ -1,0 +1,21 @@
+{
+  "id": "osm-12469682",
+  "slug": "woodcock-trail-12469682",
+  "name": "Woodcock Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0647088,
+    "lon": -1.9938759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12469682
+  }
+}

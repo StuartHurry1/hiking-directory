@@ -1,0 +1,21 @@
+{
+  "id": "osm-15001324",
+  "slug": "chiltern-heritage-trail-temporary-diversion-15001324",
+  "name": "Chiltern Heritage Trail Temporary Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7102619,
+    "lon": -0.6881097
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15001324
+  }
+}

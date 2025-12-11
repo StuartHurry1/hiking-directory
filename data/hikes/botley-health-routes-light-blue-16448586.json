@@ -1,0 +1,42 @@
+{
+  "id": "osm-16448586",
+  "slug": "botley-health-routes-light-blue-16448586",
+  "name": "Botley Health Routes - Light Blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7506975,
+    "lon": -1.298239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16448586
+  },
+  "ai": {
+    "summary": "A gentle 5.7 km loop named Botley Health Routes - Light Blue in the UK. Designed for beginners and casual walkers, it offers an easy, health-focused outing along mostly flat paths.",
+    "terrain_summary": "Mostly flat with gentle gradients, combining paved paths and compact trails. Surfaces are generally easy to walk, with occasional grass sections.",
+    "safety_notes": "Carry sufficient water and wear comfortable footwear. Check the forecast and weather conditions before you go. Stay on marked paths, be aware of other pedestrians and cyclists, and carry a map or GPS in case of detours. Phone reception may vary in rural areas, so share your route with someone and have a backup plan.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Sun protection (sunscreen/hat)",
+      "Map or offline GPS",
+      "Snacks or energy bar",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; winter can be cold, wet, and muddy.",
+    "seo": {
+      "title": "Botley Health Routes - Light Blue | Easy 5.7 km UK Hike",
+      "meta_description": "Discover Botley Health Routes - Light Blue, an easy 5.7 km hike in the UK. Flat to gentle paths, beginner-friendly with practical safety tips and gear.",
+      "h1": "Botley Health Routes - Light Blue"
+    }
+  }
+}

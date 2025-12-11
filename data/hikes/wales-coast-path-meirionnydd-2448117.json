@@ -1,0 +1,23 @@
+{
+  "id": "osm-2448117",
+  "slug": "wales-coast-path-meirionnydd-2448117",
+  "name": "Wales Coast Path (Meirionnydd)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 513.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5804149,
+    "lon": -4.0980911
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2448117
+  }
+}

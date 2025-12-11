@@ -1,0 +1,44 @@
+{
+  "id": "osm-15526848",
+  "slug": "bradys-walk-orange-route-15526848",
+  "name": "Brady's Walk (Orange Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8097652,
+    "lon": 1.2302824
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15526848
+  },
+  "ai": {
+    "summary": "Brady's Walk (Orange Route) is a 14.3 km moderate hike in the United Kingdom. The route follows orange-marked waymarks through a mix of countryside lanes, fields, and woodland, with gentle ascents and some uneven sections suitable for hikers with solid footing.",
+    "terrain_summary": "Terrain varies from grassy field edges and rural lanes to woodland trails and occasional rocky or uneven stretches. Expect mud in damp conditions, hedgerows, and gentle to moderate climbs; some sections may be exposed to wind.",
+    "safety_notes": "Plan for 4–5 hours of hiking. Wear sturdy footwear and dress for changing UK weather. Stay on marked paths and carry a map or GPS; know your turn-back points. Check the forecast and daylight hours before setting out. Be mindful of livestock and gate etiquette; close gates after passing. Bring water and snacks, plus a basic first-aid kit. Mobile signal can be patchy in rural parts, so tell someone your route and expected return time. In an emergency, call 999. If navigation is uncertain, turn back rather than risk getting lost.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Weather-appropriate clothing (layers, waterproofs)",
+      "Hat, sunscreen, and sunglasses",
+      "Headlamp or flashlight",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Whistle for safety",
+      "Light waterproof bag or dry sack"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October); winter hiking is possible with proper gear but daylight, weather, and trail conditions can limit access.",
+    "seo": {
+      "title": "Brady's Walk (Orange Route) – 14.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Brady's Walk Orange Route, a 14.3 km moderate UK hike over countryside lanes, fields, and woodland. Practical safety tips, gear lists, and best seasons.",
+      "h1": "Brady's Walk (Orange Route) – 14.3 km Moderate Hike"
+    }
+  }
+}

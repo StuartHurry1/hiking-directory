@@ -1,0 +1,23 @@
+{
+  "id": "osm-19788712",
+  "slug": "gribbin-head-walk-at-fowey-estuary-lantic-bay-19788712",
+  "name": "Gribbin Head walk at Fowey Estuary, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3237865,
+    "lon": -4.6650773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19788712
+  }
+}

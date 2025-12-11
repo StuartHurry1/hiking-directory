@@ -1,0 +1,42 @@
+{
+  "id": "osm-7782771",
+  "slug": "california-greenway-7782771",
+  "name": "California Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3801164,
+    "lon": -0.8941593
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7782771
+  },
+  "ai": {
+    "summary": "The California Greenway is a 9.6 km moderately challenging hike in the United Kingdom. The route blends grassy tracks with gravel paths and some rooty sections, offering steady but not technical terrain and views of surrounding countryside. Suitable for walkers with some experience who have solid footwear and conditioning.",
+    "terrain_summary": "Expect a mix of well-defined trails, grassy paths, and gravel tracks. The elevation change is gradual with some short, steeper sections; the surface can be uneven underfoot, and rooty patches may appear in shaded sectors. Overall, it’s a moderate, day-length hike that can be completed in a few hours depending on pace.",
+    "safety_notes": "Plan for typical UK conditions: check the weather forecast, as rain can make trails slick and visibility poor. Wear sturdy waterproof footwear and bring a light rain jacket. Carry a map or offline navigation, a charged phone, water, and snacks. Start early in shorter days, watch for daylight savings, and be mindful of other hikers on narrow sections. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Sturdy hiking boots or walking shoes",
+      "Weather-appropriate clothing (layering, rain jacket)",
+      "Map and/or fully charged phone with offline navigation",
+      "Snack/energy foods",
+      "Headtorch or flashlight (for potential low light)",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) typically offers the best hiking conditions in the UK. The route can be tackled year-round with suitable gear and daylight considerations.",
+    "seo": {
+      "title": "California Greenway Hike in the UK | 9.6 km Moderate Trail",
+      "meta_description": "Discover the 9.6 km California Greenway, a moderate UK hike with mixed terrain and countryside views. Practical tips, safety notes, and must-have gear for a day on the trail.",
+      "h1": "California Greenway – 9.6 km Moderate Hike in the UK"
+    }
+  }
+}

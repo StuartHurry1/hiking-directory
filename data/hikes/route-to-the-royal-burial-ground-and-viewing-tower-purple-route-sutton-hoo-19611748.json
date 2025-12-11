@@ -1,0 +1,21 @@
+{
+  "id": "osm-19611748",
+  "slug": "route-to-the-royal-burial-ground-and-viewing-tower-purple-route-sutton-hoo-19611748",
+  "name": "Route to the Royal Burial Ground and Viewing Tower (Purple Route), Sutton Hoo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0934557,
+    "lon": 1.3392888
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19611748
+  }
+}

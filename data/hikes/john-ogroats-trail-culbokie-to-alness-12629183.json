@@ -1,0 +1,21 @@
+{
+  "id": "osm-12629183",
+  "slug": "john-ogroats-trail-culbokie-to-alness-12629183",
+  "name": "John O'Groats Trail (Culbokie to Alness)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6018026,
+    "lon": -4.3396078
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12629183
+  }
+}

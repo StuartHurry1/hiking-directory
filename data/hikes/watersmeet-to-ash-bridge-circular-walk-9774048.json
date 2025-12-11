@@ -1,0 +1,23 @@
+{
+  "id": "osm-9774048",
+  "slug": "watersmeet-to-ash-bridge-circular-walk-9774048",
+  "name": "Watersmeet to Ash Bridge circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2235977,
+    "lon": -3.8009179
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9774048
+  }
+}

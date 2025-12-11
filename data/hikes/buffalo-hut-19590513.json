@@ -1,0 +1,43 @@
+{
+  "id": "osm-19590513",
+  "slug": "buffalo-hut-19590513",
+  "name": "Buffalo Hut",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5322288,
+    "lon": -3.5341727
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19590513
+  },
+  "ai": {
+    "summary": "Buffalo Hut is a 7.9 km moderate hike in the UK. The route follows a well-defined trail with varied terrain, offering light ascents, open countryside views, and a mix of grassy paths and occasional muddy or rocky sections.",
+    "terrain_summary": "The hike uses a well-marked path with varied surfaces: grassy fields, compact soil, and occasional mud. There are gentle to moderate elevation gains, along with a few rocky patches and uneven footing. Expect wet ground after rain and seasonal mud; no technical scrambling.",
+    "safety_notes": "Check the forecast and be prepared for changing UK weather. Wear sturdy boots and dress in layers. Stay on the marked path, bring a map or GPS, water, snacks, and a basic first aid kit. Let someone know your plan and expected return time. Be cautious on wet or muddy sections, and watch for livestock or barriers at gates.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Waterproof jacket",
+      "Layered clothing (including hat and gloves in colder seasons)",
+      "Map or GPS device",
+      "Emergency whistle",
+      "First aid kit",
+      "Phone with offline maps",
+      "Headlamp or flashlight (in case of late return)"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to early November) for milder conditions; winter hikes are possible but often wetter, colder, and with shorter daylight.",
+    "seo": {
+      "title": "Buffalo Hut – 7.9 km Moderate Hike in the UK",
+      "meta_description": "Discover Buffalo Hut, a 7.9 km moderate hike in the UK. Learn about the terrain, safety tips, best seasons, and essential gear for the trail.",
+      "h1": "Buffalo Hut – 7.9 km Moderate Hike in the UK"
+    }
+  }
+}

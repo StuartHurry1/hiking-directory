@@ -1,0 +1,21 @@
+{
+  "id": "osm-10671234",
+  "slug": "loop-link-to-ewell-west-station-10671234",
+  "name": "LOOP link to Ewell West station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.350899,
+    "lon": -0.2518081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10671234
+  }
+}

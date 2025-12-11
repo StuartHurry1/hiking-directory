@@ -1,0 +1,21 @@
+{
+  "id": "osm-9677975",
+  "slug": "happisburgh-village-trail-9677975",
+  "name": "Happisburgh Village Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8252407,
+    "lon": 1.5330219
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9677975
+  }
+}

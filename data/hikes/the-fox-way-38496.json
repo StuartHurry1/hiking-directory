@@ -1,0 +1,21 @@
+{
+  "id": "osm-38496",
+  "slug": "the-fox-way-38496",
+  "name": "The Fox Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 124.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1931673,
+    "lon": -0.6607467
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 38496
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19365843",
+  "slug": "lavenham-woodland-walk-lavenham-guildhall-19365843",
+  "name": "Lavenham Woodland Walk, Lavenham Guildhall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1091615,
+    "lon": 0.796661
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365843
+  }
+}

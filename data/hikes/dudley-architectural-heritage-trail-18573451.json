@@ -1,0 +1,21 @@
+{
+  "id": "osm-18573451",
+  "slug": "dudley-architectural-heritage-trail-18573451",
+  "name": "Dudley Architectural Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5097867,
+    "lon": -2.0872628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18573451
+  }
+}

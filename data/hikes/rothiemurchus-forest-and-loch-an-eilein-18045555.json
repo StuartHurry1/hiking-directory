@@ -1,0 +1,21 @@
+{
+  "id": "osm-18045555",
+  "slug": "rothiemurchus-forest-and-loch-an-eilein-18045555",
+  "name": "Rothiemurchus Forest & Loch an Eilein",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1415866,
+    "lon": -3.8305764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18045555
+  }
+}

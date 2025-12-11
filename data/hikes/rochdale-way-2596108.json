@@ -1,0 +1,21 @@
+{
+  "id": "osm-2596108",
+  "slug": "rochdale-way-2596108",
+  "name": "Rochdale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 241.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6348902,
+    "lon": -2.0840977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2596108
+  }
+}

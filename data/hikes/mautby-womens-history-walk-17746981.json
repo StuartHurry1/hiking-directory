@@ -1,0 +1,21 @@
+{
+  "id": "osm-17746981",
+  "slug": "mautby-womens-history-walk-17746981",
+  "name": "Mautby Women’s History Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6517638,
+    "lon": 1.6682142
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17746981
+  }
+}

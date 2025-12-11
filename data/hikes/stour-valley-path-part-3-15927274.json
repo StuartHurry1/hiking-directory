@@ -1,0 +1,21 @@
+{
+  "id": "osm-15927274",
+  "slug": "stour-valley-path-part-3-15927274",
+  "name": "Stour Valley Path part 3",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9627378,
+    "lon": 0.9714669
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15927274
+  }
+}

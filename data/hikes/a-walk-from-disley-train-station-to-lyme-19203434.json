@@ -1,0 +1,41 @@
+{
+  "id": "osm-19203434",
+  "slug": "a-walk-from-disley-train-station-to-lyme-19203434",
+  "name": "A Walk from Disley Train Station to Lyme",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3587768,
+    "lon": -2.039578
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19203434
+  },
+  "ai": {
+    "summary": "An easy 2.8 km walk from Disley Train Station to Lyme, suitable for all ages and abilities. The route blends level pavements with short sections of country lanes and offers pleasant views of the surrounding countryside.",
+    "terrain_summary": "Mostly flat with gentle undulation. Surface types include pavements, tarmac lanes, and short grassy or uneven paths near Lyme Park; some sections on rural roads may require attention to traffic.",
+    "safety_notes": "Check the weather before you go; wear sturdy shoes and dress in layers; stay on marked paths and use the pavement where provided; watch for traffic on rural lanes; carry a map or GPS, water, and a small snack; gates and livestock may be encountered on some sections; plan for daylight hours and supervise children.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer (jacket or fleece)",
+      "Sun protection (sunscreen, hat)",
+      "Phone with offline map or map app",
+      "Snacks",
+      "Light rain cover or umbrella"
+    ],
+    "best_seasons": "All year round; the best conditions are typically spring to autumn when paths are dry and daylight is longer.",
+    "seo": {
+      "title": "A Walk from Disley Train Station to Lyme – Easy 2.8 km UK Walk",
+      "meta_description": "Discover an easy 2.8 km stroll from Disley Train Station to Lyme in the UK. This gentle route combines pavements and country lanes, ideal for a quick outdoor outing.",
+      "h1": "A Walk from Disley Train Station to Lyme"
+    }
+  }
+}

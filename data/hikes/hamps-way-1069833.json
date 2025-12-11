@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069833",
+  "slug": "hamps-way-1069833",
+  "name": "Hamps Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0488472,
+    "lon": -1.8624555
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069833
+  }
+}

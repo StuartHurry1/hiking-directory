@@ -1,0 +1,21 @@
+{
+  "id": "osm-19770467",
+  "slug": "red-walk-emmetts-19770467",
+  "name": "Red Walk, Emmetts",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.245797,
+    "lon": 0.1048293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19770467
+  }
+}

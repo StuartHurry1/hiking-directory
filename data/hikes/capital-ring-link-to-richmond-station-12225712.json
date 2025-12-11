@@ -1,0 +1,21 @@
+{
+  "id": "osm-12225712",
+  "slug": "capital-ring-link-to-richmond-station-12225712",
+  "name": "Capital Ring link to Richmond station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4591463,
+    "lon": -0.3092011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12225712
+  }
+}

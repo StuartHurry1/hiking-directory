@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756633",
+  "slug": "west-island-way-1756633",
+  "name": "West Island Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 85.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7318732,
+    "lon": -5.0282431
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756633
+  }
+}

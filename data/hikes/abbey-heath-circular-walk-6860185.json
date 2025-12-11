@@ -1,0 +1,44 @@
+{
+  "id": "osm-6860185",
+  "slug": "abbey-heath-circular-walk-6860185",
+  "name": "Abbey Heath Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4302432,
+    "lon": 0.718785
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6860185
+  },
+  "ai": {
+    "summary": "Abbey Heath Circular Walk is an 8.5 km moderate circular hike in the UK. The route typically encircles heathland with intermittent woodland, offering open exposures and shaded sections. It's suitable for hikers with moderate fitness and can be completed in a few hours, depending on pace and stops.",
+    "terrain_summary": "The terrain is varied: mixed trails, gravel paths, grassy stretches, and occasional muddy or uneven sections. Expect some roots and gentle ascents with exposed heathland and occasional damp ground, especially after rain. Navigation is straightforward on well-marked routes, but map or GPS is advised in unknown areas.",
+    "safety_notes": "- Wear sturdy footwear with good grip and waterproofing. - Check weather and daylight hours; UK conditions can change rapidly. - Carry a map or GPS and a charged phone; know your route. - Bring sufficient water and snacks; consider a light extra layer and rain protection. - Be cautious on wet or boggy sections; watch footing and avoid wearing headphones while navigating. - Stay on marked paths; keep dogs under control. - Let someone know your plan and expected return time; be mindful of remote sections where phone signal may be poor. - Watch for ticks and insect bites in heathland; apply repellent. - If you encounter livestock or equestrian traffic, give way and pass slowly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing and layers",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Lightweight first aid kit",
+      "Headlamp or flashlight",
+      "Snacks or energy bars",
+      "Emergency whistle",
+      "Rain jacket or waterproof shell",
+      "Insect repellent and sunscreen"
+    ],
+    "best_seasons": "Late spring to early autumn offers the most comfortable hiking conditions for this 8.5 km circuit; it is walkable year-round with appropriate footwear and caution in wet or icy conditions.",
+    "seo": {
+      "title": "Abbey Heath Circular Walk (8.5 km) – Moderate UK Hike",
+      "meta_description": "Explore the Abbey Heath Circular Walk: an 8.5 km moderate hike through heathland and woodland in the UK. Terrain overview, safety tips, and gear recommendations.",
+      "h1": "Abbey Heath Circular Walk"
+    }
+  }
+}

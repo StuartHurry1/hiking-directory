@@ -1,0 +1,43 @@
+{
+  "id": "osm-16430624",
+  "slug": "bourne-valley-greenway-walk-16430624",
+  "name": "Bourne Valley Greenway walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7553665,
+    "lon": -1.9460807
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16430624
+  },
+  "ai": {
+    "summary": "A 12.2 km moderate walk along the Bourne Valley Greenway in the UK. The route follows a scenic river corridor on a shared-use towpath and greenway, offering gentle gradients, river views, and opportunities to spot wildlife and farmland.",
+    "terrain_summary": "Primarily flat to gently undulating, with surfaces that include paved or compact gravel sections and occasional muddy patches after rain. Some open stretches can be exposed to wind; sturdy footwear is recommended.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Wear sturdy walking shoes and bring waterproof layers in case of rain. Stay on the public path, be mindful of other users, and carry water and a small map or GPS. Be cautious on crossings and rural stretches, especially in low light or poor visibility.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Map or GPS device",
+      "Mobile phone",
+      "Light rain jacket or shell",
+      "Sunscreen and hat",
+      "Small first-aid kit",
+      "Torch or headlamp (for early/late segments)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for comfortable conditions; the route can be done year-round with appropriate gear.",
+    "seo": {
+      "title": "Bourne Valley Greenway Walk – 12.2 km Moderate UK Hike",
+      "meta_description": "Explore the 12.2 km Bourne Valley Greenway walk in the UK. A moderate, scenic towpath hike with river views and easy terrain—perfect for a relaxed day outdoors. Gear tips and best seasons included.",
+      "h1": "Bourne Valley Greenway Walk (12.2 km)"
+    }
+  }
+}

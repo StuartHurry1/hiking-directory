@@ -1,0 +1,21 @@
+{
+  "id": "osm-5318436",
+  "slug": "hutton-millenium-walk-5318436",
+  "name": "Hutton Millenium Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3278974,
+    "lon": -2.9280315
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5318436
+  }
+}

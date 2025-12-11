@@ -1,0 +1,43 @@
+{
+  "id": "osm-3950873",
+  "slug": "bellever-trail-3950873",
+  "name": "Bellever Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5700595,
+    "lon": -3.9106592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3950873
+  },
+  "ai": {
+    "summary": "Bellever Trail is a 6.4 km moderate hike in the UK that traverses woodland trails with varied terrain, suitable for hikers with an average fitness level. The route offers shaded forest scenery and a steady pace without major technical sections.",
+    "terrain_summary": "Forest and woodland paths with uneven ground, occasional rocky patches, and damp or muddy sections, especially after rain. The route includes gentle to moderate elevation changes and shaded sections with brief open viewpoints.",
+    "safety_notes": "Weather in the UK can change quickly, so check forecasts before you go. Wear sturdy hiking boots and waterproof clothing, and bring layers. Stay on marked paths to avoid getting lost; carry a map and compass or GPS. Be cautious on damp or rocky sections, as surfaces can be slippery after rain. Carry enough water and snacks, and know your planned turnaround time. Let someone know your route and expected return, and carry a whistle or phone with emergency contacts. Be mindful of remote sections where cell service may be limited.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and layered clothing",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight for late returns",
+      "Hat and sun protection when sunny",
+      "Spare clothing and a small first-aid kit",
+      "Waterproof backpack cover or dry bags",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn are typically best for Bellever Trail, with milder weather and clearer trails. The hike can be done year-round, but winter conditions may bring mud, ice, and reduced daylight; plan accordingly.",
+    "seo": {
+      "title": "Bellever Trail – 6.4 km Moderate Hike in the UK",
+      "meta_description": "Explore a 6.4 km moderate hike on the Bellever Trail in the UK. Forest paths, varied terrain, practical safety tips, and gear suggestions.",
+      "h1": "Bellever Trail – 6.4 km Moderate Hike (UK)"
+    }
+  }
+}

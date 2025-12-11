@@ -1,0 +1,21 @@
+{
+  "id": "osm-2522002",
+  "slug": "tameside-trail-west-broadbottom-to-mossley-2522002",
+  "name": "Tameside Trail (West - Broadbottom to Mossley)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 94.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4399353,
+    "lon": -2.0153414
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2522002
+  }
+}

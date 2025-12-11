@@ -1,0 +1,23 @@
+{
+  "id": "osm-19102575",
+  "slug": "st-davids-head-coastal-walk-north-pembroke-19102575",
+  "name": "St David's Head Coastal Walk, North Pembroke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8971195,
+    "lon": -5.2948169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19102575
+  }
+}

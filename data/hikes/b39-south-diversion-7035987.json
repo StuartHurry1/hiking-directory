@@ -1,0 +1,40 @@
+{
+  "id": "osm-7035987",
+  "slug": "b39-south-diversion-7035987",
+  "name": "+B39 South Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4637975,
+    "lon": -1.4482346
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7035987
+  },
+  "ai": {
+    "summary": "The +B39 South Diversion is a short, easy hike in the United Kingdom. Designed for beginners, this 1 km route offers a gentle walk along a diversion path with straightforward terrain and minimal elevation.",
+    "terrain_summary": "Flat to gently undulating paths on a well-maintained route. Surfaces include compact gravel, paved sections, and short grassy edges, making it accessible for walkers of all ages.",
+    "safety_notes": "Check local conditions before you go. Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths and watch for any nearby road or canal edges. Bring a map or a charged phone, carry water, and let someone know your plans. If visibility is poor or surfaces are wet, take it slowly or turn back.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or fully charged phone with offline maps",
+      "Small backpack with essentials"
+    ],
+    "best_seasons": "All year round; best in late spring to early autumn.",
+    "seo": {
+      "title": "+B39 South Diversion – Easy 1 km Hike in the UK",
+      "meta_description": "Discover the +B39 South Diversion, a quick 1 km easy hike in the UK. Flat terrain, beginner-friendly route, and ideal for a relaxed outdoor outing.",
+      "h1": "+B39 South Diversion – Easy 1 km Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12840615",
+  "slug": "croxley-green-boundary-walk-12840615",
+  "name": "Croxley Green Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6632792,
+    "lon": -0.4460621
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12840615
+  }
+}

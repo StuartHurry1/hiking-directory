@@ -1,0 +1,41 @@
+{
+  "id": "osm-10277580",
+  "slug": "camborne-fp-39-10277580",
+  "name": "Camborne FP 39",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2128146,
+    "lon": -5.2816757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10277580
+  },
+  "ai": {
+    "summary": "A brief, easy 0.6 km walk along the Camborne FP 39 public footpath in the UK, suitable for beginners or a quick outdoor outing.",
+    "terrain_summary": "Mostly level, well-maintained public footpath (FP 39). Surfaces are typically compacted earth or grass; conditions can be muddy after rain and there may be small uneven sections or gates.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy footwear and appropriate outdoor clothing. Stay on the public footpath and watch for muddy or uneven ground. Be prepared for gates or stiles along the route and take care when passing others. Keep phones charged and inform someone of your plans if walking alone. Supervise children and dogs, and be mindful of livestock in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather appropriate clothing",
+      "Lightweight rain jacket",
+      "Water bottle",
+      "Small backpack",
+      "Phone with offline map or printed map",
+      "Sunscreen and hat as needed"
+    ],
+    "best_seasons": "All year, with the best conditions in late spring to early autumn when the path is dry and visibility is good.",
+    "seo": {
+      "title": "Camborne FP 39 0.6 km Easy Walk in the UK | Public Footpath Hike",
+      "meta_description": "Explore a quick 0.6 km easy hike on Camborne FP 39 in the UK. Practical tips, terrain overview, and essential gear for a brief outdoor stroll.",
+      "h1": "Camborne FP 39 Short Easy Walk (0.6 km) in the UK"
+    }
+  }
+}

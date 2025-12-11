@@ -1,0 +1,21 @@
+{
+  "id": "osm-118875",
+  "slug": "ramblers-jubilee-circular-walk-118875",
+  "name": "Ramblers Jubilee Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7369693,
+    "lon": -1.3075629
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 118875
+  }
+}

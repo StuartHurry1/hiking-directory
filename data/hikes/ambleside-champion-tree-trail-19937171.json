@@ -1,0 +1,44 @@
+{
+  "id": "osm-19937171",
+  "slug": "ambleside-champion-tree-trail-19937171",
+  "name": "Ambleside Champion Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4170737,
+    "lon": -2.9565627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19937171
+  },
+  "ai": {
+    "summary": "A short, easy 2.3 km woodland trail featuring champion trees, ideal for families and casual walkers seeking a relaxed forest stroll.",
+    "terrain_summary": "Predominantly well-maintained woodland paths with some exposed tree roots. Mostly flat, with gentle ascents and descents; expect occasional damp or uneven sections after rain.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and bring a waterproof layer. Stay on marked paths, supervise children and pets, and watch for tree roots or slippery sections, especially after rain. Check local access guidelines and inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Water bottle",
+      "Layered clothing",
+      "Sturdy walking shoes",
+      "Light rain jacket",
+      "Snacks",
+      "Sun protection",
+      "Map or GPS device/phone with offline maps",
+      "Small first-aid kit",
+      "Insect repellent",
+      "Emergency contact details"
+    ],
+    "best_seasons": "Spring and Autumn offer the best conditions and scenery, but the trail is enjoyable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Ambleside Champion Tree Trail – Easy 2.3 km Family Walk in the UK",
+      "meta_description": "Discover the Ambleside Champion Tree Trail, a gentle 2.3 km woodland walk in the UK. Family-friendly and accessible, featuring notable champion trees.",
+      "h1": "Ambleside Champion Tree Trail – Easy 2.3 km Family Walk in the UK"
+    }
+  }
+}

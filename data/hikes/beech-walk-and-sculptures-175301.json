@@ -1,0 +1,45 @@
+{
+  "id": "osm-175301",
+  "slug": "beech-walk-and-sculptures-175301",
+  "name": "Beech Walk & Sculptures",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2167896,
+    "lon": 0.9027334
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 175301
+  },
+  "ai": {
+    "summary": "Beech Walk & Sculptures is an 11.6 km moderately challenging hike through woodland, featuring a series of outdoor sculptures along the trail. The route blends shaded beech woodland with open sections, offering a peaceful walk with opportunities for sculpture viewing and photography.",
+    "terrain_summary": "Primarily woodland paths with gentle undulation. Expect a mix of well-maintained trails, uneven ground, tree roots, and possible muddy patches after rain. Sections vary from shaded to exposed; sculptures are located along clearly marked routes.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths; watch for uneven surfaces, roots, and slippery patches after rain. Check the forecast and daylight hours before starting, and plan to finish before dusk. Supervise children around sculptures and avoid touching artworks unless signage allows. Carry a charged phone and a small light if finishing late.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Snack/energy bars",
+      "Map or GPS device or smartphone with offline maps",
+      "Small first aid kit",
+      "Camera or smartphone for sculpture viewing",
+      "Optional trekking poles",
+      "Layered clothing",
+      "Headlamp or flashlight for late finishes"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October)",
+    "seo": {
+      "title": "Beech Walk & Sculptures — 11.6 km Moderate Hike in the UK",
+      "meta_description": "Discover Beech Walk & Sculptures, an 11.6 km moderate hike through beech woodland in the UK, featuring outdoor sculptures. Practical tips on terrain, safety and gear.",
+      "h1": "Beech Walk & Sculptures"
+    }
+  }
+}

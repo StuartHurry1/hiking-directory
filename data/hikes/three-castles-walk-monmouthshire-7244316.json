@@ -1,0 +1,21 @@
+{
+  "id": "osm-7244316",
+  "slug": "three-castles-walk-monmouthshire-7244316",
+  "name": "Three Castles Walk (Monmouthshire)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 74.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.856976,
+    "lon": -2.9159403
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7244316
+  }
+}

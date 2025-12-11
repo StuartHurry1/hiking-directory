@@ -1,0 +1,21 @@
+{
+  "id": "osm-6590571",
+  "slug": "crediton-history-trail-6590571",
+  "name": "Crediton History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7835269,
+    "lon": -3.6481974
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6590571
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12842168",
+  "slug": "wansdyke-path-12842168",
+  "name": "Wansdyke Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 64.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3928902,
+    "lon": -1.776496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12842168
+  }
+}

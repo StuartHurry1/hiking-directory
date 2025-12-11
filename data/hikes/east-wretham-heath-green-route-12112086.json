@@ -1,0 +1,21 @@
+{
+  "id": "osm-12112086",
+  "slug": "east-wretham-heath-green-route-12112086",
+  "name": "East Wretham Heath Green Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4619514,
+    "lon": 0.8144335
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12112086
+  }
+}

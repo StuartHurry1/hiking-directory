@@ -1,0 +1,48 @@
+{
+  "id": "osm-9438598",
+  "slug": "bedes-way-9438598",
+  "name": "Bede's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9803197,
+    "lon": -1.4736687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9438598
+  },
+  "ai": {
+    "summary": "Bede's Way is a demanding 46-kilometer long-distance hike in the UK, following historic routes associated with the Venerable Bede. The trek traverses a mix of coastal paths, open countryside, and rural lanes, requiring good fitness and navigation. Typically completed over 2–3 days with overnight stops, it rewards planners with varied scenery, heritage sites, and a true sense of wilderness.",
+    "terrain_summary": "Expect a varied mix: coastal cliff-top paths with sea views, grassy hill and moorland sections, woodland tracks, farm tracks, stiles, and occasional road crossings. Surfaces range from compact paths to muddy fields after rain; some sections can be exposed, so wind and weather can affect footing. Navigation may rely on waymarkers and map reading in places where signs are sparse.",
+    "safety_notes": "Plan for 2–3 days with overnight stops; check weather and daylight hours before starting. Wear sturdy boots and bring waterproofs, insulating layers, and sun protection. Coastal segments may have tides or unstable footing; avoid high-tide crossings. Carry a map, compass (and/or GPS), a charged phone, and a basic first-aid kit. Tell someone your route and estimated timings. In the UK, emergency services are 999; for non-emergent medical help call 111. Be prepared for limited services in rural sections and watch for livestock and fenced fields.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Water bottle or hydration system",
+      "Map and compass (and/or GPS device)",
+      "Phone with offline maps and a portable charger",
+      "Small first-aid kit and blister care supplies",
+      "Headlamp or flashlight with extra batteries",
+      "Nutritious snacks and energy bars",
+      "Sunscreen and sunglasses",
+      "Lightweight trekking poles (optional but helpful)",
+      "Emergency whistle",
+      "Plastic bag or dry sack for damp gear"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and milder conditions; shoulder seasons can be rewarding but require flexible plans and weather-ready gear.",
+    "seo": {
+      "title": "Bede's Way: 46 km Hard Hike in the UK",
+      "meta_description": "Plan your Bede's Way adventure: a 46 km hard hike across coastal and countryside UK landscapes. Learn terrain, safety, gear, best seasons, and trip planning tips.",
+      "h1": "Bede's Way – 46 km Hard Hike in the UK"
+    }
+  }
+}

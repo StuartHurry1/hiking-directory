@@ -1,0 +1,42 @@
+{
+  "id": "osm-11506926",
+  "slug": "burravoe-brae-11506926",
+  "name": "Burravoe Brae",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3936183,
+    "lon": -1.3506604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506926
+  },
+  "ai": {
+    "summary": "Burravoe Brae is a short, easy 5.5 km hike in the UK that suits beginners and families. The route offers a gentle coastal walk with intermittent views, woodland edges, and open scenery, returning to the start on a loop or short out-and-back path depending on the section used.",
+    "terrain_summary": "Mostly well-maintained tracks and grassy paths with some compact gravel. Expect gentle gradients, occasional uneven ground, and potential mud near the coast after rain. Several coastal viewpoints and short sections with steps.",
+    "safety_notes": "Weather can change rapidly in the UK coastal environment. Wear sturdy footwear, bring waterproof layers, and carry a map or GPS. Stay on marked paths, mind cliff edges and tide conditions, and ensure children are supervised near the shore. Plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Waterproof jacket and layers",
+      "Water bottle and snacks",
+      "Hat and sunglasses (sunny days)",
+      "Map or GPS device",
+      "Sunscreen",
+      "Small first aid kit",
+      "Phone with battery backup"
+    ],
+    "best_seasons": "Spring to autumn (approximately April to October) when the weather tends to be milder and daylight longer; a winter hike is possible with proper gear and careful planning.",
+    "seo": {
+      "title": "Burravoe Brae – Easy 5.5 km Coastal Hike in the UK",
+      "meta_description": "Explore Burravoe Brae, an easy 5.5 km coastal hike in the UK. This guide covers terrain, safety tips, best seasons, and packing essentials for a family-friendly outdoor walk.",
+      "h1": "Burravoe Brae: Easy 5.5 km Coastal Hike"
+    }
+  }
+}

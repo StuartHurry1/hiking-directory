@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280839",
+  "slug": "tintagel-walk-north-cornwall-19280839",
+  "name": "Tintagel walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6641601,
+    "lon": -4.7532538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280839
+  }
+}

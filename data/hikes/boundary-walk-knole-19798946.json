@@ -1,0 +1,43 @@
+{
+  "id": "osm-19798946",
+  "slug": "boundary-walk-knole-19798946",
+  "name": "Boundary Walk, Knole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2665735,
+    "lon": 0.2045014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19798946
+  },
+  "ai": {
+    "summary": "A 11.3 km circular boundary walk around Knole estate in the UK. Moderate difficulty with a mix of parkland, woodland, and open fields. Suitable for hikers with some experience and solid footwear; surfaces range from well-maintained paths to occasionally uneven trails.",
+    "terrain_summary": "Primarily well-marked footpaths through parkland and woodlands, with short sections of grassy or gravelly ground. Expect some muddy patches after rain and occasional uneven terrain near field boundaries. The route includes gentle hills but remains largely flat to moderately rolling.",
+    "safety_notes": "Check the weather before you go and wear sturdy, waterproof footwear. Stay on marked paths and respect private property and wildlife (notably deer in Knole Park). Be aware of other trail users such as cyclists and horse riders; keep dogs under control or on a leash where required. Carry a map or GPS, a charged phone, and a small first aid kit. Bring water, snacks, and sun protection; in winter, daylight and footing can be limited, so plan accordingly. If paths are closed or conditions are unsafe, alter the route or seek guidance at the site.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing with layers and a waterproof jacket",
+      "Water bottle and energy snacks",
+      "Map, GPS, or a charged phone with offline maps",
+      "Small daypack to carry essentials",
+      "Personal first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Whistle for safety",
+      "Camera or smartphone for photos (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for comfortable conditions and clearer trails. Winter can be muddy and daylight is shorter; plan accordingly.",
+    "seo": {
+      "title": "Boundary Walk, Knole – 11.3 km Moderate Hike in Knole Park, UK",
+      "meta_description": "Explore an 11.3 km boundary walk around Knole Park. A moderate UK hike through parkland and woodland with practical gear tips, safety notes, and the best seasons.",
+      "h1": "Boundary Walk, Knole – 11.3 km Moderate Hike"
+    }
+  }
+}

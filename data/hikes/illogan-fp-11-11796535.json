@@ -1,0 +1,21 @@
+{
+  "id": "osm-11796535",
+  "slug": "illogan-fp-11-11796535",
+  "name": "Illogan FP 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2466558,
+    "lon": -5.2744405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11796535
+  }
+}

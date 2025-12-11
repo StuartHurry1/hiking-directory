@@ -1,0 +1,23 @@
+{
+  "id": "osm-19306417",
+  "slug": "carnewas-bus-route-walking-trail-north-cornwall-19306417",
+  "name": "Carnewas bus route walking trail, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4650214,
+    "lon": -5.0312095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306417
+  }
+}

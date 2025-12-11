@@ -1,0 +1,43 @@
+{
+  "id": "osm-19534468",
+  "slug": "battle-of-crogen-circular-walk-19534468",
+  "name": "Battle of Crogen Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9373029,
+    "lon": -3.0916851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19534468
+  },
+  "ai": {
+    "summary": "The Battle of Crogen Circular Walk is a 6.6 km moderate circular hike in the UK. The route traces landscapes associated with the historical Battle of Crogen, combining rolling farmland, hedgerows, and woodland with gradual ascents and scenic viewpoints. It is suitable for hikers with moderate fitness and a willingness to follow public rights of way.",
+    "terrain_summary": "Expect a mix of grassy open tracks, compact dirt paths, and moderate forest sections. The route includes short climbs, stile crossings, gates, and occasional muddy sections after rain. Footing is generally good but can be uneven, so sturdy boots are recommended. Public footpaths and rights of way are used throughout.",
+    "safety_notes": "Wear sturdy walking boots, weather-appropriate clothing, and carry a map or GPS. Bring water and snacks, and plan for changing daylight. Stay on public paths, heed gates and stiles, and watch for livestock in rural areas. Check the weather forecast before you go, and carry a small first aid kit and a whistle. In an emergency in the UK, dial 999.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle (1–2 liters) and high-energy snacks",
+      "Weather-appropriate waterproof jacket and extra layers",
+      "Additional insulating layer (fleece or lightweight jacket)",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat) in sunny weather",
+      "Emergency whistle",
+      "Headlamp or flashlight (useful for late finishes or poor light)"
+    ],
+    "best_seasons": "Spring and autumn offer comfortable temperatures and good scenery with fewer crowds. Summer provides longer daylight but can be busier; winter routes may be more exposed and slippery. Plan for daylight hours and weather conditions accordingly.",
+    "seo": {
+      "title": "Battle of Crogen Circular Walk - 6.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the Battle of Crogen Circular Walk, a 6.6 km moderate route in the UK featuring rolling countryside, historic landscapes, and scenic viewpoints. Plan your day on this circular hike.",
+      "h1": "Battle of Crogen Circular Walk"
+    }
+  }
+}

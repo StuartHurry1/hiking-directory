@@ -1,0 +1,43 @@
+{
+  "id": "osm-19525673",
+  "slug": "a-walk-at-blackcap-blackcap-19525673",
+  "name": "A Walk at Blackcap, Blackcap",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9003274,
+    "lon": -0.0409453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19525673
+  },
+  "ai": {
+    "summary": "A challenging 19.9 km circuit around Blackcap in the UK, featuring exposed ridges, rolling downs and long climbs that reward with views from the higher points.",
+    "terrain_summary": "Mostly open chalk paths and grassy tracks with occasional woodland, farm lanes, and short sections of uneven, rocky footing. Expect long ascents and descents, with mud after rain and possible windy, exposed stretches near the summit.",
+    "safety_notes": "This route is strenuous and best suited for experienced hikers. Weather on upland terrain can change quickly; bring waterproofs and warm layers. Wear sturdy hiking boots with good grip. Carry enough water and energy-rich snacks. Bring a map and compass or GPS, and know how to use them. Stay on marked paths, watch for livestock, gates, and rough fences. Mobile reception may be poor in upland areas; let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof/windproof jacket)",
+      "Hats, gloves, and sun protection as needed",
+      "Map and compass (or GPS) and fully charged phone",
+      "First aid kit",
+      "Whistle",
+      "Headlamp or torch (in case you’re out after dark)",
+      "Hiking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hike, when daylight is longer and the weather is milder. It can be attempted in winter with proper gear, but conditions may be challenging and daylight is shorter.",
+    "seo": {
+      "title": "A Walk at Blackcap, UK - 19.9 km Hard Hike",
+      "meta_description": "Conquer a 19.9 km hard hike at Blackcap in the UK. Exposed ridges, long climbs, and expansive views. Practical safety tips, terrain details, and gear list.",
+      "h1": "A Walk at Blackcap, UK (19.9 km, Hard)"
+    }
+  }
+}

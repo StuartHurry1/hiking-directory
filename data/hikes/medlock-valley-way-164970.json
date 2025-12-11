@@ -1,0 +1,21 @@
+{
+  "id": "osm-164970",
+  "slug": "medlock-valley-way-164970",
+  "name": "Medlock Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.488019,
+    "lon": -2.1337097
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 164970
+  }
+}

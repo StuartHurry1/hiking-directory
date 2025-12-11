@@ -1,0 +1,21 @@
+{
+  "id": "osm-12316549",
+  "slug": "peak-district-boundary-walk-stage-20-12316549",
+  "name": "Peak District Boundary Walk Stage 20",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3293097,
+    "lon": -1.9853222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12316549
+  }
+}

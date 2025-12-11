@@ -1,0 +1,21 @@
+{
+  "id": "osm-15764571",
+  "slug": "st-james-way-15764571",
+  "name": "St James' Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 304.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4566184,
+    "lon": -0.9655637
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15764571
+  }
+}

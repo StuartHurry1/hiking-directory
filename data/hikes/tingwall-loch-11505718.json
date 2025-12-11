@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505718",
+  "slug": "tingwall-loch-11505718",
+  "name": "Tingwall Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1649571,
+    "lon": -1.2578054
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505718
+  }
+}

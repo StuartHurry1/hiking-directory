@@ -1,0 +1,21 @@
+{
+  "id": "osm-14191900",
+  "slug": "gunwalloe-br-9-14191900",
+  "name": "Gunwalloe BR 9",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0706876,
+    "lon": -5.2747657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14191900
+  }
+}

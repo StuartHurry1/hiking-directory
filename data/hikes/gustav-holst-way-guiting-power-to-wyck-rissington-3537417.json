@@ -1,0 +1,21 @@
+{
+  "id": "osm-3537417",
+  "slug": "gustav-holst-way-guiting-power-to-wyck-rissington-3537417",
+  "name": "Gustav Holst Way (Guiting Power to Wyck Rissington)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9214029,
+    "lon": -1.8641632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3537417
+  }
+}

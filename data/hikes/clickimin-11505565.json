@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505565",
+  "slug": "clickimin-11505565",
+  "name": "Clickimin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1567272,
+    "lon": -1.1597651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505565
+  }
+}

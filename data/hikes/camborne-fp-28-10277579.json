@@ -1,0 +1,41 @@
+{
+  "id": "osm-10277579",
+  "slug": "camborne-fp-28-10277579",
+  "name": "Camborne FP 28",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2011133,
+    "lon": -5.2868013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10277579
+  },
+  "ai": {
+    "summary": "A short, easy 1.6 km walk along Camborne FP 28 in the UK. This beginner-friendly route follows a well-maintained footpath, with gentle terrain suitable for families and new walkers.",
+    "terrain_summary": "The trail runs along a well-trodden footpath (Camborne FP 28) with a mix of compacted gravel and grassy sections. Surface is generally flat with occasional gentle inclines and minor uneven patches; expect damp conditions after rain.",
+    "safety_notes": "Wear sturdy, grippy footwear and check the weather before setting out. Stay on marked paths and respect private land boundaries. Bring a light layer for changes in temperature, water, and a small first-aid kit. Keep dogs on leads where required and be mindful of other walkers and cyclists.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light waterproof layer",
+      "Small first aid kit",
+      "Snack",
+      "Hat and sunscreen",
+      "Phone with offline map"
+    ],
+    "best_seasons": "Spring to autumn; walkable year-round with appropriate clothing, though winter can be muddy or chilly.",
+    "seo": {
+      "title": "Camborne FP 28 — Easy 1.6 km Hike in the UK",
+      "meta_description": "Explore Camborne FP 28, an easy 1.6 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to walk this short footpath.",
+      "h1": "Camborne FP 28 — Easy 1.6 km Hike"
+    }
+  }
+}

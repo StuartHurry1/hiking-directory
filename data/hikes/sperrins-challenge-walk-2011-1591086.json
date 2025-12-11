@@ -1,0 +1,21 @@
+{
+  "id": "osm-1591086",
+  "slug": "sperrins-challenge-walk-2011-1591086",
+  "name": "Sperrins Challenge Walk 2011",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7741408,
+    "lon": -7.1868682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1591086
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1731332",
+  "slug": "jubilee-trail-dorset-1731332",
+  "name": "Jubilee Trail (Dorset)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 861.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7823729,
+    "lon": -2.6822792
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1731332
+  }
+}

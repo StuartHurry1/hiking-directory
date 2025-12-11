@@ -1,0 +1,21 @@
+{
+  "id": "osm-957011",
+  "slug": "teesdale-way-957011",
+  "name": "Teesdale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 200,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.62231,
+    "lon": -2.084436
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 957011
+  }
+}

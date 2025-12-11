@@ -1,0 +1,21 @@
+{
+  "id": "osm-10260490",
+  "slug": "orval-return-via-harris-10260490",
+  "name": "Orval, return via Harris",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0091057,
+    "lon": -6.2705874
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10260490
+  }
+}

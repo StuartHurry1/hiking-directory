@@ -1,0 +1,23 @@
+{
+  "id": "osm-19032544",
+  "slug": "kinver-edge-village-trail-kinver-edge-19032544",
+  "name": "Kinver Edge Village Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4501977,
+    "lon": -2.2437764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032544
+  }
+}

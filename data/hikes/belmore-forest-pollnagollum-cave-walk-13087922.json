@@ -1,0 +1,46 @@
+{
+  "id": "osm-13087922",
+  "slug": "belmore-forest-pollnagollum-cave-walk-13087922",
+  "name": "Belmore Forest - Pollnagollum Cave Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3233919,
+    "lon": -7.8283994
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13087922
+  },
+  "ai": {
+    "summary": "Belmore Forest's Pollnagollum Cave Walk is a 7.6 km moderate hike in the United Kingdom that winds through woodland to reach Pollnagollum Cave. The route blends forest trails with a brief cave section, offering varied scenery and a touch of exploration for hikers with moderate fitness. Expect uneven ground, some muddy patches, and a damp cave environment.",
+    "terrain_summary": "The trail combines well-defined forest paths, occasional boardwalks, and rocky, uneven sections. Expect gentle elevation changes, muddy patches after rain, and a cave segment with low ceilings and damp surfaces. Footing can be slippery near the cave entrance, so sturdy footwear is recommended, with the possibility of brief tight spaces if you enter the cave.",
+    "safety_notes": "Check weather and cave access before you go. The cave section can be dark, damp, and have low ceilings, so bring a helmet and headlamp. Wear sturdy waterproof footwear and dress in layers. Stay on marked trails, avoid disturbing wildlife, and be mindful of slipping hazards from mud and wet rocks. Do not hike alone; inform someone of your plans and carry a charged phone. In wet weather, water levels may rise near the cave; if conditions look unsafe, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Helmet or hard hat for cave sections",
+      "Headlamp with extra batteries",
+      "Warm layers and a waterproof outer layer",
+      "Waterproof trousers or quick-drying pants",
+      "Backpack with water and snacks",
+      "Map, compass or GPS device",
+      "First aid kit",
+      "Water and high-energy snacks",
+      "Insect repellent",
+      "Trekking poles (optional)",
+      "Gloves (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal, offering longer daylight, milder weather, and better trail conditions. Winter can bring exposed conditions, heavier mud, and restricted access, so plan accordingly.",
+    "seo": {
+      "title": "Belmore Forest Pollnagollum Cave Walk – 7.6 km Moderate Hike (UK)",
+      "meta_description": "Explore the 7.6 km Belmore Forest Pollnagollum Cave Walk in the UK. A moderate woodland hike with a cave section, plus safety tips, gear lists, and best seasons.",
+      "h1": "Belmore Forest – Pollnagollum Cave Walk"
+    }
+  }
+}

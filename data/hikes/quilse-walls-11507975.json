@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507975",
+  "slug": "quilse-walls-11507975",
+  "name": "Quilse Walls",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2213316,
+    "lon": -1.5334848
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507975
+  }
+}

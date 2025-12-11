@@ -1,0 +1,21 @@
+{
+  "id": "osm-12014183",
+  "slug": "sarsen-way-12014183",
+  "name": "Sarsen Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 276.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4837936,
+    "lon": -1.7778904
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12014183
+  }
+}

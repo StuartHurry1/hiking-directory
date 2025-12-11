@@ -1,0 +1,21 @@
+{
+  "id": "osm-6006555",
+  "slug": "tolkien-trail-cannock-chase-walk-6006555",
+  "name": "Tolkien Trail Cannock Chase Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7694181,
+    "lon": -2.0323529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6006555
+  }
+}

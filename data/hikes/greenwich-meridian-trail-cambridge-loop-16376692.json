@@ -1,0 +1,23 @@
+{
+  "id": "osm-16376692",
+  "slug": "greenwich-meridian-trail-cambridge-loop-16376692",
+  "name": "Greenwich Meridian Trail (Cambridge Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2079535,
+    "lon": 0.0517312
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16376692
+  }
+}

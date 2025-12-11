@@ -1,0 +1,21 @@
+{
+  "id": "osm-13724572",
+  "slug": "suffolk-threads-heritage-trail-13724572",
+  "name": "Suffolk Threads Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1070496,
+    "lon": 0.7732889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13724572
+  }
+}

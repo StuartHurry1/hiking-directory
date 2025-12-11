@@ -1,0 +1,21 @@
+{
+  "id": "osm-6487945",
+  "slug": "three-distilleries-pathway-6487945",
+  "name": "Three Distilleries Pathway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6302377,
+    "lon": -6.1800602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6487945
+  }
+}

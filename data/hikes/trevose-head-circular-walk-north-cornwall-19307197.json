@@ -1,0 +1,21 @@
+{
+  "id": "osm-19307197",
+  "slug": "trevose-head-circular-walk-north-cornwall-19307197",
+  "name": "Trevose Head circular walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5466368,
+    "lon": -5.0343663
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307197
+  }
+}

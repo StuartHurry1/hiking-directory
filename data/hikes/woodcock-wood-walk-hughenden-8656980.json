@@ -1,0 +1,21 @@
+{
+  "id": "osm-8656980",
+  "slug": "woodcock-wood-walk-hughenden-8656980",
+  "name": "Woodcock Wood walk, Hughenden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6521625,
+    "lon": -0.7570957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8656980
+  }
+}

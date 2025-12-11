@@ -1,0 +1,21 @@
+{
+  "id": "osm-19611758",
+  "slug": "castle-ward-hoof-trail-19611758",
+  "name": "Castle Ward Hoof Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3677324,
+    "lon": -5.5843858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19611758
+  }
+}

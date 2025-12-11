@@ -1,0 +1,21 @@
+{
+  "id": "osm-8311850",
+  "slug": "the-sculpture-trail-hardwick-8311850",
+  "name": "The Sculpture Trail, Hardwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1820491,
+    "lon": -1.3192696
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8311850
+  }
+}

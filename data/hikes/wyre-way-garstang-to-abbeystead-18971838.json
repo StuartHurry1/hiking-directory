@@ -1,0 +1,21 @@
+{
+  "id": "osm-18971838",
+  "slug": "wyre-way-garstang-to-abbeystead-18971838",
+  "name": "Wyre Way (Garstang to Abbeystead)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8981837,
+    "lon": -2.7728297
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18971838
+  }
+}

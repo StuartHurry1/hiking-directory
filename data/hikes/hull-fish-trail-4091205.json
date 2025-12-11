@@ -1,0 +1,21 @@
+{
+  "id": "osm-4091205",
+  "slug": "hull-fish-trail-4091205",
+  "name": "Hull Fish Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7435764,
+    "lon": -0.3385133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4091205
+  }
+}

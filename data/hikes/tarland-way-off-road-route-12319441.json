@@ -1,0 +1,21 @@
+{
+  "id": "osm-12319441",
+  "slug": "tarland-way-off-road-route-12319441",
+  "name": "Tarland Way (off-road route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1258711,
+    "lon": -2.8581494
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12319441
+  }
+}

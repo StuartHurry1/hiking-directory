@@ -1,0 +1,42 @@
+{
+  "id": "osm-9621394",
+  "slug": "bute-pilgrimage-route-st-blane-9621394",
+  "name": "Bute Pilgrimage Route - St Blane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8288566,
+    "lon": -5.0574093
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9621394
+  },
+  "ai": {
+    "summary": "A short, easy 3.8 km hike in the UK (region unknown) along the Bute Pilgrimage Route to St Blane. Suitable for beginners and casual walkers, with gentle terrain and a touch of historical interest.",
+    "terrain_summary": "Mostly easy, well-maintained paths with gentle inclines. Some sections may be gravel or grassy tracks, with occasional woodland and coastal viewpoints.",
+    "safety_notes": "Check the forecast and wear sturdy footwear. Stay on marked paths, watch for uneven ground near historic sites, carry water, sun protection, and a small first aid kit. Have a map or GPS and let someone know your plan.",
+    "recommended_gear": [
+      "Comfortable walking shoes or hiking boots",
+      "Water bottle",
+      "Light breathable clothing and a wind/waterproof layer",
+      "Map or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Phone with offline map",
+      "Optional: binoculars for scenery"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for milder weather and longer daylight; year-round walking is possible with weather-appropriate gear.",
+    "seo": {
+      "title": "Bute Pilgrimage Route - St Blane: Easy 3.8 km Walk in the UK",
+      "meta_description": "Discover the easy 3.8 km Bute Pilgrimage Route to St Blane. A gentle stroll suitable for all ages with practical safety tips and gear recommendations.",
+      "h1": "Bute Pilgrimage Route - St Blane (3.8 km, Easy)"
+    }
+  }
+}

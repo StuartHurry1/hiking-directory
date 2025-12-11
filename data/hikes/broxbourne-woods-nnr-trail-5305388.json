@@ -1,0 +1,46 @@
+{
+  "id": "osm-5305388",
+  "slug": "broxbourne-woods-nnr-trail-5305388",
+  "name": "Broxbourne Woods NNR Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7504415,
+    "lon": -0.0645353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5305388
+  },
+  "ai": {
+    "summary": "A long, strenuous hike through Broxbourne Woods National Nature Reserve in the UK, covering 28.3 km with varied woodland terrain and sections that may be uneven or muddy. The route offers a remote woodland atmosphere and persistent elevation changes typical of a hard trail.",
+    "terrain_summary": "Primarily forest trails through Broxbourne Woods with a mix of compact gravel, dirt, and muddy patches. Expect tree roots underfoot, damp ground after rain, occasional open rides, and gentle to moderate ascents and descents.",
+    "safety_notes": "This is a long, hard hike. Plan to spend roughly half a day to a full day (roughly 6–9 hours depending on pace and conditions). Wear sturdy hiking boots and dress in layers; bring a weather-appropriate jacket. Stay on marked trails, carry a map and compass or GPS, and don't rely solely on a phone. Carry enough water and snacks, a small first aid kit, a whistle, and a light source. Check the forecast, be prepared for mud and slippery surfaces after rain, and take care around other path users and wildlife. Let someone know your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks",
+      "Map and compass or GPS",
+      "Weather-appropriate clothing in layers",
+      "Rain jacket and hat",
+      "Headlamp or flashlight",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Fully charged phone with offline maps",
+      "Lightweight rain cover for pack"
+    ],
+    "best_seasons": "Spring to autumn (late March to October) is ideal for daylight and drier conditions; year-round hiking is possible with proper planning for shorter daylight hours and potential weather challenges.",
+    "seo": {
+      "title": "Broxbourne Woods NNR Trail – 28.3 km Hard Hike in the UK",
+      "meta_description": "Explore the 28.3 km Broxbourne Woods NNR Trail in the UK. A challenging woodland hike with varied terrain, safety tips, and gear recommendations.",
+      "h1": "Broxbourne Woods NNR Trail – 28.3 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13912153",
+  "slug": "pennine-way-tan-hill-to-middleton-in-teesdale-13912153",
+  "name": "Pennine Way (Tan Hill to Middleton in Teesdale)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 63.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6214249,
+    "lon": -2.0850435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13912153
+  }
+}

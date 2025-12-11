@@ -1,0 +1,45 @@
+{
+  "id": "osm-16128130",
+  "slug": "ben-moore-trail-16128130",
+  "name": "Ben Moore Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4570671,
+    "lon": -6.0480699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16128130
+  },
+  "ai": {
+    "summary": "A challenging 21.4 km hike in the UK suitable for experienced walkers. The route features long sections of exposure, significant elevation gain, and varied terrain that can be muddy and rocky. Navigation and preparation are essential.",
+    "terrain_summary": "Expect a rugged mix: grassy tracks, rocky steps, boggy moorland, and occasional scree. Elevation is substantial with sustained climbs and descents. Conditions can change quickly; mud and wet grass are common, especially after rain. In poor visibility, navigation may be difficult.",
+    "safety_notes": "Check local weather and daylight; UK weather can change rapidly. Tell someone your plan and expected return. Wear sturdy, ankle-supporting boots and carry waterproof clothing. Bring enough water and high-energy food. Carry a map and compass or a reliable GPS, and do not rely on a phone alone. Have a charged phone as a backup. Include an emergency whistle and basic first aid. If conditions deteriorate or you feel exposed on higher ground, consider turning back.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Waterproof shell jacket and pants",
+      "Warm layers and hat/gloves",
+      "Backpack with 2–3 liters of water capacity",
+      "High-energy snacks and a bite to eat",
+      "Map and compass (or GPS) and knowledge on navigation",
+      "Fully charged phone with offline maps (not a substitute for traditional navigation)",
+      "Emergency whistle",
+      "Basic first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles (optional but helpful on exposed sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) are generally best; winter hiking is possible with expedition-grade gear and experience, but conditions can be severe and days shorter.",
+    "seo": {
+      "title": "Ben Moore Trail – 21.4 km Hard Hike in the UK",
+      "meta_description": "Explore the Ben Moore Trail, a 21.4 km challenging hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to hike this route.",
+      "h1": "Ben Moore Trail – 21.4 km Hard Hike in the UK"
+    }
+  }
+}

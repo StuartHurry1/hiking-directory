@@ -1,0 +1,21 @@
+{
+  "id": "osm-1120290",
+  "slug": "wey-south-path-1120290",
+  "name": "Wey-South Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 125.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2348736,
+    "lon": -0.5770641
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1120290
+  }
+}

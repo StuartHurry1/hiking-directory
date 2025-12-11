@@ -1,0 +1,23 @@
+{
+  "id": "osm-17432364",
+  "slug": "peace-how-walk-from-high-brandelhow-jetty-north-lakes-outdoors-17432364",
+  "name": "Peace How Walk From High Brandelhow Jetty, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5675399,
+    "lon": -3.1588394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17432364
+  }
+}

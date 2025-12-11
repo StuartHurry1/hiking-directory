@@ -1,0 +1,21 @@
+{
+  "id": "osm-7904945",
+  "slug": "queens-well-7904945",
+  "name": "Queen's Well",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9115829,
+    "lon": -2.9140486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7904945
+  }
+}

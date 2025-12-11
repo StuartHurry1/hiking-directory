@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507541",
+  "slug": "challister-ness-walk-11507541",
+  "name": "Challister Ness Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3825312,
+    "lon": -0.9614196
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507541
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19400440",
+  "slug": "gelerts-grave-walk-19400440",
+  "name": "Gelert's Grave Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0115052,
+    "lon": -4.1012698
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400440
+  }
+}

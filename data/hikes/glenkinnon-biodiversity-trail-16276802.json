@@ -1,0 +1,21 @@
+{
+  "id": "osm-16276802",
+  "slug": "glenkinnon-biodiversity-trail-16276802",
+  "name": "Glenkinnon Biodiversity Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6047403,
+    "lon": -2.8958526
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16276802
+  }
+}

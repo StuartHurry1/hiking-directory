@@ -1,0 +1,21 @@
+{
+  "id": "osm-18617879",
+  "slug": "manufacturing-and-migration-walk-18617879",
+  "name": "Manufacturing & Migration Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4782407,
+    "lon": -1.8949155
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18617879
+  }
+}

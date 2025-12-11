@@ -1,0 +1,21 @@
+{
+  "id": "osm-12665933",
+  "slug": "loop-link-to-slade-green-station-12665933",
+  "name": "LOOP link to Slade Green station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4705906,
+    "lon": 0.2073606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12665933
+  }
+}

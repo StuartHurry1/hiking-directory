@@ -1,0 +1,41 @@
+{
+  "id": "osm-13362468",
+  "slug": "booths-wood-loop-13362468",
+  "name": "Booth's Wood Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0343181,
+    "lon": -1.9922901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13362468
+  },
+  "ai": {
+    "summary": "Booth's Wood Loop is a gentle 3.3 km woodland circuit in the United Kingdom. The route offers a relaxed, family-friendly walk through mixed woodland with flat to gently rolling terrain, making it suitable for beginners and casual hikers.",
+    "terrain_summary": "The trail follows well-maintained forest paths and gravel tracks. Expect some compacted earth, short sections with exposed roots, and occasional muddy patches after rain. The surface is generally easy underfoot, with moderate shade from mature trees.",
+    "safety_notes": "Always wear sturdy footwear and bring weather-appropriate clothing. Stay on marked paths, watch for roots and uneven ground, and be prepared for mud after rain. Keep children and pets under control, carry a map or offline navigation, and let someone know your planned route and ETA. In the UK, call 999 in an emergency. Carry water and a small first aid kit, and be mindful of seasonal daylight hours.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Snack or energy bar",
+      "Map or offline navigation (phone or compass)",
+      "Hat and sunscreen",
+      "Lightweight emergency blanket (optional)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn; summers are suitable but can be busier, and winter visits may be muddy and darker.",
+    "seo": {
+      "title": "Booth's Wood Loop – Easy 3.3 km Woodland Hike in the UK",
+      "meta_description": "Explore Booth's Wood Loop, a gentle 3.3 km woodland hike in the UK. Learn about the terrain, safety tips, gear to bring, and the best seasons for this family-friendly route.",
+      "h1": "Booth's Wood Loop: Easy 3.3 km Woodland Hike in the UK"
+    }
+  }
+}

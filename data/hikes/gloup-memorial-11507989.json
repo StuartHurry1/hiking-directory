@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507989",
+  "slug": "gloup-memorial-11507989",
+  "name": "Gloup Memorial",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.720807,
+    "lon": -1.0735928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507989
+  }
+}

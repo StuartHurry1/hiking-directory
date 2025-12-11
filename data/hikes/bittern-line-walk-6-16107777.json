@@ -1,0 +1,43 @@
+{
+  "id": "osm-16107777",
+  "slug": "bittern-line-walk-6-16107777",
+  "name": "Bittern Line Walk 6",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8665231,
+    "lon": 1.3493973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16107777
+  },
+  "ai": {
+    "summary": "Bittern Line Walk 6 is a 13.6 km moderate hike in the UK, following a scenic route along the Bittern Line corridor. The trail offers rural views, mixed terrain and a steady pace suitable for walkers with some experience.",
+    "terrain_summary": "The route blends flat former railway track sections with grassy fields and occasional woodland paths. Expect uneven surfaces, possible mud after rain, stiles, and gentle ascents.",
+    "safety_notes": "Plan for variable weather and daylight. Wear sturdy footwear and bring water and snacks. Stay on public paths and respect the countryside. Keep clear of any active railway areas and crossing points, and follow posted signs. Mobile signal can be patchy in rural sections—carry a map or offline GPS and a whistle.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Hat and sunglasses",
+      "Map or offline GPS",
+      "Small first-aid kit",
+      "Whistle and fully charged phone",
+      "Daypack"
+    ],
+    "best_seasons": "Spring to autumn; the route is most pleasant in mild, dry conditions.",
+    "seo": {
+      "title": "Bittern Line Walk 6 – 13.6 km Moderate UK Hike",
+      "meta_description": "Discover Bittern Line Walk 6, a 13.6 km moderate hike in the UK. Route overview, terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Bittern Line Walk 6: 13.6 km Moderate UK Hike"
+    }
+  }
+}

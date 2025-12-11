@@ -1,0 +1,21 @@
+{
+  "id": "osm-6257262",
+  "slug": "loughbricklandwhyte-estate-woodland-trail-6257262",
+  "name": "Loughbrickland/Whyte Estate - Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3186407,
+    "lon": -6.3066245
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6257262
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "osm-19058384",
+  "slug": "buckden-to-starbotton-hillside-and-river-walk-upper-wharfdale-19058384",
+  "name": "Buckden to Starbotton Hillside and River Walk, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1751013,
+    "lon": -2.0879386
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19058384
+  },
+  "ai": {
+    "summary": "A demanding 23.4 km hike along the Buckden to Starbotton Hillside and River Walk in Upper Wharfedale, combining exposed hillside sections with riverbank trails. Expect long distances, significant elevation, and variable weather; suitable for experienced hikers with solid navigation and fitness.",
+    "terrain_summary": "Mixed terrain including rocky hillside, grassy moorland, riverbank paths, and occasional boggy sections. Expect steep ascents and descents, loose stones, and potential slips. Weather can reduce visibility and footwear grip; stay on marked paths where possible.",
+    "safety_notes": "This is a remote and physically demanding route: plan a long day, start early, and check weather before setting out. The Yorkshire Dales can have rapidly changing conditions, including rain, wind, fog, and cold even in summer. Carry a map and compass (do not rely solely on a phone), inform someone of your route and expected return, and bring adequate water and food. Waterproof clothing, sturdy boots, and a space blanket or emergency shelter are advised. Be cautious at river crossings and mud; avoid crossing in high water and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable outer layer (jacket and pants)",
+      "Insulating layers (fleece or down jacket)",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone with offline maps",
+      "Adequate food and 2–3 litres of water per person",
+      "Emergency whistle and lightweight emergency shelter or bivvy",
+      "First aid kit",
+      "Trekking poles",
+      "Head torch with spare batteries",
+      "Sun protection (sunscreen, sunglasses)",
+      "Dry bag or waterproof covers for valuables",
+      "Backup power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer milder weather, longer daylight, and better trail conditions. Winter hiking increases risk from ice, deep mud, and short days; always check the forecast and be prepared for rapid weather changes.",
+    "seo": {
+      "title": "Buckden to Starbotton Hillside and River Walk – Hard Hike in Upper Wharfedale, UK (23.4 km)",
+      "meta_description": "Plan a challenging 23.4 km hike through hillside and river trails in Upper Wharfedale, UK. Get terrain, safety tips, best seasons, and gear recommendations for this demanding day out.",
+      "h1": "Buckden to Starbotton Hillside and River Walk, Upper Wharfedale"
+    }
+  }
+}

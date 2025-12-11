@@ -1,0 +1,21 @@
+{
+  "id": "osm-4657369",
+  "slug": "the-selsey-tram-way-4657369",
+  "name": "The Selsey Tram Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8275648,
+    "lon": -0.7833166
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4657369
+  }
+}

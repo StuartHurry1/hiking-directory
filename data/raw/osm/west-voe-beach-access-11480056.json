@@ -1,0 +1,29 @@
+{
+  "id": 11480056,
+  "slug": "west-voe-beach-access-11480056",
+  "name": "West Voe Beach Access",
+  "network": "lwn",
+  "tags": {
+    "designation": "access_route",
+    "name": "West Voe Beach Access",
+    "network": "lwn",
+    "official_ref": "ARD06",
+    "route": "hiking",
+    "source": "Shetland Islands Council",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -1.2876065,
+      59.8716173
+    ],
+    [
+      -1.2876967,
+      59.8716614
+    ],
+    [
+      -1.2885276,
+      59.8715391
+    ]
+  ]
+}

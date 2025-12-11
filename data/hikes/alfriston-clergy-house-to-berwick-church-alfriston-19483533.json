@@ -1,0 +1,46 @@
+{
+  "id": "osm-19483533",
+  "slug": "alfriston-clergy-house-to-berwick-church-alfriston-19483533",
+  "name": "Alfriston Clergy House to Berwick Church, Alfriston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8062218,
+    "lon": 0.1576966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19483533
+  },
+  "ai": {
+    "summary": "A scenic 14.8 km walk from Alfriston Clergy House to Berwick Church in Alfriston, traversing Sussex countryside via rural lanes, chalk paths and farmland. The route offers open views and a moderate challenge suitable for walkers with some experience and solid footwear.",
+    "terrain_summary": "Terrain combines quiet country lanes, field edges and chalk tracks with occasional stiles and gentle ascents. Expect uneven surfaces, possible mud after rain, and sections of long grass in summer. The route is well signposted along rights of way, but a map or GPS helps if hedgerows obscure the way.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy boots and bring waterproofs and extra layers. Carry a map or GPS, a charged phone, and a small first aid kit. Share your planned route with someone and be mindful of farm traffic; respect gates and livestock. Keep dogs under control and watch for muddy fields and slip hazards along tracks. Carry a headlamp if finishing after dark.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and breathable layers",
+      "Warm clothing for cooler days",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle and basic first aid kit",
+      "Walking poles (optional)",
+      "Headlamp or flashlight for late finishes",
+      "Mobile phone with offline maps; power bank",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October), with ideal conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Alfriston Clergy House to Berwick Church, Alfriston – 14.8 km Moderate Hike",
+      "meta_description": "Discover a 14.8 km moderately challenging hike from Alfriston Clergy House to Berwick Church in Alfriston, UK. Learn about the terrain, safety tips, gear, and best seasons.",
+      "h1": "Alfriston Clergy House to Berwick Church, Alfriston – 14.8 km"
+    }
+  }
+}

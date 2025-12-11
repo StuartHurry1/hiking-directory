@@ -1,0 +1,39 @@
+{
+  "id": "osm-8769963",
+  "slug": "bishopsgate-pedways-8769963",
+  "name": "Bishopsgate pedways",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5164367,
+    "lon": -0.0829531
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769963
+  },
+  "ai": {
+    "summary": "A very short, easy urban walk along the Bishopsgate pedways in the UK. Approximately 0.6 km round-trip on paved city surfaces, suitable for beginners or a quick stroll.",
+    "terrain_summary": "Flat, paved urban terrain. Mostly level footways with street crossings; expect sidewalks and pedestrian corridors within urban networks.",
+    "safety_notes": "Stay aware of traffic at crossings and other pedestrians. Use marked pedestrian routes and be mindful of cyclists. Weather can make surfaces slippery, so wear appropriate footwear. Keep valuables secure and be mindful of crowds in busy urban areas. If the route includes enclosed passages, move cautiously in dim lighting and follow any posted signs. Check for temporary closures or construction that could affect access.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight weather-proof jacket",
+      "Water bottle",
+      "Mobile phone with map",
+      "Small backpack or belt bag"
+    ],
+    "best_seasons": "All year round in the UK; spring and autumn offer the most comfortable weather, while winter and summer are still feasible with appropriate gear.",
+    "seo": {
+      "title": "Bishopsgate pedways: short, easy 0.6 km UK urban hike",
+      "meta_description": "Discover a short, easy 0.6 km walk along the Bishopsgate pedways in the UK. Flat urban terrain, beginner-friendly, with safety tips and gear recommendations.",
+      "h1": "Bishopsgate pedways — a short, easy 0.6 km urban hike in the UK"
+    }
+  }
+}

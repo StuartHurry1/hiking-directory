@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507966",
+  "slug": "uyeasound-to-ferry-terminal-11507966",
+  "name": "Uyeasound to Ferry Terminal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6886472,
+    "lon": -0.9169739
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507966
+  }
+}

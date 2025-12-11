@@ -1,0 +1,46 @@
+{
+  "id": "osm-1697866",
+  "slug": "a-walk-on-the-wild-side-1697866",
+  "name": "A Walk On The Wild Side",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3193988,
+    "lon": -1.4117655
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1697866
+  },
+  "ai": {
+    "summary": "A Walk On The Wild Side is a rigorous 22.4 km hike in the United Kingdom designed for experienced hikers. It features varied terrain and potentially exposed sections, demanding good fitness, navigation skills, and reliable gear.",
+    "terrain_summary": "The route combines uneven paths, rocky tracks, moorland or heathland stretches, muddy sections, and occasional open exposures. Traversal may include gradients and variable footing; weather can change quickly, so navigation and sturdy footwear are essential.",
+    "safety_notes": "Always check the forecast and daylight hours before setting out. Wear sturdy waterproof boots and layered clothing. Carry a map and compass or GPS, plus a fully charged phone. Bring ample water and high-energy snacks, plus a lightweight emergency shelter and a first aid kit. Stay on established paths, tell someone your plan and expected return, and be prepared for poor mobile signal and rapidly changing conditions. If conditions deteriorate, be ready to turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and insulating layer",
+      "Hat and gloves (as weather dictates)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system + high-energy snacks",
+      "Lightweight emergency shelter or bivy",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles",
+      "Extra socks and basic repair kit (duct tape, cord)",
+      "Sunscreen and sunglasses (for sunny conditions)"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to October) are the best times for this hike; winter conditions can be harsher with limited daylight and more mud.",
+    "seo": {
+      "title": "A Walk On The Wild Side – 22.4 km Hard Hike in the UK",
+      "meta_description": "Discover A Walk On The Wild Side, a challenging 22.4 km hike in the UK. Get terrain insights, safety tips, and gear recommendations for an epic day on rugged trails.",
+      "h1": "A Walk On The Wild Side: 22.4 km Hard Hike in the UK"
+    }
+  }
+}

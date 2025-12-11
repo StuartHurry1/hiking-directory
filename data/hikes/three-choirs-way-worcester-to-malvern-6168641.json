@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168641",
+  "slug": "three-choirs-way-worcester-to-malvern-6168641",
+  "name": "Three Choirs Way (Worcester to Malvern)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1878109,
+    "lon": -2.2224826
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168641
+  }
+}

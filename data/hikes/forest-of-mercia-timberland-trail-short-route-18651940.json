@@ -1,0 +1,21 @@
+{
+  "id": "osm-18651940",
+  "slug": "forest-of-mercia-timberland-trail-short-route-18651940",
+  "name": "Forest of Mercia Timberland Trail (Short Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6364987,
+    "lon": -1.9797542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18651940
+  }
+}

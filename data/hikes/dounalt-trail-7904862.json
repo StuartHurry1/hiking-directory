@@ -1,0 +1,21 @@
+{
+  "id": "osm-7904862",
+  "slug": "dounalt-trail-7904862",
+  "name": "Dounalt Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8716466,
+    "lon": -3.1798113
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7904862
+  }
+}

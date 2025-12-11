@@ -1,0 +1,21 @@
+{
+  "id": "osm-18626446",
+  "slug": "sutton-park-archeology-walk-3-banners-gate-18626446",
+  "name": "Sutton Park Archeology Walk 3: Banners Gate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5571263,
+    "lon": -1.8680901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18626446
+  }
+}

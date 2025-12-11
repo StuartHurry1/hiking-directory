@@ -1,0 +1,21 @@
+{
+  "id": "osm-19055914",
+  "slug": "low-sizergh-farm-trail-19055914",
+  "name": "Low Sizergh Farm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2828601,
+    "lon": -2.7661782
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19055914
+  }
+}

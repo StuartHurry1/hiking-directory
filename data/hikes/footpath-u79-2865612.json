@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865612",
+  "slug": "footpath-u79-2865612",
+  "name": "Footpath U79",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5294514,
+    "lon": -1.3459444
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865612
+  }
+}

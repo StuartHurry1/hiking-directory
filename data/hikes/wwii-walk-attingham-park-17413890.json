@@ -1,0 +1,21 @@
+{
+  "id": "osm-17413890",
+  "slug": "wwii-walk-attingham-park-17413890",
+  "name": "WWII Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6861523,
+    "lon": -2.6693884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17413890
+  }
+}

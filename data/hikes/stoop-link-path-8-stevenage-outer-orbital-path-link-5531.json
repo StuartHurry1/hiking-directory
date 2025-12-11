@@ -1,0 +1,21 @@
+{
+  "id": "osm-5531",
+  "slug": "stoop-link-path-8-stevenage-outer-orbital-path-link-5531",
+  "name": "STOOP Link Path 8 - Stevenage Outer Orbital Path Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9207445,
+    "lon": -0.1959243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5531
+  }
+}

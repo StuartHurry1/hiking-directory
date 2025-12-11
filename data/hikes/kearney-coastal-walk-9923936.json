@@ -1,0 +1,23 @@
+{
+  "id": "osm-9923936",
+  "slug": "kearney-coastal-walk-9923936",
+  "name": "Kearney coastal walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3961908,
+    "lon": -5.4634483
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9923936
+  }
+}

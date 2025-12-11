@@ -1,0 +1,40 @@
+{
+  "id": "osm-10286455",
+  "slug": "camborne-fp-50-10286455",
+  "name": "Camborne FP 50",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1997388,
+    "lon": -5.2746403
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10286455
+  },
+  "ai": {
+    "summary": "A short, easy hike on Camborne FP 50 in the UK. At 0.8 km, it’s ideal for families and beginners seeking a gentle introduction to outdoor walking on a well-defined footpath.",
+    "terrain_summary": "The trail is a short, well-marked footpath that is mostly flat. Surfaces vary from compact gravel to grassy track, with occasional muddy patches after rain. Be prepared for damp grass and potential puddles; conditions can change with weather and wind exposure on open sections.",
+    "safety_notes": "Plan for changeable UK weather even on short routes. Wear sturdy, grippy footwear and bring a light layer. Stay on the marked path and watch for gates or stiles. Keep dogs under control and leashed where livestock or other walkers are present. Carry a small map or a phone with offline access, and tell someone your plan and expected return time. If visibility drops or rain starts, consider turning back to avoid getting lost.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Weather-appropriate clothing (layers)",
+      "Water and a small snack",
+      "Lightweight rain jacket",
+      "Map or GPS on phone (offline map recommended)",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically in spring and summer when paths are dry and daylight is generous. Autumn can be pleasant but wetter; winter may be muddy or icy.",
+    "seo": {
+      "title": "Camborne FP 50 – Easy 0.8 km UK Footpath Walk",
+      "meta_description": "Explore a short, easy 0.8 km hike on Camborne FP 50 in the UK. Practical safety tips, gear list, and best seasons for this simple trail.",
+      "h1": "Camborne FP 50: Easy 0.8 km Footpath Walk"
+    }
+  }
+}

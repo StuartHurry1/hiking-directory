@@ -1,0 +1,21 @@
+{
+  "id": "osm-3200915",
+  "slug": "up-the-hill-to-banton-3200915",
+  "name": "Up the Hill To Banton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9835829,
+    "lon": -3.994693
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3200915
+  }
+}

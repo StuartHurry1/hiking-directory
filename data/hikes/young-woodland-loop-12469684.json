@@ -1,0 +1,21 @@
+{
+  "id": "osm-12469684",
+  "slug": "young-woodland-loop-12469684",
+  "name": "Young Woodland Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0769858,
+    "lon": -1.9875697
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12469684
+  }
+}

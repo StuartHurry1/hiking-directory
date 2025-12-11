@@ -1,0 +1,21 @@
+{
+  "id": "osm-4132491",
+  "slug": "millwood-trail-short-4132491",
+  "name": "Millwood Trail (Short)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3410912,
+    "lon": -3.0241353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4132491
+  }
+}

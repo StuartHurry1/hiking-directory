@@ -1,0 +1,21 @@
+{
+  "id": "osm-19684247",
+  "slug": "northycote-farm-to-moseley-old-hall-walk-moseley-old-hall-19684247",
+  "name": "Northycote Farm to Moseley Old Hall Walk, Moseley Old Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6259826,
+    "lon": -2.1042928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19684247
+  }
+}

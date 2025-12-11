@@ -1,0 +1,21 @@
+{
+  "id": "osm-2282981",
+  "slug": "great-hockham-yellow-walk-2282981",
+  "name": "Great Hockham Yellow Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4949152,
+    "lon": 0.8418435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2282981
+  }
+}

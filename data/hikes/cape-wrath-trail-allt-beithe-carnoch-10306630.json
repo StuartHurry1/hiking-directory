@@ -1,0 +1,21 @@
+{
+  "id": "osm-10306630",
+  "slug": "cape-wrath-trail-allt-beithe-carnoch-10306630",
+  "name": "Cape Wrath Trail (Allt Beithe - Carnoch)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2286137,
+    "lon": -5.1923804
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10306630
+  }
+}

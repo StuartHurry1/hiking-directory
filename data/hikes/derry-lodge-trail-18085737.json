@@ -1,0 +1,21 @@
+{
+  "id": "osm-18085737",
+  "slug": "derry-lodge-trail-18085737",
+  "name": "Derry Lodge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0047522,
+    "lon": -3.5432532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18085737
+  }
+}

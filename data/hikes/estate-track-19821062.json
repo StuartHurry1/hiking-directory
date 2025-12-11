@@ -1,0 +1,21 @@
+{
+  "id": "osm-19821062",
+  "slug": "estate-track-19821062",
+  "name": "Estate Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7649723,
+    "lon": -2.0425059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19821062
+  }
+}

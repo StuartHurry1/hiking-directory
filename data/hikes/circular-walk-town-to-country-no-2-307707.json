@@ -1,0 +1,21 @@
+{
+  "id": "osm-307707",
+  "slug": "circular-walk-town-to-country-no-2-307707",
+  "name": "Circular Walk \"Town to Country No 2\"",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8901331,
+    "lon": -0.1568864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 307707
+  }
+}

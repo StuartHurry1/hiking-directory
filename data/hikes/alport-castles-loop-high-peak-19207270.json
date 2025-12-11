@@ -1,0 +1,46 @@
+{
+  "id": "osm-19207270",
+  "slug": "alport-castles-loop-high-peak-19207270",
+  "name": "Alport Castles Loop, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4132919,
+    "lon": -1.780386
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19207270
+  },
+  "ai": {
+    "summary": "A challenging 19 km circular hike in the High Peak area of the Peak District, UK, visiting the dramatic Alport Castles and surrounding moorland. Expect rugged terrain, long ascents, and exposed sections with variable weather.",
+    "terrain_summary": "Varied upland terrain including grassy moorland, rocky tracks, and damp sections. Some short rocky sections near the castles and long ascents with potential wind exposure. Navigation with a map is recommended.",
+    "safety_notes": "Plan for a full day (6–8 hours); check the forecast and be prepared for sudden weather changes. Carry a map and compass, or a reliable GPS device; stay on marked paths. Wear sturdy waterproof boots and layered clothing. Bring enough water and food; carry a whistle and a small first aid kit. Let someone know your route and expected return time; have a charged phone as emergency contact. Be mindful of boggy ground and cattle in the fields; watch for changing light and short daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered, weather-appropriate clothing",
+      "Waterproof jacket and trousers",
+      "Map and compass (GPS optional)",
+      "Water bottle or hydration system",
+      "Energy snacks and a packed meal",
+      "Headtorch or flashlight with extra batteries",
+      "Emergency whistle",
+      "First aid kit",
+      "Space blanket or emergency bivy",
+      "Walking poles (optional)",
+      "Sunscreen, hat and sunglasses"
+    ],
+    "best_seasons": "Late spring to autumn (roughly March to October) when days are longer and conditions are more reliable. Winter hikes are possible with advanced navigation and gear but bring extra caution due to cold, wind, and muddy or icy ground.",
+    "seo": {
+      "title": "Alport Castles Loop – 19km Hard Hike in High Peak, UK",
+      "meta_description": "Conquer the Alport Castles Loop, a 19 km hard circular hike in the Peak District's High Peak, UK. Rugged moorland, rocky sections and dramatic castle formations—plan your route today.",
+      "h1": "Alport Castles Loop – 19km Hard Hike in High Peak, UK"
+    }
+  }
+}

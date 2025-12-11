@@ -1,0 +1,55 @@
+{
+  "id": "osm-4640636",
+  "slug": "arran-coastal-way-4640636",
+  "name": "Arran Coastal Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 161.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5699867,
+    "lon": -5.1186181
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4640636
+  },
+  "ai": {
+    "summary": "The Arran Coastal Way is a demanding 161.4 km coastal circuit around the Isle of Arran in Scotland. It traverses rugged sea cliffs, sandy beaches, moorland, and forests, with frequent elevation changes and exposed sections. As a hard long-distance route, it requires solid navigation, thorough preparation, and good weather judgment.",
+    "terrain_summary": "Expect mainly coastal paths and cliff-top tracks with rocky surfaces, mixed with forest trails and occasional roads. Terrain ranges from rough, uneven ground and wet, slippery sections to gentle coastal paths; long ascents near headlands and long, exposed coastlines demand stamina and careful footing. Be prepared for wind and sea spray.",
+    "safety_notes": "Weather on Scotland’s coast can change rapidly; carry appropriate clothing and protection. Some stretches are remote with limited phone signal—bring a map, compass, and GPS, and inform someone of your plan and daily targets. Pack adequate food, water, and a means to purify water if needed. Check tide times for any beach crossings and avoid exposed cliffs in bad conditions. Start early in winter and carry a reliable light source; let someone know if plans change.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof, breathable outer layer (jacket and pants)",
+      "Insulating mid-layer (fleece or down)",
+      "Breathable base layers",
+      "Waterproof backpack rain cover",
+      "Backpack with enough capacity (20–40 L depending on trip length)",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system (minimum 2 L)",
+      "High-energy snacks and meals",
+      "Emergency shelter or bivvy bag",
+      "First aid kit and personal medications",
+      "Sunscreen and sunglasses",
+      "Hat and gloves",
+      "Trekking poles (optional)",
+      "Dry bags or sealable bags for electronics",
+      "Whistle and emergency signaling device",
+      "Knowledge of tide patterns or coastal weather apps"
+    ],
+    "best_seasons": "April–October (spring to autumn) is generally best for daylight and more stable weather, though coastal conditions remain unpredictable; shoulder seasons can be misty or windy, while winter brings shorter days and harsher conditions.",
+    "seo": {
+      "title": "Arran Coastal Way: 161.4 km Coastal Hike in Scotland",
+      "meta_description": "Plan and prepare for the Arran Coastal Way, a 161.4 km hard coastal hike around the Isle of Arran, Scotland. Terrain insights, safety tips, gear lists, and best seasons.",
+      "h1": "Arran Coastal Way: Scotland’s 161.4 km Coastal Challenge"
+    }
+  }
+}

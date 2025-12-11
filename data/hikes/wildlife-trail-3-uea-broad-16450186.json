@@ -1,0 +1,21 @@
+{
+  "id": "osm-16450186",
+  "slug": "wildlife-trail-3-uea-broad-16450186",
+  "name": "Wildlife Trail 3: UEA Broad",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6188646,
+    "lon": 1.2439895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16450186
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15087492",
+  "slug": "walk-around-stroud-the-was-way-15087492",
+  "name": "Walk Around Stroud (The WAS Way)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.744393,
+    "lon": -2.2213604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15087492
+  }
+}

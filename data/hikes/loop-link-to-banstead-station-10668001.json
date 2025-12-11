@@ -1,0 +1,21 @@
+{
+  "id": "osm-10668001",
+  "slug": "loop-link-to-banstead-station-10668001",
+  "name": "LOOP link to Banstead station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3315369,
+    "lon": -0.2093693
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10668001
+  }
+}

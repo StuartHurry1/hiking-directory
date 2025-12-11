@@ -1,0 +1,23 @@
+{
+  "id": "osm-16051055",
+  "slug": "two-bays-way-16051055",
+  "name": "Two Bays Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6794747,
+    "lon": -1.9501975
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16051055
+  }
+}

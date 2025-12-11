@@ -1,0 +1,23 @@
+{
+  "id": "osm-112695",
+  "slug": "midshires-way-112695",
+  "name": "Midshires Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2801.1,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9634468,
+    "lon": -1.4101275
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 112695
+  }
+}

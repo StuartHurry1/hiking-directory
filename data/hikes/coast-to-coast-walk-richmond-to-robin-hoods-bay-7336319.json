@@ -1,0 +1,23 @@
+{
+  "id": "osm-7336319",
+  "slug": "coast-to-coast-walk-richmond-to-robin-hoods-bay-7336319",
+  "name": "Coast to Coast Walk (Richmond to Robin Hood’s Bay)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 175.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4001277,
+    "lon": -1.7400664
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7336319
+  }
+}

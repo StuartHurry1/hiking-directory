@@ -1,0 +1,21 @@
+{
+  "id": "osm-2168280",
+  "slug": "intermediate-walk-route-2168280",
+  "name": "Intermediate Walk Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0523493,
+    "lon": -3.1428011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2168280
+  }
+}

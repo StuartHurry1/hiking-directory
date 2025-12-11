@@ -1,0 +1,21 @@
+{
+  "id": "osm-19001338",
+  "slug": "yellow-trail-sherborne-park-estate-19001338",
+  "name": "Yellow Trail, Sherborne Park Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8275638,
+    "lon": -1.7709881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001338
+  }
+}

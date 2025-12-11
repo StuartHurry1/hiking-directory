@@ -1,0 +1,21 @@
+{
+  "id": "osm-2404478",
+  "slug": "redwood-trail-2404478",
+  "name": "Redwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4362303,
+    "lon": 0.6251876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2404478
+  }
+}

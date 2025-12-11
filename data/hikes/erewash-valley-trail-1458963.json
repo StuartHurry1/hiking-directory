@@ -1,0 +1,21 @@
+{
+  "id": "osm-1458963",
+  "slug": "erewash-valley-trail-1458963",
+  "name": "Erewash Valley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 159.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.982817,
+    "lon": -1.2906864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1458963
+  }
+}

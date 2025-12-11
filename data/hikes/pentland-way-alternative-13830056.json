@@ -1,0 +1,21 @@
+{
+  "id": "osm-13830056",
+  "slug": "pentland-way-alternative-13830056",
+  "name": "Pentland Way (Alternative)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7248154,
+    "lon": -3.4466783
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13830056
+  }
+}

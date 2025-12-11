@@ -1,0 +1,21 @@
+{
+  "id": "osm-14020484",
+  "slug": "trimdon-parish-circular-walk-14020484",
+  "name": "Trimdon Parish Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7013282,
+    "lon": -1.422182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14020484
+  }
+}

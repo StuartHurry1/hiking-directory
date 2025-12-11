@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853451",
+  "slug": "fungle-road-7853451",
+  "name": "Fungle Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0677538,
+    "lon": -2.7864642
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853451
+  }
+}

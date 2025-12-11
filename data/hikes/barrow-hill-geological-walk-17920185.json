@@ -1,0 +1,41 @@
+{
+  "id": "osm-17920185",
+  "slug": "barrow-hill-geological-walk-17920185",
+  "name": "Barrow Hill Geological Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5020257,
+    "lon": -2.1253783
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17920185
+  },
+  "ai": {
+    "summary": "An easy 2.4 km circular walk that highlights local geology around Barrow Hill. The route is suitable for families and casual hikers, with gentle gradients, informative markers about rocks, fossils, and mining history, and scenic views across the surrounding countryside.",
+    "terrain_summary": "Mostly well-maintained paths and grassy verges; flat to gentle undulations with some rocky outcrops and uneven sections. Expect occasional mud after rain and a few short, uneven steps near rock exposures.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and bring a waterproof layer. Stay on designated paths, respect private land and protected areas, and keep children within sight. Do not remove fossils or rocks; watch for loose stones on rock outcrops. Be mindful of nearby traffic on access roads if the start or end area is near parking.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water and snacks",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Map or offline route guide and a fully charged phone",
+      "Small first aid kit",
+      "Notebook or camera to capture geology notes"
+    ],
+    "best_seasons": "Spring, summer, and autumn offer the most comfortable conditions; the trail is usable year-round with shorter daylight hours and potentially icy surfaces in winter.",
+    "seo": {
+      "title": "Barrow Hill Geological Walk – Easy 2.4 km UK geology hike",
+      "meta_description": "Discover Barrow Hill Geological Walk, a gentle 2.4 km hike in the UK that showcases local rocks, fossils, and mining history. Ideal for families and geology enthusiasts.",
+      "h1": "Barrow Hill Geological Walk – Easy 2.4 km Geology Hike"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-15571644",
+  "slug": "amica-walk-15571644",
+  "name": "Amica Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4864821,
+    "lon": -4.1416726
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15571644
+  },
+  "ai": {
+    "summary": "Amica Walk is a short, easy 3 km hike in the UK suitable for beginners and casual walkers. The route is designed for a relaxed pace and light outdoor activity, with gentle terrain and accessible scenery.",
+    "terrain_summary": "The trail is generally easy underfoot with mostly flat to gently sloping sections. Surface types include packed dirt and well-maintained paths, with occasional grassy or gravel patches and minimal elevation gain.",
+    "safety_notes": "Check local weather and daylight hours before starting. Wear sturdy footwear and bring water. Stay on marked paths, watch for uneven ground, and be mindful of other users on shared routes. Have a charged phone and know the planned turnaround point.",
+    "recommended_gear": [
+      "comfortable walking shoes",
+      "water bottle",
+      "light rain jacket",
+      "hat and sunscreen",
+      "snack",
+      "map or offline navigation app",
+      "phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Amica Walk — Easy 3 km Hike in the UK",
+      "meta_description": "Discover Amica Walk, a gentle 3 km hike in the UK. This easy trail offers gentle terrain, safety tips, gear suggestions, and the best seasons for your stroll.",
+      "h1": "Amica Walk: Easy 3 km Hike in the UK"
+    }
+  }
+}

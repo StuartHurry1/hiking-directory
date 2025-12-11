@@ -1,0 +1,21 @@
+{
+  "id": "osm-19034427",
+  "slug": "hudswell-woods-trail-19034427",
+  "name": "Hudswell Woods Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.402434,
+    "lon": -1.7593187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19034427
+  }
+}

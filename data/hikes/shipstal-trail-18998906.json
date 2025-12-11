@@ -1,0 +1,21 @@
+{
+  "id": "osm-18998906",
+  "slug": "shipstal-trail-18998906",
+  "name": "Shipstal trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6905845,
+    "lon": -2.0403949
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18998906
+  }
+}

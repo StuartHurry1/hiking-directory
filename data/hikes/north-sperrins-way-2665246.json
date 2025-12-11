@@ -1,0 +1,23 @@
+{
+  "id": "osm-2665246",
+  "slug": "north-sperrins-way-2665246",
+  "name": "North Sperrins Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.1,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1102658,
+    "lon": -6.9503772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2665246
+  }
+}

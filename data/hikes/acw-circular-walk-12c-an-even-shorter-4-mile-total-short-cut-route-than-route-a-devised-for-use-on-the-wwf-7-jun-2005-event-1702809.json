@@ -1,0 +1,43 @@
+{
+  "id": "osm-1702809",
+  "slug": "acw-circular-walk-12c-an-even-shorter-4-mile-total-short-cut-route-than-route-a-devised-for-use-on-the-wwf-7-jun-2005-event-1702809",
+  "name": "ACW Circular Walk 12C (an even shorter [4 mile total] short-cut route than route A, devised for use on the WWF 7-Jun-2005 event)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4270595,
+    "lon": -1.3715183
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1702809
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12C is a circular UK route, noted as a shorter 4-mile shortcut variant of Route A created for a WWF event on 7 June 2005. The documented distance is 9 km, presenting a moderate hike with varied terrain and suitable for walkers with some experience.",
+    "terrain_summary": "Mixed countryside footpaths and quiet lanes with field margins. Expect hedges, potential stiles, uneven ground, and possible mud after rain. Some sections may be shaded while others are exposed; footwear should be sturdy to handle variable surfaces.",
+    "safety_notes": "Check weather and daylight before setting out. Wear sturdy footwear and carry a map or GPS. Be cautious on muddy or uneven sections and at stiles or gates. Stay on public rights of way, respect livestock, and carry sufficient water, a basic first aid kit, and a charged mobile device with a way to contact help if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Map and/or GPS device",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Snack or energy bars",
+      "Small first aid kit",
+      "Phone with offline maps",
+      "Headlamp or flashlight (optional for late finishes)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers the best conditions; winter conditions can be variable and more challenging.",
+    "seo": {
+      "title": "ACW Circular Walk 12C – 9 km Circular Hike (4-mile Shortcut Variant) in the UK",
+      "meta_description": "Explore ACW Circular Walk 12C, a 9 km moderate circular hike in the UK, featuring a shortened 4-mile shortcut variant designed for a WWF event. Includes terrain, safety tips, and gear guidance.",
+      "h1": "ACW Circular Walk 12C – 4-mile Shortcut Variant"
+    }
+  }
+}

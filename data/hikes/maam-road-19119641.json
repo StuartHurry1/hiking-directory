@@ -1,0 +1,21 @@
+{
+  "id": "osm-19119641",
+  "slug": "maam-road-19119641",
+  "name": "Maam Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3888406,
+    "lon": -4.0560373
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19119641
+  }
+}

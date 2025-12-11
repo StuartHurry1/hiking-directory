@@ -1,0 +1,21 @@
+{
+  "id": "osm-14354924",
+  "slug": "impey-walk-14354924",
+  "name": "Impey Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9288496,
+    "lon": -3.4777381
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14354924
+  }
+}

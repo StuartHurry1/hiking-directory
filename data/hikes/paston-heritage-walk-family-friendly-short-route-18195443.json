@@ -1,0 +1,21 @@
+{
+  "id": "osm-18195443",
+  "slug": "paston-heritage-walk-family-friendly-short-route-18195443",
+  "name": "Paston Heritage Walk (Family Friendly Short Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8579313,
+    "lon": 1.4490202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18195443
+  }
+}

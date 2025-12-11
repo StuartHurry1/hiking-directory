@@ -1,0 +1,21 @@
+{
+  "id": "osm-9170155",
+  "slug": "priesty-trail-9170155",
+  "name": "Priesty Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1615728,
+    "lon": -2.2128971
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9170155
+  }
+}

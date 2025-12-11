@@ -1,0 +1,21 @@
+{
+  "id": "osm-10667970",
+  "slug": "loop-link-to-whyteleafe-station-10667970",
+  "name": "LOOP link to Whyteleafe station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3103309,
+    "lon": -0.0794818
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10667970
+  }
+}

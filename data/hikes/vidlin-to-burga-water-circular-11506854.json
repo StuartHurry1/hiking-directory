@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506854",
+  "slug": "vidlin-to-burga-water-circular-11506854",
+  "name": "Vidlin to Burga Water Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3622184,
+    "lon": -1.1281639
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506854
+  }
+}

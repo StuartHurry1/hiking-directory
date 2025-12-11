@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376430",
+  "slug": "south-west-coast-path-section-51-lulworth-cove-to-worth-matravers-2376430",
+  "name": "South West Coast Path (Section 51: Lulworth Cove to Worth Matravers)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6187138,
+    "lon": -2.2498662
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376430
+  }
+}

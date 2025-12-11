@@ -1,0 +1,21 @@
+{
+  "id": "osm-18187343",
+  "slug": "trimingham-circular-18187343",
+  "name": "Trimingham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8982177,
+    "lon": 1.3876086
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18187343
+  }
+}

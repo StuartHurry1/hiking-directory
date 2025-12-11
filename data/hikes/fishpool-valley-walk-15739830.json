@@ -1,0 +1,21 @@
+{
+  "id": "osm-15739830",
+  "slug": "fishpool-valley-walk-15739830",
+  "name": "Fishpool Valley walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2944286,
+    "lon": -2.8054674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15739830
+  }
+}

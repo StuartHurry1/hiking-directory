@@ -1,0 +1,21 @@
+{
+  "id": "osm-16146011",
+  "slug": "east-feal-stroll-16146011",
+  "name": "East Feal Stroll",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.218416,
+    "lon": -3.255767
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16146011
+  }
+}

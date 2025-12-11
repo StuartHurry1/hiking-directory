@@ -1,0 +1,23 @@
+{
+  "id": "osm-19153078",
+  "slug": "lansallos-coastal-and-woodland-walk-mid-and-se-cornwall-19153078",
+  "name": "Lansallos coastal and woodland walk, Mid and SE Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3375234,
+    "lon": -4.5676124
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19153078
+  }
+}

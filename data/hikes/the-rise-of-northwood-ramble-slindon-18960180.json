@@ -1,0 +1,21 @@
+{
+  "id": "osm-18960180",
+  "slug": "the-rise-of-northwood-ramble-slindon-18960180",
+  "name": "The Rise of Northwood Ramble, Slindon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8943922,
+    "lon": -0.6482806
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18960180
+  }
+}

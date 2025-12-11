@@ -1,0 +1,21 @@
+{
+  "id": "osm-10684601",
+  "slug": "slitt-wood-and-west-rigg-geotrail-10684601",
+  "name": "Slitt Wood and West Rigg Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7374658,
+    "lon": -2.1448423
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10684601
+  }
+}

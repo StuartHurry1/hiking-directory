@@ -1,0 +1,21 @@
+{
+  "id": "osm-2275550",
+  "slug": "trans-pennine-trail-silkstone-common-to-wombwell-2275550",
+  "name": "Trans-Pennine Trail (Silkstone Common to Wombwell)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5325632,
+    "lon": -1.5608919
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2275550
+  }
+}

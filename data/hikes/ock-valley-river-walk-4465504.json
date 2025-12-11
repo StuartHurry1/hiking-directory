@@ -1,0 +1,21 @@
+{
+  "id": "osm-4465504",
+  "slug": "ock-valley-river-walk-4465504",
+  "name": "Ock Valley River Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6681042,
+    "lon": -1.2891095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4465504
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 14500441,
+  "slug": "green-chain-walk-section-9a-link-14500441",
+  "name": "Green Chain Walk section 9A link",
+  "network": "rwn",
+  "tags": {
+    "colour": "#08a856",
+    "name": "Green Chain Walk section 9A link",
+    "network": "rwn",
+    "network:type": "rwn",
+    "ref": "G-C",
+    "route": "foot",
+    "type": "route",
+    "website": "https://tfl.gov.uk/modes/walking/chislehurst-to-beckenham-place-park"
+  },
+  "coordinates": [
+    [
+      -0.0079807,
+      51.4143528
+    ],
+    [
+      -0.0080051,
+      51.4144051
+    ],
+    [
+      -0.007954,
+      51.4142962
+    ],
+    [
+      -0.0079807,
+      51.4143528
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16411762",
+  "slug": "purple-16411762",
+  "name": "'purple'",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7139503,
+    "lon": -3.7308849
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16411762
+  }
+}

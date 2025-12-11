@@ -1,0 +1,21 @@
+{
+  "id": "osm-1085450",
+  "slug": "tollymore-forest-mountain-trail-1085450",
+  "name": "Tollymore Forest - Mountain Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2243012,
+    "lon": -5.9406044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1085450
+  }
+}

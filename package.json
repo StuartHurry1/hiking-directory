@@ -6,21 +6,35 @@
   "dev": "next dev",
   "build": "next build",
   "start": "next start",
-  "lint": "next lint",
-  "preprocess:postcodes": "tsx scripts/preprocess-postcodes.ts"
+
+  "scrape:osm": "tsx scripts/scrape-osm-hikes.ts",
+  "hikes:normalise": "tsx scripts/normalise-hikes.ts",
+  "hikes:enrich": "tsx scripts/enrich-hikes.ts",
+  "hikes:indexes": "tsx scripts/generate-indexes.ts",
+  "hikes:stats": "tsx scripts/hikes-stats.ts",
+
+  "hikes:all": "pnpm scrape:osm && pnpm hikes:normalise && pnpm hikes:enrich && pnpm hikes:indexes && pnpm hikes:stats"
 },
   "dependencies": {
+    "@tmcw/togeojson": "^7.1.2",
+    "leaflet": "^1.9.4",
+    "maplibre-gl": "^5.14.0",
     "next": "16.0.7",
+    "openai": "^6.10.0",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "react-leaflet": "^5.0.0",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.22",
     "eslint": "^9",
     "eslint-config-next": "16.0.7",
+    "postcss": "^8.5.6",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
     "typescript": "^5"

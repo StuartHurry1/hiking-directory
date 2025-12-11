@@ -1,0 +1,21 @@
+{
+  "id": "osm-15739716",
+  "slug": "pokehouse-wood-walk-15739716",
+  "name": "Pokehouse wood walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2865665,
+    "lon": -2.8064582
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15739716
+  }
+}

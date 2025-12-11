@@ -1,0 +1,21 @@
+{
+  "id": "osm-1574005",
+  "slug": "whittington-and-the-handleys-1574005",
+  "name": "Whittington and the Handleys",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2893644,
+    "lon": -1.4142488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1574005
+  }
+}

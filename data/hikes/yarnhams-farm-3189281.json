@@ -1,0 +1,21 @@
+{
+  "id": "osm-3189281",
+  "slug": "yarnhams-farm-3189281",
+  "name": "Yarnhams Farm",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1920937,
+    "lon": -0.944957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3189281
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-357500",
+  "slug": "surgeons-walk-357500",
+  "name": "Surgeons Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1789363,
+    "lon": -4.061381
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 357500
+  }
+}

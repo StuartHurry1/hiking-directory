@@ -1,0 +1,21 @@
+{
+  "id": "osm-19917476",
+  "slug": "maidenhead-commons-trail-maidenhead-19917476",
+  "name": "Maidenhead Commons Trail, Maidenhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5261661,
+    "lon": -0.7694079
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19917476
+  }
+}

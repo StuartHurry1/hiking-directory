@@ -1,0 +1,21 @@
+{
+  "id": "osm-19400332",
+  "slug": "cwm-idwal-walk-19400332",
+  "name": "Cwm Idwal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1238995,
+    "lon": -4.0205897
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400332
+  }
+}

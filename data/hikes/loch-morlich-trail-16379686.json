@@ -1,0 +1,21 @@
+{
+  "id": "osm-16379686",
+  "slug": "loch-morlich-trail-16379686",
+  "name": "Loch Morlich Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.168039,
+    "lon": -3.7001764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16379686
+  }
+}

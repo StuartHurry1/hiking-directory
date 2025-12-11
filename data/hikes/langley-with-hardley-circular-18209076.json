@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209076",
+  "slug": "langley-with-hardley-circular-18209076",
+  "name": "Langley with Hardley Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5561956,
+    "lon": 1.5221469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209076
+  }
+}

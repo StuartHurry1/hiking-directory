@@ -1,0 +1,47 @@
+{
+  "id": "osm-1692475",
+  "slug": "acw-circular-walk-04-1692475",
+  "name": "ACW Circular Walk 04",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3459301,
+    "lon": -1.5900316
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1692475
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 04 is a demanding 38 km circular hike in the UK. Rated hard, the route traverses varied terrain in an unknown region and tests endurance, navigation, and weather resilience.",
+    "terrain_summary": "Expect a mix of steep climbs, rocky paths, uneven trails, grassy sections and occasional road crossings. Long, remote stretches mean limited shelter and amenities; mud and boggy sections are common after rain.",
+    "safety_notes": "Hard 38 km route in potentially remote terrain. Plan for a 9–12 hour day; check weather and daylight. Wear sturdy boots and carry navigation tools (map, compass or GPS) and a fully charged phone. In an unknown region, signs may be sparse—bring a physical map as backup. Inform someone of your plan, carry extra food and water, a first aid kit, emergency shelter, and a whistle. Adjust pace or turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 litres total)",
+      "Weather-appropriate layers (base layer, mid-layer, waterproof shell)",
+      "Map and compass (or GPS) and a fully charged phone with offline maps",
+      "Headlamp or lightweight flashlight",
+      "First aid kit",
+      "Whistle and multi-tool",
+      "Emergency blanket or bivy sack",
+      "Energy-rich snacks and meals",
+      "Rucksack with rain cover",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Extra socks and a spare set of dry clothing",
+      "Mobile power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) for best weather; the route is possible year-round with extra precautions in winter.",
+    "seo": {
+      "title": "ACW Circular Walk 04 — 38 km Hard Circular Hike in the UK",
+      "meta_description": "Plan and prepare for ACW Circular Walk 04, a challenging 38 km circular route in the UK. Terrain, safety tips, gear recommendations, and best seasons included.",
+      "h1": "ACW Circular Walk 04: 38 km Hard Circular Hike in the UK"
+    }
+  }
+}

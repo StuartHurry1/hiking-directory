@@ -1,0 +1,23 @@
+{
+  "id": "osm-3360997",
+  "slug": "pershore-bridges-circular-walk-3360997",
+  "name": "Pershore Bridges Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1044548,
+    "lon": -2.0707705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3360997
+  }
+}

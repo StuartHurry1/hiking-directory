@@ -1,0 +1,42 @@
+{
+  "id": "osm-9133046",
+  "slug": "ashgrounds-wood-9133046",
+  "name": "Ashgrounds Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9920195,
+    "lon": -0.1104062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9133046
+  },
+  "ai": {
+    "summary": "A 7.7 km moderate woodland hike through Ashgrounds Wood in the UK. The route features shaded forest trails, gentle elevation, and opportunities to spot local flora and wildlife, suitable for hikers with some experience and solid footwear.",
+    "terrain_summary": "Forest paths with a mix of dirt and gravel, occasional exposed roots, and damp sections. Expect shade, narrow trails in places, and modest elevation changes.",
+    "safety_notes": "Check the weather and daylight hours before you go. Stay on marked paths, and tell someone your route and expected return time. Wear sturdy footwear and bring water, a map or GPS, and a small first aid kit. Be mindful of ticks, wildlife, and potential slippery sections after rain. Carry a lightweight layer for changing conditions and know your limits on difficult sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map or GPS device",
+      "Small first aid kit",
+      "Headlamp or flashlight (for early/late starts or overcast days)",
+      "Trail snacks",
+      "Insect repellent and sun protection"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions, with cooler temperatures and better trail conditions. Summer can be comfortable in shade; winter hiking is possible but expect mud, reduced daylight, and potentially harder trails.",
+    "seo": {
+      "title": "Ashgrounds Wood: 7.7 km Moderate Hike in the UK",
+      "meta_description": "Discover Ashgrounds Wood with a 7.7 km moderate trail in the UK. Learn about terrain, safety tips, gear, and the best seasons for this woodland hike.",
+      "h1": "Ashgrounds Wood: 7.7 km Moderate Woodland Hike in the UK"
+    }
+  }
+}

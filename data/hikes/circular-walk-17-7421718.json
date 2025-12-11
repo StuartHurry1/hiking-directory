@@ -1,0 +1,21 @@
+{
+  "id": "osm-7421718",
+  "slug": "circular-walk-17-7421718",
+  "name": "Circular Walk 17",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9595242,
+    "lon": -1.2884622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7421718
+  }
+}

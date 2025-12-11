@@ -1,0 +1,42 @@
+{
+  "id": "osm-19550128",
+  "slug": "black-down-temple-of-the-winds-trail-black-down-19550128",
+  "name": "Black Down Temple of the Winds trail, Black Down",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0702069,
+    "lon": -0.6873781
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19550128
+  },
+  "ai": {
+    "summary": "This 7.4 km moderate hike on the Black Down Temple of the Winds trail offers broad, windswept ridgelines and expansive viewpoints. Starting on Black Down in the UK, the route traverses grassy paths with occasional rocky steps and rewards hikers with a distinctive Temple of the Winds feature along the way. The terrain is exposed and can be weather-worn, so a reasonable level of fitness and good footwear are recommended.",
+    "terrain_summary": "Predominantly grassy downs with intermittent rocky sections; uneven footing; potential mud after rain; frequent ascents and descents; long open stretches with strong winds and panoramic views; some sections may require careful footing near edges.",
+    "safety_notes": "Check the weather forecast before you go; the exposed ridge can experience sudden gusts. Wear sturdy boots with good grip and bring windproof and waterproof layers. Carry enough water and snacks, and have a map or GPS in case of poor visibility. Stay on marked paths, plan for daylight hours, and turn back if conditions deteriorate or signs of fatigue appear.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing and windproof layer",
+      "Water (1–2 liters) and high-energy snacks",
+      "Map or GPS device / offline navigation",
+      "Sun protection (hat, sunscreen)",
+      "Light first aid kit",
+      "Headlamp or flashlight (for early/late starts or low light)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (generally best in mild, dry conditions; winter can be windy and muddy).",
+    "seo": {
+      "title": "Black Down Temple of the Winds Trail – 7.4 km Moderate Hike in the UK",
+      "meta_description": "Explore the 7.4 km Black Down Temple of the Winds trail in the UK. A moderate hike with open ridgelines, wind-swept scenery, and practical safety and gear tips.",
+      "h1": "Black Down Temple of the Winds Trail (7.4 km) – Moderate Hike in the UK"
+    }
+  }
+}

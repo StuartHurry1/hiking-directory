@@ -1,0 +1,43 @@
+{
+  "id": "osm-16450070",
+  "slug": "botley-health-routes-purple-16450070",
+  "name": "Botley Health Routes - Purple",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7506975,
+    "lon": -1.298239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16450070
+  },
+  "ai": {
+    "summary": "Botley Health Routes - Purple is a 9.8 km moderate hike in the UK, offering a steady pace with varied landscapes and accessible trails suitable for walkers seeking a balanced day outdoors.",
+    "terrain_summary": "Primarily well-maintained paths with a mix of grassy trails, compact gravel, and occasional boardwalk sections. Expect gentle ascents and descents, with some uneven ground and tree roots near highlight areas.",
+    "safety_notes": "Check the weather before you go; UK conditions can change quickly. Wear sturdy footwear with good grip. Bring a map or GPS, a fully charged phone, and enough water and snacks. Stay mindful of other hikers, watch for exposed edges, and plan for daylight hours to avoid starting late. If you have medical needs, carry appropriate supplies and inform someone of your route.",
+    "recommended_gear": [
+      "Comfortable hiking shoes or boots",
+      "Water bottle",
+      "Layered clothing",
+      "Weather-appropriate jacket",
+      "Map or GPS device/phone",
+      "Snack or energy bars",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn are generally ideal in the UK; the route can be hiked year-round, but weather and daylight affect conditions.",
+    "seo": {
+      "title": "Botley Health Routes - Purple (9.8 km, Moderate) | UK Hike Guide",
+      "meta_description": "Explore Botley Health Routes - Purple: a 9.8 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and what to bring.",
+      "h1": "Botley Health Routes - Purple"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-18616257",
+  "slug": "birmingham-wellbeing-walk-livery-street-to-the-mailbox-18616257",
+  "name": "Birmingham Wellbeing Walk: Livery Street to The Mailbox",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4852964,
+    "lon": -1.9024468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18616257
+  },
+  "ai": {
+    "summary": "A short, easy urban stroll in Birmingham city centre from Livery Street to The Mailbox, covering about 1.9 km. The route offers a flat, pavement-based walk suitable for most ages and families seeking a quick wellbeing break in the city.",
+    "terrain_summary": "Flat, urban terrain with sidewalks and occasional cobbles. Primarily on paved streets, with crossings and potential bus and cyclist traffic along busy sections near the canal and The Mailbox.",
+    "safety_notes": "Stay alert in busy city streets: follow crossing signals, keep to designated walkways, and watch for vehicles, buses, and cyclists. Pavements can be uneven after rain, so wear suitable footwear. If walking with children or mobility concerns, allow extra time and consider daylight hours.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or umbrella",
+      "Phone with maps or offline route",
+      "Sunscreen and a hat (for sunny days)",
+      "Small backpack or crossbody bag for essentials",
+      "Mask (optional, for crowded areas)"
+    ],
+    "best_seasons": "All year round. Best in spring and summer for daylight and outdoor comfort, but feasible in autumn and winter with warm clothing and rain protection.",
+    "seo": {
+      "title": "Birmingham Wellbeing Walk: Livery Street to The Mailbox – 1.9 km Easy City Walk",
+      "meta_description": "Explore a short, easy 1.9 km urban walk in Birmingham from Livery Street to The Mailbox. Flat pavements, city views, and a quick wellbeing break in the city centre.",
+      "h1": "Birmingham Wellbeing Walk: Livery Street to The Mailbox"
+    }
+  }
+}

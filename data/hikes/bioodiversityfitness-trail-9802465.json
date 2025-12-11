@@ -1,0 +1,40 @@
+{
+  "id": "osm-9802465",
+  "slug": "bioodiversityfitness-trail-9802465",
+  "name": "Bioodiversity/Fitness Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.891098,
+    "lon": -5.8458989
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9802465
+  },
+  "ai": {
+    "summary": "A short, easy 1.4 km hike on the Bioodiversity/Fitness Trail in the UK. This gentle route combines light fitness activity with opportunities to observe local biodiversity along a well-maintained path.",
+    "terrain_summary": "Flat to gently rolling terrain with a well-maintained path. Expect paved or compact gravel surfaces, occasional grassy verges, and shady woodland edges. Suitable for beginners and families.",
+    "safety_notes": "Stay on marked paths. Check weather before you go; UK weather can change quickly. Wear sturdy shoes, bring water, and dress for rain. Be mindful of other trail users and wildlife, and follow any posted biodiversity signage.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen",
+      "Hat or cap",
+      "Mobile phone for emergencies"
+    ],
+    "best_seasons": "Spring through autumn offer the mildest conditions and best biodiversity viewing in the UK; the trail is accessible year-round with appropriate clothing.",
+    "seo": {
+      "title": "Bioodiversity/Fitness Trail – Easy 1.4 km Hike in the UK",
+      "meta_description": "Explore the Bioodiversity/Fitness Trail, a short and easy 1.4 km hike in the UK that blends light fitness with biodiversity viewing along a well-maintained path.",
+      "h1": "Bioodiversity/Fitness Trail: Easy 1.4 km Hike in the UK"
+    }
+  }
+}

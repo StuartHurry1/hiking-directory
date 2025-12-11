@@ -1,0 +1,21 @@
+{
+  "id": "osm-18205389",
+  "slug": "whitlingham-circular-18205389",
+  "name": "Whitlingham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6213256,
+    "lon": 1.3297822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18205389
+  }
+}

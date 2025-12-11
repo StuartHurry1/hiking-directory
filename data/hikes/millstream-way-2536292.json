@@ -1,0 +1,21 @@
+{
+  "id": "osm-2536292",
+  "slug": "millstream-way-2536292",
+  "name": "Millstream Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4243713,
+    "lon": -1.8592225
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2536292
+  }
+}

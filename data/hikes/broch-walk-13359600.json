@@ -1,0 +1,42 @@
+{
+  "id": "osm-13359600",
+  "slug": "broch-walk-13359600",
+  "name": "Broch Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0221297,
+    "lon": -4.4079764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13359600
+  },
+  "ai": {
+    "summary": "Broch Walk is a short, easy 2.1 km loop in the UK that combines a gentle countryside stroll with a glimpse of a historic broch site. Suitable for families and beginners seeking a relaxed day out.",
+    "terrain_summary": "Mostly flat to gently undulating paths composed of packed earth, gravel, and grass. Some sections run near historic stonework with uneven stones; expect occasional muddy patches after rain. Suitable footwear advised.",
+    "safety_notes": "Stay on marked paths and avoid climbing on or around the broch ruins. Be cautious of uneven ground and slippery surfaces when wet. Weather in the UK can change quickly; bring appropriate clothing. Supervise children and keep dogs under control and on a leash where required. Carry a mobile phone for emergencies; in remote areas signal may be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layerable clothing",
+      "Hat and sunscreen (summer)",
+      "Map or offline GPS (optional)",
+      "Small first aid kit",
+      "Camera or phone for photos",
+      "Snacks (optional)"
+    ],
+    "best_seasons": "Spring to autumn (with mud precautions in winter)",
+    "seo": {
+      "title": "Broch Walk - Easy 2.1 km UK hike",
+      "meta_description": "Explore Broch Walk, a gentle 2.1 km route in the UK featuring a historic broch site, easy terrain, and family-friendly scenery.",
+      "h1": "Broch Walk: A gentle 2.1 km stroll through historic broch sites"
+    }
+  }
+}

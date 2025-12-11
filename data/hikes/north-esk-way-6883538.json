@@ -1,0 +1,21 @@
+{
+  "id": "osm-6883538",
+  "slug": "north-esk-way-6883538",
+  "name": "North Esk Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8238938,
+    "lon": -3.2216945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6883538
+  }
+}

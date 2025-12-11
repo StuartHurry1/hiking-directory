@@ -1,0 +1,21 @@
+{
+  "id": "osm-3915864",
+  "slug": "len-valley-walk-3915864",
+  "name": "Len Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.239096,
+    "lon": 0.6642027
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3915864
+  }
+}

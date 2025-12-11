@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480255",
+  "slug": "mousa-11480255",
+  "name": "Mousa",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9954209,
+    "lon": -1.1818823
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480255
+  }
+}

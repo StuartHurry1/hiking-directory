@@ -1,0 +1,23 @@
+{
+  "id": "osm-19778418",
+  "slug": "town-brook-trail-kinver-edge-19778418",
+  "name": "Town Brook Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4362929,
+    "lon": -2.2605126
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19778418
+  }
+}

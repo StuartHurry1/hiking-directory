@@ -1,0 +1,21 @@
+{
+  "id": "osm-19331497",
+  "slug": "clytha-short-circular-walk-in-the-usk-valley-19331497",
+  "name": "Clytha Short Circular Walk in the Usk Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7714666,
+    "lon": -2.9275373
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19331497
+  }
+}

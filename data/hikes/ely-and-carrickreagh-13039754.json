@@ -1,0 +1,21 @@
+{
+  "id": "osm-13039754",
+  "slug": "ely-and-carrickreagh-13039754",
+  "name": "Ely and Carrickreagh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4166995,
+    "lon": -7.7289318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13039754
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9327614",
+  "slug": "cape-wrath-trail-fort-william-invergarry-morvich-9327614",
+  "name": "Cape Wrath Trail (Fort William → Invergarry → Morvich)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 248.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8223104,
+    "lon": -5.1059081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9327614
+  }
+}

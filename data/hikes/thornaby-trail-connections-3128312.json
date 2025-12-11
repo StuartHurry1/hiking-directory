@@ -1,0 +1,21 @@
+{
+  "id": "osm-3128312",
+  "slug": "thornaby-trail-connections-3128312",
+  "name": "Thornaby Trail Connections",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5583896,
+    "lon": -1.2784921
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3128312
+  }
+}

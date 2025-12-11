@@ -1,0 +1,21 @@
+{
+  "id": "osm-13218154",
+  "slug": "the-robbers-table-13218154",
+  "name": "The Robbers Table",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6945652,
+    "lon": -7.2868129
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13218154
+  }
+}

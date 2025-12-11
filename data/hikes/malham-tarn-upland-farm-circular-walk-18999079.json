@@ -1,0 +1,23 @@
+{
+  "id": "osm-18999079",
+  "slug": "malham-tarn-upland-farm-circular-walk-18999079",
+  "name": "Malham Tarn Upland Farm Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1021977,
+    "lon": -2.1752972
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18999079
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-15088570",
+  "slug": "majors-leap-walk-wenlock-edge-15088570",
+  "name": "Major's Leap Walk, Wenlock Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5934442,
+    "lon": -2.5735765
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15088570
+  }
+}

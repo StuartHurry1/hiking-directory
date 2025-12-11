@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865812",
+  "slug": "footpath-u64-2865812",
+  "name": "Footpath U64",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5246475,
+    "lon": -1.3803644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865812
+  }
+}

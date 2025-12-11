@@ -1,0 +1,21 @@
+{
+  "id": "osm-19550095",
+  "slug": "shottermill-to-marley-common-and-cognor-wood-walk-black-down-19550095",
+  "name": "Shottermill to Marley Common and Cognor Wood walk, Black Down",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0845795,
+    "lon": -0.7419456
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19550095
+  }
+}

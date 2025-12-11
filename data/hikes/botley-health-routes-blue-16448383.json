@@ -1,0 +1,43 @@
+{
+  "id": "osm-16448383",
+  "slug": "botley-health-routes-blue-16448383",
+  "name": "Botley Health Routes - Blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7506975,
+    "lon": -1.298239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16448383
+  },
+  "ai": {
+    "summary": "A gentle 3.6 km Blue route on the Botley Health Routes in the UK, designed for easy walkers seeking a relaxed circuit with accessible paths and local scenery.",
+    "terrain_summary": "Mostly flat or gently rolling paths with a mix of tarmac, compact gravel, and well-maintained trails. Some sections may be uneven or muddy after rain; suitable for beginners with appropriate footwear.",
+    "safety_notes": "Stay on marked paths and public rights of way. Wear sturdy footwear and bring a light rain layer. Check local conditions and daylight; start early in winter months. Carry water, a map or GPS, and let someone know your plan. Be mindful of cyclists or other pedestrians on shared sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Light weather-appropriate clothing and a layer",
+      "Light rain jacket or packable shell",
+      "Map or GPS device or fully charged phone with offline map",
+      "Small backpack",
+      "Sunscreen and hat",
+      "Basic first aid items",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; winter walks are possible with extra layers and careful footing.",
+    "seo": {
+      "title": "Botley Health Routes Blue — Easy 3.6 km Walk in the UK",
+      "meta_description": "Discover Botley Health Routes Blue, a gentle 3.6 km route in the UK. An easy walk suitable for families, with flat or rolling paths, safety tips and gear recommendations.",
+      "h1": "Botley Health Routes — Blue (3.6 km, Easy)"
+    }
+  }
+}

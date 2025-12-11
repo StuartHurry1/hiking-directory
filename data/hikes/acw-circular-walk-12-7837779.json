@@ -1,0 +1,43 @@
+{
+  "id": "osm-7837779",
+  "slug": "acw-circular-walk-12-7837779",
+  "name": "ACW Circular Walk 12",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4123706,
+    "lon": -1.3622951
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7837779
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12 is a strenuous 15.4 km circular hike in the UK. It weaves through varied terrain with steep climbs and exposed sections, demanding good fitness, navigation, and preparation.",
+    "terrain_summary": "The route combines rocky paths, muddy trails, exposed ridges, and uneven ground. Expect steep ascents and descents, potential boggy sections, and some rough terrain that may require careful footing.",
+    "safety_notes": "This is a hard hike in variable UK conditions. Check weather forecasts, wear sturdy boots with good grip, and bring waterproof clothing. Carry a map and compass (or GPS) and know how to use them. Tell someone your planned route and expected return time. Stay hydrated, bring sufficient food, and be prepared for sudden changes in light and weather. If visibility or navigation becomes difficult, turn back or seek a safe bail-out point.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Map and compass (or GPS) and know-how to use them",
+      "Hydration system (2–3 litres) and high-energy snacks",
+      "Headlamp or headtorch with spare batteries",
+      "Small first aid kit and emergency whistle",
+      "Sun protection (sunscreen, hat) and by-day clothing",
+      "Light emergency blanket or bivvy bag",
+      "Fully charged mobile with offline maps (if allowed) and a power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and weather is more predictable; avoid deep winter conditions and stormy periods if possible.",
+    "seo": {
+      "title": "ACW Circular Walk 12 – 15.4 km Hard Hike in the UK",
+      "meta_description": "Explore the ACW Circular Walk 12, a challenging 15.4 km circuit in the UK. Learn about terrain, safety tips, gear, and planning for this demanding hike.",
+      "h1": "ACW Circular Walk 12 – 15.4 km Hard Hike in the UK"
+    }
+  }
+}

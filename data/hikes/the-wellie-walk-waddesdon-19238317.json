@@ -1,0 +1,21 @@
+{
+  "id": "osm-19238317",
+  "slug": "the-wellie-walk-waddesdon-19238317",
+  "name": "The Wellie walk, Waddesdon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8445242,
+    "lon": -0.9363224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19238317
+  }
+}

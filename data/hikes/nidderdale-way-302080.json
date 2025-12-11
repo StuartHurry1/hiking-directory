@@ -1,0 +1,21 @@
+{
+  "id": "osm-302080",
+  "slug": "nidderdale-way-302080",
+  "name": "Nidderdale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 279.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.024453,
+    "lon": -1.6055256
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 302080
+  }
+}

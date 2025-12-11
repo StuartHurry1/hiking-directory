@@ -1,0 +1,23 @@
+{
+  "id": "osm-18269765",
+  "slug": "king-charles-iii-england-coast-path-minehead-to-combe-martin-18269765",
+  "name": "King Charles III England Coast Path: Minehead to Combe Martin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 109.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2114775,
+    "lon": -3.4737123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18269765
+  }
+}

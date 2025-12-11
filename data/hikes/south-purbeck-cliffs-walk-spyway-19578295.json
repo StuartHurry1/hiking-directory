@@ -1,0 +1,23 @@
+{
+  "id": "osm-19578295",
+  "slug": "south-purbeck-cliffs-walk-spyway-19578295",
+  "name": "South Purbeck cliffs walk, Spyway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6047318,
+    "lon": -2.0050094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19578295
+  }
+}

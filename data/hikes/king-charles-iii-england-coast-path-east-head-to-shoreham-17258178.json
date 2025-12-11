@@ -1,0 +1,23 @@
+{
+  "id": "osm-17258178",
+  "slug": "king-charles-iii-england-coast-path-east-head-to-shoreham-17258178",
+  "name": "King Charles III England Coast Path: East Head to Shoreham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 162.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7735819,
+    "lon": -0.9024757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17258178
+  }
+}

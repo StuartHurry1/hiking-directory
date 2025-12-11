@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772656",
+  "slug": "west-highland-way-kinlochleven-to-fort-william-19772656",
+  "name": "West Highland Way (Kinlochleven to Fort William)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 63.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7155978,
+    "lon": -4.9642815
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772656
+  }
+}

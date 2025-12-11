@@ -1,0 +1,21 @@
+{
+  "id": "osm-17684067",
+  "slug": "st-michaels-way-17684067",
+  "name": "St Michael's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1888271,
+    "lon": -5.4364875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17684067
+  }
+}

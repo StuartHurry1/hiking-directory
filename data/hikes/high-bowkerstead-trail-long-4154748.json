@@ -1,0 +1,21 @@
+{
+  "id": "osm-4154748",
+  "slug": "high-bowkerstead-trail-long-4154748",
+  "name": "High Bowkerstead Trail (Long)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3118151,
+    "lon": -3.016441
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4154748
+  }
+}

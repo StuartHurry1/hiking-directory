@@ -1,0 +1,23 @@
+{
+  "id": "osm-19792190",
+  "slug": "pencarrow-head-short-walk-lantic-bay-19792190",
+  "name": "Pencarrow Head short walk, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.332929,
+    "lon": -4.6015427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19792190
+  }
+}

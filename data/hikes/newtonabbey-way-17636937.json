@@ -1,0 +1,21 @@
+{
+  "id": "osm-17636937",
+  "slug": "newtonabbey-way-17636937",
+  "name": "Newtonabbey Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6776873,
+    "lon": -5.8953926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17636937
+  }
+}

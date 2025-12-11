@@ -1,0 +1,23 @@
+{
+  "id": "osm-19322012",
+  "slug": "hatfield-forest-and-flitch-way-walk-hatfield-forest-19322012",
+  "name": "Hatfield Forest and Flitch Way Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8674968,
+    "lon": 0.2452017
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19322012
+  }
+}

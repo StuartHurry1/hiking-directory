@@ -1,0 +1,21 @@
+{
+  "id": "osm-9797245",
+  "slug": "craflwyn-hafod-y-llan-and-llyn-dinas-walk-9797245",
+  "name": "Craflwyn, Hafod y Llan and Llyn Dinas walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0206008,
+    "lon": -4.0874404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9797245
+  }
+}

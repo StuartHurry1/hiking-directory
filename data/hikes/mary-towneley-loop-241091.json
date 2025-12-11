@@ -1,0 +1,21 @@
+{
+  "id": "osm-241091",
+  "slug": "mary-towneley-loop-241091",
+  "name": "Mary Towneley Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 195.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7388547,
+    "lon": -2.0507668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 241091
+  }
+}

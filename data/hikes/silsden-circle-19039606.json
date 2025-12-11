@@ -1,0 +1,21 @@
+{
+  "id": "osm-19039606",
+  "slug": "silsden-circle-19039606",
+  "name": "Silsden Circle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9031072,
+    "lon": -1.9429512
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19039606
+  }
+}

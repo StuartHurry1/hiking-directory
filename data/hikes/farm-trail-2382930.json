@@ -1,0 +1,21 @@
+{
+  "id": "osm-2382930",
+  "slug": "farm-trail-2382930",
+  "name": "Farm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5426334,
+    "lon": -4.671548
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2382930
+  }
+}

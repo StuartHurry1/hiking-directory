@@ -1,0 +1,21 @@
+{
+  "id": "osm-19426764",
+  "slug": "chiltern-escarpment-and-woodland-walk-central-chilterns-19426764",
+  "name": "Chiltern Escarpment and Woodland Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 54.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6365415,
+    "lon": -0.986321
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426764
+  }
+}

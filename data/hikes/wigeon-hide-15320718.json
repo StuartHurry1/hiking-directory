@@ -1,0 +1,21 @@
+{
+  "id": "osm-15320718",
+  "slug": "wigeon-hide-15320718",
+  "name": "Wigeon Hide",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7224681,
+    "lon": -2.5424616
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15320718
+  }
+}

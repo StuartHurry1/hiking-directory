@@ -1,0 +1,21 @@
+{
+  "id": "osm-5352963",
+  "slug": "dales-way-link-5352963",
+  "name": "Dales Way Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 125,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9286153,
+    "lon": -1.8305421
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5352963
+  }
+}

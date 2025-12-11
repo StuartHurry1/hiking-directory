@@ -1,0 +1,47 @@
+{
+  "id": "osm-1714000",
+  "slug": "acw-circular-walk-15-1714000",
+  "name": "ACW Circular Walk 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4576279,
+    "lon": -1.4695397
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1714000
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 15 is a challenging 29.8 km circular hike in the UK. The route traverses varied countryside and promises substantial elevation changes, making it a test of endurance and navigation for experienced hikers. The region is listed as unknown, so you should be prepared for a mix of rural tracks, field paths, and occasional road sections.",
+    "terrain_summary": "Expect a varied mix of surfaces, including country lanes, farm tracks, woodland paths, grassy slopes, and some rocky or uneven sections. The route can be muddy after rain and contains stile crossings and gates. Long ascents and descents are likely, with mixed visibility depending on weather.",
+    "safety_notes": "Prepare for long distances and potential fatigue; carry a map and compass and know how to use them. Check weather forecasts, as conditions in the UK can change quickly. Wear sturdy boots and carry extra layers and waterproofs. Stay on marked paths where possible, respect livestock, and note that several road crossings may be encountered. Pack sufficient water, snacks, and a small first-aid kit; inform someone of your planned start and finish times. If navigation or weather uncertainty is high, consider starting earlier or turning back before darkness.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Waterproof outer shell and warm layers",
+      "Daypack with at least 15–20 liters capacity",
+      "Water bottle or hydration system (2–3 liters total)",
+      "High-energy snacks and a lightweight meal option",
+      "Map, compass, and/or GPS device; fully charged",
+      "First aid kit and whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Rain cover or dry bag for electronics",
+      "Emergency blanket or space blanket",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Mobile phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are generally best for this 29.8 km circuit due to milder weather and longer daylight. Winter hiking is possible with careful planning, but expect higher precipitation, reduced visibility, and more challenging conditions.",
+    "seo": {
+      "title": "ACW Circular Walk 15 – 29.8 km Hard Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 15, a hard 29.8 km circular hike in the UK. Learn about terrain, safety tips, best gear, and when to hike.",
+      "h1": "ACW Circular Walk 15: A 29.8 km Hard UK Circular Hike"
+    }
+  }
+}

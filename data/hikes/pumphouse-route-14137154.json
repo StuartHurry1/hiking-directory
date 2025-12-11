@@ -1,0 +1,21 @@
+{
+  "id": "osm-14137154",
+  "slug": "pumphouse-route-14137154",
+  "name": "Pumphouse Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3113066,
+    "lon": 0.6385052
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14137154
+  }
+}

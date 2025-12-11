@@ -1,0 +1,46 @@
+{
+  "id": "osm-109699",
+  "slug": "arbroath-to-auchmithie-coastal-path-109699",
+  "name": "Arbroath to Auchmithie Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5608887,
+    "lon": -2.5567926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 109699
+  },
+  "ai": {
+    "summary": "A challenging 16.3 km coastal hike from Arbroath to Auchmithie along Scotland's eastern coast. The route combines cliff-top paths, rocky shorelines and short beach sections, delivering dramatic sea views and rewarding scenery for experienced hikers with good footing and weather resilience. Expect exposed sections, changing tides and varying terrain.",
+    "terrain_summary": "Rugged coastal terrain including cliff-top trails, uneven rocky slabs, grassy trods, steps, and short beach sections. Some parts are exposed with drop-offs; steady footing and good wind protection are essential. Be mindful of tides and seasonal erosion that can affect beach stretches.",
+    "safety_notes": "Plan for variable coastal weather and strong winds. Stay on marked paths and beware cliff edges, especially after rain. Check tide tables before including beach segments; avoid narrow sections during high tide or storm surges. Let someone know your plan and carry a charged phone and GPS. Wear sturdy boots, bring layers, and carry water and snacks.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and layers",
+      "Map or GPS device and compass",
+      "Water and high-energy snacks",
+      "Fully charged phone and power bank",
+      "First-aid kit",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Warm hat and gloves for cold conditions",
+      "Whistle for emergencies",
+      "Headlamp or flashlight for potential low light"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight is longer and weather is more predictable. Winter hikes can be hazardous due to strong winds, rain, and freezing seas.",
+    "seo": {
+      "title": "Arbroath to Auchmithie Coastal Path – 16.3 km Coastal Hike in Scotland (UK)",
+      "meta_description": "Explore the 16.3 km Arbroath to Auchmithie Coastal Path, a challenging Scottish coastal hike featuring cliff-top trails, beaches, and dramatic sea views along the east coast.",
+      "h1": "Arbroath to Auchmithie Coastal Path"
+    }
+  }
+}

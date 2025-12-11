@@ -1,0 +1,21 @@
+{
+  "id": "osm-14205035",
+  "slug": "stackpole-wildlife-walk-14205035",
+  "name": "Stackpole wildlife walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6136752,
+    "lon": -4.9331631
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14205035
+  }
+}

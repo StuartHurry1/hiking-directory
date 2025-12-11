@@ -1,0 +1,44 @@
+{
+  "id": "osm-16162383",
+  "slug": "ben-hope-trail-16162383",
+  "name": "Ben Hope Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.3904083,
+    "lon": -4.6329786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16162383
+  },
+  "ai": {
+    "summary": "Ben Hope Trail is an accessible 5.5 km hike in the United Kingdom, offering a gentle ascent with rewarding views of the surrounding landscape. Classified as easy, it suits families or casual walkers seeking a short hill experience without technical sections.",
+    "terrain_summary": "The route follows a well-defined grassy path with occasional rocky steps and loose scree near the summit. Expect exposed sections at higher elevations and potential boggy patches after rain. The trail climbs steadily but remains manageable for most walkers with basic fitness.",
+    "safety_notes": "Weather in the UK can change rapidly. Check a reliable forecast before you go. Wear sturdy boots, bring layers and rain protection, and carry a map and compass or GPS. Stay on the marked path, be prepared for exposure near the summit, and start early in shorter daylight months. If visibility is poor, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water",
+      "Layers and waterproof jacket",
+      "Map and compass or GPS device",
+      "Hat and sun protection",
+      "Snack/energy food",
+      "First aid kit",
+      "Lightweight emergency blanket",
+      "Headlamp or small torch",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) when paths are drier and daylight is longer; be prepared for changeable weather year-round.",
+    "seo": {
+      "title": "Ben Hope Trail – Easy 5.5 km Hike in the UK",
+      "meta_description": "Discover Ben Hope Trail, a 5.5 km easy hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to enjoy this scenic short ascent.",
+      "h1": "Ben Hope Trail: An Easy 5.5 km Hike in the UK"
+    }
+  }
+}

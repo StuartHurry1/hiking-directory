@@ -1,0 +1,21 @@
+{
+  "id": "osm-3730314",
+  "slug": "five-weirs-walk-3730314",
+  "name": "Five Weirs Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3855825,
+    "lon": -1.4635507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3730314
+  }
+}

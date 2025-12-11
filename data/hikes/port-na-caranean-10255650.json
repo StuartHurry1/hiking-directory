@@ -1,0 +1,21 @@
+{
+  "id": "osm-10255650",
+  "slug": "port-na-caranean-10255650",
+  "name": "Port na Caranean",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0094962,
+    "lon": -6.2602383
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10255650
+  }
+}

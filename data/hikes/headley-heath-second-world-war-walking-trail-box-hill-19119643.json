@@ -1,0 +1,21 @@
+{
+  "id": "osm-19119643",
+  "slug": "headley-heath-second-world-war-walking-trail-box-hill-19119643",
+  "name": "Headley Heath Second World War Walking Trail, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2710781,
+    "lon": -0.2743846
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19119643
+  }
+}

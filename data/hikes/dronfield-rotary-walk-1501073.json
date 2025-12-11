@@ -1,0 +1,21 @@
+{
+  "id": "osm-1501073",
+  "slug": "dronfield-rotary-walk-1501073",
+  "name": "Dronfield Rotary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 84.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3029432,
+    "lon": -1.5273524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1501073
+  }
+}

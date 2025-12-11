@@ -1,0 +1,21 @@
+{
+  "id": "osm-17187226",
+  "slug": "little-avon-circuit-17187226",
+  "name": "Little Avon Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5913942,
+    "lon": -2.3699677
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17187226
+  }
+}

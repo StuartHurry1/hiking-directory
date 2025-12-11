@@ -1,0 +1,43 @@
+{
+  "id": "osm-13915537",
+  "slug": "around-craig-leek-13915537",
+  "name": "Around Craig Leek",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0057829,
+    "lon": -3.3383908
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13915537
+  },
+  "ai": {
+    "summary": "Around Craig Leek is a 14 km loop hike in the UK that suits walkers with moderate fitness. The route combines rural lanes, woodland paths, and open moorland, with a few gentle ascents and rewarding views of the surrounding countryside. Plan for roughly 3.5 to 5 hours depending on pace and conditions, and be prepared for a mix of surfaced paths and muddy sections.",
+    "terrain_summary": "Expect a varied mix of surfaces: quiet country lanes, grassy tracks, and uneven, rocky, or muddy sections. Some stretches may be boggy after rain; there are gentle to moderate climbs, with occasional stile crossings and open viewpoints. Footing can be slippery in wet weather, so sturdy boots are recommended.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear sturdy, waterproof footwear and bring a weather-appropriate layer. Carry a map and compass or a GPS device, plus a charged phone as a backup. Stay on marked paths and be mindful of livestock and livestock gates. Let someone know your planned route and expected return time. Bring enough water and snacks and be prepared for changing conditions in exposed areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Personal first aid kit",
+      "Whistle and headtorch",
+      "Sun protection (hat and sunscreen)",
+      "Extra layers and a warm layer for the ascent",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is typically best for this hike in the UK; winter hikes are possible with proper gear and daylight, but conditions can be more challenging.",
+    "seo": {
+      "title": "Around Craig Leek Hike – 14 km Moderate Loop in the UK",
+      "meta_description": "Discover Around Craig Leek, a 14 km moderate loop in the UK featuring rural lanes, woodland tracks, and open moorland with rewarding views. Plan 4–5 hours.",
+      "h1": "Around Craig Leek: A 14 km Moderate Loop Hike"
+    }
+  }
+}

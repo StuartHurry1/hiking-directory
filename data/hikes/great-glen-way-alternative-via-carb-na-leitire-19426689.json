@@ -1,0 +1,21 @@
+{
+  "id": "osm-19426689",
+  "slug": "great-glen-way-alternative-via-carb-na-leitire-19426689",
+  "name": "Great Glen Way - alternative via Carb na Leitire",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3705285,
+    "lon": -4.4146622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426689
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853549",
+  "slug": "old-roads-from-afflochie-7853549",
+  "name": "Old Roads from Afflochie",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7660713,
+    "lon": -2.8594739
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853549
+  }
+}

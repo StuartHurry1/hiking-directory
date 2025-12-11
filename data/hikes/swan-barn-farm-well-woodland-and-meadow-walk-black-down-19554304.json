@@ -1,0 +1,24 @@
+{
+  "id": "osm-19554304",
+  "slug": "swan-barn-farm-well-woodland-and-meadow-walk-black-down-19554304",
+  "name": "Swan Barn Farm Well, Woodland and Meadow Walk, Black Down",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0891768,
+    "lon": -0.7084537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19554304
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osm-19568046",
+  "slug": "blea-tarn-trail-19568046",
+  "name": "Blea Tarn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4294699,
+    "lon": -3.0874718
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19568046
+  },
+  "ai": {
+    "summary": "Blea Tarn Trail is an easy, family-friendly circular hike of about 5.9 km around Blea Tarn in the Lake District (UK). The route follows well-maintained paths along the lake shore, with gentle grades and scenic views of the water and surrounding fells. It's suitable for beginners and those seeking a relaxed lakeside walk.",
+    "terrain_summary": "Primarily well-trodden paths with a mix of gravel tracks, grass, and occasional rocky sections near the water. Some sections can be muddy after rain; expect gentle ascents and descents with minimal exposure. Sections along the shoreline offer steady footing, while higher viewpoints provide gentle ascents.",
+    "safety_notes": "Conditions on the Lake District fells can change quickly. Stick to marked paths, especially near the shore; be cautious of slippery rocks when near the water. Check the weather forecast, bring waterproof clothing, and have enough water. In peak times, crowded paths may occur; keep children and dogs under control. Do not underestimate the distance in poor conditions.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy walking shoes or boots",
+      "Comfortable layers",
+      "Map or GPS device",
+      "Water and snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Lightweight first-aid kit",
+      "Emergency whistle",
+      "Phone with offline map",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (April–October) provides the best conditions with longer daylight and clearer views. Summer offers the most daylight; winter can bring ice, mud, and shorter daylight hours, making the route more challenging.",
+    "seo": {
+      "title": "Blea Tarn Trail – Easy 5.9 km Lakeside Hike in the UK",
+      "meta_description": "Discover Blea Tarn Trail, an easy 5.9 km circular hike around Blea Tarn in the Lake District. Enjoy lakeside paths, gentle terrain, and scenic views suitable for families and new hikers.",
+      "h1": "Blea Tarn Trail: Easy 5.9 km Lakeside Hike"
+    }
+  }
+}

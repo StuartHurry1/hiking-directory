@@ -1,0 +1,21 @@
+{
+  "id": "osm-18781678",
+  "slug": "three-commons-18781678",
+  "name": "Three Commons",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3684606,
+    "lon": 0.0088679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18781678
+  }
+}

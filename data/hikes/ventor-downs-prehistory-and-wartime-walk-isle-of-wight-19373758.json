@@ -1,0 +1,21 @@
+{
+  "id": "osm-19373758",
+  "slug": "ventor-downs-prehistory-and-wartime-walk-isle-of-wight-19373758",
+  "name": "Ventor Downs Prehistory and Wartime Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6035318,
+    "lon": -1.2023628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19373758
+  }
+}

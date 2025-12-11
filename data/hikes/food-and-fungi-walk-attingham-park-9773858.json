@@ -1,0 +1,21 @@
+{
+  "id": "osm-9773858",
+  "slug": "food-and-fungi-walk-attingham-park-9773858",
+  "name": "Food and Fungi Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6858713,
+    "lon": -2.6701661
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773858
+  }
+}

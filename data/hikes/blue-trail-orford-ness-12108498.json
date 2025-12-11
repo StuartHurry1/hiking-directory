@@ -1,0 +1,41 @@
+{
+  "id": "osm-12108498",
+  "slug": "blue-trail-orford-ness-12108498",
+  "name": "Blue Trail, Orford Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0892821,
+    "lon": 1.5450779
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12108498
+  },
+  "ai": {
+    "summary": "A short, easy coastal hike on the Blue Trail at Orford Ness. The route covers about 2.9 km along shingle shores, dune paths, and flat coastal tracks with sea views, suitable for most ages and abilities.",
+    "terrain_summary": "Mostly flat terrain with a mix of compact gravel paths, sandy dune tracks, and occasional boardwalks. Expect windy coastal conditions, with soft sand near the beach and uneven footing near marshy edges.",
+    "safety_notes": "Check tide times and weather before you go. Stay on marked paths and obey any access restrictions or bird nesting closures. Wear sturdy footwear and dress in layers; coastal winds can be strong. Bring water and sun protection, and follow local signage for any temporary closures or wildlife advisories.",
+    "recommended_gear": [
+      "Sturdy footwear appropriate for uneven coastal terrain",
+      "Windproof/water-resistant jacket and layered clothing",
+      "Water bottle and snacks",
+      "Sun protection: hat, sunglasses, and sunscreen",
+      "Map, compass, or GPS device",
+      "Lightweight backpack",
+      "Mobile phone with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and better visibility for scenery and wildlife; summer provides the longest daylight; winter can bring stronger winds and rougher conditions.",
+    "seo": {
+      "title": "Blue Trail, Orford Ness – Easy 2.9 km Coastal Hike",
+      "meta_description": "Explore the Blue Trail on Orford Ness: a 2.9 km easy coastal hike with flat terrain, dunes, and sea views. Practical tips, gear guidance, and best season.",
+      "h1": "Blue Trail, Orford Ness – Easy 2.9 km Coastal Hike"
+    }
+  }
+}

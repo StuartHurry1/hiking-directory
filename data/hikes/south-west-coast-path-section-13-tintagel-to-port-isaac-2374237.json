@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374237",
+  "slug": "south-west-coast-path-section-13-tintagel-to-port-isaac-2374237",
+  "name": "South West Coast Path (Section 13: Tintagel to Port Isaac)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6667844,
+    "lon": -4.7576289
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374237
+  }
+}

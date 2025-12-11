@@ -1,0 +1,21 @@
+{
+  "id": "osm-3134544",
+  "slug": "loch-of-the-lowes-path-3134544",
+  "name": "Loch of the Lowes Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.56562,
+    "lon": -3.585504
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3134544
+  }
+}

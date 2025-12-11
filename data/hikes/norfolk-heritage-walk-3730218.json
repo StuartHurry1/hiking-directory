@@ -1,0 +1,21 @@
+{
+  "id": "osm-3730218",
+  "slug": "norfolk-heritage-walk-3730218",
+  "name": "Norfolk Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3732489,
+    "lon": -1.4387405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3730218
+  }
+}

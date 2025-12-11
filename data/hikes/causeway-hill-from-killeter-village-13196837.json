@@ -1,0 +1,21 @@
+{
+  "id": "osm-13196837",
+  "slug": "causeway-hill-from-killeter-village-13196837",
+  "name": "Causeway Hill - From Killeter Village",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6674373,
+    "lon": -7.6853091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13196837
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osm-1473896",
+  "slug": "bogs-and-giants-walk-1473896",
+  "name": "Bogs & Giants Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1775566,
+    "lon": 0.8182185
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1473896
+  },
+  "ai": {
+    "summary": "An easy 2.6 km loop in the UK that traverses damp bogs and wetlands. The route is mostly flat with occasional boardwalks, making it suitable for beginners and families. Expect wet ground, open skies, and dramatic landscape features that evoke a sense of ‘giants’ in the scenery. A quick, atmospheric nature walk that can be enjoyed year-round with proper footwear.",
+    "terrain_summary": "Flat to gently rolling terrain with marshy bogs, mud patches, and intermittent boardwalks. Ground can be soft and wet; waterproof boots and quick-dry clothing are recommended. Some sections may be uneven or slippery after rain.",
+    "safety_notes": "Weather in the UK can change rapidly; dress in layers and bring a waterproof outer layer. Stay on marked paths as boggy areas can be unstable. Wear waterproof boots and bring extra socks. Carry a map or offline navigation, a charged phone, and a small amount of food and water. If hiking with children or pets, supervise closely and avoid unmarked or deep bog areas. Plan for daylight and adjust the walk if visibility or conditions deteriorate.",
+    "recommended_gear": [
+      "Waterproof hiking boots",
+      "Weatherproof jacket and extra layers",
+      "Quick-drying trousers",
+      "Backpack with water and snacks",
+      "Water bottle or hydration system",
+      "Map or offline navigation app",
+      "Mobile power bank",
+      "Trekking poles (optional)",
+      "Sunscreen and hat (seasonal)",
+      "Insect repellent",
+      "Spare socks",
+      "Emergency whistle or lightweight space blanket"
+    ],
+    "best_seasons": "Spring to autumn are ideal; winter visits are possible but boggy ground and shorter daylight hours can make conditions tougher.",
+    "seo": {
+      "title": "Bogs & Giants Walk: Easy 2.6 km UK Bog Trail",
+      "meta_description": "Discover the Bogs & Giants Walk, a short and easy 2.6 km hike through UK wetlands. Flat terrain with boggy sections and atmospheric scenery, perfect for a quick, family-friendly outdoor adventure.",
+      "h1": "Bogs & Giants Walk"
+    }
+  }
+}

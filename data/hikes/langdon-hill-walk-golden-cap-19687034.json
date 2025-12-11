@@ -1,0 +1,21 @@
+{
+  "id": "osm-19687034",
+  "slug": "langdon-hill-walk-golden-cap-19687034",
+  "name": "Langdon Hill walk, Golden Cap",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7350316,
+    "lon": -2.8330307
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19687034
+  }
+}

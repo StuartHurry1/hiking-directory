@@ -1,0 +1,21 @@
+{
+  "id": "osm-3367362",
+  "slug": "ramblers-route-sheringham-park-3367362",
+  "name": "Ramblers Route, Sheringham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9343531,
+    "lon": 1.1552288
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3367362
+  }
+}

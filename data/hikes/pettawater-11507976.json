@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507976",
+  "slug": "pettawater-11507976",
+  "name": "Pettawater",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3118688,
+    "lon": -1.2479534
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507976
+  }
+}

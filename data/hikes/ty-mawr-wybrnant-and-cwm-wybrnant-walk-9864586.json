@@ -1,0 +1,21 @@
+{
+  "id": "osm-9864586",
+  "slug": "ty-mawr-wybrnant-and-cwm-wybrnant-walk-9864586",
+  "name": "Ty Mawr Wybrnant and Cwm Wybrnant walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0522075,
+    "lon": -3.8384809
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9864586
+  }
+}

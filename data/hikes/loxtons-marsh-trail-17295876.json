@@ -1,0 +1,21 @@
+{
+  "id": "osm-17295876",
+  "slug": "loxtons-marsh-trail-17295876",
+  "name": "Loxton's Marsh Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1535348,
+    "lon": -2.7706463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17295876
+  }
+}

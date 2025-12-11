@@ -1,0 +1,21 @@
+{
+  "id": "osm-4740645",
+  "slug": "essex-way-stratford-st-mary-to-ramsey-4740645",
+  "name": "Essex Way (Stratford St Mary to Ramsey)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9607672,
+    "lon": 0.9707109
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4740645
+  }
+}

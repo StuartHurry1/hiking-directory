@@ -1,0 +1,23 @@
+{
+  "id": "osm-19035354",
+  "slug": "marloes-peninsula-coastal-walk-pembroke-19035354",
+  "name": "Marloes Peninsula Coastal Walk, Pembroke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.733063,
+    "lon": -5.2447416
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19035354
+  }
+}

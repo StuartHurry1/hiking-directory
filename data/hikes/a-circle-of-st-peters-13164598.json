@@ -1,0 +1,42 @@
+{
+  "id": "osm-13164598",
+  "slug": "a-circle-of-st-peters-13164598",
+  "name": "A Circle of St Peter's",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3360773,
+    "lon": 0.9153356
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13164598
+  },
+  "ai": {
+    "summary": "A Circle of St Peter's is a 6.2 km circular hike in the UK that combines varied paths, gentle elevation, and rural scenery around a historic site. The route is suitable for walkers with moderate fitness and offers several scenic viewpoints along the way.",
+    "terrain_summary": "The hike traverses a mix of well-maintained paths, gravel tracks, and grassy trails. Expect gentle undulations with small rises; some sections can be muddy after rain, and parts may be exposed in open countryside. Footing is generally stable, but watch for uneven stones in older sections.",
+    "safety_notes": "Check weather and daylight hours before departure. Wear sturdy boots with good grip and dress in layers. Stay on marked paths and respect private land. Bring water and a snack. Carry a map or offline navigation as GPS can be unreliable in rural areas. In winter, allow extra time for icy or muddy sections. Be mindful of other trail users and wildlife.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, rain shell)",
+      "Water bottle or hydration system",
+      "Light snacks or energy bars",
+      "Map or offline GPS device",
+      "Lightweight backpack",
+      "Hat and sunscreen (summer) / gloves (winter) as needed",
+      "Emergency whistle and small first aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn; winter walking is possible but often muddy and daylight is shorter.",
+    "seo": {
+      "title": "A Circle of St Peter's Walk – 6.2 km Moderate Circular Trail in the UK",
+      "meta_description": "Discover a 6.2 km moderate circular hike in the UK with varied terrain, scenic countryside, and practical safety tips for a rewarding day out.",
+      "h1": "A Circle of St Peter's: 6.2 km Moderate Circular Walk in the UK"
+    }
+  }
+}

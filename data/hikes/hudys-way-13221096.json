@@ -1,0 +1,21 @@
+{
+  "id": "osm-13221096",
+  "slug": "hudys-way-13221096",
+  "name": "HUDY’S WAY",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8254442,
+    "lon": -6.8246018
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13221096
+  }
+}

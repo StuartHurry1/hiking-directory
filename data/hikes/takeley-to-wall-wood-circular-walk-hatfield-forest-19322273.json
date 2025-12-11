@@ -1,0 +1,24 @@
+{
+  "id": "osm-19322273",
+  "slug": "takeley-to-wall-wood-circular-walk-hatfield-forest-19322273",
+  "name": "Takeley to Wall Wood Circular Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.3,
+  "difficulty": "hard",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8517268,
+    "lon": 0.224668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19322273
+  }
+}

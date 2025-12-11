@@ -1,0 +1,21 @@
+{
+  "id": "osm-17410892",
+  "slug": "chacewater-trail-2-the-agriculture-conservation-and-heritage-loop-17410892",
+  "name": "Chacewater Trail 2 - The Agriculture, Conservation & Heritage Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2564425,
+    "lon": -5.1564346
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17410892
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19250455",
+  "slug": "cissbury-ring-history-and-nature-trail-sussex-east-19250455",
+  "name": "Cissbury Ring History and Nature Trail, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8580631,
+    "lon": -0.3955438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19250455
+  }
+}

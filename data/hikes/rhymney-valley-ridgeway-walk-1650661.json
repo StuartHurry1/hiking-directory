@@ -1,0 +1,23 @@
+{
+  "id": "osm-1650661",
+  "slug": "rhymney-valley-ridgeway-walk-1650661",
+  "name": "Rhymney Valley Ridgeway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 84.7,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.607037,
+    "lon": -3.1583736
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1650661
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-37549",
+  "slug": "ribble-way-37549",
+  "name": "Ribble Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 288.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0432945,
+    "lon": -2.3078529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 37549
+  }
+}

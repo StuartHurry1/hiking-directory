@@ -1,0 +1,21 @@
+{
+  "id": "osm-11246016",
+  "slug": "oftord-to-canterbury-cathedral-11246016",
+  "name": "Oftord to Canterbury Cathedral",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 230.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1970307,
+    "lon": 0.9105528
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11246016
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-5166503",
+  "slug": "swans-neck-5166503",
+  "name": "Swan's Neck",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.909865,
+    "lon": -3.4125169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5166503
+  }
+}

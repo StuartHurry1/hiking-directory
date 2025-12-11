@@ -1,0 +1,21 @@
+{
+  "id": "osm-10260107",
+  "slug": "out-and-back-walk-to-harris-from-kinloch-10260107",
+  "name": "Out-and-back walk to Harris from Kinloch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0091057,
+    "lon": -6.2705874
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10260107
+  }
+}

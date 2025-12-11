@@ -1,0 +1,21 @@
+{
+  "id": "osm-9480730",
+  "slug": "jubilee-river-path-9480730",
+  "name": "Jubilee River Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5289285,
+    "lon": -0.6968223
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9480730
+  }
+}

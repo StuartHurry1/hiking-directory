@@ -1,0 +1,21 @@
+{
+  "id": "osm-16407739",
+  "slug": "frome-valley-way-16407739",
+  "name": "Frome Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 128.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.734395,
+    "lon": -2.4711363
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16407739
+  }
+}

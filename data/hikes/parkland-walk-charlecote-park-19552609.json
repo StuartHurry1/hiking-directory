@@ -1,0 +1,21 @@
+{
+  "id": "osm-19552609",
+  "slug": "parkland-walk-charlecote-park-19552609",
+  "name": "Parkland Walk, Charlecote Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2061399,
+    "lon": -1.6168537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19552609
+  }
+}

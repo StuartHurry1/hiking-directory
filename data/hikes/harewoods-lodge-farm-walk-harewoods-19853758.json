@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853758",
+  "slug": "harewoods-lodge-farm-walk-harewoods-19853758",
+  "name": "Harewoods Lodge Farm Walk, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1931763,
+    "lon": -0.0867896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853758
+  }
+}

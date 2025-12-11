@@ -1,0 +1,23 @@
+{
+  "id": "osm-19914869",
+  "slug": "fell-foot-circular-heritage-trail-fell-foot-19914869",
+  "name": "Fell Foot circular heritage trail, Fell Foot",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2761704,
+    "lon": -2.9519804
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19914869
+  }
+}

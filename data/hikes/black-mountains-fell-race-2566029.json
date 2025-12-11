@@ -1,0 +1,47 @@
+{
+  "id": "osm-2566029",
+  "slug": "black-mountains-fell-race-2566029",
+  "name": "Black Mountains Fell Race",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9269005,
+    "lon": -3.1459984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2566029
+  },
+  "ai": {
+    "summary": "The Black Mountains Fell Race is a demanding 33-kilometre mountain running challenge in the UK. Set on rugged upland terrain, it combines long ascents, exposed ridgelines, and rough surfaces. It tests endurance, navigation, and weather resilience, with significant elevation gain and variable conditions typical of British fell races.",
+    "terrain_summary": "Expect steep climbs and descents over rough open moorland, grassy tussock, rocky outcrops, scree, and boggy sections. The route traverses exposed ridges with potential wind and low visibility; footing can be loose and navigation may be required on open country and minor tracks. Wet weather can make sections slippery; summer heat can be a factor in long sections.",
+    "safety_notes": "Check official race information for course specifics. Carry a map and compass and know how to use them. Wear appropriate clothing for rapid weather changes, including a waterproof layer and an insulating layer. Bring enough food and water, a whistle, and a small first-aid kit; a headlamp is wise if there’s any chance of running after dark. Inform someone of your plan, stay with others when possible, and be prepared for remote sections with limited mobile signal. If conditions are severe, consider postponing or opting for a shorter route.",
+    "recommended_gear": [
+      "Sturdy trail running shoes or light mountaineering shoes with good grip",
+      "Hydration system (water bottle or bladder) and electrolyte fluids",
+      "Waterproof jacket and waterproof trousers",
+      "Insulating mid-layer (fleece or lightweight puffer)",
+      "Hat and gloves",
+      "Lightweight backpack or running vest (5–12 L)",
+      "Map and compass (and optional GPS device)",
+      "Whistle",
+      "First-aid kit and emergency blanket",
+      "Headlamp with extra batteries",
+      "Gaiters (optional) to reduce debris and bog",
+      "Energy snacks and gels; spare bars",
+      "Sunglasses and sun protection (depending on season)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is typically the best window for a 33 km Black Mountains fell race, offering longer daylight, more stable weather, and clearer terrain. Winter races are possible but require advanced navigation, greater endurance, and harsher conditions; plan for shorter daylight and higher risk.",
+    "seo": {
+      "title": "Black Mountains Fell Race – 33 km of hard terrain in the UK",
+      "meta_description": "Prepare for the Black Mountains Fell Race, a demanding 33 km UK endurance challenge. terrain, safety tips, gear guidance, and best seasons for this rugged fell race.",
+      "h1": "Black Mountains Fell Race: 33 km of hard terrain in the UK"
+    }
+  }
+}

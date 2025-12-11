@@ -1,0 +1,40 @@
+{
+  "id": "osm-11480058",
+  "slug": "brootham-ponies-robyns-brae-11480058",
+  "name": "Brootham Ponies, Robyns Brae",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.928379,
+    "lon": -1.2961195
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480058
+  },
+  "ai": {
+    "summary": "A short, easy 0.9 km hike in the UK on gentle trails. Suitable for families and beginners seeking a quick outdoor outing with light countryside scenery.",
+    "terrain_summary": "Mostly gentle, well-defined paths with grassy verges. Expect occasional uneven spots and damp or muddy sections after rain; footwear with good grip is recommended. Livestock may be nearby in meadow areas.",
+    "safety_notes": "Stay on marked paths. Be mindful of uneven ground and slippery surfaces when wet. Weather in the UK can change quickly; bring a waterproof layer and dress in layers. If encountering livestock, give space and pass calmly. Keep children supervised, carry a map or GPS, and ensure your phone is charged.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Water and a small snack",
+      "Map, GPS, or fully charged phone",
+      "Sun protection (hat and sunscreen)",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in late spring and summer; autumn offers vibrant scenery. Wet and muddy conditions are more common in autumn and winter.",
+    "seo": {
+      "title": "Brootham Ponies, Robyns Brae — Easy 0.9 km Hike in the UK",
+      "meta_description": "Discover the easy 0.9 km hike at Brootham Ponies, Robyns Brae in the UK. Family-friendly terrain, practical safety tips, and gear recommendations for a quick countryside outing.",
+      "h1": "Brootham Ponies, Robyns Brae — Easy 0.9 km UK Hike"
+    }
+  }
+}

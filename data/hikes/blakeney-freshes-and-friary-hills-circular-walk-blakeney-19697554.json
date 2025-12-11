@@ -1,0 +1,46 @@
+{
+  "id": "osm-19697554",
+  "slug": "blakeney-freshes-and-friary-hills-circular-walk-blakeney-19697554",
+  "name": "Blakeney Freshes and Friary Hills Circular Walk, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9560454,
+    "lon": 1.0183385
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697554
+  },
+  "ai": {
+    "summary": "A 6.2 km circular hike from Blakeney that combines wetlands at Blakeney Freshes with gentle upland sections around Friary Hills. The route offers lakeside views, wetland habitats, and rural scenery, with a moderate pace suitable for walkers with some experience.",
+    "terrain_summary": "Primarily surfaced paths and quiet country lanes, with some grassy and muddy sections near the wetlands. Expect gentle ascents on Friary Hills, occasional stiles, and soft ground after rain. Good sturdy footwear is recommended.",
+    "safety_notes": "Check weather and local conditions before starting. Paths can be muddy near the Freshes and wildlife may be near the water. Carry a map or GPS, stay on marked paths, supervise children and dogs around water, and bring adequate water and a small first aid kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Lightweight waterproof jacket",
+      "Map or offline GPS",
+      "Water bottle",
+      "Snacks",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Extra warm layer",
+      "Small first aid kit",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn, typically March to October, when paths are drier and wildlife is active.",
+    "seo": {
+      "title": "Blakeney Freshes and Friary Hills Circular Walk – 6.2 km Moderate Lakes Walk in the UK",
+      "meta_description": "Discover a 6.2 km circular hike around Blakeney Freshes and Friary Hills in the UK. A moderate route through wetlands and lakes with scenic countryside, suitable for walkers with basic experience.",
+      "h1": "Blakeney Freshes and Friary Hills Circular Walk – 6.2 km (Moderate, Lakes)"
+    }
+  }
+}

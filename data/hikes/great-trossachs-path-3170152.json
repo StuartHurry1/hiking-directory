@@ -1,0 +1,21 @@
+{
+  "id": "osm-3170152",
+  "slug": "great-trossachs-path-3170152",
+  "name": "Great Trossachs Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 142.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.272972,
+    "lon": -4.5722905
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3170152
+  }
+}

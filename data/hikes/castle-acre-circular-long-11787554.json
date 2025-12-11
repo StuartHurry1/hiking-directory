@@ -1,0 +1,21 @@
+{
+  "id": "osm-11787554",
+  "slug": "castle-acre-circular-long-11787554",
+  "name": "Castle Acre Circular (Long)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7041276,
+    "lon": 0.6922699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11787554
+  }
+}

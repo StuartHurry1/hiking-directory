@@ -1,0 +1,21 @@
+{
+  "id": "osm-10752047",
+  "slug": "yew-tree-trail-10752047",
+  "name": "Yew Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7469766,
+    "lon": -1.3350705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10752047
+  }
+}

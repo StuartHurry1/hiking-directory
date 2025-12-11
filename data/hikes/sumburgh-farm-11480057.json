@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480057",
+  "slug": "sumburgh-farm-11480057",
+  "name": "Sumburgh Farm",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.8702977,
+    "lon": -1.2834227
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480057
+  }
+}

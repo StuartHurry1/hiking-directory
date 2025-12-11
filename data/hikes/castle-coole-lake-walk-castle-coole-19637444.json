@@ -1,0 +1,23 @@
+{
+  "id": "osm-19637444",
+  "slug": "castle-coole-lake-walk-castle-coole-19637444",
+  "name": "Castle Coole Lake Walk, Castle Coole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3369144,
+    "lon": -7.5998014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19637444
+  }
+}

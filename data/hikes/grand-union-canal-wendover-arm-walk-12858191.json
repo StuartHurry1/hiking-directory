@@ -1,0 +1,21 @@
+{
+  "id": "osm-12858191",
+  "slug": "grand-union-canal-wendover-arm-walk-12858191",
+  "name": "Grand Union Canal (Wendover Arm) Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8155838,
+    "lon": -0.6534438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12858191
+  }
+}

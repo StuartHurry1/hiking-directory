@@ -1,0 +1,21 @@
+{
+  "id": "osm-13445489",
+  "slug": "woodland-trail-beinn-eighe-13445489",
+  "name": "Woodland Trail - Beinn Eighe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6306877,
+    "lon": -5.3491249
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13445489
+  }
+}

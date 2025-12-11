@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497964",
+  "slug": "gulberwick-beach-11497964",
+  "name": "Gulberwick Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.130402,
+    "lon": -1.2067983
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497964
+  }
+}

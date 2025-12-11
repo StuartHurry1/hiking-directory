@@ -1,0 +1,21 @@
+{
+  "id": "osm-1649578",
+  "slug": "rushcliffe-country-park-10km-course-1649578",
+  "name": "Rushcliffe Country Park 10km Course",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8824437,
+    "lon": -1.1513609
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1649578
+  }
+}

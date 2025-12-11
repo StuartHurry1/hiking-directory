@@ -1,0 +1,21 @@
+{
+  "id": "osm-1624090",
+  "slug": "kirklees-way-1624090",
+  "name": "Kirklees Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 384,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6223413,
+    "lon": -1.9418344
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1624090
+  }
+}

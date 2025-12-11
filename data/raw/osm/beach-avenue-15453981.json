@@ -1,0 +1,30 @@
+{
+  "id": 15453981,
+  "slug": "beach-avenue-15453981",
+  "name": "Beach Avenue",
+  "network": "lwn",
+  "tags": {
+    "designation": "carriageway",
+    "highway_authority_ref": "CD/RW/8084",
+    "name": "Beach Avenue",
+    "network": "lwn",
+    "operator": "Newry, Mourne & Down District Council",
+    "route": "foot",
+    "source": "https://www.newrymournedown.org/media/uploads/nmddc_access_to_the_countryside_procedures.pdf",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.8888571,
+      54.2113909
+    ],
+    [
+      -5.8894653,
+      54.2114913
+    ],
+    [
+      -5.8897907,
+      54.2115379
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-5509689",
+  "slug": "canons-and-cornmills-5509689",
+  "name": "Canons and Cornmills",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3012139,
+    "lon": -0.4900252
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5509689
+  }
+}

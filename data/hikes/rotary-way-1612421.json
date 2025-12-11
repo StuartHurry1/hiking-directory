@@ -1,0 +1,21 @@
+{
+  "id": "osm-1612421",
+  "slug": "rotary-way-1612421",
+  "name": "Rotary Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6183833,
+    "lon": -2.5198559
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1612421
+  }
+}

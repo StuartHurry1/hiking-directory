@@ -1,0 +1,21 @@
+{
+  "id": "osm-19010285",
+  "slug": "digital-sculpture-trail-19010285",
+  "name": "Digital Sculpture Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4567909,
+    "lon": -6.0755666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19010285
+  }
+}

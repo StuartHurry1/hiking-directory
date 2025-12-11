@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374165",
+  "slug": "south-west-coast-path-section-11-bude-to-crackington-haven-2374165",
+  "name": "South West Coast Path (Section 11: Bude to Crackington Haven)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8283777,
+    "lon": -4.5475442
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374165
+  }
+}

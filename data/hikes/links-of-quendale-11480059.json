@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480059",
+  "slug": "links-of-quendale-11480059",
+  "name": "Links of Quendale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.8943292,
+    "lon": -1.3158594
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480059
+  }
+}

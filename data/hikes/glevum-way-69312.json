@@ -1,0 +1,21 @@
+{
+  "id": "osm-69312",
+  "slug": "glevum-way-69312",
+  "name": "Glevum Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 110.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8566315,
+    "lon": -2.2693517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 69312
+  }
+}

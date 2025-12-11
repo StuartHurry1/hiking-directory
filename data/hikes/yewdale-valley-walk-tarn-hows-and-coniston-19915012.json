@@ -1,0 +1,23 @@
+{
+  "id": "osm-19915012",
+  "slug": "yewdale-valley-walk-tarn-hows-and-coniston-19915012",
+  "name": "Yewdale Valley walk, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3823544,
+    "lon": -3.0610138
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19915012
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2403828",
+  "slug": "stanley-walk-2403828",
+  "name": "Stanley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.591161,
+    "lon": -2.3682028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2403828
+  }
+}

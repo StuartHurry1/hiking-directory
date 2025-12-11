@@ -1,0 +1,21 @@
+{
+  "id": "osm-295757",
+  "slug": "illey-way-295757",
+  "name": "Illey Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4448319,
+    "lon": -2.0132455
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 295757
+  }
+}

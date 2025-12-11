@@ -1,0 +1,21 @@
+{
+  "id": "osm-2185449",
+  "slug": "jewellery-quarter-heritage-trail-2185449",
+  "name": "Jewellery Quarter Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4905586,
+    "lon": -1.912265
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2185449
+  }
+}

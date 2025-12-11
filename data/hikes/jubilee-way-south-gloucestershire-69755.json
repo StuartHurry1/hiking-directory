@@ -1,0 +1,21 @@
+{
+  "id": "osm-69755",
+  "slug": "jubilee-way-south-gloucestershire-69755",
+  "name": "Jubilee Way (South Gloucestershire)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 47.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6029274,
+    "lon": -2.6236413
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 69755
+  }
+}

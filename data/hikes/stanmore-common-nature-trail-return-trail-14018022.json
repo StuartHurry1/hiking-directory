@@ -1,0 +1,21 @@
+{
+  "id": "osm-14018022",
+  "slug": "stanmore-common-nature-trail-return-trail-14018022",
+  "name": "Stanmore Common Nature Trail - Return Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6344786,
+    "lon": -0.3281462
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14018022
+  }
+}

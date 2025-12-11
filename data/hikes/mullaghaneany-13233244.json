@@ -1,0 +1,21 @@
+{
+  "id": "osm-13233244",
+  "slug": "mullaghaneany-13233244",
+  "name": "Mullaghaneany",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.84648,
+    "lon": -6.9004834
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13233244
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-15568583",
+  "slug": "barnes-trail-15568583",
+  "name": "Barnes Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4714704,
+    "lon": -0.2464775
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15568583
+  },
+  "ai": {
+    "summary": "Barnes Trail is a 7.3 km moderate hike in the United Kingdom with varied terrain and steady pacing. The route provides a rewarding day on the trails for hikers with some experience, while remaining accessible to fit walkers who are prepared for mixed surfaces.",
+    "terrain_summary": "Expect a mix of compact forest tracks, grassy sections, and occasional rocky or muddy patches. The surface alternates between well-marked paths and narrower, uneven trails; hikers should be prepared for light elevation gains and weather-driven conditions.",
+    "safety_notes": "Plan for changing weather; wear sturdy footwear; stay on marked paths; carry a map and compass or GPS; bring water, snacks, and a warm, waterproof layer; carry a charged phone; tell someone your route and expected return time; be cautious on muddy or slippery sections and watch footing on rocky segments.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (waterproof jacket and warm layer)",
+      "Water bottle or hydration system (at least 1–2 liters)",
+      "Trail map and/or GPS device",
+      "Phone with offline maps",
+      "Headlamp or flashlight",
+      "Small first aid kit",
+      "Whistle and emergency blanket",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (winter can be icy and muddy).",
+    "seo": {
+      "title": "Barnes Trail - 7.3 km Moderate Hike in the UK",
+      "meta_description": "Explore Barnes Trail, a 7.3 km moderately challenging hike in the UK with varied terrain, practical safety tips, and gear recommendations for a safe day on the trail.",
+      "h1": "Barnes Trail - 7.3 km Moderate Hike (UK)"
+    }
+  }
+}

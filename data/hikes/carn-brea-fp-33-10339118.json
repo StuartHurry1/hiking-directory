@@ -1,0 +1,21 @@
+{
+  "id": "osm-10339118",
+  "slug": "carn-brea-fp-33-10339118",
+  "name": "Carn Brea FP 33",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2215082,
+    "lon": -5.2673618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10339118
+  }
+}

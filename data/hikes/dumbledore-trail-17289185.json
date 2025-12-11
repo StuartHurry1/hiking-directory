@@ -1,0 +1,21 @@
+{
+  "id": "osm-17289185",
+  "slug": "dumbledore-trail-17289185",
+  "name": "Dumbledore Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6941415,
+    "lon": -2.0387573
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17289185
+  }
+}

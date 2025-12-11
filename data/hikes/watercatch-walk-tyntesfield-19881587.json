@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881587",
+  "slug": "watercatch-walk-tyntesfield-19881587",
+  "name": "Watercatch walk, Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4412315,
+    "lon": -2.7197894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881587
+  }
+}

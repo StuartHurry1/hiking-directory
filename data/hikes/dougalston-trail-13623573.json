@@ -1,0 +1,21 @@
+{
+  "id": "osm-13623573",
+  "slug": "dougalston-trail-13623573",
+  "name": "Dougalston Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.947619,
+    "lon": -4.2951423
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13623573
+  }
+}

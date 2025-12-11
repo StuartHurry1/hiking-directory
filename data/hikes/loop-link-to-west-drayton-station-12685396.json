@@ -1,0 +1,21 @@
+{
+  "id": "osm-12685396",
+  "slug": "loop-link-to-west-drayton-station-12685396",
+  "name": "LOOP link to West Drayton station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5110919,
+    "lon": -0.4729829
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12685396
+  }
+}

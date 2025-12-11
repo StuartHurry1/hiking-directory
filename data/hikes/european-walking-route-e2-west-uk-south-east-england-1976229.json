@@ -1,0 +1,23 @@
+{
+  "id": "osm-1976229",
+  "slug": "european-walking-route-e2-west-uk-south-east-england-1976229",
+  "name": "European walking route E2 west, UK, South East England",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 424.3,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8971969,
+    "lon": -1.6376178
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1976229
+  }
+}

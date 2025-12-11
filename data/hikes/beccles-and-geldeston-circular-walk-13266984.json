@@ -1,0 +1,45 @@
+{
+  "id": "osm-13266984",
+  "slug": "beccles-and-geldeston-circular-walk-13266984",
+  "name": "Beccles and Geldeston circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4642707,
+    "lon": 1.5667496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13266984
+  },
+  "ai": {
+    "summary": "A challenging 29.4 km circular hike in the United Kingdom that links Beccles and Geldeston. The route traverses rural farmland, river and canal paths, and country lanes. It offers varied scenery but requires good navigation, stamina, and preparedness for a full-day hike.",
+    "terrain_summary": "Predominantly rural paths, field tracks and village lanes with sections along watercourses. Expect muddy fields after rain, occasional grassy slopes, stiles, and potential temporary boggy ground. The surface alternates between compact paths and uneven terrain, with some exposure to weather.",
+    "safety_notes": "This is a long, hard day on foot. Check weather and daylight hours before you go. Wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Bring a map and compass or GPS, plus a fully charged phone and a power bank. Carry plenty of water and high-energy snacks, a basic first‑aid kit, a whistle, and emergency contact info. Let someone know your planned route and expected finish time. Respect landowners and waymark signs; be mindful of livestock and farm gates. In winter, expect reduced daylight and more mud; adjust your plans accordingly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Thermal layers, hat and gloves for cold days",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system (at least 1–2 liters)",
+      "High-energy snacks and a light meal",
+      "Small first-aid kit",
+      "Whistle and emergency blanket",
+      "Mobile phone with portable charger",
+      "Sun protection (sunscreen, sunglasses) for sunny days",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal; winter hikes can be challenging due to mud, shorter daylight and higher flood risk.",
+    "seo": {
+      "title": "Beccles and Geldeston Circular Walk – 29.4 km Hard Hike in the UK",
+      "meta_description": "Explore the Beccles and Geldeston Circular Walk, a 29.4 km challenging UK hike through rural landscapes. Terrain notes, safety tips and gear for this long-distance route.",
+      "h1": "Beccles and Geldeston Circular Walk — 29.4 km (Hard) UK"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "osm-10286451",
+  "slug": "camborne-fp-51-10286451",
+  "name": "Camborne FP 51",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.197424,
+    "lon": -5.2776875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10286451
+  },
+  "ai": {
+    "summary": "Camborne FP 51 is a very short, easy 0.4 km hike in the UK along a maintained footpath. Ideal for beginners and families seeking a quick outdoor stroll.",
+    "terrain_summary": "Predominantly flat and well-defined surface—gravel or compacted dirt—with occasional grassy patches. Generally easy underfoot, though rain can make parts muddy.",
+    "safety_notes": "Always check the weather before you go; UK conditions can change rapidly. Wear sturdy, comfortable footwear and dress in layers. The route is short, but be mindful of rain or mud; some sections may be slippery when wet. Stay on the designated footpath, share the trail with other walkers or cyclists where present, and keep an eye out for livestock on rural sections. Bring water and a charged phone; daylight hours can affect safety in winter.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof layer",
+      "Water",
+      "Sunscreen or hat (seasonal)",
+      "Map or offline GPS / charged phone"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round with appropriate clothing",
+    "seo": {
+      "title": "Camborne FP 51: Short Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore Camborne FP 51, a tiny 0.4 km easy hike on a maintained UK footpath. Learn terrain, safety tips, and what gear to bring for a quick stroll.",
+      "h1": "Camborne FP 51 — Short Easy 0.4 km Footpath Hike"
+    }
+  }
+}

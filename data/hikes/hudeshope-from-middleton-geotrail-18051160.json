@@ -1,0 +1,21 @@
+{
+  "id": "osm-18051160",
+  "slug": "hudeshope-from-middleton-geotrail-18051160",
+  "name": "Hudeshope from Middleton Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6261561,
+    "lon": -2.0838692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051160
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507506",
+  "slug": "uyeasound-to-muness-11507506",
+  "name": "Uyeasound to Muness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6894078,
+    "lon": -0.916122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507506
+  }
+}

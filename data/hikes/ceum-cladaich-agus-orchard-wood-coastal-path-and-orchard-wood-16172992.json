@@ -1,0 +1,23 @@
+{
+  "id": "osm-16172992",
+  "slug": "ceum-cladaich-agus-orchard-wood-coastal-path-and-orchard-wood-16172992",
+  "name": "Ceum cladaich agus Orchard Wood / Coastal Path and Orchard Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3545619,
+    "lon": -6.0712048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16172992
+  }
+}

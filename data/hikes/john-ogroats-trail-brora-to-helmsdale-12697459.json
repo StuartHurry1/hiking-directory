@@ -1,0 +1,21 @@
+{
+  "id": "osm-12697459",
+  "slug": "john-ogroats-trail-brora-to-helmsdale-12697459",
+  "name": "John O'Groats Trail (Brora to Helmsdale)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0115731,
+    "lon": -3.8532457
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12697459
+  }
+}

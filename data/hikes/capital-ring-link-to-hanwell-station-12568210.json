@@ -1,0 +1,21 @@
+{
+  "id": "osm-12568210",
+  "slug": "capital-ring-link-to-hanwell-station-12568210",
+  "name": "Capital Ring link to Hanwell station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5112869,
+    "lon": -0.3435523
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12568210
+  }
+}

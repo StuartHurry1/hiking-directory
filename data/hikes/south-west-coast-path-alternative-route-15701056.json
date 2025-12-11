@@ -1,0 +1,23 @@
+{
+  "id": "osm-15701056",
+  "slug": "south-west-coast-path-alternative-route-15701056",
+  "name": "South West Coast Path (alternative route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6165548,
+    "lon": -1.9575123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15701056
+  }
+}

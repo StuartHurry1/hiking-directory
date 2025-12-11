@@ -1,0 +1,21 @@
+{
+  "id": "osm-16760595",
+  "slug": "cave-hill-trail-16760595",
+  "name": "Cave Hill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.646651,
+    "lon": -5.9431921
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16760595
+  }
+}

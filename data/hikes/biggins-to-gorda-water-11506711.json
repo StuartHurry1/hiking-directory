@@ -1,0 +1,40 @@
+{
+  "id": "osm-11506711",
+  "slug": "biggins-to-gorda-water-11506711",
+  "name": "Biggins to Gorda Water",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3254901,
+    "lon": -1.6803776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506711
+  },
+  "ai": {
+    "summary": "A very short, easy hike spanning about 1 km between Biggins and Gorda Water in the United Kingdom. The route is suitable for beginners and families, with a gentle, water-side path and minimal elevation change.",
+    "terrain_summary": "Predominantly flat, well-maintained water-side path. Expect compact gravel or packed earth, with occasional grassy sections. Possible muddiness after rain near the water.",
+    "safety_notes": "Always check local weather conditions. Wear sturdy walking shoes and bring a rain jacket. Stay on the path and keep a safe distance from the water's edge. Supervise children and pets. Carry water, sunscreen, and a charged phone; be mindful of other walkers and cyclists.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes",
+      "Light waterproof jacket",
+      "Snack",
+      "Phone with offline map or GPS",
+      "Small first-aid kit (optional but useful)"
+    ],
+    "best_seasons": "All year, with the most pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Biggins to Gorda Water – 1 km Easy Hike in the UK",
+      "meta_description": "Explore a short, easy 1 km hike from Biggins to Gorda Water in the United Kingdom. Flat, water-side trail, practical safety tips, and gear recommendations.",
+      "h1": "Biggins to Gorda Water: A 1 km Easy Hike in the UK"
+    }
+  }
+}

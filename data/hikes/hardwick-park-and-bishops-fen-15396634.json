@@ -1,0 +1,21 @@
+{
+  "id": "osm-15396634",
+  "slug": "hardwick-park-and-bishops-fen-15396634",
+  "name": "Hardwick Park & Bishop's Fen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.65305,
+    "lon": -1.4685685
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15396634
+  }
+}

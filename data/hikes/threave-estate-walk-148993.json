@@ -1,0 +1,21 @@
+{
+  "id": "osm-148993",
+  "slug": "threave-estate-walk-148993",
+  "name": "Threave Estate Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9311791,
+    "lon": -3.9511984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 148993
+  }
+}

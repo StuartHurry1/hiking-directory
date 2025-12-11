@@ -1,0 +1,21 @@
+{
+  "id": "osm-14594958",
+  "slug": "leitir-fura-trail-14594958",
+  "name": "Leitir Fura Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1757551,
+    "lon": -5.7539768
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594958
+  }
+}

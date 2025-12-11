@@ -1,0 +1,21 @@
+{
+  "id": "osm-5525996",
+  "slug": "grayswood-walk-scc-5525996",
+  "name": "Grayswood walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1034747,
+    "lon": -0.6904096
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5525996
+  }
+}

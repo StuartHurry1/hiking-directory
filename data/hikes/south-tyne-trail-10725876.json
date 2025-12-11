@@ -1,0 +1,21 @@
+{
+  "id": "osm-10725876",
+  "slug": "south-tyne-trail-10725876",
+  "name": "South Tyne Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 47.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7120141,
+    "lon": -2.3847681
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10725876
+  }
+}

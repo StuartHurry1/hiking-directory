@@ -1,0 +1,21 @@
+{
+  "id": "osm-1806461",
+  "slug": "lynford-stag-walk-1806461",
+  "name": "Lynford Stag Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4949764,
+    "lon": 0.6710647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1806461
+  }
+}

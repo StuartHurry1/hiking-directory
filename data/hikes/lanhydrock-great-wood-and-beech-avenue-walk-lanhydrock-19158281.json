@@ -1,0 +1,21 @@
+{
+  "id": "osm-19158281",
+  "slug": "lanhydrock-great-wood-and-beech-avenue-walk-lanhydrock-19158281",
+  "name": "Lanhydrock Great Wood and Beech Avenue walk, Lanhydrock",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4469793,
+    "lon": -4.697543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19158281
+  }
+}

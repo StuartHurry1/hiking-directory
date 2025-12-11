@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209126",
+  "slug": "chedgrave-circular-18209126",
+  "name": "Chedgrave Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5412191,
+    "lon": 1.4840939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209126
+  }
+}

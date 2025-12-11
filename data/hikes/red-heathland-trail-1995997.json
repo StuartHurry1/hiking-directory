@@ -1,0 +1,21 @@
+{
+  "id": "osm-1995997",
+  "slug": "red-heathland-trail-1995997",
+  "name": "Red Heathland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3895177,
+    "lon": 0.8717358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1995997
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-9563545",
+  "slug": "brecks-trail-9563545",
+  "name": "Brecks Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4362303,
+    "lon": 0.6251876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9563545
+  },
+  "ai": {
+    "summary": "Brecks Trail is a long and demanding 23.7 km hike in the UK. With steep ascents, rocky and uneven sections, and potential boggy patches, it is best tackled by experienced hikers equipped with good navigational skills.",
+    "terrain_summary": "The route features a mix of rocky paths, grassy moorland, and forest tracks. Expect steep climbs, uneven footing, exposed sections, and occasional mud; navigation can be challenging in poor visibility.",
+    "safety_notes": "Plan for a full-day hike. Check weather and daylight hours; carry a map and compass or reliable navigation device. Wear sturdy boots, bring warm and waterproof layers, sufficient water and snacks, a first aid kit, headlamp, and a means of communication. Share your route and timings with someone, and be prepared for changing conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Windproof/waterproof jacket and layers",
+      "Water bottle or hydration system",
+      "High-energy snacks and a light meal",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Hat and gloves if cold",
+      "Phone with offline maps and power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October; avoid harsh winter conditions).",
+    "seo": {
+      "title": "Brecks Trail – 23.7 km hard hike in the UK",
+      "meta_description": "Plan your Brecks Trail hike: a challenging 23.7 km long-distance trail in the UK with varied terrain, safety tips, and gear recommendations. Ideal for experienced hikers.",
+      "h1": "Brecks Trail: 23.7 km hard hike in the UK"
+    }
+  }
+}

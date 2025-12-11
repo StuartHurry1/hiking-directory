@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168639",
+  "slug": "three-choirs-way-withington-to-stanford-bishop-6168639",
+  "name": "Three Choirs Way (Withington to Stanford Bishop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 170.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1213275,
+    "lon": -2.5579024
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168639
+  }
+}

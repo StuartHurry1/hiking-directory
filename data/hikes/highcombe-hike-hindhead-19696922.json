@@ -1,0 +1,21 @@
+{
+  "id": "osm-19696922",
+  "slug": "highcombe-hike-hindhead-19696922",
+  "name": "Highcombe Hike, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1222617,
+    "lon": -0.7336716
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19696922
+  }
+}

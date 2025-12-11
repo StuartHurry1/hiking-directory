@@ -1,0 +1,43 @@
+{
+  "id": "osm-18081370",
+  "slug": "braeriach-trail-18081370",
+  "name": "Braeriach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1448623,
+    "lon": -3.6797062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18081370
+  },
+  "ai": {
+    "summary": "Braeriach Trail is a short, easy hike in the UK covering about 0.6 km. The region is listed as unknown, making it a quick, beginner-friendly stroll suitable for a light outdoor activity.",
+    "terrain_summary": "A short, gently graded path with minimal elevation gain. The surface is typically well-defined, with occasional uneven patches or small rocks depending on seasonal conditions. Suitable for a casual walk and accessible to most hikers.",
+    "safety_notes": "Check weather and daylight conditions before you go. Wear sturdy walking shoes and bring a light layer. Stay on the marked trail, and carry water and a small first aid kit. In upland or remote areas, conditions can change rapidly; inform someone of your plan and have a means to contact help if needed.",
+    "recommended_gear": [
+      "Water",
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Light rain jacket or windbreaker",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Map or GPS-enabled device / smartphone",
+      "Small backpack",
+      "Snacks",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn; year-round hiking is possible, but winter conditions can be harsh with reduced daylight.",
+    "seo": {
+      "title": "Braeriach Trail — 0.6 km Easy Hike in the UK",
+      "meta_description": "Explore the Braeriach Trail, a short 0.6 km easy hike in the UK. Learn about terrain, safety tips, best seasons, and gear recommendations.",
+      "h1": "Braeriach Trail: 0.6 km Easy Hike in the UK"
+    }
+  }
+}

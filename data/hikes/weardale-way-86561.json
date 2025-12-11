@@ -1,0 +1,21 @@
+{
+  "id": "osm-86561",
+  "slug": "weardale-way-86561",
+  "name": "Weardale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 333.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7834062,
+    "lon": -2.2737457
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 86561
+  }
+}

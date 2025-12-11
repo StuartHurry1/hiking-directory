@@ -1,0 +1,21 @@
+{
+  "id": "osm-1971895",
+  "slug": "middy-railway-footpath-1971895",
+  "name": "Middy Railway Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2243341,
+    "lon": 0.9880845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1971895
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-5385992",
+  "slug": "gynack-mill-trail-5385992",
+  "name": "Gynack Mill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0798154,
+    "lon": -4.0530063
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5385992
+  }
+}

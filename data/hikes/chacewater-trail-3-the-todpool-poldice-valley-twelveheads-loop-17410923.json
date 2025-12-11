@@ -1,0 +1,21 @@
+{
+  "id": "osm-17410923",
+  "slug": "chacewater-trail-3-the-todpool-poldice-valley-twelveheads-loop-17410923",
+  "name": "Chacewater Trail 3 - The Todpool, Poldice Valley, Twelveheads Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2564425,
+    "lon": -5.1564346
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17410923
+  }
+}

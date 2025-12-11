@@ -1,0 +1,46 @@
+{
+  "id": "osm-19400405",
+  "slug": "bradenham-chiltern-hills-valleys-and-woodlands-walk-bradenham-19400405",
+  "name": "Bradenham: Chiltern Hills, Valleys and Woodlands Walk, Bradenham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6656739,
+    "lon": -0.8042939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400405
+  },
+  "ai": {
+    "summary": "A challenging 34.2 km circuit from Bradenham through the Chiltern Hills, valleys, and woodlands. The route blends rolling chalk downs, woodland tracks, and hedgerows, with significant elevation changes. Best suited for experienced hikers with solid navigation and good fitness.",
+    "terrain_summary": "Undulating chalk downland, forest paths, and woodland trails. Expect a mix of well-trodden paths, narrower sections, fields with stiles, and potential mud after rain. Some exposed sections with changing weather in the Chilterns; ensure appropriate footwear and footing.",
+    "safety_notes": "This is a long, hard hike; plan for a full day or longer. Elevation changes and uneven surfaces require sturdy footwear and good fitness. UK weather can change quickly—bring layers, a waterproof layer, and sun protection. Navigation aids (map and compass or GPS) are recommended; mobile signal may be limited in parts of the Chilterns, so inform someone of your plan. Carry enough water and snacks, and have a contingency plan for weather or trail closures. Consider shortening the route or breaking it into segments if conditions are poor.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Hat, sunglasses, and sun protection",
+      "Snacks and energy bars",
+      "First aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight (for late finishes or low light)",
+      "Trekking poles (optional)",
+      "Insect repellent and sunscreen",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring (Mar–May) and autumn (Sep–Nov) offer milder temperatures and pleasant scenery. Summer can be hot with longer exposure to the sun; winter may involve mud, ice, and reduced daylight. Always check local conditions before starting.",
+    "seo": {
+      "title": "Bradenham: Chiltern Hills Valleys and Woodlands Walk – 34.2 km Hard Hike in the UK",
+      "meta_description": "Explore the Bradenham route through the Chiltern Hills' valleys and woodlands. A challenging 34.2 km hike in the UK with varied terrain, safety tips, and gear recommendations.",
+      "h1": "Bradenham: Chiltern Hills Valleys and Woodlands Walk (34.2 km) – Hard Hike"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-19062461",
+  "slug": "bosherton-lily-ponds-trail-at-stackpole-estate-19062461",
+  "name": "Bosherton Lily Ponds Trail at stackpole Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6155346,
+    "lon": -4.9377955
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19062461
+  },
+  "ai": {
+    "summary": "A scenic 11.2 km hike through the Bosherton Lily Ponds Trail at Stackpole Estate, featuring tranquil lily ponds, woodland paths, and coastal scenery along the Pembrokeshire coast.",
+    "terrain_summary": "Mostly well-maintained paths with a mix of flat trails and gentle inclines; boardwalks around the lily ponds; some grassy sections and occasional mud after rain; expect uneven ground in some sections.",
+    "safety_notes": "Check weather conditions and tide times before starting. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, especially near ponds and coastal edges. Be mindful of mud after rain and potential livestock in parts of Stackpole Estate. Carry a map or GPS and sufficient water.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Water and snacks",
+      "Map or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Camera or binoculars",
+      "Light rain cover or backpack rain cover"
+    ],
+    "best_seasons": "Spring to autumn (March–October), with peak bloom of lilies and best wildlife viewing in late spring and summer.",
+    "seo": {
+      "title": "Bosherton Lily Ponds Trail at Stackpole Estate – 11.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the 11.2 km Bosherton Lily Ponds Trail at Stackpole Estate, Pembrokeshire, UK. A moderate hike with tranquil ponds, woodland paths, and coastal scenery suitable for most outdoors enthusiasts.",
+      "h1": "Bosherton Lily Ponds Trail at Stackpole Estate – 11.2 km, Moderate Hike in the UK"
+    }
+  }
+}

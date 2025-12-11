@@ -1,0 +1,21 @@
+{
+  "id": "osm-29302",
+  "slug": "dales-way-29302",
+  "name": "Dales Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 319.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9291909,
+    "lon": -1.8345143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 29302
+  }
+}

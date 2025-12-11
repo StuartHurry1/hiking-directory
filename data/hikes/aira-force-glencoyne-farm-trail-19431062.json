@@ -1,0 +1,43 @@
+{
+  "id": "osm-19431062",
+  "slug": "aira-force-glencoyne-farm-trail-19431062",
+  "name": "Aira Force Glencoyne Farm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5614477,
+    "lon": -2.9497959
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19431062
+  },
+  "ai": {
+    "summary": "Aira Force Glencoyne Farm Trail is a roughly 9.1 km moderate hike in the UK. The route combines farm lanes, woodland paths, and river views around the Glencoyne Farm area and Aira Force region. It suits hikers with moderate fitness seeking varied terrain and scenic spots.",
+    "terrain_summary": "Mostly well-defined trails with a mix of grassy tracks, woodland paths, and some rocky or uneven sections. Expect several short ascents and descents, plus muddy patches after rain. Footing can be uneven near the waterfall and riverbanks.",
+    "safety_notes": "Check the forecast and plan for UK weather; stay on marked paths; be cautious on wet and uneven ground, especially near Aira Force and along river sections; wear sturdy footwear and bring layers; carry water, snacks, and a map or GPS; mobile reception may be limited in rural parts; tell someone your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Backpack with snacks and water",
+      "Map, compass, or GPS device",
+      "Hat and gloves (seasonal)",
+      "Trail snacks and a small first aid kit",
+      "Extra mid-layer / fleece",
+      "Trekking poles (optional but helpful)",
+      "Rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly May–October) are ideal for this hike, with milder weather and clearer paths. Winter visits are possible but expect mud, ice, and more challenging footing.",
+    "seo": {
+      "title": "Aira Force Glencoyne Farm Trail - 9.1 km Moderate Hike in the UK",
+      "meta_description": "Discover the 9.1 km Aira Force Glencoyne Farm Trail in the UK. A moderate hike featuring farm landscapes, woodland paths, and river views. Practical safety tips and gear included.",
+      "h1": "Aira Force Glencoyne Farm Trail – 9.1 km Moderate Hike in the UK"
+    }
+  }
+}

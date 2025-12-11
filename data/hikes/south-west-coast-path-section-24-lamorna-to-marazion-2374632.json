@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374632",
+  "slug": "south-west-coast-path-section-24-lamorna-to-marazion-2374632",
+  "name": "South West Coast Path (Section 24: Lamorna to Marazion)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0626968,
+    "lon": -5.5643062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374632
+  }
+}

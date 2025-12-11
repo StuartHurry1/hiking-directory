@@ -1,0 +1,21 @@
+{
+  "id": "osm-13159793",
+  "slug": "severn-way-2-shrewsbury-to-worcester-13159793",
+  "name": "Severn Way (2) Shrewsbury to Worcester",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 175.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7221516,
+    "lon": -2.7321952
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13159793
+  }
+}

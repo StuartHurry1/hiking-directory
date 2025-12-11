@@ -1,0 +1,21 @@
+{
+  "id": "osm-9621393",
+  "slug": "dunkery-and-horner-wood-circular-walk-9621393",
+  "name": "Dunkery and Horner Wood circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1835471,
+    "lon": -3.5713589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9621393
+  }
+}

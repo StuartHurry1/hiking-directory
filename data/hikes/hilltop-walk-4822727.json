@@ -1,0 +1,21 @@
+{
+  "id": "osm-4822727",
+  "slug": "hilltop-walk-4822727",
+  "name": "Hilltop Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.679798,
+    "lon": -5.9213291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4822727
+  }
+}

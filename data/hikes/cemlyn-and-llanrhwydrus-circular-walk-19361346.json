@@ -1,0 +1,21 @@
+{
+  "id": "osm-19361346",
+  "slug": "cemlyn-and-llanrhwydrus-circular-walk-19361346",
+  "name": "Cemlyn and Llanrhwydrus Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4121987,
+    "lon": -4.5156115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19361346
+  }
+}

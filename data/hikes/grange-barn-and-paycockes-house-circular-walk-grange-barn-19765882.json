@@ -1,0 +1,23 @@
+{
+  "id": "osm-19765882",
+  "slug": "grange-barn-and-paycockes-house-circular-walk-grange-barn-19765882",
+  "name": "Grange Barn and Paycocke's House Circular Walk, Grange Barn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8674877,
+    "lon": 0.6849419
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19765882
+  }
+}

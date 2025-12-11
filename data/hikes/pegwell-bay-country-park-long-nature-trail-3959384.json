@@ -1,0 +1,23 @@
+{
+  "id": "osm-3959384",
+  "slug": "pegwell-bay-country-park-long-nature-trail-3959384",
+  "name": "Pegwell Bay Country Park Long Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3214955,
+    "lon": 1.3614159
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3959384
+  }
+}

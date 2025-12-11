@@ -1,0 +1,21 @@
+{
+  "id": "osm-8705196",
+  "slug": "olney-circular-walk-8705196",
+  "name": "Olney Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1504793,
+    "lon": -0.7021517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8705196
+  }
+}

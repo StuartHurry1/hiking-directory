@@ -1,0 +1,21 @@
+{
+  "id": "osm-13952807",
+  "slug": "salford-trail-13952807",
+  "name": "Salford Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 98.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4992425,
+    "lon": -2.2715037
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13952807
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-4082615",
+  "slug": "pennine-way-crowden-to-standedge-4082615",
+  "name": "Pennine Way (Crowden to Standedge)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4882936,
+    "lon": -1.8982137
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4082615
+  }
+}

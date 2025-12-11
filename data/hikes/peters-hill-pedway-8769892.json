@@ -1,0 +1,21 @@
+{
+  "id": "osm-8769892",
+  "slug": "peters-hill-pedway-8769892",
+  "name": "Peter's Hill pedway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5115245,
+    "lon": -0.0983883
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769892
+  }
+}

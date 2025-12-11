@@ -1,0 +1,40 @@
+{
+  "id": "osm-10024418",
+  "slug": "ambarrow-hill-circuit-10024418",
+  "name": "Ambarrow Hill Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.357636,
+    "lon": -0.815965
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10024418
+  },
+  "ai": {
+    "summary": "A short, easy 2.5 km circular hike around Ambarrow Hill in the UK. The route stays on gentle paths around a small hill, making it suitable for families, beginners, and casual walkers seeking a relaxed outdoor experience.",
+    "terrain_summary": "Mostly firm, well-marked paths with gentle rises. Some sections may be grassy or uneven and can become muddy after rain. Expect occasional stones and gates or stiles; footwear with good grip is recommended.",
+    "safety_notes": "Check the forecast and daylight before setting out. Wear sturdy footwear and bring appropriate clothing for the conditions. Stay on the official paths and observe any signs. Take water and a light snack. Be mindful of other walkers and livestock if present. Supervise children and pets. Carry a map or a charged phone with location access. In an emergency in the UK, dial 999.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a small snack",
+      "Light waterproof jacket",
+      "Extra layers and a hat",
+      "Map or offline navigation on a phone",
+      "Sun protection in sunny weather"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; the route is accessible year-round but winter conditions may be colder and muddier.",
+    "seo": {
+      "title": "Ambarrow Hill Circuit Walk – Easy 2.5 km Circular Hike in the UK",
+      "meta_description": "Explore the Ambarrow Hill Circuit, a gentle 2.5 km circular hike in the UK. Easy terrain, family-friendly and beginner-friendly, with practical tips and gear.",
+      "h1": "Ambarrow Hill Circuit: Easy 2.5 km Circular Hike in the UK"
+    }
+  }
+}

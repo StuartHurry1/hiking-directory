@@ -1,0 +1,44 @@
+{
+  "id": "osm-12359546",
+  "slug": "brent-river-park-footpath-12359546",
+  "name": "Brent River Park footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5367126,
+    "lon": -0.2853792
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12359546
+  },
+  "ai": {
+    "summary": "A challenging 27.8 km long-distance hike along the Brent River Park footpath in the UK. The route combines urban parkland, riverbank trails and mixed-surface paths, suited to seasoned hikers with good navigation.",
+    "terrain_summary": "Expect a mix of surfaces: tarmac and gravel on park paths, boardwalks over damp areas, grassy trails, and some uneven sections with roots. Riverbank sections can be slippery when wet. There are occasional stairs and urban street crossings, with variable lighting in shaded areas.",
+    "safety_notes": "Plan for a lengthy day on foot; check weather and river conditions if relevant; carry a map or GPS, and inform someone of your planned route and timing. Wear sturdy waterproof footwear and weather-appropriate clothing. Stay on the marked paths, watch for cars at crossings, and be mindful of other park users. Bring enough water and snacks, a charged phone, a first aid kit, and a light in case you are out near dusk. In wet conditions, be prepared for slippery surfaces and possible mud.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layered)",
+      "Map or offline GPS",
+      "Water bottle and high-energy snacks",
+      "Lightweight rain jacket",
+      "First aid kit",
+      "Whistle and fully charged mobile phone",
+      "Headlamp or spare flashlight with extra batteries",
+      "Small backpack with rain cover",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers the best conditions for this hike, with longer daylight and drier surfaces. The route can be tackled in winter with adequate gear and shorter daylight.",
+    "seo": {
+      "title": "Brent River Park Footpath – 27.8 km Hard Hike in the UK",
+      "meta_description": "A detailed guide to the 27.8 km Brent River Park footpath hike in the UK. Terrain, safety tips, gear recommendations and best seasons for a challenging day on the trails.",
+      "h1": "Brent River Park Footpath: 27.8 km Hard Hike in the UK"
+    }
+  }
+}

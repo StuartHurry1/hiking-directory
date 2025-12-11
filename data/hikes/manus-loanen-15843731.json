@@ -1,0 +1,21 @@
+{
+  "id": "osm-15843731",
+  "slug": "manus-loanen-15843731",
+  "name": "Manus' Loanen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0613167,
+    "lon": -5.9976504
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15843731
+  }
+}

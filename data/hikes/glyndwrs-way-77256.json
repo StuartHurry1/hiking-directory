@@ -1,0 +1,21 @@
+{
+  "id": "osm-77256",
+  "slug": "glyndwrs-way-77256",
+  "name": "Glyndŵr's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 547,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6585425,
+    "lon": -3.1445242
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77256
+  }
+}

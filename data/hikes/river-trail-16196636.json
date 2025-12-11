@@ -1,0 +1,21 @@
+{
+  "id": "osm-16196636",
+  "slug": "river-trail-16196636",
+  "name": "River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3325053,
+    "lon": -6.4433024
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16196636
+  }
+}

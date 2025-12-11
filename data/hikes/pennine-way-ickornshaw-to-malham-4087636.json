@@ -1,0 +1,21 @@
+{
+  "id": "osm-4087636",
+  "slug": "pennine-way-ickornshaw-to-malham-4087636",
+  "name": "Pennine Way (Ickornshaw to Malham)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0606483,
+    "lon": -2.1529542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4087636
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "osm-12814155",
+  "slug": "burlingham-wood-circular-walk-12814155",
+  "name": "Burlingham Wood Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6364162,
+    "lon": 1.4934491
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12814155
+  },
+  "ai": {
+    "summary": "Burlingham Wood Circular Walk is a long and demanding woodland circuit in the UK. At about 27.9 km, this hard-rated route is best suited to experienced hikers with good navigation and endurance. Expect varied terrain across forest tracks, open clearings, and undulating sections as you loop back to the start.",
+    "terrain_summary": "Primarily forest trails and woodland paths with mixed surfaces: compact dirt, roots, and potential mud in wet weather. Some short grass or gravel sections and occasional open clearings. Elevation varies, with gentle to moderate climbs and descents; expect uneven ground and occasional wet and slippery patches.",
+    "safety_notes": "Plan for a long day and hydrate adequately. Check weather and daylight hours before starting. Carry a map and compass; do not rely solely on a phone GPS. Stay on waymarked routes and inform someone of your plan and expected return. Wear sturdy boots and dress in layers with waterproof outerwear. Bring snacks and water for the full hike, a first-aid kit, a charged phone, and a basic emergency whistle. Be prepared for muddy, uneven ground, brambles in overgrown sections, and varying visibility in woodlands. If hiking solo, consider a personal locator beacon or similar safety arrangement.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Breathable base layers plus insulating mid-layer",
+      "Hat and gloves for cooler weather",
+      "Backpack 20–30 L with rain cover",
+      "Water and high-energy snacks (plus electrolyte drink)",
+      "Map and compass (and/or reliable GPS device) with offline backup",
+      "Fully charged phone with emergency contacts",
+      "Personal first-aid kit",
+      "Headtorch or flashlight with spare batteries",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional) or hiking poles",
+      "Extra dry clothes for after the hike"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is generally best for this hike due to longer daylight and drier conditions; winters bring shorter days, more mud, and colder weather.",
+    "seo": {
+      "title": "Burlingham Wood Circular Walk - 27.9 km Hard Trail in the UK",
+      "meta_description": "Explore Burlingham Wood Circular Walk, a challenging 27.9 km circular hike in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Burlingham Wood Circular Walk – 27.9 km Hard Circular Trail"
+    }
+  }
+}

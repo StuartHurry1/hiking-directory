@@ -1,0 +1,44 @@
+{
+  "id": "osm-15910044",
+  "slug": "budshead-wood-blue-walking-route-15910044",
+  "name": "Budshead Wood Blue Walking Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4167063,
+    "lon": -4.1692184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15910044
+  },
+  "ai": {
+    "summary": "A short, easy 3 km woodland loop through Budshead Wood, marked by blue waymarkers. The route is ideal for families, dog walkers, and casual hikers seeking a gentle, shaded stroll in the UK.",
+    "terrain_summary": "Predominantly even, compact forest paths with occasional roots and gentle gradients. Expect shaded woodland, damp patches after rain, and well-maintained surfaces suitable for most footwear.",
+    "safety_notes": "Check the weather before you go and wear sturdy walking shoes. Watch for mud, uneven ground, and low-hanging branches. In UK woodlands, ticks can be present; keep to marked paths, check pets and children regularly, and perform a quick tick check after your hike. The route may share paths with cyclists, so stay alert and give way where indicated. Mobile signal can be patchy in deeper woods.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof layer",
+      "Snacks or energy bar",
+      "Map or offline route (or a downloaded map on your phone)",
+      "Sunscreen and hat (summer)",
+      "Insect repellent",
+      "Small first aid kit",
+      "Phone with offline map",
+      "Leash for dogs (if applicable)"
+    ],
+    "best_seasons": "Spring to Autumn; suitable year-round in dry, well-maintained conditions.",
+    "seo": {
+      "title": "Budshead Wood Blue Walking Route — 3 km Easy Woodland Walk in the UK",
+      "meta_description": "Explore Budshead Wood Blue Walking Route, a 3 km easy woodland trail in the UK. Perfect for families and casual hikers seeking a shaded, gentle stroll.",
+      "h1": "Budshead Wood Blue Walking Route — 3 km Easy Woodland Walk"
+    }
+  }
+}

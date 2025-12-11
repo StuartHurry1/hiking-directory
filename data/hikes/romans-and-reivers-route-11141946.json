@@ -1,0 +1,21 @@
+{
+  "id": "osm-11141946",
+  "slug": "romans-and-reivers-route-11141946",
+  "name": "Romans and Reivers Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 136.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1949366,
+    "lon": -3.5983055
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11141946
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-13116104",
+  "slug": "bury-to-clare-walk-13116104",
+  "name": "Bury to Clare Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2273118,
+    "lon": 0.7281703
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13116104
+  },
+  "ai": {
+    "summary": "The Bury to Clare Walk is a 6.4 km moderate hike in the UK that links Bury with the historic town of Clare, following rural lanes and footpaths through open countryside. The route offers straightforward navigation, scenic farmland views, and a mix of surface types, making it suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Expect mixed terrain: tarmac or compacted gravel paths near villages, grassy lanes and field edges, occasional muddy sections after rain, and gentle gradients with occasional stiles. The surface quality can vary with weather, so sturdy footwear and a dry bag are useful.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Trails pass through farmland—keep gates closed and watch for livestock. Weather and ground conditions can change quickly; wear layers and waterproofs, and carry a map or GPS. Let someone know your planned route and expected return. Bring water, a small first aid kit, and a fully charged phone. Take care on wet grass and uneven paths, and be cautious at stiles and road crossings.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Water and snacks",
+      "Map and/or fully charged phone with offline navigation",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Lightweight backpack",
+      "Compass or GPS device",
+      "Headtorch if hiking near dusk",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring (Mar–May) and autumn (Sep–Nov) typically offer pleasant conditions and fewer crowds. Summer can be warm, while winter walks are possible with proper gear and daylight; always check weather and ground conditions.",
+    "seo": {
+      "title": "Bury to Clare Walk – 6.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the Bury to Clare Walk, a 6.4 km moderate trek through rural UK countryside. Learn about the route, terrain, safety tips, best seasons, and what to bring.",
+      "h1": "Bury to Clare Walk (6.4 km) – A Moderate UK Hike"
+    }
+  }
+}

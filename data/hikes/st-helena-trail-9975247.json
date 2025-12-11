@@ -1,0 +1,21 @@
+{
+  "id": "osm-9975247",
+  "slug": "st-helena-trail-9975247",
+  "name": "St Helena Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2894957,
+    "lon": 1.6116123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9975247
+  }
+}

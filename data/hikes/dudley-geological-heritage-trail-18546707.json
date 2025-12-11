@@ -1,0 +1,21 @@
+{
+  "id": "osm-18546707",
+  "slug": "dudley-geological-heritage-trail-18546707",
+  "name": "Dudley Geological Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5116622,
+    "lon": -2.0853357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18546707
+  }
+}

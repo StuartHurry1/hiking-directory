@@ -1,0 +1,21 @@
+{
+  "id": "osm-6727863",
+  "slug": "torpel-way-6727863",
+  "name": "Torpel Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6110392,
+    "lon": -0.3327161
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6727863
+  }
+}

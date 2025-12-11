@@ -1,0 +1,40 @@
+{
+  "id": "osm-15479213",
+  "slug": "bog-lane-15479213",
+  "name": "Bog Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3419536,
+    "lon": -5.8428738
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15479213
+  },
+  "ai": {
+    "summary": "Bog Lane is a very short, easy hike in the UK, perfect for beginners. At only 0.5 km, it provides a quick outdoor experience along a local lane with flat terrain and minimal ascent.",
+    "terrain_summary": "Flat, level terrain along a short local lane. Surfaces are typically paved or compacted; expect occasional grassy verges and potential roadside exposure.",
+    "safety_notes": "Short distance but stay alert for vehicles on the lane. Wear sturdy, comfortable footwear. Check weather and daylight; bring water. Use sun protection in dry conditions. If visibility or traffic is a concern, walk with a companion along the safer side of the lane.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Light rain jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Phone with offline map",
+      "Small daypack"
+    ],
+    "best_seasons": "Spring through autumn offer the most comfortable conditions; year-round hiking is possible with appropriate clothing and daylight.",
+    "seo": {
+      "title": "Bog Lane Walk — Easy 0.5 km UK Hike",
+      "meta_description": "Discover Bog Lane, a short and easy 0.5 km hike in the UK. Ideal for beginners with flat terrain, practical safety tips, and essential gear.",
+      "h1": "Bog Lane Walk (0.5 km) – Easy UK Hike"
+    }
+  }
+}

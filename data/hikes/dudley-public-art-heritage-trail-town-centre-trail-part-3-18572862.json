@@ -1,0 +1,21 @@
+{
+  "id": "osm-18572862",
+  "slug": "dudley-public-art-heritage-trail-town-centre-trail-part-3-18572862",
+  "name": "Dudley Public Art Heritage Trail (Town Centre Trail Part 3)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5107886,
+    "lon": -2.0816384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18572862
+  }
+}

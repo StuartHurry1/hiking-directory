@@ -1,0 +1,21 @@
+{
+  "id": "osm-9706112",
+  "slug": "itchen-valley-woodland-nature-trail-9706112",
+  "name": "Itchen Valley Woodland Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9450428,
+    "lon": -1.3396991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9706112
+  }
+}

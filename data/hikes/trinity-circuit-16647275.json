@@ -1,0 +1,21 @@
+{
+  "id": "osm-16647275",
+  "slug": "trinity-circuit-16647275",
+  "name": "Trinity Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7272964,
+    "lon": -2.6379631
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647275
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-18720087",
+  "slug": "alder-coppice-yellow-path-18720087",
+  "name": "Alder Coppice: Yellow Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.551228,
+    "lon": -2.1284318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18720087
+  },
+  "ai": {
+    "summary": "A short, easy woodland stroll along the Yellow Path in Alder Coppice. At 0.4 km, this gentle forest walk is suitable for all ages and abilities, offering shaded woodland ambience and a peaceful connection with nature in the UK.",
+    "terrain_summary": "Flat, well-maintained woodland track with a compacted earth surface. The Yellow Path is clearly marked through Alder Coppice, with occasional roots and a light canopy.",
+    "safety_notes": "Stay on the marked path, wear sturdy footwear, and be mindful of uneven ground or roots. Check the weather, carry a light waterproof layer if rain is forecast, and bring water. In UK woodlands, be aware of ticks and seasonal wildlife. Tell someone your plan if you’re going alone, and keep pets on a short leash.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water or a small drink bottle",
+      "Light rain jacket or layer",
+      "Map or fully charged mobile phone",
+      "Sunscreen or hat (for sunny days)"
+    ],
+    "best_seasons": "Spring to autumn (March–October) are ideal for this short woodland walk; the route is generally accessible year-round with appropriate clothing.",
+    "seo": {
+      "title": "Alder Coppice: Yellow Path — Easy 0.4 km Forest Walk in the UK",
+      "meta_description": "Discover Alder Coppice on the Yellow Path, a brief and easy 0.4 km woodland stroll in the UK. Perfect for families and beginners seeking a calm forest experience.",
+      "h1": "Alder Coppice: Yellow Path"
+    }
+  }
+}

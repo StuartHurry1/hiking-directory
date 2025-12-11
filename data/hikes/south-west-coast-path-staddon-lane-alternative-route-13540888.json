@@ -1,0 +1,23 @@
+{
+  "id": "osm-13540888",
+  "slug": "south-west-coast-path-staddon-lane-alternative-route-13540888",
+  "name": "South West Coast Path (Staddon Lane Alternative Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3461299,
+    "lon": -4.1206938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13540888
+  }
+}

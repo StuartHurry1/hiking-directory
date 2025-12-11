@@ -1,0 +1,41 @@
+{
+  "id": "osm-18622234",
+  "slug": "cally-loch-and-hatton-circular-18622234",
+  "name": "Cally Loch and Hatton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5752842,
+    "lon": -3.5913297
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18622234
+  },
+  "ai": {
+    "summary": "A gentle 5.8 km circular hike around Cally Loch and Hatton in the UK. The route follows loch edges and through light woodland, offering easy walking with occasional gentle rises. Suitable for beginners, families, and casual walkers.",
+    "terrain_summary": "Mostly even terrain with a mix of grass paths, gravel tracks, and a short boardwalk by the water. Watch for mud after rain and in shaded woodland areas. Some sections may be exposed to wind along the loch.",
+    "safety_notes": "Weather in the UK can change quickly, so dress in layers and bring waterproofs. The trail is generally well marked, but mud is possible after rain; wear sturdy footwear. Stay on marked paths and be mindful of cyclists on shared sections. There may be livestock and occasional road crossings; keep dogs under control. Mobile signal can be limited in rural parts; carry a map or offline route, a whistle, and tell someone your planned return time.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Waterproof jacket and extra layered clothing",
+      "Comfortable clothing suitable for 5.8 km",
+      "Small backpack with water and snacks",
+      "Map or offline route download; charged phone",
+      "Sunscreen and insect repellent (seasonal)",
+      "Hat and gloves (seasonal)"
+    ],
+    "best_seasons": "Spring to Autumn; winter visits are possible with extra caution and waterproofing.",
+    "seo": {
+      "title": "Cally Loch and Hatton Circular Walk – 5.8 km Easy UK Hike",
+      "meta_description": "Explore the Cally Loch and Hatton Circular, a gentle 5.8 km loop in the UK. Easy terrain, scenic lochs, and woodland paths suitable for most walkers.",
+      "h1": "Cally Loch and Hatton Circular Walk"
+    }
+  }
+}

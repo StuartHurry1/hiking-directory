@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774106",
+  "slug": "marsden-deer-hill-walk-19774106",
+  "name": "Marsden Deer Hill Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6013717,
+    "lon": -1.912742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774106
+  }
+}

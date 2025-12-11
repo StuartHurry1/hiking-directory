@@ -1,0 +1,21 @@
+{
+  "id": "osm-18020615",
+  "slug": "cawston-circular-18020615",
+  "name": "Cawston Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7681945,
+    "lon": 1.1155355
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18020615
+  }
+}

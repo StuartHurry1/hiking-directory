@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374227",
+  "slug": "south-west-coast-path-section-12-crackington-haven-to-tintagel-2374227",
+  "name": "South West Coast Path (Section 12: Crackington Haven to Tintagel)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7406954,
+    "lon": -4.6324615
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374227
+  }
+}

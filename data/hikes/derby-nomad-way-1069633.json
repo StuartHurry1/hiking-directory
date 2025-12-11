@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069633",
+  "slug": "derby-nomad-way-1069633",
+  "name": "Derby Nomad Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 275.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9426267,
+    "lon": -1.3279299
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069633
+  }
+}

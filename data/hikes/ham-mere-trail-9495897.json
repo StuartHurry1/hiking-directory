@@ -1,0 +1,23 @@
+{
+  "id": "osm-9495897",
+  "slug": "ham-mere-trail-9495897",
+  "name": "Ham Mere Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5592806,
+    "lon": -0.3041299
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9495897
+  }
+}

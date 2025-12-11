@@ -1,0 +1,21 @@
+{
+  "id": "osm-934892",
+  "slug": "cross-cotswold-pathway-934892",
+  "name": "Cross Cotswold Pathway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 80.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0566227,
+    "lon": -1.4789849
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 934892
+  }
+}

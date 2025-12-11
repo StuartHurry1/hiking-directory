@@ -1,0 +1,21 @@
+{
+  "id": "osm-226880",
+  "slug": "weaver-parkway-226880",
+  "name": "Weaver Parkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.204671,
+    "lon": -2.5668454
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 226880
+  }
+}

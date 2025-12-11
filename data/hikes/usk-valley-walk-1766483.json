@@ -1,0 +1,21 @@
+{
+  "id": "osm-1766483",
+  "slug": "usk-valley-walk-1766483",
+  "name": "Usk Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 85.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9096612,
+    "lon": -3.3235812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1766483
+  }
+}

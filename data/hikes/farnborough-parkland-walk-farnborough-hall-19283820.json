@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283820",
+  "slug": "farnborough-parkland-walk-farnborough-hall-19283820",
+  "name": "Farnborough Parkland Walk, Farnborough Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1415926,
+    "lon": -1.3752545
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283820
+  }
+}

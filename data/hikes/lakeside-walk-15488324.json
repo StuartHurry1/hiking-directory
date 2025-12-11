@@ -1,0 +1,23 @@
+{
+  "id": "osm-15488324",
+  "slug": "lakeside-walk-15488324",
+  "name": "Lakeside walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9625964,
+    "lon": -1.5369009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15488324
+  }
+}

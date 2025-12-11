@@ -1,0 +1,21 @@
+{
+  "id": "osm-2402054",
+  "slug": "kelvin-walkway-2402054",
+  "name": "Kelvin Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9184706,
+    "lon": -4.2742984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2402054
+  }
+}

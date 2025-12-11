@@ -1,0 +1,41 @@
+{
+  "id": "osm-19400472",
+  "slug": "aberglaslyn-llyn-dinas-and-cwm-bychan-walk-19400472",
+  "name": "Aberglaslyn, Llyn Dinas and Cwm Bychan walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9945774,
+    "lon": -4.0916348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400472
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km loop in Snowdonia linking Aberglaslyn, Llyn Dinas and Cwm Bychan. Ideal for a quick stroll with mild elevation, woodland paths, and valley views; suitable for families and beginners.",
+    "terrain_summary": "Mostly well-maintained trails with grassy paths, compact gravel, and occasional rocky or muddy sections. Some areas may be uneven and damp, especially after rain, with gentle gradients and a few exposed edges near viewpoints.",
+    "safety_notes": "This is an easy, short walk but conditions can change. Wear sturdy footwear and weather-appropriate clothing. Paths can be muddy and slippery after rain. Stay on marked trails, watch for uneven surfaces and near edges, and supervise children closely. Carry a map or offline navigation and a charged phone; daylight hours can be limited in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Light rain jacket or shell",
+      "Water and a small snack",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation (or GPS on phone)",
+      "Phone with charged battery"
+    ],
+    "best_seasons": "All year, with spring to autumn offering the most comfortable conditions; winter visits can be windy, wet, and more challenging.",
+    "seo": {
+      "title": "Aberglaslyn, Llyn Dinas and Cwm Bychan Walk – Easy 0.7 km in Snowdonia, UK",
+      "meta_description": "Discover the easy 0.7 km Aberglaslyn, Llyn Dinas and Cwm Bychan walk in Snowdonia, North Wales. A gentle loop with woodland trails, river views and valley scenery, suitable for families.",
+      "h1": "Aberglaslyn, Llyn Dinas and Cwm Bychan Walk – Easy 0.7 km Snowdonia Trail"
+    }
+  }
+}

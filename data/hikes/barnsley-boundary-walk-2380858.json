@@ -1,0 +1,48 @@
+{
+  "id": "osm-2380858",
+  "slug": "barnsley-boundary-walk-2380858",
+  "name": "Barnsley Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 191.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5498947,
+    "lon": -1.6807669
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2380858
+  },
+  "ai": {
+    "summary": "The Barnsley Boundary Walk is a challenging 191.2 km long-distance circuit around the Barnsley area in the United Kingdom. This hard route combines rural farmland, moorland paths, canal towpaths, and occasional urban stretches, demanding stamina, solid navigation skills, and reliable weather protection from experienced hikers.",
+    "terrain_summary": "Expect a varied mix of terrain, including quiet country lanes, hedged fields, woodlands, canal towpaths, muddy footpaths, and both gradual and steep ascents. The route traverses open moorland sections, exposed stretches, and periods of uneven or rugged footing. Much of the way follows public rights of way and minor roads; footing is generally good on established paths but can be very muddy after rain. Navigation can be challenging at times due to long distances between waypoints.",
+    "safety_notes": "This is a long and physically demanding hike. Plan for variable UK weather, shorter daylight hours in winter, and potential road sections. Do not attempt without adequate preparation: carry OS maps or a GPS device, a charged phone, a reliable map-reading method, a first aid kit, and enough food and water. Tell someone your route and expected return times, start early, and be prepared to shorten or split the hike if weather deteriorates. Take care on road crossings and ensure you have high-visibility clothing in low light. In wet conditions, be aware of slippery paths and boggy patches; in winter, anticipate cold temperatures and strong winds, and adjust gear accordingly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and pants",
+      "Insulating layers and a warm hat/gloves",
+      "Rucksack 20–30L with a dry bag for electronics",
+      "2–3 litres of water, plus electrolyte drinks; water purification method",
+      "OS map (1:25k or 1:50k) and a compass; or a GPS device",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Emergency whistle and high-visibility vest or jacket",
+      "Sunscreen, sunglasses, and lip balm",
+      "Energy-dense snacks and meals; trekking nutrition",
+      "Spare socks and blister prevention",
+      "Rain cover for pack; optional trekking poles",
+      "Thermal layers for cold or windy conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is typically the best window for this long-distance hike, offering longer daylight, milder weather, and clearer trails. Winter treks are possible but require careful planning and a higher tolerance for cold, wind, and mud.",
+    "seo": {
+      "title": "Barnsley Boundary Walk – 191.2 km Hard-Distance UK Trek",
+      "meta_description": "Explore the Barnsley Boundary Walk, a 191.2 km challenging circuit in the UK. Learn about terrain, safety tips, gear lists, and the best seasons for this demanding route.",
+      "h1": "Barnsley Boundary Walk: 191.2 km Hard-Distance UK Trek"
+    }
+  }
+}

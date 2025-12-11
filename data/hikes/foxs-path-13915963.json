@@ -1,0 +1,21 @@
+{
+  "id": "osm-13915963",
+  "slug": "foxs-path-13915963",
+  "name": "Fox's Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7251585,
+    "lon": -3.9200023
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13915963
+  }
+}

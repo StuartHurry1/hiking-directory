@@ -1,0 +1,21 @@
+{
+  "id": "osm-19248319",
+  "slug": "shropshire-way-stage-02-19248319",
+  "name": "Shropshire Way - stage 02",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5627515,
+    "lon": -2.8961075
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19248319
+  }
+}

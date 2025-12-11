@@ -1,0 +1,21 @@
+{
+  "id": "osm-5619921",
+  "slug": "loch-kinord-trail-5619921",
+  "name": "Loch Kinord Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0848065,
+    "lon": -2.9428389
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5619921
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14514800",
+  "slug": "lea-valley-walk-14514800",
+  "name": "Lea Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5270787,
+    "lon": -0.0082232
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14514800
+  }
+}

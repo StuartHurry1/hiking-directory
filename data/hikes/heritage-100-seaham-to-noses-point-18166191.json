@@ -1,0 +1,21 @@
+{
+  "id": "osm-18166191",
+  "slug": "heritage-100-seaham-to-noses-point-18166191",
+  "name": "Heritage 100 - Seaham to Nose's Point",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8265388,
+    "lon": -1.3232402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18166191
+  }
+}

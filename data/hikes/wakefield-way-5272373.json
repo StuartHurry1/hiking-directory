@@ -1,0 +1,21 @@
+{
+  "id": "osm-5272373",
+  "slug": "wakefield-way-5272373",
+  "name": "Wakefield Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 268.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6078478,
+    "lon": -1.4701849
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5272373
+  }
+}

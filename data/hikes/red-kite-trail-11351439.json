@@ -1,0 +1,21 @@
+{
+  "id": "osm-11351439",
+  "slug": "red-kite-trail-11351439",
+  "name": "Red Kite Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9431784,
+    "lon": -1.7103159
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11351439
+  }
+}

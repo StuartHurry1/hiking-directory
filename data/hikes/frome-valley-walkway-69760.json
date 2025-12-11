@@ -1,0 +1,21 @@
+{
+  "id": "osm-69760",
+  "slug": "frome-valley-walkway-69760",
+  "name": "Frome Valley Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 70,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5299292,
+    "lon": -2.3586338
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 69760
+  }
+}

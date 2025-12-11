@@ -1,0 +1,21 @@
+{
+  "id": "osm-2857119",
+  "slug": "footpath-u52-2857119",
+  "name": "Footpath U52",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5514067,
+    "lon": -1.3308015
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2857119
+  }
+}

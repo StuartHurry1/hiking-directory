@@ -1,0 +1,21 @@
+{
+  "id": "osm-12870297",
+  "slug": "lea-valley-walk-link-to-leagrave-station-12870297",
+  "name": "Lea Valley Walk (link to Leagrave Station)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9053256,
+    "lon": -0.4588374
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12870297
+  }
+}

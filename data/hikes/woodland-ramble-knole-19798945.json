@@ -1,0 +1,21 @@
+{
+  "id": "osm-19798945",
+  "slug": "woodland-ramble-knole-19798945",
+  "name": "Woodland Ramble, Knole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2679624,
+    "lon": 0.2046475
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19798945
+  }
+}

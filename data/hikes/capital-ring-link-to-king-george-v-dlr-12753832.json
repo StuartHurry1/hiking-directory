@@ -1,0 +1,21 @@
+{
+  "id": "osm-12753832",
+  "slug": "capital-ring-link-to-king-george-v-dlr-12753832",
+  "name": "Capital Ring link to King George V DLR",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4987874,
+    "lon": 0.061724
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12753832
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14217263",
+  "slug": "colinton-timeline-railings-14217263",
+  "name": "Colinton Timeline Railings",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9072376,
+    "lon": -3.2561449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14217263
+  }
+}

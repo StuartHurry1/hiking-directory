@@ -1,0 +1,42 @@
+{
+  "id": "osm-2418267",
+  "slug": "6-of-the-best-circular-walk-2418267",
+  "name": "6 of the best Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0201693,
+    "lon": -1.2799956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2418267
+  },
+  "ai": {
+    "summary": "A collection of six easy circular walks across the UK designed for beginners and families. Each route is compact and returns to its starting point, roughly 1.7 km in length, on flat or gently rolling terrain.",
+    "terrain_summary": "Predominantly flat, well-marked paths with mixed surfaces such as tarmac, compact gravel, and short woodland sections. Most routes are suitable for prams and wheelchairs, though a few surfaces may be uneven or damp after rain.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy footwear and dress for changing conditions. Carry water and a light snack, and stay on designated paths. Keep dogs on a short leash where required, and observe local rules in parks and nature reserves. Be mindful of other walkers, cyclists, and potential crossings.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map, guidebook, or offline directions",
+      "Light snack",
+      "Small backpack",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round appeal, with spring and autumn offering pleasant scenery; summer provides longer daylight and easier conditions; winter walks are shorter and require warmer gear.",
+    "seo": {
+      "title": "Six Easy Circular Walks in the UK — Short, Flat 1.7 km Routes",
+      "meta_description": "Discover six easy circular walks in the UK, each around 1.7 km. Ideal for families and beginners with flat terrain and simple paths.",
+      "h1": "Six Easy Circular Walks in the UK"
+    }
+  }
+}

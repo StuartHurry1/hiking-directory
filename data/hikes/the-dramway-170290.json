@@ -1,0 +1,21 @@
+{
+  "id": "osm-170290",
+  "slug": "the-dramway-170290",
+  "name": "The Dramway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4307845,
+    "lon": -2.4819673
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 170290
+  }
+}

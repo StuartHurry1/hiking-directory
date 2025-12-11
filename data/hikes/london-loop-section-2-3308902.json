@@ -1,0 +1,23 @@
+{
+  "id": "osm-3308902",
+  "slug": "london-loop-section-2-3308902",
+  "name": "London LOOP (Section 2)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4408349,
+    "lon": 0.1487865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3308902
+  }
+}

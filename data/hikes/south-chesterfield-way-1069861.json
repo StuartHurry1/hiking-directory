@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069861",
+  "slug": "south-chesterfield-way-1069861",
+  "name": "South Chesterfield Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.166848,
+    "lon": -1.4221804
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069861
+  }
+}

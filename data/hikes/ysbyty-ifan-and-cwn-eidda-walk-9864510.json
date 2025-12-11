@@ -1,0 +1,21 @@
+{
+  "id": "osm-9864510",
+  "slug": "ysbyty-ifan-and-cwn-eidda-walk-9864510",
+  "name": "Ysbyty Ifan and Cwn Eidda Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.024058,
+    "lon": -3.7274438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9864510
+  }
+}

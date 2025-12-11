@@ -1,0 +1,21 @@
+{
+  "id": "osm-8482539",
+  "slug": "crofters-woods-walk-8482539",
+  "name": "Crofters Woods Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8284208,
+    "lon": -5.1255122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8482539
+  }
+}

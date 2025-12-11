@@ -1,0 +1,21 @@
+{
+  "id": "osm-19770094",
+  "slug": "walk-at-ankerwycke-19770094",
+  "name": "Walk at Ankerwycke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4487532,
+    "lon": -0.55494
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19770094
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14734805",
+  "slug": "multi-use-trail-14734805",
+  "name": "Multi-Use Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8120365,
+    "lon": 1.2267032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14734805
+  }
+}

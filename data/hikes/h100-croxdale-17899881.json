@@ -1,0 +1,21 @@
+{
+  "id": "osm-17899881",
+  "slug": "h100-croxdale-17899881",
+  "name": "H100: Croxdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7291204,
+    "lon": -1.5858209
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17899881
+  }
+}

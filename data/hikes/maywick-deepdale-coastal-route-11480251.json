@@ -1,0 +1,23 @@
+{
+  "id": "osm-11480251",
+  "slug": "maywick-deepdale-coastal-route-11480251",
+  "name": "Maywick Deepdale coastal route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0052114,
+    "lon": -1.324106
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480251
+  }
+}

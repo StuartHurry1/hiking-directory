@@ -1,0 +1,41 @@
+{
+  "id": "osm-11507207",
+  "slug": "breawick-beach-11507207",
+  "name": "Breawick Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4937538,
+    "lon": -1.5571779
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507207
+  },
+  "ai": {
+    "summary": "Breawick Beach is a short, easy coastal stroll in the United Kingdom. At about 0.6 km, it’s suitable for families, beginners, and anyone seeking a quick seaside outing with sea views.",
+    "terrain_summary": "The hike is a flat coastal walk with a firm sand or shingle surface. Expect sections near the waterline that may have soft sand. The route is generally level and accessible for most ages and fitness levels, though tide and weather can affect which parts are passable.",
+    "safety_notes": "Check local tide times before visiting, as rising tides can reduce access. The surface can be uneven near driftwood or dune areas. Wear sturdy shoes and a light waterproof layer; be prepared for changing UK weather. Keep children under supervision near the water, avoid cliff edges if present, and follow any local regulations or beach rules. Carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight weatherproof jacket",
+      "Sunscreen and hat",
+      "Water bottle",
+      "Snacks",
+      "Phone with emergency numbers",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for visiting Breawick Beach; summer offers the best beach conditions and daylight, while winter visits require extra caution due to winds and tides.",
+    "seo": {
+      "title": "Breawick Beach – Easy 0.6 km Coastal Walk in the UK",
+      "meta_description": "Explore Breawick Beach, a short 0.6 km easy coastal hike in the UK. Learn about the terrain, safety tips, best seasons, and what to bring for a quick seaside outing.",
+      "h1": "Breawick Beach: Easy 0.6 km Coastal Walk in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2090253",
+  "slug": "olympic-torch-relay-norwich-2090253",
+  "name": "Olympic Torch Relay (Norwich)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6281578,
+    "lon": 1.2963327
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2090253
+  }
+}

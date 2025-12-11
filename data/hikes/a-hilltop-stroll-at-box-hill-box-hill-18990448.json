@@ -1,0 +1,42 @@
+{
+  "id": "osm-18990448",
+  "slug": "a-hilltop-stroll-at-box-hill-box-hill-18990448",
+  "name": "A Hilltop Stroll at Box Hill, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.250058,
+    "lon": -0.3155016
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990448
+  },
+  "ai": {
+    "summary": "A gentle 2.1 km hilltop stroll at Box Hill in Surrey, England, offering easy terrain and panoramic views. Suitable for a relaxed outing near Box Hill with light elevation and plenty of photo opportunities.",
+    "terrain_summary": "Mostly well-maintained trails with gentle slopes; some uneven chalk paths and short steps near viewpoints; occasional rocky patches. Expect a mix of grassy paths and compact surfaces.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Weather on hilltops can change quickly, so bring a layer and sun protection. Keep an eye on footing, especially near edges and steps, and carry water for the short walk. Children should be supervised and dogs kept under control where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light jacket or layer for changing weather",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack for essentials",
+      "Map or offline navigation on phone",
+      "Basic first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring through autumn, with summer offering the clearest views on clear days; winter visits can be windy and chilly.",
+    "seo": {
+      "title": "A Hilltop Stroll at Box Hill, Surrey – Easy 2.1 km Walk in England",
+      "meta_description": "Enjoy a gentle 2.1 km hilltop stroll at Box Hill. Easy terrain, scenic views, safety tips, and practical gear for a relaxed day out in Surrey, England.",
+      "h1": "A Hilltop Stroll at Box Hill"
+    }
+  }
+}

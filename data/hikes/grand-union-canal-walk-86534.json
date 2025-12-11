@@ -1,0 +1,21 @@
+{
+  "id": "osm-86534",
+  "slug": "grand-union-canal-walk-86534",
+  "name": "Grand Union Canal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 219,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2714949,
+    "lon": -1.3254197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 86534
+  }
+}

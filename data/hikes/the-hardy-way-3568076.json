@@ -1,0 +1,21 @@
+{
+  "id": "osm-3568076",
+  "slug": "the-hardy-way-3568076",
+  "name": "The Hardy Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 505.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7514713,
+    "lon": -2.1703627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3568076
+  }
+}

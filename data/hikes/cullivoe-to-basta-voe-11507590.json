@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507590",
+  "slug": "cullivoe-to-basta-voe-11507590",
+  "name": "Cullivoe to Basta Voe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7035997,
+    "lon": -1.0280076
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507590
+  }
+}

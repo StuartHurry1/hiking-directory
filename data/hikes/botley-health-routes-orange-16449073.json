@@ -1,0 +1,42 @@
+{
+  "id": "osm-16449073",
+  "slug": "botley-health-routes-orange-16449073",
+  "name": "Botley Health Routes - Orange",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7509356,
+    "lon": -1.2983822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16449073
+  },
+  "ai": {
+    "summary": "Botley Health Routes - Orange is a gentle 5.3 km loop in the UK designed for easy access by families and casual walkers. As part of the Botley Health Routes network, it combines light walking on well-maintained paths with relaxed scenery and minimal elevation.",
+    "terrain_summary": "Predominantly flat and easy underfoot, with a mix of urban pavements, park paths, and short stretches of grass or gravel. The route stays on public paths and is well signposted in a town setting with occasional street crossings.",
+    "safety_notes": "This is an easy route suitable for all ages. Stay on public paths, be mindful of other pedestrians and cyclists on shared sections, and watch for road crossings. Check the weather and daylight conditions before you go, carry water, wear sturdy footwear, and bring a basic first aid kit and a phone. In winter, paths can be slippery and visibility may be reduced.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Small backpack or belt bag",
+      "Map, GPS, or a smartphone with offline maps",
+      "Sunscreen and a hat (seasonal)",
+      "Basic first aid kit",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "All year round; spring and autumn are especially pleasant with mild temperatures and lower crowds.",
+    "seo": {
+      "title": "Botley Health Routes - Orange: Easy 5.3 km UK hike",
+      "meta_description": "Discover Botley Health Routes - Orange, a 5.3 km easy walk in the UK. Ideal for families and casual walkers, featuring flat, well-maintained paths and relaxed scenery.",
+      "h1": "Botley Health Routes - Orange"
+    }
+  }
+}

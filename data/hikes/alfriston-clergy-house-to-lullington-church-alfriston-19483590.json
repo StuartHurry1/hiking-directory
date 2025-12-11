@@ -1,0 +1,44 @@
+{
+  "id": "osm-19483590",
+  "slug": "alfriston-clergy-house-to-lullington-church-alfriston-19483590",
+  "name": "Alfriston Clergy House to Lullington Church, Alfriston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8062218,
+    "lon": 0.1576966
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19483590
+  },
+  "ai": {
+    "summary": "A scenic 8.3 km moderate hike from Alfriston Clergy House to Lullington Church, looping through East Sussex countryside with chalk paths, fields, lanes, and countryside views.",
+    "terrain_summary": "Mixed terrain including chalk paths, grassy field edges, farm tracks, and quiet lanes. Occasional gates and stiles, potential mud after rain, and gentle rises and falls. Some sections may be exposed to wind along hedgerows.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Carry a map or GPS; signal can be patchy in rural areas. Stay on public rights of way, watch for livestock and gates, and keep dogs under control. Bring water, sun protection in summer, and a light layer for cooler days. Mind mud after rain and winter footing on some paths.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Rain jacket",
+      "Hat and sunscreen",
+      "Map and/or GPS device",
+      "Snack or energy bars",
+      "Small backpack",
+      "Walking poles (optional)",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring (Mar–May) and early summer (Jun) for mild weather and scenery, with a good autumn window (Sep–Oct). Winter can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Alfriston Clergy House to Lullington Church Hike - 8.3 km Moderate Trail in East Sussex, UK",
+      "meta_description": "Explore an 8.3 km moderate hike from Alfriston Clergy House to Lullington Church, featuring chalk paths, fields, and scenic countryside in East Sussex, UK.",
+      "h1": "Alfriston Clergy House to Lullington Church Hike"
+    }
+  }
+}

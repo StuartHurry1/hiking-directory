@@ -1,0 +1,21 @@
+{
+  "id": "osm-6086449",
+  "slug": "tamar-valley-discovery-trail-6086449",
+  "name": "Tamar Valley Discovery Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 165.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6371081,
+    "lon": -4.3587656
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6086449
+  }
+}

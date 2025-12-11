@@ -1,0 +1,21 @@
+{
+  "id": "osm-16788801",
+  "slug": "ouse-valley-way-2-turvey-to-eaton-socon-16788801",
+  "name": "Ouse Valley Way 2 (Turvey to Eaton Socon)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 122.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1618363,
+    "lon": -0.6286881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16788801
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-1604142",
+  "slug": "amber-valley-routeway-walk-21-1604142",
+  "name": "Amber Valley Routeway Walk 21",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0144693,
+    "lon": -1.4066814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1604142
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 21 is a 9.1 km moderate hike in the UK. It follows a mix of rural paths and light country roads, offering a pleasant outdoor route suitable for walkers with some experience.",
+    "terrain_summary": "Expect a mix of well-defined footpaths, grassy tracks, and minor country lanes. Surfaces may be uneven or muddy, with gentle elevation changes and occasional exposed sections. Weather can affect conditions quickly, so be prepared.",
+    "safety_notes": "Plan ahead: check the forecast and daylight hours; wear sturdy hiking boots; bring a waterproof jacket and extra layers; carry water and some snacks; bring a map or a navigation app and ensure your phone is charged; stay on waymarked routes; watch for livestock and farm boundaries; keep dogs under control and respect crops and gates; tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate layers (base layer, fleece, waterproof jacket)",
+      "Map and compass or offline navigation app",
+      "Phone with emergency contacts and a portable charger",
+      "Lightweight rain shell",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Small first-aid kit",
+      "Whistle for emergencies",
+      "Optional: headlamp or flashlight for potential dusk return"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are usually best for this route. Winter hikes are possible with appropriate gear, but can be muddy and less predictable.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 21 — 9.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Amber Valley Routeway Walk 21, a 9.1 km moderate hike in the UK. Terrain, safety tips, gear, and best seasons explained.",
+      "h1": "Amber Valley Routeway Walk 21 — 9.1 km Moderate Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-9567692",
+  "slug": "the-lizard-coastal-walk-9567692",
+  "name": "The Lizard Coastal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 49.9742453,
+    "lon": -5.2246454
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9567692
+  }
+}

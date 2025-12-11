@@ -1,0 +1,21 @@
+{
+  "id": "osm-12920507",
+  "slug": "link-to-nunhead-station-12920507",
+  "name": "link to Nunhead station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.464239,
+    "lon": -0.0530674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12920507
+  }
+}

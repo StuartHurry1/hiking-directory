@@ -1,0 +1,21 @@
+{
+  "id": "osm-14530552",
+  "slug": "inchewan-path-14530552",
+  "name": "Inchewan Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5513413,
+    "lon": -3.5945671
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14530552
+  }
+}

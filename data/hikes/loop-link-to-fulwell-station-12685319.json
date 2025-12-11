@@ -1,0 +1,21 @@
+{
+  "id": "osm-12685319",
+  "slug": "loop-link-to-fulwell-station-12685319",
+  "name": "LOOP link to Fulwell station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4336416,
+    "lon": -0.3495656
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12685319
+  }
+}

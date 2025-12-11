@@ -1,0 +1,42 @@
+{
+  "id": "osm-11511290",
+  "slug": "beowulf-and-grendel-trail-11511290",
+  "name": "Beowulf & Grendel Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.311512,
+    "lon": 0.6387664
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11511290
+  },
+  "ai": {
+    "summary": "A short, easy 2.4 km hike in the UK along a gentle, well-marked path. Suitable for beginners, families, and casual walkers seeking a relaxed outdoor experience.",
+    "terrain_summary": "Mostly flat with a well-maintained trail surface. Expect grass, compact dirt, and gravel in places. Minimal elevation change makes it accessible for most hikers.",
+    "safety_notes": "Always check the forecast before starting. Wear sturdy footwear and bring a light waterproof layer. Stay on marked paths, watch for uneven surfaces and roots, and avoid narrow ledges or steep edges. Bring water, a small first aid kit, and a charged phone. Let someone know your plans and be mindful of seasonal daylight in the UK. Respect wildlife and leave no trace.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Lightweight rain shell or warm layer",
+      "Sunscreen and hat",
+      "Map or offline map app",
+      "Small first aid kit",
+      "Phone with emergency contacts",
+      "Snacks (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn are ideal; the trail is shaded in parts and weather is generally milder during these seasons.",
+    "seo": {
+      "title": "Beowulf & Grendel Trail — Easy 2.4 km Hike in the UK",
+      "meta_description": "Explore the Beowulf & Grendel Trail, a short 2.4 km easy hike in the UK. Learn about terrain, safety tips, and gear for a relaxed outdoor experience.",
+      "h1": "Beowulf & Grendel Trail – 2.4 km Easy Hike in the UK"
+    }
+  }
+}

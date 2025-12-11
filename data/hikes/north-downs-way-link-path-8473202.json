@@ -1,0 +1,21 @@
+{
+  "id": "osm-8473202",
+  "slug": "north-downs-way-link-path-8473202",
+  "name": "North Downs Way Link Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2825622,
+    "lon": 0.632204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8473202
+  }
+}

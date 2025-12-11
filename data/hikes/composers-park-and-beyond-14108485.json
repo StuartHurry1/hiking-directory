@@ -1,0 +1,21 @@
+{
+  "id": "osm-14108485",
+  "slug": "composers-park-and-beyond-14108485",
+  "name": "Composers Park & Beyond",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6462648,
+    "lon": -0.2973845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14108485
+  }
+}

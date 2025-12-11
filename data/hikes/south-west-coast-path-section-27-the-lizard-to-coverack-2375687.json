@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375687",
+  "slug": "south-west-coast-path-section-27-the-lizard-to-coverack-2375687",
+  "name": "South West Coast Path (Section 27: The Lizard to Coverack)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 49.9595848,
+    "lon": -5.2066679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375687
+  }
+}

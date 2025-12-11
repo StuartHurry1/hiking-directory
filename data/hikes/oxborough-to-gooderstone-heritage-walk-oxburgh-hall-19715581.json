@@ -1,0 +1,21 @@
+{
+  "id": "osm-19715581",
+  "slug": "oxborough-to-gooderstone-heritage-walk-oxburgh-hall-19715581",
+  "name": "Oxborough to Gooderstone Heritage Walk, Oxburgh Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5830951,
+    "lon": 0.5738663
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19715581
+  }
+}

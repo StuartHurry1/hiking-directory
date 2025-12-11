@@ -1,0 +1,21 @@
+{
+  "id": "osm-6361532",
+  "slug": "esk-valley-walk-6361532",
+  "name": "Esk Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 314.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4540445,
+    "lon": -0.6853748
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6361532
+  }
+}

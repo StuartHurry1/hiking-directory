@@ -1,0 +1,45 @@
+{
+  "id": "osm-13168123",
+  "slug": "blackslee-waterfall-walk-13168123",
+  "name": "Blackslee Waterfall Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4533107,
+    "lon": -7.873126
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13168123
+  },
+  "ai": {
+    "summary": "Blackslee Waterfall Walk is a scenic 11.2 km moderate hike in the UK that follows river paths and woodland trails to several waterfalls. The route combines forest footpaths, muddy sections, and occasional boardwalks, rewarding walkers with misty cascades and peaceful river views.",
+    "terrain_summary": "Mixed terrain including woodland paths, narrow streams, muddy and uneven sections, rocky steps, and boardwalks near the waterfalls. Expect gentle to moderate elevation gain and potentially slippery surfaces after rain.",
+    "safety_notes": "Check weather and trail conditions before you go. Waterfalls and wet sections can be very slippery; wear sturdy boots with good grip. Bring a waterproof layer, map or offline navigation, and a charged phone. Inform someone of your plan, carry a small first aid kit, and be cautious around streams and after rain. Watch for ticks in woodland; take care crossing uneven ground and livestock gates if encountered.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and extra layers",
+      "Extra socks",
+      "Water and energy-rich snacks",
+      "Map or offline navigation on phone",
+      "Whistle and small first aid kit",
+      "Headlamp or flashlight (for late return)",
+      "Trekking poles (optional)",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring and autumn are ideal for vibrant scenery and comfortable temperatures, with higher waterfall flows after rainfall. Summer offers longer daylight and clearer trails but lower water levels; winter can be muddy or icy and may require extra caution.",
+    "seo": {
+      "title": "Blackslee Waterfall Walk - 11.2 km Moderate Hike in the UK",
+      "meta_description": "Explore Blackslee Waterfall Walk, an 11.2 km moderate hike in the UK featuring woodland trails and several waterfalls. Practical safety tips and essential gear included.",
+      "h1": "Blackslee Waterfall Walk — 11.2 km Moderate UK Hike"
+    }
+  }
+}

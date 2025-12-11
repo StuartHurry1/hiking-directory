@@ -1,0 +1,46 @@
+{
+  "id": "osm-3174132",
+  "slug": "bath-skyline-walk-3174132",
+  "name": "Bath Skyline Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.380506,
+    "lon": -2.3459473
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3174132
+  },
+  "ai": {
+    "summary": "Bath Skyline Walk is a challenging circular hike around the Bath area, offering expansive views from ridges, open countryside, and historic landscapes. At 20.7 km, it combines steep climbs with long, undulating sections, rewarding with sweeping vistas of Bath and the surrounding countryside.",
+    "terrain_summary": "The route traverses steep ridges, chalk grassland, pasture, woodlands, and well-trodden paths. Expect uneven footing, exposed sections, some muddy stretches after rain, and occasional gate crossings.",
+    "safety_notes": "Wear sturdy hiking boots with good ankle support. Check local weather and daylight hours; sections are exposed and can be windy. Carry map or GPS, a compass, and a charged phone. Bring sufficient water and snacks; plan for 4–6 hours depending on pace. Tell someone your route and expected return time. Take care on cliff edges and stairs; dogs should be kept on a leash in busy areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate layers",
+      "Water bottle (2–3 L)",
+      "Map or GPS device",
+      "Lightweight rain jacket",
+      "Hat and sunscreen",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Walking poles (optional)",
+      "Phone with offline map",
+      "Backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers the best conditions and views, though the hike can be done year-round with extra care in winter.",
+    "seo": {
+      "title": "Bath Skyline Walk – 20.7 km Hard Circular Hike near Bath, UK",
+      "meta_description": "Tackle the Bath Skyline Walk, a hard 20.7 km circuit around Bath, UK. Enjoy ridge-top views, varied terrain, safety tips, and gear recommendations.",
+      "h1": "Bath Skyline Walk: 20.7 km Challenging Ridge Hike near Bath, UK"
+    }
+  }
+}

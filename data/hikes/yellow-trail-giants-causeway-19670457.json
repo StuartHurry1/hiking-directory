@@ -1,0 +1,21 @@
+{
+  "id": "osm-19670457",
+  "slug": "yellow-trail-giants-causeway-19670457",
+  "name": "Yellow Trail, Giant's Causeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2341895,
+    "lon": -6.5109468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19670457
+  }
+}

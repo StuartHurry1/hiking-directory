@@ -1,0 +1,21 @@
+{
+  "id": "osm-3149264",
+  "slug": "three-choirs-way-worcester-to-gloucester-3149264",
+  "name": "Three Choirs Way (Worcester to Gloucester)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 114.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1889642,
+    "lon": -2.2212796
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3149264
+  }
+}

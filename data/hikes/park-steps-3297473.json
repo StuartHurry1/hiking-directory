@@ -1,0 +1,21 @@
+{
+  "id": "osm-3297473",
+  "slug": "park-steps-3297473",
+  "name": "Park Steps",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9516482,
+    "lon": -1.1568773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3297473
+  }
+}

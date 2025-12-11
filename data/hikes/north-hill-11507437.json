@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507437",
+  "slug": "north-hill-11507437",
+  "name": "North Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4236602,
+    "lon": -0.7636018
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507437
+  }
+}

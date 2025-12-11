@@ -1,0 +1,21 @@
+{
+  "id": "osm-17359295",
+  "slug": "heversham-trail-17359295",
+  "name": "Heversham Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2386259,
+    "lon": -2.7716611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17359295
+  }
+}

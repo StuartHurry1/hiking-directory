@@ -1,0 +1,21 @@
+{
+  "id": "osm-18327140",
+  "slug": "fir-long-loop-18327140",
+  "name": "Fir Long Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3730962,
+    "lon": -3.3970142
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18327140
+  }
+}

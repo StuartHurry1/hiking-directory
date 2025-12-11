@@ -1,0 +1,21 @@
+{
+  "id": "osm-110755",
+  "slug": "downlands-circular-walk-110755",
+  "name": "Downlands Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2919616,
+    "lon": -0.120819
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 110755
+  }
+}

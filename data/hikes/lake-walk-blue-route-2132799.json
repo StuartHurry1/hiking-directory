@@ -1,0 +1,23 @@
+{
+  "id": "osm-2132799",
+  "slug": "lake-walk-blue-route-2132799",
+  "name": "Lake walk (Blue Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8196426,
+    "lon": 1.2298054
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2132799
+  }
+}

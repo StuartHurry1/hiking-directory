@@ -1,0 +1,21 @@
+{
+  "id": "osm-8271587",
+  "slug": "south-bucks-way-8271587",
+  "name": "South Bucks Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 78.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7383067,
+    "lon": -0.7699887
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8271587
+  }
+}

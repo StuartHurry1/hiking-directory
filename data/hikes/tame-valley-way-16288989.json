@@ -1,0 +1,21 @@
+{
+  "id": "osm-16288989",
+  "slug": "tame-valley-way-16288989",
+  "name": "Tame Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5527083,
+    "lon": -2.0105136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16288989
+  }
+}

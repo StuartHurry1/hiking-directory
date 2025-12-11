@@ -1,0 +1,40 @@
+{
+  "id": "osm-15842664",
+  "slug": "bells-lane-15842664",
+  "name": "Bells Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1831153,
+    "lon": -6.3126438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15842664
+  },
+  "ai": {
+    "summary": "Bells Lane is a short, easy 0.6 km hike in the United Kingdom along a quiet rural lane. It’s suitable for beginners, families with children, and anyone seeking a quick, low-effort outdoor experience.",
+    "terrain_summary": "Mostly flat, along a surfaced rural lane with a mix of asphalt and compact gravel. Footing is generally smooth, but expect occasional uneven patches and muddy sections in wet weather. The route is along a narrow rural lane and may involve brief exposure to nearby traffic.",
+    "safety_notes": "This is a short stroll on a quiet lane. Check the weather and daylight conditions before you go. Wear sturdy walking shoes with good grip, bring a layer for changing conditions, and carry water. Stay to the designated path and give way to any vehicles on the lane. Keep children and dogs under control, and be mindful of potential soft edges or potholes, especially after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes or sneakers",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Phone with a map",
+      "Sunscreen and hat (summer)",
+      "Small rain jacket or umbrella"
+    ],
+    "best_seasons": "All year round; spring and autumn offer the best daylight and moderate weather, while summer is sunnier and winter can be chilly or muddy.",
+    "seo": {
+      "title": "Bells Lane – Easy 0.6 km Hike in the UK",
+      "meta_description": "Discover Bells Lane, a short and easy 0.6 km hike in the UK. Ideal for beginners and families seeking a quick outdoor stroll.",
+      "h1": "Bells Lane: Easy 0.6 km Hike in the UK"
+    }
+  }
+}

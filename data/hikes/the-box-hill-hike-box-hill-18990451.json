@@ -1,0 +1,21 @@
+{
+  "id": "osm-18990451",
+  "slug": "the-box-hill-hike-box-hill-18990451",
+  "name": "The Box Hill Hike, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2630821,
+    "lon": -0.3144157
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990451
+  }
+}

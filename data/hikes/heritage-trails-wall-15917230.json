@@ -1,0 +1,21 @@
+{
+  "id": "osm-15917230",
+  "slug": "heritage-trails-wall-15917230",
+  "name": "Heritage Trails: Wall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9752891,
+    "lon": -1.6107555
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15917230
+  }
+}

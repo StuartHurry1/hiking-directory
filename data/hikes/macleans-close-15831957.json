@@ -1,0 +1,21 @@
+{
+  "id": "osm-15831957",
+  "slug": "macleans-close-15831957",
+  "name": "Macleans Close",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2223274,
+    "lon": -5.9974152
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15831957
+  }
+}

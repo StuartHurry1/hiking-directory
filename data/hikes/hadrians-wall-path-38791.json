@@ -1,0 +1,21 @@
+{
+  "id": "osm-38791",
+  "slug": "hadrians-wall-path-38791",
+  "name": "Hadrian's Wall Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 299.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.987978,
+    "lon": -1.5302486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 38791
+  }
+}

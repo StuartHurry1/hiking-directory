@@ -1,0 +1,39 @@
+{
+  "id": "osm-19561517",
+  "slug": "blue-trail-stowe-19561517",
+  "name": "Blue Trail, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0309854,
+    "lon": -1.017763
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561517
+  },
+  "ai": {
+    "summary": "Blue Trail in Stowe offers an easy 4.3 km walk through gentle countryside in the UK, suitable for beginners and families seeking a short, relaxed hike with light scenery.",
+    "terrain_summary": "Mostly smooth, well-marked paths with grassy meadows and occasional shaded wood sections. Expect gentle gradients and possible muddy patches after rain; the route is generally flat with a few small steps or inclines.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked trails and keep an eye on children. Check the forecast and be prepared for mud or rain; carry water and a small snack. If visibility is poor or in icy conditions, proceed with extra caution.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water and a small snack",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Map or offline navigation and a charged phone",
+      "Small first-aid kit and whistle"
+    ],
+    "best_seasons": "Spring to autumn offer the most comfortable conditions and daylight for this 4.3 km hike; winter walks are possible with extra caution and suitable footwear.",
+    "seo": {
+      "title": "Blue Trail, Stowe – Easy 4.3 km Hike in the UK",
+      "meta_description": "Discover the Blue Trail in Stowe: an easy 4.3 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this family-friendly route.",
+      "h1": "Blue Trail, Stowe – Easy 4.3 km Hike in the UK"
+    }
+  }
+}

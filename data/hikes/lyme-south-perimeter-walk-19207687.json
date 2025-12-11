@@ -1,0 +1,21 @@
+{
+  "id": "osm-19207687",
+  "slug": "lyme-south-perimeter-walk-19207687",
+  "name": "Lyme South Perimeter Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3447775,
+    "lon": -2.030132
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19207687
+  }
+}

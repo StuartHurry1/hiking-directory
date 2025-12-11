@@ -1,0 +1,23 @@
+{
+  "id": "osm-19917884",
+  "slug": "newton-bridge-to-dallick-19917884",
+  "name": "Newton Bridge to Dallick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4627707,
+    "lon": -3.8068167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19917884
+  }
+}

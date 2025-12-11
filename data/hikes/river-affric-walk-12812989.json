@@ -1,0 +1,21 @@
+{
+  "id": "osm-12812989",
+  "slug": "river-affric-walk-12812989",
+  "name": "River Affric Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2645173,
+    "lon": -4.9852134
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12812989
+  }
+}

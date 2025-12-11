@@ -1,0 +1,21 @@
+{
+  "id": "osm-12660112",
+  "slug": "capital-ring-link-to-crouch-hill-station-12660112",
+  "name": "Capital Ring link to Crouch Hill station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5742086,
+    "lon": -0.121429
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12660112
+  }
+}

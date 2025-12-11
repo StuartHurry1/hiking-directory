@@ -1,0 +1,21 @@
+{
+  "id": "osm-4822728",
+  "slug": "gentle-walk-4822728",
+  "name": "Gentle Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6762163,
+    "lon": -5.9205446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4822728
+  }
+}

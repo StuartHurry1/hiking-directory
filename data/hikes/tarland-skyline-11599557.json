@@ -1,0 +1,21 @@
+{
+  "id": "osm-11599557",
+  "slug": "tarland-skyline-11599557",
+  "name": "Tarland Skyline",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1275962,
+    "lon": -2.8579899
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11599557
+  }
+}

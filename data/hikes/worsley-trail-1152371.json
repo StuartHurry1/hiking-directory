@@ -1,0 +1,21 @@
+{
+  "id": "osm-1152371",
+  "slug": "worsley-trail-1152371",
+  "name": "Worsley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6586652,
+    "lon": -1.4062083
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1152371
+  }
+}

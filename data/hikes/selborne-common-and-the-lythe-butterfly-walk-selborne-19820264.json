@@ -1,0 +1,21 @@
+{
+  "id": "osm-19820264",
+  "slug": "selborne-common-and-the-lythe-butterfly-walk-selborne-19820264",
+  "name": "Selborne Common and The Lythe Butterfly Walk, Selborne",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.09619,
+    "lon": -0.9413978
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19820264
+  }
+}

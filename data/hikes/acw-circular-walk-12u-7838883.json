@@ -1,0 +1,43 @@
+{
+  "id": "osm-7838883",
+  "slug": "acw-circular-walk-12u-7838883",
+  "name": "ACW Circular Walk 12U",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4270246,
+    "lon": -1.3713931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7838883
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12U is a short, easy 5.2 km circular hike in the UK. Designed for beginners and families, the route returns to its starting point with minimal ascent, making it a relaxed outdoor outing.",
+    "terrain_summary": "Mostly easy, well-maintained paths with gentle gradients. Expect a mix of compacted trails and some grassy or uneven sections. Suitable for most-weather walking with proper footwear.",
+    "safety_notes": "Always check local conditions and daylight hours before you set out. Wear sturdy walking shoes and dress in layers. Stay on marked paths and respect private property. Carry water, snacks, a map or GPS, and a small first-aid kit. Bring a rain jacket as UK weather can change quickly. Let someone know your planned route and expected return time. Be mindful of other walkers, cyclists, and road traffic if the route includes road sections. If the route crosses roads, use caution at crossings.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Layers for variable weather (fleece, hat, gloves if cold)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Map or offline GPS",
+      "Snacks",
+      "Small first-aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring and Summer (also doable in autumn/winter with appropriate clothing and caution).",
+    "seo": {
+      "title": "ACW Circular Walk 12U – 5.2 km Easy UK Hike",
+      "meta_description": "Explore the ACW Circular Walk 12U, a 5.2 km easy circular hike in the UK. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "ACW Circular Walk 12U – 5.2 km Easy UK Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18208928",
+  "slug": "rockland-st-mary-circular-18208928",
+  "name": "Rockland St Mary Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5896667,
+    "lon": 1.43415
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18208928
+  }
+}

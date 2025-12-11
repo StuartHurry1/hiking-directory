@@ -1,0 +1,21 @@
+{
+  "id": "osm-66774",
+  "slug": "oxford-green-belt-way-66774",
+  "name": "Oxford Green Belt Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 173.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7483282,
+    "lon": -1.344273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 66774
+  }
+}

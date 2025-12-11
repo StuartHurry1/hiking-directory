@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209641",
+  "slug": "great-yarmouth-workhouse-walk-18209641",
+  "name": "Great Yarmouth workhouse walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6116528,
+    "lon": 1.7246511
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209641
+  }
+}

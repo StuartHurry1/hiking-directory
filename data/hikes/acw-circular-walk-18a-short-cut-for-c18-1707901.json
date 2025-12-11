@@ -1,0 +1,45 @@
+{
+  "id": "osm-1707901",
+  "slug": "acw-circular-walk-18a-short-cut-for-c18-1707901",
+  "name": "ACW Circular Walk 18A (short-cut for C18)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4777905,
+    "lon": -1.5610496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707901
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 18A (short-cut for C18) is a long, hard 30.3 km circular hike in the UK, used as a shortcut for the C18. It traverses a variety of rural paths and terrain, offering a challenging day out for experienced hikers and good views when conditions allow.",
+    "terrain_summary": "The route combines mixed terrain: public footpaths, farm tracks, grass and moorland, optional forest sections, and uneven surfaces. Expect long gentle ascents and steeper sections, with occasional muddy or rocky footing and potential exposure in open areas. Navigation relies on waypoints and signage may be sparse in places.",
+    "safety_notes": "This is a demanding 30.3 km hike with significant elevation changes. Plan for a full day, start early, and be prepared for rapidly changing UK weather. Bring a map and compass (GPS as backup), fully charged phone, waterproof clothing, sturdy hiking boots, and sufficient food and water (2–3 L). Tell someone your plan and expected return. Watch for remote sections with limited mobile signal, livestock on farm tracks, and potentially hard footing after rain. If conditions worsen, be prepared to turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good tread",
+      "Water bottle or hydration system (2–3 litres)",
+      "Map and compass (GPS as backup)",
+      "Weather-appropriate clothing (layering, waterproof jacket, hat, gloves)",
+      "Emergency blanket or bivvy and whistle",
+      "Headlamp or flashlight with spare batteries",
+      "Snacks and high-energy food",
+      "First-aid kit",
+      "Sun protection and sunglasses",
+      "Walking poles (optional but helpful)",
+      "Mobile phone with offline maps and power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to September) is ideal for daylight and drier conditions; winter hikes are possible but riskier due to shorter days, mud, and potential navigation challenges.",
+    "seo": {
+      "title": "ACW Circular Walk 18A - 30.3 km Hard Circular Hike in the UK (Short-cut for C18)",
+      "meta_description": "Explore ACW Circular Walk 18A, a challenging 30.3 km circular hike in the UK serving as a shortcut for C18. Varied terrain, safety tips, gear, and best seasons.",
+      "h1": "ACW Circular Walk 18A (Short-cut for C18) – 30.3 km Hard Circular Hike in the UK"
+    }
+  }
+}

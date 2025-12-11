@@ -1,0 +1,21 @@
+{
+  "id": "osm-4229903",
+  "slug": "st-oswalds-way-4229903",
+  "name": "St Oswald's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6114129,
+    "lon": -1.7128402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4229903
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "osm-13433705",
+  "slug": "blakeney-circular-walk-13433705",
+  "name": "Blakeney Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9561964,
+    "lon": 1.0174578
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13433705
+  },
+  "ai": {
+    "summary": "A demanding 28.4 km circular hike in the UK that threads coastal paths, tidal marshes and inland lakes around Blakeney. The route offers expansive sea views, salty air and a mix of firm trails, grassy tracks and muddy sections, making for a strenuous day on foot.",
+    "terrain_summary": "Mostly exposed coastal paths with occasional firm trails, muddy stretches across marshland, short sections of grass and boardwalks near wet areas. Expect variable footing, crosswinds, and water-logged ground after rain.",
+    "safety_notes": "Check tide times before venturing onto marsh or estuary sections; some parts may be inaccessible at high tide. Stay on marked paths and avoid private salt marshes. Weather can change rapidly along the coast—bring waterproofs and warm layers. A long 28.4 km trek requires good fitness; carry sufficient water and snacks. Let someone know your route and expected finish time; carry a map or GPS; mobile coverage may be patchy in remote stretches.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and over-trousers",
+      "Layered clothing for warmth",
+      "Water and high-energy snacks",
+      "Hat and sunscreen",
+      "Map, compass or GPS device",
+      "First aid kit and whistle",
+      "Headlamp or flashlight (in case of late finishes)",
+      "Emergency blanket or space blanket",
+      "Extra socks and a dry bag",
+      "Sun protection for eye and skin"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and longer daylight; summer provides the most daylight but can be busy; shoulder seasons can be windy and muddy.",
+    "seo": {
+      "title": "Blakeney Circular Walk – 28.4 km Coastal Hike in the UK",
+      "meta_description": "Embark on a challenging 28.4 km circular hike around Blakeney, UK. Experience coastal paths, salt marshes and lakes on this demanding day out with expansive sea views.",
+      "h1": "Blakeney Circular Walk – 28.4 km Coastal Hike"
+    }
+  }
+}

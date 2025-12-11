@@ -1,0 +1,21 @@
+{
+  "id": "osm-18502781",
+  "slug": "havant-footpath-34-18502781",
+  "name": "Havant Footpath 34",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8506058,
+    "lon": -1.0031538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18502781
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-78281",
+  "slug": "tacklers-trail-witton-weavers-way-78281",
+  "name": "Tacklers Trail - Witton Weavers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6963067,
+    "lon": -2.5049423
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 78281
+  }
+}

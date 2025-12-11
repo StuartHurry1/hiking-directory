@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506599",
+  "slug": "collaster-loch-and-northhouse-loch-11506599",
+  "name": "Collaster Loch and Northhouse Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2744951,
+    "lon": -1.415321
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506599
+  }
+}

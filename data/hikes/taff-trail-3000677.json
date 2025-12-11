@@ -1,0 +1,21 @@
+{
+  "id": "osm-3000677",
+  "slug": "taff-trail-3000677",
+  "name": "Taff Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 332.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6068622,
+    "lon": -3.3331531
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3000677
+  }
+}

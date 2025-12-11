@@ -1,0 +1,23 @@
+{
+  "id": "osm-18071407",
+  "slug": "south-glen-shiel-ridge-18071407",
+  "name": "South Glen Shiel Ridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1534817,
+    "lon": -5.179039
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18071407
+  }
+}

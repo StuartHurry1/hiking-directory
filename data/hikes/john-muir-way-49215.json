@@ -1,0 +1,21 @@
+{
+  "id": "osm-49215",
+  "slug": "john-muir-way-49215",
+  "name": "John Muir Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 441.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0032045,
+    "lon": -4.735934
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 49215
+  }
+}

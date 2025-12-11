@@ -1,0 +1,21 @@
+{
+  "id": "osm-13957942",
+  "slug": "follow-the-kestrel-to-the-downs-13957942",
+  "name": "Follow the kestrel to the Downs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0860294,
+    "lon": 1.1552868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13957942
+  }
+}

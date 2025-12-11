@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772651",
+  "slug": "west-highland-way-rowardennan-to-inverarnan-19772651",
+  "name": "West Highland Way (Rowardennan to Inverarnan)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1520991,
+    "lon": -4.6417016
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772651
+  }
+}

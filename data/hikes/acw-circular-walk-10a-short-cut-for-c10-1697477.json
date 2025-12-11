@@ -1,0 +1,46 @@
+{
+  "id": "osm-1697477",
+  "slug": "acw-circular-walk-10a-short-cut-for-c10-1697477",
+  "name": "ACW Circular Walk 10A (short-cut for C10)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3912109,
+    "lon": -1.3422036
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1697477
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 10A is a 22.5 km challenging circular hike in the UK, offering varied terrain and significant elevation gain. Designed as a shortcut iteration of C10, it tests endurance and navigation for experienced hikers.",
+    "terrain_summary": "The route combines mixed terrain: forest tracks, grassy heaths, rough trails, and occasional watercourses. Expect uneven footing, exposed sections, and several climbs with long descents. Navigation relies on waypoints and occasional trail markers.",
+    "safety_notes": "Plan for a long day; check weather and daylight. Carry map and compass and know how to use them; bring a charged phone as a backup. Wear sturdy footwear and weather-appropriate layers; carry waterproofs. Stay hydrated and fueled; watch for sudden changes in hill or woodland conditions. Tell someone your plan and expected return time. In winter, reduce pace and be prepared for ice and reduced visibility; consider additional safety gear.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and trousers",
+      "Thermal layers and hat/gloves (seasonal)",
+      "Backpack with 2-3 L water capacity",
+      "High-energy snacks and a light meal",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Mobile phone with portable charger",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) for longer daylight and milder conditions; autumn can be rewarding but weather is more changeable; plan for winter hikes with extra precautions if attempted.",
+    "seo": {
+      "title": "ACW Circular Walk 10A (C10 Shortcut) – 22.5 km Hard Circular Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 10A, a 22.5 km hard circular hike in the UK. Learn terrain, safety tips, best seasons, and essential gear for experienced hikers.",
+      "h1": "ACW Circular Walk 10A (C10 Shortcut) – 22.5 km Hard Hike"
+    }
+  }
+}

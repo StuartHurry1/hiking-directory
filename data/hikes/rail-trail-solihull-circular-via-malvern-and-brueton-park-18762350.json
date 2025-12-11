@@ -1,0 +1,21 @@
+{
+  "id": "osm-18762350",
+  "slug": "rail-trail-solihull-circular-via-malvern-and-brueton-park-18762350",
+  "name": "Rail Trail: Solihull Circular (via Malvern & Brueton Park)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4146619,
+    "lon": -1.7882714
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18762350
+  }
+}

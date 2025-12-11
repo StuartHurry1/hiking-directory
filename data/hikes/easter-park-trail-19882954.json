@@ -1,0 +1,21 @@
+{
+  "id": "osm-19882954",
+  "slug": "easter-park-trail-19882954",
+  "name": "Easter Park Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1622659,
+    "lon": -4.3701047
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19882954
+  }
+}

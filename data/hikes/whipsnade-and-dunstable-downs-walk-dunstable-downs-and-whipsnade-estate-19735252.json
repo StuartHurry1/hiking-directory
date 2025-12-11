@@ -1,0 +1,21 @@
+{
+  "id": "osm-19735252",
+  "slug": "whipsnade-and-dunstable-downs-walk-dunstable-downs-and-whipsnade-estate-19735252",
+  "name": "Whipsnade and Dunstable Downs Walk, Dunstable Downs and Whipsnade Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8513662,
+    "lon": -0.5258756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19735252
+  }
+}

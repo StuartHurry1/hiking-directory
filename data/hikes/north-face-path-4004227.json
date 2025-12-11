@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004227",
+  "slug": "north-face-path-4004227",
+  "name": "North Face Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8061651,
+    "lon": -5.0363195
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004227
+  }
+}

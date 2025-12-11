@@ -1,0 +1,21 @@
+{
+  "id": "osm-357955",
+  "slug": "stour-valley-path-part-2-357955",
+  "name": "Stour Valley Path part 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 180.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1884722,
+    "lon": 0.4041009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 357955
+  }
+}

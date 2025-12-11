@@ -1,0 +1,21 @@
+{
+  "id": "osm-7554687",
+  "slug": "derwent-dam-black-route-7554687",
+  "name": "Derwent Dam Black Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3996809,
+    "lon": -1.742017
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7554687
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "osm-18386259",
+  "slug": "basinghall-pedways-18386259",
+  "name": "Basinghall pedways",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5169118,
+    "lon": -0.0915993
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18386259
+  },
+  "ai": {
+    "summary": "A short, easy urban stroll along the Basinghall pedways in the UK. This 0.5 km route stays on paved pedestrian passages and is suitable for all ages and fitness levels.",
+    "terrain_summary": "Flat, paved surfaces along urban pedestrian routes. Expect street crossings and curb edges; generally accessible, but check for potential steps or ramps at specific access points.",
+    "safety_notes": "Stay aware of traffic at crossings and follow pedestrian signals. Keep to marked paths and be mindful of cyclists in shared spaces. Weather can make pavements slick; carry a phone and know how to contact help if needed. If accessibility is a concern, verify access points and ramps before starting.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather jacket",
+      "Phone with maps",
+      "Small snack"
+    ],
+    "best_seasons": "All year, with the best conditions typically in spring and early autumn when daylight is longer and weather is mild.",
+    "seo": {
+      "title": "Basinghall Pedways: Easy 0.5 km UK Urban Walk",
+      "meta_description": "Explore a short, easy 0.5 km urban stroll along the Basinghall pedways in the UK. Practical tips on terrain, safety, and gear for a comfortable city hike.",
+      "h1": "Basinghall Pedways – Easy 0.5 km UK Urban Walk"
+    }
+  }
+}

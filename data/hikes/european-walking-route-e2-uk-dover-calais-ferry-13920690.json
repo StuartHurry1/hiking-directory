@@ -1,0 +1,21 @@
+{
+  "id": "osm-13920690",
+  "slug": "european-walking-route-e2-uk-dover-calais-ferry-13920690",
+  "name": "European walking route E2, UK, Dover-Calais ferry",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1243729,
+    "lon": 1.3137883
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13920690
+  }
+}

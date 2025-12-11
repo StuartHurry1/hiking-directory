@@ -1,0 +1,21 @@
+{
+  "id": "osm-8239256",
+  "slug": "neist-point-lighthouse-8239256",
+  "name": "Neist Point Lighthouse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4296084,
+    "lon": -6.7792663
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8239256
+  }
+}

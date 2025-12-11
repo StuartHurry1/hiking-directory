@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507215",
+  "slug": "ness-of-hillswick-11507215",
+  "name": "Ness of Hillswick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.47586,
+    "lon": -1.4885262
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507215
+  }
+}

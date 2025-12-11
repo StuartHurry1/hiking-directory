@@ -1,0 +1,23 @@
+{
+  "id": "osm-9491877",
+  "slug": "sefton-coastal-path-9491877",
+  "name": "Sefton Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5510385,
+    "lon": -3.0865888
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9491877
+  }
+}

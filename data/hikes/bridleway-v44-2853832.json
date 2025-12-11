@@ -1,0 +1,42 @@
+{
+  "id": "osm-2853832",
+  "slug": "bridleway-v44-2853832",
+  "name": "Bridleway V44",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5363751,
+    "lon": -1.2740225
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2853832
+  },
+  "ai": {
+    "summary": "Bridleway V44 is a short, easy 3.3 km hike in the UK along a bridleway. The exact regional location isn’t specified, but the route is suitable for beginners and families seeking a gentle outdoor walk with light foot traffic.",
+    "terrain_summary": "Flat to gently undulating bridleway with a well maintained surface. Expect a mix of compact earth, gravel and occasional muddy patches after rain. Gates and minor stiles may be encountered; dogs on leads advised.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. The route can be exposed in open sections, so bring water and sun protection in bright conditions. Watch for livestock and other path users on shared sections. Navigation can be tricky if the route is not well marked, so carry a map or offline map on your phone. Be cautious of mud after rain and practice gate etiquette when passing through.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (waterproof jacket, hat)",
+      "Map or offline map on phone",
+      "Small first aid kit",
+      "Snack",
+      "Phone and portable charger",
+      "Whistle (safety)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this trail when the weather is more stable and daylight is longer; it can be walked year round with appropriate gear for wet or cold conditions.",
+    "seo": {
+      "title": "Bridleway V44 Walk - Easy 3.3 km Bridleway Trail in the UK",
+      "meta_description": "Discover Bridleway V44, a gentle 3.3 km hike in the UK. An easy, family friendly route with a flat to gently undulating surface, practical safety tips and gear suggestions.",
+      "h1": "Bridleway V44 Easy 3.3 km Bridleway Walk"
+    }
+  }
+}

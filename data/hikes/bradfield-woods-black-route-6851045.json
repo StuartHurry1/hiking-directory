@@ -1,0 +1,42 @@
+{
+  "id": "osm-6851045",
+  "slug": "bradfield-woods-black-route-6851045",
+  "name": "Bradfield Woods Black Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1845496,
+    "lon": 0.82925
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6851045
+  },
+  "ai": {
+    "summary": "Bradfield Woods Black Route is a short, easy 4.2 km woodland circuit in the UK. The route winds through shaded forest, with well-marked paths, making it suitable for families and beginners seeking a peaceful forest walk.",
+    "terrain_summary": "The trail follows well-maintained forest paths with gentle elevation, occasional exposed roots, and muddy patches after rainfall. Expect shaded sections, open clearings, and sections that may be uneven underfoot.",
+    "safety_notes": "Carry a map or GPS device and fully charged phone; stay on marked paths; watch for uneven ground, roots, and low branches; check weather and dress accordingly; keep dogs under control; be mindful of wildlife and other trail users.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water and a light snack",
+      "Weather-appropriate layers (rain jacket and/or warm layer)",
+      "Map, compass or GPS-enabled device",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Small first aid kit",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal for this route; winter walking is possible with appropriate footwear and trail conditions.",
+    "seo": {
+      "title": "Bradfield Woods Black Route - 4.2 km Easy Woodland Walk in the UK",
+      "meta_description": "Explore Bradfield Woods Black Route, a 4.2 km easy hike through UK woodland. Learn about the trail, terrain, safety tips, and recommended gear.",
+      "h1": "Bradfield Woods Black Route: 4.2 km Easy Woodland Walk"
+    }
+  }
+}

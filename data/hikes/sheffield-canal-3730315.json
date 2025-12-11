@@ -1,0 +1,21 @@
+{
+  "id": "osm-3730315",
+  "slug": "sheffield-canal-3730315",
+  "name": "Sheffield Canal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3992947,
+    "lon": -1.415586
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3730315
+  }
+}

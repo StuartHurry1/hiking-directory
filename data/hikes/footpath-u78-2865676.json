@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865676",
+  "slug": "footpath-u78-2865676",
+  "name": "Footpath U78",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5284987,
+    "lon": -1.3517326
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865676
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11142196",
+  "slug": "shrew-route-11142196",
+  "name": "Shrew route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8316226,
+    "lon": -1.4947787
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11142196
+  }
+}

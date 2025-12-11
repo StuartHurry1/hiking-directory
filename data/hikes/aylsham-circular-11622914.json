@@ -1,0 +1,44 @@
+{
+  "id": "osm-11622914",
+  "slug": "aylsham-circular-11622914",
+  "name": "Aylsham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8028403,
+    "lon": 1.2601428
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11622914
+  },
+  "ai": {
+    "summary": "Aylsham Circular is a roughly 10.6-kilometer moderate hike in the UK. The route forms a gentle loop that can be enjoyed by walkers with some experience, taking in varied countryside and ample rural scenery.",
+    "terrain_summary": "The trail uses a mix of grassy paths, dirt tracks, and minor road sections. Expect gentle climbs and descents, with potential mud after rainfall. Some stiles or light obstacles may be encountered along the route.",
+    "safety_notes": "Wear sturdy boots and dress for the weather. Bring a map or GPS, a charged phone, and sufficient water and snacks. Stay on marked paths, exercise caution at road crossings, and check local conditions for mud or floods. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing",
+      "Map or GPS device",
+      "Hat and sunscreen",
+      "Lightweight rain shell",
+      "Small backpack",
+      "Snacks or energy bars",
+      "Phone with offline maps",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn for best conditions; summers offer longer daylight, while winter hikes can be wet and muddy",
+    "seo": {
+      "title": "Aylsham Circular — 10.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the Aylsham Circular, a 10.6 km moderate hike in the UK. Learn about terrain, safety tips, and essential gear for a comfortable day on the trail.",
+      "h1": "Aylsham Circular — 10.6 km Moderate Hike in the UK"
+    }
+  }
+}

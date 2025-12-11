@@ -1,0 +1,21 @@
+{
+  "id": "osm-11013506",
+  "slug": "pony-path-11013506",
+  "name": "Pony Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.718762,
+    "lon": -3.9296278
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11013506
+  }
+}

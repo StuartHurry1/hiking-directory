@@ -1,0 +1,23 @@
+{
+  "id": "osm-19617394",
+  "slug": "kearney-coastal-walk-strangford-lough-19617394",
+  "name": "Kearney coastal walk, Strangford Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3877813,
+    "lon": -5.4620626
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617394
+  }
+}

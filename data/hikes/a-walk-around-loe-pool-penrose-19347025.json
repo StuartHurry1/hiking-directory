@@ -1,0 +1,44 @@
+{
+  "id": "osm-19347025",
+  "slug": "a-walk-around-loe-pool-penrose-19347025",
+  "name": "A walk around Loe Pool, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0962593,
+    "lon": -5.2821067
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347025
+  },
+  "ai": {
+    "summary": "A challenging 25.6 km loop around Loe Pool at Penrose, Cornwall, UK. This hard hike blends woodland tracks, moorland paths, and lake-edge sections with several ascents and long distances. Suitable for experienced walkers with good fitness and navigation skills; plan for 6–9 hours depending on pace and conditions.",
+    "terrain_summary": "Varied terrain including well-trodden gravel and grassy paths through woodlands and open moor, with muddy sections after rain. Expect some short steep climbs, uneven footing, stiles, and occasional exposed viewpoints. There are boardwalk sections near the pool and livestock pastures requiring careful footwork.",
+    "safety_notes": "- Distance and difficulty: long, hard hike; ensure you have the fitness, navigation skills, and daylight to complete it.\n- Weather: UK conditions can change rapidly; bring layers, waterproofs, and sun protection.\n- Terrain: mud, uneven surfaces, and some steep sections; wear sturdy boots.\n- Navigation: carry a map and compass or GPS; don’t rely on phone signals in remote areas.\n- Tide/edges: stay on marked paths; be mindful of coastal edges and livestock gates.\n- Daylight: plan around shorter winter days; start early to finish in daylight.\n- Safety: carry a basic first aid kit, whistle, and a charged phone; inform someone of your route and return time.\n- Wildlife and livestock: respect farmland boundaries and close gates behind you.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers; include windproof and waterproof outer layer)",
+      "Map and compass or GPS device",
+      "Phone with offline maps (and spare power bank)",
+      "Snacks and a packed lunch",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Lightweight rain pants and extra socks",
+      "First aid kit and whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Loe Pool Loop – 25.6 km Hard Hike around Penrose, UK",
+      "meta_description": "Take on a 25.6 km hard loop around Loe Pool at Penrose, Cornwall. Learn about terrain, safety tips, gear, and the best seasons for this challenging UK hike.",
+      "h1": "Loe Pool Loop (Penrose) – 25.6 km Hard Hike"
+    }
+  }
+}

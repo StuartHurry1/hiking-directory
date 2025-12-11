@@ -1,0 +1,46 @@
+{
+  "id": "osm-19905468",
+  "slug": "beatrix-potters-moss-eccles-tarn-walk-hill-top-19905468",
+  "name": "Beatrix Potter's Moss Eccles Tarn Walk, Hill Top",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3524264,
+    "lon": -2.9712113
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19905468
+  },
+  "ai": {
+    "summary": "An 11 km lakeside circuit starting from Hill Top that celebrates Beatrix Potter country paths to Moss Eccles Tarn. The moderate route combines quiet lanes, forest tracks, and grassy paths with occasional stiles, offering lake views and a sense of Potter-era countryside.",
+    "terrain_summary": "Surface variety includes tarmac lanes, compact trails, grassy fields, and occasional rocky or muddy patches near the tarn. Expect gentle ascents, some uneven ground, stiles, and potential boggy sections in wet conditions.",
+    "safety_notes": "Weather in the Lake District can change rapidly; bring waterproofs and warm layers. Wear sturdy boots with good grip; watch footing on uneven or slippery surfaces near the water. The route passes through farmland and woodland; stay on public paths and respect livestock. Keep to marked paths; map or device recommended for navigation. Inform someone of your plans if hiking alone. Dogs should be under control; bring water and bag waste. Carry a small first aid kit and a light emergency layer; have a charged phone as a backup.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Map and compass or offline navigation device",
+      "Water and high-energy snacks",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Emergency blanket or lightweight shelter (optional)",
+      "Phone with a portable power bank",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October) are ideal; the route is accessible year-round with appropriate gear.",
+    "seo": {
+      "title": "Beatrix Potter's Moss Eccles Tarn Walk at Hill Top – Lake District",
+      "meta_description": "Discover Beatrix Potter country on the Moss Eccles Tarn Walk from Hill Top. An 11 km moderate lakeside hike featuring Moss Eccles Tarn, woodlands and Lake District scenery.",
+      "h1": "Beatrix Potter's Moss Eccles Tarn Walk near Hill Top"
+    }
+  }
+}

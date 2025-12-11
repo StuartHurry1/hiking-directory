@@ -1,0 +1,21 @@
+{
+  "id": "osm-6978886",
+  "slug": "stover-heritage-trail-6978886",
+  "name": "Stover Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5650862,
+    "lon": -3.6393111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6978886
+  }
+}

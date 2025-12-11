@@ -1,0 +1,21 @@
+{
+  "id": "osm-5460739",
+  "slug": "lincolnshire-wolds-way-5460739",
+  "name": "Lincolnshire Wolds Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2406853,
+    "lon": -0.0531938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5460739
+  }
+}

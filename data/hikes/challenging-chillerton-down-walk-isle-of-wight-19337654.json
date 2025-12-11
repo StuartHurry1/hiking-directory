@@ -1,0 +1,23 @@
+{
+  "id": "osm-19337654",
+  "slug": "challenging-chillerton-down-walk-isle-of-wight-19337654",
+  "name": "Challenging Chillerton Down Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6443931,
+    "lon": -1.3208587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19337654
+  }
+}

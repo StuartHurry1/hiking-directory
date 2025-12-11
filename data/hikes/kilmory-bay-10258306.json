@@ -1,0 +1,23 @@
+{
+  "id": "osm-10258306",
+  "slug": "kilmory-bay-10258306",
+  "name": "Kilmory Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0091057,
+    "lon": -6.2705874
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10258306
+  }
+}

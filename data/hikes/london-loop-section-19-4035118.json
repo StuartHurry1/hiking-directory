@@ -1,0 +1,21 @@
+{
+  "id": "osm-4035118",
+  "slug": "london-loop-section-19-4035118",
+  "name": "London LOOP (Section 19)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6346225,
+    "lon": 0.0123688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4035118
+  }
+}

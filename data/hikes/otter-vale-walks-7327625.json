@@ -1,0 +1,21 @@
+{
+  "id": "osm-7327625",
+  "slug": "otter-vale-walks-7327625",
+  "name": "Otter Vale Walks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3884919,
+    "lon": 1.2933399
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7327625
+  }
+}

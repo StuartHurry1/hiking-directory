@@ -1,0 +1,21 @@
+{
+  "id": "osm-2796002",
+  "slug": "wortham-and-burgate-walks-2796002",
+  "name": "Wortham & Burgate Walks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3392882,
+    "lon": 1.0382677
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2796002
+  }
+}

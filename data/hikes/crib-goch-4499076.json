@@ -1,0 +1,21 @@
+{
+  "id": "osm-4499076",
+  "slug": "crib-goch-4499076",
+  "name": "Crib Goch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0754404,
+    "lon": -4.0588862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4499076
+  }
+}

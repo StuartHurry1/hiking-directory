@@ -1,0 +1,21 @@
+{
+  "id": "osm-10535219",
+  "slug": "capital-ring-section-04-alternative-for-dogs-in-norwood-grove-10535219",
+  "name": "Capital Ring (section 04) - alternative for dogs in Norwood Grove",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4185103,
+    "lon": -0.1145337
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10535219
+  }
+}

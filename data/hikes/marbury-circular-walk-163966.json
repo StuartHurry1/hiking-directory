@@ -1,0 +1,21 @@
+{
+  "id": "osm-163966",
+  "slug": "marbury-circular-walk-163966",
+  "name": "Marbury Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0070194,
+    "lon": -2.6554645
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 163966
+  }
+}

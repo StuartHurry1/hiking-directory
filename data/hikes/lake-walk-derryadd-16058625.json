@@ -1,0 +1,23 @@
+{
+  "id": "osm-16058625",
+  "slug": "lake-walk-derryadd-16058625",
+  "name": "Lake Walk (Derryadd)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4834628,
+    "lon": -6.5819237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16058625
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "osm-19914954",
+  "slug": "tom-gill-to-tarn-hows-walk-tarn-hows-and-coniston-19914954",
+  "name": "Tom Gill to Tarn Hows walk, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3898222,
+    "lon": -3.0464726
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19914954
+  }
+}

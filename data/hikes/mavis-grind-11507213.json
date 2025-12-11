@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507213",
+  "slug": "mavis-grind-11507213",
+  "name": "Mavis Grind",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3974524,
+    "lon": -1.3840778
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507213
+  }
+}

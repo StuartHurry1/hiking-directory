@@ -1,0 +1,43 @@
+{
+  "id": "osm-19122041",
+  "slug": "big-pool-and-dingle-walk-dudmaston-estate-19122041",
+  "name": "Big Pool and Dingle Walk, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4960532,
+    "lon": -2.3728215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19122041
+  },
+  "ai": {
+    "summary": "An easy 5.6 km circuit through the Dudmaston Estate, taking in the Big Pool and the Dingle. This walk is suitable for families and casual walkers, with gently graded woodland paths and estate trails.",
+    "terrain_summary": "Mostly easy, flat to gently rolling terrain with a mix of grassy estate paths, compact gravel tracks and woodland footpaths. Expect occasional muddy patches after rain and low branches in denser sections.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, be mindful of gates and livestock on estate land, and supervise children and dogs. Mobile signal may be unreliable in parts of the estate; carry a map or offline navigation as a backup.",
+    "recommended_gear": [
+      "sturdy waterproof hiking boots",
+      "water bottle or hydration system",
+      "weather-appropriate clothing (layers, rain jacket)",
+      "small backpack with snacks",
+      "map or offline GPS",
+      "phone with charged battery",
+      "sun protection (hat, sunscreen)",
+      "compact first aid kit",
+      "insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn; the route is accessible year-round with appropriate clothing.",
+    "seo": {
+      "title": "Big Pool and Dingle Walk, Dudmaston Estate – Easy 5.6 km Hike in the UK",
+      "meta_description": "Discover the easy 5.6 km Big Pool and Dingle Walk at Dudmaston Estate. Gentle woodland trails, scenic water features, and estate scenery ideal for families and casual walkers in the UK.",
+      "h1": "Big Pool and Dingle Walk, Dudmaston Estate (5.6 km, Easy)"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-1693977",
+  "slug": "acw-circular-walk-07a-short-cut-for-c07-1693977",
+  "name": "ACW Circular Walk 07A (short-cut for C07)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3402089,
+    "lon": -1.4780444
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1693977
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 07A is a 12.1 km moderate circular hike in the United Kingdom. It serves as a short-cut variation of C07 and returns to the starting point, weaving through countryside and minor trails with a mix of surfaces.",
+    "terrain_summary": "The route features mixed terrain typical of UK countryside: well-trodden footpaths, grassy fields, optionally muddy sections, some gates or stiles, and occasional roadside segments. Expect gentle to moderate climbs and uneven footing in places, with potential exposure to open winds.",
+    "safety_notes": "Carry a map or GPS and know your start point. Wear sturdy boots and weather-appropriate clothing. Watch for livestock and road crossings on exposed sections. Check the forecast for rain; muddy surfaces are common. Plan for 3.5–5 hours depending on pace. Bring water, snacks, a small first-aid kit, and a light layer for changes in temperature. Let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map and/or GPS device",
+      "Weather-appropriate clothing (layered)",
+      "Light rain jacket",
+      "Snacks or energy bars",
+      "Hat and sunscreen",
+      "Small first-aid kit",
+      "Headlamp or flashlight (in case of delays)"
+    ],
+    "best_seasons": "Spring to Autumn; winter walking is possible with appropriate gear and daylight, but expect wetter and muddier conditions.",
+    "seo": {
+      "title": "ACW Circular Walk 07A (C07 Shortcut) – 12.1 km Moderate UK Hiking Loop",
+      "meta_description": "Discover ACW Circular Walk 07A, a 12.1 km moderate circular hike in the UK. Learn terrain, safety tips, gear recommendations, and best seasons for this C07 shortcut.",
+      "h1": "ACW Circular Walk 07A (C07 Shortcut) — 12.1 km Moderate Hike"
+    }
+  }
+}

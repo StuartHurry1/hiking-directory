@@ -1,0 +1,21 @@
+{
+  "id": "osm-9331992",
+  "slug": "cape-wrath-trail-bendronaig-strathcarron-kinlochewe-9331992",
+  "name": "Cape Wrath Trail (Bendronaig → Strathcarron → Kinlochewe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 65.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3993308,
+    "lon": -5.3004098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9331992
+  }
+}

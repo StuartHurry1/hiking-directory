@@ -1,0 +1,40 @@
+{
+  "id": "osm-30891",
+  "slug": "burdiehouse-burn-valley-park-30891",
+  "name": "Burdiehouse Burn Valley Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8937586,
+    "lon": -3.1613313
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 30891
+  },
+  "ai": {
+    "summary": "Burdiehouse Burn Valley Park offers an easy 3.7 km loop along the Burdiehouse Burn, with woodland paths, wetlands and pleasant riverside scenery—perfect for a family-friendly, urban escape in the UK.",
+    "terrain_summary": "Mostly compact gravel and dirt trails with gentle gradients. Expect some tree roots, wooden boardwalks, and occasional muddy patches after rain. The route runs along the burn with sections close to the water and shaded woodland.",
+    "safety_notes": "Easy, but watch for uneven ground, roots and wet surfaces after rain. Keep children and dogs under control around the water and on shared paths with cyclists. Check weather and daylight hours; wear sturdy footwear and carry water.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking footwear",
+      "Water bottle",
+      "Light waterproof jacket or layer",
+      "Snacks or a small meal",
+      "Hat and sunscreen in sunny weather",
+      "Dog leash (if walking with dogs)"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions and scenery; the route is accessible year-round, though winter can be muddy and daylight may be limited.",
+    "seo": {
+      "title": "Burdiehouse Burn Valley Park Walk – Easy 3.7 km in the UK",
+      "meta_description": "Discover an easy 3.7 km loop at Burdiehouse Burn Valley Park. Family-friendly woodland trails, gentle gradients, and riverside scenery in the UK.",
+      "h1": "Burdiehouse Burn Valley Park: Easy 3.7 km Walk"
+    }
+  }
+}

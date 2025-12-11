@@ -1,0 +1,21 @@
+{
+  "id": "osm-8319447",
+  "slug": "risborough-orange-route-8319447",
+  "name": "Risborough Orange Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7324398,
+    "lon": -0.8146419
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8319447
+  }
+}

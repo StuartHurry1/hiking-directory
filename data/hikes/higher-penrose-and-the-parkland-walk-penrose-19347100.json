@@ -1,0 +1,21 @@
+{
+  "id": "osm-19347100",
+  "slug": "higher-penrose-and-the-parkland-walk-penrose-19347100",
+  "name": "Higher Penrose and the Parkland walk, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0860488,
+    "lon": -5.3020212
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347100
+  }
+}

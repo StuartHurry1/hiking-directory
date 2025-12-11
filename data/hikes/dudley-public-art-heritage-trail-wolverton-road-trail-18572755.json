@@ -1,0 +1,21 @@
+{
+  "id": "osm-18572755",
+  "slug": "dudley-public-art-heritage-trail-wolverton-road-trail-18572755",
+  "name": "Dudley Public Art Heritage Trail (Wolverton Road Trail)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5107886,
+    "lon": -2.0816384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18572755
+  }
+}

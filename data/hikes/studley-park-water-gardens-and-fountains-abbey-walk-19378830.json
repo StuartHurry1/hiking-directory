@@ -1,0 +1,21 @@
+{
+  "id": "osm-19378830",
+  "slug": "studley-park-water-gardens-and-fountains-abbey-walk-19378830",
+  "name": "Studley Park, Water Gardens and Fountains Abbey Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1129539,
+    "lon": -1.5844238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19378830
+  }
+}

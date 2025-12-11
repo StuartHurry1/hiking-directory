@@ -1,0 +1,21 @@
+{
+  "id": "osm-19039607",
+  "slug": "silsden-stroll-1-19039607",
+  "name": "Silsden Stroll 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9031072,
+    "lon": -1.9429512
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19039607
+  }
+}

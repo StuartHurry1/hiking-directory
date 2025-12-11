@@ -1,0 +1,21 @@
+{
+  "id": "osm-3537167",
+  "slug": "gustav-holst-way-holst-birthplace-museum-to-corndean-lane-3537167",
+  "name": "Gustav Holst Way (Holst Birthplace Museum to Corndean Lane)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9041409,
+    "lon": -2.0703991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3537167
+  }
+}

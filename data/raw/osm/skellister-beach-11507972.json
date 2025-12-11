@@ -1,0 +1,33 @@
+{
+  "id": 11507972,
+  "slug": "skellister-beach-11507972",
+  "name": "Skellister Beach",
+  "network": "lwn",
+  "tags": {
+    "designation": "access_route",
+    "name": "Skellister Beach",
+    "network": "lwn",
+    "official_ref": "ARNL03",
+    "route": "hiking",
+    "source": "Shetland Islands Council",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -1.1609941,
+      60.2797907
+    ],
+    [
+      -1.1607308,
+      60.2797274
+    ],
+    [
+      -1.1601055,
+      60.2796669
+    ],
+    [
+      -1.1597215,
+      60.2796397
+    ]
+  ]
+}

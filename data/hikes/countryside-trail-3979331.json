@@ -1,0 +1,21 @@
+{
+  "id": "osm-3979331",
+  "slug": "countryside-trail-3979331",
+  "name": "Countryside Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6511781,
+    "lon": 1.172084
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3979331
+  }
+}

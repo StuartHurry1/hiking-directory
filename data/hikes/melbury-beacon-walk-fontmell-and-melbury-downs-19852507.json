@@ -1,0 +1,21 @@
+{
+  "id": "osm-19852507",
+  "slug": "melbury-beacon-walk-fontmell-and-melbury-downs-19852507",
+  "name": "Melbury Beacon walk, Fontmell and Melbury Downs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9678184,
+    "lon": -2.1635259
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19852507
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "osm-19914927",
+  "slug": "tarn-hows-ranger-run-tarn-hows-and-coniston-19914927",
+  "name": "Tarn Hows Ranger Run, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.5,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3898222,
+    "lon": -3.0464726
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19914927
+  }
+}

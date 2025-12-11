@@ -1,0 +1,21 @@
+{
+  "id": "osm-10664175",
+  "slug": "loop-link-to-petts-wood-station-10664175",
+  "name": "LOOP Link to Petts Wood station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3928926,
+    "lon": 0.0687282
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10664175
+  }
+}

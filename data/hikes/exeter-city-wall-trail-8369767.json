@@ -1,0 +1,21 @@
+{
+  "id": "osm-8369767",
+  "slug": "exeter-city-wall-trail-8369767",
+  "name": "Exeter City Wall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7247275,
+    "lon": -3.5272109
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8369767
+  }
+}

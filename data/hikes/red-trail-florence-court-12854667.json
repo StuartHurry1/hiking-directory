@@ -1,0 +1,23 @@
+{
+  "id": "osm-12854667",
+  "slug": "red-trail-florence-court-12854667",
+  "name": "Red Trail, Florence Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.1,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2538876,
+    "lon": -7.7229197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12854667
+  }
+}

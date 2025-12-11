@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497965",
+  "slug": "henie-track-11497965",
+  "name": "Henie Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1300823,
+    "lon": -1.2120507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497965
+  }
+}

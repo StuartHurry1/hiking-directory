@@ -1,0 +1,23 @@
+{
+  "id": "osm-19774041",
+  "slug": "standedge-circuit-walk-19774041",
+  "name": "Standedge Circuit Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5763458,
+    "lon": -1.9221179
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774041
+  }
+}

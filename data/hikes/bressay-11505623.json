@@ -1,0 +1,43 @@
+{
+  "id": "osm-11505623",
+  "slug": "bressay-11505623",
+  "name": "Bressay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1407186,
+    "lon": -1.0778646
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505623
+  },
+  "ai": {
+    "summary": "A scenic coastal circuit of 14.1 km (8.8 miles) with moderate difficulty in the UK. The route combines coastal paths, open moorland, and rocky sections, offering open views, fresh sea air, and a steady pace suitable for hikers with moderate fitness.",
+    "terrain_summary": "The terrain varies from grassy coastal trails and compact dirt paths to rocky outcrops and occasional boggy or uneven sections. Expect some gentle climbs, exposed stretches along the water, and stiles or gate crossings. Footing can be uneven and slippery after rain; waterproof footwear is recommended. Wind and spray are common on the coast.",
+    "safety_notes": "Check the weather and tide conditions before you start. The route includes exposed coastal sections where winds can be strong. Wear sturdy, waterproof footwear and dress in layers. Carry a map or GPS and a fully charged phone; inform someone of your plan. Stay to marked paths, monitor footing on rocky sections, and be prepared for limited mobile reception in remote parts.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and extra layer",
+      "Map and compass or GPS",
+      "Sufficient water and high-energy snacks",
+      "Sun protection (hat, sunscreen)",
+      "Gloves and warm hat for cool conditions",
+      "Lightweight backpack with rain cover",
+      "First aid kit",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offers milder weather and longer daylight for a comfortable 14.1 km hike; be prepared for wind and rain any time of year.",
+    "seo": {
+      "title": "Bressay Hike: 14.1 km Moderate Coastal Trail in the UK",
+      "meta_description": "Discover a 14.1 km moderate coastal hike around Bressay in the UK. Read terrain notes, safety tips, gear suggestions, and the best seasons for this scenic coastal route.",
+      "h1": "Bressay Coastal Hike – 14.1 km, Moderate Difficulty"
+    }
+  }
+}

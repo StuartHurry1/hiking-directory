@@ -1,0 +1,24 @@
+{
+  "id": "osm-19514585",
+  "slug": "king-charles-iii-england-coast-path-humber-bridge-to-easington-19514585",
+  "name": "King Charles III England Coast Path: Humber Bridge to Easington",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 143.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7167673,
+    "lon": -0.4510059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19514585
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-11508166",
+  "slug": "northumberland-coast-path-11508166",
+  "name": "Northumberland Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 224.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2353473,
+    "lon": -1.539955
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11508166
+  }
+}

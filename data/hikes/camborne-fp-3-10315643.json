@@ -1,0 +1,40 @@
+{
+  "id": "osm-10315643",
+  "slug": "camborne-fp-3-10315643",
+  "name": "Camborne FP 3",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2262994,
+    "lon": -5.3466176
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10315643
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km hike along Camborne FP 3 in the UK. The route is suitable for beginners, families, and walkers seeking a quick outdoor outing with minimal ascent and a well-defined footpath.",
+    "terrain_summary": "Easy terrain with a well-defined footpath surface. Mostly flat with occasional gentle undulations. Surfaces may include compacted earth, gravel, and short grassy sections. Expect damp patches after rain and seasonal mud.",
+    "safety_notes": "Bring appropriate clothing and footwear for variable UK weather. Keep to the marked path, watch for slippery surfaces after rain, and be mindful of other users. Bring a map or offline navigation and let someone know your plans if hiking alone. The trail length is short, but children and pets should be supervised at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water and a small snack",
+      "Weather-appropriate clothing (layers and a waterproof layer)",
+      "Phone or map with offline navigation",
+      "Sunscreen and a hat for sunny days",
+      "Optional: lightweight rain jacket and small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with appropriate footwear and clothing for winter conditions.",
+    "seo": {
+      "title": "Camborne FP 3: Easy 1.2 km UK Hike",
+      "meta_description": "Discover Camborne FP 3, an easy 1.2 km hike in the UK. Learn about the terrain, safety tips, and gear for a quick, family-friendly outdoor stroll.",
+      "h1": "Camborne FP 3 – Easy 1.2 km Hike in the UK"
+    }
+  }
+}

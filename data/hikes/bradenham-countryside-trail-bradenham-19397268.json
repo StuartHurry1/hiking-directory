@@ -1,0 +1,45 @@
+{
+  "id": "osm-19397268",
+  "slug": "bradenham-countryside-trail-bradenham-19397268",
+  "name": "Bradenham Countryside Trail, Bradenham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.8,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6705267,
+    "lon": -0.8009127
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19397268
+  },
+  "ai": {
+    "summary": "Bradenham Countryside Trail is a 14.8 km moderate hike near Bradenham, UK. The route highlights ridge scenery, hedgerows, and varied countryside, suitable for walkers with some experience and solid footwear.",
+    "terrain_summary": "Predominantly rural paths with gentle to moderate elevation. Expect grassy tracks, field edges, woodland sections, and occasional exposed ridge viewpoints. Surfaces can be uneven and slippery after rain.",
+    "safety_notes": "- Weather in the UK can change quickly, especially on exposed ridges—check the forecast and daylight hours. - Wear sturdy boots and weather-appropriate clothing; bring a waterproof layer. - Carry a map or GPS and stay on marked paths. - Bring enough water and snacks, plus a small first-aid kit. - Tell someone your plan and expected return. - Be mindful of livestock in fields and watch for mud and slippery surfaces after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Map and compass or GPS device",
+      "Sufficient water and high-energy snacks",
+      "Hat, sunscreen, and sunglasses",
+      "Small first aid kit and basic emergency items",
+      "Phone with offline maps and emergency contacts",
+      "Headlamp or flashlight (in case of late finish)",
+      "Walking poles (optional for stability)"
+    ],
+    "best_seasons": "Spring through autumn are typically the best seasons for this trail; winter hiking is possible with extra preparation and daylight awareness.",
+    "seo": {
+      "title": "Bradenham Countryside Trail – 14.8 km Ridge Walk in the UK",
+      "meta_description": "Explore the Bradenham Countryside Trail, a 14.8 km moderate ridge hike near Bradenham, UK. Practical safety tips, gear list, and seasonal guidance.",
+      "h1": "Bradenham Countryside Trail – 14.8 km Ridge Walk"
+    }
+  }
+}

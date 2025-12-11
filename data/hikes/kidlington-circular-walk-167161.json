@@ -1,0 +1,21 @@
+{
+  "id": "osm-167161",
+  "slug": "kidlington-circular-walk-167161",
+  "name": "Kidlington Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8293725,
+    "lon": -1.2793801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 167161
+  }
+}

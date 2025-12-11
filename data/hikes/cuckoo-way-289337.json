@@ -1,0 +1,21 @@
+{
+  "id": "osm-289337",
+  "slug": "cuckoo-way-289337",
+  "name": "Cuckoo Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 112,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2431599,
+    "lon": -1.4209429
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 289337
+  }
+}

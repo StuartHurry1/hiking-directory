@@ -1,0 +1,46 @@
+{
+  "id": "osm-1731291",
+  "slug": "calderdale-way-1731291",
+  "name": "Calderdale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 207.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7079719,
+    "lon": -1.8217479
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1731291
+  },
+  "ai": {
+    "summary": "The Calderdale Way is a demanding long-distance trail that loops through the Calderdale area of West Yorkshire, UK, covering about 207.6 km. This hard route combines river valleys, upland moorland, rough tracks and quiet lanes, offering varied scenery from steep ascents and rugged ridges to pastoral villages. Expect significant elevation changes, multiple days on foot, and frequent navigation decisions.",
+    "terrain_summary": "Terrain is highly varied and often challenging: river and canal paths, grassy moorland and rocky outcrops, limestone pavements in places, muddy tracks after rain, and cattle-grazed fields with stiles. Sections run along exposed ridges with changing weather, while other stretches follow quiet lanes and wooded valleys. Prepare for sustained hard walking with occasional longer road sections.",
+    "safety_notes": "Plan as a multi-day trek with proper navigation (map and compass). Check weather forecasts and daylight hours; weather can change quickly in upland areas. Wear sturdy boots, carry waterproofs and warm layers, and bring sufficient food and water. Have a route plan, tell someone your itinerary, and carry a simple first aid kit and emergency whistle. Be prepared for variable conditions and potential remote stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and overtrousers",
+      "Insulating layers (fleece or down), hat and gloves",
+      "Map and compass (and/or GPS) and a fully charged phone with offline maps",
+      "Water and a means to purify or treat drinking water",
+      "High-energy food and snack supplies",
+      "Lightweight tent or bivvy bag if planning overnighting outdoors",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and emergency shelter/foil blanket",
+      "Walking poles (optional but helpful)",
+      "Sun protection (sunglasses, sunscreen)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is generally best for the Calderdale Way in the UK, offering longer daylight and more stable conditions. Winter walking is possible but demanding and weather can be severe.",
+    "seo": {
+      "title": "Calderdale Way — 207.6 km Hard-Distance Trail in West Yorkshire, UK",
+      "meta_description": "Discover the Calderdale Way, a challenging 207.6 km long-distance hiking route in West Yorkshire, UK. Learn about terrain, safety tips, and essential gear for a multi-day trek.",
+      "h1": "Calderdale Way: A 208 km Hard-Distance Trail in West Yorkshire, UK"
+    }
+  }
+}

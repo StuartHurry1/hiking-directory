@@ -1,0 +1,23 @@
+{
+  "id": "osm-11738490",
+  "slug": "king-charles-iii-england-coast-path-folkestone-to-ramsgate-11738490",
+  "name": "King Charles III England Coast Path: Folkestone to Ramsgate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 113.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0732711,
+    "lon": 1.1613143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11738490
+  }
+}

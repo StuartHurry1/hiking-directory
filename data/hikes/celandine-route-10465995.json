@@ -1,0 +1,21 @@
+{
+  "id": "osm-10465995",
+  "slug": "celandine-route-10465995",
+  "name": "Celandine Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5929857,
+    "lon": -0.3807367
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10465995
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19775346",
+  "slug": "hosey-common-to-mariners-hill-loop-walk-chartwell-19775346",
+  "name": "Hosey Common to Mariners Hill Loop Walk, Chartwell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2588324,
+    "lon": 0.0803651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19775346
+  }
+}

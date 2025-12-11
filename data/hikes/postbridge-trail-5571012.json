@@ -1,0 +1,23 @@
+{
+  "id": "osm-5571012",
+  "slug": "postbridge-trail-5571012",
+  "name": "Postbridge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5782854,
+    "lon": -3.9064027
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5571012
+  }
+}

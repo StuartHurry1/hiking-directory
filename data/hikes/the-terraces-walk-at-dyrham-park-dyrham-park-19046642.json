@@ -1,0 +1,21 @@
+{
+  "id": "osm-19046642",
+  "slug": "the-terraces-walk-at-dyrham-park-dyrham-park-19046642",
+  "name": "The terraces walk at Dyrham Park, Dyrham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.480366,
+    "lon": -2.3640497
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19046642
+  }
+}

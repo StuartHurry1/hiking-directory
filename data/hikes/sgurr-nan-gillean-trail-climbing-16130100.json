@@ -1,0 +1,21 @@
+{
+  "id": "osm-16130100",
+  "slug": "sgurr-nan-gillean-trail-climbing-16130100",
+  "name": "Sgurr nan Gillean Trail (Climbing)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2897948,
+    "lon": -6.1744975
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16130100
+  }
+}

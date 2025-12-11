@@ -1,0 +1,23 @@
+{
+  "id": "osm-17956016",
+  "slug": "h100-sedgefield-17956016",
+  "name": "H100 - Sedgefield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6530942,
+    "lon": -1.4497995
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17956016
+  }
+}

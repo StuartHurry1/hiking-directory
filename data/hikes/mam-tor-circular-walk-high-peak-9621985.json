@@ -1,0 +1,21 @@
+{
+  "id": "osm-9621985",
+  "slug": "mam-tor-circular-walk-high-peak-9621985",
+  "name": "Mam Tor Circular Walk, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3462434,
+    "lon": -1.8153006
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9621985
+  }
+}

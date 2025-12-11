@@ -7,12 +7,35 @@
   "difficulty": "moderate",
   "summary": "A scenic ridge walk with broad views over the surrounding countryside.",
   "terrain": "Field paths, farm tracks and a short rocky ridge section.",
-  "estimated_time_hours": 3.0,
+  "estimated_time_hours": 3,
   "ascent_meters": 350,
   "gpx_path": "gpx/example-ridge-walk.gpx",
   "start": {
     "lat": 53.42,
     "lon": -1.3,
     "nearest_postcode": "S66 7RR"
+  },
+  "ai": {
+    "summary": "Example Ridge Walk is a moderate-intensity ridge trail in Test Region suitable for hikers with some experience. The route offers scenic views along exposed ridge sections and rolling terrain, with the exact distance not specified.",
+    "terrain_summary": "Expect a mix of rocky paths, firmer tread on the ridge, occasional scree, and forested sections at lower elevations. The trail is uneven underfoot with short climbs and descents; some exposed segments require caution in windy or wet conditions.",
+    "safety_notes": "Check the forecast and avoid the hike in high winds or heavy rain. Wear sturdy boots with good grip; stay on marked paths; watch for loose rocks on ridge sections; bring adequate water and sun protection; inform someone of your plans; cell service may be limited in remote areas; carry a lightweight headlamp or flashlight as a precaution.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate layered clothing (base layer, insulating layer, wind/rain shell)",
+      "Water supply (2–3 liters) and a compact electrolyte option",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Map and/or GPS device or a fully charged smartphone with offline maps",
+      "First aid kit and emergency whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Snacks or energy bars",
+      "Light rain jacket and a warm layer for exposure",
+      "Compact emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring through autumn in temperate regions; winter hiking is possible with proper gear and knowledge of snow/ice conditions.",
+    "seo": {
+      "title": "Example Ridge Walk – Moderate Ridge Hike in Test Region",
+      "meta_description": "Explore the Example Ridge Walk in Test Region. A moderate ridge trail with scenic views, practical safety tips, and a gear guide.",
+      "h1": "Example Ridge Walk in Test Region"
+    }
   }
 }

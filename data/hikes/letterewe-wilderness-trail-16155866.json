@@ -1,0 +1,21 @@
+{
+  "id": "osm-16155866",
+  "slug": "letterewe-wilderness-trail-16155866",
+  "name": "Letterewe Wilderness Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 76,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.608738,
+    "lon": -5.2863125
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16155866
+  }
+}

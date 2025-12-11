@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376414",
+  "slug": "south-west-coast-path-section-49-isle-of-portland-circuit-2376414",
+  "name": "South West Coast Path (Section 49: Isle of Portland Circuit)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5852291,
+    "lon": -2.4721165
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376414
+  }
+}

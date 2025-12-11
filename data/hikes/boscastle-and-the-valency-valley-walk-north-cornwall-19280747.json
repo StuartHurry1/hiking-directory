@@ -1,0 +1,47 @@
+{
+  "id": "osm-19280747",
+  "slug": "boscastle-and-the-valency-valley-walk-north-cornwall-19280747",
+  "name": "Boscastle and the Valency Valley walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6899343,
+    "lon": -4.6894488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280747
+  },
+  "ai": {
+    "summary": "A 13.4 km moderate coastal walk starting and finishing in Boscastle, Cornwall. The route combines cliff-top coastal paths with a pleasant detour into the Valency Valley, offering sea views, estuary scenery, woodland trails and farmland tracks. Suitable for walkers with some experience, featuring undulating terrain, occasional steps and gates, and exposed sections along the coast.",
+    "terrain_summary": "Predominantly coastal paths along the North Cornwall cliffs, interspersed with woodland and field tracks. Expect uneven, rocky or grassy surfaces, gates and stiles, short steep sections, and occasional muddy patches after rain. Some coastal sections are exposed with uneven footing and narrow paths beside the cliff edge; there are several viewpoints overlooking the sea and the Valency Valley.",
+    "safety_notes": "Check tide times and weather before setting out, as coastal sections can be exposed and slippery. Wear sturdy waterproof footwear and bring layered clothing for wind and rain; Cornwall weather can change quickly. Stay away from cliff edges, keep children and dogs under control, and don't linger near unstable sections. Carry a map or GPS, sufficient water and snacks, a charged phone (signal may be patchy in the valley), a small first-aid kit and a whistle for emergencies. Allow plenty of time to complete the loop in daylight.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Waterproof/windproof jacket",
+      "Layered clothing suitable for changing conditions",
+      "Hat and gloves (seasonal)",
+      "Backpack with water bladder or water bottle",
+      "Snacks or energy bars",
+      "Map, GPS device or offline map",
+      "First aid kit and basic essentials",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers the best weather and daylight for this coastal hike; be prepared for wind and rain at any time in Cornwall.",
+    "seo": {
+      "title": "Boscastle and the Valency Valley Walk – 13.4 km Coastal Hike in North Cornwall, UK",
+      "meta_description": "Discover a 13.4 km moderate coastal hike from Boscastle to the Valency Valley and back. Enjoy cliff-top views, woodland valleys, and river scenery in North Cornwall, with practical safety tips and gear recommendations.",
+      "h1": "Boscastle and the Valency Valley Walk – 13.4 km Coastal Route in North Cornwall"
+    }
+  }
+}

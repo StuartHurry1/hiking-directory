@@ -1,0 +1,21 @@
+{
+  "id": "osm-2964581",
+  "slug": "castle-ward-castle-trail-2964581",
+  "name": "Castle Ward - Castle Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3732958,
+    "lon": -5.5777901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2964581
+  }
+}

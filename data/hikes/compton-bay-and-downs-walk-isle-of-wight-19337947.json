@@ -1,0 +1,23 @@
+{
+  "id": "osm-19337947",
+  "slug": "compton-bay-and-downs-walk-isle-of-wight-19337947",
+  "name": "Compton Bay and Downs Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6670718,
+    "lon": -1.4611935
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19337947
+  }
+}

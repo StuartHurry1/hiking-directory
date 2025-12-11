@@ -1,0 +1,21 @@
+{
+  "id": "osm-536582",
+  "slug": "medway-valley-walk-536582",
+  "name": "Medway Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 191.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2585335,
+    "lon": 0.4692766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 536582
+  }
+}

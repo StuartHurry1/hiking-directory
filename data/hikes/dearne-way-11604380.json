@@ -1,0 +1,21 @@
+{
+  "id": "osm-11604380",
+  "slug": "dearne-way-11604380",
+  "name": "Dearne Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 77,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5746788,
+    "lon": -1.6483202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11604380
+  }
+}

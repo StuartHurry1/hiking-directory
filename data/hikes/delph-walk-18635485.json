@@ -1,0 +1,21 @@
+{
+  "id": "osm-18635485",
+  "slug": "delph-walk-18635485",
+  "name": "Delph Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4847802,
+    "lon": -2.1142533
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18635485
+  }
+}

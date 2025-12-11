@@ -1,0 +1,21 @@
+{
+  "id": "osm-1842172",
+  "slug": "devonshire-heartland-way-1842172",
+  "name": "Devonshire Heartland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 124.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7331255,
+    "lon": -3.9893789
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1842172
+  }
+}

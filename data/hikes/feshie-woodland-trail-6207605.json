@@ -1,0 +1,21 @@
+{
+  "id": "osm-6207605",
+  "slug": "feshie-woodland-trail-6207605",
+  "name": "Feshie Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1152647,
+    "lon": -3.8987013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6207605
+  }
+}

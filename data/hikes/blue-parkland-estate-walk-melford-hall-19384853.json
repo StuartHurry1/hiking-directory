@@ -1,0 +1,41 @@
+{
+  "id": "osm-19384853",
+  "slug": "blue-parkland-estate-walk-melford-hall-19384853",
+  "name": "Blue Parkland Estate Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0825375,
+    "lon": 0.7238766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19384853
+  },
+  "ai": {
+    "summary": "A gentle 3.6 km loop at Blue Parkland Estate around Melford Hall in the UK, offering easy, family-friendly paths through parkland and estate grounds with varied scenery.",
+    "terrain_summary": "Mostly flat, well-maintained paths suitable for most walkers and families. Varied surfaces include gravel and compacted earth; some grassy or uneven sections may appear after rain. Stroller-friendly on main routes.",
+    "safety_notes": "Carry water and dress for changeable UK weather. Stay on designated paths and respect private areas around Melford Hall. Be mindful of other users, including cyclists and dog walkers. Check access rules and any seasonal closures; watch for slippery surfaces after rain and at dawn/dusk.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunscreen for sunny days",
+      "Layered clothing for changing weather",
+      "Map, guidebook, or offline map on your phone",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn typically offer the best conditions and scenery; the walk is accessible year-round, but be prepared for rain and cooler temperatures in winter.",
+    "seo": {
+      "title": "Blue Parkland Estate Walk, Melford Hall, UK – 3.6 km Easy Walk",
+      "meta_description": "Explore the Blue Parkland Estate Walk near Melford Hall in the UK. A gentle 3.6 km easy hike through parkland with accessible paths suitable for families and casual walkers.",
+      "h1": "Blue Parkland Estate Walk, Melford Hall (UK) – 3.6 km Easy Walk"
+    }
+  }
+}

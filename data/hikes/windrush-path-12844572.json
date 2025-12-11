@@ -1,0 +1,21 @@
+{
+  "id": "osm-12844572",
+  "slug": "windrush-path-12844572",
+  "name": "Windrush Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7183483,
+    "lon": -1.4384146
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12844572
+  }
+}

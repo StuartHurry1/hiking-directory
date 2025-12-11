@@ -1,0 +1,21 @@
+{
+  "id": "osm-11545216",
+  "slug": "way-of-life-gainford-to-escomb-11545216",
+  "name": "Way of Life - Gainford to Escomb",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5455479,
+    "lon": -1.7389221
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11545216
+  }
+}

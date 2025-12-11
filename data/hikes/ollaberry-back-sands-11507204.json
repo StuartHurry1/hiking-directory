@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507204",
+  "slug": "ollaberry-back-sands-11507204",
+  "name": "Ollaberry Back Sands",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5071774,
+    "lon": -1.3330096
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507204
+  }
+}

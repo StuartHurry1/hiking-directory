@@ -1,0 +1,21 @@
+{
+  "id": "osm-5012226",
+  "slug": "moretonhampstead-north-bovey-circular-5012226",
+  "name": "Moretonhampstead North Bovey Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6604225,
+    "lon": -3.7677506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5012226
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19158346",
+  "slug": "lanhydrock-parkland-walk-lanhydrock-19158346",
+  "name": "Lanhydrock Parkland walk, Lanhydrock",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4432247,
+    "lon": -4.6961877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19158346
+  }
+}

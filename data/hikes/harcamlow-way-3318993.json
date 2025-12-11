@@ -1,0 +1,21 @@
+{
+  "id": "osm-3318993",
+  "slug": "harcamlow-way-3318993",
+  "name": "Harcamlow Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 514.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9967694,
+    "lon": 0.2357481
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3318993
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18559232",
+  "slug": "warley-woods-tree-trail-18559232",
+  "name": "Warley Woods Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4698435,
+    "lon": -1.9801517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18559232
+  }
+}

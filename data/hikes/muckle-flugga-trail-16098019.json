@@ -1,0 +1,21 @@
+{
+  "id": "osm-16098019",
+  "slug": "muckle-flugga-trail-16098019",
+  "name": "Muckle Flugga Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.8183646,
+    "lon": -0.8783295
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16098019
+  }
+}

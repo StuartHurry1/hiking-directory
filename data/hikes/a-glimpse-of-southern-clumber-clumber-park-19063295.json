@@ -1,0 +1,49 @@
+{
+  "id": "osm-19063295",
+  "slug": "a-glimpse-of-southern-clumber-clumber-park-19063295",
+  "name": "A Glimpse of Southern Clumber, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.4,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2655767,
+    "lon": -1.062425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19063295
+  },
+  "ai": {
+    "summary": "A demanding 18.4 km loop around Southern Clumber in Clumber Park, UK, offering lakeside scenery, woodlands, and long stretches on mixed terrain. Expect tired legs and mud after rain, with rewarding views across the park’s lakes.",
+    "terrain_summary": "The route uses a mix of gravel paths, dirt trails, boardwalks around water, and occasional grassy or uneven sections. Surface quality varies with weather: dry days are firm, after rain can be muddy and slippery. Expect some gentle to moderate gradients, gates, and exposed lakeside sections.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear and bring layers for changing UK conditions. Stay on the marked paths near lakes; be cautious of slippery edges and muddy sections. Respect wildlife and park rules; keep dogs under control. Bring navigation tools, extra food and water, and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and warm layers",
+      "Backpack with waterproof cover",
+      "Water and high-energy snacks",
+      "Map, compass or GPS",
+      "Headlamp or flashlight",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)",
+      "First aid kit",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Emergency whistle",
+      "Mobile phone with offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) when trails are drier and lake views are at their best; winter hikes are possible but can be cold, wet, and harder due to mud and limited daylight.",
+    "seo": {
+      "title": "A Glimpse of Southern Clumber, Clumber Park – 18.4 km Hard Lakes Hike in the UK",
+      "meta_description": "Explore an 18.4 km hard hike around Southern Clumber at Clumber Park, featuring lakes, woodlands and varied terrain in the UK.",
+      "h1": "A Glimpse of Southern Clumber, Clumber Park – 18.4 km Hard Lakes Hike"
+    }
+  }
+}

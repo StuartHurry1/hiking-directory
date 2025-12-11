@@ -1,0 +1,23 @@
+{
+  "id": "osm-15779739",
+  "slug": "telford-t50-15779739",
+  "name": "Telford T50",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 194.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6683758,
+    "lon": -2.4470945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15779739
+  }
+}

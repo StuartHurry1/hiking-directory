@@ -1,0 +1,21 @@
+{
+  "id": "osm-4154763",
+  "slug": "carron-crag-trail-4154763",
+  "name": "Carron Crag Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.339889,
+    "lon": -3.0249832
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4154763
+  }
+}

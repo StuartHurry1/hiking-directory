@@ -1,0 +1,21 @@
+{
+  "id": "osm-10547270",
+  "slug": "soham-millennium-walk-red-route-10547270",
+  "name": "Soham Millennium Walk (Red Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3340771,
+    "lon": 0.3369837
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10547270
+  }
+}

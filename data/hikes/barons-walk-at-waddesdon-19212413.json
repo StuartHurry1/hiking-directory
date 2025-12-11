@@ -1,0 +1,43 @@
+{
+  "id": "osm-19212413",
+  "slug": "barons-walk-at-waddesdon-19212413",
+  "name": "Baron's Walk at Waddesdon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8429447,
+    "lon": -0.9367177
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19212413
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate circular hike around Baron's Walk at Waddesdon, taking you through a mix of parkland, estate paths, and woodlands with gentle elevation. Suitable for a relaxed day of exploration of formal grounds and countryside scenery in the UK.",
+    "terrain_summary": "The route combines wide gravel and estate paths with grassy sections. Expect compact dirt trails and occasional steps, with potential mud after rain. Elevation is gentle to moderate, featuring a few small climbs but generally easy for most hikers.",
+    "safety_notes": "Check access and opening times for estate grounds. Respect private signs and gates, and stay on marked paths. Keep dogs on leash where required. Watch for other walkers and cyclists. Wear sturdy footwear and weather-appropriate clothing, and carry water, a map or offline navigation, and a basic first-aid kit. In bad weather, paths can be slippery; avoid the route during severe conditions.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing and layers",
+      "Water and light snacks",
+      "Map, offline GPS, or a fully charged phone",
+      "Small backpack",
+      "Sunscreen and hat",
+      "Light rain jacket",
+      "Basic first aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring, summer, and early autumn offer the most pleasant conditions; dry weather provides the best trails. Winter hikes may be muddy or icy and less comfortable.",
+    "seo": {
+      "title": "Baron's Walk at Waddesdon – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Explore Baron's Walk at Waddesdon with this 6.3 km moderate hike. Terrain overview, safety tips, gear list, and seasonal guidance for walkers in the UK.",
+      "h1": "Baron's Walk at Waddesdon — 6.3 km Moderate Hike"
+    }
+  }
+}

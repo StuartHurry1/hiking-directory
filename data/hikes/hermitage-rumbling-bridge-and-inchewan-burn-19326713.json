@@ -1,0 +1,23 @@
+{
+  "id": "osm-19326713",
+  "slug": "hermitage-rumbling-bridge-and-inchewan-burn-19326713",
+  "name": "Hermitage, Rumbling Bridge and Inchewan Burn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.566199,
+    "lon": -3.5864099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19326713
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16855257",
+  "slug": "gm-ringway-stage-8-16855257",
+  "name": "GM Ringway Stage 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4407437,
+    "lon": -2.0170418
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16855257
+  }
+}

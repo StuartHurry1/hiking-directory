@@ -1,0 +1,21 @@
+{
+  "id": "osm-10376070",
+  "slug": "crowan-fp-53-10376070",
+  "name": "Crowan FP 53",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1882854,
+    "lon": -5.3177556
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10376070
+  }
+}

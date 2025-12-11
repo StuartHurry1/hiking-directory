@@ -1,0 +1,21 @@
+{
+  "id": "osm-9509911",
+  "slug": "stoke-field-trail-9509911",
+  "name": "Stoke Field Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0293034,
+    "lon": -0.888771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9509911
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14594959",
+  "slug": "eynort-loop-14594959",
+  "name": "Eynort Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2600567,
+    "lon": -6.3391288
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594959
+  }
+}

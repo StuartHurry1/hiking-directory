@@ -1,0 +1,21 @@
+{
+  "id": "osm-10339117",
+  "slug": "carn-brea-fp-12-10339117",
+  "name": "Carn Brea FP 12",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2170421,
+    "lon": -5.2735058
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10339117
+  }
+}

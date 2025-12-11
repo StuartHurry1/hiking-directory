@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507380",
+  "slug": "papil-water-11507380",
+  "name": "Papil Water",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5925466,
+    "lon": -0.8941092
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507380
+  }
+}

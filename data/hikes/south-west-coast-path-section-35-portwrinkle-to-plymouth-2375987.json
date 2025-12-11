@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375987",
+  "slug": "south-west-coast-path-section-35-portwrinkle-to-plymouth-2375987",
+  "name": "South West Coast Path (Section 35: Portwrinkle to Plymouth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3617615,
+    "lon": -4.3059153
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375987
+  }
+}

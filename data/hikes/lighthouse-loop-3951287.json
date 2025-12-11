@@ -1,0 +1,21 @@
+{
+  "id": "osm-3951287",
+  "slug": "lighthouse-loop-3951287",
+  "name": "Lighthouse Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9087268,
+    "lon": -2.1429013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3951287
+  }
+}

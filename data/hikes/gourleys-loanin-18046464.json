@@ -1,0 +1,21 @@
+{
+  "id": "osm-18046464",
+  "slug": "gourleys-loanin-18046464",
+  "name": "Gourley's Loanin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4086983,
+    "lon": -6.1563639
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18046464
+  }
+}

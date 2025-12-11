@@ -1,0 +1,45 @@
+{
+  "id": "osm-11505715",
+  "slug": "binna-ness-11505715",
+  "name": "Binna Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2128082,
+    "lon": -1.2973025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505715
+  },
+  "ai": {
+    "summary": "A long, demanding 17.8 km hike in the UK, suitable for experienced hikers with good fitness and navigation skills. Expect varied terrain and a remote feel, with potential exposure and several hours on the trail.",
+    "terrain_summary": "The route traverses mixed terrain including grassy moorland, rocky paths, and uneven footing. Expect boggy sections and occasional exposed ground on higher sections; navigation can be remote in places.",
+    "safety_notes": "Plan for rapidly changing UK weather. Carry map and compass in addition to any electronic devices; don’t rely on a phone for navigation. Inform someone of your plan and expected return. Bring enough water and energy; snacks and a little extra in case of delays. Wear sturdy waterproof boots and layered clothing; be prepared for wind, rain, and cold. Watch for boggy ground and loose rocks; take care on exposed or uneven sections. In high winds or poor visibility, consider delaying or avoiding exposed ridges. Carry a small first aid kit, whistle, and emergency blanket or bivouac. Allow extra time; this is a long, strenuous day.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and overtrousers",
+      "Warm layers (fleece or insulating mid-layer, hat, gloves)",
+      "Water and high-energy snacks (2–3 liters, plus snacks)",
+      "Map and compass (and GPS as backup)",
+      "Whistle and personal identification",
+      "Small first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency blanket or bivouac sack",
+      "Sun protection (sunscreen, sunglasses)",
+      "Walking poles (optional but helpful on rough terrain)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers milder weather and longer daylight; summer provides the most daylight but can be busier. Winter hikes are possible but require advanced skills and proper cold-weather gear.",
+    "seo": {
+      "title": "Binna Ness Hike Guide – 17.8 km Hard Trail in the UK",
+      "meta_description": "Discover Binna Ness: a demanding 17.8 km UK hike with varied terrain, practical safety notes, gear list, and best seasons for a successful trek.",
+      "h1": "Binna Ness – 17.8 km Hard Hike in the UK"
+    }
+  }
+}

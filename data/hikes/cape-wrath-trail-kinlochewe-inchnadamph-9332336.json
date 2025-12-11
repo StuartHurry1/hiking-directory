@@ -1,0 +1,21 @@
+{
+  "id": "osm-9332336",
+  "slug": "cape-wrath-trail-kinlochewe-inchnadamph-9332336",
+  "name": "Cape Wrath Trail (Kinlochewe → Inchnadamph)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 216.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6039305,
+    "lon": -5.2983471
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9332336
+  }
+}

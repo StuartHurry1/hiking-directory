@@ -1,0 +1,46 @@
+{
+  "id": "osm-3331833",
+  "slug": "bute-path-network-3331833",
+  "name": "Bute Path Network",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8433555,
+    "lon": -5.0370258
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3331833
+  },
+  "ai": {
+    "summary": "A challenging 66.2 km long-distance hike through rural landscapes in the United Kingdom. The Bute Path Network offers a strenuous itinerary for experienced walkers, combining diverse terrains and potentially variable weather. The exact region is not specified, so use caution with navigation and accommodations; the route can be split into 2–3 days depending on pace and planning.",
+    "terrain_summary": "The trail covers a mix of surfaces including country lanes, gravel and peat tracks, woodland paths, grassy moorland, and occasional coastal segments. Expect elevation changes, uneven ground, and muddy conditions after rain. Navigation relies on markers and maps; be prepared for occasional remote sections with limited facilities.",
+    "safety_notes": "Plan in advance with up-to-date maps and weather forecasts. Start early to maximize daylight; carry a fully charged phone as a backup but rely on maps and compass for navigation. Wear sturdy boots and waterproof clothing; be prepared for sudden UK weather changes. Tell someone your itinerary and expected return, and have an emergency plan for remote sections. Stay hydrated, manage fatigue, and know your limits—this is a long and hard route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Waterproof pants and a lightweight rain shell",
+      "Backpack 20–40 liters with rain cover",
+      "Map and compass (and a GPS device as backup)",
+      "Hydration system or multiple water bottles + high-energy snacks",
+      "First aid kit with blister care",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency blanket or bivvy sack",
+      "Whistle and ID",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) for better daylight and milder conditions; outside this window, the route can be more challenging due to weather and limited daylight.",
+    "seo": {
+      "title": "Bute Path Network – 66.2 km Hard Hike in the UK",
+      "meta_description": "Discover the Bute Path Network, a demanding 66.2 km UK trail. Read about terrain, safety, and gear for experienced hikers planning a multi-day trek.",
+      "h1": "Bute Path Network: A 66.2 km Hard Hike in the UK"
+    }
+  }
+}

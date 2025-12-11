@@ -1,0 +1,46 @@
+{
+  "id": "osm-8257244",
+  "slug": "brixham-heritage-trail-8257244",
+  "name": "Brixham Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3984031,
+    "lon": -3.4895117
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8257244
+  },
+  "ai": {
+    "summary": "A demanding coastal heritage hike around Brixham, covering 19.1 km with steep climbs and uneven surfaces, offering sea views, harbours, and historic sites.",
+    "terrain_summary": "Rugged coastal paths, uneven stony tracks, steps, and cliffside sections, with some road crossings. Expect long ascents, exposed winds, and variable footing; sturdy boots and careful footing are essential.",
+    "safety_notes": "Check tide timings for any shoreline segments; weather can change rapidly on the coast—bring waterproofs and warm layers. Stay well back from cliff edges, carry a map or GPS, and hike with a partner or inform someone of your route and expected finish time. Carry enough water and a basic first aid kit; know your limits and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate layers and waterproof shell",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Headlamp or small flashlight",
+      "Snack or energy bars",
+      "Personal first aid kit",
+      "Whistle and multi-tool",
+      "Phone power bank",
+      "Lightweight rain shell",
+      "Gloves and hat for cooler months"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) when daylight is longer and trails are drier; winter hikes may be colder and more exposed to wind and wet conditions.",
+    "seo": {
+      "title": "Brixham Heritage Trail – 19.1 km Coastal Hike in the UK",
+      "meta_description": "Plan your adventure on the Brixham Heritage Trail, a hard 19.1 km coastal hike in the UK. Learn about the route, terrain, safety tips, and gear.",
+      "h1": "Brixham Heritage Trail: A 19.1 km Coastal Hike in the UK"
+    }
+  }
+}

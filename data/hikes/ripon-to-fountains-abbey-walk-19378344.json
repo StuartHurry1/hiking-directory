@@ -1,0 +1,21 @@
+{
+  "id": "osm-19378344",
+  "slug": "ripon-to-fountains-abbey-walk-19378344",
+  "name": "Ripon to Fountains Abbey Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1367232,
+    "lon": -1.5210343
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19378344
+  }
+}

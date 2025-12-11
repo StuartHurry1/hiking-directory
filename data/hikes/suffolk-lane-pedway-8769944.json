@@ -1,0 +1,21 @@
+{
+  "id": "osm-8769944",
+  "slug": "suffolk-lane-pedway-8769944",
+  "name": "Suffolk Lane pedway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5100464,
+    "lon": -0.089548
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769944
+  }
+}

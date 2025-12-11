@@ -1,0 +1,46 @@
+{
+  "id": "osm-19457925",
+  "slug": "a-long-walk-in-the-chilterns-central-chilterns-19457925",
+  "name": "A long walk in the Chilterns, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 70,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6365758,
+    "lon": -0.9758571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19457925
+  },
+  "ai": {
+    "summary": "A challenging 70 km hike through the Central Chilterns in the UK, featuring rolling chalk hills, woodlands, and rural lanes. The route is demanding and best suited to experienced hikers with good navigation and endurance, potentially split over multiple days.",
+    "terrain_summary": "Terrain includes rolling chalk hills, woodland trails, grassy tracks, farm lanes, and occasional muddy sections. Expect stiles, gates, and short ascents/descent along bridleways and footpaths in the Chilterns.",
+    "safety_notes": "Plan for variable weather, carry a map and compass or reliable GPS, and tell someone your itinerary. Wear sturdy waterproof footwear and dress in layers. Bring sufficient water and food, a first aid kit, a head torch, sun protection, a whistle, a charged phone with offline maps, and a lightweight emergency shelter. Navigation can be challenging in remote stretches; stick to waymarked routes when possible.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing and waterproof, breathable outerwear",
+      "Backpack with 20–30 L capacity",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Snacks and energy foods",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Whistle and small emergency blanket",
+      "Phone with offline maps and power bank",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy with limited daylight and more challenging navigation.",
+    "seo": {
+      "title": "A 70 km Hard Hike Through the Chilterns – Central Chilterns, UK",
+      "meta_description": "Tackle a demanding 70 km hike across the Central Chilterns in the UK. Learn about terrain, safety, and gear to prepare for this challenging long-distance trek.",
+      "h1": "A 70 km Hard Hike Through the Chilterns (Central Chilterns, UK)"
+    }
+  }
+}

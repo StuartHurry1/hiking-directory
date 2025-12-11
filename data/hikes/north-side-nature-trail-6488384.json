@@ -1,0 +1,21 @@
+{
+  "id": "osm-6488384",
+  "slug": "north-side-nature-trail-6488384",
+  "name": "North Side Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0198316,
+    "lon": -6.2905485
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6488384
+  }
+}

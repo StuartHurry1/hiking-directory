@@ -1,0 +1,21 @@
+{
+  "id": "osm-19852556",
+  "slug": "fontmell-down-walk-fontmell-and-melbury-downs-19852556",
+  "name": "Fontmell Down walk, Fontmell and Melbury Downs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9678184,
+    "lon": -2.1635259
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19852556
+  }
+}

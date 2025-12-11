@@ -1,0 +1,21 @@
+{
+  "id": "osm-17293025",
+  "slug": "harpley-circular-walk-17293025",
+  "name": "Harpley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7741649,
+    "lon": 0.6636215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17293025
+  }
+}

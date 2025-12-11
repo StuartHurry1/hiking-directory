@@ -1,0 +1,21 @@
+{
+  "id": "osm-16788802",
+  "slug": "ouse-valley-way-1-syresham-to-turvey-16788802",
+  "name": "Ouse Valley Way 1 (Syresham to Turvey)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 133.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0683571,
+    "lon": -1.080576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16788802
+  }
+}

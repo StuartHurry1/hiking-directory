@@ -1,0 +1,21 @@
+{
+  "id": "osm-19306337",
+  "slug": "park-head-walk-north-cornwall-19306337",
+  "name": "Park Head walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4959926,
+    "lon": -5.0291832
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306337
+  }
+}

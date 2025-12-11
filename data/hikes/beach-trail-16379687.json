@@ -1,0 +1,43 @@
+{
+  "id": "osm-16379687",
+  "slug": "beach-trail-16379687",
+  "name": "Beach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.168039,
+    "lon": -3.7001764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16379687
+  },
+  "ai": {
+    "summary": "A gentle 3 km coastal stroll along a UK beach, suitable for most ages and fitness levels. The Beach Trail offers sea views, a mix of sandy and boardwalk sections, and a relaxed pace for a family-friendly outing.",
+    "terrain_summary": "Primarily flat with segments of compact sand, wooden boardwalks, and short gravel sections. Expect soft sand near the shoreline and occasional uneven patches inland; surfaces can be slippery after rain or at low tide.",
+    "safety_notes": "Check tide times before you go and avoid walking too close to the water at high tide. Wear sturdy footwear suitable for sand and boardwalks. Bring water, sun protection (sunscreen, hat, sunglasses), and a light layer for cooler winds. Be aware of soft sand, slips, and changing weather; wind and spray can be strong on coastal trails. Keep children close, and follow local rules on dogs and access where applicable. Leave no litter and respect wildlife; carry a bag for rubbish.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Sunscreen",
+      "Hat or cap",
+      "Light layer or windbreaker",
+      "Towel or small blanket",
+      "Small first-aid kit",
+      "Map or GPS/phone with offline map",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best beach conditions and daylight for this 3 km coastal walk. Winter can be windy and less pleasant.",
+    "seo": {
+      "title": "Beach Trail – Easy 3 km Coastal Walk in the UK",
+      "meta_description": "Discover Beach Trail, a gentle 3 km coastal hike in the UK. Enjoy sea views, flat terrain, safety tips, and a practical gear checklist for a family-friendly beach stroll.",
+      "h1": "Beach Trail: Easy 3 km Coastal Walk"
+    }
+  }
+}

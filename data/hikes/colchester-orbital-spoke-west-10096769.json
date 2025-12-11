@@ -1,0 +1,21 @@
+{
+  "id": "osm-10096769",
+  "slug": "colchester-orbital-spoke-west-10096769",
+  "name": "Colchester Orbital Spoke (West)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8897831,
+    "lon": 0.9006239
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10096769
+  }
+}

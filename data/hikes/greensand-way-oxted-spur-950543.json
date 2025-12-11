@@ -1,0 +1,21 @@
+{
+  "id": "osm-950543",
+  "slug": "greensand-way-oxted-spur-950543",
+  "name": "Greensand way (Oxted Spur)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2546232,
+    "lon": -0.006785
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 950543
+  }
+}

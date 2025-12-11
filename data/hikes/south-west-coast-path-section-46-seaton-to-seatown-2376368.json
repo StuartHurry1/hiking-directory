@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376368",
+  "slug": "south-west-coast-path-section-46-seaton-to-seatown-2376368",
+  "name": "South West Coast Path (Section 46: Seaton to Seatown)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 73.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7034944,
+    "lon": -3.0616025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376368
+  }
+}

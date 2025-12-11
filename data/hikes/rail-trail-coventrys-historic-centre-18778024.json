@@ -1,0 +1,21 @@
+{
+  "id": "osm-18778024",
+  "slug": "rail-trail-coventrys-historic-centre-18778024",
+  "name": "Rail Trail: Coventry's Historic Centre",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4013951,
+    "lon": -1.5135507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18778024
+  }
+}

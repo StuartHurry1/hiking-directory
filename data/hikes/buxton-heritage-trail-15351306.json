@@ -1,0 +1,45 @@
+{
+  "id": "osm-15351306",
+  "slug": "buxton-heritage-trail-15351306",
+  "name": "Buxton Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2605264,
+    "lon": -1.913877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15351306
+  },
+  "ai": {
+    "summary": "The Buxton Heritage Trail is a 9.3 km moderate hike in the United Kingdom, weaving through historic sites and scenic countryside around Buxton. The route offers a mix of lane paths and well-trodden footpaths with gentle elevation changes, suitable for hikers with some experience. Expect varied terrain and opportunities to learn about local heritage along the way.",
+    "terrain_summary": "Mostly well-defined footpaths and country lanes with some uneven sections, short climbs, and possible muddy stretches after rain. Some sections run along roadside verges; watch for traffic and keep to the path.",
+    "safety_notes": "Plan for UK weather, check forecasts, and be prepared for rapid changes. Daylight hours vary by season. Tell someone your route and estimated return time. Stay on marked paths, watch for traffic on roadside sections, and carry a map or offline GPS. Bring a charged phone, a small first-aid kit, and snacks. If conditions are wet or foggy, adjust pace accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Waterproof jacket and possibly over-trousers",
+      "Sun protection (hat, sunscreen) for sunny days",
+      "Map or offline GPS, and a small battery pack",
+      "Basic first-aid kit",
+      "Snacks or energy bars",
+      "Emergency whistle",
+      "Headlamp or flashlight (in case of late finish or low light)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers milder weather and longer daylight; winter visits are possible with warm, waterproof gear and shorter daylight hours.",
+    "seo": {
+      "title": "Buxton Heritage Trail – 9.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the Buxton Heritage Trail: a 9.3 km moderate hike around Buxton, UK. Learn about local heritage, navigate mixed terrain, and plan your trip with safety tips and gear suggestions.",
+      "h1": "Buxton Heritage Trail – 9.3 km Moderate Hike in the UK"
+    }
+  }
+}

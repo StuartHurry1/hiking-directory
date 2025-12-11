@@ -1,0 +1,21 @@
+{
+  "id": "osm-14609240",
+  "slug": "the-ribble-valley-jubilee-trail-14609240",
+  "name": "The Ribble Valley Jubilee Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 213.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8231172,
+    "lon": -2.3866258
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14609240
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-66380",
+  "slug": "miners-way-trail-66380",
+  "name": "Miner's Way Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 95.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2217948,
+    "lon": 1.338509
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 66380
+  }
+}

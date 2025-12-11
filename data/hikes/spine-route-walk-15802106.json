@@ -1,0 +1,21 @@
+{
+  "id": "osm-15802106",
+  "slug": "spine-route-walk-15802106",
+  "name": "Spine Route Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2010301,
+    "lon": 0.0703402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15802106
+  }
+}

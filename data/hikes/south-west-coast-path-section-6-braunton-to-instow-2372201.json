@@ -1,0 +1,23 @@
+{
+  "id": "osm-2372201",
+  "slug": "south-west-coast-path-section-6-braunton-to-instow-2372201",
+  "name": "South West Coast Path (Section 6: Braunton to Instow)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1013504,
+    "lon": -4.1625773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2372201
+  }
+}

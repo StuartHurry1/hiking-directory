@@ -1,0 +1,44 @@
+{
+  "id": "osm-11506690",
+  "slug": "burrastow-coastal-11506690",
+  "name": "Burrastow Coastal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2138179,
+    "lon": -1.5993102
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506690
+  },
+  "ai": {
+    "summary": "Burrastow Coastal is an easy 4.5 km coastal walk in the UK. The route follows a gentle shoreline path with sea views, suitable for most walkers seeking a relaxed coastal outing.",
+    "terrain_summary": "Mostly well-defined coastal paths with gentle gradients. Expect grassy and compact gravel sections, with some windswept clifftop sections and potential damp patches near the shoreline.",
+    "safety_notes": "Check tide times and weather before setting out. Stay on marked paths and away from cliff edges. Wear sturdy footwear and windproof clothing as coastal winds can be strong. Be cautious of wet or slippery rocks and plan for limited mobile coverage in remote sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Layered clothing and waterproof jacket",
+      "Hat and sunscreen",
+      "Light backpack",
+      "Map/fully charged phone",
+      "Small first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn are ideal with milder weather and longer daylight; winter visits can be windy and challenging.",
+    "seo": {
+      "title": "Burrastow Coastal Walk – Easy 4.5 km Coastal Trail in the UK",
+      "meta_description": "Discover Burrastow Coastal, an easy 4.5 km walk in the UK. Gentle terrain, stunning sea views, and coastal scenery accessible to most walkers.",
+      "h1": "Burrastow Coastal Walk"
+    }
+  }
+}

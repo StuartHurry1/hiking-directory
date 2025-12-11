@@ -1,0 +1,21 @@
+{
+  "id": "osm-19009362",
+  "slug": "teign-gorge-classic-circuit-castle-drogo-19009362",
+  "name": "Teign Gorge classic circuit, Castle Drogo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.693886,
+    "lon": -3.7915691
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009362
+  }
+}

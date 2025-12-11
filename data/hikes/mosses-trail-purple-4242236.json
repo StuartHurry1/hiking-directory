@@ -1,0 +1,21 @@
+{
+  "id": "osm-4242236",
+  "slug": "mosses-trail-purple-4242236",
+  "name": "Mosses Trail Purple",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9175208,
+    "lon": -2.7595949
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4242236
+  }
+}

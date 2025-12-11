@@ -1,0 +1,21 @@
+{
+  "id": "osm-919241",
+  "slug": "the-gower-way-919241",
+  "name": "The Gower Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 150.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.562802,
+    "lon": -4.3156165
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 919241
+  }
+}

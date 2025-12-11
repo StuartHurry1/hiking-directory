@@ -1,0 +1,21 @@
+{
+  "id": "osm-9679527",
+  "slug": "dragonfly-trail-9679527",
+  "name": "Dragonfly Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.867572,
+    "lon": -5.4327851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9679527
+  }
+}

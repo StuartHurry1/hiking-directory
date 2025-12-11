@@ -1,0 +1,21 @@
+{
+  "id": "osm-12760296",
+  "slug": "chiltern-link-12760296",
+  "name": "Chiltern Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7425816,
+    "lon": -0.7135893
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12760296
+  }
+}

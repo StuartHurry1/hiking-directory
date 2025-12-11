@@ -1,0 +1,21 @@
+{
+  "id": "osm-18238508",
+  "slug": "castle-dow-hill-fort-18238508",
+  "name": "Castle Dow Hill Fort",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6415249,
+    "lon": -3.7469876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18238508
+  }
+}

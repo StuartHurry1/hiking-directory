@@ -1,0 +1,21 @@
+{
+  "id": "osm-15913889",
+  "slug": "castle-lane-15913889",
+  "name": "Castle Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2582834,
+    "lon": -5.6082235
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15913889
+  }
+}

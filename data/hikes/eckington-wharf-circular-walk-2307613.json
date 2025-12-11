@@ -1,0 +1,21 @@
+{
+  "id": "osm-2307613",
+  "slug": "eckington-wharf-circular-walk-2307613",
+  "name": "Eckington Wharf Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0790497,
+    "lon": -2.1151108
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2307613
+  }
+}

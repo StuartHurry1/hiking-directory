@@ -1,0 +1,23 @@
+{
+  "id": "osm-19280787",
+  "slug": "sandymouth-to-duckpool-and-stowe-wood-circular-walk-north-cornwall-19280787",
+  "name": "Sandymouth to Duckpool and Stowe Wood circular walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.5,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8616292,
+    "lon": -4.5539825
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280787
+  }
+}

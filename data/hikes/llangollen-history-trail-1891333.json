@@ -1,0 +1,21 @@
+{
+  "id": "osm-1891333",
+  "slug": "llangollen-history-trail-1891333",
+  "name": "Llangollen History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.971961,
+    "lon": -3.1702408
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1891333
+  }
+}

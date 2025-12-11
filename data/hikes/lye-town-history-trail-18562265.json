@@ -1,0 +1,21 @@
+{
+  "id": "osm-18562265",
+  "slug": "lye-town-history-trail-18562265",
+  "name": "Lye Town History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4570732,
+    "lon": -2.1111255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18562265
+  }
+}

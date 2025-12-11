@@ -1,0 +1,21 @@
+{
+  "id": "osm-16450188",
+  "slug": "wildlife-trail-2-woodland-and-grass-meadow-16450188",
+  "name": "Wildlife Trail 2: Woodland and Grass Meadow",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6213401,
+    "lon": 1.2319303
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16450188
+  }
+}

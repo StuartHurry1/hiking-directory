@@ -1,0 +1,21 @@
+{
+  "id": "osm-16293871",
+  "slug": "lady-annes-way-16293871",
+  "name": "Lady Anne's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 296.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9635653,
+    "lon": -2.0177732
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16293871
+  }
+}

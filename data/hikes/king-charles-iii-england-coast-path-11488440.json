@@ -1,0 +1,23 @@
+{
+  "id": "osm-11488440",
+  "slug": "king-charles-iii-england-coast-path-11488440",
+  "name": "King Charles III England Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 271.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2681287,
+    "lon": -0.389537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11488440
+  }
+}

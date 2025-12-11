@@ -1,0 +1,21 @@
+{
+  "id": "osm-13014330",
+  "slug": "garlic-farm-trail-13014330",
+  "name": "Garlic Farm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.679044,
+    "lon": -1.2154611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13014330
+  }
+}

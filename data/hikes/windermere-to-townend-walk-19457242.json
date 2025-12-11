@@ -1,0 +1,23 @@
+{
+  "id": "osm-19457242",
+  "slug": "windermere-to-townend-walk-19457242",
+  "name": "Windermere to Townend walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.3,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3783368,
+    "lon": -2.9019812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19457242
+  }
+}

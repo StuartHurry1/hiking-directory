@@ -1,0 +1,45 @@
+{
+  "id": "osm-16127605",
+  "slug": "cairn-gorm-trail-16127605",
+  "name": "Cairn Gorm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1333052,
+    "lon": -3.669686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127605
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate hike on the Cairn Gorm Trail in the UK. The route traverses varied terrain with open viewpoints and forested sections, suitable for walkers with a reasonable level of fitness.",
+    "terrain_summary": "The trail mixes wide gravel paths, grassy slopes, and occasional rocky steps. Expect moderate elevation changes and a mix of sheltered forest and exposed sections. After rain, some areas may be soft or boggy.",
+    "safety_notes": "Weather in the UK can change quickly, especially on exposed upland trails. Wear sturdy waterproof hiking boots and dress in layers. Carry a map and compass or a GPS device, and ensure your phone is charged. Bring sufficient water and snacks. Start early to maximize daylight and inform someone of your planned route and return time. If visibility drops or storms approach, turn back and seek shelter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, mid-layer, and waterproof outer layer)",
+      "Water bottle or hydration system",
+      "Trail map and/or compass (GPS device as backup)",
+      "Snack or energy bars",
+      "Hat and gloves",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) generally offers the best conditions with longer daylight and drier trails; winter conditions can be challenging due to snow, ice, and reduced visibility.",
+    "seo": {
+      "title": "Cairn Gorm Trail – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Cairn Gorm Trail, a 6.3 km moderate hike in the UK. Get terrain overview, safety tips, best seasons, and essential gear for your trek.",
+      "h1": "Cairn Gorm Trail – 6.3 km Moderate Hike in the UK"
+    }
+  }
+}

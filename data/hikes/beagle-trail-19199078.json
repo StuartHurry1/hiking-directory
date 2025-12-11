@@ -1,0 +1,43 @@
+{
+  "id": "osm-19199078",
+  "slug": "beagle-trail-19199078",
+  "name": "Beagle Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6153674,
+    "lon": 0.8229871
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19199078
+  },
+  "ai": {
+    "summary": "Beagle Trail is a short, easy 4.7-kilometer hike in the United Kingdom suitable for most walkers. The route offers gentle terrain, pleasant surroundings, and a straightforward out-and-back or loop option depending on the chosen start point.",
+    "terrain_summary": "The trail runs along well-made paths with mostly flat to gently rolling terrain. Expect sections of compact gravel and compacted earth, with occasional muddy patches after rain. Some narrow or overgrown segments may require attention, but overall the surface is forgiving for casual hikers.",
+    "safety_notes": "Weather in the UK can change quickly; check forecasts before you go. Wear sturdy, comfortable footwear and bring layers and a waterproof jacket. Stay hydrated, stick to marked paths, and keep an eye out for other hikers or cyclists on shared sections. Bring a small first-aid kit and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Water bottle (1–2 L)",
+      "Weather-appropriate clothing and layers",
+      "Sturdy walking shoes or light hiking boots",
+      "Lightweight waterproof jacket",
+      "Snacks",
+      "Map or offline map on your phone",
+      "Small first-aid kit",
+      "Phone with emergency contacts",
+      "Hat and sunscreen (sunny days)"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn are ideal for Beagle Trail in the UK; drier days typically offer better visibility and comfort. The route can be muddy and slippery after rain, so plan accordingly.",
+    "seo": {
+      "title": "Beagle Trail – Easy 4.7 km UK Hike",
+      "meta_description": "Discover Beagle Trail, a short and easy 4.7 km hike in the UK. Learn about the terrain, safety tips, best seasons, and gear to bring for a pleasant day outdoors.",
+      "h1": "Beagle Trail: Easy 4.7 km Hike in the UK"
+    }
+  }
+}

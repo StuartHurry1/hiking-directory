@@ -1,0 +1,43 @@
+{
+  "id": "osm-13064194",
+  "slug": "alice-holt-forest-adaptation-trail-13064194",
+  "name": "Alice Holt Forest: Adaptation Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1690739,
+    "lon": -0.8409515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13064194
+  },
+  "ai": {
+    "summary": "The Adaptation Trail at Alice Holt Forest is an 8.6 km moderate hike through broadleaf woodland in the UK. The route features varied terrain, gentle inclines, and opportunities to observe woodland ecosystems while staying on well-marked paths.",
+    "terrain_summary": "Expect well-maintained forest paths with a mix of gravel and compact earth. Some sections may have exposed roots or damp patches after rain. Overall elevation is moderate, with gentle ascents and descents suitable for casual hikers.",
+    "safety_notes": "Carry a map or offline navigation, tell someone your plan, and stay on marked paths. Watch for uneven surfaces, slippery leaves, and muddy patches after rain. Dress for changing weather, bring enough water and snacks, and be prepared for wildlife encounters. In case of severe weather or lightning, seek shelter and pause the hike.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Waterproof jacket and layered clothing",
+      "Water and high-energy snacks",
+      "Map, compass, or GPS device",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Insect repellent",
+      "Small first aid kit",
+      "Headlamp or flashlight if hiking near dusk",
+      "Phone with emergency numbers and a fully charged battery"
+    ],
+    "best_seasons": "All year round; spring and autumn offer particularly comfortable temperatures and scenery, but be prepared for rain and mud in any season in the UK.",
+    "seo": {
+      "title": "Alice Holt Forest Adaptation Trail — 8.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the 8.6 km Adaptation Trail in Alice Holt Forest, UK. A moderate woodland hike with varied terrain, practical safety tips, and gear recommendations.",
+      "h1": "Alice Holt Forest: Adaptation Trail"
+    }
+  }
+}

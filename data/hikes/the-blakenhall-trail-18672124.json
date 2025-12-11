@@ -1,0 +1,23 @@
+{
+  "id": "osm-18672124",
+  "slug": "the-blakenhall-trail-18672124",
+  "name": "The Blakenhall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5772772,
+    "lon": -2.1345596
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18672124
+  }
+}

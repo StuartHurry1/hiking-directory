@@ -1,0 +1,21 @@
+{
+  "id": "osm-4100350",
+  "slug": "viking-way-barton-upon-humber-to-barnetby-4100350",
+  "name": "Viking Way (Barton-upon-Humber to Barnetby)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6970918,
+    "lon": -0.4463965
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4100350
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-115935",
+  "slug": "hogsmill-valley-walk-115935",
+  "name": "Hogsmill Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3621145,
+    "lon": -0.2882673
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 115935
+  }
+}

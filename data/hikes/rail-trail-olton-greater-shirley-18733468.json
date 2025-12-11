@@ -1,0 +1,21 @@
+{
+  "id": "osm-18733468",
+  "slug": "rail-trail-olton-greater-shirley-18733468",
+  "name": "Rail Trail: Olton > Shirley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4382057,
+    "lon": -1.8047947
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18733468
+  }
+}

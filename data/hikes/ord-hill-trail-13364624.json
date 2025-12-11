@@ -1,0 +1,21 @@
+{
+  "id": "osm-13364624",
+  "slug": "ord-hill-trail-13364624",
+  "name": "Ord Hill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0214959,
+    "lon": -4.4075506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13364624
+  }
+}

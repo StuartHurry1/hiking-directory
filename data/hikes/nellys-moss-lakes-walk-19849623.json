@@ -1,0 +1,23 @@
+{
+  "id": "osm-19849623",
+  "slug": "nellys-moss-lakes-walk-19849623",
+  "name": "Nelly's Moss Lakes Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.3088989,
+    "lon": -1.8813048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19849623
+  }
+}

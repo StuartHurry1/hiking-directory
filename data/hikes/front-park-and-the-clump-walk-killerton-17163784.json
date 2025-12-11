@@ -1,0 +1,21 @@
+{
+  "id": "osm-17163784",
+  "slug": "front-park-and-the-clump-walk-killerton-17163784",
+  "name": "Front Park and The Clump Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17163784
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17139108",
+  "slug": "holme-valley-riverside-way-17139108",
+  "name": "Holme Valley Riverside Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6182091,
+    "lon": -1.797363
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17139108
+  }
+}

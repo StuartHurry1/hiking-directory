@@ -1,0 +1,21 @@
+{
+  "id": "osm-279313",
+  "slug": "garden-city-15-279313",
+  "name": "Garden City 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9461058,
+    "lon": -0.2219124
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 279313
+  }
+}

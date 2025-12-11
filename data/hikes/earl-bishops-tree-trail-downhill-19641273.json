@@ -1,0 +1,21 @@
+{
+  "id": "osm-19641273",
+  "slug": "earl-bishops-tree-trail-downhill-19641273",
+  "name": "Earl Bishop's Tree Trail, Downhill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1630424,
+    "lon": -6.8142108
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19641273
+  }
+}

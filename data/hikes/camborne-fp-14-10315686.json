@@ -1,0 +1,40 @@
+{
+  "id": "osm-10315686",
+  "slug": "camborne-fp-14-10315686",
+  "name": "Camborne FP 14",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.23444,
+    "lon": -5.3274452
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10315686
+  },
+  "ai": {
+    "summary": "A short, easy 1.1 km hike on Camborne FP 14 in the United Kingdom. Suitable for beginners and families, offering a quick outdoor experience with minimal elevation gain.",
+    "terrain_summary": "Short, well-defined footpath. Likely flat or gently undulating with smooth surfaces suitable for most walkers; accessibility may vary depending on location and conditions.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear and bring a waterproof layer. Stay on the official path, watch for uneven surfaces or steps, and inform someone of your plans if hiking alone. Bring a map or GPS, and carry a small amount of food and water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Map or GPS device",
+      "Snack",
+      "Phone battery pack"
+    ],
+    "best_seasons": "All year, with spring to autumn offering the most comfortable conditions; winter hikes may be more challenging due to weather.",
+    "seo": {
+      "title": "Camborne FP 14 — 1.1 km Easy Hike in the UK",
+      "meta_description": "Discover the 1.1 km Camborne FP 14 hike in the UK. An easy, family-friendly trail with practical safety tips and gear recommendations.",
+      "h1": "Camborne FP 14 — 1.1 km Easy Hike (UK)"
+    }
+  }
+}

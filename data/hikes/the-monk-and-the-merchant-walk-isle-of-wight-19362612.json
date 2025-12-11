@@ -1,0 +1,21 @@
+{
+  "id": "osm-19362612",
+  "slug": "the-monk-and-the-merchant-walk-isle-of-wight-19362612",
+  "name": "The Monk and the Merchant Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5882222,
+    "lon": -1.3076911
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19362612
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1017126",
+  "slug": "cuilcagh-way-1017126",
+  "name": "Cuilcagh Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2555584,
+    "lon": -7.7929295
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1017126
+  }
+}

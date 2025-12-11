@@ -1,0 +1,21 @@
+{
+  "id": "osm-19604435",
+  "slug": "pin-mill-nature-walk-pin-mill-19604435",
+  "name": "Pin Mill Nature Walk, Pin Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9948262,
+    "lon": 1.2120351
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19604435
+  }
+}

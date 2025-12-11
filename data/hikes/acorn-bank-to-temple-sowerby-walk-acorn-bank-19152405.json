@@ -1,0 +1,46 @@
+{
+  "id": "osm-19152405",
+  "slug": "acorn-bank-to-temple-sowerby-walk-acorn-bank-19152405",
+  "name": "Acorn Bank to Temple Sowerby Walk, Acorn Bank",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6484435,
+    "lon": -2.5981969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19152405
+  },
+  "ai": {
+    "summary": "A scenic 10.2 km moderate hike from Acorn Bank to Temple Sowerby, weaving through rural lanes and lakeside habitats. Expect open fields, gentle elevation changes, and chances to observe birds and wildlife along water edges.",
+    "terrain_summary": "Mixed terrain including surfaced lanes, grassy footpaths, and sections of muddy field paths. Gates and stiles are common; boots with good tread are recommended. Trails near water can be wet after rain, so waterproof footwear helps.",
+    "safety_notes": "Check the weather forecast before setting out; rural paths can be exposed and muddy. Wear sturdy footwear and bring layers. Stay on marked paths, close gates, and watch for livestock and farm traffic. Mobile signal may be limited in remote areas—carry a map and plan your route; have a means of contact in case of emergency. Take extra care near water edges and in icy conditions (winter).",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, hat, gloves as needed)",
+      "Waterproof jacket",
+      "Map and/or fully charged GPS-enabled device",
+      "Snacks or energy bars",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Pocket knife or multitool",
+      "Headlamp or flashlight (for late return)"
+    ],
+    "best_seasons": "Spring, summer and early autumn are generally best for drier trails and wildlife viewing; winter walks are possible but can be muddy and conditions change quickly.",
+    "seo": {
+      "title": "Acorn Bank to Temple Sowerby Walk – 10.2 km Moderate Lakeside Hike (UK)",
+      "meta_description": "Plan a 10.2 km moderate hike from Acorn Bank to Temple Sowerby. Enjoy lakeside scenery, rural lanes, and countryside views in the UK with practical safety tips and gear recommendations.",
+      "h1": "Acorn Bank to Temple Sowerby Walk (10.2 km)"
+    }
+  }
+}

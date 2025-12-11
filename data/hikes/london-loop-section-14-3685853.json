@@ -1,0 +1,21 @@
+{
+  "id": "osm-3685853",
+  "slug": "london-loop-section-14-3685853",
+  "name": "London LOOP (Section 14)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6237913,
+    "lon": -0.4279413
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3685853
+  }
+}

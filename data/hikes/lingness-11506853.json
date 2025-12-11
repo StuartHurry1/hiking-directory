@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506853",
+  "slug": "lingness-11506853",
+  "name": "Lingness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2669173,
+    "lon": -1.1240709
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506853
+  }
+}

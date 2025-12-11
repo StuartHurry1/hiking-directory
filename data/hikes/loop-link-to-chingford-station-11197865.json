@@ -1,0 +1,21 @@
+{
+  "id": "osm-11197865",
+  "slug": "loop-link-to-chingford-station-11197865",
+  "name": "LOOP link to Chingford station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.633343,
+    "lon": 0.0099795
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11197865
+  }
+}

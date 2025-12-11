@@ -1,0 +1,21 @@
+{
+  "id": "osm-4139068",
+  "slug": "trans-pennine-trail-charlesworth-alternative-route-4139068",
+  "name": "Trans-Pennine Trail (Charlesworth alternative route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4404942,
+    "lon": -2.0019587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4139068
+  }
+}

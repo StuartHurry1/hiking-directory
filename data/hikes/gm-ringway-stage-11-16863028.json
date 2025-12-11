@@ -1,0 +1,21 @@
+{
+  "id": "osm-16863028",
+  "slug": "gm-ringway-stage-11-16863028",
+  "name": "GM Ringway Stage 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6422059,
+    "lon": -2.0960263
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16863028
+  }
+}

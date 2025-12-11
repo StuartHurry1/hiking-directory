@@ -1,0 +1,21 @@
+{
+  "id": "osm-16947235",
+  "slug": "consett-steel-and-swords-16947235",
+  "name": "Consett Steel and Swords",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8583129,
+    "lon": -1.8424222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16947235
+  }
+}

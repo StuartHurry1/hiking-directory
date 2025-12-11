@@ -1,0 +1,21 @@
+{
+  "id": "osm-14783825",
+  "slug": "st-dominica-heritage-trail-halton-quay-route-14783825",
+  "name": "St Dominica Heritage Trail (Halton Quay Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4932418,
+    "lon": -4.2562561
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14783825
+  }
+}

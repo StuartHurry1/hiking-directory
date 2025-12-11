@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865675",
+  "slug": "footpath-u66-2865675",
+  "name": "Footpath U66",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5194694,
+    "lon": -1.3553849
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865675
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13466589",
+  "slug": "john-ogroats-trail-berriedale-to-dunbeath-13466589",
+  "name": "John O'Groats Trail (Berriedale to Dunbeath)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.1827712,
+    "lon": -3.4985665
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13466589
+  }
+}

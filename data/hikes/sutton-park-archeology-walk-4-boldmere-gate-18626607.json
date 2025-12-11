@@ -1,0 +1,23 @@
+{
+  "id": "osm-18626607",
+  "slug": "sutton-park-archeology-walk-4-boldmere-gate-18626607",
+  "name": "Sutton Park Archeology Walk 4: Boldmere Gate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5564168,
+    "lon": -1.8445368
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18626607
+  }
+}

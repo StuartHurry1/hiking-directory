@@ -1,0 +1,21 @@
+{
+  "id": "osm-10458977",
+  "slug": "spanorium-skyway-10458977",
+  "name": "Spanorium Skyway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5373486,
+    "lon": -2.6197183
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10458977
+  }
+}

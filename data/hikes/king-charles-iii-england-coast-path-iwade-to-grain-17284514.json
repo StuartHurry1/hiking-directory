@@ -1,0 +1,23 @@
+{
+  "id": "osm-17284514",
+  "slug": "king-charles-iii-england-coast-path-iwade-to-grain-17284514",
+  "name": "King Charles III England Coast Path: Iwade to Grain",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 92.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3766133,
+    "lon": 0.7591115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17284514
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17381096",
+  "slug": "legions-and-sand-17381096",
+  "name": "Legions and Sand",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1556895,
+    "lon": -2.2465364
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17381096
+  }
+}

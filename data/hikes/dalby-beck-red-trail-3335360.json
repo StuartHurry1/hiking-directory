@@ -1,0 +1,21 @@
+{
+  "id": "osm-3335360",
+  "slug": "dalby-beck-red-trail-3335360",
+  "name": "Dalby Beck Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2564022,
+    "lon": -0.6852154
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3335360
+  }
+}

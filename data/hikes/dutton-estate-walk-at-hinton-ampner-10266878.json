@@ -1,0 +1,21 @@
+{
+  "id": "osm-10266878",
+  "slug": "dutton-estate-walk-at-hinton-ampner-10266878",
+  "name": "Dutton Estate Walk at Hinton Ampner",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0449029,
+    "lon": -1.145126
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10266878
+  }
+}

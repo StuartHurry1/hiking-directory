@@ -1,0 +1,44 @@
+{
+  "id": "osm-13736410",
+  "slug": "bacton-heritage-13736410",
+  "name": "Bacton Heritage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8550119,
+    "lon": 1.476141
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13736410
+  },
+  "ai": {
+    "summary": "Bacton Heritage is a 10.1 km moderate hike in the United Kingdom that weaves through a mix of countryside lanes and points of historical interest along a loop. It’s suitable for walkers with a reasonable level of fitness who want a scenic day out with light cultural touches.",
+    "terrain_summary": "The route combines quiet country lanes, gentle woodland trails, and sections of uneven ground. Expect a few short ascents, some muddy or grassy patches after rain, and a mix of shaded and exposed sections.",
+    "safety_notes": "Plan for changeable UK weather: bring waterproofs and extra layers. Wear sturdy footwear and a hat, carry water and snacks, and bring a map or offline navigation. Tell someone your route and estimated return time. Stay on official paths, watch for livestock or traffic on rural lanes, and take care on uneven or slippery surfaces, especially after rain. Be mindful of tide times if any coastal sections are included.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Layered clothing (fleece or sweater)",
+      "Water bottle or hydration system",
+      "Snacks",
+      "Hat and sunscreen",
+      "Map, guidebook, or offline map on a phone",
+      "Small first aid kit",
+      "Mobile phone with portable charger",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly late March to October) is ideal in the UK, with longer daylight and milder temperatures.",
+    "seo": {
+      "title": "Bacton Heritage Hike – 10.1 km Moderate Trail in the UK",
+      "meta_description": "Explore Bacton Heritage, a 10.1 km moderate hike in the UK. A scenic loop with countryside lanes and light heritage points, suitable for walkers with moderate fitness.",
+      "h1": "Bacton Heritage: 10.1 km Moderate Hike in the UK"
+    }
+  }
+}

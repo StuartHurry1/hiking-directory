@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881443",
+  "slug": "tyntesfield-woodland-walk-long-route-tyntesfield-19881443",
+  "name": "Tyntesfield Woodland Walk (Long Route), Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4416994,
+    "lon": -2.7191125
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881443
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-232039",
+  "slug": "shuttle-to-cray-link-232039",
+  "name": "Shuttle to Cray Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4482485,
+    "lon": 0.1483938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 232039
+  }
+}

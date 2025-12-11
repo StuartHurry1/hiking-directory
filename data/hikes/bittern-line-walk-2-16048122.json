@@ -1,0 +1,44 @@
+{
+  "id": "osm-16048122",
+  "slug": "bittern-line-walk-2-16048122",
+  "name": "Bittern Line Walk 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6828918,
+    "lon": 1.4266751
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16048122
+  },
+  "ai": {
+    "summary": "Bittern Line Walk 2 is a challenging 17.5 km hike in the UK, offering a strenuous day of varied terrain alongside a railway-adjacent route. Expect long segments on uneven surfaces, some exposure, and significant elevation changes for a hard-level trek. Plan for several hours and be prepared for changing weather conditions.",
+    "terrain_summary": "Varied terrain across the distance, including gravel and grassy paths, uneven woodland/trail surfaces, and occasional embankment sections. Some parts may be muddy, slippery, or exposed to wind; there may be road crossings and short stretches near rail infrastructure. Navigation requires a map or GPS since signage can be intermittent.",
+    "safety_notes": "Safety first: check the forecast and daylight hours before setting out. Stay on public paths and do not trespass on railway tracks; use designated crossings and follow signs. The route includes uneven surfaces, mud, and potential inclines, so wear sturdy footwear and dress in layers. Mobile signal may be limited in remote sections; carry a map, compass or GPS, and a charged phone. Tell someone your plan and expected return time. Bring ample water and snacks, a basic first-aid kit, a whistle, and a waterproof layer. Be mindful of others on the route and watch for weather-related risks like wind on exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system (2–3 litres recommended)",
+      "Weather-appropriate clothing with layers",
+      "Lightweight waterproof shell",
+      "Map and compass or a GPS device",
+      "Charged mobile phone with offline maps",
+      "Headlamp or torch (in case of late finishes)",
+      "Small first-aid kit and personal medications",
+      "Snacks and energy foods",
+      "Whistle and sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and conditions are more favorable. Winter hikes are possible but can be cold, wet, and more challenging due to mud and reduced daylight.",
+    "seo": {
+      "title": "Bittern Line Walk 2 – 17.5 km Hard Hike in the UK",
+      "meta_description": "Discover Bittern Line Walk 2, a hard 17.5 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to tackle this route.",
+      "h1": "Bittern Line Walk 2: 17.5 km Hard Hike in the UK"
+    }
+  }
+}

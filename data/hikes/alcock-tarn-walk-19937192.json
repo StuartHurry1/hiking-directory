@@ -1,0 +1,46 @@
+{
+  "id": "osm-19937192",
+  "slug": "alcock-tarn-walk-19937192",
+  "name": "Alcock Tarn Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4635269,
+    "lon": -3.0224968
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19937192
+  },
+  "ai": {
+    "summary": "Alcock Tarn Walk is a 10.7 km moderate-length hike in the UK that explores lakeside scenery around Alcock Tarn. The route blends woodland trails, grassy paths, and some rocky sections, delivering steady elevation changes and rewarding views over a tranquil tarn.",
+    "terrain_summary": "Terrain includes shaded woodland trails, exposed gravel and grassy paths, and short rocky sections. Expect uneven footing, occasional mud and puddles, and moderate elevation gain with several gentle ascents and descents near the tarn and along the shore.",
+    "safety_notes": "Always check weather forecasts for the UK, as conditions can change quickly. Wear sturdy waterproof footwear and clothing, and bring a waterproof layer. Carry a map and compass or a GPS device, even on familiar routes. Stay on marked paths, watch for mud, roots, and slippery rocks, and be cautious near water edges. Let someone know your plan and expected return time. Bring enough water and snacks, and have a small first aid kit and a whistle for emergencies. In low visibility or poor light, consider turning back early.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map and compass or GPS",
+      "Layered clothing (fleece or sweater)",
+      "Hat and sunscreen",
+      "Snacks or energy bars",
+      "Emergency whistle",
+      "Small first aid kit",
+      "Trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) typically offers the best conditions for Alcock Tarn Walk, with longer daylight in summer and generally drier trails. Start early or finish late to avoid crowds and the hottest sun in peak summer.",
+    "seo": {
+      "title": "Alcock Tarn Walk – 10.7 km Moderate Lakes Hike in the UK",
+      "meta_description": "Explore Alcock Tarn Walk, a 10.7 km moderate lakeside hike in the UK. Enjoy woodland trails, tarn views, and practical safety and gear tips for a memorable day out.",
+      "h1": "Alcock Tarn Walk – 10.7 km Moderate Lakes Hike"
+    }
+  }
+}

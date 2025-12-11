@@ -1,0 +1,21 @@
+{
+  "id": "osm-13836675",
+  "slug": "green-chain-walk-section-8-chinbrook-link-13836675",
+  "name": "Green Chain Walk section 8 (Chinbrook Link)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.433653,
+    "lon": 0.0280237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13836675
+  }
+}

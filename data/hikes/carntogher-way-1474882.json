@@ -1,0 +1,21 @@
+{
+  "id": "osm-1474882",
+  "slug": "carntogher-way-1474882",
+  "name": "Carntogher Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8817012,
+    "lon": -6.7255644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1474882
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-455204",
+  "slug": "old-sarum-way-455204",
+  "name": "Old Sarum Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 195.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0682391,
+    "lon": -1.76515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 455204
+  }
+}

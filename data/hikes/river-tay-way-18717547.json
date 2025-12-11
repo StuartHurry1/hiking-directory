@@ -1,0 +1,21 @@
+{
+  "id": "osm-18717547",
+  "slug": "river-tay-way-18717547",
+  "name": "River Tay Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 114,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5863699,
+    "lon": -4.0022255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18717547
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "osm-13753654",
+  "slug": "above-the-lea-valley-13753654",
+  "name": "Above the Lea Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8132499,
+    "lon": -0.2933721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13753654
+  },
+  "ai": {
+    "summary": "Above the Lea Valley is a challenging 22 km hike in the UK that traverses varied terrain around the Lea Valley area. It suits experienced hikers comfortable with long distances and elevation changes.",
+    "terrain_summary": "Expect a mix of well-defined paths, muddy sections, uneven ground, and occasional gates or stiles. Some sections may be exposed with gentle to moderate elevation gain. Navigation is generally straightforward, but you may encounter remote stretches where phone signal is limited.",
+    "safety_notes": "This is a long, hard day on foot. Plan for 6–9+ hours depending on pace. Check the weather, as conditions can change quickly in the UK. Wear sturdy footwear with good grip and dress in layers. Carry ample water and food, a map and compass (or GPS), and a charged device with offline maps. Stay on marked routes where possible, inform someone of your itinerary, and be prepared for mud, floods, or boggy sections. In winter, daylight is limited; bring a headlamp and consider bail-out options.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing and interchangeable layers",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Rain jacket and waterproof pants",
+      "Insulating layer for warmth",
+      "First-aid kit",
+      "Emergency blanket",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Whistle",
+      "Multi-tool or knife",
+      "Lightweight emergency shelter (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best balance of daylight and weather for this 22 km hike. Winter hiking is possible with proper gear and shorter daylight, but trail conditions can be more challenging.",
+    "seo": {
+      "title": "Above the Lea Valley – 22km Hard Hike in the UK",
+      "meta_description": "Discover the 22-kilometer hard hike 'Above the Lea Valley' in the UK. Learn about terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Above the Lea Valley: 22km Hard Hike in the UK"
+    }
+  }
+}

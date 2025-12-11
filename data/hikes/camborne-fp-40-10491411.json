@@ -1,0 +1,41 @@
+{
+  "id": "osm-10491411",
+  "slug": "camborne-fp-40-10491411",
+  "name": "Camborne FP 40",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2153938,
+    "lon": -5.2748861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10491411
+  },
+  "ai": {
+    "summary": "Camborne FP 40 is a short, easy 0.4 km hike in the UK. The route offers a flat, well-maintained path suitable for beginners, families, or a quick nature stroll.",
+    "terrain_summary": "Flat to gently level footpath with minimal elevation gain. Likely well-marked and easy to follow, with occasional damp patches after rain.",
+    "safety_notes": "Check the forecast and daylight hours before starting. Stay on the marked path, watch for uneven surfaces or puddles, and keep an eye on children or pets. Mobile coverage may be limited in some areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing and a light layer",
+      "Water",
+      "Lightweight rain jacket",
+      "Map or GPS/phone with offline map",
+      "Sunscreen and hat (seasonal)",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Year-round, with spring and summer typically offering the best weather and daylight; be prepared for rain and mud in autumn and winter.",
+    "seo": {
+      "title": "Camborne FP 40 – 0.4 km Easy Hike in the UK",
+      "meta_description": "Discover a short, easy 0.4 km hike on Camborne FP 40 in the UK. Flat terrain, beginner-friendly, with practical gear and safety tips for a quick outdoor stroll.",
+      "h1": "Camborne FP 40 – 0.4 km Easy Hike (UK)"
+    }
+  }
+}

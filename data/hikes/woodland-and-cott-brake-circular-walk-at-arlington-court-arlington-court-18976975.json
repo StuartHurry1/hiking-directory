@@ -1,0 +1,21 @@
+{
+  "id": "osm-18976975",
+  "slug": "woodland-and-cott-brake-circular-walk-at-arlington-court-arlington-court-18976975",
+  "name": "Woodland and Cott Brake circular walk at Arlington Court, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1476562,
+    "lon": -3.9868323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976975
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-148927",
+  "slug": "two-counties-way-148927",
+  "name": "Two Counties Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 529.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7319038,
+    "lon": -3.5309959
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 148927
+  }
+}

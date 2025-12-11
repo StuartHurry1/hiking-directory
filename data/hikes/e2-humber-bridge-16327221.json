@@ -1,0 +1,23 @@
+{
+  "id": "osm-16327221",
+  "slug": "e2-humber-bridge-16327221",
+  "name": "E2 (Humber Bridge)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.6,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.715302,
+    "lon": -0.4524276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16327221
+  }
+}

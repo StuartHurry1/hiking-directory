@@ -1,0 +1,21 @@
+{
+  "id": "osm-2667176",
+  "slug": "hylands-lower-estate-walk-2667176",
+  "name": "Hylands Lower Estate Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.709974,
+    "lon": 0.42283
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2667176
+  }
+}

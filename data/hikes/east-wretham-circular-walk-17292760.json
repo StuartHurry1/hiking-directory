@@ -1,0 +1,21 @@
+{
+  "id": "osm-17292760",
+  "slug": "east-wretham-circular-walk-17292760",
+  "name": "East Wretham Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4912819,
+    "lon": 0.8479847
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17292760
+  }
+}

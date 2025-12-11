@@ -1,0 +1,21 @@
+{
+  "id": "osm-18544823",
+  "slug": "dunkeld-to-aberfeldy-core-path-18544823",
+  "name": "Dunkeld to Aberfeldy Core Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5477474,
+    "lon": -3.6576857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18544823
+  }
+}

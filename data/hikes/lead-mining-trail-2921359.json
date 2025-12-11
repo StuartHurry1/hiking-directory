@@ -1,0 +1,21 @@
+{
+  "id": "osm-2921359",
+  "slug": "lead-mining-trail-2921359",
+  "name": "Lead Mining Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7591351,
+    "lon": -2.1807447
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2921359
+  }
+}

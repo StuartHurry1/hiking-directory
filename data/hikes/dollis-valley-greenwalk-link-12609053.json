@@ -1,0 +1,21 @@
+{
+  "id": "osm-12609053",
+  "slug": "dollis-valley-greenwalk-link-12609053",
+  "name": "Dollis Valley Greenwalk link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6417303,
+    "lon": -0.2033646
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12609053
+  }
+}

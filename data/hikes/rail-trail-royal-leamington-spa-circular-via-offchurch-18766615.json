@@ -1,0 +1,21 @@
+{
+  "id": "osm-18766615",
+  "slug": "rail-trail-royal-leamington-spa-circular-via-offchurch-18766615",
+  "name": "Rail Trail: Royal Leamington Spa Circular via Offchurch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2844231,
+    "lon": -1.5354989
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18766615
+  }
+}

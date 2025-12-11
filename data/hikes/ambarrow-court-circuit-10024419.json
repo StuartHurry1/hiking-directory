@@ -1,0 +1,44 @@
+{
+  "id": "osm-10024419",
+  "slug": "ambarrow-court-circuit-10024419",
+  "name": "Ambarrow Court Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3571613,
+    "lon": -0.8150049
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10024419
+  },
+  "ai": {
+    "summary": "Ambarrow Court Circuit is a short, easy 1.3 km loop in the UK, suitable for beginners and families. The route offers a gentle walk on well-marked paths with minimal elevation changes and a calm countryside feel.",
+    "terrain_summary": "Mostly easy, well-trodden paths with gentle inclines. Expect grassy or dirt surfaces, occasional uneven ground, and potential damp patches after rain. Suitable for casual walkers; traction and footing improve with sturdy footwear.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy, grippy footwear and bring a waterproof layer. Stay on the marked paths and respect other trail users. Carry water and a small snack, and have a charged phone with maps. In winter, daylight is shorter—start early and plan your return. Tell someone your plans if hiking solo, and practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy, comfortable footwear with good grip",
+      "Water bottle",
+      "Weather-appropriate clothing (including a lightweight waterproof layer)",
+      "Small first aid kit",
+      "Map or GPS/phone with offline map",
+      "Snacks",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight warm layer",
+      "Optional trekking poles",
+      "Pack rain cover or waterproof bag"
+    ],
+    "best_seasons": "Year-round; particularly pleasant in spring and summer, though expect mud and soggy conditions in autumn and winter.",
+    "seo": {
+      "title": "Ambarrow Court Circuit – Easy 1.3 km Hike in the UK",
+      "meta_description": "Explore Ambarrow Court Circuit, a gentle 1.3 km loop in the UK. Easy terrain, practical safety tips, and gear suggestions for a family-friendly outdoor walk.",
+      "h1": "Ambarrow Court Circuit – Easy 1.3 km Hike"
+    }
+  }
+}

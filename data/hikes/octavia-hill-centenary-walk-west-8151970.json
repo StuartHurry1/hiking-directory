@@ -1,0 +1,21 @@
+{
+  "id": "osm-8151970",
+  "slug": "octavia-hill-centenary-walk-west-8151970",
+  "name": "Octavia Hill Centenary walk west",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2509391,
+    "lon": 0.0870032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8151970
+  }
+}

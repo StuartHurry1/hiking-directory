@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375882",
+  "slug": "south-west-coast-path-section-33-par-to-polperro-2375882",
+  "name": "South West Coast Path (Section 33: Par to Polperro)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3511924,
+    "lon": -4.7022909
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375882
+  }
+}

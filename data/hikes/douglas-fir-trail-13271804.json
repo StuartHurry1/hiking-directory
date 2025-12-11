@@ -1,0 +1,21 @@
+{
+  "id": "osm-13271804",
+  "slug": "douglas-fir-trail-13271804",
+  "name": "Douglas Fir Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6429653,
+    "lon": -3.1863242
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13271804
+  }
+}

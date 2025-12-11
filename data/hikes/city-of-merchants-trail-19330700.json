@@ -1,0 +1,21 @@
+{
+  "id": "osm-19330700",
+  "slug": "city-of-merchants-trail-19330700",
+  "name": "City of Merchants Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5971792,
+    "lon": -5.9289996
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19330700
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3514189",
+  "slug": "ivanhoe-way-3514189",
+  "name": "Ivanhoe Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 116.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6852522,
+    "lon": -1.3161291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3514189
+  }
+}

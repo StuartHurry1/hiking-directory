@@ -1,0 +1,21 @@
+{
+  "id": "osm-1774288",
+  "slug": "sandlings-walk-st-augustines-route-1774288",
+  "name": "Sandlings Walk (St Augustine's route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0425777,
+    "lon": 1.20014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1774288
+  }
+}

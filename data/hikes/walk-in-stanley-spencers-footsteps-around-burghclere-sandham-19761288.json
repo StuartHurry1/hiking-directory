@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761288",
+  "slug": "walk-in-stanley-spencers-footsteps-around-burghclere-sandham-19761288",
+  "name": "Walk in Stanley Spencer's Footsteps around Burghclere, Sandham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3500293,
+    "lon": -1.3312185
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761288
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12622535",
+  "slug": "john-ogroats-trail-inverness-to-culbokie-12622535",
+  "name": "John O'Groats Trail (Inverness to Culbokie)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 52.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4762472,
+    "lon": -4.2251038
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12622535
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11684845",
+  "slug": "yellow-clover-leaf-walk-11684845",
+  "name": "Yellow Clover Leaf Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8144896,
+    "lon": -1.505285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11684845
+  }
+}

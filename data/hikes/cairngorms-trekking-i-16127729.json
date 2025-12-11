@@ -1,0 +1,40 @@
+{
+  "id": "osm-16127729",
+  "slug": "cairngorms-trekking-i-16127729",
+  "name": "Cairngorms Trekking I",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0047522,
+    "lon": -3.5432532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127729
+  },
+  "ai": {
+    "summary": "A 6.1 km moderate hike in the UK suitable for hikers with some experience. The route features steady elevation changes and varied footing, offering a rewarding day out without technical scrambling.",
+    "terrain_summary": "Mostly grassy, well-defined paths with occasional rocky or uneven sections. Mud is possible after rain, and some stretches may require careful footing on uneven ground.",
+    "safety_notes": "Check weather and daylight hours before starting. Wear sturdy, waterproof hiking boots and dress in layers. Carry a map or GPS, a charged phone, and a whistle. Bring enough water and snacks. Stay on marked trails and be prepared for rapid weather changes; inform someone of your plan and return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Map or GPS device, or a fully charged phone",
+      "Sun protection (hat, sunscreen)",
+      "Light rain cover or emergency layer"
+    ],
+    "best_seasons": "Spring to autumn (April–October) are typically ideal; winter hikes require additional preparation and experience.",
+    "seo": {
+      "title": "Cairngorms Trekking I – 6.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Cairngorms Trekking I, a 6.1 km moderate hike in the UK. Read terrain details, safety tips, best seasons, and essential gear for a successful trek.",
+      "h1": "Cairngorms Trekking I"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8151969",
+  "slug": "mariners-hill-loop-8151969",
+  "name": "Mariners Hill Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2438499,
+    "lon": 0.0781654
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8151969
+  }
+}

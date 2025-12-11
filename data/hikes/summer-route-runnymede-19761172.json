@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761172",
+  "slug": "summer-route-runnymede-19761172",
+  "name": "Summer Route, Runnymede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4484515,
+    "lon": -0.5674746
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761172
+  }
+}

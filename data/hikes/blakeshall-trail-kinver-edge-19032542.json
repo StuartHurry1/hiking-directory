@@ -1,0 +1,48 @@
+{
+  "id": "osm-19032542",
+  "slug": "blakeshall-trail-kinver-edge-19032542",
+  "name": "Blakeshall Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4366984,
+    "lon": -2.260222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032542
+  },
+  "ai": {
+    "summary": "A 10 km moderate hike on Kinver Edge in the United Kingdom, Blakeshall Trail combines lakeside scenery with ridge-top sections. The route weaves through woodlands and open chalk terrain, offering a mix of easier stretches and uneven, rocky footing with scenic viewpoints.",
+    "terrain_summary": "The trail features forest tracks, chalky ridges with exposed sections, uneven and sometimes rocky footing, muddy patches after rain, streams or damp areas near lakes, and occasional gates or stiles. Expect a mix of shaded woodland and open, breezy ridge sections with potential puddles and slippery surfaces in wet weather.",
+    "safety_notes": "Check the weather forecast before starting; surfaces can become very muddy and slippery after rain. Stay on marked paths and watch for exposed ridge edges. Keep dogs on leads where required and be mindful of other hikers. Carry a map or GPS, inform someone of your plan, and be prepared with appropriate clothing and a headlamp if finishing after dusk. Watch for seasonal closures or livestock in the area.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Weather-appropriate clothing (layers, waterproof/windproof jacket)",
+      "Water bottle (2 litres) and snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Small first-aid kit",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Headlamp or flashlight for late finishes",
+      "Walking poles (optional)",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Late spring to early autumn; avoid periods of heavy rain or icy conditions, as the surface can be muddy and slippery.",
+    "seo": {
+      "title": "Blakeshall Trail, Kinver Edge: 10 km Moderate Hike in the UK",
+      "meta_description": "Explore Blakeshall Trail on Kinver Edge with a 10 km moderate route featuring lakes, ridges, and scenic viewpoints. Practical tips, gear list, and best seasons for hiking in the UK.",
+      "h1": "Blakeshall Trail at Kinver Edge: A 10 km Moderate Hike"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12663279,
+  "slug": "capital-ring-link-to-penge-west-station-12663279",
+  "name": "Capital Ring link to Penge West station",
+  "network": "rwn",
+  "tags": {
+    "from": "Capital Ring section 03",
+    "name": "Capital Ring link to Penge West station",
+    "network": "rwn",
+    "operator": "London Borough of Bromley",
+    "route": "foot",
+    "source": "Colin Saunders 'The Capital Ring (Aurum Press, 2020) ISBN 978 0 7112 5821 1",
+    "symbol": "Big Ben in a circle of arrows",
+    "to": "Penge West station",
+    "type": "route",
+    "website": "https://www.nationalrail.co.uk/stations_destinations/PNW.aspx"
+  },
+  "coordinates": [
+    [
+      -0.0611546,
+      51.4177526
+    ],
+    [
+      -0.0611525,
+      51.4177715
+    ],
+    [
+      -0.0610453,
+      51.4178353
+    ],
+    [
+      -0.0607412,
+      51.4180312
+    ],
+    [
+      -0.0605948,
+      51.4181316
+    ],
+    [
+      -0.0604869,
+      51.4182178
+    ],
+    [
+      -0.0612748,
+      51.4176893
+    ],
+    [
+      -0.0612197,
+      51.4177209
+    ],
+    [
+      -0.0611546,
+      51.4177526
+    ],
+    [
+      -0.0608879,
+      51.4175372
+    ],
+    [
+      -0.0612748,
+      51.4176893
+    ]
+  ]
+}

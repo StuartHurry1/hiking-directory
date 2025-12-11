@@ -1,0 +1,21 @@
+{
+  "id": "osm-1197953",
+  "slug": "hoop-hitchin-outer-orbital-path-1197953",
+  "name": "HOOP - Hitchin Outer Orbital Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9483351,
+    "lon": -0.2806603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1197953
+  }
+}

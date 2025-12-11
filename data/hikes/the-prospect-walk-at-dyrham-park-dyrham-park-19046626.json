@@ -1,0 +1,21 @@
+{
+  "id": "osm-19046626",
+  "slug": "the-prospect-walk-at-dyrham-park-dyrham-park-19046626",
+  "name": "The Prospect Walk at Dyrham Park, Dyrham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.480105,
+    "lon": -2.3631581
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19046626
+  }
+}

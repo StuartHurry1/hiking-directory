@@ -1,0 +1,21 @@
+{
+  "id": "osm-12345404",
+  "slug": "capital-ring-section-07-alternate-12345404",
+  "name": "Capital Ring Section 07 (alternate)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4684312,
+    "lon": -0.3223374
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12345404
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19276023",
+  "slug": "thetford-river-trails-purple-route-west-19276023",
+  "name": "Thetford River Trails - Purple Route (West)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4144903,
+    "lon": 0.7466439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19276023
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2065439",
+  "slug": "poets-path-no-1-2065439",
+  "name": "Poets' Path No 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9711311,
+    "lon": -2.3826861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2065439
+  }
+}

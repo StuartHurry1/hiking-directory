@@ -1,0 +1,21 @@
+{
+  "id": "osm-2739208",
+  "slug": "waveney-trail-2739208",
+  "name": "Waveney Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3739914,
+    "lon": 1.0049107
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2739208
+  }
+}

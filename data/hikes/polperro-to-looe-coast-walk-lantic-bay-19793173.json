@@ -1,0 +1,23 @@
+{
+  "id": "osm-19793173",
+  "slug": "polperro-to-looe-coast-walk-lantic-bay-19793173",
+  "name": "Polperro to Looe coast walk, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3357658,
+    "lon": -4.5235266
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19793173
+  }
+}

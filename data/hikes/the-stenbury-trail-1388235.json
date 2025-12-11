@@ -1,0 +1,21 @@
+{
+  "id": "osm-1388235",
+  "slug": "the-stenbury-trail-1388235",
+  "name": "The Stenbury Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5961425,
+    "lon": -1.2299738
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1388235
+  }
+}

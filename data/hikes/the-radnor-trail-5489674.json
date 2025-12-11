@@ -1,0 +1,21 @@
+{
+  "id": "osm-5489674",
+  "slug": "the-radnor-trail-5489674",
+  "name": "The Radnor Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8759914,
+    "lon": -1.6567851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5489674
+  }
+}

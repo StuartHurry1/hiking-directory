@@ -1,0 +1,21 @@
+{
+  "id": "osm-16920102",
+  "slug": "loch-an-eilein-circular-16920102",
+  "name": "Loch an Eilein Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1415866,
+    "lon": -3.8305764
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16920102
+  }
+}

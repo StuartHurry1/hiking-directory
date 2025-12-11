@@ -1,0 +1,21 @@
+{
+  "id": "osm-10929271",
+  "slug": "nev-cole-way-10929271",
+  "name": "Nev Cole Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 221.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5749961,
+    "lon": -0.1390948
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10929271
+  }
+}

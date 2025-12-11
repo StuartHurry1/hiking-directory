@@ -1,0 +1,23 @@
+{
+  "id": "osm-17883964",
+  "slug": "miles-without-stiles-elterwater-to-skelwith-bridge-17883964",
+  "name": "Miles without Stiles: Elterwater to Skelwith Bridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4327817,
+    "lon": -3.0357553
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17883964
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "osm-16126833",
+  "slug": "buachaille-etive-mor-trail-16126833",
+  "name": "Buachaille Etive Mór Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6647321,
+    "lon": -4.904896
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16126833
+  },
+  "ai": {
+    "summary": "The Buachaille Etive Mor Trail is a 13.9 km moderate hike in the Scottish Highlands, United Kingdom. It circles the Buachaille Etive Mor massif, offering expansive mountain views, grassy slopes, and rocky paths suitable for hikers with some experience. The route is scenic and popular, with variable weather requiring careful preparation.",
+    "terrain_summary": "Expect a mix of well-defined paths, rocky steps, grassy ascents and descents, and occasional scree. Higher sections can be exposed and wind-prone; boggy patches and small stream crossings may occur after rain. Navigation is straightforward on a clear day, but mist can reduce visibility near the ridge.",
+    "safety_notes": "Weather in the Scottish Highlands can change rapidly; always check a reliable forecast and be prepared for cold wind and rain. Wear layered clothing, waterproofs, and sturdy boots. Carry a map and compass (GPS as backup) and know how to use them. Stay on marked paths and turn back if visibility worsens or conditions become unsafe. Start early to avoid late returns, and inform someone of your plan. Mobile reception may be limited in remote areas; carry a charged phone and emergency contact information. In winter, plan for ice and shorter daylight hours and consider an experienced guide for exposed sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing (base layer, mid-layer, and a waterproof/windproof shell)",
+      "Map and compass (GPS optional) and basic navigation knowledge",
+      "Water bottle or hydration system plus high-energy snacks",
+      "Warm hat and gloves",
+      "Waterproof jacket and pants",
+      "Headlamp with spare batteries",
+      "Whistle and emergency blanket",
+      "First aid kit",
+      "Sunscreen and sunglasses",
+      "Mobile phone with portable charger",
+      "Lightweight rain cover for the pack",
+      "Traction aids for icy conditions (seasonal)",
+      "Identification and emergency contact information"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) typically offer the best weather and daylight; winter and shoulder seasons can be rewarding but require advanced planning and appropriate experience.",
+    "seo": {
+      "title": "Buachaille Etive Mor Trail – 13.9 km Moderate Hike in the Scottish Highlands",
+      "meta_description": "Explore the Buachaille Etive Mor Trail in the Scottish Highlands, UK. A 13.9 km moderate hike with terrain details, safety tips, gear guidance, and the best seasons.",
+      "h1": "Buachaille Etive Mor Trail – 13.9 km Moderate Hike in the Scottish Highlands"
+    }
+  }
+}

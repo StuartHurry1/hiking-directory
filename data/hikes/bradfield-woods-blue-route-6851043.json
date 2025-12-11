@@ -1,0 +1,43 @@
+{
+  "id": "osm-6851043",
+  "slug": "bradfield-woods-blue-route-6851043",
+  "name": "Bradfield Woods Blue Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1845496,
+    "lon": 0.82925
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6851043
+  },
+  "ai": {
+    "summary": "Bradfield Woods Blue Route is a 5.7 km easy woodland hike in the UK. The route loops through shaded Bradfield Woods, offering a calm, family-friendly experience with gentle gradients and well-marked paths.",
+    "terrain_summary": "Predominantly woodland paths with occasional gravel sections. Mostly flat with gentle undulations; expect uneven roots and some damp or muddy patches after rain; shade keeps conditions cool.",
+    "safety_notes": "Wear sturdy footwear and stay on marked trails. Be cautious of roots and slippery sections in wet weather. Check local access and seasonal closures. Carry water and a light layer; insects and ticks can be present in wooded areas. In poor visibility, use a map or GPS and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light rain jacket",
+      "Water and snacks",
+      "Map or GPS device",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Phone with emergency contacts",
+      "Small backpack",
+      "Extra layer for warmth or wind"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in late spring through early autumn.",
+    "seo": {
+      "title": "Bradfield Woods Blue Route – 5.7 km Easy Hike in the UK",
+      "meta_description": "Explore Bradfield Woods Blue Route, a 5.7 km easy woodland hike in the UK. Gentle terrain, shaded trails, and family-friendly scenery.",
+      "h1": "Bradfield Woods Blue Route – 5.7 km Easy Woodland Hike"
+    }
+  }
+}

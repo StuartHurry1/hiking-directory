@@ -1,0 +1,21 @@
+{
+  "id": "osm-19895170",
+  "slug": "st-ives-and-the-hemingfords-walk-houghton-mill-19895170",
+  "name": "St Ives and the Hemingfords Walk, Houghton Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3244058,
+    "lon": -0.0752382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19895170
+  }
+}

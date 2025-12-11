@@ -1,0 +1,21 @@
+{
+  "id": "osm-17089241",
+  "slug": "donard-loop-17089241",
+  "name": "Donard Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1982768,
+    "lon": -5.8937059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17089241
+  }
+}

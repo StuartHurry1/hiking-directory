@@ -1,0 +1,21 @@
+{
+  "id": "osm-13287192",
+  "slug": "river-esk-and-sawmill-walk-13287192",
+  "name": "River Esk and Sawmill Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7345466,
+    "lon": -2.995354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13287192
+  }
+}

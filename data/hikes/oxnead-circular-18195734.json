@@ -1,0 +1,21 @@
+{
+  "id": "osm-18195734",
+  "slug": "oxnead-circular-18195734",
+  "name": "Oxnead Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7577234,
+    "lon": 1.3064327
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18195734
+  }
+}

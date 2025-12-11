@@ -1,0 +1,21 @@
+{
+  "id": "osm-17671660",
+  "slug": "knepp-wildland-orange-route-17671660",
+  "name": "Knepp Wildland Orange Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9711857,
+    "lon": -0.3532598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17671660
+  }
+}

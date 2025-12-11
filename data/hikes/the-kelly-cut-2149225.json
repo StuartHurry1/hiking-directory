@@ -1,0 +1,21 @@
+{
+  "id": "osm-2149225",
+  "slug": "the-kelly-cut-2149225",
+  "name": "The Kelly Cut",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9091067,
+    "lon": -4.8058826
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2149225
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-12862497",
+  "slug": "beech-trail-12862497",
+  "name": "Beech Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.665209,
+    "lon": 0.0417028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12862497
+  },
+  "ai": {
+    "summary": "Beech Trail is a moderate 8.1 km hike through UK beech woodland. It combines pleasant forest scenery, gentle elevation changes and steady woodland paths, making it suitable for walkers with a reasonable level of fitness seeking an outdoor forest experience.",
+    "terrain_summary": "The route follows forest tracks and dirt paths with some exposed roots and occasional damp patches. Expect mostly well-defined trails, light to moderate ascents, and mud after rainfall; conditions can vary with season and weather.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, carry a map or offline navigation and keep a charged phone. Bring water and a snack, and be mindful of slippery leaves after rain. Let someone know your plans and time estimates. Watch for cyclists on shared sections and be cautious on uneven ground.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Map or offline navigation device",
+      "Snack/energy bars",
+      "Light rain jacket",
+      "Hat and sunscreen (summer)",
+      "Small backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal for Beech Trail, offering milder weather and drier trails; winters can be muddy with shorter daylight hours.",
+    "seo": {
+      "title": "Beech Trail — 8.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Beech Trail, a moderate 8.1 km hike through UK beech woodland. Find terrain insights, safety tips, gear recommendations and the best seasons to hike.",
+      "h1": "Beech Trail: 8.1 km Moderate UK Hike"
+    }
+  }
+}

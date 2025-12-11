@@ -1,0 +1,21 @@
+{
+  "id": "osm-18539445",
+  "slug": "thames-path-evening-diversion-21h-to-06h-18539445",
+  "name": "Thames Path - evening diversion 21h to 06h",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4941442,
+    "lon": 0.044726
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18539445
+  }
+}

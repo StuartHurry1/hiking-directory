@@ -1,0 +1,21 @@
+{
+  "id": "osm-17759783",
+  "slug": "hamble-rail-trail-route-17759783",
+  "name": "Hamble Rail Trail Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8693835,
+    "lon": -1.341325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17759783
+  }
+}

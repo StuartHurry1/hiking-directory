@@ -1,0 +1,39 @@
+{
+  "id": "osm-10507269",
+  "slug": "camborne-br-62-10507269",
+  "name": "Camborne BR 62",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1991257,
+    "lon": -5.3191816
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10507269
+  },
+  "ai": {
+    "summary": "Camborne BR 62 is a very short, easy hike in the United Kingdom. At only 0.2 km, this route offers a quick outdoor break with flat terrain and minimal effort, suitable for all ages and fitness levels.",
+    "terrain_summary": "The route follows a flat, well-maintained path, likely paved or compact gravel, with light urban surroundings. The surface is even, with minimal elevation change across roughly 200 meters.",
+    "safety_notes": "Supervise children on any street crossings if the path intersects roads. Weather can change quickly in the UK; bring appropriate clothing. Stay aware of other pedestrians and cyclists, and keep to designated paths. The short distance means you should still prepare for changes in terrain or footing on uneven sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Smartphone or map",
+      "Sunscreen (in sunny weather)"
+    ],
+    "best_seasons": "All year round in the UK, with particularly pleasant conditions in late spring to early autumn.",
+    "seo": {
+      "title": "Camborne BR 62 – 0.2 km Easy Hike in the UK",
+      "meta_description": "Explore Camborne BR 62, a ultra-short 0.2 km hike in the United Kingdom. An easy, flat route suitable for families and all ages.",
+      "h1": "Camborne BR 62: 0.2 km Easy Hike in the UK"
+    }
+  }
+}

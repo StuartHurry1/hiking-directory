@@ -1,0 +1,41 @@
+{
+  "id": "osm-3982831",
+  "slug": "amber-valley-routeway-walk-6-3982831",
+  "name": "Amber Valley Routeway Walk 6",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0012515,
+    "lon": -1.3481552
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3982831
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 6 is a short, easy 4.2 km hike in the UK, suitable for beginners and families. The route follows a well-marked, gentle trail through pleasant countryside with mostly flat terrain.",
+    "terrain_summary": "Mostly flat, with a mix of compacted gravel, paved paths, and short grassy sections. Gentle inclines may occur in places; surfaces are generally easy for walkers with standard footwear. The trail is well-marked and shares some sections with cyclists.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy footwear and bring a lightweight waterproof layer, as UK weather can be changeable. Stay on the marked path and be aware of other walkers and cyclists on shared sections. Bring water and sun protection for sunny days. The hike is short but muddy patches can occur after rain, so adjust pace accordingly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Sunscreen, hat and sunglasses",
+      "Map, guide or fully charged phone with offline map",
+      "Small first-aid kit",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn for comfortable conditions and milder weather; the route is suitable year-round with appropriate gear.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 6 – 4.2 km Easy UK Hike",
+      "meta_description": "Discover Amber Valley Routeway Walk 6, a 4.2 km easy hike in the UK. Learn about terrain, safety tips, gear recommendations, and ideal seasons.",
+      "h1": "Amber Valley Routeway Walk 6 – 4.2 km Easy Walk in the UK"
+    }
+  }
+}

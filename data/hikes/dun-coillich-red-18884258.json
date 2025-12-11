@@ -1,0 +1,21 @@
+{
+  "id": "osm-18884258",
+  "slug": "dun-coillich-red-18884258",
+  "name": "Dun Coillich Red",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.655582,
+    "lon": -4.0366825
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18884258
+  }
+}

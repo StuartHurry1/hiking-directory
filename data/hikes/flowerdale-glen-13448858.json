@@ -1,0 +1,23 @@
+{
+  "id": "osm-13448858",
+  "slug": "flowerdale-glen-13448858",
+  "name": "Flowerdale Glen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.7129654,
+    "lon": -5.6775787
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13448858
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "osm-207725",
+  "slug": "arboretum-route-2-207725",
+  "name": "Arboretum Route 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9606712,
+    "lon": -1.1574977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 207725
+  },
+  "ai": {
+    "summary": "Arboretum Route 2 is a very short, easy stroll through an arboretum in the UK. Covering just 0.1 km, it’s perfect for a quick family-friendly visit or a gentle beginner hike.",
+    "terrain_summary": "Flat, well-maintained surface on an arboretum path, likely gravel or paved. Minimal elevation change with some shaded sections.",
+    "safety_notes": "Short, low-risk route. Stay on marked paths, follow arboretum rules, supervise children, and be mindful of other visitors. Check the weather and be prepared for damp conditions; bring a layer if needed.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate layer",
+      "Water bottle (optional)",
+      "Sunscreen or hat in sunny weather",
+      "Phone or camera for photos"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Arboretum Route 2 – Easy 0.1 km Walk in the UK",
+      "meta_description": "Discover Arboretum Route 2, a short, easy 0.1 km walk through an arboretum in the UK. Flat terrain, family-friendly, best in Spring to Autumn.",
+      "h1": "Arboretum Route 2: Easy 0.1 km Walk (UK)"
+    }
+  }
+}

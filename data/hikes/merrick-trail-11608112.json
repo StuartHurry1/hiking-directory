@@ -1,0 +1,21 @@
+{
+  "id": "osm-11608112",
+  "slug": "merrick-trail-11608112",
+  "name": "Merrick Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1242111,
+    "lon": -4.4877262
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11608112
+  }
+}

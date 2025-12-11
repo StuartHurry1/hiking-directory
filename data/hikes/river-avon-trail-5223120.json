@@ -1,0 +1,21 @@
+{
+  "id": "osm-5223120",
+  "slug": "river-avon-trail-5223120",
+  "name": "River Avon Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 67.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4823885,
+    "lon": -2.6847947
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5223120
+  }
+}

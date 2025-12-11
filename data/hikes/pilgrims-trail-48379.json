@@ -1,0 +1,21 @@
+{
+  "id": "osm-48379",
+  "slug": "pilgrims-trail-48379",
+  "name": "Pilgrims' Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 95.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0609972,
+    "lon": -1.3145186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 48379
+  }
+}

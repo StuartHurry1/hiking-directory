@@ -1,0 +1,23 @@
+{
+  "id": "osm-11506694",
+  "slug": "watness-coastal-11506694",
+  "name": "Watness Coastal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2420079,
+    "lon": -1.6787382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506694
+  }
+}

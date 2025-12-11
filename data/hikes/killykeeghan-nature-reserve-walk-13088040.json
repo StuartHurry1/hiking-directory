@@ -1,0 +1,21 @@
+{
+  "id": "osm-13088040",
+  "slug": "killykeeghan-nature-reserve-walk-13088040",
+  "name": "Killykeeghan Nature Reserve Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2552263,
+    "lon": -7.8317753
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13088040
+  }
+}

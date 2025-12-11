@@ -1,0 +1,21 @@
+{
+  "id": "osm-1653283",
+  "slug": "wardens-way-1653283",
+  "name": "Warden's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.952507,
+    "lon": -1.9666838
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1653283
+  }
+}

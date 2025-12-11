@@ -1,0 +1,21 @@
+{
+  "id": "osm-11661295",
+  "slug": "cambrian-way-11661295",
+  "name": "Cambrian Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1499.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.481329,
+    "lon": -3.1807326
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11661295
+  }
+}

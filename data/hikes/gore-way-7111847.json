@@ -1,0 +1,21 @@
+{
+  "id": "osm-7111847",
+  "slug": "gore-way-7111847",
+  "name": "Gore Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8458592,
+    "lon": -3.0695769
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7111847
+  }
+}

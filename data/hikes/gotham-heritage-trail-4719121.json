@@ -1,0 +1,21 @@
+{
+  "id": "osm-4719121",
+  "slug": "gotham-heritage-trail-4719121",
+  "name": "Gotham Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8738125,
+    "lon": -1.2149248
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4719121
+  }
+}

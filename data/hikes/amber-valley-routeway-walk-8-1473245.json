@@ -1,0 +1,43 @@
+{
+  "id": "osm-1473245",
+  "slug": "amber-valley-routeway-walk-8-1473245",
+  "name": "Amber Valley Routeway Walk 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0628424,
+    "lon": -1.4121603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1473245
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 8 is a 12.4 km moderate hike in the UK, following a historic routeway with varied countryside and gentle elevation changes.",
+    "terrain_summary": "The route blends well-maintained path sections with grassy trails, occasional gates or stiles, and mild ascents. Surfaces can be uneven and may be muddy after rain, so sturdy boots with good grip are recommended.",
+    "safety_notes": "Before setting out, check the weather forecast as conditions in the UK can change quickly. Wear sturdy footwear and appropriate clothing, and stay on marked paths. Carry a map or offline navigation, a charged phone, and a small first aid kit. Tell someone your plans and expected return time, and bring sufficient water and snacks. Be prepared for variable weather and limited cell reception in some stretches.",
+    "recommended_gear": [
+      "Sturdy, waterproof footwear with good grip",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water bottle and lightweight snacks",
+      "Map and compass or GPS device",
+      "Phone fully charged with offline maps",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Lightweight rain cover or packable poncho",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (roughly March–October) are the best seasons for this route, offering milder weather and longer daylight.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 8 – 12.4 km Moderate Hike in the UK",
+      "meta_description": "Explore Amber Valley Routeway Walk 8, a 12.4 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear for this route.",
+      "h1": "Amber Valley Routeway Walk 8 – 12.4 km Moderate Hike"
+    }
+  }
+}

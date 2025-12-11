@@ -1,0 +1,21 @@
+{
+  "id": "osm-15479235",
+  "slug": "moneynabane-trail-15479235",
+  "name": "Moneynabane Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3502125,
+    "lon": -5.9584381
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15479235
+  }
+}

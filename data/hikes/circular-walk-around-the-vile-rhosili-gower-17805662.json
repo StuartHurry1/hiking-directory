@@ -1,0 +1,21 @@
+{
+  "id": "osm-17805662",
+  "slug": "circular-walk-around-the-vile-rhosili-gower-17805662",
+  "name": "Circular Walk around the Vile, Rhosili, Gower",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5673673,
+    "lon": -4.2926388
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17805662
+  }
+}

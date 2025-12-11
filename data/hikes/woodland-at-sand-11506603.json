@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506603",
+  "slug": "woodland-at-sand-11506603",
+  "name": "Woodland at Sand",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2125707,
+    "lon": -1.3775532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506603
+  }
+}

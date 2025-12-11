@@ -1,0 +1,21 @@
+{
+  "id": "osm-1609432",
+  "slug": "chessington-countryside-walk-1609432",
+  "name": "Chessington Countryside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3385197,
+    "lon": -0.2949592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1609432
+  }
+}

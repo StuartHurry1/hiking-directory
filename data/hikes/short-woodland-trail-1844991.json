@@ -1,0 +1,21 @@
+{
+  "id": "osm-1844991",
+  "slug": "short-woodland-trail-1844991",
+  "name": "Short Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.958562,
+    "lon": -0.977822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1844991
+  }
+}

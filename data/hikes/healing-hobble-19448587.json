@@ -1,0 +1,21 @@
+{
+  "id": "osm-19448587",
+  "slug": "healing-hobble-19448587",
+  "name": "Healing Hobble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5762295,
+    "lon": -0.1673082
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19448587
+  }
+}

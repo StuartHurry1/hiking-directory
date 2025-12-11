@@ -1,0 +1,41 @@
+{
+  "id": "osm-11507995",
+  "slug": "burn-of-kirkhouse-11507995",
+  "name": "Burn of Kirkhouse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3481741,
+    "lon": -1.2689048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507995
+  },
+  "ai": {
+    "summary": "An ultra-short, easy walk along a Burn of Kirkhouse path in the UK. At only 0.2 km with minimal elevation gain, it’s a no-stress outing suitable for beginners or a quick nature break.",
+    "terrain_summary": "Very short, flat to gently graded trail. Surface likely a grassy or gravel path; may be muddy or damp near the water, with occasional exposed roots or uneven sections.",
+    "safety_notes": "General precautions: wear sturdy footwear and weather-appropriate clothing. Stay on the marked path; watch for wet or slippery surfaces near the burn; be mindful of other trail users. Check weather and daylight conditions; carry water and a charged phone; let someone know your plan if venturing solo.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Sunscreen and a hat (summer)",
+      "Map or offline navigation on your phone",
+      "Snack or energy bar",
+      "Phone/camera for photos"
+    ],
+    "best_seasons": "Year-round, with most comfortable conditions in spring and autumn.",
+    "seo": {
+      "title": "Burn of Kirkhouse – Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore the Burn of Kirkhouse, a short 0.2 km easy hike in the UK. Perfect for beginners seeking a quick outdoor stroll with minimal terrain.",
+      "h1": "Burn of Kirkhouse: Easy 0.2 km Hike in the UK"
+    }
+  }
+}

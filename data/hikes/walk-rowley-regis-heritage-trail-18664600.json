@@ -1,0 +1,21 @@
+{
+  "id": "osm-18664600",
+  "slug": "walk-rowley-regis-heritage-trail-18664600",
+  "name": "Walk Rowley Regis Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4750172,
+    "lon": -2.0760235
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18664600
+  }
+}

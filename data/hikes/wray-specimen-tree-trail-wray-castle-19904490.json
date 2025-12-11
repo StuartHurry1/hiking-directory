@@ -1,0 +1,21 @@
+{
+  "id": "osm-19904490",
+  "slug": "wray-specimen-tree-trail-wray-castle-19904490",
+  "name": "Wray Specimen Tree Trail, Wray Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.401028,
+    "lon": -2.9642529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19904490
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19803302",
+  "slug": "wheathampstead-to-shaws-corner-circular-walk-shaws-corner-19803302",
+  "name": "Wheathampstead to Shaw's Corner Circular Walk, Shaw's Corner",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8131623,
+    "lon": -0.2917971
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19803302
+  }
+}

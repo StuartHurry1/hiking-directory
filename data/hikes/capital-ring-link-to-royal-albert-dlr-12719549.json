@@ -1,0 +1,21 @@
+{
+  "id": "osm-12719549",
+  "slug": "capital-ring-link-to-royal-albert-dlr-12719549",
+  "name": "Capital Ring link to Royal Albert DLR",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5109004,
+    "lon": 0.0472725
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12719549
+  }
+}

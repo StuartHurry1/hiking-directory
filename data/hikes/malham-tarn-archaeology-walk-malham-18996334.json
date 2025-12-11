@@ -1,0 +1,23 @@
+{
+  "id": "osm-18996334",
+  "slug": "malham-tarn-archaeology-walk-malham-18996334",
+  "name": "Malham Tarn Archaeology walk, Malham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0977639,
+    "lon": -2.1565839
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18996334
+  }
+}

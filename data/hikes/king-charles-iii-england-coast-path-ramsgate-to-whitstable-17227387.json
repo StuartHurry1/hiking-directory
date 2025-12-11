@@ -1,0 +1,23 @@
+{
+  "id": "osm-17227387",
+  "slug": "king-charles-iii-england-coast-path-ramsgate-to-whitstable-17227387",
+  "name": "King Charles III England Coast Path: Ramsgate to Whitstable",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 80.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3320871,
+    "lon": 1.4234094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17227387
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1559939",
+  "slug": "donnington-way-1559939",
+  "name": "Donnington Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 329.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9649593,
+    "lon": -1.7415067
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1559939
+  }
+}

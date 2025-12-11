@@ -1,0 +1,21 @@
+{
+  "id": "osm-18138495",
+  "slug": "pewsey-vale-circular-walk-18138495",
+  "name": "Pewsey Vale Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 273,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3945208,
+    "lon": -1.6026601
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18138495
+  }
+}

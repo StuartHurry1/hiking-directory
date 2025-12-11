@@ -1,0 +1,43 @@
+{
+  "id": "osm-19687063",
+  "slug": "a-nature-walk-at-west-bexington-hive-beach-19687063",
+  "name": "A nature walk at West Bexington, Hive Beach",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6762259,
+    "lon": -2.6656636
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19687063
+  },
+  "ai": {
+    "summary": "A 10 km coastal nature walk around the West Bexington and Hive Beach area on the Dorset coast. The moderate route passes along sandy beaches, shingle shores, dunes, and coastal paths, offering sea views, birdlife, and opportunities for relaxed immersion in the shore environment.",
+    "terrain_summary": "Primarily coastal paths and beach stretches with firm surfaces, interspersed dune trails and occasional uneven ground. Expect exposed windy sections, sandy or pebbly beach areas, and occasional mud after rain. Some segments may have soft sand near the water's edge.",
+    "safety_notes": "Check tide times to avoid being cut off along the shore. Stay away from unstable cliffs and dune edges. Coastal weather can change rapidly; dress in layers and bring a waterproof layer. Wear sturdy footwear, carry water, and use sun protection on sunny days. Carry a map or GPS and a charged phone; inform someone of your plan and expected return. In an emergency, call 999.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate layers (waterproof jacket, hat, gloves if cold)",
+      "Water and snacks",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Map or GPS device and a charged phone",
+      "Small first aid kit",
+      "Light backpack",
+      "Optional walking poles",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for comfortable temperatures and good coastal visibility. The route is also doable in winter with extra layers and careful planning.",
+    "seo": {
+      "title": "West Bexington to Hive Beach: 10 km Coastal Nature Walk in Dorset, UK",
+      "meta_description": "Explore a 10 km moderate coastal nature walk between West Bexington and Hive Beach on the Dorset coast. Beach and dune scenery, wildlife, and practical safety tips for a memorable day outdoors in the UK.",
+      "h1": "West Bexington to Hive Beach: 10 km Coastal Nature Walk"
+    }
+  }
+}

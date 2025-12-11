@@ -1,0 +1,21 @@
+{
+  "id": "osm-15705159",
+  "slug": "seaforde-woodland-walk-15705159",
+  "name": "Seaforde Woodland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3082033,
+    "lon": -5.8418324
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15705159
+  }
+}

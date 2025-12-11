@@ -1,0 +1,21 @@
+{
+  "id": "osm-15320717",
+  "slug": "shelduck-hide-15320717",
+  "name": "Shelduck Hide",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7224681,
+    "lon": -2.5424616
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15320717
+  }
+}

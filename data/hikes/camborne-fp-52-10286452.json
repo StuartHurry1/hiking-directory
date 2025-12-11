@@ -1,0 +1,40 @@
+{
+  "id": "osm-10286452",
+  "slug": "camborne-fp-52-10286452",
+  "name": "Camborne FP 52",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1965551,
+    "lon": -5.2723767
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10286452
+  },
+  "ai": {
+    "summary": "Camborne FP 52 is a short, easy 1.6 km public footpath walk in the UK. The route is suitable for beginners and families, offering a gentle pace and minimal elevation, with a generally well-defined path and varied surfaces.",
+    "terrain_summary": "Predominantly well-defined footpath with compacted earth or gravel. Some sections may be grassy or muddy after wet weather, and surfaces can be uneven. Expect gentle gradients and occasional gates.",
+    "safety_notes": "Before you go: check the weather and daylight hours. Wear sturdy footwear with good grip and trousers that protect against bracken or undergrowth. Stay on the marked path, watch for mud, and take care crossing gates or stiles. Keep dogs under control and clean up after them. Carry water, a small first aid kit, and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Small first aid kit",
+      "Map or phone with offline navigation",
+      "Sun protection or sunglasses"
+    ],
+    "best_seasons": "Spring to autumn are ideal; walking is possible year-round, but conditions are often muddy and wet in winter.",
+    "seo": {
+      "title": "Camborne FP 52: Easy 1.6 km UK Public Footpath Walk",
+      "meta_description": "Discover Camborne FP 52, an easy 1.6 km walk in the UK. A beginner-friendly route on a public footpath with gentle terrain, ideal for a family outing.",
+      "h1": "Camborne FP 52 – Easy 1.6 km UK Public Footpath Walk"
+    }
+  }
+}

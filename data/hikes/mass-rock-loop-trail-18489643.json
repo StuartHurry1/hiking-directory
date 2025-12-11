@@ -1,0 +1,21 @@
+{
+  "id": "osm-18489643",
+  "slug": "mass-rock-loop-trail-18489643",
+  "name": "Mass Rock Loop Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0933287,
+    "lon": -6.4813485
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18489643
+  }
+}

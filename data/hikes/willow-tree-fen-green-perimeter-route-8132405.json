@@ -1,0 +1,21 @@
+{
+  "id": "osm-8132405",
+  "slug": "willow-tree-fen-green-perimeter-route-8132405",
+  "name": "Willow Tree Fen Green perimeter route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7711441,
+    "lon": -0.2595682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8132405
+  }
+}

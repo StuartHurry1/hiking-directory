@@ -1,0 +1,23 @@
+{
+  "id": "osm-18028603",
+  "slug": "lakeside-way-18028603",
+  "name": "Lakeside Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 99.7,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1772443,
+    "lon": -2.4619949
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18028603
+  }
+}

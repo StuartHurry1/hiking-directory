@@ -1,0 +1,23 @@
+{
+  "id": "osm-19905099",
+  "slug": "monk-coniston-and-tarn-hows-trail-tarn-hows-and-coniston-19905099",
+  "name": "Monk Coniston and Tarn Hows Trail, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3716254,
+    "lon": -3.0540967
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19905099
+  }
+}

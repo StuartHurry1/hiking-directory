@@ -1,0 +1,21 @@
+{
+  "id": "osm-14698219",
+  "slug": "tatmore-hills-loop-14698219",
+  "name": "Tatmore Hills Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9086026,
+    "lon": -0.2852094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14698219
+  }
+}

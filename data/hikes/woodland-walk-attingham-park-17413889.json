@@ -1,0 +1,23 @@
+{
+  "id": "osm-17413889",
+  "slug": "woodland-walk-attingham-park-17413889",
+  "name": "Woodland Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6861523,
+    "lon": -2.6693884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17413889
+  }
+}

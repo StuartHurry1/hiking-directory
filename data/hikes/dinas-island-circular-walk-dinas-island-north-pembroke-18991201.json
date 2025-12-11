@@ -1,0 +1,21 @@
+{
+  "id": "osm-18991201",
+  "slug": "dinas-island-circular-walk-dinas-island-north-pembroke-18991201",
+  "name": "DInas Island Circular Walk, Dinas Island, North Pembroke",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0216258,
+    "lon": -4.9089885
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18991201
+  }
+}

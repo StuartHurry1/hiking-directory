@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280482",
+  "slug": "downstream-to-derwent-walk-borrowdale-and-derwent-water-19280482",
+  "name": "Downstream to Derwent Walk, Borrowdale and Derwent Water",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.511275,
+    "lon": -3.1981475
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280482
+  }
+}

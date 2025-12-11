@@ -1,0 +1,21 @@
+{
+  "id": "osm-8555",
+  "slug": "kent-county-council-centenary-walk-8555",
+  "name": "Kent County Council Centenary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2812573,
+    "lon": 1.0760459
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8555
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-7036327",
+  "slug": "b40-west-diversion-7036327",
+  "name": "+B40 West Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4697911,
+    "lon": -1.4511522
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7036327
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km hike along the +B40 West Diversion in the UK. Great for a quick outdoor break, families, or a relaxed stroll.",
+    "terrain_summary": "Primarily flat, with well-maintained paths. Surfaces may include paved track, compact dirt, and grassy edges; expect occasional damp sections depending on weather.",
+    "safety_notes": "Stay on designated paths; be aware of cyclists and pedestrians on shared routes; check weather conditions before you go; wear sturdy footwear; bring a light layer and water; have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Phone with offline map",
+      "Sunscreen and hat",
+      "Small backpack"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and early autumn; plan for daylight in winter",
+    "seo": {
+      "title": "+B40 West Diversion - Easy 0.4 km UK Hike",
+      "meta_description": "Discover the short and easy 0.4 km hike along the +B40 West Diversion in the UK. Ideal for a quick outdoor escape with practical safety and gear tips.",
+      "h1": "+B40 West Diversion"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3599126",
+  "slug": "london-loop-section-5-3599126",
+  "name": "London LOOP (Section 5)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.318725,
+    "lon": -0.0641011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3599126
+  }
+}

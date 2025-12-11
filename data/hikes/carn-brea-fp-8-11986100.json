@@ -1,0 +1,21 @@
+{
+  "id": "osm-11986100",
+  "slug": "carn-brea-fp-8-11986100",
+  "name": "Carn Brea FP 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2167146,
+    "lon": -5.2638992
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11986100
+  }
+}

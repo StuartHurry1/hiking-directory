@@ -1,0 +1,21 @@
+{
+  "id": "osm-3335361",
+  "slug": "pexton-trail-3335361",
+  "name": "Pexton Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2626266,
+    "lon": -0.6925752
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3335361
+  }
+}

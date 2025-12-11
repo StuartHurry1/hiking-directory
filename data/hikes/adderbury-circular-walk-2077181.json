@@ -1,0 +1,41 @@
+{
+  "id": "osm-2077181",
+  "slug": "adderbury-circular-walk-2077181",
+  "name": "Adderbury Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0286617,
+    "lon": -1.3268116
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2077181
+  },
+  "ai": {
+    "summary": "A 9.4 km circular hike starting and finishing in Adderbury, UK. This moderate route travels along rural lanes, hedgerows and farmland around the village, offering countryside scenery and a relaxed pace suitable for walkers with some experience.",
+    "terrain_summary": "Predominantly rural paths and quiet lanes with occasional stiles. Ground can be uneven and muddy after rain; expect gentle ascents and descents with a few short climbs.",
+    "safety_notes": "Wear sturdy footwear and bring weather-appropriate clothing. Stay on marked paths, watch for traffic on country lanes, and check the forecast before you go. Carry water, a map or GPS, and a basic first aid kit. Be mindful of livestock and crops in fields and keep dogs under control where required. Let someone know your plans and estimated return time.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle",
+      "Layered clothing (hat and gloves as needed)",
+      "Rain jacket",
+      "Map or offline navigation device",
+      "Snack or energy bar",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring through autumn for the best conditions and scenery; winter walks may be muddy and daylight hours shorter.",
+    "seo": {
+      "title": "Adderbury Circular Walk – 9.4 km Moderate Hike in the UK",
+      "meta_description": "Discover Adderbury Circular Walk, a 9.4 km moderate hike in the UK. Learn route highlights, terrain, safety tips, gear, and best seasons for walking.",
+      "h1": "Adderbury Circular Walk – 9.4 km Moderate Hike"
+    }
+  }
+}

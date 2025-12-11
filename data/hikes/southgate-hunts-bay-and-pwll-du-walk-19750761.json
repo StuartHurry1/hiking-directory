@@ -1,0 +1,23 @@
+{
+  "id": "osm-19750761",
+  "slug": "southgate-hunts-bay-and-pwll-du-walk-19750761",
+  "name": "Southgate, Hunts Bay and Pwll Du walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5663309,
+    "lon": -4.0869495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19750761
+  }
+}

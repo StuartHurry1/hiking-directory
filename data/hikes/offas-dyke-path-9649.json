@@ -1,0 +1,21 @@
+{
+  "id": "osm-9649",
+  "slug": "offas-dyke-path-9649",
+  "name": "Offa's Dyke Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 733.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6329949,
+    "lon": -2.6498287
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9649
+  }
+}

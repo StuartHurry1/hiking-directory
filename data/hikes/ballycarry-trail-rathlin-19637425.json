@@ -1,0 +1,41 @@
+{
+  "id": "osm-19637425",
+  "slug": "ballycarry-trail-rathlin-19637425",
+  "name": "Ballycarry Trail, Rathlin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2985289,
+    "lon": -6.1809574
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19637425
+  },
+  "ai": {
+    "summary": "A short, easy 2.3 km coastal hike on Rathlin Island, Ballycarry Trail offers a gentle scenery experience with sea views and a well-maintained path suitable for most walkers.",
+    "terrain_summary": "Mostly well-marked, level to gently undulating paths along the coast. Surfaces are a mix of compact dirt, gravel, and occasional boardwalk; some sections may be exposed to wind and salt spray near the shoreline.",
+    "safety_notes": "Stay on marked paths. Be mindful of cliff edges and sudden gusts along the coast. Weather can change quickly; dress in layers and bring waterproofs. Carry water and a charged phone; inform someone of your plans if hiking alone. The short distance can feel longer in strong winds; check local conditions before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Layered clothing and a windproof jacket",
+      "Light rain gear",
+      "Hat and sunscreen",
+      "Map or offline navigation (or fully charged phone with map)",
+      "Small backpack to carry essentials"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October) offer milder weather and longer daylight; winters can be windy and wet.",
+    "seo": {
+      "title": "Bally carry Trail, Rathlin Island – Easy 2.3 km Coastal Hike in the UK",
+      "meta_description": "Explore the Ballycarry Trail on Rathlin Island. A short 2.3 km easy coastal hike with sea views, practical tips on terrain, safety, and gear for a UK seaside walk.",
+      "h1": "Ballycarry Trail, Rathlin – Easy 2.3 km Coastal Walk"
+    }
+  }
+}

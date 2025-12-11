@@ -1,0 +1,42 @@
+{
+  "id": "osm-17737949",
+  "slug": "bishop-hill-and-glenvale-17737949",
+  "name": "Bishop Hill and Glenvale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2129677,
+    "lon": -3.3241876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737949
+  },
+  "ai": {
+    "summary": "Bishop Hill and Glenvale is a 12.3 km moderate hike in the United Kingdom. The route combines open farmland, woodland edges, gentle climbs and occasional road sections, delivering varied scenery and a steady pace suitable for walkers with some hill experience. Expect a mix of grassy paths, chalky trails and short ascents, with rewarding views from higher vantage points.",
+    "terrain_summary": "Terrain is mixed: grassy field margins, well-kept tracks, short sections of uneven stony ground, and occasional paved or gravel lanes. Elevation changes are gentle to moderate, with some gentle climbs up toward hills and ridge lines. Weather can affect surface conditions; be prepared for mud in wetter months.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, watch for livestock in fields, and close gates behind you. Carry a map and compass or a GPS device, and ensure your phone is charged. Let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Water bottle (2–3 liters for longer days)",
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with offline map and backup power bank",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) usually offer the best conditions for this hike, with longer daylight and drier trails. In winter, trails can be muddy or flooded and weather can be more challenging, so plan accordingly.",
+    "seo": {
+      "title": "Bishop Hill and Glenvale Hike – 12.3 km Moderate UK Trail",
+      "meta_description": "Explore the Bishop Hill and Glenvale route in the UK: a 12.3 km moderate hike featuring open farmland, woodlands, and gentle hills. Practical safety tips, gear checklist, and best seasons.",
+      "h1": "Bishop Hill and Glenvale: 12.3 km Moderate Hike in the UK"
+    }
+  }
+}

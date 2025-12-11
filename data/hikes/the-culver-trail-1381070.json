@@ -1,0 +1,21 @@
+{
+  "id": "osm-1381070",
+  "slug": "the-culver-trail-1381070",
+  "name": "The Culver Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6834205,
+    "lon": -1.0953323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1381070
+  }
+}

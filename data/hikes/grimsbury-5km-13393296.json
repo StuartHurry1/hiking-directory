@@ -1,0 +1,21 @@
+{
+  "id": "osm-13393296",
+  "slug": "grimsbury-5km-13393296",
+  "name": "Grimsbury 5km",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0631236,
+    "lon": -1.3287857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13393296
+  }
+}

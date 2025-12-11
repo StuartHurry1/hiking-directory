@@ -1,0 +1,21 @@
+{
+  "id": "osm-18496844",
+  "slug": "moons-moat-nature-trail-18496844",
+  "name": "Moon's Moat Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3114177,
+    "lon": -1.899593
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18496844
+  }
+}

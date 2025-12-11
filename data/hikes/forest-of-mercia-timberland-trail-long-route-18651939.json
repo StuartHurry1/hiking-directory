@@ -1,0 +1,21 @@
+{
+  "id": "osm-18651939",
+  "slug": "forest-of-mercia-timberland-trail-long-route-18651939",
+  "name": "Forest of Mercia Timberland Trail (Long Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6360396,
+    "lon": -1.959909
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18651939
+  }
+}

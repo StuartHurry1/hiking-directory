@@ -1,0 +1,49 @@
+{
+  "id": "osm-19709622",
+  "slug": "blakeney-to-stiffkey-coastal-walk-blakeney-19709622",
+  "name": "Blakeney to Stiffkey Coastal Walk, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9561689,
+    "lon": 1.0172207
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19709622
+  },
+  "ai": {
+    "summary": "A demanding 36.3 km coastal hike along the North Norfolk coast from Blakeney to Stiffkey in England. The route combines exposed sea shores, tidal flats, marshes, and beach sections, offering coastal scenery, birdlife, and a challenging day of walking for experienced hikers.",
+    "terrain_summary": "Primarily coastal footpaths, marshland boardwalks, salt marshes, and shingle or sandy beach sections. Expect mud and soft ground in tidal zones, exposed windswept stretches, occasional woodland trails, and long, uninterrupted segments with limited shade.",
+    "safety_notes": "This is a long, exposed coastal route. Check tide times and avoid tidal mudflats at high tide. Wear sturdy waterproof boots and layered clothing; bring waterproofs, sun protection, and plenty of water. Carry a map or GPS, a charged phone, and a basic first aid kit. Tell someone your planned route and expected finish time. Be prepared for variable weather, strong winds, and potential path closures along the coast.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Extra warm layers",
+      "Sun protection (hat, sunscreen)",
+      "Water and high-energy snacks",
+      "Map, compass or GPS device",
+      "Fully charged phone and power bank",
+      "Lightweight backpack with rain cover",
+      "Emergency whistle and first aid kit",
+      "Insect repellent and lip balm",
+      "Gaiters (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October), when daylight is longest and weather is generally milder for coastal walking.",
+    "seo": {
+      "title": "Blakeney to Stiffkey Coastal Walk – 36.3 km Hard Coastal Trek in Norfolk, UK",
+      "meta_description": "Take on the 36.3 km coastal hike from Blakeney to Stiffkey along the Norfolk coast. A challenging day on marshes, beaches and tidal flats, ideal for experienced hikers.",
+      "h1": "Blakeney to Stiffkey Coastal Walk"
+    }
+  }
+}

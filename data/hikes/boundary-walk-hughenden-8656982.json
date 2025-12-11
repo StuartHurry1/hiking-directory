@@ -1,0 +1,43 @@
+{
+  "id": "osm-8656982",
+  "slug": "boundary-walk-hughenden-8656982",
+  "name": "Boundary Walk, Hughenden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6542398,
+    "lon": -0.759643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8656982
+  },
+  "ai": {
+    "summary": "A scenic 14 km circular hike known as the Boundary Walk at Hughenden in the United Kingdom. This moderate route threads hedgerows, woodlands and open fields around the estate, with gentle gradients and varied scenery suitable for most fit walkers.",
+    "terrain_summary": "The route combines grassy lanes, well-trodden footpaths, and woodland tracks. Expect uneven footing, occasional mud after rain, and a few stiles or gates. Terrain is generally rolling with mild ascents and descents rather than steep climbs.",
+    "safety_notes": "Always check the forecast before you go. Wear sturdy boots and bring a waterproof layer and adequate water. Carry a map or GPS, a fully charged phone, and a small first-aid kit. Stay on marked paths, heed gates and livestock, and watch for road crossings. Inform someone of your plans and estimated return time. Dogs should be under control.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Weatherproof jacket and layers",
+      "Water bottle (1–2 L)",
+      "Snacks or energy bars",
+      "Map and/or GPS device",
+      "Mobile phone with offline map",
+      "Small first-aid kit",
+      "Hat, sunscreen and sunglasses (summer)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with milder weather and longer daylight. Winter walks are possible but can be muddy, windy, and less pleasant.",
+    "seo": {
+      "title": "Boundary Walk, Hughenden – 14 km Moderate Circular Hike in the UK",
+      "meta_description": "Explore the Boundary Walk at Hughenden, a 14 km moderate hike through hedgerows, woodlands and open fields in the UK. Practical tips, terrain overview, and gear.",
+      "h1": "Boundary Walk, Hughenden: A 14 km Moderate Hike"
+    }
+  }
+}

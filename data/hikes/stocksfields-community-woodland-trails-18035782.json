@@ -1,0 +1,21 @@
+{
+  "id": "osm-18035782",
+  "slug": "stocksfields-community-woodland-trails-18035782",
+  "name": "Stocksfields Community Woodland Trails",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.938937,
+    "lon": -1.9290918
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18035782
+  }
+}

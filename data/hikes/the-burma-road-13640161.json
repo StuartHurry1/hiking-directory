@@ -1,0 +1,21 @@
+{
+  "id": "osm-13640161",
+  "slug": "the-burma-road-13640161",
+  "name": "The Burma Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1759771,
+    "lon": -3.862077
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13640161
+  }
+}

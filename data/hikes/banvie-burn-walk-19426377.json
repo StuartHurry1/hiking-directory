@@ -1,0 +1,45 @@
+{
+  "id": "osm-19426377",
+  "slug": "banvie-burn-walk-19426377",
+  "name": "Banvie Burn Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7833646,
+    "lon": -3.8649151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426377
+  },
+  "ai": {
+    "summary": "Banvie Burn Walk is a 6 km moderate hike in the UK that follows the scenic Banvie Burn alongside wooded banks and open fields, offering steady trails and occasional gentle elevation.",
+    "terrain_summary": "Forest paths and riverbank trails with some muddy sections, gentle ascents, and uneven ground near the burn.",
+    "safety_notes": "Plan for UK weather; wear sturdy footwear; stay on marked paths; watch for slippery rocks near the water; tell someone your route and expected return time; carry water and a small first aid kit; allow extra time in wet conditions; be mindful of livestock and narrow sections along the route.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Water bottle or hydration system",
+      "Waterproof jacket and warm layers",
+      "Hat and gloves if cold",
+      "Map, compass or GPS device",
+      "Phone fully charged and portable power bank",
+      "Small first aid kit and blister care items",
+      "Snacks or energy bars",
+      "Lightweight rain cover for your backpack",
+      "Headlamp or flashlight if you might finish after dusk",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn are best for Banvie Burn Walk, but with proper clothing the route can be enjoyed year-round in the UK.",
+    "seo": {
+      "title": "Banvie Burn Walk – 6 km Moderate Hike in the UK",
+      "meta_description": "Explore Banvie Burn Walk, a 6 km moderate hike in the UK featuring riverbank trails, woodland sections, and practical safety tips.",
+      "h1": "Banvie Burn Walk – 6 km Moderate Hike in the UK"
+    }
+  }
+}

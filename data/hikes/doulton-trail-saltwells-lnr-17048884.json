@@ -1,0 +1,21 @@
+{
+  "id": "osm-17048884",
+  "slug": "doulton-trail-saltwells-lnr-17048884",
+  "name": "Doulton Trail (Saltwells LNR)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4801376,
+    "lon": -2.0981268
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17048884
+  }
+}

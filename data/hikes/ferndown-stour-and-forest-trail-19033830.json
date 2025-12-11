@@ -1,0 +1,21 @@
+{
+  "id": "osm-19033830",
+  "slug": "ferndown-stour-and-forest-trail-19033830",
+  "name": "Ferndown, Stour and Forest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7794275,
+    "lon": -1.9103155
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19033830
+  }
+}

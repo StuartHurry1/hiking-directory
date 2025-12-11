@@ -1,0 +1,21 @@
+{
+  "id": "osm-8593415",
+  "slug": "south-molton-community-trail-8593415",
+  "name": "South Molton Community Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0156876,
+    "lon": -3.8351929
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8593415
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9773710",
+  "slug": "walking-in-exmoor-day-two-9773710",
+  "name": "Walking in Exmoor: Day Two",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2088662,
+    "lon": -3.5656315
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773710
+  }
+}

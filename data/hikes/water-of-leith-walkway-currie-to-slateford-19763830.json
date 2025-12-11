@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763830",
+  "slug": "water-of-leith-walkway-currie-to-slateford-19763830",
+  "name": "Water of Leith Walkway (Currie to Slateford)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8970159,
+    "lon": -3.3014956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763830
+  }
+}

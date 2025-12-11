@@ -1,0 +1,21 @@
+{
+  "id": "osm-2389994",
+  "slug": "weaver-way-2389994",
+  "name": "Weaver Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 112.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9754142,
+    "lon": -2.5093984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2389994
+  }
+}

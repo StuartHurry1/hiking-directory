@@ -1,0 +1,21 @@
+{
+  "id": "osm-14500441",
+  "slug": "green-chain-walk-section-9a-link-14500441",
+  "name": "Green Chain Walk section 9A link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4143528,
+    "lon": -0.0079807
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14500441
+  }
+}

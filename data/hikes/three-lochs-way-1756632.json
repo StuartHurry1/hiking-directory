@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756632",
+  "slug": "three-lochs-way-1756632",
+  "name": "Three Lochs Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 159.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0032945,
+    "lon": -4.5828082
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756632
+  }
+}

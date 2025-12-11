@@ -1,0 +1,21 @@
+{
+  "id": "osm-13190592",
+  "slug": "killeter-to-gortin-13190592",
+  "name": "KILLETER TO GORTIN",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.667652,
+    "lon": -7.6839687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13190592
+  }
+}

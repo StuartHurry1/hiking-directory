@@ -1,0 +1,21 @@
+{
+  "id": "osm-16123531",
+  "slug": "eildon-hills-trail-16123531",
+  "name": "Eildon Hills Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5956289,
+    "lon": -2.7201534
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16123531
+  }
+}

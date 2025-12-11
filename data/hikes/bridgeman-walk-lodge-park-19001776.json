@@ -1,0 +1,44 @@
+{
+  "id": "osm-19001776",
+  "slug": "bridgeman-walk-lodge-park-19001776",
+  "name": "Bridgeman Walk, Lodge Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.809164,
+    "lon": -1.7895282
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001776
+  },
+  "ai": {
+    "summary": "Bridgeman Walk, Lodge Park is a short, easy ridge walk in the UK, covering about 1.8 km. The route follows a gentle ridgeline with scenic views, making it ideal for beginners, families, or anyone seeking a quick outdoor stroll near Lodge Park.",
+    "terrain_summary": "Grassy path along a low ridge with occasional rocky or uneven sections. Expect exposed viewpoints in places and a light ascent; footing is generally stable but can be uneven underfoot.",
+    "safety_notes": "Always check the local forecast; ridge routes can be windy and exposed. Wear sturdy, waterproof footwear with good grip; dress in layers and carry a waterproof layer in case of rain; stay on the official path and avoid close to edges on windy days; keep children and pets close; bring a map or fully charged device for navigation; tell someone your plan and expected return time; if visibility drops or you feel uncertain, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate layers (base layer, fleece, waterproof jacket)",
+      "Light waterproof layer and hat/gloves if conditions require",
+      "Backpack with water and snacks",
+      "Map, compass or GPS device",
+      "Whistle for emergencies",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Phone with offline maps and emergency contact information"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn. Year-round access is possible with caution; winter trips require extra gear and experience.",
+    "seo": {
+      "title": "Bridgeman Walk, Lodge Park – Easy 1.8 km Ridge Walk in the UK",
+      "meta_description": "Explore Bridgeman Walk at Lodge Park: an easy 1.8 km ridge hike in the UK. Ideal for beginners and families seeking scenic views and a quick outdoors experience.",
+      "h1": "Bridgeman Walk, Lodge Park: An Easy Ridge Walk"
+    }
+  }
+}

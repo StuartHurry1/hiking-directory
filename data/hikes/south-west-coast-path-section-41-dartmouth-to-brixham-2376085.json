@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376085",
+  "slug": "south-west-coast-path-section-41-dartmouth-to-brixham-2376085",
+  "name": "South West Coast Path (Section 41: Dartmouth to Brixham)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3483754,
+    "lon": -3.5731719
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376085
+  }
+}

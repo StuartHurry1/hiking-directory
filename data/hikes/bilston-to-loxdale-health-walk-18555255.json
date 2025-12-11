@@ -1,0 +1,43 @@
+{
+  "id": "osm-18555255",
+  "slug": "bilston-to-loxdale-health-walk-18555255",
+  "name": "Bilston to Loxdale Health Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5651102,
+    "lon": -2.074579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18555255
+  },
+  "ai": {
+    "summary": "A short, easy 3.3 km health walk in the UK, from Bilston to Loxdale. Suitable for beginners and those seeking a gentle outdoor stroll with light exercise; the route typically follows pavements and well-maintained footpaths.",
+    "terrain_summary": "Mostly flat with gentle inclines; combines paved sidewalks and well-maintained footpaths with occasional grassy or compact dirt sections. Suitable for most walkers; check surface conditions if mobility is a concern.",
+    "safety_notes": "Check weather and daylight; wear sturdy, comfortable footwear; bring water; stay on public paths and follow signs; carry a map or charged phone; pace yourself and stop if you feel unwell; be mindful of other pedestrians and cyclists.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Weather-appropriate clothing (layers; waterproof jacket if rain is possible)",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Light snack",
+      "Small backpack",
+      "Map or charged smartphone with offline map",
+      "Power bank or portable charger",
+      "Basic first aid items"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and early autumn.",
+    "seo": {
+      "title": "Bilston to Loxdale Health Walk – 3.3 km Easy Walk in the UK",
+      "meta_description": "Discover a short, easy 3.3 km health walk from Bilston to Loxdale in the UK. Ideal for beginners with flat paths, practical tips, gear suggestions, and safety reminders.",
+      "h1": "Bilston to Loxdale Health Walk – 3.3 km Easy Walk"
+    }
+  }
+}

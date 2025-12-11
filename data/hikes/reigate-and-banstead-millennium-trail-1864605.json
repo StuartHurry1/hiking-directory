@@ -1,0 +1,21 @@
+{
+  "id": "osm-1864605",
+  "slug": "reigate-and-banstead-millennium-trail-1864605",
+  "name": "Reigate and Banstead Millennium Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 54.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3388448,
+    "lon": -0.1973357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1864605
+  }
+}

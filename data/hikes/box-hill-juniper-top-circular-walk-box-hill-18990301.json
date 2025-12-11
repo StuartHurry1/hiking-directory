@@ -1,0 +1,44 @@
+{
+  "id": "osm-18990301",
+  "slug": "box-hill-juniper-top-circular-walk-box-hill-18990301",
+  "name": "Box Hill Juniper Top circular walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.259114,
+    "lon": -0.305629
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990301
+  },
+  "ai": {
+    "summary": "A 12.3 km circular hike around Box Hill's Juniper Top featuring chalk downland scenery, rolling climbs, and panoramic views. Rated moderate, it suits hikers with some experience and steady pace, typically doable in half a day.",
+    "terrain_summary": "The route traverses chalk grassland and mixed paths with uneven surfaces, short rocky sections, and moderate ascents. Expect rutted tracks and potential mud after rain, with exposed viewpoints on open ledges and occasional steps or stiles.",
+    "safety_notes": "Check weather and daylight before starting; wear sturdy footwear and layered clothing. Stay on marked paths, especially near exposed edges on Box Hill; watch for loose stones and mud. Keep children and dogs under control. Carry sufficient water and snacks, a map or offline navigation, and inform someone of your plans. Be mindful of livestock on common routes and avoid steep or windy sections if conditions are hazardous.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing and layers",
+      "Water bottle or hydration system",
+      "Snacks or a light meal",
+      "Map, guidebook, or offline navigation app",
+      "Sunscreen and sunglasses",
+      "Light rain jacket or shell",
+      "Small first aid kit",
+      "Trekking poles (optional)",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring through autumn; peak conditions in late spring and early autumn when visibility is clear and the juniper top and chalk downs are particularly attractive.",
+    "seo": {
+      "title": "Box Hill Juniper Top Circular Walk – 12.3 km Moderate Hike in Box Hill, UK",
+      "meta_description": "Explore the 12.3 km Box Hill Juniper Top circular walk. A moderate hike through chalk downland with panoramic views, near Box Hill, Surrey (UK).",
+      "h1": "Box Hill Juniper Top Circular Walk: 12.3 km, Moderate Difficulty"
+    }
+  }
+}

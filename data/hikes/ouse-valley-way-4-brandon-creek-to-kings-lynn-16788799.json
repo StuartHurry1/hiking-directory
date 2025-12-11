@@ -1,0 +1,21 @@
+{
+  "id": "osm-16788799",
+  "slug": "ouse-valley-way-4-brandon-creek-to-kings-lynn-16788799",
+  "name": "Ouse Valley Way 4 (Brandon Creek to King’s Lynn)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 52.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5001414,
+    "lon": 0.3668243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16788799
+  }
+}

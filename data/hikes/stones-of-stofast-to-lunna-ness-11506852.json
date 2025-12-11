@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506852",
+  "slug": "stones-of-stofast-to-lunna-ness-11506852",
+  "name": "Stones of Stofast to Lunna Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4324923,
+    "lon": -1.0875092
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506852
+  }
+}

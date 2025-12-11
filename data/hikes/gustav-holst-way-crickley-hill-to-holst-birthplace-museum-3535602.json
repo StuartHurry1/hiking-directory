@@ -1,0 +1,21 @@
+{
+  "id": "osm-3535602",
+  "slug": "gustav-holst-way-crickley-hill-to-holst-birthplace-museum-3535602",
+  "name": "Gustav Holst Way (Crickley Hill to Holst Birthplace Museum)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8503908,
+    "lon": -2.09782
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3535602
+  }
+}

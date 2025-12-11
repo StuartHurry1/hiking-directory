@@ -1,0 +1,21 @@
+{
+  "id": "osm-19745897",
+  "slug": "dunstable-downs-five-knolls-wildlife-and-heritage-all-access-route-dunstable-downs-and-whipsnade-estate-19745897",
+  "name": "Dunstable Downs Five Knolls Wildlife and Heritage All Access Route, Dunstable Downs and Whipsnade Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8645082,
+    "lon": -0.5370285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19745897
+  }
+}

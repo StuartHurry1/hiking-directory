@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376336",
+  "slug": "south-west-coast-path-section-45-sidmouth-to-seaton-2376336",
+  "name": "South West Coast Path (Section 45: Sidmouth to Seaton)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6813425,
+    "lon": -3.2311403
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376336
+  }
+}

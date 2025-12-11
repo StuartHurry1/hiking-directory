@@ -1,0 +1,47 @@
+{
+  "id": "osm-19352908",
+  "slug": "a-coastal-walk-at-st-helens-duver-isle-of-wight-19352908",
+  "name": "A Coastal Walk at St Helens Duver, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6988025,
+    "lon": -1.0987122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19352908
+  },
+  "ai": {
+    "summary": "A coastal 14.9 km walk around St Helens Duver on the Isle of Wight. The route mixes cliff and ridge viewpoints with sand dunes and beach sections, offering varied coastal scenery at a moderate pace.",
+    "terrain_summary": "Mixed terrain including coastal paths, sandy dunes, wooden boardwalks, and exposed ridges. Footing can be uneven and windy near the sea; some sections are rocky or soft underfoot.",
+    "safety_notes": "Check tide times if your route follows the shoreline. Stay clear of cliff edges and avoid scrambling on unstable ridges after rain. Wear sturdy footwear and bring a windproof, weather-appropriate layer. Carry water, snacks, sun protection in summer, and a basic first-aid kit. Let someone know your plans and carry a charged phone.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Windproof and waterproof jacket and a warm layer",
+      "Wide-brimmed hat or cap and sunglasses",
+      "Water bottle and high-energy snacks",
+      "Backpack to carry gear",
+      "Map, GPS, or charged phone with offline maps",
+      "Sun protection (sunscreen)",
+      "Lightweight first-aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offer the best weather for coastal walking, with longer days and milder conditions. Winter can be windy and damp.",
+    "seo": {
+      "title": "A Coastal Walk at St Helens Duver, Isle of Wight – 14.9 km Moderate Coastal Ridge Walk",
+      "meta_description": "Explore a 14.9 km coastal ridge walk at St Helens Duver, Isle of Wight. Moderate difficulty with stunning sea views, dunes, and coastal cliffs—plan your trip now.",
+      "h1": "A Coastal Walk at St Helens Duver, Isle of Wight"
+    }
+  }
+}

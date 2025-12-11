@@ -1,0 +1,21 @@
+{
+  "id": "osm-4241652",
+  "slug": "mosses-trail-yellow-4241652",
+  "name": "Mosses Trail Yellow",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9206002,
+    "lon": -2.7530878
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4241652
+  }
+}

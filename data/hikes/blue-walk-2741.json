@@ -1,0 +1,41 @@
+{
+  "id": "osm-2741",
+  "slug": "blue-walk-2741",
+  "name": "Blue Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5523461,
+    "lon": 0.5942904
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2741
+  },
+  "ai": {
+    "summary": "Blue Walk is a short, easy 3.3 km hike in the UK suitable for beginners and families. The route follows gentle, well-kept paths and offers a relaxed outdoor experience with mild gradients.",
+    "terrain_summary": "Mostly flat or gently rolling terrain along well-marked paths. Expect well-maintained gravel and grass sections with occasional soft ground; minimal elevation gain.",
+    "safety_notes": "Check the weather forecast before you go and wear sturdy footwear. Stay on marked paths. Bring water and a small snack. Dress in layers and be prepared for rain. In local or remote areas, tell someone your plan and expected return. Carry a charged phone and a basic map or offline navigation. In winter, daylight is shorter and conditions can be icy; adjust plans accordingly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Light snack",
+      "Weather-appropriate clothing (layered), including a waterproof jacket",
+      "Sun protection (hat, sunscreen) on sunny days",
+      "Small backpack to carry essentials",
+      "Map, compass, or offline GPS; fully charged phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best conditions for this hike; winter hiking is possible with warm clothing and shorter daylight hours.",
+    "seo": {
+      "title": "Blue Walk - Easy 3.3 km UK Hike for Beginners",
+      "meta_description": "Explore Blue Walk, an easy 3.3 km hike in the United Kingdom. Gentle terrain, safety tips, gear ideas, and the best seasons for this short walk.",
+      "h1": "Blue Walk: Easy 3.3 km UK Hike"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-19192919",
+  "slug": "a-walk-to-the-cage-lyme-19192919",
+  "name": "A walk to The Cage, Lyme",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3388468,
+    "lon": -2.0548182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19192919
+  },
+  "ai": {
+    "summary": "A gentle 5.1 km round-trip walk from Lyme Regis to The Cage, offering coastal views along the Jurassic Coast. Easy terrain with occasional steps and gentle undulations, suitable for families and beginners.",
+    "terrain_summary": "Mostly promenade and coastal path with flat sections, short flights of steps near The Cage, and some uneven gravel and grassy parts. Expect wind exposure and slippery surfaces when wet.",
+    "safety_notes": "Check tide and weather conditions before starting. Stay away from cliff edges and ensure children stay clear of the sea wall. Be cautious on wet or uneven ground; dress for wind and potential spray. Carry water, a fully charged phone, and a basic first-aid kit; inform someone of your route.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes",
+      "Windproof jacket",
+      "Hat and sunscreen",
+      "Map or smartphone with offline map",
+      "Light snack",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions from March to October; plan for cooler, windy days out of peak summer.",
+    "seo": {
+      "title": "A Walk to The Cage, Lyme – Easy Coastal Stroll in Lyme Regis, UK",
+      "meta_description": "Discover a gentle 5.1 km walk to The Cage in Lyme Regis. An easy coastal route with sea views, steps, and family-friendly terrain along the Jurassic Coast.",
+      "h1": "A Walk to The Cage, Lyme"
+    }
+  }
+}

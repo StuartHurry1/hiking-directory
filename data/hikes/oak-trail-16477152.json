@@ -1,0 +1,21 @@
+{
+  "id": "osm-16477152",
+  "slug": "oak-trail-16477152",
+  "name": "Oak Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4118851,
+    "lon": -5.7741662
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16477152
+  }
+}

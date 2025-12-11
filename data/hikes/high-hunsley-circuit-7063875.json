@@ -1,0 +1,21 @@
+{
+  "id": "osm-7063875",
+  "slug": "high-hunsley-circuit-7063875",
+  "name": "High Hunsley Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 76.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7615151,
+    "lon": -0.5264377
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7063875
+  }
+}

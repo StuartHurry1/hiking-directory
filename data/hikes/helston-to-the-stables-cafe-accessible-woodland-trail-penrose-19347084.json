@@ -1,0 +1,21 @@
+{
+  "id": "osm-19347084",
+  "slug": "helston-to-the-stables-cafe-accessible-woodland-trail-penrose-19347084",
+  "name": "Helston to the Stables Café accessible woodland trail, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0962593,
+    "lon": -5.2821067
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347084
+  }
+}

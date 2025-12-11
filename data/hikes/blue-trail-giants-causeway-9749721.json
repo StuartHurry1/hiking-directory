@@ -1,0 +1,44 @@
+{
+  "id": "osm-9749721",
+  "slug": "blue-trail-giants-causeway-9749721",
+  "name": "Blue Trail, Giant's Causeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2337158,
+    "lon": -6.5161077
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9749721
+  },
+  "ai": {
+    "summary": "A gentle 3.6 km out-and-back hike along the Blue Trail at Giant's Causeway, featuring easy terrain, coastal scenery, and seasonal waterfalls. Suitable for families and casual hikers seeking a short, scenic day on the UK coast.",
+    "terrain_summary": "The route follows a well-maintained mix of gravel paths and occasional wooden boardwalks along the coast. Expect some gentle steps and small rocky patches near overlooks. Surfaces can be slippery when wet, and exposure to wind and spray is common, so warm clothing and sturdy footwear are advised.",
+    "safety_notes": "Check the weather and tide forecasts before you go. Stay on marked paths, keep a safe distance from cliff edges, and be cautious on wet rocks. The area can be windy and visibility can change quickly. Bring enough water, wear waterproof clothing, and keep children under supervision at all times. Mobile service may be limited in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and layers",
+      "Water bottle",
+      "Hat, sunglasses, and sunscreen",
+      "Camera or smartphone for photos",
+      "Light first-aid kit",
+      "Map or offline navigation (or a charged phone with offline maps)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offer mild temperatures and more visible waterfalls; winter can be cold, wet, and darker, with higher risk of slips.",
+    "seo": {
+      "title": "Blue Trail, Giant's Causeway – Easy 3.6 km Waterfall Hike in the UK",
+      "meta_description": "Explore the Blue Trail at Giant's Causeway in the UK. This easy 3.6 km hike features coastal scenery, nearby waterfalls, and practical safety tips plus gear recommendations for a comfortable day out.",
+      "h1": "Blue Trail, Giant's Causeway: Easy 3.6 km Waterfall Hike"
+    }
+  }
+}

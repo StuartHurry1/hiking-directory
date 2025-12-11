@@ -1,0 +1,23 @@
+{
+  "id": "osm-15088585",
+  "slug": "jenny-wind-walk-wenlock-edge-15088585",
+  "name": "Jenny Wind Walk, Wenlock Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5934442,
+    "lon": -2.5735765
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15088585
+  }
+}

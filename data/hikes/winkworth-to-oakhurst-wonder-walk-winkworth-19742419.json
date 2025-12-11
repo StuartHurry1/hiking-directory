@@ -1,0 +1,21 @@
+{
+  "id": "osm-19742419",
+  "slug": "winkworth-to-oakhurst-wonder-walk-winkworth-19742419",
+  "name": "Winkworth to Oakhurst Wonder Walk, Winkworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1526593,
+    "lon": -0.6014184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19742419
+  }
+}

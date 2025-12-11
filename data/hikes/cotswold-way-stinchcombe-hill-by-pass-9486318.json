@@ -1,0 +1,21 @@
+{
+  "id": "osm-9486318",
+  "slug": "cotswold-way-stinchcombe-hill-by-pass-9486318",
+  "name": "Cotswold Way (Stinchcombe Hill by pass)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.679892,
+    "lon": -2.367593
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9486318
+  }
+}

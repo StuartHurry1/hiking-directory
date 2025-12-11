@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507214",
+  "slug": "north-roe-cycle-track-11507214",
+  "name": "North Roe Cycle Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5807407,
+    "lon": -1.3335679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507214
+  }
+}

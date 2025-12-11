@@ -1,0 +1,21 @@
+{
+  "id": "osm-19917567",
+  "slug": "the-short-wind-in-the-willows-walk-maidenhead-19917567",
+  "name": "The Short Wind in the Willows Walk, Maidenhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.551502,
+    "lon": -0.7589315
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19917567
+  }
+}

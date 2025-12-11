@@ -1,0 +1,42 @@
+{
+  "id": "osm-19335107",
+  "slug": "borthwood-copse-red-squirrel-walk-isle-of-wight-19335107",
+  "name": "Borthwood Copse Red Squirrel Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6560276,
+    "lon": -1.200014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19335107
+  },
+  "ai": {
+    "summary": "An easy 3.8 km woodland loop through Borthwood Copse on the Isle of Wight, ideal for families and wildlife watchers. The route offers shaded paths, gentle gradients, and opportunities to spot red squirrels.",
+    "terrain_summary": "Forest tracks with well-maintained paths, some root exposure and occasional damp patches. Mostly flat with gentle slopes.",
+    "safety_notes": "Stay on marked paths. Watch for roots and slippery surfaces, especially after rain. Red squirrels are protected; keep a respectful distance and do not feed them. Keep dogs on a leash where required and under control. Check the weather forecast and avoid walking in severe conditions; plan around daylight hours.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Water and a small snack",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Map or fully charged phone with offline maps",
+      "Small first aid kit",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October) are best; year-round visits are possible with appropriate wet-weather gear.",
+    "seo": {
+      "title": "Borthwood Copse Red Squirrel Walk – Easy 3.8 km Isle of Wight Woodland Trail",
+      "meta_description": "Discover an easy 3.8 km woodland loop at Borthwood Copse on the Isle of Wight. Family-friendly paths, shaded trails, and red squirrel spotting opportunities.",
+      "h1": "Borthwood Copse Red Squirrel Walk"
+    }
+  }
+}

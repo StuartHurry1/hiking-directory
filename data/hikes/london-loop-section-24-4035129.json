@@ -1,0 +1,21 @@
+{
+  "id": "osm-4035129",
+  "slug": "london-loop-section-24-4035129",
+  "name": "London LOOP (Section 24)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5163164,
+    "lon": 0.1908481
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4035129
+  }
+}

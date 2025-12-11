@@ -1,0 +1,49 @@
+{
+  "id": "osm-16156003",
+  "slug": "beinn-dearg-trail-16156003",
+  "name": "Beinn Dearg Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.8198421,
+    "lon": -5.0620004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16156003
+  },
+  "ai": {
+    "summary": "Beinn Dearg Trail is a demanding long-distance mountain hike in the UK, stretching about 23.8 km. Expect rugged terrain, sustained ascent, and exposed sections. Good fitness, navigation skills, and weather preparedness are essential for a safe day on the trail.",
+    "terrain_summary": "Rugged alpine-style terrain with rocky paths, peat bogs, and exposed ridges. Expect uneven footing, occasional scrambling, and steep ascents. Weather can bring wind, rain, and glare, so solid footwear and reliable waterproofing are crucial.",
+    "safety_notes": "This is a hard, remote hike where weather can change rapidly. Before you go: check the forecast and daylight hours, carry a map and compass (GPS as a backup), and tell someone your planned route and return time. Carry enough food and water, stay hydrated, and turn back if conditions deteriorate. Watch for fatigue, hypothermia, and dehydration. Mobile coverage is often limited; consider a satellite messenger or PLB. Use caution on exposed sections and loose rock; boggy ground and long descents can be strenuous.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Layered clothing system (base layer, insulating layer, outer shell)",
+      "Backpack with rain cover",
+      "Map and compass (and GPS as backup)",
+      "Headlamp with extra batteries",
+      "Sufficient water (2–3 liters) and high-energy snacks",
+      "Emergency bivy or space blanket",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insulated gloves and warm hat",
+      "Trekking poles",
+      "Spare dry clothing and socks",
+      "Personal locator beacon or satellite messenger (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best conditions and daylight for Beinn Dearg Trail. Summer tends to be busier; spring and autumn can be quieter but weather is more variable.",
+    "seo": {
+      "title": "Beinn Dearg Trail Guide | 23.8 km Hard Hike in the UK",
+      "meta_description": "Plan for Beinn Dearg Trail, a challenging 23.8 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for a safe, enjoyable ascent.",
+      "h1": "Beinn Dearg Trail: A 23.8 km Hard UK Mountain Hike"
+    }
+  }
+}

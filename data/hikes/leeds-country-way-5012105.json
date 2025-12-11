@@ -1,0 +1,21 @@
+{
+  "id": "osm-5012105",
+  "slug": "leeds-country-way-5012105",
+  "name": "Leeds Country Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 221.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7485214,
+    "lon": -1.6305174
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5012105
+  }
+}

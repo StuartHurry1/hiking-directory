@@ -1,0 +1,21 @@
+{
+  "id": "osm-12829892",
+  "slug": "to-mcewan-cairn-12829892",
+  "name": "To Mcewan Cairn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9633296,
+    "lon": -5.3403559
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12829892
+  }
+}

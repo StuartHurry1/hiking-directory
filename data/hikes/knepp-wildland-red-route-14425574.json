@@ -1,0 +1,21 @@
+{
+  "id": "osm-14425574",
+  "slug": "knepp-wildland-red-route-14425574",
+  "name": "Knepp Wildland Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.970858,
+    "lon": -0.3764955
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14425574
+  }
+}

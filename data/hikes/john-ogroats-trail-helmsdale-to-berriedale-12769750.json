@@ -1,0 +1,21 @@
+{
+  "id": "osm-12769750",
+  "slug": "john-ogroats-trail-helmsdale-to-berriedale-12769750",
+  "name": "John O'Groats Trail (Helmsdale to Berriedale)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.1160405,
+    "lon": -3.6507622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12769750
+  }
+}

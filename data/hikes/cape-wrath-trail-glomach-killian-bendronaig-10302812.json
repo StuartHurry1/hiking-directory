@@ -1,0 +1,21 @@
+{
+  "id": "osm-10302812",
+  "slug": "cape-wrath-trail-glomach-killian-bendronaig-10302812",
+  "name": "Cape Wrath Trail (Glomach-Killian-Bendronaig)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2908265,
+    "lon": -5.3054221
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10302812
+  }
+}

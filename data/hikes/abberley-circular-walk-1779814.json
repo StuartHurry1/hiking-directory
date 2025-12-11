@@ -1,0 +1,43 @@
+{
+  "id": "osm-1779814",
+  "slug": "abberley-circular-walk-1779814",
+  "name": "Abberley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3001356,
+    "lon": -2.3535215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1779814
+  },
+  "ai": {
+    "summary": "A challenging 16.5 km circular hike from Abberley that covers varied countryside including grassy lanes, hedged fields and woodland paths. The route includes several ascents and descents, uneven surfaces and potential mud, making it best suited to experienced hikers with good navigation.",
+    "terrain_summary": "Expect a mix of surfaces: well-defined tracks, grassy field edges, woodland paths, and occasional road sections. Surfaces can be muddy after rain; gates and stiles require steps and balance. The route features both gentle and more sustained climbs, with occasional open country exposures and distant views. Navigation is straightforward on well-marked paths but some sections may be faint in poor visibility.",
+    "safety_notes": "Plan for changing UK weather and daylight hours. Wear sturdy, waterproof hiking boots and warm layers. Bring a map or GPS, compass, and a fully charged phone. Carry enough water and snacks, plus a small first-aid kit and emergency whistle. Respect livestock and farmland gates, and take care on road crossings. Inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Map and/or GPS device plus a compass",
+      "Water bottle and high-energy snacks",
+      "Small first aid kit and emergency whistle",
+      "Hat, gloves (seasonal), and sun protection",
+      "Headtorch or flashlight (in case of delays)",
+      "Lightweight backpack with rain cover",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (Mar–Oct) for the best daylight and ground conditions; winter hikes are possible but more challenging due to mud and reduced daylight.",
+    "seo": {
+      "title": "Abberley Circular Walk – 16.5 km Hard Hike in the UK",
+      "meta_description": "Plan your challenge with the Abberley Circular Walk. A 16.5 km hard-rated circuit through UK countryside, featuring varied terrain, potential mud, and long ascents. Safety tips, gear and best seasons included.",
+      "h1": "Abberley Circular Walk – 16.5 km Hard Hike (UK)"
+    }
+  }
+}

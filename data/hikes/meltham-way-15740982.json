@@ -1,0 +1,21 @@
+{
+  "id": "osm-15740982",
+  "slug": "meltham-way-15740982",
+  "name": "Meltham Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5915604,
+    "lon": -1.8222937
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15740982
+  }
+}

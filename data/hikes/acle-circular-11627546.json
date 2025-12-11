@@ -1,0 +1,43 @@
+{
+  "id": "osm-11627546",
+  "slug": "acle-circular-11627546",
+  "name": "Acle Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6413702,
+    "lon": 1.5483122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11627546
+  },
+  "ai": {
+    "summary": "An 11.7 km circular hike in the UK named Acle Circular. The route is rated moderate and runs through rural countryside with a mix of footpaths, farm tracks and occasional road sections. It's suitable for confident walkers with good footwear and a sense of adventure.",
+    "terrain_summary": "The terrain combines rural footpaths, grassy tracks, potential marshy or boggy stretches near wetland areas, occasional boardwalks, and a few gentle road crossings. Expect uneven surfaces, mud after rain, stiles and gates, and variable footing.",
+    "safety_notes": "Plan for variable weather and tides if near water. Wear sturdy footwear and bring waterproofs; carry a map or offline navigation. Stay informed about local access, watch for traffic on country lanes, and be mindful of cattle or livestock in fields. Let someone know your route and expected return time. Carry a small first-aid kit and water.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Waterproof jacket and an extra warm layer",
+      "Water bottle and snacks",
+      "Map or offline navigation app",
+      "Mobile phone with emergency contacts",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Lightweight backpack",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the best conditions, with long daylight in summer. Be prepared for mud and occasional flooded sections in wetter seasons.",
+    "seo": {
+      "title": "Acle Circular Walk – 11.7 km Moderate Hike in the UK",
+      "meta_description": "Discover the Acle Circular, an 11.7 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to walk this UK countryside loop.",
+      "h1": "Acle Circular Walk"
+    }
+  }
+}

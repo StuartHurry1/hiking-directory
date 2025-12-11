@@ -1,0 +1,21 @@
+{
+  "id": "osm-8411564",
+  "slug": "the-wychert-way-8411564",
+  "name": "The Wychert Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7680937,
+    "lon": -0.9512524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8411564
+  }
+}

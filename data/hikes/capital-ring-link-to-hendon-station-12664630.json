@@ -1,0 +1,21 @@
+{
+  "id": "osm-12664630",
+  "slug": "capital-ring-link-to-hendon-station-12664630",
+  "name": "Capital Ring link to Hendon station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5799751,
+    "lon": -0.2385416
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12664630
+  }
+}

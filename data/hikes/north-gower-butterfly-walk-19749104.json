@@ -1,0 +1,21 @@
+{
+  "id": "osm-19749104",
+  "slug": "north-gower-butterfly-walk-19749104",
+  "name": "North Gower Butterfly Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.610896,
+    "lon": -4.140224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19749104
+  }
+}

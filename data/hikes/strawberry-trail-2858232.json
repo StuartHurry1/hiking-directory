@@ -1,0 +1,21 @@
+{
+  "id": "osm-2858232",
+  "slug": "strawberry-trail-2858232",
+  "name": "Strawberry Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9143405,
+    "lon": -1.2698694
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858232
+  }
+}

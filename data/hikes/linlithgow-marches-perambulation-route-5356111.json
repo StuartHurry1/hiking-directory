@@ -1,0 +1,21 @@
+{
+  "id": "osm-5356111",
+  "slug": "linlithgow-marches-perambulation-route-5356111",
+  "name": "Linlithgow Marches Perambulation route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9757594,
+    "lon": -3.6137483
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5356111
+  }
+}

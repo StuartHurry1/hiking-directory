@@ -1,0 +1,21 @@
+{
+  "id": "osm-410688",
+  "slug": "nature-trail-hindhead-410688",
+  "name": "Nature Trail, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1574157,
+    "lon": -0.6683615
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 410688
+  }
+}

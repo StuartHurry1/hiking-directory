@@ -1,0 +1,21 @@
+{
+  "id": "osm-10383473",
+  "slug": "crowan-br-56-ground-turth-10383473",
+  "name": "Crowan BR 56 Ground Turth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1833172,
+    "lon": -5.3128956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10383473
+  }
+}

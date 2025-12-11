@@ -1,0 +1,23 @@
+{
+  "id": "osm-1850847",
+  "slug": "wales-coast-path-north-wales-coast-1850847",
+  "name": "Wales Coast Path (North Wales Coast)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 315.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.139155,
+    "lon": -4.2783107
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1850847
+  }
+}

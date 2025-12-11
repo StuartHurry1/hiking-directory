@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853708",
+  "slug": "westmuir-loop-7853708",
+  "name": "Westmuir Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6692694,
+    "lon": -3.0112514
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853708
+  }
+}

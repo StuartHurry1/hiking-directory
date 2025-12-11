@@ -1,0 +1,21 @@
+{
+  "id": "osm-2995704",
+  "slug": "peddars-way-railway-link-2995704",
+  "name": "Peddars Way Railway Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4348001,
+    "lon": 0.8769837
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2995704
+  }
+}

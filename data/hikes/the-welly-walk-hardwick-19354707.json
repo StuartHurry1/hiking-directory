@@ -1,0 +1,21 @@
+{
+  "id": "osm-19354707",
+  "slug": "the-welly-walk-hardwick-19354707",
+  "name": "The Welly Walk, Hardwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1713275,
+    "lon": -1.3237111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19354707
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19410383",
+  "slug": "pulpit-hill-fort-and-nature-reserves-circular-walk-central-chilterns-19410383",
+  "name": "Pulpit Hill Fort and Nature Reserves Circular Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7338558,
+    "lon": -0.7958008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19410383
+  }
+}

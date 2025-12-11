@@ -1,0 +1,47 @@
+{
+  "id": "osm-11743021",
+  "slug": "a-pennine-journey-11743021",
+  "name": "A Pennine Journey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1462329,
+    "lon": -2.380743
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11743021
+  },
+  "ai": {
+    "summary": "A Pennine Journey is a demanding 23.3 km hike in the United Kingdom, classified as hard. The route traverses typical Pennine uplands with exposed moorland, rocky sections, and long, testing ascents. While the exact region is not specified, walkers should expect variable weather, boggy ground, and substantial elevation changes as they travel through open landscapes and remote stretches.",
+    "terrain_summary": "Terrain includes open moorland, peat bogs, rocky paths, steep ascents and descents, intermittent stream crossings, and long stretches of uneven ground. Expect mud and wet grass after rain, with quick-changing weather and strong winds common on exposed ridges.",
+    "safety_notes": "Safety on a hard Pennine crossing depends on weather, navigation, and fitness. Carry a detailed map and compass as primary navigation tools; a GPS can help but should not be relied on. Check forecasts and daylight hours; in adverse conditions get off the exposed terrain early. Wear sturdy waterproof footwear and layers; bring a reliable waterproof shell, hat, gloves, and extra insulation. Carry sufficient food and water, a means to purify water if needed, a first aid kit, a space blanket or emergency bivy, a whistle, and a lightweight shelter. Inform someone of your planned route and start/end times. Be prepared for bogs, stream crossings, and potential late finishes; turn back if visibility drops or risk increases.",
+    "recommended_gear": [
+      "Map and compass as primary navigation tools",
+      "GPS device or smartphone with offline maps and full battery",
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable shell jacket and pants",
+      "Insulating layers (fleece or puffy)",
+      "Hat and gloves",
+      "Headlamp with spare batteries",
+      "Food and high energy snacks; 1.5 to 2 liters of water or more; water purification method",
+      "Emergency shelter or bivy sack and space blanket",
+      "First aid kit",
+      "Whistle",
+      "Trekking poles optional but helpful",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the best conditions, but weather in the Pennines can still be harsh and change rapidly; shoulder seasons can also be good with fewer crowds.",
+    "seo": {
+      "title": "A Pennine Journey – 23.3 km Hard Hike in the UK",
+      "meta_description": "Tackle A Pennine Journey, a 23.3 km hard hike in the UK. Learn about terrain, safety, and gear to plan a successful trek across the Pennines.",
+      "h1": "A Pennine Journey: 23.3 km Hard Hike in the UK"
+    }
+  }
+}

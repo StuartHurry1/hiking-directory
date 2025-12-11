@@ -1,0 +1,21 @@
+{
+  "id": "osm-1953181",
+  "slug": "sowe-valley-footpath-1953181",
+  "name": "Sowe Valley Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4478043,
+    "lon": -1.4568162
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1953181
+  }
+}

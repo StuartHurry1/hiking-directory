@@ -1,0 +1,21 @@
+{
+  "id": "osm-9392248",
+  "slug": "mineral-valleys-walk-rookhope-9392248",
+  "name": "Mineral Valleys Walk: Rookhope",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7799274,
+    "lon": -2.0997733
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9392248
+  }
+}

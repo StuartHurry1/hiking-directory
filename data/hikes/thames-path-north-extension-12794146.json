@@ -1,0 +1,21 @@
+{
+  "id": "osm-12794146",
+  "slug": "thames-path-north-extension-12794146",
+  "name": "Thames Path North Extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4865152,
+    "lon": -0.0090472
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12794146
+  }
+}

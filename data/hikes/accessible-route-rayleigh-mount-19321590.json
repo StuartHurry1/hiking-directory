@@ -1,0 +1,39 @@
+{
+  "id": "osm-19321590",
+  "slug": "accessible-route-rayleigh-mount-19321590",
+  "name": "Accessible Route, Rayleigh Mount",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5877896,
+    "lon": 0.6054081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321590
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km hike on an accessible route at Rayleigh Mount in the UK. Ideal for beginners and families, featuring a gentle profile and a well-maintained path.",
+    "terrain_summary": "Mostly flat with gentle inclines on a well-maintained surface. The route uses compacted dirt and light gravel, with occasional grassy edges. Generally easy for walkers and suitable for wheelchairs and strollers in dry conditions.",
+    "safety_notes": "Check the weather and wear suitable footwear. The UK climate can change quickly, so bring a light layer. Stay on the designated path, watch for other walkers, and keep an eye out for cyclists where present. Carry water and sunscreen as needed, and take care on slippery surfaces after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Sunscreen or hat"
+    ],
+    "best_seasons": "All year round, with weather-appropriate gear for UK conditions.",
+    "seo": {
+      "title": "Accessible Route, Rayleigh Mount – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore the Accessible Route at Rayleigh Mount: a 1.2 km easy hike in the UK, ideal for beginners and families. Learn terrain, safety tips, and gear recommendations.",
+      "h1": "Accessible Route at Rayleigh Mount – Easy 1.2 km Hike"
+    }
+  }
+}

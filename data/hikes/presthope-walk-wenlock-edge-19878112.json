@@ -1,0 +1,23 @@
+{
+  "id": "osm-19878112",
+  "slug": "presthope-walk-wenlock-edge-19878112",
+  "name": "Presthope Walk, Wenlock Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5740332,
+    "lon": -2.6166375
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878112
+  }
+}

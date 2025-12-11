@@ -1,0 +1,21 @@
+{
+  "id": "osm-13836671",
+  "slug": "green-chain-walk-section-8-13836671",
+  "name": "Green Chain Walk section 8",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4391234,
+    "lon": 0.0394991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13836671
+  }
+}

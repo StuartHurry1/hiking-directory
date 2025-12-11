@@ -1,0 +1,21 @@
+{
+  "id": "osm-17636839",
+  "slug": "riversideold-ballymena-road-17636839",
+  "name": "Riverside/Old Ballymena Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.737931,
+    "lon": -6.0435362
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17636839
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "osm-2376424",
+  "slug": "south-west-coast-path-section-50-ferrybridge-to-lulworth-cove-2376424",
+  "name": "South West Coast Path (Section 50: Ferrybridge to Lulworth Cove)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5853684,
+    "lon": -2.4700948
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376424
+  }
+}

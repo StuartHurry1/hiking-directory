@@ -1,0 +1,46 @@
+{
+  "id": "osm-1690831",
+  "slug": "acw-circular-walk-02a-short-cut-for-c02-1690831",
+  "name": "ACW Circular Walk 02A (short-cut for C02)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.38893,
+    "lon": -1.624832
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1690831
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 02A is a 13.5 km moderate circular route in the UK, designed as a shorter shortcut variant of C02. The loop follows rural tracks, fields and minor roads, offering varied countryside scenery and a steady pace suitable for confident walkers.",
+    "terrain_summary": "The terrain combines grassy paths, field edges, farm tracks and some minor road sections. Surfaces can be uneven or muddy in wet conditions, with gates and stiles and gentle ascents and descents.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy footwear and clothing suitable for changing weather. Carry a map or GPS, a charged phone and a small first aid kit. Stay aware of livestock on rural land, close gates behind you, and watch for traffic on road sections. Let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Water bottle and snacks",
+      "Weather-appropriate clothing (layers) and a waterproof jacket",
+      "Map and/or GPS device (or offline map on your phone)",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Lightweight backpack",
+      "First aid kit",
+      "Whistle",
+      "Headlamp or flashlight",
+      "Mobile phone with a charged battery and power bank",
+      "Trekking poles (optional)",
+      "Extra warm layer for cold weather"
+    ],
+    "best_seasons": "Spring to autumn is typically best, with longer daylight and milder weather. The route can be tackled in winter with proper gear, but expect mud, shorter days, and more challenging conditions.",
+    "seo": {
+      "title": "ACW Circular Walk 02A (13.5 km) – Moderate UK Circular Walk Short-cut for C02",
+      "meta_description": "Explore the ACW Circular Walk 02A, a 13.5 km moderate loop in the UK. This shortcut variant of C02 features rural tracks, gentle hills, and practical safety tips and gear.",
+      "h1": "ACW Circular Walk 02A (13.5 km) – Short-cut for C02 (UK circular walk)"
+    }
+  }
+}

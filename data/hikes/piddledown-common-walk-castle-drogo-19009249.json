@@ -1,0 +1,21 @@
+{
+  "id": "osm-19009249",
+  "slug": "piddledown-common-walk-castle-drogo-19009249",
+  "name": "Piddledown Common walk, Castle Drogo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6966535,
+    "lon": -3.803995
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009249
+  }
+}

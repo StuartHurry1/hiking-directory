@@ -1,0 +1,42 @@
+{
+  "id": "osm-18208826",
+  "slug": "bramerton-circular-18208826",
+  "name": "Bramerton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6041619,
+    "lon": 1.3865537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18208826
+  },
+  "ai": {
+    "summary": "The Bramerton Circular is a gentle 4.2 km loop in the United Kingdom that follows flat paths along river banks and through woodland. With easy terrain and a relaxed pace, it’s well suited for beginners, families, and casual strolls.",
+    "terrain_summary": "Primarily flat and well-defined trails, with a mix of gravel paths, compact earth, and grassy sections. Expect occasional damp or muddy patches after rain and minor uneven ground along the riverbank; watch for low roots and seasonal vegetation.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and bring a waterproof layer. Stay on the official paths, keep children and dogs under control, and be mindful of other walkers. Carry water and a map or a fully charged phone. Plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Small backpack with essentials",
+      "Hat and sunscreen",
+      "Map or offline route (or ensure phone navigation)",
+      "Phone with emergency numbers",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Bramerton Circular Walk – 4.2 km Easy UK Trail",
+      "meta_description": "Explore the Bramerton Circular, an easy 4.2 km walk in the UK. Flat routes along riverbanks and woodland, suitable for families and beginners. Safety tips, gear and best seasons included.",
+      "h1": "Bramerton Circular – Easy 4.2 km Walk"
+    }
+  }
+}

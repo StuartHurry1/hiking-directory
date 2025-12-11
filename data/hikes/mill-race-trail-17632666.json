@@ -1,0 +1,21 @@
+{
+  "id": "osm-17632666",
+  "slug": "mill-race-trail-17632666",
+  "name": "Mill Race Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7020343,
+    "lon": -6.1921772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17632666
+  }
+}

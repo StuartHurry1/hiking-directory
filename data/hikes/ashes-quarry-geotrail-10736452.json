@@ -1,0 +1,42 @@
+{
+  "id": "osm-10736452",
+  "slug": "ashes-quarry-geotrail-10736452",
+  "name": "Ashes Quarry Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7482209,
+    "lon": -2.0081036
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10736452
+  },
+  "ai": {
+    "summary": "Ashes Quarry Geotrail is a 4.9 km easy hike in the UK that guides you through an old quarry landscape with exposed rocks and educational geological features. The route is suitable for beginners and families, offering straightforward paths, gentle gradients, and the chance to learn about local geology while enjoying quarry-side views.",
+    "terrain_summary": "The trail follows a mix of compacted lanes, gravel paths, and sections of uneven ground near the quarry edges. Expect some exposed rock, intermittent steps, and damp patches after rain. Overall, the terrain is gentle and well-marked, but footing can be uneven in places and near cliff edges; stay on marked paths and watch for loose gravel.",
+    "safety_notes": "Check the weather forecast and plan for changing conditions in the UK. Quarry edges can be steep, unstable, or drop-offs; do not approach restricted areas and supervise children closely. Wear sturdy footwear with good grip and bring a map or offline navigation. Mobile signal may be unreliable in remote parts; carry a charged phone and plan a turnaround point. Pack water and snacks; in wet conditions, paths can be slippery.",
+    "recommended_gear": [
+      "Sturdy hiking footwear with good grip",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and snacks",
+      "Map or offline GPS/device",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Fully charged mobile phone and portable charger",
+      "Optional head torch for darker sections or dusk"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions from late spring to early autumn.",
+    "seo": {
+      "title": "Ashes Quarry Geotrail – 4.9 km Easy Hike in the UK",
+      "meta_description": "Discover Ashes Quarry Geotrail, a 4.9 km easy hike in the UK. Learn about quarry geology while enjoying accessible trails, quarry views, and practical safety tips.",
+      "h1": "Ashes Quarry Geotrail: 4.9 km Easy Hike in the UK"
+    }
+  }
+}

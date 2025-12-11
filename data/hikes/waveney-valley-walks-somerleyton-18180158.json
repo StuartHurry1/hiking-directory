@@ -1,0 +1,21 @@
+{
+  "id": "osm-18180158",
+  "slug": "waveney-valley-walks-somerleyton-18180158",
+  "name": "Waveney Valley Walks - Somerleyton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5176079,
+    "lon": 1.6619327
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18180158
+  }
+}

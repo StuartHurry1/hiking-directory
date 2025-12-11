@@ -1,0 +1,77 @@
+{
+  "id": 12605333,
+  "slug": "capital-ring-link-to-highgate-underground-station-12605333",
+  "name": "Capital Ring link to Highgate underground station",
+  "network": "rwn",
+  "tags": {
+    "from": "Capital Ring sections 11 / 12",
+    "name": "Capital Ring link to Highgate underground station",
+    "network": "rwn",
+    "operator": "London Borough of Haringey",
+    "route": "foot",
+    "source": "Colin Saunders 'The Capital Ring (Aurum Press, 2020) ISBN 978 0 7112 5821 1",
+    "symbol": "Big Ben in a circle of arrows",
+    "to": "Highgate station",
+    "type": "route",
+    "website": "https://tfl.gov.uk/tube/stop/940GZZLUHGT/highgate-underground-station",
+    "wikipedia:en": "Highgate tube station"
+  },
+  "coordinates": [
+    [
+      -0.1455236,
+      51.5778633
+    ],
+    [
+      -0.1455762,
+      51.5778901
+    ],
+    [
+      -0.1455762,
+      51.5778901
+    ],
+    [
+      -0.1454309,
+      51.5779789
+    ],
+    [
+      -0.145276,
+      51.5780328
+    ],
+    [
+      -0.1450976,
+      51.5780756
+    ],
+    [
+      -0.1448478,
+      51.578106
+    ],
+    [
+      -0.1445661,
+      51.5781274
+    ],
+    [
+      -0.144,
+      51.5781664
+    ],
+    [
+      -0.1456928,
+      51.5777322
+    ],
+    [
+      -0.1456681,
+      51.5777509
+    ],
+    [
+      -0.1456681,
+      51.5777509
+    ],
+    [
+      -0.145554,
+      51.5778431
+    ],
+    [
+      -0.1455236,
+      51.5778633
+    ]
+  ]
+}

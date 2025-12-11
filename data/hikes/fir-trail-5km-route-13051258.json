@@ -1,0 +1,21 @@
+{
+  "id": "osm-13051258",
+  "slug": "fir-trail-5km-route-13051258",
+  "name": "Fir Trail (5km route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4324825,
+    "lon": 0.6592022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13051258
+  }
+}

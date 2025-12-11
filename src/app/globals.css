@@ -1,11 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
+@import "tailwindcss";
 /* Simple default styles – you can change later */
 :root {
   --background: #ffffff;
-  --foreground: #111827;
+  --foreground: #111827; /* slate-900-ish */
 }
 
 body {

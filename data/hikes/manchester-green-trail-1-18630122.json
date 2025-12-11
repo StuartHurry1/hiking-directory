@@ -1,0 +1,21 @@
+{
+  "id": "osm-18630122",
+  "slug": "manchester-green-trail-1-18630122",
+  "name": "Manchester Green Trail 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4432606,
+    "lon": -2.1841599
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18630122
+  }
+}

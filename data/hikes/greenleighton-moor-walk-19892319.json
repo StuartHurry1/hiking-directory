@@ -1,0 +1,21 @@
+{
+  "id": "osm-19892319",
+  "slug": "greenleighton-moor-walk-19892319",
+  "name": "Greenleighton Moor Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2353211,
+    "lon": -1.9517197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19892319
+  }
+}

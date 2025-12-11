@@ -1,0 +1,21 @@
+{
+  "id": "osm-9397589",
+  "slug": "tees-railway-path-9397589",
+  "name": "Tees Railway Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6158469,
+    "lon": -2.0762529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9397589
+  }
+}

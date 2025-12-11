@@ -1,0 +1,21 @@
+{
+  "id": "osm-11796539",
+  "slug": "illogan-br-28-11796539",
+  "name": "Illogan BR 28",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2522919,
+    "lon": -5.2790822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11796539
+  }
+}

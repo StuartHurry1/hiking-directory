@@ -1,0 +1,21 @@
+{
+  "id": "osm-5184045",
+  "slug": "ludwell-butterfly-trail-5184045",
+  "name": "Ludwell Butterfly Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7099619,
+    "lon": -3.4885686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5184045
+  }
+}

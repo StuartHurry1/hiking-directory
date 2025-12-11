@@ -1,0 +1,21 @@
+{
+  "id": "osm-4737027",
+  "slug": "southern-upland-way-section-b-melrose-to-lauder-4737027",
+  "name": "Southern Upland Way (Section B - Melrose to Lauder)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.602266,
+    "lon": -2.7230401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4737027
+  }
+}

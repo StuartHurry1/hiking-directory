@@ -1,0 +1,21 @@
+{
+  "id": "osm-17920319",
+  "slug": "h100-beamish-valley-17920319",
+  "name": "H100 - Beamish Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8774336,
+    "lon": -1.6583003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17920319
+  }
+}

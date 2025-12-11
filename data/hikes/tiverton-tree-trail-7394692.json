@@ -1,0 +1,21 @@
+{
+  "id": "osm-7394692",
+  "slug": "tiverton-tree-trail-7394692",
+  "name": "Tiverton Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9034492,
+    "lon": -3.4961315
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7394692
+  }
+}

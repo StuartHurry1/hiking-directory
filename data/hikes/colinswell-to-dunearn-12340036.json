@@ -1,0 +1,21 @@
+{
+  "id": "osm-12340036",
+  "slug": "colinswell-to-dunearn-12340036",
+  "name": "Colinswell to Dunearn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0613356,
+    "lon": -3.2513615
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12340036
+  }
+}

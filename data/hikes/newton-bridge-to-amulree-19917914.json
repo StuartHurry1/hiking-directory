@@ -1,0 +1,23 @@
+{
+  "id": "osm-19917914",
+  "slug": "newton-bridge-to-amulree-19917914",
+  "name": "Newton Bridge to Amulree",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4655009,
+    "lon": -3.8043754
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19917914
+  }
+}

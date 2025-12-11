@@ -1,0 +1,21 @@
+{
+  "id": "osm-11002028",
+  "slug": "lochgelly-heritage-trail-11002028",
+  "name": "Lochgelly Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1290771,
+    "lon": -3.3031972
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11002028
+  }
+}

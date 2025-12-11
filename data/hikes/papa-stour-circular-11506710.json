@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506710",
+  "slug": "papa-stour-circular-11506710",
+  "name": "Papa Stour Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3242602,
+    "lon": -1.679784
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506710
+  }
+}

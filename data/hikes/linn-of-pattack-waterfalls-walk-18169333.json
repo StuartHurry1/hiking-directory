@@ -1,0 +1,23 @@
+{
+  "id": "osm-18169333",
+  "slug": "linn-of-pattack-waterfalls-walk-18169333",
+  "name": "Linn of Pattack Waterfalls Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9769638,
+    "lon": -4.3795875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18169333
+  }
+}

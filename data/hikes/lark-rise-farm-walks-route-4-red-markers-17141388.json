@@ -1,0 +1,21 @@
+{
+  "id": "osm-17141388",
+  "slug": "lark-rise-farm-walks-route-4-red-markers-17141388",
+  "name": "Lark Rise Farm Walks (Route 4 - Red Markers)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1765239,
+    "lon": 0.0597291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17141388
+  }
+}

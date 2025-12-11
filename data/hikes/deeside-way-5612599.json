@@ -1,0 +1,21 @@
+{
+  "id": "osm-5612599",
+  "slug": "deeside-way-5612599",
+  "name": "Deeside Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 234.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0765781,
+    "lon": -2.8386088
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5612599
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168640",
+  "slug": "three-choirs-way-woolhope-to-withington-6168640",
+  "name": "Three Choirs Way (Woolhope to Withington)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 214.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0557474,
+    "lon": -2.6976383
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168640
+  }
+}

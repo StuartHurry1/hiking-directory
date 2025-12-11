@@ -1,0 +1,21 @@
+{
+  "id": "osm-13064030",
+  "slug": "castle-walk-13064030",
+  "name": "Castle Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4016412,
+    "lon": -1.7389353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13064030
+  }
+}

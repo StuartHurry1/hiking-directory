@@ -1,0 +1,21 @@
+{
+  "id": "osm-10816296",
+  "slug": "landsker-borderlands-trail-10816296",
+  "name": "Landsker Borderlands Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 289.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8330342,
+    "lon": -4.60266
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10816296
+  }
+}

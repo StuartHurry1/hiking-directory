@@ -1,0 +1,44 @@
+{
+  "id": "osm-110677",
+  "slug": "banstead-countryside-walk-110677",
+  "name": "Banstead Countryside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3113813,
+    "lon": -0.2040145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 110677
+  },
+  "ai": {
+    "summary": "Banstead Countryside Walk is a 26 km hard hike across varied UK countryside. The route blends woodland trails, fields, and quiet lanes with several elevation changes. It's aimed at experienced hikers who enjoy a demanding day on the trails; plan for a long outing and be prepared for weather and footing changes.",
+    "terrain_summary": "Mixed surfaces: muddy tracks after rain, uneven grass paths, chalk footpaths, forested trails, hedgerows, and some road sections. Expect undulating terrain with a few steep sections, gates and stiles, and occasional exposure on open countryside.",
+    "safety_notes": "Check the weather and daylight hours before you go. Wear sturdy, waterproof footwear and dress in layers. Bring a map and compass (or a reliable GPS) and ensure your phone is charged. Carry enough water and high-energy snacks; have a small first aid kit. Let someone know your planned route and finish time. Be cautious on gates, livestock crossings, and road edges; be aware that mobile coverage may be limited in rural areas. Start early in winter to maximize daylight.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (1.5–2 liters)",
+      "Weather-appropriate layers; waterproof jacket and hat/gloves if cold",
+      "Map and compass or GPS device; fully charged phone",
+      "Small first aid kit and emergency whistle",
+      "Headtorch or flashlight (in case of delays or low light)",
+      "Snacks and energy bars; portable high-energy food",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency blanket or foil blanket",
+      "Rain pants or gaiters (optional for very muddy conditions)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offer the most comfortable conditions for a 26 km hike, with longer daylight and milder weather. The route can be done in winter with extra planning and caution for shorter daylight and wetter, more challenging ground.",
+    "seo": {
+      "title": "Banstead Countryside Walk – 26 km Hard Hike in the UK",
+      "meta_description": "Plan your Banstead Countryside Walk, a 26 km hard hike through UK countryside. Terrain highlights, safety tips, gear suggestions, and best seasons.",
+      "h1": "Banstead Countryside Walk"
+    }
+  }
+}

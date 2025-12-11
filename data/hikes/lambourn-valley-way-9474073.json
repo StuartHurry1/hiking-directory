@@ -1,0 +1,21 @@
+{
+  "id": "osm-9474073",
+  "slug": "lambourn-valley-way-9474073",
+  "name": "Lambourn Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 148,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5637898,
+    "lon": -1.5652401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9474073
+  }
+}

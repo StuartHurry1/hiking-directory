@@ -1,0 +1,21 @@
+{
+  "id": "osm-9333761",
+  "slug": "cape-wrath-trail-inchnadamph-cape-wrath-9333761",
+  "name": "Cape Wrath Trail (Inchnadamph → Cape Wrath)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 180.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.3305943,
+    "lon": -4.9986667
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9333761
+  }
+}

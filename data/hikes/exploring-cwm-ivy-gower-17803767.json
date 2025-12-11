@@ -1,0 +1,21 @@
+{
+  "id": "osm-17803767",
+  "slug": "exploring-cwm-ivy-gower-17803767",
+  "name": "Exploring Cwm Ivy, Gower",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6196885,
+    "lon": -4.2561853
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17803767
+  }
+}

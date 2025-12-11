@@ -1,0 +1,21 @@
+{
+  "id": "osm-15910376",
+  "slug": "drumaness-trail-15910376",
+  "name": "Drumaness Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3460173,
+    "lon": -5.8395812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15910376
+  }
+}

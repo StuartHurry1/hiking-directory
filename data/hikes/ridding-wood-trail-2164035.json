@@ -1,0 +1,21 @@
+{
+  "id": "osm-2164035",
+  "slug": "ridding-wood-trail-2164035",
+  "name": "Ridding Wood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.339979,
+    "lon": -3.0227761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2164035
+  }
+}

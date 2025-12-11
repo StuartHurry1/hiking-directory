@@ -1,0 +1,21 @@
+{
+  "id": "osm-14594954",
+  "slug": "cnoc-trail-14594954",
+  "name": "Cnoc Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2656925,
+    "lon": -5.7516174
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594954
+  }
+}

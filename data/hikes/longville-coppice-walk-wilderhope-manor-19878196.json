@@ -1,0 +1,21 @@
+{
+  "id": "osm-19878196",
+  "slug": "longville-coppice-walk-wilderhope-manor-19878196",
+  "name": "Longville Coppice Walk, Wilderhope Manor",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5316375,
+    "lon": -2.6723393
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878196
+  }
+}

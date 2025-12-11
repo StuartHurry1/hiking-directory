@@ -1,0 +1,21 @@
+{
+  "id": "osm-17726326",
+  "slug": "castle-path-17726326",
+  "name": "Castle Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2627951,
+    "lon": -5.8467854
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17726326
+  }
+}

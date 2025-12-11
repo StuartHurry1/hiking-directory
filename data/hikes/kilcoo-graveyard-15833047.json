@@ -1,0 +1,21 @@
+{
+  "id": "osm-15833047",
+  "slug": "kilcoo-graveyard-15833047",
+  "name": "Kilcoo Graveyard",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.236723,
+    "lon": -6.0330609
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15833047
+  }
+}

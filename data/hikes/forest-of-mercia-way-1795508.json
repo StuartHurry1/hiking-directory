@@ -1,0 +1,21 @@
+{
+  "id": "osm-1795508",
+  "slug": "forest-of-mercia-way-1795508",
+  "name": "Forest of Mercia Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6003709,
+    "lon": -2.0258397
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1795508
+  }
+}

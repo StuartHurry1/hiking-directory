@@ -1,0 +1,21 @@
+{
+  "id": "osm-3671774",
+  "slug": "wild-play-music-trail-3671774",
+  "name": "Wild Play Music Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.431774,
+    "lon": 0.6627829
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3671774
+  }
+}

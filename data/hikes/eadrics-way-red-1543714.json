@@ -1,0 +1,21 @@
+{
+  "id": "osm-1543714",
+  "slug": "eadrics-way-red-1543714",
+  "name": "Eadric's Way (red)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0358646,
+    "lon": -1.571451
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1543714
+  }
+}

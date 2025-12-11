@@ -1,0 +1,23 @@
+{
+  "id": "osm-91735",
+  "slug": "wimpole-way-91735",
+  "name": "Wimpole Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2059202,
+    "lon": 0.1141435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 91735
+  }
+}

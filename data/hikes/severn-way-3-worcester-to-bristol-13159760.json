@@ -1,0 +1,21 @@
+{
+  "id": "osm-13159760",
+  "slug": "severn-way-3-worcester-to-bristol-13159760",
+  "name": "Severn Way (3) Worcester to Bristol",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 369.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1946818,
+    "lon": -2.2311261
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13159760
+  }
+}

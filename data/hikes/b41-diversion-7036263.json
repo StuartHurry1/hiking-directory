@@ -1,0 +1,42 @@
+{
+  "id": "osm-7036263",
+  "slug": "b41-diversion-7036263",
+  "name": "+B41 Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.466226,
+    "lon": -1.4485556
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7036263
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km hike in the UK around the +B41 Diversion. Suitable for beginners and families seeking a quick outdoor leg stretch with minimal elevation.",
+    "terrain_summary": "Flat to gently undulating terrain on a well-maintained path. Likely a mix of gravel, dirt, and a compacted surface; expect standard urban-to-rural trail conditions with minimal technical sections.",
+    "safety_notes": "Carry basic safety essentials and tell someone your plans. Stay on designated paths, check the weather before you go, wear sturdy footwear and appropriate clothing, bring water, and keep valuables secure. Be mindful of crossing points and respect any access restrictions or local guidelines.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Map or GPS device / smartphone with offline map",
+      "Fully charged phone",
+      "Small first aid kit (blister care, basic supplies)",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight headlamp or flashlight in case of delays"
+    ],
+    "best_seasons": "Year-round with best conditions in spring to autumn.",
+    "seo": {
+      "title": "+B41 Diversion — 0.5 km Easy Hike in the UK",
+      "meta_description": "Discover the +B41 Diversion, a short and easy 0.5 km hike in the UK. Ideal for beginners and families seeking a quick outdoor stroll with gentle terrain and minimal elevation.",
+      "h1": "+B41 Diversion (0.5 km, Easy)"
+    }
+  }
+}

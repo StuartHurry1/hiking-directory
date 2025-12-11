@@ -1,0 +1,44 @@
+{
+  "id": "osm-16702839",
+  "slug": "barmpton-and-little-ketton-16702839",
+  "name": "Barmpton & Little Ketton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5562423,
+    "lon": -1.5122474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16702839
+  },
+  "ai": {
+    "summary": "A 6.4 km moderate hike linking the villages of Barmpton and Little Ketton in the UK. The route travels through rural lanes and field paths at a relaxed pace, offering countryside scenery and a comfortable workout for most intermediate hikers.",
+    "terrain_summary": "Primarily rural footpaths and grassy field edges with occasional gates and stiles. Expect uneven ground and possible mud after rain. Moderate elevation changes but generally manageable for hikers with steady footing.",
+    "safety_notes": "Check the weather before you go. Wear sturdy waterproof boots and dress in layers; paths can be muddy or slippery. Stay on official paths, close gates, and watch for livestock. Carry a map or GPS, a charged phone, and a small first aid kit. Bring water and snacks, and let someone know your plan and expected return time. Be mindful of other path users, including cyclists.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Backpack to carry essentials",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "First aid kit",
+      "Hat and gloves as needed"
+    ],
+    "best_seasons": "Spring to autumn is ideal, though the route can be walked year-round; expect mud and longer shadows in winter.",
+    "seo": {
+      "title": "Barmpton & Little Ketton Hike – 6.4 km Moderate Walk in the UK",
+      "meta_description": "Discover a 6.4 km moderate hike between Barmpton and Little Ketton in the UK. Get terrain overview, safety tips, best seasons, and gear recommendations.",
+      "h1": "Barmpton & Little Ketton: 6.4 km Moderate Hike in the UK"
+    }
+  }
+}

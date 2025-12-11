@@ -1,0 +1,21 @@
+{
+  "id": "osm-4765388",
+  "slug": "droitwich-spa-diamond-jubilee-walk-4765388",
+  "name": "Droitwich Spa Diamond Jubilee Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2696316,
+    "lon": -2.1453129
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4765388
+  }
+}

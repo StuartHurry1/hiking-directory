@@ -1,0 +1,21 @@
+{
+  "id": "osm-9679526",
+  "slug": "pinewood-trail-9679526",
+  "name": "Pinewood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.867572,
+    "lon": -5.4327851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9679526
+  }
+}

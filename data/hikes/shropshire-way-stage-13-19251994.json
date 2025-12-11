@@ -1,0 +1,21 @@
+{
+  "id": "osm-19251994",
+  "slug": "shropshire-way-stage-13-19251994",
+  "name": "Shropshire Way - stage 13",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9070041,
+    "lon": -2.8944674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19251994
+  }
+}

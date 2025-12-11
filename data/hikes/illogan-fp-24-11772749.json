@@ -1,0 +1,21 @@
+{
+  "id": "osm-11772749",
+  "slug": "illogan-fp-24-11772749",
+  "name": "Illogan FP 24",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2452224,
+    "lon": -5.263014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11772749
+  }
+}

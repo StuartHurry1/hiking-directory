@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283292",
+  "slug": "views-and-woodlands-walk-at-longshaw-longshaw-estate-19283292",
+  "name": "Views and Woodlands Walk at Longshaw, Longshaw Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2961781,
+    "lon": -1.6180623
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283292
+  }
+}

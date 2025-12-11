@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506716",
+  "slug": "rams-head-lighthouse-whitesness-11506716",
+  "name": "Rams Head Lighthouse, Whitesness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2140945,
+    "lon": -1.5521751
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506716
+  }
+}

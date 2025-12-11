@@ -1,0 +1,21 @@
+{
+  "id": "osm-19307500",
+  "slug": "download-discovery-walk-sussex-east-19307500",
+  "name": "Download Discovery walk, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.885482,
+    "lon": -0.2120193
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307500
+  }
+}

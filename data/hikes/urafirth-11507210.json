@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507210",
+  "slug": "urafirth-11507210",
+  "name": "Urafirth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4905865,
+    "lon": -1.4522125
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507210
+  }
+}

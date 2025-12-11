@@ -1,0 +1,21 @@
+{
+  "id": "osm-18695921",
+  "slug": "the-tame-way-river-route-18695921",
+  "name": "The Tame Way- River Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 51.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.498338,
+    "lon": -1.7063197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18695921
+  }
+}

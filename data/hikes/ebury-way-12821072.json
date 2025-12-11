@@ -1,0 +1,21 @@
+{
+  "id": "osm-12821072",
+  "slug": "ebury-way-12821072",
+  "name": "Ebury Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6362642,
+    "lon": -0.465796
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12821072
+  }
+}

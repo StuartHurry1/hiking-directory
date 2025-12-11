@@ -1,0 +1,43 @@
+{
+  "id": "osm-16058563",
+  "slug": "black-trail-16058563",
+  "name": "Black Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4983145,
+    "lon": -6.860098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16058563
+  },
+  "ai": {
+    "summary": "Black Trail is a short, easy hike in the UK, covering about 1.2 km. It’s suitable for families and casual walkers, featuring a flat or gently graded path and minimal elevation gain. Region is unspecified.",
+    "terrain_summary": "The trail is short and mostly flat, with well-maintained paths. Expect grass or compact dirt, with occasional roots or small steps. Minimal elevation gain makes it accessible for beginners.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. UK weather can be changeable; bring a light rain jacket. Carry sufficient water and a small snack, sun protection in sunny conditions, and a basic first-aid item. Let someone know your route and be cautious around other walkers, especially on narrow sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layered, plus a lightweight rain jacket)",
+      "Water bottle",
+      "Snack",
+      "Small daypack",
+      "Map or GPS device / smartphone with offline map",
+      "Sunscreen and hat (for sunny days)",
+      "Basic first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder, drier conditions in the UK; winter can be cold and wet.",
+    "seo": {
+      "title": "Black Trail — Easy 1.2 km Hike in the UK",
+      "meta_description": "Experience Black Trail, a short and easy 1.2 km hike in the UK. Learn terrain details, safety tips, gear essentials, and the best seasons for this quick outdoor walk.",
+      "h1": "Black Trail: Easy 1.2 km Hike in the UK"
+    }
+  }
+}

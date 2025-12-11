@@ -1,0 +1,21 @@
+{
+  "id": "osm-17992669",
+  "slug": "horse-route-17992669",
+  "name": "Horse Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2538598,
+    "lon": -2.042814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17992669
+  }
+}

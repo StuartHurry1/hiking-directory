@@ -1,0 +1,23 @@
+{
+  "id": "osm-16354040",
+  "slug": "stockbridge-down-wildlife-and-history-walk-sw-hants-16354040",
+  "name": "Stockbridge Down Wildlife and History Walk, SW Hants",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.110312,
+    "lon": -1.4659345
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16354040
+  }
+}

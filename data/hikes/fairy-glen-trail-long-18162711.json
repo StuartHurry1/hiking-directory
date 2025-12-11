@@ -1,0 +1,21 @@
+{
+  "id": "osm-18162711",
+  "slug": "fairy-glen-trail-long-18162711",
+  "name": "Fairy Glen Trail - long",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0980369,
+    "lon": -6.1881494
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18162711
+  }
+}

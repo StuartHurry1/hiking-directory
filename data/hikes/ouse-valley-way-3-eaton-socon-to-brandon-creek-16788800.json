@@ -1,0 +1,21 @@
+{
+  "id": "osm-16788800",
+  "slug": "ouse-valley-way-3-eaton-socon-to-brandon-creek-16788800",
+  "name": "Ouse Valley Way 3 (Eaton Socon to Brandon Creek)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 125.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2094871,
+    "lon": -0.2894096
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16788800
+  }
+}

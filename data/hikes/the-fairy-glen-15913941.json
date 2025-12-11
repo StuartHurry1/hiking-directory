@@ -1,0 +1,21 @@
+{
+  "id": "osm-15913941",
+  "slug": "the-fairy-glen-15913941",
+  "name": "The Fairy Glen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1004462,
+    "lon": -6.1961717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15913941
+  }
+}

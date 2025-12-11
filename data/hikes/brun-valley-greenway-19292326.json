@@ -1,0 +1,43 @@
+{
+  "id": "osm-19292326",
+  "slug": "brun-valley-greenway-19292326",
+  "name": "Brun Valley Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.798723,
+    "lon": -2.231555
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19292326
+  },
+  "ai": {
+    "summary": "A gentle 2.5-km riverside walk along the Brun Valley Greenway in the UK. The route is easy and family-friendly, with flat terrain and pleasant countryside views beside the water.",
+    "terrain_summary": "Mostly flat, surfaced path (tarmac or compact gravel) suitable for walkers of all ages. The route is relatively level with minimal elevation gain; be prepared for mud after rain and occasional shared-use sections with cyclists.",
+    "safety_notes": "Take weather-appropriate clothing and sturdy footwear. Stay on the designated path, watch for wet or slippery surfaces after rain, and be mindful of other users on a shared-use path. Bring water, a small first-aid kit, and a phone for emergencies. Supervise children and dogs where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate layers (including waterproof jacket)",
+      "Water bottle",
+      "Small backpack",
+      "Phone with maps or offline access",
+      "Sunscreen and hat",
+      "Light snacks",
+      "Basic first-aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn offer the most pleasant walking conditions and scenery; the route can be walked year-round with appropriate wet-weather gear.",
+    "seo": {
+      "title": "Brun Valley Greenway – Easy 2.5 km UK Riverside Walk",
+      "meta_description": "Explore the Brun Valley Greenway, a 2.5 km easy riverside walk in the UK. Flat, family-friendly terrain with practical safety tips and gear suggestions.",
+      "h1": "Brun Valley Greenway – Easy 2.5 km Riverside Walk"
+    }
+  }
+}

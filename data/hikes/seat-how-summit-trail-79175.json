@@ -1,0 +1,21 @@
+{
+  "id": "osm-79175",
+  "slug": "seat-how-summit-trail-79175",
+  "name": "Seat How Summit Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6201556,
+    "lon": -3.227758
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 79175
+  }
+}

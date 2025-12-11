@@ -1,0 +1,21 @@
+{
+  "id": "osm-12772894",
+  "slug": "colne-valley-trail-12772894",
+  "name": "Colne Valley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 89.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6372662,
+    "lon": -0.4757143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12772894
+  }
+}

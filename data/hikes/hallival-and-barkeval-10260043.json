@@ -1,0 +1,21 @@
+{
+  "id": "osm-10260043",
+  "slug": "hallival-and-barkeval-10260043",
+  "name": "Hallival and Barkeval",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0091057,
+    "lon": -6.2705874
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10260043
+  }
+}

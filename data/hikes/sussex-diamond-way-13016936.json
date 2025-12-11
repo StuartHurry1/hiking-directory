@@ -1,0 +1,21 @@
+{
+  "id": "osm-13016936",
+  "slug": "sussex-diamond-way-13016936",
+  "name": "Sussex Diamond Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 266.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0121188,
+    "lon": -0.2722439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13016936
+  }
+}

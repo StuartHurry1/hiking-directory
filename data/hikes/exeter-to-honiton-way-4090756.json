@@ -1,0 +1,21 @@
+{
+  "id": "osm-4090756",
+  "slug": "exeter-to-honiton-way-4090756",
+  "name": "Exeter to Honiton Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 132.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7469181,
+    "lon": -3.4809418
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4090756
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8311860",
+  "slug": "the-millers-walk-hardwick-8311860",
+  "name": "The Miller's Walk, Hardwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1713275,
+    "lon": -1.3237111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8311860
+  }
+}

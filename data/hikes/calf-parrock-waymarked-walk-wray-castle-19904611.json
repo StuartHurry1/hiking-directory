@@ -1,0 +1,41 @@
+{
+  "id": "osm-19904611",
+  "slug": "calf-parrock-waymarked-walk-wray-castle-19904611",
+  "name": "Calf Parrock Waymarked Walk, Wray Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4008909,
+    "lon": -2.9643705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19904611
+  },
+  "ai": {
+    "summary": "An easy 2.2 km loop starting and finishing at Wray Castle, following well-marked paths through gentle terrain with scenic castle and countryside views. Suitable for families and casual walkers, typically taking about 45–60 minutes with minimal elevation gain.",
+    "terrain_summary": "Mostly flat to gently undulating, on well-marked trails with a mix of gravel, soft earth and occasional grassy sections. Some uneven ground and exposed roots near field edges; surfaces can be muddy after rain. Expect scenic views of Wray Castle and surrounding landscape.",
+    "safety_notes": "Wear sturdy walking shoes with good grip. Stay on marked paths and respect any closures. Check the weather forecast, as UK conditions can change quickly. Bring water and a snack, sun protection in sunny weather, and a light rain jacket. Keep children under supervision near castle grounds and lake edges. Carry a map or device with offline maps and tell someone your planned route if walking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS device / offline map",
+      "Snacks",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; suitable year-round with caution in winter due to mud and weather",
+    "seo": {
+      "title": "Calf Parrock Waymarked Walk, Wray Castle – Easy 2.2 km UK Walk",
+      "meta_description": "Discover an easy 2.2 km waymarked loop around Wray Castle, UK. Family-friendly, scenic views and gentle trails suitable for beginners.",
+      "h1": "Calf Parrock Waymarked Walk, Wray Castle – Easy 2.2 km Walk"
+    }
+  }
+}

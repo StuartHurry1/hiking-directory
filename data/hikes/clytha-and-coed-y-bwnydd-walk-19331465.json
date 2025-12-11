@@ -1,0 +1,21 @@
+{
+  "id": "osm-19331465",
+  "slug": "clytha-and-coed-y-bwnydd-walk-19331465",
+  "name": "Clytha and Coed y Bwnydd walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7714666,
+    "lon": -2.9275373
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19331465
+  }
+}

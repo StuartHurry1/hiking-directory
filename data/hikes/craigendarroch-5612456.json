@@ -1,0 +1,21 @@
+{
+  "id": "osm-5612456",
+  "slug": "craigendarroch-5612456",
+  "name": "Craigendarroch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0556857,
+    "lon": -3.0429104
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5612456
+  }
+}

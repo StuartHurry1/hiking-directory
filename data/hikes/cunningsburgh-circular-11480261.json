@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480261",
+  "slug": "cunningsburgh-circular-11480261",
+  "name": "Cunningsburgh Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.048564,
+    "lon": -1.2228186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480261
+  }
+}

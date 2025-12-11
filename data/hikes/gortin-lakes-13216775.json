@@ -1,0 +1,23 @@
+{
+  "id": "osm-13216775",
+  "slug": "gortin-lakes-13216775",
+  "name": "Gortin Lakes",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7036522,
+    "lon": -7.2282111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216775
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18177286",
+  "slug": "stalham-staithe-circular-18177286",
+  "name": "Stalham Staithe Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7714448,
+    "lon": 1.5167191
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18177286
+  }
+}

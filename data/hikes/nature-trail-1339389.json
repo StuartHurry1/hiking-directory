@@ -1,0 +1,21 @@
+{
+  "id": "osm-1339389",
+  "slug": "nature-trail-1339389",
+  "name": "Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4351049,
+    "lon": 0.6619961
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1339389
+  }
+}

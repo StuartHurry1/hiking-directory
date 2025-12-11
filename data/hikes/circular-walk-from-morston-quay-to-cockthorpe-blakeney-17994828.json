@@ -1,0 +1,23 @@
+{
+  "id": "osm-17994828",
+  "slug": "circular-walk-from-morston-quay-to-cockthorpe-blakeney-17994828",
+  "name": "Circular Walk from Morston Quay to Cockthorpe, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9571647,
+    "lon": 0.9842978
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17994828
+  }
+}

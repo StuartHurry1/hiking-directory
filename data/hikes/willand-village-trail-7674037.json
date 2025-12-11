@@ -1,0 +1,21 @@
+{
+  "id": "osm-7674037",
+  "slug": "willand-village-trail-7674037",
+  "name": "Willand Village Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8851617,
+    "lon": -3.3711478
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7674037
+  }
+}

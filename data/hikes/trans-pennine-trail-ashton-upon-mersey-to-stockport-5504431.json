@@ -1,0 +1,21 @@
+{
+  "id": "osm-5504431",
+  "slug": "trans-pennine-trail-ashton-upon-mersey-to-stockport-5504431",
+  "name": "Trans-Pennine Trail (Ashton-upon-Mersey to Stockport)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4324444,
+    "lon": -2.3513512
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5504431
+  }
+}

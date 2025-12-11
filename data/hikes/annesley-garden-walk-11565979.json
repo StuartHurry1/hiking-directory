@@ -1,0 +1,43 @@
+{
+  "id": "osm-11565979",
+  "slug": "annesley-garden-walk-11565979",
+  "name": "Annesley Garden Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2670808,
+    "lon": -5.951486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11565979
+  },
+  "ai": {
+    "summary": "Annesley Garden Walk is a 6.3 km moderate circular route through a sequence of gardens and parkland in the UK. The path combines well-maintained paths, shaded woodland edges, and open lawns, suitable for walkers with moderate fitness and comfortable footwear.",
+    "terrain_summary": "Predominantly even footpaths with sections of gravel and well-trodden grass. Occasional steps and gentle inclines make up most of the elevation change. Benches line the route at intervals.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy shoes suitable for uneven surfaces. Stay on marked paths, and be mindful of other park users, cyclists, and dogs. Bring water, a small map or offline navigation, and weather-appropriate clothing. In winter or after rain, some sections may be muddy, so plan accordingly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing and layers",
+      "Water bottle",
+      "Sun protection (hat and sunscreen) if sunny",
+      "Light backpack for essentials",
+      "Map or offline navigation app",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Camera or smartphone for photos (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for this walk due to milder weather and garden views.",
+    "seo": {
+      "title": "Annesley Garden Walk – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Explore Annesley Garden Walk, a 6.3 km moderate hike through UK gardens and parkland. Learn about terrain, safety tips, and recommended gear.",
+      "h1": "Annesley Garden Walk: 6.3 km Moderate Hike in the UK"
+    }
+  }
+}

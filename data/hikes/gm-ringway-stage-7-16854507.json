@@ -1,0 +1,21 @@
+{
+  "id": "osm-16854507",
+  "slug": "gm-ringway-stage-7-16854507",
+  "name": "GM Ringway Stage 7",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4014691,
+    "lon": -2.0578773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16854507
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11726730",
+  "slug": "way-of-love-11726730",
+  "name": "Way of Love",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 106.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6952237,
+    "lon": -1.1823853
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11726730
+  }
+}

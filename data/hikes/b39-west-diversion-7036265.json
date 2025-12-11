@@ -1,0 +1,39 @@
+{
+  "id": "osm-7036265",
+  "slug": "b39-west-diversion-7036265",
+  "name": "+B39 West Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4697018,
+    "lon": -1.4560924
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7036265
+  },
+  "ai": {
+    "summary": "The +B39 West Diversion is a very short, easy walk in the United Kingdom, totaling about 0.3 km. It's designed for a quick outdoor excursion with flat terrain and minimal effort.",
+    "terrain_summary": "Flat, well-maintained path typical of urban or rural diversion routes. Expect an easy walk with level ground and occasional sections that may be grassy or paved depending on the exact stretch.",
+    "safety_notes": "As with any outdoor walk, check the weather and wear suitable footwear. Stay on marked paths, be aware of cyclists or pedestrians on shared routes, and carry a light layer in case of rain or cold. Short distance, but supervise children and avoid accessing private property.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket or layer",
+      "Water bottle",
+      "Sunny hat and sunscreen (in sunny weather)",
+      "Phone or map for navigation"
+    ],
+    "best_seasons": "All year, with especially pleasant conditions in spring and autumn in the UK. Winter can be wet and daylight hours shorter.",
+    "seo": {
+      "title": "+B39 West Diversion - Easy 0.3 km Hike in the UK",
+      "meta_description": "Explore the +B39 West Diversion, a short 0.3 km easy hike in the UK. Flat terrain and quick outdoor escape suitable for all ages.",
+      "h1": "+B39 West Diversion: Easy 0.3 km Hike in the UK"
+    }
+  }
+}

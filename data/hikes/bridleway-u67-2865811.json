@@ -1,0 +1,41 @@
+{
+  "id": "osm-2865811",
+  "slug": "bridleway-u67-2865811",
+  "name": "Bridleway U67",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5250883,
+    "lon": -1.3736081
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865811
+  },
+  "ai": {
+    "summary": "Bridleway U67 is a short, easy 0.8 km hike in the UK. It follows a flat bridleway suitable for walkers of all ages and fitness levels, with rural scenery and minimal elevation gain.",
+    "terrain_summary": "Flat to gently rolling surface along a typical bridleway. Expect compact dirt or gravel, with occasional muddy patches after rain. Gates and occasional stiles may be encountered; footwear with good grip is recommended.",
+    "safety_notes": "Even on a short, easy route, take standard precautions: check the weather, wear sturdy footwear, watch for uneven ground or mud, gates and livestock, and other users. Carry a light layer and water, and let someone know your plan. In rural UK areas, mobile signal may be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Map and fully charged phone",
+      "Small first aid kit",
+      "Hat or sun protection",
+      "Light snacks"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the best conditions. Summer provides longer daylight; winter can be muddy and weather-dependent.",
+    "seo": {
+      "title": "Bridleway U67 - Easy 0.8 km Hike in the UK",
+      "meta_description": "Explore Bridleway U67, an easy 0.8 km hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for this short rural walk.",
+      "h1": "Bridleway U67: Easy 0.8 km Hike in the UK"
+    }
+  }
+}

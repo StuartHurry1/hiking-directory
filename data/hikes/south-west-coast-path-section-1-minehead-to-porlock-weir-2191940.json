@@ -1,0 +1,23 @@
+{
+  "id": "osm-2191940",
+  "slug": "south-west-coast-path-section-1-minehead-to-porlock-weir-2191940",
+  "name": "South West Coast Path (Section 1: Minehead to Porlock Weir)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2114775,
+    "lon": -3.4737123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2191940
+  }
+}

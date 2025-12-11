@@ -1,0 +1,23 @@
+{
+  "id": "osm-18976870",
+  "slug": "lake-walk-at-arlington-court-arlington-court-18976870",
+  "name": "Lake walk at Arlington Court, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1430659,
+    "lon": -3.9945699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976870
+  }
+}

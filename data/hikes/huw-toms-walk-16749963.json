@@ -1,0 +1,21 @@
+{
+  "id": "osm-16749963",
+  "slug": "huw-toms-walk-16749963",
+  "name": "Huw Tom's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2678083,
+    "lon": -3.9276281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16749963
+  }
+}

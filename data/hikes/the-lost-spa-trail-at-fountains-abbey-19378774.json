@@ -1,0 +1,21 @@
+{
+  "id": "osm-19378774",
+  "slug": "the-lost-spa-trail-at-fountains-abbey-19378774",
+  "name": "The Lost Spa Trail at Fountains Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1129539,
+    "lon": -1.5844238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19378774
+  }
+}

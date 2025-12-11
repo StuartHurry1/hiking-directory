@@ -1,0 +1,46 @@
+{
+  "id": "osm-19426790",
+  "slug": "beacon-hill-juniper-bank-and-aston-wood-walk-central-chilterns-19426790",
+  "name": "Beacon Hill, Juniper Bank and Aston Wood Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6636206,
+    "lon": -0.94344
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426790
+  },
+  "ai": {
+    "summary": "A scenic 14.1 km circuit through the Central Chilterns, visiting Beacon Hill, Juniper Bank and Aston Wood. The route blends open hilltop views with quiet beech woodland and forest paths, offering a steady moderate hike suitable for hikers with some experience.",
+    "terrain_summary": "Mostly rolling country paths and woodland tracks with gentle ascents and descents. Expect chalk soils, uneven ground, short rocky/step sections near Beacon Hill, gates and stiles, and occasional mud after rain. Footing is generally good, but stout footwear with grip is advised.",
+    "safety_notes": "Check the weather forecast before you go and be prepared for sudden changes. Wear sturdy walking boots and bring waterproof clothing. Carry a map or GPS device, a fully charged phone, and enough water and snacks. Stay on marked paths, watch for gates and stiles, and be mindful of potential drops and exposed viewpoints. Let someone know your route and expected return time; check local access notices for any restrictions. Insect repellent and a basic first aid kit are recommended.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Water bottle or hydration system (2–3 L)",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map and compass or GPS device",
+      "Snacks or light meal",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Insect repellent",
+      "Emergency whistle",
+      "Headlamp or flashlight (in winter or late finishes)",
+      "Phone with offline map or fully charged battery",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to Autumn (April–October)",
+    "seo": {
+      "title": "Beacon Hill, Juniper Bank and Aston Wood Walk – 14.1 km Moderate Hike in the Central Chilterns, UK",
+      "meta_description": "Explore the 14.1 km Beacon Hill, Juniper Bank and Aston Wood Walk in the Central Chilterns, UK. A moderate hike with hilltop views, beech woodland and tranquil forest paths.",
+      "h1": "Beacon Hill, Juniper Bank and Aston Wood Walk – 14.1 km Moderate Hike in the Central Chilterns"
+    }
+  }
+}

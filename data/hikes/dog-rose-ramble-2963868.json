@@ -1,0 +1,21 @@
+{
+  "id": "osm-2963868",
+  "slug": "dog-rose-ramble-2963868",
+  "name": "Dog Rose Ramble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.540242,
+    "lon": -0.4191549
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2963868
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-112694",
+  "slug": "goyt-way-112694",
+  "name": "Goyt Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3312657,
+    "lon": -1.9833999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 112694
+  }
+}

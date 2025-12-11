@@ -1,0 +1,37 @@
+{
+  "id": 11497965,
+  "slug": "henie-track-11497965",
+  "name": "Henie Track",
+  "network": "lwn",
+  "tags": {
+    "designation": "core_path",
+    "name": "Henie Track",
+    "network": "lwn",
+    "official_ref": "CPPGQC07",
+    "route": "hiking",
+    "source": "Shetland Islands Council",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -1.2120507,
+      60.1300823
+    ],
+    [
+      -1.2106687,
+      60.1300881
+    ],
+    [
+      -1.2068596,
+      60.130076
+    ],
+    [
+      -1.2120507,
+      60.1300823
+    ],
+    [
+      -1.2123032,
+      60.1300833
+    ]
+  ]
+}

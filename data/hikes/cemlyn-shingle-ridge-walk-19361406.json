@@ -1,0 +1,23 @@
+{
+  "id": "osm-19361406",
+  "slug": "cemlyn-shingle-ridge-walk-19361406",
+  "name": "Cemlyn Shingle Ridge Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4121987,
+    "lon": -4.5156115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19361406
+  }
+}

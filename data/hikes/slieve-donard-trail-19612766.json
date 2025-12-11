@@ -1,0 +1,21 @@
+{
+  "id": "osm-19612766",
+  "slug": "slieve-donard-trail-19612766",
+  "name": "Slieve Donard Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2053898,
+    "lon": -5.8950056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19612766
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16162450",
+  "slug": "yesnaby-trail-16162450",
+  "name": "Yesnaby Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.024841,
+    "lon": -3.3587204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16162450
+  }
+}

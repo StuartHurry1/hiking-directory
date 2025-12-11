@@ -1,0 +1,23 @@
+{
+  "id": "osm-19905344",
+  "slug": "hodge-close-to-cathedral-quarry-tarn-hows-and-coniston-19905344",
+  "name": "Hodge Close to Cathedral Quarry, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4061323,
+    "lon": -3.0553515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19905344
+  }
+}

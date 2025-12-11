@@ -1,0 +1,21 @@
+{
+  "id": "osm-1165357",
+  "slug": "staunton-way-1165357",
+  "name": "Staunton Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 72.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9728322,
+    "lon": -0.9561991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1165357
+  }
+}

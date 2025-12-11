@@ -1,0 +1,21 @@
+{
+  "id": "osm-8388384",
+  "slug": "limestone-walk-8388384",
+  "name": "Limestone Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.194658,
+    "lon": -2.3932399
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8388384
+  }
+}

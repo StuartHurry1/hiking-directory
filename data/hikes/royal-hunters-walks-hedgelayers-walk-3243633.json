@@ -1,0 +1,23 @@
+{
+  "id": "osm-3243633",
+  "slug": "royal-hunters-walks-hedgelayers-walk-3243633",
+  "name": "Royal Hunters Walks - Hedgelayers' walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3419494,
+    "lon": -2.0943741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3243633
+  }
+}

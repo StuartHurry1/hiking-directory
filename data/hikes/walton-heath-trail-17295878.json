@@ -1,0 +1,21 @@
+{
+  "id": "osm-17295878",
+  "slug": "walton-heath-trail-17295878",
+  "name": "Walton Heath Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1535914,
+    "lon": -2.7802943
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17295878
+  }
+}

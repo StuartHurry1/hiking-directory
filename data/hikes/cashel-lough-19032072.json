@@ -1,0 +1,21 @@
+{
+  "id": "osm-19032072",
+  "slug": "cashel-lough-19032072",
+  "name": "Cashel Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1185464,
+    "lon": -6.5225251
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032072
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-6947444",
+  "slug": "boar-walk-6947444",
+  "name": "Boar Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1930564,
+    "lon": -4.7616136
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6947444
+  },
+  "ai": {
+    "summary": "Boar Walk is a short, easy 1.8 km loop in the UK designed for casual walkers and families. The route offers flat terrain, light greenery, and minimal elevation, delivering a quick, stress-free outdoor experience.",
+    "terrain_summary": "The trail runs on well-maintained paths with compact gravel and grassy sections. Expect flat to gently rolling terrain with occasional uneven patches near the edges. The route is generally stroller-friendly on most segments.",
+    "safety_notes": "Before you go, check current conditions and plan accordingly. Wear sturdy footwear and bring water. Stay on marked paths, watch for uneven surfaces, and be mindful of other hikers. Observe wildlife from a safe distance and keep dogs under control; follow local guidelines and any posted regulations.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Layered clothing for variable weather",
+      "Snack or energy bar",
+      "Map or GPS device",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year, with the best conditions in late spring to early autumn.",
+    "seo": {
+      "title": "Boar Walk - 1.8 km Easy Hike in the UK",
+      "meta_description": "Explore Boar Walk, an easy 1.8 km hike in the UK. Flat paths, family-friendly scenery, and practical safety tips to plan your day.",
+      "h1": "Boar Walk - Easy 1.8 km Hike in the UK"
+    }
+  }
+}

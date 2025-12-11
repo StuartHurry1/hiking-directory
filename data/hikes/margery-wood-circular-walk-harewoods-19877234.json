@@ -1,0 +1,21 @@
+{
+  "id": "osm-19877234",
+  "slug": "margery-wood-circular-walk-harewoods-19877234",
+  "name": "Margery Wood Circular Walk, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.259689,
+    "lon": -0.2163347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877234
+  }
+}

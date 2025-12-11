@@ -1,0 +1,21 @@
+{
+  "id": "osm-2457628",
+  "slug": "walk-green-2457628",
+  "name": "Walk Green",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5246682,
+    "lon": -1.0894382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2457628
+  }
+}

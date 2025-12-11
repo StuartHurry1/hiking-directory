@@ -1,0 +1,41 @@
+{
+  "id": "osm-18630113",
+  "slug": "bournville-heritage-walk-18630113",
+  "name": "Bournville Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.430057,
+    "lon": -1.9326272
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18630113
+  },
+  "ai": {
+    "summary": "A short, easy 2 km self-guided walk that highlights local heritage and scenery around Bournville. The route is suitable for most ages and offers a mix of historic streets, green spaces, and quiet residential areas.",
+    "terrain_summary": "Primarily urban pavements with flat, well-maintained sidewalks. Mostly level with occasional gentle slopes and curb crossings; some grassy verges and paths in parks.",
+    "safety_notes": "Stay on designated paths and sidewalks. Be mindful of traffic at road crossings, and watch for uneven pavement in older streets. Check weather, wear sturdy shoes, and carry water. If visiting with children or mobility concerns, plan shorter segments and use accessible entrances where possible.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Camera or smartphone for photos",
+      "Sunscreen and hat (summer)",
+      "Map or guidebook (optional)",
+      "Phone charger or power bank (optional)"
+    ],
+    "best_seasons": "Spring to autumn generally offer the best conditions; winter visits may be chilly with shorter daylight hours.",
+    "seo": {
+      "title": "Bournville Heritage Walk – Easy 2 km Urban Trail in the UK",
+      "meta_description": "Explore a short, easy 2 km heritage walk in Bournville, UK. This self-guided route highlights local history, green spaces, and charming residential streets.",
+      "h1": "Bournville Heritage Walk: Easy 2 km Urban Route"
+    }
+  }
+}

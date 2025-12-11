@@ -1,0 +1,21 @@
+{
+  "id": "osm-370667",
+  "slug": "foss-walk-370667",
+  "name": "Foss Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 300.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9901085,
+    "lon": -1.0705545
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 370667
+  }
+}

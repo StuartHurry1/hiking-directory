@@ -1,0 +1,21 @@
+{
+  "id": "osm-8481025",
+  "slug": "university-sculpture-walk-8481025",
+  "name": "University Sculpture Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7359418,
+    "lon": -3.5304886
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8481025
+  }
+}

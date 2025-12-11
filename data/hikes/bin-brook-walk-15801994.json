@@ -1,0 +1,41 @@
+{
+  "id": "osm-15801994",
+  "slug": "bin-brook-walk-15801994",
+  "name": "Bin Brook Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2010301,
+    "lon": 0.0703402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15801994
+  },
+  "ai": {
+    "summary": "Bin Brook Walk is a short, easy 2.9 km route in the UK that follows a tranquil brook, suitable for families and casual walkers.",
+    "terrain_summary": "Mostly flat with a well-maintained path along the brook; expect some muddy patches after rain and occasional uneven sections near the water.",
+    "safety_notes": "Check local weather and potential flooding before you go. Wear sturdy walking shoes, stay on the path, supervise children near water, and carry a basic weather-appropriate kit and a charged mobile phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Light waterproof jacket",
+      "Hat and sunscreen",
+      "Map, GPS or offline route reference",
+      "Phone with emergency contacts",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Bin Brook Walk – Easy 2.9 km UK Brookside Route",
+      "meta_description": "Explore the Bin Brook Walk: a gentle 2.9 km stroll along a UK brook. Find tips on terrain, safety, and gear for a relaxed family-friendly hike.",
+      "h1": "Bin Brook Walk: Easy 2.9 km UK Brookside Stroll"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10678385",
+  "slug": "redruth-br-49-10678385",
+  "name": "Redruth BR 49",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2281052,
+    "lon": -5.218698
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10678385
+  }
+}

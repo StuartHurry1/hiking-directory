@@ -1,0 +1,21 @@
+{
+  "id": "osm-13760101",
+  "slug": "lune-valley-ramble-13760101",
+  "name": "Lune Valley Ramble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0492876,
+    "lon": -2.8086945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13760101
+  }
+}

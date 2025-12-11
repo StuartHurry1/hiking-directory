@@ -1,0 +1,40 @@
+{
+  "id": "osm-18183941",
+  "slug": "burgh-castle-circular-18183941",
+  "name": "Burgh Castle Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5859779,
+    "lon": 1.6590788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18183941
+  },
+  "ai": {
+    "summary": "An easy 3.5 km circular hike in the UK starting and finishing near Burgh Castle. The route offers flat terrain, open coastal views, and a chance to glimpse the nearby Roman fort remains.",
+    "terrain_summary": "Mostly flat with grassy and gravel surfaces; several short sections may be muddy after rain; expect exposed coastal winds and sea spray along the route.",
+    "safety_notes": "Check tide times and weather before you go. Stay on signed paths, watch for uneven ground and slippery patches, and avoid cliff edges. Dress for wind and sun exposure; keep dogs under control and carry water.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Hat and sunscreen",
+      "Map, GPS or fully charged phone",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn (best in warm, dry conditions)",
+    "seo": {
+      "title": "Burgh Castle Circular Walk – Easy 3.5 km Coastal Hike in the UK",
+      "meta_description": "Discover the easy 3.5 km Burgh Castle Circular in the UK. Flat terrain, coastal views, and a glimpse of Roman history—perfect for a short, scenic day hike.",
+      "h1": "Burgh Castle Circular Walk"
+    }
+  }
+}

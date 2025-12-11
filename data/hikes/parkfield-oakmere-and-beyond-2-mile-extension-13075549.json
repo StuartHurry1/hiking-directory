@@ -1,0 +1,23 @@
+{
+  "id": "osm-13075549",
+  "slug": "parkfield-oakmere-and-beyond-2-mile-extension-13075549",
+  "name": "Parkfield, Oakmere & Beyond 2 mile extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7064053,
+    "lon": -0.1927198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13075549
+  }
+}

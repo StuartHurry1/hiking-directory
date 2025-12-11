@@ -1,0 +1,44 @@
+{
+  "id": "osm-17732380",
+  "slug": "additional-parking-to-fan-bay-and-south-foreland-lighthouse-circular-trail-white-cliffs-17732380",
+  "name": "Additional parking to Fan Bay and South Foreland Lighthouse Circular Trail, White Cliffs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1398947,
+    "lon": 1.3588617
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17732380
+  },
+  "ai": {
+    "summary": "A 3 km easy circular coastal hike along the White Cliffs of the UK, linking the Additional parking area near Fan Bay with South Foreland Lighthouse. The route offers sea views, chalk cliffs, and a lighthouse stop, making it suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-trodden paths with some chalky footing and gentle ascents. Clifftop sections have exposed edges and uneven ground; expect occasional steps or stairs and potential mud after rain. Coastal winds can impact comfort and footing.",
+    "safety_notes": "Stay well back from cliff edges and follow posted signs; weather can change quickly along the coast—dress in layers and carry a waterproof layer. Wear sturdy footwear with good grip, keep children and dogs under control, and bring water and a map or offline navigation. Be aware of tides and sea spray near open sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Map, GPS, or offline navigation",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "April to October is typically best for this coastal walk, offering milder weather, longer daylight, and more reliable coastal conditions. Visit outside winter storms for a more comfortable experience.",
+    "seo": {
+      "title": "Fan Bay & South Foreland Lighthouse Circular Trail (3 km) – White Cliffs Coastal Walk | UK",
+      "meta_description": "Enjoy an easy 3 km circular coastal walk on the White Cliffs of the UK, connecting Fan Bay parking with South Foreland Lighthouse. Family-friendly route with sea views and lighthouse history.",
+      "h1": "Additional parking to Fan Bay and South Foreland Lighthouse Circular Trail, White Cliffs"
+    }
+  }
+}

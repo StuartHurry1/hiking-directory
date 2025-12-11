@@ -1,0 +1,21 @@
+{
+  "id": "osm-11271506",
+  "slug": "loop-link-to-havering-green-bus-stop-11271506",
+  "name": "LOOP link to Havering Green bus stop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6167989,
+    "lon": 0.1833268
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11271506
+  }
+}

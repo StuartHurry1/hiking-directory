@@ -1,0 +1,21 @@
+{
+  "id": "osm-1473895",
+  "slug": "fens-and-dragonflys-walk-1473895",
+  "name": "Fens & Dragonflys Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1782631,
+    "lon": 0.8102406
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1473895
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19337582",
+  "slug": "chillerton-down-circular-walk-isle-of-wight-19337582",
+  "name": "Chillerton Down Circular Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6443981,
+    "lon": -1.3206426
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19337582
+  }
+}

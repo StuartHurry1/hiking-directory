@@ -1,0 +1,21 @@
+{
+  "id": "osm-8732865",
+  "slug": "causey-mounth-8732865",
+  "name": "Causey Mounth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0269572,
+    "lon": -2.1729068
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8732865
+  }
+}

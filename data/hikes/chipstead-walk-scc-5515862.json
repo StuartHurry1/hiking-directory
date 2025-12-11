@@ -1,0 +1,21 @@
+{
+  "id": "osm-5515862",
+  "slug": "chipstead-walk-scc-5515862",
+  "name": "Chipstead walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2960508,
+    "lon": -0.1686717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5515862
+  }
+}

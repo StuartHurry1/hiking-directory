@@ -1,0 +1,21 @@
+{
+  "id": "osm-19937098",
+  "slug": "explore-from-waterhead-walk-19937098",
+  "name": "Explore from Waterhead Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4198894,
+    "lon": -2.9617984
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19937098
+  }
+}

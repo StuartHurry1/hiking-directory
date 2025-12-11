@@ -1,0 +1,23 @@
+{
+  "id": "osm-15957905",
+  "slug": "the-cole-and-its-landscape-formerly-the-red-walk-coleshill-15957905",
+  "name": "The Cole and its Landscape (Formerly the Red Walk: Coleshill)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.9,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6267869,
+    "lon": -1.6545809
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15957905
+  }
+}

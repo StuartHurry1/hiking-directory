@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374261",
+  "slug": "south-west-coast-path-section-15-padstow-to-porthcothan-2374261",
+  "name": "South West Coast Path (Section 15: Padstow to Porthcothan)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5425723,
+    "lon": -4.9361924
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374261
+  }
+}

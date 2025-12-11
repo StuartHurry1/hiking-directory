@@ -1,0 +1,48 @@
+{
+  "id": "osm-19009365",
+  "slug": "amulree-to-auchnafree-19009365",
+  "name": "Amulree to Auchnafree",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5101924,
+    "lon": -3.7882463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009365
+  },
+  "ai": {
+    "summary": "The Amulree to Auchnafree hike is a 19.5 km challenging route through rural Perthshire in the UK. The path combines rolling moorland, woodland tracks and steep ascents, offering remote scenery and a sense of solitude. It is physically demanding and requires good navigation, preparation and fitness.",
+    "terrain_summary": "Expect mixed terrain: gravel and grassy tracks, peat bogs, and forest paths with uneven footing. Elevation gain includes steep climbs and exposed sections; weather can be variable, so be prepared for wind, rain and sun exposure. Some segments may be boggy or waterlogged, especially after rain.",
+    "safety_notes": "Plan for 5–7 hours of hiking. Check weather and daylight hours; in poor conditions the route can become dangerous. Wear sturdy waterproof boots and layered clothing; carry a map, compass and GPS as signal may be unreliable. Stay on marked paths, watch for boggy ground and uneven rocks, and be prepared for navigation challenges. Tell someone your plan, carry a fully charged phone (but don't rely on coverage), bring sufficient water and food, a first aid kit and emergency shelter or light insulation. In the UK, dial 999/112 for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and waterproof outer shell",
+      "Map and compass (and/or GPS)",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight and spare batteries",
+      "Whistle",
+      "Emergency shelter or space blanket",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Rain cover for backpack",
+      "Trekking poles (optional)",
+      "Extra socks",
+      "Mobile phone with offline maps (if possible)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and trails are more stable; summer offers more reliable conditions but can be wet and muddy; winter hiking is possible with suitable equipment but daylight and weather make it riskier.",
+    "seo": {
+      "title": "Amulree to Auchnafree Hike: 19.5 km Hard Trek in the UK",
+      "meta_description": "Discover the Amulree to Auchnafree hike, a 19.5 km hard route in the UK. Learn about terrain, safety tips, best seasons, and gear to prepare for this challenging trip.",
+      "h1": "Amulree to Auchnafree: A 19.5 km Hard Hike in the UK"
+    }
+  }
+}

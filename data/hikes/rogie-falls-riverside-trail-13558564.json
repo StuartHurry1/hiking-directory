@@ -1,0 +1,23 @@
+{
+  "id": "osm-13558564",
+  "slug": "rogie-falls-riverside-trail-13558564",
+  "name": "Rogie Falls Riverside Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5901646,
+    "lon": -4.6074576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13558564
+  }
+}

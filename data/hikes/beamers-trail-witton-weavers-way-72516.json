@@ -1,0 +1,46 @@
+{
+  "id": "osm-72516",
+  "slug": "beamers-trail-witton-weavers-way-72516",
+  "name": "Beamers Trail - Witton Weavers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.734881,
+    "lon": -2.5316258
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 72516
+  },
+  "ai": {
+    "summary": "Beamers Trail - Witton Weavers Way is a hard, long-distance hike in the UK covering about 32.3 km. The route follows sections of the Witton Weavers Way through varied countryside, including rural lanes, woodlands, and open fields. It's a demanding day or multi-day trek that rewards with diverse scenery and sustained effort.",
+    "terrain_summary": "Expect a mix of surfaces: well-marked trails, farm tracks, and woodland paths. Some sections may be muddy, uneven, or rocky after rain; gradients range from gentle to moderate with occasional steeper segments. Open areas can be windy; navigation is straightforward on the main paths but having a map is wise in mist or poor visibility.",
+    "safety_notes": "- Distance and pace: 32.3 km is a hard hike; plan 9–12+ hours depending on conditions and breaks. - Navigation: Witton Weavers Way is typically well-marked, but carry a map/compass as backup. - Weather: UK weather changes quickly; carry a waterproof layer and extra clothing, plus sun protection in summer. - Gear: wear sturdy boots; bring enough water (2–3 liters) and high-energy snacks. - Daylight: start early in shorter days; check sunrise/sunset times. - Livestock and gates: be mindful of livestock; close gates behind you and respect farmland boundaries. - Emergency: carry a whistle and know how to contact local emergency services; tell someone your plan and expected return.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and breathable pants",
+      "Appropriate insulating layers (fleece/mid-layer)",
+      "Hat and gloves (seasonal)",
+      "Map and compass or reliable offline GPS",
+      "Fully charged phone and portable charger",
+      "Water (2–3 liters) and high-energy snacks",
+      "Lightweight headlamp or flashlight with extra batteries",
+      "Small first aid kit and personal medications",
+      "Emergency blanket or bivvy sack",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for longer daylight and more favorable weather; winter hikes are possible but require extra caution and shorter planning.",
+    "seo": {
+      "title": "Beamers Trail - Witton Weavers Way: 32.3 km Hard UK Hike",
+      "meta_description": "Plan a challenging 32.3 km hike along Beamers Trail on the Witton Weavers Way in the UK. Learn terrain, safety tips, and gear to complete this long-distance route.",
+      "h1": "Beamers Trail – Witton Weavers Way (UK) 32.3 km Long-Distance Hike"
+    }
+  }
+}

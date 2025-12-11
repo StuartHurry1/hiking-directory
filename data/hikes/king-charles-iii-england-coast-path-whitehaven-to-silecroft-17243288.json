@@ -1,0 +1,23 @@
+{
+  "id": "osm-17243288",
+  "slug": "king-charles-iii-england-coast-path-whitehaven-to-silecroft-17243288",
+  "name": "King Charles III England Coast Path: Whitehaven to Silecroft",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 97.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5491583,
+    "lon": -3.5974231
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17243288
+  }
+}

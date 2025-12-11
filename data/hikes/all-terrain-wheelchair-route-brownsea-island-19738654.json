@@ -1,0 +1,42 @@
+{
+  "id": "osm-19738654",
+  "slug": "all-terrain-wheelchair-route-brownsea-island-19738654",
+  "name": "All Terrain Wheelchair Route, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6888846,
+    "lon": -1.9566675
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738654
+  },
+  "ai": {
+    "summary": "A 4.2 km easy loop on Brownsea Island designed for all-terrain wheelchairs. The route follows firm coastal paths with gentle gradients and scenic harbour views, making it suitable for a relaxed day trip from the UK. Access to the island is via ferry, so plan timings around boat schedules.",
+    "terrain_summary": "Primarily flat and firm surfaces suitable for all-terrain wheelchairs, with stretches of compact gravel, occasional wooden boardwalks, and gentle slopes along the coast. Some paths may be uneven or damp in wet weather, so proceed with care.",
+    "safety_notes": "Check the Brownsea Island ferry timetable and seasonal access before you go. Weather and tides can affect path usability; wear appropriate clothing and be prepared for wind and rain. Ensure your all-terrain wheelchair is appropriate for gravel and wet surfaces, carrying a spare battery or repair kit if needed. Stay on marked paths, keep a safe distance from wildlife, and supervise children. Carry a charged phone for emergencies and plan your return to the ferry to avoid missed timings.",
+    "recommended_gear": [
+      "Charged all-terrain wheelchair and spare battery or charger",
+      "Repair kit and spare inner tubes (if manual) or spare tire components",
+      "Weatherproof clothing and layers (rain jacket, hat, gloves)",
+      "Water and snacks",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Map or offline route guide and a charged phone",
+      "Identification and emergency contact information",
+      "Lightweight blanket or extra insulation for sudden weather changes"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better trail conditions; visits are possible year‑round, but winter can bring stronger winds and limited ferry services.",
+    "seo": {
+      "title": "All Terrain Wheelchair Route on Brownsea Island – 4.2 km Accessible Hike in the UK",
+      "meta_description": "Explore Brownsea Island's 4.2 km All Terrain Wheelchair Route. Easy, accessible paths suitable for all-terrain wheelchairs with safety tips and gear suggestions.",
+      "h1": "All Terrain Wheelchair Route, Brownsea Island"
+    }
+  }
+}

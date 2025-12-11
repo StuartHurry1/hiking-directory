@@ -1,0 +1,21 @@
+{
+  "id": "osm-19887946",
+  "slug": "cliveden-woodland-walking-trail-cliveden-19887946",
+  "name": "Cliveden Woodland Walking Trail, Cliveden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5617115,
+    "lon": -0.686694
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19887946
+  }
+}

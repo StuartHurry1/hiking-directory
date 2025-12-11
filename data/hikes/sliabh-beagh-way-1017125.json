@@ -1,0 +1,21 @@
+{
+  "id": "osm-1017125",
+  "slug": "sliabh-beagh-way-1017125",
+  "name": "Sliabh Beagh Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 152.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4129344,
+    "lon": -6.9740562
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1017125
+  }
+}

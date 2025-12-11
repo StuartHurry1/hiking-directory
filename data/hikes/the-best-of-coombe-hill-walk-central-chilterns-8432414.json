@@ -1,0 +1,21 @@
+{
+  "id": "osm-8432414",
+  "slug": "the-best-of-coombe-hill-walk-central-chilterns-8432414",
+  "name": "The Best of Coombe Hill Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7487314,
+    "lon": -0.7683531
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8432414
+  }
+}

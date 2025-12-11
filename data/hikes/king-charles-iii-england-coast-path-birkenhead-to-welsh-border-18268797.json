@@ -1,0 +1,23 @@
+{
+  "id": "osm-18268797",
+  "slug": "king-charles-iii-england-coast-path-birkenhead-to-welsh-border-18268797",
+  "name": "King Charles III England Coast Path: Birkenhead to Welsh Border",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 129.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4100268,
+    "lon": -3.0164685
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18268797
+  }
+}

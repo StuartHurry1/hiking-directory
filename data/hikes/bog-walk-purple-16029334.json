@@ -1,0 +1,44 @@
+{
+  "id": "osm-16029334",
+  "slug": "bog-walk-purple-16029334",
+  "name": "Bog walk (purple)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.485601,
+    "lon": -6.6182865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16029334
+  },
+  "ai": {
+    "summary": "A moderate 8 km bog-side walk in the UK countryside, offering marshy terrain and open wetland scenery. Expect soft ground, occasional mud, and varying visibility depending on weather.",
+    "terrain_summary": "The route traverses marshy bogland with waterlogged, soft ground and uneven footing. Expect mud, peat, and damp vegetation; parts may have wet grass, and underfoot can be slippery. Ground conditions can change with rainfall, and in drier conditions may be firmer ground along established paths.",
+    "safety_notes": "Check weather and for any bog-specific hazards before you go. Wear waterproof, high-ankle boots with good grip; bring spare socks. Stay on marked paths where possible; avoid deep bog openings. Use trekking poles if needed for stability. Carry a map, compass or GPS, sufficient water, and a snack. Tell someone your plan and expected return time. Be mindful of cold or rapidly changing weather; in bogs, visibility can be reduced by mist or rain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Moisture-wicking clothing and spare socks",
+      "Hat and gloves (cold weather)",
+      "Map or GPS device (and compass)",
+      "Walking poles (optional)",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Dry bag or waterproof backpack cover"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Bog Walk (Purple) – 8 km Moderate Hike in the UK",
+      "meta_description": "Explore the Bog Walk (Purple): an 8 km moderate hike through boggy terrain in the UK. Practical safety tips, terrain notes, and gear recommendations.",
+      "h1": "Bog Walk (Purple) – 8 km Moderate Hike in the UK"
+    }
+  }
+}

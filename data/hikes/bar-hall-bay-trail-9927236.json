@@ -1,0 +1,45 @@
+{
+  "id": "osm-9927236",
+  "slug": "bar-hall-bay-trail-9927236",
+  "name": "Bar Hall Bay Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3439063,
+    "lon": -5.5125198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9927236
+  },
+  "ai": {
+    "summary": "Bar Hall Bay Trail is a short, easy coastal loop in the UK, covering about 3.7 km with gentle scenery and sea views. The route suits families and casual walkers seeking a quick outdoor outing along the shoreline.",
+    "terrain_summary": "Predominantly coastal path with flat to gently undulating sections. Surfaces include paved or compacted earth, with occasional gravel and occasional muddy patches near the shoreline.",
+    "safety_notes": "Weather along the UK coast can change quickly. Be mindful of tides and wave spray; avoid venturing close to cliff edges. Wear sturdy footwear, dress in layers, and bring a waterproof jacket. Keep children under control, carry a map or offline navigation, stay hydrated, and have a small first-aid kit and snacks handy.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Hat and sunglasses",
+      "Water bottle",
+      "Snacks",
+      "Map or offline GPS/app",
+      "Small first-aid kit",
+      "Sunscreen",
+      "Lightweight pack rain cover"
+    ],
+    "best_seasons": "Spring to autumn (April–October) are best; milder weather and clearer sea views. Winter visits are possible with extra preparation for wind and rain.",
+    "seo": {
+      "title": "Bar Hall Bay Trail - Easy 3.7 km Coastal Walk in the UK",
+      "meta_description": "Experience Bar Hall Bay Trail, a 3.7 km easy coastal hike in the UK. Enjoy sea views, gentle terrain, and a family-friendly route along the shoreline.",
+      "h1": "Bar Hall Bay Trail: Easy Coastal Walk (3.7 km)"
+    }
+  }
+}

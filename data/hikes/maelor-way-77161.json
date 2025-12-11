@@ -1,0 +1,21 @@
+{
+  "id": "osm-77161",
+  "slug": "maelor-way-77161",
+  "name": "Maelor Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 97,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9295031,
+    "lon": -3.0961484
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77161
+  }
+}

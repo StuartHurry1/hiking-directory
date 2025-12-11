@@ -1,0 +1,46 @@
+{
+  "id": 13807073,
+  "slug": "gwinear-gwithian-fp-4-13807073",
+  "name": "Gwinear-Gwithian FP 4",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "name": "Gwinear-Gwithian FP 4",
+    "network": "lwn",
+    "prow_ref": "Gwinear-Gwithian FP 4",
+    "route": "foot",
+    "source:designation": "cornwall_council_prow_gis_data",
+    "source:prow_ref": "cornwall_council_prow_gis_data",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.3291433,
+      50.1732671
+    ],
+    [
+      -5.3291944,
+      50.1732374
+    ],
+    [
+      -5.3292772,
+      50.1731996
+    ],
+    [
+      -5.3293666,
+      50.1731332
+    ],
+    [
+      -5.3294965,
+      50.1729867
+    ],
+    [
+      -5.3294965,
+      50.1729867
+    ],
+    [
+      -5.3309798,
+      50.1712957
+    ]
+  ]
+}

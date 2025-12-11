@@ -1,0 +1,24 @@
+{
+  "id": "osm-17320572",
+  "slug": "king-charles-iii-england-coast-path-hunstanton-to-sutton-bridge-17320572",
+  "name": "King Charles III England Coast Path: Hunstanton to Sutton Bridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 97,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9427379,
+    "lon": 0.4874513
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17320572
+  }
+}

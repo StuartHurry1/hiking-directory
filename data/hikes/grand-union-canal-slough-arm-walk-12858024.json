@@ -1,0 +1,21 @@
+{
+  "id": "osm-12858024",
+  "slug": "grand-union-canal-slough-arm-walk-12858024",
+  "name": "Grand Union Canal (Slough Arm) Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.517612,
+    "lon": -0.4796637
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12858024
+  }
+}

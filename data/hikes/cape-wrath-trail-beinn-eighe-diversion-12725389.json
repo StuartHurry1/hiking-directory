@@ -1,0 +1,21 @@
+{
+  "id": "osm-12725389",
+  "slug": "cape-wrath-trail-beinn-eighe-diversion-12725389",
+  "name": "Cape Wrath Trail (Beinn Eighe Diversion)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5554659,
+    "lon": -5.4134655
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12725389
+  }
+}

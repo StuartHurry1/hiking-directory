@@ -1,0 +1,21 @@
+{
+  "id": "osm-19612181",
+  "slug": "murlough-north-point-nature-trail-19612181",
+  "name": "Murlough North Point Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2464967,
+    "lon": -5.8380858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19612181
+  }
+}

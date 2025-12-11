@@ -1,0 +1,23 @@
+{
+  "id": "osm-13753772",
+  "slug": "parkfield-oakmere-and-beyond-1-mile-walk-13753772",
+  "name": "Parkfield, Oakmere & Beyond 1 mile walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6960431,
+    "lon": -0.1756636
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13753772
+  }
+}

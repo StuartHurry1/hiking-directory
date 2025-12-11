@@ -1,0 +1,21 @@
+{
+  "id": "osm-13627304",
+  "slug": "jubilee-greenway-section-2-13627304",
+  "name": "Jubilee Greenway (section 2)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5210887,
+    "lon": -0.1838537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13627304
+  }
+}

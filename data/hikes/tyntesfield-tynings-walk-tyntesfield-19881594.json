@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881594",
+  "slug": "tyntesfield-tynings-walk-tyntesfield-19881594",
+  "name": "Tyntesfield Tynings Walk, Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4412315,
+    "lon": -2.7197894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881594
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19384206",
+  "slug": "lavenham-to-long-melford-railway-walk-lavenham-guildhall-19384206",
+  "name": "Lavenham to Long Melford Railway Walk, Lavenham Guildhall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1091114,
+    "lon": 0.7965547
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19384206
+  }
+}

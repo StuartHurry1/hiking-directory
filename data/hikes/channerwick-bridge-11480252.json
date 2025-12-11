@@ -1,0 +1,23 @@
+{
+  "id": "osm-11480252",
+  "slug": "channerwick-bridge-11480252",
+  "name": "Channerwick Bridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9927771,
+    "lon": -1.2755731
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480252
+  }
+}

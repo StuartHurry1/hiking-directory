@@ -1,0 +1,21 @@
+{
+  "id": "osm-8864",
+  "slug": "saxon-shore-way-8864",
+  "name": "Saxon Shore Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 664.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0821721,
+    "lon": 0.9645823
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8864
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-11506929",
+  "slug": "brae-community-woodland-11506929",
+  "name": "Brae Community Woodland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.397317,
+    "lon": -1.3496997
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506929
+  },
+  "ai": {
+    "summary": "A short, easy 1 km stroll through Brae Community Woodland in the UK, suitable for all ages. This peaceful, well-maintained trail offers a gentle introduction to local woodland wildlife and trees.",
+    "terrain_summary": "Mostly flat, well-maintained paths of packed earth and gravel. Expect occasional damp patches, exposed roots, or uneven sections after rain. The route is designed for easy walking and is accessible to most walkers.",
+    "safety_notes": "Stay on marked paths and respect private property. Check weather and ground conditions before you go; wear sturdy footwear with good grip; be prepared for mud or slippery surfaces after rain; monitor children and pets, and keep them within sight; be mindful of other trail users, including cyclists where paths are shared; carry water and a light layer for changing weather; bring a basic first aid kit and your phone in case of emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight first aid kit",
+      "Map or offline trail notes / GPS on your phone",
+      "Small backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal for dry trails and active wildlife; the path can be walked year-round, but expect mud and wetter conditions in winter.",
+    "seo": {
+      "title": "Brae Community Woodland: Easy 1 km Trail in the UK",
+      "meta_description": "Explore Brae Community Woodland with this short, easy 1 km hike in the UK. Learn about the terrain, safety tips, best seasons, and what gear to bring.",
+      "h1": "Brae Community Woodland: Easy 1 km Trail in the UK"
+    }
+  }
+}

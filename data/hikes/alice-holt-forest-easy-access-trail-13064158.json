@@ -1,0 +1,41 @@
+{
+  "id": "osm-13064158",
+  "slug": "alice-holt-forest-easy-access-trail-13064158",
+  "name": "Alice Holt Forest: Easy Access Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1630121,
+    "lon": -0.8338272
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13064158
+  },
+  "ai": {
+    "summary": "A short, flat 3.5 km loop through Alice Holt Forest designed for easy access and casual strolls, suitable for families and walkers of all abilities.",
+    "terrain_summary": "Mostly flat, well-maintained gravel and compacted earth paths. Gentle gradients with some roots near the surface. The route is generally stroller- and wheelchair-friendly on most sections, but check signage for any restricted areas. Expect routine forest terrain with shade and open sections.",
+    "safety_notes": "Stay on marked paths, watch for other walkers and cyclists, and be mindful of changing weather. Wear sturdy footwear, bring water, and use sun protection in warm weather. After rain surfaces may be slippery; check local notices for temporary closures.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection (sunscreen, hat)",
+      "Light rain jacket",
+      "Map or offline navigation app",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal for this trail; it is available year-round, though winter conditions can be muddy and daylight shorter.",
+    "seo": {
+      "title": "Alice Holt Forest Easy Access Trail — 3.5 km Family Walk in the UK",
+      "meta_description": "Discover the Easy Access Trail in Alice Holt Forest. A 3.5 km, beginner-friendly route in the UK offering a flat, accessible path suitable for families and casual walkers.",
+      "h1": "Alice Holt Forest Easy Access Trail — 3.5 km Easy Walk"
+    }
+  }
+}

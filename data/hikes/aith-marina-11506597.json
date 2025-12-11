@@ -1,0 +1,41 @@
+{
+  "id": "osm-11506597",
+  "slug": "aith-marina-11506597",
+  "name": "Aith Marina",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.286432,
+    "lon": -1.3788744
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506597
+  },
+  "ai": {
+    "summary": "A short, easy coastal stroll along a marina in the UK. The route is about 1.4 km round trip and stays on flat, well-maintained paths with marina views throughout.",
+    "terrain_summary": "Flat, paved marina promenade with occasional benches and railings. Expect smooth surfaces, with some wet or slippery patches after rain. Watch for exposed edges near the water and any uneven sections near docks.",
+    "safety_notes": "Weather and sea conditions can change quickly along coastal piers. Always stay on designated paths, keep children and pets under supervision, and be cautious of crowds, tides, and slippery surfaces. Wear appropriate footwear and bring a light layer if the breeze picks up. Have a charged phone for emergencies and check local notices for closures.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Hat and sunscreen",
+      "Mobile phone with emergency numbers",
+      "Light snack",
+      "Small daypack"
+    ],
+    "best_seasons": "Spring to autumn; summer usually offers the most favorable weather and visibility for marina views.",
+    "seo": {
+      "title": "Aith Marina Walk – Easy 1.4 km Coastal Path in the UK",
+      "meta_description": "Discover an easy 1.4 km coastal stroll at Aith Marina in the UK. Flat, scenic waterfront path, practical safety tips, and gear suggestions for a comfortable day out.",
+      "h1": "Aith Marina Easy 1.4 km Coastal Walk"
+    }
+  }
+}

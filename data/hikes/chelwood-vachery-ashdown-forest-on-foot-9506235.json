@@ -1,0 +1,21 @@
+{
+  "id": "osm-9506235",
+  "slug": "chelwood-vachery-ashdown-forest-on-foot-9506235",
+  "name": "Chelwood Vachery (Ashdown Forest on foot)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0526529,
+    "lon": 0.0302064
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9506235
+  }
+}

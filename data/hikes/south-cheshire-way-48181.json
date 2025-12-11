@@ -1,0 +1,21 @@
+{
+  "id": "osm-48181",
+  "slug": "south-cheshire-way-48181",
+  "name": "South Cheshire Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 109,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.984542,
+    "lon": -2.7135645
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 48181
+  }
+}

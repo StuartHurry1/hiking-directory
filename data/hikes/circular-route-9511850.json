@@ -1,0 +1,21 @@
+{
+  "id": "osm-9511850",
+  "slug": "circular-route-9511850",
+  "name": "Circular Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6252609,
+    "lon": 1.4453344
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9511850
+  }
+}

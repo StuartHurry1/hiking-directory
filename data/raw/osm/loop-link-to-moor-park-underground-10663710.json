@@ -1,0 +1,113 @@
+{
+  "id": 10663710,
+  "slug": "loop-link-to-moor-park-underground-10663710",
+  "name": "LOOP link to Moor Park Underground",
+  "network": "rwn",
+  "tags": {
+    "from": "LOOP section 13 / 14",
+    "name": "LOOP link to Moor Park Underground",
+    "network": "rwn",
+    "operator": "Three Rivers District Council",
+    "route": "foot",
+    "source": "Colin Saunders 'The London Loop' (Aurum Press 2017) ISBN 978 1 78131 561 3",
+    "symbol": "kestrel",
+    "to": "Moor Park Underground station",
+    "type": "route",
+    "website": "https://tfl.gov.uk/tube/stop/940GZZLUMPK/moor-park-underground-station/?Input=Moor+Park+Underground+Station",
+    "wikipedia:en": "Moor Park tube station"
+  },
+  "coordinates": [
+    [
+      -0.4279413,
+      51.6237913
+    ],
+    [
+      -0.4280189,
+      51.6240757
+    ],
+    [
+      -0.4280993,
+      51.6241856
+    ],
+    [
+      -0.4281932,
+      51.6242738
+    ],
+    [
+      -0.4282522,
+      51.6243671
+    ],
+    [
+      -0.4283691,
+      51.6244696
+    ],
+    [
+      -0.4284592,
+      51.6246108
+    ],
+    [
+      -0.4286341,
+      51.624927
+    ],
+    [
+      -0.4290619,
+      51.6255597
+    ],
+    [
+      -0.4304913,
+      51.6276519
+    ],
+    [
+      -0.4307465,
+      51.628127
+    ],
+    [
+      -0.4309119,
+      51.6283022
+    ],
+    [
+      -0.4309992,
+      51.6284525
+    ],
+    [
+      -0.4311991,
+      51.6286702
+    ],
+    [
+      -0.4312829,
+      51.6289037
+    ],
+    [
+      -0.4312829,
+      51.6289037
+    ],
+    [
+      -0.4313009,
+      51.6289319
+    ],
+    [
+      -0.4313009,
+      51.6289319
+    ],
+    [
+      -0.4314726,
+      51.6292065
+    ],
+    [
+      -0.4316383,
+      51.6293718
+    ],
+    [
+      -0.4317161,
+      51.6295599
+    ],
+    [
+      -0.431837,
+      51.6296564
+    ],
+    [
+      -0.4318853,
+      51.6298163
+    ]
+  ]
+}

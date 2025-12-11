@@ -1,0 +1,21 @@
+{
+  "id": "osm-6676879",
+  "slug": "thames-estuary-path-6676879",
+  "name": "Thames Estuary Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 69.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4622198,
+    "lon": 0.3538129
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6676879
+  }
+}

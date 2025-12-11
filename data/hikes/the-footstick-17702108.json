@@ -1,0 +1,21 @@
+{
+  "id": "osm-17702108",
+  "slug": "the-footstick-17702108",
+  "name": "The Footstick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8677196,
+    "lon": -7.0862596
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17702108
+  }
+}

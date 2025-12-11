@@ -1,0 +1,21 @@
+{
+  "id": "osm-3839785",
+  "slug": "woldingham-countryside-walk-3839785",
+  "name": "Woldingham Countryside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2869344,
+    "lon": -0.0490028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3839785
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-20702",
+  "slug": "stoop-link-path-4-stevenage-outer-orbital-path-link-20702",
+  "name": "STOOP Link Path 4 - Stevenage Outer Orbital Path Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8760251,
+    "lon": -0.1740227
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 20702
+  }
+}

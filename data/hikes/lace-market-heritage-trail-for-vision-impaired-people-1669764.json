@@ -1,0 +1,21 @@
+{
+  "id": "osm-1669764",
+  "slug": "lace-market-heritage-trail-for-vision-impaired-people-1669764",
+  "name": "Lace Market Heritage Trail for Vision Impaired People",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9508822,
+    "lon": -1.1437602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1669764
+  }
+}

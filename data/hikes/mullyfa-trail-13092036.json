@@ -1,0 +1,21 @@
+{
+  "id": "osm-13092036",
+  "slug": "mullyfa-trail-13092036",
+  "name": "Mullyfa Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6697037,
+    "lon": -7.8372758
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13092036
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19195478",
+  "slug": "todmorden-centenary-way-link-19195478",
+  "name": "Todmorden Centenary Way Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7072091,
+    "lon": -2.0927502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19195478
+  }
+}

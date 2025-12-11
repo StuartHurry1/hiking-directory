@@ -1,0 +1,23 @@
+{
+  "id": "osm-15589813",
+  "slug": "two-bridges-trail-15589813",
+  "name": "Two Bridges Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6339392,
+    "lon": -4.6757999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15589813
+  }
+}

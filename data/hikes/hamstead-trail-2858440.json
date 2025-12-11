@@ -1,0 +1,21 @@
+{
+  "id": "osm-2858440",
+  "slug": "hamstead-trail-2858440",
+  "name": "Hamstead Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7260685,
+    "lon": -1.421868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858440
+  }
+}

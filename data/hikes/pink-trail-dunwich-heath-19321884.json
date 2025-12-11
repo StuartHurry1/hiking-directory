@@ -1,0 +1,21 @@
+{
+  "id": "osm-19321884",
+  "slug": "pink-trail-dunwich-heath-19321884",
+  "name": "Pink Trail, Dunwich Heath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2515799,
+    "lon": 1.6283902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321884
+  }
+}

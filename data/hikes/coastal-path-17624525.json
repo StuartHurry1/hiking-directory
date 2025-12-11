@@ -1,0 +1,23 @@
+{
+  "id": "osm-17624525",
+  "slug": "coastal-path-17624525",
+  "name": "Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2561911,
+    "lon": -5.7866281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17624525
+  }
+}

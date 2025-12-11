@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507542",
+  "slug": "pettigarth-field-11507542",
+  "name": "Pettigarth field",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3601297,
+    "lon": -0.9489949
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507542
+  }
+}

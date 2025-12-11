@@ -1,0 +1,21 @@
+{
+  "id": "osm-11160181",
+  "slug": "loop-link-to-enfield-lock-station-11160181",
+  "name": "LOOP link to Enfield Lock station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6680586,
+    "lon": -0.0284474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11160181
+  }
+}

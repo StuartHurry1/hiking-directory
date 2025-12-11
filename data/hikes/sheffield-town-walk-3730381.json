@@ -1,0 +1,21 @@
+{
+  "id": "osm-3730381",
+  "slug": "sheffield-town-walk-3730381",
+  "name": "Sheffield Town Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3829827,
+    "lon": -1.4696281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3730381
+  }
+}

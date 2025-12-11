@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069643",
+  "slug": "derwent-valley-heritage-way-1069643",
+  "name": "Derwent Valley Heritage Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 453.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2136299,
+    "lon": -1.6136739
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069643
+  }
+}

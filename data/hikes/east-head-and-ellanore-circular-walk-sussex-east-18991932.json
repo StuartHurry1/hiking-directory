@@ -1,0 +1,21 @@
+{
+  "id": "osm-18991932",
+  "slug": "east-head-and-ellanore-circular-walk-sussex-east-18991932",
+  "name": "East Head and Ellanore Circular Walk, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7831862,
+    "lon": -0.9147944
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18991932
+  }
+}

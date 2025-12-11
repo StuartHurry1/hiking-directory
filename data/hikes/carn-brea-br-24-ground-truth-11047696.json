@@ -1,0 +1,21 @@
+{
+  "id": "osm-11047696",
+  "slug": "carn-brea-br-24-ground-truth-11047696",
+  "name": "Carn Brea BR 24 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2077934,
+    "lon": -5.2578886
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11047696
+  }
+}

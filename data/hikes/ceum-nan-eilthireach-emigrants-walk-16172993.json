@@ -1,0 +1,21 @@
+{
+  "id": "osm-16172993",
+  "slug": "ceum-nan-eilthireach-emigrants-walk-16172993",
+  "name": "Ceum nan Eilthireach / Emigrants' Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3485813,
+    "lon": -6.0647838
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16172993
+  }
+}

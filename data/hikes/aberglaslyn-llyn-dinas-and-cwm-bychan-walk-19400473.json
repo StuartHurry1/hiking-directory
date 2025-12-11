@@ -1,0 +1,46 @@
+{
+  "id": "osm-19400473",
+  "slug": "aberglaslyn-llyn-dinas-and-cwm-bychan-walk-19400473",
+  "name": "Aberglaslyn, Llyn Dinas and Cwm Bychan walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9949292,
+    "lon": -4.0917221
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400473
+  },
+  "ai": {
+    "summary": "A challenging 38 km circuit in Snowdonia that links Aberglaslyn Gorge, Llyn Dinas and Cwm Bychan. This hard hike combines long ridge lines, forest tracks, rocky paths and lakeside sections with substantial elevation gain. The route offers dramatic scenery—from rugged gorges and woodlands to sweeping mountain views—yet demands good fitness, solid navigation, and reliable gear for a full day (or longer) on varied terrain.",
+    "terrain_summary": "Varied terrain across the day: forest tracks through woodland, open moorland, rocky ascents, and long exposed paths. Expect river crossings near Aberglaslyn, boggy stretches around Cwm Bychan, and gentle detours along the lakeside. Navigation is essential as some segments are not fully waymarked and weather can obscure trails. Elevation gains are substantial, with steep climbs and long descents.",
+    "safety_notes": "This is a long, strenuous day on mixed terrain. Start early and allow ample daylight. Welsh weather can change rapidly; bring waterproofs, warm layers, hat and gloves. Carry a detailed map or GPS and know your route since some parts are poorly waymarked. Plan for sufficient water and food; be prepared for boggy ground and occasional rocky scrambles. Be mindful of stream crossings after rain. Wear sturdy boots with good grip. Let someone know your plans and expected return. If visibility is poor or storms approach, consider turning back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable layered clothing plus a waterproof outer shell",
+      "Warm mid-layer and hat/gloves for cooler conditions",
+      "Water bottle or hydration system (2–3 litres)",
+      "Map and compass or GPS device, plus a planned route and exit strategy",
+      "Headlamp or torch with spare batteries",
+      "Lightweight emergency blanket or space blanket",
+      "First aid kit with blister care and basic supplies",
+      "Energy-rich snacks and meals for a long day",
+      "Whistle and, if hiking alone, a personal locator option",
+      "Sunscreen and sunglasses",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the best daylight, drier conditions and clearer trails. The hike is possible in winter for experienced hikers, but expect shorter days, colder temperatures, more mud or snow, and higher avalanche or flooding risk.",
+    "seo": {
+      "title": "Aberglaslyn, Llyn Dinas & Cwm Bychan Walk — 38 km Hard Trek in Snowdonia, North Wales",
+      "meta_description": "A demanding 38 km circuit visiting Aberglaslyn Gorge, Llyn Dinas and Cwm Bychan in Snowdonia. Learn about terrain, safety, gear and the best seasons for this challenging long-distance hike.",
+      "h1": "Aberglaslyn, Llyn Dinas and Cwm Bychan Walk (38 km, Hard)"
+    }
+  }
+}

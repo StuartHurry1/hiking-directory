@@ -1,0 +1,21 @@
+{
+  "id": "osm-4035126",
+  "slug": "london-loop-section-21-4035126",
+  "name": "London LOOP (Section 21)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5928791,
+    "lon": 0.2327439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4035126
+  }
+}

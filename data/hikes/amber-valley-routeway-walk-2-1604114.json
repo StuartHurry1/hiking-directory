@@ -1,0 +1,44 @@
+{
+  "id": "osm-1604114",
+  "slug": "amber-valley-routeway-walk-2-1604114",
+  "name": "Amber Valley Routeway Walk 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9809327,
+    "lon": -1.4248426
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1604114
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 2 is a 9.1 km moderate hike in the UK, likely part of the Amber Valley Routeway series. The route offers a mix of rural paths and minor lanes, suitable for walkers with some experience.",
+    "terrain_summary": "Expect a mix of well-trodden paths, grassy field edges, and minor country roads. The surface can be uneven and may be muddy after rain. Stiles, gentle inclines, and occasional gateways are possible. Good footwear and a basic map are recommended.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear sturdy boots and appropriate clothing. Stay on designated paths and follow local signs. Be mindful of livestock on rural routes, and give way to other users. Carry a map or GPS, bring water and snacks, and let someone know your plans. Have a small first aid kit and a charged mobile phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Map or offline navigation (GPS)",
+      "Phone with emergency numbers and a power bank",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Sun protection (hat and sunscreen)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 2 – 9.1 km Moderate Hike in the UK",
+      "meta_description": "Explore Amber Valley Routeway Walk 2, a 9.1 km moderate hike in the UK. A mix of rural paths, minor roads and scenic countryside along the Amber Valley Routeway.",
+      "h1": "Amber Valley Routeway Walk 2"
+    }
+  }
+}

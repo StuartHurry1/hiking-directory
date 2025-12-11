@@ -1,0 +1,21 @@
+{
+  "id": "osm-19455173",
+  "slug": "hambleden-valley-turville-and-fingest-central-chilterns-19455173",
+  "name": "Hambleden Valley, Turville and Fingest, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.613372,
+    "lon": -0.8790062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19455173
+  }
+}

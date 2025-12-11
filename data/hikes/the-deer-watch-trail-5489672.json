@@ -1,0 +1,21 @@
+{
+  "id": "osm-5489672",
+  "slug": "the-deer-watch-trail-5489672",
+  "name": "The Deer Watch Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8759914,
+    "lon": -1.6567851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5489672
+  }
+}

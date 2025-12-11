@@ -1,0 +1,21 @@
+{
+  "id": "osm-19894230",
+  "slug": "leith-hill-heathland-walk-leith-hill-19894230",
+  "name": "Leith Hill Heathland Walk, Leith Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1763116,
+    "lon": -0.371284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19894230
+  }
+}

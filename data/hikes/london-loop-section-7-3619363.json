@@ -1,0 +1,21 @@
+{
+  "id": "osm-3619363",
+  "slug": "london-loop-section-7-3619363",
+  "name": "London LOOP (Section 7)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.337111,
+    "lon": -0.2112895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3619363
+  }
+}

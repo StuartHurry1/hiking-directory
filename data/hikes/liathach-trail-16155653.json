@@ -1,0 +1,21 @@
+{
+  "id": "osm-16155653",
+  "slug": "liathach-trail-16155653",
+  "name": "Liathach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5526646,
+    "lon": -5.4514079
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16155653
+  }
+}

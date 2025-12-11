@@ -1,0 +1,21 @@
+{
+  "id": "osm-19064051",
+  "slug": "clumber-park-livestock-free-walk-clumber-park-19064051",
+  "name": "Clumber Park Livestock-Free Walk, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2655767,
+    "lon": -1.062425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19064051
+  }
+}

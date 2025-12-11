@@ -1,0 +1,21 @@
+{
+  "id": "osm-19177179",
+  "slug": "worksop-walk-mr-straws-house-19177179",
+  "name": "Worksop Walk, Mr Straw's House",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.306579,
+    "lon": -1.1157218
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19177179
+  }
+}

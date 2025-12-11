@@ -1,0 +1,21 @@
+{
+  "id": "osm-8132401",
+  "slug": "willow-tree-fen-yellow-short-route-8132401",
+  "name": "Willow Tree Fen Yellow short route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7725728,
+    "lon": -0.2559165
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8132401
+  }
+}

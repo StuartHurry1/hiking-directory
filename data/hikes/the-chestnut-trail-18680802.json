@@ -1,0 +1,21 @@
+{
+  "id": "osm-18680802",
+  "slug": "the-chestnut-trail-18680802",
+  "name": "The Chestnut Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9590328,
+    "lon": -1.3865042
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18680802
+  }
+}

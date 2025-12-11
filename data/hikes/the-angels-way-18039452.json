@@ -1,0 +1,21 @@
+{
+  "id": "osm-18039452",
+  "slug": "the-angels-way-18039452",
+  "name": "The Angel's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 99.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0848098,
+    "lon": -1.4864285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18039452
+  }
+}

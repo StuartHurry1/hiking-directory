@@ -1,0 +1,21 @@
+{
+  "id": "osm-17948881",
+  "slug": "h100-shadforth-17948881",
+  "name": "H100 - Shadforth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7625223,
+    "lon": -1.4669166
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17948881
+  }
+}

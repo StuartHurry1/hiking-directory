@@ -1,0 +1,21 @@
+{
+  "id": "osm-3209149",
+  "slug": "marton-west-beck-3209149",
+  "name": "Marton West Beck",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5324282,
+    "lon": -1.2171028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3209149
+  }
+}

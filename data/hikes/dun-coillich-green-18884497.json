@@ -1,0 +1,21 @@
+{
+  "id": "osm-18884497",
+  "slug": "dun-coillich-green-18884497",
+  "name": "Dun Coillich Green",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6514869,
+    "lon": -4.0135693
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18884497
+  }
+}

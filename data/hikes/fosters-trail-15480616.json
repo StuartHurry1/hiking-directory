@@ -1,0 +1,21 @@
+{
+  "id": "osm-15480616",
+  "slug": "fosters-trail-15480616",
+  "name": "Fosters Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1393054,
+    "lon": -2.0092885
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15480616
+  }
+}

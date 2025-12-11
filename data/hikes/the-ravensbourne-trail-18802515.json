@@ -1,0 +1,21 @@
+{
+  "id": "osm-18802515",
+  "slug": "the-ravensbourne-trail-18802515",
+  "name": "The Ravensbourne Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3646807,
+    "lon": 0.0282939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18802515
+  }
+}

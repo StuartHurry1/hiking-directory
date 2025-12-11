@@ -1,0 +1,21 @@
+{
+  "id": "osm-18753527",
+  "slug": "thames-path-kew-gardens-diverted-due-to-bank-collapse-18753527",
+  "name": "Thames Path Kew Gardens diverted due to bank collapse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4626854,
+    "lon": -0.3167988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18753527
+  }
+}

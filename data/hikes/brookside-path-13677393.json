@@ -1,0 +1,39 @@
+{
+  "id": "osm-13677393",
+  "slug": "brookside-path-13677393",
+  "name": "Brookside Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3189476,
+    "lon": -1.9124097
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13677393
+  },
+  "ai": {
+    "summary": "A very short, easy riverside stroll along Brookside Path in the UK. At only 0.1 km, it’s ideal for a quick outdoor moment, families with small children, or a gentle stretch between activities.",
+    "terrain_summary": "Mostly flat and smooth underfoot, with a mix of pavement and compacted earth. Expect occasional damp patches after rain and some areas that may be slick in wet weather.",
+    "safety_notes": "Despite the short distance, stay aware of your surroundings: watch for uneven surfaces, slippery patches when wet, and other path users. Wear sturdy footwear, bring a light layer, check the forecast, and keep children within sight. Carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Phone or map",
+      "Sunscreen and hat (for sunny days)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring to early autumn.",
+    "seo": {
+      "title": "Brookside Path - Easy 0.1 km Walk in the UK",
+      "meta_description": "Explore Brookside Path, a short and easy 0.1 km hike in the UK. Learn about terrain, safety tips, and what to bring for a quick outdoor break.",
+      "h1": "Brookside Path: Easy 0.1 km Walk in the UK"
+    }
+  }
+}

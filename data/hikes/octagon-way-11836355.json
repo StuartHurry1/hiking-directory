@@ -1,0 +1,21 @@
+{
+  "id": "osm-11836355",
+  "slug": "octagon-way-11836355",
+  "name": "Octagon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8817789,
+    "lon": -0.9202146
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11836355
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-18215488",
+  "slug": "the-woottons-circular-18215488",
+  "name": "The Woottons Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7777994,
+    "lon": 0.4308152
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18215488
+  }
+}

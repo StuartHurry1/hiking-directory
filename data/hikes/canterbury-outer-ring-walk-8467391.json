@@ -1,0 +1,21 @@
+{
+  "id": "osm-8467391",
+  "slug": "canterbury-outer-ring-walk-8467391",
+  "name": "Canterbury Outer Ring Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.300365,
+    "lon": 1.1192842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8467391
+  }
+}

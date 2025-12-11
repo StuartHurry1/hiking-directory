@@ -1,0 +1,21 @@
+{
+  "id": "osm-3726859",
+  "slug": "sheffield-round-walk-3726859",
+  "name": "Sheffield Round Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 48,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3573765,
+    "lon": -1.500252
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3726859
+  }
+}

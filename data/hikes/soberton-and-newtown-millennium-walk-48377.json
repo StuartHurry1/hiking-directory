@@ -1,0 +1,21 @@
+{
+  "id": "osm-48377",
+  "slug": "soberton-and-newtown-millennium-walk-48377",
+  "name": "Soberton and Newtown Millennium Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9257662,
+    "lon": -1.1488057
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 48377
+  }
+}

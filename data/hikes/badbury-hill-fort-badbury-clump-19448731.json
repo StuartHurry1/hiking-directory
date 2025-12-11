@@ -1,0 +1,41 @@
+{
+  "id": "osm-19448731",
+  "slug": "badbury-hill-fort-badbury-clump-19448731",
+  "name": "Badbury Hill Fort, Badbury Clump",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6491372,
+    "lon": -1.6235585
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19448731
+  },
+  "ai": {
+    "summary": "A short, easy 2 km hike around Badbury Hill Fort and Badbury Clump in the UK. Suitable for beginners and families, the route follows grassy paths past ancient hill fort remains and offers countryside views.",
+    "terrain_summary": "Predominantly grassy, well-defined paths with occasional uneven patches around the hill fort. Some gentle ascents and descents; surfaces can be slippery when wet.",
+    "safety_notes": "Wear sturdy footwear and watch for uneven ground near earthworks. Check weather and carry rain gear; paths can be muddy. Stay on marked paths and respect the site. Bring water, sun protection in summer, and a charged phone or map for navigation.",
+    "recommended_gear": [
+      "Sturdy walking footwear",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Hat and sun protection",
+      "Map or offline map / charged phone",
+      "Light backpack",
+      "Snack"
+    ],
+    "best_seasons": "Spring to autumn; visits in winter are possible but can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Badbury Hill Fort & Badbury Clump – Easy 2 km Hike in the UK",
+      "meta_description": "Explore an easy 2 km hike around Badbury Hill Fort and Badbury Clump in the UK. Gentle grassy paths, historic earthworks, and countryside views—perfect for beginners and families.",
+      "h1": "Badbury Hill Fort, Badbury Clump – 2 km Easy Hike"
+    }
+  }
+}

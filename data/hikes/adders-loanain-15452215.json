@@ -1,0 +1,40 @@
+{
+  "id": "osm-15452215",
+  "slug": "adders-loanain-15452215",
+  "name": "Adders Loanain",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2923465,
+    "lon": -6.043721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15452215
+  },
+  "ai": {
+    "summary": "Adders Loanain is a short, easy 1.2 km hike in the UK. This beginner-friendly trail is ideal for families and casual walkers, offering gentle terrain, light elevation, and pleasant scenery along a well-marked route.",
+    "terrain_summary": "The trail combines well-maintained paths with short stretches of grassy or earth track. Expect a mix of compact gravel, packed soil, and occasional muddy patches after rain. Elevation is minimal, with a gentle rise and optional viewpoints along the way.",
+    "safety_notes": "Always check the weather before you go and wear sturdy footwear with good grip. Stay on marked paths, as conditions can be uneven and livestock or wildlife may be present in rural areas. Bring water, dress in layers, and be cautious on muddy sections after rain. Keep dogs under control and be mindful of other hikers.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots with good grip",
+      "Water bottle (at least 500 ml)",
+      "Weather-appropriate clothing (layers; wind and waterproof jacket if rain is forecast)",
+      "Small daypack for essentials",
+      "Map or offline navigation (or a fully charged phone with GPS)",
+      "Snack for energy and a small first-aid kit (optional)"
+    ],
+    "best_seasons": "Year-round; however, late spring to early autumn typically offers longer daylight and drier conditions, making the hike most comfortable.",
+    "seo": {
+      "title": "Adders Loanain – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore Adders Loanain, a short and easy 1.2 km hike in the UK. Perfect for beginners and families, with gentle terrain and pleasant countryside scenery.",
+      "h1": "Adders Loanain: Easy 1.2 km Hike in the UK"
+    }
+  }
+}

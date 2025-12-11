@@ -1,0 +1,23 @@
+{
+  "id": "osm-19356159",
+  "slug": "headon-warren-walk-isle-of-wight-19356159",
+  "name": "Headon Warren Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.671535,
+    "lon": -1.5593516
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19356159
+  }
+}

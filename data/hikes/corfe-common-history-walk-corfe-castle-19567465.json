@@ -1,0 +1,21 @@
+{
+  "id": "osm-19567465",
+  "slug": "corfe-common-history-walk-corfe-castle-19567465",
+  "name": "Corfe Common history walk, Corfe Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6384775,
+    "lon": -2.0576171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567465
+  }
+}

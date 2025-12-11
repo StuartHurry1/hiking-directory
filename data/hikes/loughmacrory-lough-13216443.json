@@ -1,0 +1,21 @@
+{
+  "id": "osm-13216443",
+  "slug": "loughmacrory-lough-13216443",
+  "name": "LOUGHMACRORY LOUGH",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6284555,
+    "lon": -7.1064973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216443
+  }
+}

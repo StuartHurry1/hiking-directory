@@ -1,0 +1,23 @@
+{
+  "id": "osm-17245344",
+  "slug": "king-charles-iii-england-coast-path-cleveleys-to-liverpool-17245344",
+  "name": "King Charles III England Coast Path: Cleveleys to Liverpool",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 143.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6867892,
+    "lon": -2.8252653
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17245344
+  }
+}

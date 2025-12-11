@@ -1,0 +1,48 @@
+{
+  "id": "osm-1704162",
+  "slug": "acw-circular-walk-20-1704162",
+  "name": "ACW Circular Walk 20",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4399454,
+    "lon": -1.6253224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1704162
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 20 is a challenging 16.8 km circular hike in the UK designed for experienced walkers. The route combines long distances with varied and steep terrain, requiring good fitness, navigation skills, and sturdy footwear.",
+    "terrain_summary": "Mix of muddy field tracks, grassy ascents, rocky sections, and exposed viewpoints. Expect uneven footing, roots, and some steep climbs.",
+    "safety_notes": "Hard-level hike: plan for changing conditions. Check weather and daylight; carry a detailed map and compass (GPS as backup). Stay on marked paths; tell someone your route and expected finish time. Allow 5–7 hours depending on pace. Bring enough water and high-energy food. Wear sturdy waterproof boots and dress in layers; be prepared for rain, wind, and cold. Mobile signal can be limited in remote parts; carry a whistle and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Weatherproof jacket and warm layers",
+      "Warm hat and gloves",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks and a meal",
+      "Map and compass (and GPS as backup)",
+      "Whistle",
+      "Basic first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Lightweight rain pants and extra mid-layer",
+      "Sunscreen and sunglasses",
+      "Mobile phone with portable charger",
+      "Emergency shelter or bivvy bag (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn; winter conditions can be severe and are recommended only for experienced hikers.",
+    "seo": {
+      "title": "ACW Circular Walk 20 – 16.8 km Hard Circular Hike in the UK",
+      "meta_description": "Plan your challenge with ACW Circular Walk 20: a 16.8 km hard circular hike in the UK. Learn about terrain, safety tips, and gear for this demanding route.",
+      "h1": "ACW Circular Walk 20"
+    }
+  }
+}

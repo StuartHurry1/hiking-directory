@@ -1,0 +1,48 @@
+{
+  "id": "osm-2835676",
+  "slug": "ashridge-boundary-trail-ashridge-estate-2835676",
+  "name": "Ashridge Boundary Trail, Ashridge Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.6,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8189513,
+    "lon": -0.5765391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2835676
+  },
+  "ai": {
+    "summary": "A challenging 66.6 km ridge-focused hike around Ashridge Estate in the UK, combining long ridgelines, woodland paths and rolling hills. Designed for experienced hikers, this hard route demands endurance, solid navigation and good weather planning to enjoy dramatic viewpoints and varied terrain.",
+    "terrain_summary": "Predominantly exposed ridges with uneven, grassy tracks and occasional rocky sections. Expect a mix of gravel paths, chalk trails, and forested segments. Elevation gain is substantial, and conditions can be variable and slippery when wet. Views from ridge crests are rewarding, but navigation is important in open sections.",
+    "safety_notes": "Plan for variable UK weather and limited daylight on longer legs; carry enough food and water; tell someone your route and timings; navigation skills are essential as the course includes ridge sections with potentially poor wayfinding in dense cover. Wear sturdy boots and use trekking poles if needed. Phone signal may be unreliable in remote stretches. In case of injury or severe weather, descend to the nearest trailhead and seek local assistance.",
+    "recommended_gear": [
+      "Map and compass",
+      "Sturdy waterproof hiking boots",
+      "Layered clothing + waterproof/windproof jacket",
+      "Warm hat and gloves",
+      "Backpack with hydration system or at least 2 L water and energy snacks",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Emergency bivy or space blanket",
+      "Trekking poles (optional but helpful on long ridges)",
+      "Fully charged phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (March–October) is ideal; winters can bring cold, wind, and slippery conditions on exposed ridges, so plan accordingly.",
+    "seo": {
+      "title": "Ashridge Boundary Trail – 66.6 km Ridge Trek in Ashridge Estate, UK",
+      "meta_description": "Discover the 66.6 km Ashridge Boundary Trail around Ashridge Estate in the UK. A challenging ridge hike with terrain, safety tips, and gear recommendations for an endurance-ready trek.",
+      "h1": "Ashridge Boundary Trail – 66.6 km Ridge Trek in Ashridge Estate"
+    }
+  }
+}

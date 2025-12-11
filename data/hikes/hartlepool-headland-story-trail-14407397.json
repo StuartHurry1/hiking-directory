@@ -1,0 +1,21 @@
+{
+  "id": "osm-14407397",
+  "slug": "hartlepool-headland-story-trail-14407397",
+  "name": "Hartlepool Headland Story Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7034732,
+    "lon": -1.1929064
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14407397
+  }
+}

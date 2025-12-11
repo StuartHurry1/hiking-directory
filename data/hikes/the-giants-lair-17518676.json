@@ -1,0 +1,21 @@
+{
+  "id": "osm-17518676",
+  "slug": "the-giants-lair-17518676",
+  "name": "The Giant's Lair",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1111738,
+    "lon": -6.4133411
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17518676
+  }
+}

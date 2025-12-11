@@ -1,0 +1,21 @@
+{
+  "id": "osm-18844657",
+  "slug": "forkhill-greenspace-pathway-18844657",
+  "name": "Forkhill Greenspace Pathway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0795962,
+    "lon": -6.4537357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18844657
+  }
+}

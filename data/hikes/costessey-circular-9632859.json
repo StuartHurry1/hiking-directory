@@ -1,0 +1,21 @@
+{
+  "id": "osm-9632859",
+  "slug": "costessey-circular-9632859",
+  "name": "Costessey Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6517633,
+    "lon": 1.2379488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9632859
+  }
+}

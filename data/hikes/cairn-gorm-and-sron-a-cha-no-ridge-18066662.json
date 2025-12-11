@@ -1,0 +1,46 @@
+{
+  "id": "osm-18066662",
+  "slug": "cairn-gorm-and-sron-a-cha-no-ridge-18066662",
+  "name": "Cairn Gorm & Sron a Cha-no Ridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1332435,
+    "lon": -3.6687733
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18066662
+  },
+  "ai": {
+    "summary": "A 6.7 km ridge traverse on the Cairn Gorm massif to the Sron a’ Cha-no Ridge in the Scottish Highlands. The route features exposed summits, panoramic views, and moderate scrambling, ideal for hikers with some ridge experience.",
+    "terrain_summary": "Ridge terrain with exposed sections, rocky slabs, and uneven footing. Expect windy conditions, potential boggy patches, and variable weather; navigation on the ridge is important.",
+    "safety_notes": "Weather on Scottish ridges can change rapidly; carry map and compass and know how to use them. Stay roped to the line on exposed sections, avoid if winds are high or visibility is poor, and turn back if uncomfortable. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof, windproof jacket and insulating layer",
+      "Ridge or climbing helmet (optional but recommended for exposed sections)",
+      "Map and compass (GPS as backup)",
+      "Whistle and fully charged phone with emergency numbers",
+      "Headlamp with spare batteries",
+      "Gloves and warm hat",
+      "Extra food and 1–2 liters of water per person",
+      "Rucksack with waterproof cover",
+      "Walking poles (helpful on uneven ground and exposed sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) are typically the best windows for ridge hiking in this area; winter conditions require mountaineering experience and appropriate gear.",
+    "seo": {
+      "title": "Cairn Gorm & Sron a Cha-no Ridge Hike - 6.7 km Ridge Walk in the Scottish Highlands",
+      "meta_description": "Explore the Cairn Gorm & Sron a Cha-no Ridge, a 6.7 km moderate ridge hike in the Scottish Highlands. Terrain, safety tips, gear recommendations, and best-season guidance.",
+      "h1": "Cairn Gorm & Sron a Cha-no Ridge - 6.7 km Ridge Hike"
+    }
+  }
+}

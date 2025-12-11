@@ -1,0 +1,21 @@
+{
+  "id": "osm-1015887",
+  "slug": "newry-canal-way-1015887",
+  "name": "Newry Canal Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 81.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3432222,
+    "lon": -6.3652617
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1015887
+  }
+}

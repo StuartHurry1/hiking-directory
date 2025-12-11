@@ -1,0 +1,21 @@
+{
+  "id": "osm-5532629",
+  "slug": "locks-and-levels-scc-5532629",
+  "name": "Locks and Levels (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3566762,
+    "lon": -0.4818014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5532629
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12559655",
+  "slug": "the-orange-route-12559655",
+  "name": "The Orange Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2727998,
+    "lon": -2.0873272
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12559655
+  }
+}

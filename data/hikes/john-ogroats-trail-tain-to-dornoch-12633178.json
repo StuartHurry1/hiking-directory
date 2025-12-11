@@ -1,0 +1,21 @@
+{
+  "id": "osm-12633178",
+  "slug": "john-ogroats-trail-tain-to-dornoch-12633178",
+  "name": "John O'Groats Trail (Tain to Dornoch)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.8133122,
+    "lon": -4.0572611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12633178
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506928",
+  "slug": "lower-voe-11506928",
+  "name": "Lower Voe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3512603,
+    "lon": -1.2615957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506928
+  }
+}

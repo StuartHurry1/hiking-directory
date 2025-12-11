@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217679",
+  "slug": "walk-at-pamphill-and-cowgrove-kingston-lacy-19217679",
+  "name": "Walk at Pamphill and Cowgrove, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8060634,
+    "lon": -2.0155538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217679
+  }
+}

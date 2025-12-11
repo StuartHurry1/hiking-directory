@@ -1,0 +1,21 @@
+{
+  "id": "osm-7610425",
+  "slug": "hebridean-way-hiking-7610425",
+  "name": "Hebridean Way (Hiking)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 565.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.939509,
+    "lon": -7.5425808
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7610425
+  }
+}

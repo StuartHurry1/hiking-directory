@@ -1,0 +1,21 @@
+{
+  "id": "osm-16146008",
+  "slug": "the-glen-vale-path-16146008",
+  "name": "The Glen Vale Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.218416,
+    "lon": -3.255767
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16146008
+  }
+}

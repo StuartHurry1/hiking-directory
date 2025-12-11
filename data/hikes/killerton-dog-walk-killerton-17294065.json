@@ -1,0 +1,21 @@
+{
+  "id": "osm-17294065",
+  "slug": "killerton-dog-walk-killerton-17294065",
+  "name": "Killerton Dog Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17294065
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8483542",
+  "slug": "cotswold-way-selsley-common-route-8483542",
+  "name": "Cotswold Way (Selsley Common route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7399508,
+    "lon": -2.2716425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8483542
+  }
+}

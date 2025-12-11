@@ -1,0 +1,21 @@
+{
+  "id": "osm-10334420",
+  "slug": "camborne-fp-55-10334420",
+  "name": "Camborne FP 55",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1903511,
+    "lon": -5.2645033
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10334420
+  }
+}

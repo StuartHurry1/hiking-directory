@@ -1,0 +1,21 @@
+{
+  "id": "osm-12796970",
+  "slug": "shenley-route-5-12796970",
+  "name": "Shenley Route 5",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7015207,
+    "lon": -0.2963591
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12796970
+  }
+}

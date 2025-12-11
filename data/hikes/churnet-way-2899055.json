@@ -1,0 +1,21 @@
+{
+  "id": "osm-2899055",
+  "slug": "churnet-way-2899055",
+  "name": "Churnet Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0949495,
+    "lon": -2.0503009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2899055
+  }
+}

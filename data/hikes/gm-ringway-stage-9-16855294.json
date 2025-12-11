@@ -1,0 +1,21 @@
+{
+  "id": "osm-16855294",
+  "slug": "gm-ringway-stage-9-16855294",
+  "name": "GM Ringway Stage 9",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5385514,
+    "lon": -2.0145172
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16855294
+  }
+}

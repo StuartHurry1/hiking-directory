@@ -1,0 +1,21 @@
+{
+  "id": "osm-15622848",
+  "slug": "mcsherrys-lane-15622848",
+  "name": "McSherry's Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2678925,
+    "lon": -5.9087947
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15622848
+  }
+}

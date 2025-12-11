@@ -1,0 +1,21 @@
+{
+  "id": "osm-18544819",
+  "slug": "connswater-community-greenway-18544819",
+  "name": "Connswater Community Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5885938,
+    "lon": -5.8790513
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18544819
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19527329",
+  "slug": "dinas-oleu-walk-barmouth-19527329",
+  "name": "Dinas Oleu Walk, Barmouth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7220927,
+    "lon": -4.0534176
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19527329
+  }
+}

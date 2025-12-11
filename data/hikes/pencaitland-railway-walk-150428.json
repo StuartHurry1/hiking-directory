@@ -1,0 +1,21 @@
+{
+  "id": "osm-150428",
+  "slug": "pencaitland-railway-walk-150428",
+  "name": "Pencaitland Railway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.894829,
+    "lon": -2.8836913
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 150428
+  }
+}

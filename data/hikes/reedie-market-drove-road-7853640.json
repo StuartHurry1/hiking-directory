@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853640",
+  "slug": "reedie-market-drove-road-7853640",
+  "name": "Reedie Market Drove Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6480663,
+    "lon": -3.1180576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853640
+  }
+}

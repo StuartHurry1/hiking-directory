@@ -1,0 +1,40 @@
+{
+  "id": "osm-19709894",
+  "slug": "bcn-walks-titford-canal-19709894",
+  "name": "BCN Walks- Titford Canal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5013461,
+    "lon": -2.009768
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19709894
+  },
+  "ai": {
+    "summary": "A gentle 3.5 km canal-side stroll along the Titford Canal, part of the BCN Walks series in the UK. The route follows flat towpaths beside quiet water, making it an easy option for walkers of most ages and fitness levels.",
+    "terrain_summary": "Flat, surfaced towpath with minimal elevation gain. Expect a smooth surface most of the way, with occasional wet or muddy patches after rain and some sections near locks that may be uneven.",
+    "safety_notes": "Share the path with cyclists and other pedestrians; keep to the left and stay aware of surroundings. Watch for wet or uneven surfaces after rain. Stay away from canal edges, especially with children or pets. Dress for changeable UK weather; carry a light layer and rain protection. Bring a charged phone and emergency contact information.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle",
+      "Sunscreen and hat (for sunny days)",
+      "Phone or camera for photos",
+      "Light snack and small backpack"
+    ],
+    "best_seasons": "All year; best in spring and summer for milder weather.",
+    "seo": {
+      "title": "BCN Walks Titford Canal Walk – 3.5 km Easy UK Canal Trail",
+      "meta_description": "Explore a 3.5 km easy canal walk along Titford Canal in the UK. Flat towpaths, water views, and beginner-friendly terrain with practical safety and gear tips.",
+      "h1": "Titford Canal Walk (BCN Walks) – 3.5 km Easy UK Canal Trail"
+    }
+  }
+}

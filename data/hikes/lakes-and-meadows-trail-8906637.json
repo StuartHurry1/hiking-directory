@@ -1,0 +1,23 @@
+{
+  "id": "osm-8906637",
+  "slug": "lakes-and-meadows-trail-8906637",
+  "name": "Lakes and Meadows Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3061493,
+    "lon": -0.6248447
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8906637
+  }
+}

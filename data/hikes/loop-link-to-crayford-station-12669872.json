@@ -1,0 +1,21 @@
+{
+  "id": "osm-12669872",
+  "slug": "loop-link-to-crayford-station-12669872",
+  "name": "LOOP link to Crayford station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4517875,
+    "lon": 0.1784565
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12669872
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217510",
+  "slug": "walk-at-pamphill-green-and-moor-kingston-lacy-19217510",
+  "name": "Walk at Pamphill Green and Moor, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8040921,
+    "lon": -2.0126435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217510
+  }
+}

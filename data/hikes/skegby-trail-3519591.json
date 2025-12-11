@@ -1,0 +1,21 @@
+{
+  "id": "osm-3519591",
+  "slug": "skegby-trail-3519591",
+  "name": "Skegby Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1347944,
+    "lon": -1.2260225
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3519591
+  }
+}

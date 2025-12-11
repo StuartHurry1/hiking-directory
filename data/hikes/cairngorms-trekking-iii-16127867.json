@@ -1,0 +1,41 @@
+{
+  "id": "osm-16127867",
+  "slug": "cairngorms-trekking-iii-16127867",
+  "name": "Cairngorms Trekking III",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0956379,
+    "lon": -3.6492809
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127867
+  },
+  "ai": {
+    "summary": "Cairngorms Trekking III is a short, easy hike in the UK designed for beginners and casual walkers. Spanning only 0.1 km, it offers a quick outdoor experience with gentle terrain and light scenery.",
+    "terrain_summary": "Flat, well-marked path with minimal elevation gain. Surface is typically grass or gravel, with occasional muddy patches after rain; some sections may pass through open moorland or light woodland.",
+    "safety_notes": "Check the weather before you go; UK conditions can change quickly. Stay on marked paths, wear sturdy waterproof footwear, and bring layered, weather-appropriate clothing. Carry a small first aid kit, a fully charged phone, and let someone know your plan.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Lightweight waterproof jacket and layered clothing",
+      "Water bottle or hydration system",
+      "Map or offline navigation (or smartphone with offline map)",
+      "Small first aid kit",
+      "Snacks for quick energy",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Year-round, with the mildest conditions typically in spring to autumn; in winter be prepared for cold, wind, and possible ice.",
+    "seo": {
+      "title": "Cairngorms Trekking III: Short Easy 0.1 km Hike in the UK",
+      "meta_description": "Explore Cairngorms Trekking III, a tiny 0.1 km easy hike in the UK. Perfect for beginners seeking a quick outdoor experience with flat terrain and simple scenery.",
+      "h1": "Cairngorms Trekking III — Short Easy Hike (0.1 km) in the UK"
+    }
+  }
+}

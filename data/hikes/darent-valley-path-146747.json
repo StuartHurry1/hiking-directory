@@ -1,0 +1,21 @@
+{
+  "id": "osm-146747",
+  "slug": "darent-valley-path-146747",
+  "name": "Darent Valley Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 141.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2790707,
+    "lon": 0.1824208
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 146747
+  }
+}

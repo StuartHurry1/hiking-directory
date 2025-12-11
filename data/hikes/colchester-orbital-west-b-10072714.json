@@ -1,0 +1,21 @@
+{
+  "id": "osm-10072714",
+  "slug": "colchester-orbital-west-b-10072714",
+  "name": "Colchester Orbital West B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8814924,
+    "lon": 0.8733203
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10072714
+  }
+}

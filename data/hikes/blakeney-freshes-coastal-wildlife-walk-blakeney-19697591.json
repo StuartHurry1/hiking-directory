@@ -1,0 +1,52 @@
+{
+  "id": "osm-19697591",
+  "slug": "blakeney-freshes-coastal-wildlife-walk-blakeney-19697591",
+  "name": "Blakeney Freshes Coastal Wildlife Walk, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9517647,
+    "lon": 1.0225408
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697591
+  },
+  "ai": {
+    "summary": "A 17.1 km hard coastal route around Blakeney Freshes, blending salt marshes, reedbeds, and coastal paths with potential marsh crossings and boardwalk sections. Expect wildlife viewing opportunities, exposed weather, and variable terrain; plan for a full day and check tide times before starting.",
+    "terrain_summary": "The terrain combines coastal footpaths, gravel tracks, salt marsh edges, mud flats, tidal creeks, and intermittent boardwalks. Expect soft, uneven ground, seasonal mud, and stretches that are exposed to wind and spray. Some sections may be waterlogged after rain; good grip and waterproof footwear are essential.",
+    "safety_notes": "Pay attention to tides: parts of the route sit within the Blakeney Freshes and can become inaccessible or dangerous at high tide. Check local tide tables and plan to only cross marsh areas at safe times. Wear sturdy waterproof boots with good grip and be prepared for mud and slippery boards. Stay on marked paths to protect delicate habitats and avoid disturbing wildlife. Carry a map, compass or GPS, a fully charged phone, and a tide timetable. Let someone know your route and expected return. Bring sufficient water and snacks, weather-appropriate clothing, sun protection, and a small first aid kit. Check local dog policy for Blakeney Freshes, as dogs may be restricted in sensitive wildlife areas. In windy conditions, brace against gusts and seek shelter if storms approach.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and windproof jacket (and extra layers)",
+      "Comfortable clothing suitable for a long day outdoors",
+      "Heat layer (fleece) and a hat",
+      "Trekking poles (optional but helpful on soft ground)",
+      "Map, compass or GPS device (and offline backup)",
+      "Fully charged mobile phone and emergency contact info",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Insect repellent (seasonal)",
+      "Dry bag or waterproof backpack cover",
+      "Tide timetable or access to local tide information",
+      "Headlamp or flashlight (in case of late finish)",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder conditions and better wildlife visibility. Winters can be exposed, windy, and muddy; always check weather and tides before setting out.",
+    "seo": {
+      "title": "Blakeney Freshes Coastal Wildlife Walk — 17.1 km Hard Coastal Trek in the UK",
+      "meta_description": "Explore the 17.1 km Blakeney Freshes Coastal Wildlife Walk, a hard coastal route around Blakeney, Norfolk. Marshes, lakes, birds and rugged shoreline; plan for tides, weather and wildlife.",
+      "h1": "Blakeney Freshes Coastal Wildlife Walk (17.1 km, Hard)"
+    }
+  }
+}

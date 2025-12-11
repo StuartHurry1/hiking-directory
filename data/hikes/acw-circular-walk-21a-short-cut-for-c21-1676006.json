@@ -1,0 +1,46 @@
+{
+  "id": "osm-1676006",
+  "slug": "acw-circular-walk-21a-short-cut-for-c21-1676006",
+  "name": "ACW Circular Walk 21A (short-cut for C21)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4353012,
+    "lon": -1.6343927
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1676006
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 21A (C21 Shortcut) is a 10 km circular hike in the United Kingdom. The exact regional setting is unknown. The route is rated moderate and offers a steady pace with a mix of paths and minor road sections, suitable for hikers with some experience.",
+    "terrain_summary": "The route uses a mix of well-maintained footpaths, grassy tracks, occasional stony sections, and short stretches of quiet roads. Expect gentle ascents and descents with some uneven terrain and potential mud after rain.",
+    "safety_notes": "Plan for UK weather, daylight, and navigation. Carry a map and compass or a GPS device, and tell someone your route and expected return time. Wear sturdy footwear and clothing appropriate for changing conditions. Be cautious on road sections, watch for traffic, and mind livestock and farm animals on rural paths. Stay hydrated and seek shelter during storms or strongly windy conditions.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking footwear",
+      "Layers for changing weather",
+      "Backpack with 10–20 L capacity",
+      "Water and energy snacks",
+      "Map and compass (or GPS device)",
+      "Phone with offline maps and emergency numbers",
+      "Hat, sunscreen, and sunglasses",
+      "First aid kit",
+      "Whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) in the UK. Winter hikes are possible but require extra gear and cautious planning.",
+    "seo": {
+      "title": "ACW Circular Walk 21A (C21 Shortcut) – 10 km Moderate UK Hike",
+      "meta_description": "Discover the ACW Circular Walk 21A, a 10 km moderate circular route in the United Kingdom. Learn about terrain, safety notes, gear recommendations, and best seasons.",
+      "h1": "ACW Circular Walk 21A (C21 Shortcut)"
+    }
+  }
+}

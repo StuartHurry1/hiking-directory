@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506930",
+  "slug": "firth-circular-11506930",
+  "name": "Firth circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4488055,
+    "lon": -1.1959088
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506930
+  }
+}

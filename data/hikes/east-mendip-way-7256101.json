@@ -1,0 +1,21 @@
+{
+  "id": "osm-7256101",
+  "slug": "east-mendip-way-7256101",
+  "name": "East Mendip Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2099268,
+    "lon": -2.6447088
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7256101
+  }
+}

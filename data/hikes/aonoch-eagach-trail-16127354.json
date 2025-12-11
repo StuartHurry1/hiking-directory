@@ -1,0 +1,49 @@
+{
+  "id": "osm-16127354",
+  "slug": "aonoch-eagach-trail-16127354",
+  "name": "Aonoch Eagach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6665371,
+    "lon": -4.9824527
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127354
+  },
+  "ai": {
+    "summary": "The Aonach Eagach Ridge is a demanding 16.8 km traverse along a narrow, exposed crest in Scotland’s Highlands. It combines sustained elevation, exposed scrambling (Class II-III), and long sections with little protection, requiring good fitness, navigation skills, and careful weather judgment. Plan as an experienced day out with a realistic timeframe and contingency for changing conditions.",
+    "terrain_summary": "Ridge terrain with a continuous crest of rock and grass, exposed sections where fall risks are high, intermittent scrambling, rocky ledges, and occasional loose scree. The route may require hands-on climbing and route finding; conditions and visibility greatly affect difficulty. Start and finish points are in the Glen Coe area; weather can create mist, wind, and cold near the summit.",
+    "safety_notes": "This is a high-risk, exposed ridge hike suitable only for experienced hikers with mountaineering skills. Weather in the Scottish Highlands can change rapidly; wind, rain, and fog can appear with little warning and make the ridge dangerous. Do not attempt in poor visibility, high winds, or icy conditions. Carry navigation tools (map and compass) and know how to use them; stay on the crest and avoid uncertain ground. Start early, inform someone of your plan, and be prepared to turn back. In an emergency, call UK emergency services at 999 or 112.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Climbing helmet (highly recommended on exposed ridges)",
+      "Waterproof jacket and pants (shell) and insulating layers",
+      "Warm mid-layer (fleece or down)",
+      "Map and compass (GPS as backup)",
+      "Fully charged mobile phone and power bank",
+      "Water and high-energy food (2–3 L water recommended)",
+      "First aid kit",
+      "Headlamp with spare batteries",
+      "Whistle",
+      "Emergency bivvy or space blanket",
+      "Sunscreen and sunglasses",
+      "Gloves",
+      "Lightweight emergency shelter (optional)",
+      "Trekking poles (optional but helpful for balance)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September). Weather is generally more reliable, but conditions can still be severe; avoid winter conditions with snow/ice.",
+    "seo": {
+      "title": "Aonach Eagach Ridge Hike — 16.8 km Hard Scramble in the Scottish Highlands (UK)",
+      "meta_description": "Conquer the Aonach Eagach Ridge: a 16.8 km hard hike in Scotland's Highlands. Learn route details, terrain, safety tips, and gear for this challenging ridge traverse.",
+      "h1": "Aonach Eagach Ridge Hike — 16.8 km Hard Scramble in Scotland"
+    }
+  }
+}

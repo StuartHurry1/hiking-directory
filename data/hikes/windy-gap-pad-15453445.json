@@ -1,0 +1,21 @@
+{
+  "id": "osm-15453445",
+  "slug": "windy-gap-pad-15453445",
+  "name": "Windy Gap Pad",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.329512,
+    "lon": -6.0304583
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15453445
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507991",
+  "slug": "cure-water-and-stubba-water-11507991",
+  "name": "Cure water & Stubba Water",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4653522,
+    "lon": -1.4259427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507991
+  }
+}

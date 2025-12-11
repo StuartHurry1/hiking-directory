@@ -1,0 +1,21 @@
+{
+  "id": "osm-18547924",
+  "slug": "neptune-health-park-walk-18547924",
+  "name": "Neptune Health Park Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5290414,
+    "lon": -2.0708432
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18547924
+  }
+}

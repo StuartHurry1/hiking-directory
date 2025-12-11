@@ -1,0 +1,23 @@
+{
+  "id": "osm-12559425",
+  "slug": "long-explorers-route-anglesey-abbey-12559425",
+  "name": "Long Explorer's Route, Anglesey Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2361959,
+    "lon": 0.2441641
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12559425
+  }
+}

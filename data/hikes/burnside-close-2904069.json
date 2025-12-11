@@ -1,0 +1,40 @@
+{
+  "id": "osm-2904069",
+  "slug": "burnside-close-2904069",
+  "name": "Burnside Close",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9680622,
+    "lon": -1.8694048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2904069
+  },
+  "ai": {
+    "summary": "Burnside Close is a short, easy 1.7 km hike in the UK. The region is unknown, but the route is suitable for most ages and abilities, offering a gentle outdoor experience with light terrain.",
+    "terrain_summary": "The trail is primarily on well-maintained paths with flat to gentle gradients. Expect smooth compact surfaces, grassy verges, and occasional wooden boardwalks; sections may be uneven near the edges.",
+    "safety_notes": "Wear sturdy footwear and bring a light rain jacket. Stay on marked paths, observe the countryside code, and be mindful of other walkers. Check local conditions and daylight hours, and carry a phone for emergencies. In unknown regions within the UK, follow local permissions and access rules.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Mobile phone with emergency numbers",
+      "Map or offline navigation app"
+    ],
+    "best_seasons": "Spring to Autumn offer the most comfortable conditions in the UK; the hike is walkable year-round, with colder, wetter conditions more common in winter.",
+    "seo": {
+      "title": "Burnside Close – 1.7 km Easy Hike in the UK",
+      "meta_description": "Discover Burnside Close, an easy 1.7 km hike in the UK. A short, accessible route ideal for families and casual walkers.",
+      "h1": "Burnside Close – 1.7 km Easy Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1837211",
+  "slug": "templer-way-1837211",
+  "name": "Templer Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 58.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5864196,
+    "lon": -3.7516472
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1837211
+  }
+}

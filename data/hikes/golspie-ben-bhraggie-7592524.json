@@ -1,0 +1,21 @@
+{
+  "id": "osm-7592524",
+  "slug": "golspie-ben-bhraggie-7592524",
+  "name": "Golspie - Ben Bhraggie",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.977045,
+    "lon": -3.9823774
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7592524
+  }
+}

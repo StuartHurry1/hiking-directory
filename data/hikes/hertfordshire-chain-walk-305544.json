@@ -1,0 +1,21 @@
+{
+  "id": "osm-305544",
+  "slug": "hertfordshire-chain-walk-305544",
+  "name": "Hertfordshire Chain Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 337.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7088538,
+    "lon": -0.1284506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 305544
+  }
+}

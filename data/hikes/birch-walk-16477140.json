@@ -1,0 +1,40 @@
+{
+  "id": "osm-16477140",
+  "slug": "birch-walk-16477140",
+  "name": "Birch Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4120413,
+    "lon": -5.7751235
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16477140
+  },
+  "ai": {
+    "summary": "Birch Walk is a short, easy 0.4 km stroll in the UK, suitable for all ages and abilities. The route typically offers flat terrain with minimal elevation and pleasant, scenic surroundings.",
+    "terrain_summary": "The walk is generally flat with a gentle surface. Path surfaces can include paved sections, gravel, or compact dirt depending on location. Surfaces may be uneven at points and may have roots or seasonal debris.",
+    "safety_notes": "Follow standard outdoor safety: wear sturdy, comfortable footwear; check the weather and daylight conditions; stay on marked paths and be mindful of cyclists on shared trails; bring water and sun protection in summer; keep dogs on a leash and clean up after them; if near roads, watch for traffic.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket or layer",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with emergency numbers",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Spring and Summer (March–September)",
+    "seo": {
+      "title": "Birch Walk - Easy 0.4 km UK Hike",
+      "meta_description": "Discover Birch Walk, a short and easy 0.4 km hike in the UK. Ideal for beginners and families, with flat terrain and simple scenery.",
+      "h1": "Birch Walk: Easy 0.4 km UK Hike"
+    }
+  }
+}

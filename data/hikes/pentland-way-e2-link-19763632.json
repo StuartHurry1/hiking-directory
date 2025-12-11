@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763632",
+  "slug": "pentland-way-e2-link-19763632",
+  "name": "Pentland Way E2 Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8634585,
+    "lon": -3.2537381
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763632
+  }
+}

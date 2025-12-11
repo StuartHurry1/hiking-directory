@@ -1,0 +1,21 @@
+{
+  "id": "osm-19034473",
+  "slug": "old-cote-moor-from-kettlewell-trail-upper-wharfdale-19034473",
+  "name": "Old Cote Moor from Kettlewell trail, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1460453,
+    "lon": -2.0505013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19034473
+  }
+}

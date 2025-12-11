@@ -1,0 +1,23 @@
+{
+  "id": "osm-5977003",
+  "slug": "lovelace-bridges-trail-5977003",
+  "name": "Lovelace Bridges Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2468418,
+    "lon": -0.4364428
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5977003
+  }
+}

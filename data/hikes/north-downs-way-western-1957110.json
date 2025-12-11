@@ -1,0 +1,21 @@
+{
+  "id": "osm-1957110",
+  "slug": "north-downs-way-western-1957110",
+  "name": "North Downs Way (Western)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2128749,
+    "lon": -0.7937593
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1957110
+  }
+}

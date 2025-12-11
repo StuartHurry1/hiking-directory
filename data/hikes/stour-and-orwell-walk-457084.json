@@ -1,0 +1,21 @@
+{
+  "id": "osm-457084",
+  "slug": "stour-and-orwell-walk-457084",
+  "name": "Stour & Orwell Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 132.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9523762,
+    "lon": 1.3359133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 457084
+  }
+}

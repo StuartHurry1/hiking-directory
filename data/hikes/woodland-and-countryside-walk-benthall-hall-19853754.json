@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853754",
+  "slug": "woodland-and-countryside-walk-benthall-hall-19853754",
+  "name": "Woodland and Countryside Walk, Benthall Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6193125,
+    "lon": -2.5076396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853754
+  }
+}

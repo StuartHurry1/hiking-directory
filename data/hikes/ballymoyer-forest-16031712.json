@@ -1,0 +1,44 @@
+{
+  "id": "osm-16031712",
+  "slug": "ballymoyer-forest-16031712",
+  "name": "Ballymoyer Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2155135,
+    "lon": -6.5162519
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16031712
+  },
+  "ai": {
+    "summary": "Ballymoyer Forest offers a scenic, moderate 8.8 km hike in the UK. The route traverses woodland with well-marked trails, occasional damp sections, and gentle elevation changes. The region is not specified, but the walk is suitable for hikers with some experience seeking a woodland escape.",
+    "terrain_summary": "Forest trails with a mix of gravel, dirt, and some boardwalks. Expect uneven ground, exposed tree roots, and muddy patches after rain. Elevation changes are gentle to moderate, with shaded sections and seasonal views across the forest.",
+    "safety_notes": "Wear sturdy footwear and bring clothing appropriate for the weather. Stay on marked trails, watch for roots and slippery patches, and be prepared for mud. Carry water, snacks, a map or GPS, and a phone. Inform someone of your plan and expected return. Use insect repellent and tick protection; keep dogs on a leash where required. Check weather and daylight hours before you go.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle / hydration",
+      "Snacks",
+      "Map or GPS device",
+      "Phone with offline map",
+      "Small first-aid kit",
+      "Insect repellent and tick protection",
+      "Lightweight rain shell",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) are ideal for this hike due to better trail conditions and daylight; winter visits are possible with proper gear and caution.",
+    "seo": {
+      "title": "Ballymoyer Forest Hike — 8.8 km Moderate Trail in the UK",
+      "meta_description": "Discover Ballymoyer Forest on an 8.8 km moderate hike in the UK. Get terrain, safety tips, gear recommendations, and the best seasons for this woodland trail.",
+      "h1": "Ballymoyer Forest: 8.8 km Moderate Hike in the UK"
+    }
+  }
+}

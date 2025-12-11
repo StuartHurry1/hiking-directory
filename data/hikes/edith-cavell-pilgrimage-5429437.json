@@ -1,0 +1,21 @@
+{
+  "id": "osm-5429437",
+  "slug": "edith-cavell-pilgrimage-5429437",
+  "name": "Edith Cavell Pilgrimage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6312122,
+    "lon": 1.3015159
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5429437
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1706314",
+  "slug": "the-poets-trail-creggan-route-1706314",
+  "name": "The Poets' Trail - Creggan Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0837808,
+    "lon": -6.5751558
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1706314
+  }
+}

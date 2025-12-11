@@ -1,0 +1,21 @@
+{
+  "id": "osm-19246115",
+  "slug": "military-route-stowe-19246115",
+  "name": "Military Route, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0236625,
+    "lon": -1.0058072
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19246115
+  }
+}

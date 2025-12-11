@@ -1,0 +1,21 @@
+{
+  "id": "osm-19008533",
+  "slug": "ice-house-trail-19008533",
+  "name": "Ice House Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4093894,
+    "lon": -2.8140517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19008533
+  }
+}

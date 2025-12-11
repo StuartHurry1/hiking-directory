@@ -1,0 +1,21 @@
+{
+  "id": "osm-19820892",
+  "slug": "mill-walk-upper-woodland-19820892",
+  "name": "Mill Walk (Upper Woodland)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7586162,
+    "lon": -2.0190222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19820892
+  }
+}

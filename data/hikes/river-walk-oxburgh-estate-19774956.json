@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774956",
+  "slug": "river-walk-oxburgh-estate-19774956",
+  "name": "River Walk, Oxburgh Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5782707,
+    "lon": 0.5676973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774956
+  }
+}

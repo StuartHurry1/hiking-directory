@@ -1,0 +1,23 @@
+{
+  "id": "osm-19353039",
+  "slug": "down-on-the-duver-circular-walk-isle-of-wight-19353039",
+  "name": "Down on the Duver Circular Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6990699,
+    "lon": -1.1000034
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19353039
+  }
+}

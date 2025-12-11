@@ -1,0 +1,21 @@
+{
+  "id": "osm-17174130",
+  "slug": "michael-bruce-way-17174130",
+  "name": "Michael Bruce Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2064392,
+    "lon": -3.3314187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17174130
+  }
+}

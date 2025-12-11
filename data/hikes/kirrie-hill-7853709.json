@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853709",
+  "slug": "kirrie-hill-7853709",
+  "name": "Kirrie Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.679332,
+    "lon": -3.0005187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853709
+  }
+}

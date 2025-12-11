@@ -1,0 +1,21 @@
+{
+  "id": "osm-6096469",
+  "slug": "motoring-heritage-trail-6096469",
+  "name": "Motoring Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8405991,
+    "lon": 0.4921795
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6096469
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1069837",
+  "slug": "jorvic-way-1069837",
+  "name": "Jorvic Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 361.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0186067,
+    "lon": -1.0987555
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1069837
+  }
+}

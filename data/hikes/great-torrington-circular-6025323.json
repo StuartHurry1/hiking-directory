@@ -1,0 +1,21 @@
+{
+  "id": "osm-6025323",
+  "slug": "great-torrington-circular-6025323",
+  "name": "Great Torrington Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9500118,
+    "lon": -4.1423322
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6025323
+  }
+}

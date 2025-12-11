@@ -1,0 +1,44 @@
+{
+  "id": "osm-1838214",
+  "slug": "amber-valley-routeways-walk-20-1838214",
+  "name": "Amber Valley Routeways Walk 20",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.00445,
+    "lon": -1.4461798
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1838214
+  },
+  "ai": {
+    "summary": "Amber Valley Routeways Walk 20 is a 9.8 km moderate hike in the UK, offering a varied scenic route along valley paths with gentle hills. It suits walkers with intermediate fitness who enjoy countryside landscapes and a relaxed pace.",
+    "terrain_summary": "The route combines woodland trails, grassy meadows, and short stretches of gravel and tarmac. Expect gentle ascents and descents, with potential muddy sections after rain and seasonal changes in footing.",
+    "safety_notes": "Carry a map and compass or GPS, stay on marked paths, and inform someone of your plan. Wear sturdy footwear and weather-appropriate clothing, bring water and snacks, and be prepared for changing conditions. Be cautious at rural road crossings and farm gates; check daylight hours and let someone know if you’ll be out after dusk.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing and layers",
+      "Water bottle or hydration system",
+      "Snacks",
+      "Map and compass or GPS device",
+      "Phone with offline map",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Headlamp or flashlight (if walking near dusk)"
+    ],
+    "best_seasons": "Spring to Autumn (Winter can be challenging due to weather and daylight)",
+    "seo": {
+      "title": "Amber Valley Routeways Walk 20 - 9.8 km Moderate UK Hike",
+      "meta_description": "Discover Amber Valley Routeways Walk 20, a 9.8 km moderate hike in the UK. Scenic valley paths, practical gear tips, and safety notes for hikers.",
+      "h1": "Amber Valley Routeways Walk 20 – 9.8 km Moderate Hike in the UK"
+    }
+  }
+}

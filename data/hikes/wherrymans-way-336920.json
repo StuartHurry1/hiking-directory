@@ -1,0 +1,21 @@
+{
+  "id": "osm-336920",
+  "slug": "wherrymans-way-336920",
+  "name": "Wherryman's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 151.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6278453,
+    "lon": 1.3059238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 336920
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": 10664122,
+  "slug": "loop-link-to-bexley-station-10664122",
+  "name": "LOOP link to Bexley station",
+  "network": "rwn",
+  "tags": {
+    "from": "LOOP sections 01 / 02",
+    "name": "LOOP link to Bexley station",
+    "network": "rwn",
+    "operator": "London Borough of Bexley",
+    "route": "foot",
+    "source": "Colin Saunders 'The London Loop' (Aurum Press 2017) ISBN 978 1 78131 561 3",
+    "to": "Bexley Station",
+    "type": "route",
+    "website": "https://www.nationalrail.co.uk/stations_destinations/BXY.aspx",
+    "wikipedia:en": "Bexley railway station"
+  },
+  "coordinates": [
+    [
+      0.1488163,
+      51.4409346
+    ],
+    [
+      0.1488117,
+      51.441003
+    ],
+    [
+      0.1486528,
+      51.4412956
+    ],
+    [
+      0.1484692,
+      51.4412949
+    ],
+    [
+      0.1486528,
+      51.4412956
+    ],
+    [
+      0.1478318,
+      51.4403431
+    ],
+    [
+      0.1480851,
+      51.4404078
+    ],
+    [
+      0.1481339,
+      51.4403958
+    ],
+    [
+      0.148161,
+      51.4403903
+    ],
+    [
+      0.1482691,
+      51.4404188
+    ],
+    [
+      0.1483256,
+      51.4404539
+    ],
+    [
+      0.1484069,
+      51.4405535
+    ],
+    [
+      0.1484547,
+      51.4406333
+    ],
+    [
+      0.1484679,
+      51.4407072
+    ],
+    [
+      0.1484726,
+      51.4407996
+    ],
+    [
+      0.1484706,
+      51.4410061
+    ],
+    [
+      0.1484692,
+      51.4412715
+    ],
+    [
+      0.1484692,
+      51.4412949
+    ]
+  ]
+}

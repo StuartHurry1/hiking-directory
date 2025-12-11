@@ -1,0 +1,46 @@
+{
+  "id": "osm-19400417",
+  "slug": "aberglaslyn-bryn-du-and-beddgelert-walk-19400417",
+  "name": "Aberglaslyn, Bryn Du and Beddgelert walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9945774,
+    "lon": -4.0916348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400417
+  },
+  "ai": {
+    "summary": "A demanding long-distance walk in Wales, the Aberglaslyn, Bryn Du and Beddgelert route circles through valleys and forests for about 20.2 km. The path links Aberglaslyn, Bryn Du and the village of Beddgelert, delivering varied terrain, dramatic river scenery and several steep climbs that challenge even experienced hikers.",
+    "terrain_summary": "Expect a mix of forest tracks, river paths along the Aberglaslyn gorge, grassy climbs, rocky steps and some exposed sections. The route includes muddy sections after rain, short scrambles, and potential cross-country nav in unmarked parts. Elevation gain is substantial with long sections on uneven ground.",
+    "safety_notes": "This is a hard hike with significant elevation and remote stretches. Check weather and daylight hours; Welsh weather can change rapidly. Wear sturdy boots and carry waterproof clothing, layers, and a useful map or GPS. Bring plenty of water and energy snacks; tell someone your planned route and ETA. Navigation skills are recommended; some sections may be poorly marked. Be prepared for boggy ground, steep descents, and possible closures in wet seasons.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 liters for the day)",
+      "Weatherproof layer (waterproof shell) and insulating midlayer",
+      "Lightweight waterproof trousers (optional)",
+      "Map and compass or GPS device; fully charged",
+      "Headlamp or spare flashlight",
+      "Snacks and high-energy food",
+      "Hat, gloves if cold",
+      "First-aid kit",
+      "Emergency whistle and thermal blanket",
+      "Sun protection (sunscreen, sunglasses)",
+      "Rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is ideal to avoid winter conditions; summer offers longer daylight but can be busy. In winter, the route is more exposed and weather can make sections hazardous; users should have mountaineering experience.",
+    "seo": {
+      "title": "Aberglaslyn, Bryn Du and Beddgelert Walk – 20.2 km Hard Hike in Wales",
+      "meta_description": "Discover a challenging 20.2 km hike through Aberglaslyn Gorge, Bryn Du and Beddgelert in Wales. Full route overview, terrain notes, safety tips and recommended gear for experienced walkers.",
+      "h1": "Aberglaslyn, Bryn Du and Beddgelert Walk – 20.2 km Hard Hike in Wales"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1722862",
+  "slug": "the-mid-suffolk-footpath-1722862",
+  "name": "The Mid Suffolk Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 82.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3584996,
+    "lon": 1.2050378
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1722862
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15752816",
+  "slug": "valley-views-trail-15752816",
+  "name": "Valley Views Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9196878,
+    "lon": -1.7345076
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15752816
+  }
+}

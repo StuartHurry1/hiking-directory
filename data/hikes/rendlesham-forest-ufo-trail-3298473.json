@@ -1,0 +1,21 @@
+{
+  "id": "osm-3298473",
+  "slug": "rendlesham-forest-ufo-trail-3298473",
+  "name": "Rendlesham Forest UFO Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0876041,
+    "lon": 1.4419936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3298473
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1876787",
+  "slug": "ketts-country-walk-1876787",
+  "name": "Kett's Country Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5700277,
+    "lon": 1.105086
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1876787
+  }
+}

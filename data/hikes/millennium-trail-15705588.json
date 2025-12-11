@@ -1,0 +1,21 @@
+{
+  "id": "osm-15705588",
+  "slug": "millennium-trail-15705588",
+  "name": "Millennium Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 104.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5598029,
+    "lon": -1.8550062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15705588
+  }
+}

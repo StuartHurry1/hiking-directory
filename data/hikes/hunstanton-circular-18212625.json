@@ -1,0 +1,21 @@
+{
+  "id": "osm-18212625",
+  "slug": "hunstanton-circular-18212625",
+  "name": "Hunstanton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9399745,
+    "lon": 0.4886458
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18212625
+  }
+}

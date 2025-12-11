@@ -1,0 +1,49 @@
+{
+  "id": "osm-8601943",
+  "slug": "appledore-community-trail-8601943",
+  "name": "Appledore Community Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.056662,
+    "lon": -4.1993422
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8601943
+  },
+  "ai": {
+    "summary": "The Appledore Community Trail is a gentle 4.1 km loop in the UK, suitable for casual walkers and families. With easy terrain and well-maintained paths, it’s a friendly option for a short outdoor outing in suitable conditions.",
+    "terrain_summary": "Mostly flat with a few gentle grades. Path surfaces include paved sections and compact gravel trails, generally well maintained. Expect moderate shade along the route in built-up and parkland areas.",
+    "safety_notes": [
+      "Wear sturdy footwear and check the weather before you go.",
+      "Stay on marked paths and observe local signs.",
+      "Be mindful of other pedestrians, cyclists, and dogs; keep to the side.",
+      "Bring water, a small snack, and a light layer for changing conditions.",
+      "Carry a phone with emergency contacts and a basic first-aid kit.",
+      "In winter or wet conditions, the surface can be slippery; allow extra time."
+    ],
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light jacket or rain layer",
+      "Hat and sunscreen",
+      "Small backpack",
+      "Phone with offline map or GPS",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring to Autumn; winter visits are possible with appropriate footwear and daylight.",
+    "seo": {
+      "title": "Appledore Community Trail — Easy 4.1 km Walk in the UK",
+      "meta_description": "Explore the Appledore Community Trail, a gentle 4.1 km route in the UK suitable for families and casual walkers. Learn about terrain, safety, and gear.",
+      "h1": "Appledore Community Trail"
+    }
+  }
+}

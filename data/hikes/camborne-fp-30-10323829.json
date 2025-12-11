@@ -1,0 +1,40 @@
+{
+  "id": "osm-10323829",
+  "slug": "camborne-fp-30-10323829",
+  "name": "Camborne FP 30",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1906505,
+    "lon": -5.2864809
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10323829
+  },
+  "ai": {
+    "summary": "An ultra-short, easy walk along the Camborne FP 30 footpath in the UK. At just 0.3 km, it’s a quick stroll suitable for all ages and fitness levels.",
+    "terrain_summary": "Flat, well-maintained route featuring a compact soil or gravel surface. Likely bordered by hedges or fields; may be muddy after rain and could have uneven sections near gates.",
+    "safety_notes": "Even on a short route, wear suitable footwear and check weather conditions. The path may run near gates or small roads; be aware of livestock or vehicles. Stay on the designated path, close gates behind you, and carry a phone for emergencies. In wet weather, expect mud and slippery surfaces.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate clothing",
+      "Water bottle",
+      "Phone with map or offline directions",
+      "Small daypack",
+      "Snacks (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal in the UK; the route is usually accessible year-round, but dry conditions improve comfort.",
+    "seo": {
+      "title": "Camborne FP 30 Walk – Easy 0.3 km Footpath in the UK",
+      "meta_description": "Discover the Camborne FP 30 footpath in the UK. An easy 0.3 km hike suitable for all ages, with tips on terrain, safety, and gear.",
+      "h1": "Camborne FP 30 – Easy 0.3 km Footpath Walk (UK)"
+    }
+  }
+}

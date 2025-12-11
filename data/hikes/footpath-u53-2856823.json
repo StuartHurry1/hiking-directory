@@ -1,0 +1,21 @@
+{
+  "id": "osm-2856823",
+  "slug": "footpath-u53-2856823",
+  "name": "Footpath U53",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5476139,
+    "lon": -1.3144862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2856823
+  }
+}

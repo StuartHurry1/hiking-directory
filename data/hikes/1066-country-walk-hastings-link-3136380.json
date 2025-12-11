@@ -1,0 +1,44 @@
+{
+  "id": "osm-3136380",
+  "slug": "1066-country-walk-hastings-link-3136380",
+  "name": "1066 Country Walk - Hastings Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9117142,
+    "lon": 0.6037914
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3136380
+  },
+  "ai": {
+    "summary": "A challenging 20.8 km section of the 1066 Country Walk, connecting Hastings with inland countryside. This hard route blends coastal paths with farm lanes, variable surfaces, and long ascents, offering rewarding views across southeast England.",
+    "terrain_summary": "Varied terrain including coastal paths, grassy fields, hedged lanes, stiles, and farm tracks. Expect muddy sections after rain, uneven surfaces, and occasional exposed climbs along the coast or across rolling hills.",
+    "safety_notes": "Plan for a long day: 20.8 km on a hard route requires fitness and navigation. Check weather and daylight; coastal sections can be windy and exposed. Stay on waymarked paths; carry a map and compass or GPS. Bring ample water and high-energy snacks, a charged phone, and a basic first-aid kit. Wear sturdy waterproof boots and weather-appropriate layers. Let someone know your route and expected return time. Be mindful of livestock, gates, and field etiquette on farmland. If conditions are poor or you’re unsure, consider a shorter variation or postponement. In emergencies dial 999.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight",
+      "Hat, sunglasses and sunscreen",
+      "Lightweight rain jacket or packable waterproof",
+      "Basic first-aid kit and any personal medications",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–September) offer milder weather and longer daylight; winter hikes are possible with extra caution and contingency plans.",
+    "seo": {
+      "title": "1066 Country Walk – Hastings Link (20.8 km, UK) | Hard hike",
+      "meta_description": "Explore the 1066 Country Walk Hastings Link, a 20.8 km hard hike in the UK. Coastal and countryside terrain with practical safety tips and a gear checklist.",
+      "h1": "1066 Country Walk: Hastings Link (20.8 km, Hard)"
+    }
+  }
+}

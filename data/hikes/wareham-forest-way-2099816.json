@@ -1,0 +1,21 @@
+{
+  "id": "osm-2099816",
+  "slug": "wareham-forest-way-2099816",
+  "name": "Wareham Forest Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7436328,
+    "lon": -2.1408715
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2099816
+  }
+}

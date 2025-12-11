@@ -1,0 +1,21 @@
+{
+  "id": "osm-10947683",
+  "slug": "turpins-trail-2-10947683",
+  "name": "Turpin's Trail 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9912658,
+    "lon": 0.3949261
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10947683
+  }
+}

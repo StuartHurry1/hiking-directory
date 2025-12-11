@@ -1,0 +1,21 @@
+{
+  "id": "osm-7012528",
+  "slug": "exeter-medieval-trail-7012528",
+  "name": "Exeter Medieval Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7248725,
+    "lon": -3.5285491
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7012528
+  }
+}

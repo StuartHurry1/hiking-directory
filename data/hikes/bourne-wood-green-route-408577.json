@@ -1,0 +1,41 @@
+{
+  "id": "osm-408577",
+  "slug": "bourne-wood-green-route-408577",
+  "name": "Bourne Wood Green Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1856215,
+    "lon": -0.7738404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 408577
+  },
+  "ai": {
+    "summary": "Bourne Wood Green Route is a short, easy 1.2 km woodland walk in the UK. This family-friendly route traverses shaded paths through Bourne Wood, offering a peaceful nature experience with minimal elevation and simple terrain.",
+    "terrain_summary": "Flat, well-marked woodland paths with mostly soft surfaces. Expect occasional exposed roots and damp patches after rain; parts may be uneven but accessible to most walkers and strollers on dry days.",
+    "safety_notes": "Wear sturdy footwear and stay on marked trails. Watch for uneven ground, roots, and slippery patches after rain. Check the weather forecast and daylight hours, as woodland can be shaded and cool. Tick awareness is important in woodlands—consider insect repellent and perform a quick tick check after your walk. Bring water and supervise children at all times.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (jacket, hat)",
+      "Light rain gear",
+      "Insect repellent and tick checks",
+      "Small first aid kit",
+      "Map or offline navigation and a charged phone"
+    ],
+    "best_seasons": "All year, with spring and summer offering the most comfortable conditions for shade and wildlife viewing. Autumn and winter are also enjoyable with proper footwear and clothing.",
+    "seo": {
+      "title": "Bourne Wood Green Route — Easy 1.2 km Woodland Walk in the UK",
+      "meta_description": "Explore Bourne Wood's Green Route: a short, easy 1.2 km woodland hike in the UK. Family-friendly paths, flat terrain, safety tips, and gear recommendations.",
+      "h1": "Bourne Wood Green Route — Easy 1.2 km Woodland Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3483633",
+  "slug": "forster-country-walk-only-connect-3483633",
+  "name": "Forster Country Walk (Only Connect)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.922678,
+    "lon": -0.1993628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3483633
+  }
+}

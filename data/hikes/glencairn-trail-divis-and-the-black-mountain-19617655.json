@@ -1,0 +1,21 @@
+{
+  "id": "osm-19617655",
+  "slug": "glencairn-trail-divis-and-the-black-mountain-19617655",
+  "name": "Glencairn Trail, Divis and the Black Mountain",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6202328,
+    "lon": -6.0009776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617655
+  }
+}

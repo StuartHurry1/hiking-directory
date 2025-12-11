@@ -1,0 +1,21 @@
+{
+  "id": "osm-3287554",
+  "slug": "spurlswood-walk-3287554",
+  "name": "Spurlswood Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6457362,
+    "lon": -1.9127478
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3287554
+  }
+}

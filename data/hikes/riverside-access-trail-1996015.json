@@ -1,0 +1,21 @@
+{
+  "id": "osm-1996015",
+  "slug": "riverside-access-trail-1996015",
+  "name": "Riverside Access Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3896351,
+    "lon": 0.8708405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1996015
+  }
+}

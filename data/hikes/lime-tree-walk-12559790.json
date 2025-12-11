@@ -1,0 +1,21 @@
+{
+  "id": "osm-12559790",
+  "slug": "lime-tree-walk-12559790",
+  "name": "Lime Tree Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0205306,
+    "lon": 0.2202901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12559790
+  }
+}

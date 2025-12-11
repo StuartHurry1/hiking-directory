@@ -1,0 +1,21 @@
+{
+  "id": "osm-19122011",
+  "slug": "dingle-and-garden-walk-dudmaston-estate-19122011",
+  "name": "Dingle and Garden Walk, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4960532,
+    "lon": -2.3728215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19122011
+  }
+}

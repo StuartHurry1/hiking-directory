@@ -1,0 +1,21 @@
+{
+  "id": "osm-19352990",
+  "slug": "the-duver-walk-isle-of-wight-19352990",
+  "name": "The Duver Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7000814,
+    "lon": -1.0993659
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19352990
+  }
+}

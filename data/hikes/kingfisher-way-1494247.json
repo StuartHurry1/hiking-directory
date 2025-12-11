@@ -1,0 +1,21 @@
+{
+  "id": "osm-1494247",
+  "slug": "kingfisher-way-1494247",
+  "name": "Kingfisher Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 149.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0269906,
+    "lon": -0.2684127
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1494247
+  }
+}

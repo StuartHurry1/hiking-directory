@@ -1,0 +1,21 @@
+{
+  "id": "osm-334253",
+  "slug": "jurassic-way-334253",
+  "name": "Jurassic Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 262.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0572581,
+    "lon": -1.3300122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 334253
+  }
+}

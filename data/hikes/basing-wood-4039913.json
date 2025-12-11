@@ -1,0 +1,42 @@
+{
+  "id": "osm-4039913",
+  "slug": "basing-wood-4039913",
+  "name": "Basing Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2878947,
+    "lon": -1.0755019
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4039913
+  },
+  "ai": {
+    "summary": "Basing Wood is a 9.2 km moderate hike in the United Kingdom. The route traverses woodland tracks with gentle gradients, making it suitable for hikers with intermediate fitness seeking a shaded, nature-filled walk.",
+    "terrain_summary": "The terrain is mixed woodland. Expect well-defined footpaths, uneven ground, exposed roots, and occasional muddy sections after rain. The route includes shaded sections and some open spots depending on the chosen path.",
+    "safety_notes": "Always check local weather and daylight hours before you go. Stay on marked paths and carry a map and compass or a GPS device. Bring enough water and snacks for the distance. Mobile phone coverage may be patchy in woods. Tell someone your plans and estimated return time. Be cautious of slippery surfaces after rain, and look out for uneven ground and tree roots. In warm months check for ticks in woodland areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and an insulating layer",
+      "Water and snacks for the 9.2 km hike",
+      "Map and compass or a GPS device",
+      "Fully charged mobile phone",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Lightweight rain gear for sudden showers"
+    ],
+    "best_seasons": "Spring to autumn are typically the best seasons for this hike, offering milder weather and better visibility. In winter conditions can be muddy or icy; if you go in winter, bring appropriate footwear and warm clothing.",
+    "seo": {
+      "title": "Basing Wood Hike – 9.2 km Moderate Woodland Walk in the UK",
+      "meta_description": "Explore Basing Wood, a 9.2 km moderate hike in the United Kingdom. Learn about terrain, safety tips, best seasons, and gear for an enjoyable woodland trek.",
+      "h1": "Basing Wood: 9.2 km Moderate Hike in the UK"
+    }
+  }
+}

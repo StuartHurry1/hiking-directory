@@ -1,0 +1,21 @@
+{
+  "id": "osm-2734655",
+  "slug": "wensum-way-2734655",
+  "name": "Wensum Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7232069,
+    "lon": 1.1147071
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2734655
+  }
+}

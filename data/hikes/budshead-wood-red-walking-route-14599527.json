@@ -1,0 +1,40 @@
+{
+  "id": "osm-14599527",
+  "slug": "budshead-wood-red-walking-route-14599527",
+  "name": "Budshead Wood Red Walking Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4212911,
+    "lon": -4.1693973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14599527
+  },
+  "ai": {
+    "summary": "A short, easy 5.1 km woodland loop in Budshead Wood, United Kingdom. This gentle walk offers relaxed paths through tranquil woodland and is suitable for beginners and families seeking a calm outdoor experience.",
+    "terrain_summary": "Mainly well-maintained woodland paths with light gravel; some sections may have exposed roots or uneven ground. Gentle gradients and flat to rolling sections typical of an urban fringe woodland.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing; stay on marked paths; be mindful of slippery leaves and mud after rain; watch for other walkers and cyclists; check for any seasonal trail closures; protect against ticks in tall grasses; carry water and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or offline GPS / fully charged phone",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Year-round; best in spring and autumn when temperatures are mild and the woodland is most scenic.",
+    "seo": {
+      "title": "Budshead Wood Red Walking Route – 5.1 km Easy Woodland Walk in the UK",
+      "meta_description": "Discover Budshead Wood's Red Walking Route: a 5.1 km easy hike in the United Kingdom through tranquil woodland. Tips on terrain, safety, and gear.",
+      "h1": "Budshead Wood Red Walking Route – 5.1 km Easy UK Woodland Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18647981",
+  "slug": "wolverhampton-locks-walk-18647981",
+  "name": "Wolverhampton Locks Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5886753,
+    "lon": -2.1218716
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18647981
+  }
+}

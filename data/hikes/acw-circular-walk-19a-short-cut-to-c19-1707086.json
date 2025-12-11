@@ -1,0 +1,44 @@
+{
+  "id": "osm-1707086",
+  "slug": "acw-circular-walk-19a-short-cut-to-c19-1707086",
+  "name": "ACW Circular Walk 19A (short-cut to C19)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4428114,
+    "lon": -1.5874284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707086
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 19A is a challenging 23 km circular route in the UK with an option to take a short-cut to C19. It suits experienced hikers and typically takes a full day. The route offers varied terrain and scenic highlights, including long stretches of rough paths, field tracks, and some road sections.",
+    "terrain_summary": "Terrain varies from grassy farm tracks and muddy trails to rough paths with uneven surfaces. Expect stiles, gates, and occasional steep sections. Some parts may be boggy after rain, with exposed stretches and woodland or open moorland in places.",
+    "safety_notes": "This is a long hard day with 23 km distance and possible elevation gain. Plan for 6 to 9 hours depending on pace and breaks. Check weather and daylight hours and avoid exposed and storm prone conditions. Carry a map and compass or GPS device, a charged phone, and a means of navigation. Wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Pack sufficient water and high energy snacks. Be prepared for mud, cattle, and gate crossings. Inform someone of your route and expected finish time. In case of emergency contact local authorities. Take care on road sections and watch for traffic. If conditions are poor consider shortening the route or turning back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing plus a waterproof jacket and hat",
+      "Backpack with at least 2 liters water and high energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or torch and spare batteries",
+      "First aid kit and emergency whistle",
+      "Mobile phone with offline maps and power bank",
+      "Sun protection (sunscreen, sunglasses)",
+      "Extra socks and gloves",
+      "Trail snacks and a lightweight emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions; winter hiking is possible with extra care and daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 19A (short-cut to C19) – 23 km Hard Hike in the UK",
+      "meta_description": "Explore the challenging 23 km ACW Circular Walk 19A with a short-cut to C19. Learn about terrain, safety tips, gear recommendations, best seasons, and planning for a UK hike.",
+      "h1": "ACW Circular Walk 19A (Short-Cut to C19) – 23 km Hard Hike in the UK"
+    }
+  }
+}

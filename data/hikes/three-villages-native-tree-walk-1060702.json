@@ -1,0 +1,21 @@
+{
+  "id": "osm-1060702",
+  "slug": "three-villages-native-tree-walk-1060702",
+  "name": "Three Villages Native Tree Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6339992,
+    "lon": -1.2466536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1060702
+  }
+}

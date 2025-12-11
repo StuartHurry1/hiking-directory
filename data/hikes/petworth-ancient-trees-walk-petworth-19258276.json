@@ -1,0 +1,21 @@
+{
+  "id": "osm-19258276",
+  "slug": "petworth-ancient-trees-walk-petworth-19258276",
+  "name": "Petworth Ancient Trees Walk, Petworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0061279,
+    "lon": -0.6238907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19258276
+  }
+}

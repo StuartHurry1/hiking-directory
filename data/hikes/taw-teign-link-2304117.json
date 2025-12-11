@@ -1,0 +1,21 @@
+{
+  "id": "osm-2304117",
+  "slug": "taw-teign-link-2304117",
+  "name": "Taw Teign Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7278045,
+    "lon": -3.9165614
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2304117
+  }
+}

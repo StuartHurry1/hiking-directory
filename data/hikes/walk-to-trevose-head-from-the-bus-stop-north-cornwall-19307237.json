@@ -1,0 +1,24 @@
+{
+  "id": "osm-19307237",
+  "slug": "walk-to-trevose-head-from-the-bus-stop-north-cornwall-19307237",
+  "name": "Walk to Trevose Head from the bus stop, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5395118,
+    "lon": -4.9949548
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307237
+  }
+}

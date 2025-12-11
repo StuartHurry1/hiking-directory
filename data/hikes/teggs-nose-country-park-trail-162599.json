@@ -1,0 +1,21 @@
+{
+  "id": "osm-162599",
+  "slug": "teggs-nose-country-park-trail-162599",
+  "name": "Tegg’s Nose Country Park Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2451633,
+    "lon": -2.0758923
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 162599
+  }
+}

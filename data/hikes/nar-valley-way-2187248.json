@@ -1,0 +1,21 @@
+{
+  "id": "osm-2187248",
+  "slug": "nar-valley-way-2187248",
+  "name": "Nar Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 110.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7508515,
+    "lon": 0.3937982
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2187248
+  }
+}

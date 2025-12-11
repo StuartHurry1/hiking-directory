@@ -1,0 +1,21 @@
+{
+  "id": "osm-2201133",
+  "slug": "parkgate-walk-2201133",
+  "name": "Parkgate Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3118159,
+    "lon": -3.0912224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2201133
+  }
+}

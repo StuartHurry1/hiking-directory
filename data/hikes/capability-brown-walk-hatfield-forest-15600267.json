@@ -1,0 +1,23 @@
+{
+  "id": "osm-15600267",
+  "slug": "capability-brown-walk-hatfield-forest-15600267",
+  "name": "Capability Brown Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8556731,
+    "lon": 0.2344545
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15600267
+  }
+}

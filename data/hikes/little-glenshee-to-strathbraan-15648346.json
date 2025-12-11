@@ -1,0 +1,21 @@
+{
+  "id": "osm-15648346",
+  "slug": "little-glenshee-to-strathbraan-15648346",
+  "name": "Little Glenshee to Strathbraan",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4895696,
+    "lon": -3.6532008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15648346
+  }
+}

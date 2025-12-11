@@ -1,0 +1,46 @@
+{
+  "id": "osm-1574096",
+  "slug": "bonnie-prince-charlie-walk-1574096",
+  "name": "Bonnie Prince Charlie Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 109.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9996056,
+    "lon": -1.7168788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1574096
+  },
+  "ai": {
+    "summary": "The Bonnie Prince Charlie Walk is a demanding long-distance trek in the United Kingdom, spanning 109.3 km at a hard difficulty. The region is listed as unknown, and hikers should be prepared for varied terrain, including coastal paths, moorland, woodlands, and hill sections, with multiple days on trail and unpredictable UK weather.",
+    "terrain_summary": "Expect mixed terrain: coastal paths, moorland, forest tracks, and open hillside. Some sections are steep, uneven, or boggy, and there may be river crossings. The long distance requires good navigation, ample provisioning, and staged stops at huts, inns, or campsites depending on permissions and local access rules.",
+    "safety_notes": "General safety: carry detailed maps and a compass or GPS; don't rely solely on digital devices. Check weather forecasts; coastal and upland areas can change rapidly. Plan daily distances to fit daylight and available shelter; inform someone of your itinerary. Pack a first aid kit, adequate food and water, a waterproof layer, and emergency signaling (whistle, space blanket). Be prepared for fatigue, remote sections, and seasonal hazards such as mud, bog, and cold winds.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof, breathable outer shell",
+      "Backpack with 15-25 L capacity for day trips or larger for multi-day",
+      "Map and compass (and/or GPS) with backup navigation",
+      "Water bottle or hydration system and water purification method",
+      "High-energy food and snacks",
+      "Lightweight tent or bivouac shelter (if wild camping) and sleeping bag and pad",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Emergency whistle and space blanket",
+      "Rain pants and hat, gloves (season dependent)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "May to September",
+    "seo": {
+      "title": "Bonnie Prince Charlie Walk – 109.3 km UK Hard-Distance Trek",
+      "meta_description": "Plan your Bonnie Prince Charlie Walk in the UK. A 109.3 km hard-distance trek across varied terrain. Learn about terrain, safety, best seasons, and gear.",
+      "h1": "Bonnie Prince Charlie Walk"
+    }
+  }
+}

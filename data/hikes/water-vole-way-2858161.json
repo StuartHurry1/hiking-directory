@@ -1,0 +1,21 @@
+{
+  "id": "osm-2858161",
+  "slug": "water-vole-way-2858161",
+  "name": "Water Vole Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9797821,
+    "lon": -1.3447681
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858161
+  }
+}

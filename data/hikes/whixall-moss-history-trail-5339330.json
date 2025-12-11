@@ -1,0 +1,21 @@
+{
+  "id": "osm-5339330",
+  "slug": "whixall-moss-history-trail-5339330",
+  "name": "Whixall Moss History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9299754,
+    "lon": -2.7535699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5339330
+  }
+}

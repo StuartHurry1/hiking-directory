@@ -1,0 +1,41 @@
+{
+  "id": "osm-18785896",
+  "slug": "balloan-lairg-core-path-18785896",
+  "name": "Balloan – Lairg Core Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0159238,
+    "lon": -4.3837405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18785896
+  },
+  "ai": {
+    "summary": "A short, easy walk along the Balloan – Lairg Core Path in the UK, covering about 1.2 km of accessible, well-surfaced trail suitable for families and casual walkers.",
+    "terrain_summary": "The route features flat to gently undulating ground on a well-maintained gravel/dirt core path. Expect a smooth surface with occasional grassy edges and scenic rural views; overall easy for most walkers.",
+    "safety_notes": "This is a short, rural trail. Check weather and daylight hours before you go. Wear sturdy, waterproof footwear and dress in layers. Carry water and a basic map or GPS. Tell someone your plans if walking alone. Stay on the path, watch for uneven surfaces, and be mindful of livestock or other natural hazards. In wet conditions the track can become muddy and slippery.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing (layered, waterproof/parka as needed)",
+      "Water and a small snack",
+      "Map or offline GPS and a charged mobile phone",
+      "Sun protection in sunny weather (hat, sunscreen)",
+      "Lightweight rain jacket and a small backpack",
+      "Insect repellent (summer months)"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and summer; be prepared for changing weather in autumn and winter.",
+    "seo": {
+      "title": "Balloan – Lairg Core Path: Easy 1.2 km Walk in the UK",
+      "meta_description": "Explore Balloan – Lairg Core Path, a short and easy 1.2 km hike in the UK. Flat terrain, family-friendly, practical safety tips and gear.",
+      "h1": "Balloan – Lairg Core Path (1.2 km) – Easy Walk"
+    }
+  }
+}

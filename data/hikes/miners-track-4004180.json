@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004180",
+  "slug": "miners-track-4004180",
+  "name": "Miners' Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0800361,
+    "lon": -4.0209608
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004180
+  }
+}

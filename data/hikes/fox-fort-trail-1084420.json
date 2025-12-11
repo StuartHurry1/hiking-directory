@@ -1,0 +1,21 @@
+{
+  "id": "osm-1084420",
+  "slug": "fox-fort-trail-1084420",
+  "name": "Fox Fort Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4561736,
+    "lon": -6.0770803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1084420
+  }
+}

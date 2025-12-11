@@ -1,0 +1,21 @@
+{
+  "id": "osm-19019096",
+  "slug": "round-howe-and-billy-bank-woods-trail-hudswell-19019096",
+  "name": "Round Howe and Billy Bank Woods trail, Hudswell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4031251,
+    "lon": -1.7595264
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19019096
+  }
+}

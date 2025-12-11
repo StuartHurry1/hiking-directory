@@ -1,0 +1,21 @@
+{
+  "id": "osm-19583869",
+  "slug": "lanthwaite-wood-and-crummock-water-walk-19583869",
+  "name": "Lanthwaite Wood and Crummock Water Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5814746,
+    "lon": -3.3184915
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19583869
+  }
+}

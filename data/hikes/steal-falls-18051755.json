@@ -1,0 +1,23 @@
+{
+  "id": "osm-18051755",
+  "slug": "steal-falls-18051755",
+  "name": "Steal Falls",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7752689,
+    "lon": -4.9876039
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051755
+  }
+}

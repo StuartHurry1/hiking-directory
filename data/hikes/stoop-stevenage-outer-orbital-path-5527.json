@@ -1,0 +1,21 @@
+{
+  "id": "osm-5527",
+  "slug": "stoop-stevenage-outer-orbital-path-5527",
+  "name": "STOOP - Stevenage Outer Orbital Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 95.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.933081,
+    "lon": -0.153763
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5527
+  }
+}

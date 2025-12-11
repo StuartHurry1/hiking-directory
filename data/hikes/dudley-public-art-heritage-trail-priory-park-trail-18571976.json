@@ -1,0 +1,21 @@
+{
+  "id": "osm-18571976",
+  "slug": "dudley-public-art-heritage-trail-priory-park-trail-18571976",
+  "name": "Dudley Public Art Heritage Trail (Priory Park Trail)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5144027,
+    "lon": -2.0828661
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18571976
+  }
+}

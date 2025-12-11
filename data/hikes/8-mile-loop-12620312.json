@@ -1,0 +1,46 @@
+{
+  "id": "osm-12620312",
+  "slug": "8-mile-loop-12620312",
+  "name": "8 mile loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1784842,
+    "lon": -4.4204293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12620312
+  },
+  "ai": {
+    "summary": "The 8 mile loop is a hard 24.3 km hike in the United Kingdom. With no specific region provided, it offers a demanding long-distance route suitable for experienced hikers seeking a substantial daytime trek.",
+    "terrain_summary": "Expect varied UK terrain including long sections of uneven trail, rocky steps, grassy gradients, and likely boggy ground after rain. Significant elevation changes or exposed sections on moorland or ridges are common, with mud and wet conditions possible year-round.",
+    "safety_notes": "Plan around changing UK weather; always carry a map and compass and know how to navigate, as mobile reception can be poor. Stay on marked paths, start early to ensure daylight, and inform someone of your route and timings. Be prepared for mud, slippery rocks, and potential river or stream crossings. Pack clothing for all conditions, including a waterproof shell, and carry enough water and high-energy food. Watch for fatigue, know your limits, and carry a whistle and a basic first aid kit. In an emergency, dial 999 or 112.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Warm layers (fleece or down mid-layer)",
+      "Hat and gloves (seasonal)",
+      "Trekking poles",
+      "Daypack with waterproof cover",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass (or GPS with offline maps)",
+      "First aid kit and emergency blanket",
+      "Headlamp with extra batteries",
+      "Whistle, sunscreen, and sunglasses",
+      "Spare dry clothes and a sealable bag for wet gear"
+    ],
+    "best_seasons": "Spring through autumn (approximately March to October) are best; winter hikes require extra planning due to shorter daylight, ice, and harsher weather.",
+    "seo": {
+      "title": "8 Mile Loop Hike in the UK | Challenging 24.3 km Route",
+      "meta_description": "Explore the challenging 8 Mile Loop in the UK. A 24.3 km hard hike with varied terrain, safety tips, gear list, and the best seasons for trekking.",
+      "h1": "8 Mile Loop - Hard 24.3 km Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15906814",
+  "slug": "castle-flannan-15906814",
+  "name": "Castle Flannan",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3347531,
+    "lon": -5.5434461
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15906814
+  }
+}

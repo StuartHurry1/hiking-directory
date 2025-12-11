@@ -1,0 +1,21 @@
+{
+  "id": "osm-12663962",
+  "slug": "capital-ring-link-to-brentford-station-12663962",
+  "name": "Capital Ring link to Brentford station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4868675,
+    "lon": -0.3196826
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12663962
+  }
+}

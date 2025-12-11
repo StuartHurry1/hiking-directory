@@ -1,0 +1,21 @@
+{
+  "id": "osm-9574075",
+  "slug": "cullompton-cloth-trail-9574075",
+  "name": "Cullompton Cloth Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8551093,
+    "lon": -3.3928868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9574075
+  }
+}

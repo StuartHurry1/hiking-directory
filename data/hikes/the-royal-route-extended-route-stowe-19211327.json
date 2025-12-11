@@ -1,0 +1,21 @@
+{
+  "id": "osm-19211327",
+  "slug": "the-royal-route-extended-route-stowe-19211327",
+  "name": "The Royal Route (Extended Route), Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0265491,
+    "lon": -1.0133444
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19211327
+  }
+}

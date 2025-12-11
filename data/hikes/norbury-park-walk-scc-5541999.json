@@ -1,0 +1,21 @@
+{
+  "id": "osm-5541999",
+  "slug": "norbury-park-walk-scc-5541999",
+  "name": "Norbury Park walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2831769,
+    "lon": -0.3334656
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5541999
+  }
+}

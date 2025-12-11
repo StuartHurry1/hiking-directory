@@ -1,0 +1,21 @@
+{
+  "id": "osm-1947882",
+  "slug": "worcester-woods-woodland-trail-1947882",
+  "name": "Worcester Woods Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1869778,
+    "lon": -2.18041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1947882
+  }
+}

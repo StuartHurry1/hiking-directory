@@ -1,0 +1,42 @@
+{
+  "id": "osm-3134526",
+  "slug": "birnam-hill-path-3134526",
+  "name": "Birnam Hill Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5465782,
+    "lon": -3.5625998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3134526
+  },
+  "ai": {
+    "summary": "Birnam Hill Path is a 7.3 km moderate hike in the UK that winds through woodland and open moorland, offering a mix of gentle ascents and rewarding views from higher ground.",
+    "terrain_summary": "The route combines shaded woodland trails with occasional exposed grassy slopes. Expect uneven footing, damp patches after rain, and short rocky sections near the summit. The climb is steady rather than steep, with several gentle ascents and descents.",
+    "safety_notes": "- Wear sturdy hiking boots and weather-appropriate clothing. - Check local conditions; UK weather can change quickly. - Stay on marked paths; be cautious on exposed ridges. - Bring a map or GPS, water, snacks, and a small first aid kit. - Tell someone your plan and expected return time. - Daylight varies by season; consider starting early in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate layers (waterproof jacket, mid-layer)",
+      "Water and snacks",
+      "Map, compass, or GPS device",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Small first aid kit",
+      "Headlamp or flashlight (if planning after sunset)",
+      "Camera or smartphone for views"
+    ],
+    "best_seasons": "Spring to autumn provide the best conditions and views; hike year-round with extra precautions in winter.",
+    "seo": {
+      "title": "Birnam Hill Path - 7.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Birnam Hill Path: a 7.3 km moderate hike through woodland and open moorland in the UK. Learn about terrain, safety tips, and gear.",
+      "h1": "Birnam Hill Path – 7.3 km Moderate Hike in the UK"
+    }
+  }
+}

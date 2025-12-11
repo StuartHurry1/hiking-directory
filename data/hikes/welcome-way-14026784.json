@@ -1,0 +1,21 @@
+{
+  "id": "osm-14026784",
+  "slug": "welcome-way-14026784",
+  "name": "Welcome Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 89,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9254932,
+    "lon": -1.796716
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14026784
+  }
+}

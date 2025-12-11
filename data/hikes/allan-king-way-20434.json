@@ -1,0 +1,45 @@
+{
+  "id": "osm-20434",
+  "slug": "allan-king-way-20434",
+  "name": "Allan King Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 208.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0632718,
+    "lon": -1.3115988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 20434
+  },
+  "ai": {
+    "summary": "The Allan King Way is a demanding long-distance hike in the UK, spanning about 208.3 km. Classified as hard, the route crosses varied countryside and requires solid endurance, navigation, and preparation. The exact region is unknown.",
+    "terrain_summary": "Expect a mix of rural lanes, farmland tracks, forest paths, moorland stretches and occasional rocky sections. Elevation varies with several steep climbs and descents. Trails can be muddy or damp, and UK weather can change quickly.",
+    "safety_notes": "This is a long and remote route. Plan around weather and daylight. Tell someone your itinerary and expected return. Carry maps or a GPS device plus a backup navigation method. Wear sturdy boots and appropriate layered clothing. Bring ample water and high-energy foods. Have a basic first aid kit, a whistle, and an emergency blanket or bivy. Carry a headlamp with extra batteries, and a charged phone or power bank. Stay on marked routes where available and avoid isolated sections in bad weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weatherproof jacket and breathable mid-layer",
+      "Warm layers for temperature variation",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "Nutrition and snacks for endurance",
+      "Map and compass or GPS device",
+      "Headlamp with extra batteries",
+      "Emergency whistle and space blanket or bivy",
+      "Basic first aid kit",
+      "Mobile phone with offline maps and power bank",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers longer daylight and milder conditions in the UK, though weather can still be variable.",
+    "seo": {
+      "title": "Allan King Way – 208 km Hard UK Long-Distance Trail",
+      "meta_description": "Explore the Allan King Way, a challenging 208 km route in the UK. Find terrain overview, safety tips, gear recommendations, and best seasons for planning your hike.",
+      "h1": "Allan King Way: UK 208 km Hard-Distance Trail"
+    }
+  }
+}

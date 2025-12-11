@@ -1,0 +1,21 @@
+{
+  "id": "osm-19557609",
+  "slug": "wild-garden-route-sheringham-park-19557609",
+  "name": "Wild Garden Route, Sheringham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9247645,
+    "lon": 1.1800808
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19557609
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19741690",
+  "slug": "lake-walk-claremont-19741690",
+  "name": "Lake Walk, Claremont",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3558708,
+    "lon": -0.3818862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19741690
+  }
+}

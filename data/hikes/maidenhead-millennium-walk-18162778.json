@@ -1,0 +1,21 @@
+{
+  "id": "osm-18162778",
+  "slug": "maidenhead-millennium-walk-18162778",
+  "name": "Maidenhead Millennium Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5378683,
+    "lon": -0.7934397
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18162778
+  }
+}

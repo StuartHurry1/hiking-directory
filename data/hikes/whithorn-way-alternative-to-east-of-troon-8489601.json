@@ -1,0 +1,21 @@
+{
+  "id": "osm-8489601",
+  "slug": "whithorn-way-alternative-to-east-of-troon-8489601",
+  "name": "Whithorn Way (alternative to east of Troon)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5618739,
+    "lon": -4.6451717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8489601
+  }
+}

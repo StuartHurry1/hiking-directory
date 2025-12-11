@@ -1,0 +1,21 @@
+{
+  "id": "osm-18029055",
+  "slug": "historic-fortifications-trail-18029055",
+  "name": "Historic Fortifications Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9714832,
+    "lon": -2.0192722
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18029055
+  }
+}

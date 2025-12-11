@@ -1,0 +1,21 @@
+{
+  "id": "osm-5621423",
+  "slug": "camel-trail-5621423",
+  "name": "Camel Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 93.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5047673,
+    "lon": -4.816354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5621423
+  }
+}

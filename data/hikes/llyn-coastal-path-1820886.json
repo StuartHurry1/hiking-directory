@@ -1,0 +1,23 @@
+{
+  "id": "osm-1820886",
+  "slug": "llyn-coastal-path-1820886",
+  "name": "Llŷn Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 311.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9248011,
+    "lon": -4.1278439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1820886
+  }
+}

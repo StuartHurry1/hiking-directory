@@ -1,0 +1,21 @@
+{
+  "id": "osm-17053496",
+  "slug": "heritage-100-ushaw-moor-17053496",
+  "name": "Heritage 100 - Ushaw Moor",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7735584,
+    "lon": -1.6504007
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17053496
+  }
+}

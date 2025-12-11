@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374556",
+  "slug": "south-west-coast-path-section-19-portreath-to-hayle-2374556",
+  "name": "South West Coast Path (Section 19: Portreath to Hayle)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2606026,
+    "lon": -5.2890266
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374556
+  }
+}

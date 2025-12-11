@@ -1,0 +1,21 @@
+{
+  "id": "osm-2564024",
+  "slug": "east-keskick-and-hetchell-wood-625-miles-35-hours-2564024",
+  "name": "East Keskick And Hetchell Wood 6.25 miles 3.5 hours",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8912248,
+    "lon": -1.4510406
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2564024
+  }
+}

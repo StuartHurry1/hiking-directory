@@ -1,0 +1,21 @@
+{
+  "id": "osm-16012194",
+  "slug": "dog-kennel-lane-16012194",
+  "name": "Dog Kennel Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.194104,
+    "lon": -6.3242557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16012194
+  }
+}

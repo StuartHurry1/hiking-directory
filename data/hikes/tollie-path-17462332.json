@@ -1,0 +1,21 @@
+{
+  "id": "osm-17462332",
+  "slug": "tollie-path-17462332",
+  "name": "Tollie Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6899836,
+    "lon": -5.5438943
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17462332
+  }
+}

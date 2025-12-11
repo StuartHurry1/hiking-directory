@@ -1,0 +1,23 @@
+{
+  "id": "osm-16145054",
+  "slug": "south-west-coast-path-inland-diversion-16145054",
+  "name": "South West Coast Path (Inland Diversion)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0824306,
+    "lon": -5.0940138
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16145054
+  }
+}

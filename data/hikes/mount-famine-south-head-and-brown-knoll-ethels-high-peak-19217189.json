@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217189",
+  "slug": "mount-famine-south-head-and-brown-knoll-ethels-high-peak-19217189",
+  "name": "Mount Famine, South Head and Brown Knoll (Ethels), High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3790445,
+    "lon": -1.9283728
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217189
+  }
+}

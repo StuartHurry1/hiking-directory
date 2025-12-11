@@ -1,0 +1,21 @@
+{
+  "id": "osm-19370310",
+  "slug": "estuary-newtown-walk-isle-of-wight-19370310",
+  "name": "Estuary Newtown Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7138181,
+    "lon": -1.401182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19370310
+  }
+}

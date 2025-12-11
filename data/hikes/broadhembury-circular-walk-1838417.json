@@ -1,0 +1,43 @@
+{
+  "id": "osm-1838417",
+  "slug": "broadhembury-circular-walk-1838417",
+  "name": "Broadhembury Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.836088,
+    "lon": -3.279637
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1838417
+  },
+  "ai": {
+    "summary": "Broadhembury Circular Walk is a 10.5 km circular hike in the UK. Starting and finishing in the village of Broadhembury, the route combines country lanes, hedgerows and farm tracks with gentle to moderate elevation. It's suitable for walkers with some experience and typically takes 2.5–4 hours depending on pace and conditions.",
+    "terrain_summary": "The route features mixed surfaces: tarmac and gravel farm tracks, grassy field paths, and occasional stiles. Terrain is generally gentle but can be uneven and muddy after rain, with some short ascents and descents and modest elevation changes.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Wear sturdy footwear and dress in layers; bring a waterproof jacket. Be aware of livestock in fields, keep dogs under control, and stay on designated paths. Carry a map or GPS, sufficient water and snacks, and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing and layers",
+      "Water bottle",
+      "Snacks",
+      "Map or GPS device",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Lightweight backpack",
+      "Mobile phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when paths are drier and daylight is longer; summer offers warmer conditions but can be busier.",
+    "seo": {
+      "title": "Broadhembury Circular Walk – 10.5 km Moderate Hike in the UK",
+      "meta_description": "Discover the Broadhembury Circular Walk, a 10.5 km moderate hike in the UK featuring countryside lanes, hedgerows and farmland. Practical safety tips and gear for a great day out.",
+      "h1": "Broadhembury Circular Walk"
+    }
+  }
+}

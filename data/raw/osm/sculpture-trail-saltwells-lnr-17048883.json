@@ -1,0 +1,131 @@
+{
+  "id": 17048883,
+  "slug": "sculpture-trail-saltwells-lnr-17048883",
+  "name": "Sculpture Trail (Saltwells LNR)",
+  "network": "lwn",
+  "tags": {
+    "colour": "#942192",
+    "description": "Sculpture trail around a bluebell covered Ancient Woodland and nationally important heritage urban nature reserve.",
+    "distance": "1.0km",
+    "from": "Saltwells Local Nature Reserve Main Car Park",
+    "name": "Sculpture Trail (Saltwells LNR)",
+    "network": "lwn",
+    "network:type": "lwn",
+    "operator": "Dudley MBC",
+    "roundtrip": "yes",
+    "route": "foot",
+    "source": "https://www.dudley.gov.uk/media/16482/saltwells-trail-map-details-31120.pdf",
+    "to": "Saltwells Local Nature Reserve Main Car Park",
+    "type": "route",
+    "via": "Lady Wood;Black Brook",
+    "website": "https://www.dudley.gov.uk/media/16482/saltwells-trail-map-details-31120.pdf",
+    "wikidata": "Q24181315",
+    "wikipedia": "en:Saltwells Local Nature Reserve"
+  },
+  "coordinates": [
+    [
+      -2.1010366,
+      52.4804089
+    ],
+    [
+      -2.1006784,
+      52.4806289
+    ],
+    [
+      -2.1005252,
+      52.4809577
+    ],
+    [
+      -2.100373,
+      52.4812553
+    ],
+    [
+      -2.0999561,
+      52.4820419
+    ],
+    [
+      -2.0997613,
+      52.4827152
+    ],
+    [
+      -2.0997859,
+      52.4828642
+    ],
+    [
+      -2.0997859,
+      52.4828642
+    ],
+    [
+      -2.1003793,
+      52.482855
+    ],
+    [
+      -2.1008316,
+      52.4828772
+    ],
+    [
+      -2.1013472,
+      52.4828668
+    ],
+    [
+      -2.1013472,
+      52.4828668
+    ],
+    [
+      -2.101149,
+      52.4825688
+    ],
+    [
+      -2.1012373,
+      52.4821631
+    ],
+    [
+      -2.1011088,
+      52.4816401
+    ],
+    [
+      -2.1010206,
+      52.4809901
+    ],
+    [
+      -2.1010082,
+      52.4805551
+    ],
+    [
+      -2.1010366,
+      52.4804089
+    ],
+    [
+      -2.1011149,
+      52.4802199
+    ],
+    [
+      -2.1011031,
+      52.4800419
+    ],
+    [
+      -2.0989256,
+      52.4800316
+    ],
+    [
+      -2.0989854,
+      52.4800322
+    ],
+    [
+      -2.0991168,
+      52.4800406
+    ],
+    [
+      -2.0993348,
+      52.4800539
+    ],
+    [
+      -2.1005287,
+      52.4801064
+    ],
+    [
+      -2.1011031,
+      52.4800419
+    ]
+  ]
+}

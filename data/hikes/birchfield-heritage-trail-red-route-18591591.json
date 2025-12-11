@@ -1,0 +1,42 @@
+{
+  "id": "osm-18591591",
+  "slug": "birchfield-heritage-trail-red-route-18591591",
+  "name": "Birchfield Heritage Trail: Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5136937,
+    "lon": -1.9124192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18591591
+  },
+  "ai": {
+    "summary": "Birchfield Heritage Trail: Red Route is a 7.1 km moderate-length hike in the UK that explores heritage sites and surrounding countryside along a well-marked trail. This route is suitable for walkers with some experience and a reasonable level of fitness.",
+    "terrain_summary": "The terrain is a mix of well-maintained paths and natural ground with gentle to moderate inclines. Expect compact gravel or soil, occasional muddy sections, exposed roots, and some stiles or gates. Weather can affect footing, so waterproof footwear is recommended and hands may be required at steeper sections.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy boots, bring a map or GPS, carry enough water and snacks, and dress for changing conditions. Stay on the marked path, be mindful of other trail users, watch for muddy or uneven sections, and carry a small first-aid kit and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or GPS device",
+      "Small first-aid kit",
+      "Sunscreen and hat (for sun exposure)",
+      "Headlamp or flashlight (in case of delays)",
+      "Lightweight backpack or waist pack"
+    ],
+    "best_seasons": "Spring to autumn generally offers the best conditions and daylight for this route; winter hiking is possible with proper gear and shorter daylight hours.",
+    "seo": {
+      "title": "Birchfield Heritage Trail Red Route – 7.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the 7.1 km Birchfield Heritage Trail: Red Route in the UK. A moderate hike featuring countryside scenery and heritage elements, with practical gear and safety tips.",
+      "h1": "Birchfield Heritage Trail: Red Route – 7.1 km Moderate Hike (UK)"
+    }
+  }
+}

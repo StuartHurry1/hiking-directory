@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129516",
+  "slug": "lawrenny-walk-stackpole-19129516",
+  "name": "Lawrenny Walk, Stackpole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7188689,
+    "lon": -4.8810602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129516
+  }
+}

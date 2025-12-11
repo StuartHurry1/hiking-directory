@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004181",
+  "slug": "llanberis-path-4004181",
+  "name": "Llanberis Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1086491,
+    "lon": -4.1205304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004181
+  }
+}

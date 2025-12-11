@@ -1,0 +1,21 @@
+{
+  "id": "osm-2007452",
+  "slug": "geopark-way-colwall-link-2007452",
+  "name": "Geopark Way (Colwall Link)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0795163,
+    "lon": -2.3564214
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2007452
+  }
+}

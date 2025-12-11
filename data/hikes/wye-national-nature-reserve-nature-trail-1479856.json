@@ -1,0 +1,21 @@
+{
+  "id": "osm-1479856",
+  "slug": "wye-national-nature-reserve-nature-trail-1479856",
+  "name": "Wye National Nature Reserve Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1706103,
+    "lon": 0.9700837
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1479856
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220711",
+  "slug": "the-river-trail-18220711",
+  "name": "The River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4550798,
+    "lon": 0.7189034
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220711
+  }
+}

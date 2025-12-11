@@ -1,0 +1,23 @@
+{
+  "id": "osm-17312114",
+  "slug": "king-charles-iii-england-coast-path-maldon-to-salcott-17312114",
+  "name": "King Charles III England Coast Path: Maldon to Salcott",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 84.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7277316,
+    "lon": 0.6895354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17312114
+  }
+}

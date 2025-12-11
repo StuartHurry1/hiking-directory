@@ -1,0 +1,21 @@
+{
+  "id": "osm-5619923",
+  "slug": "parkins-moss-trail-5619923",
+  "name": "Parkin's Moss Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0846764,
+    "lon": -2.942614
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5619923
+  }
+}

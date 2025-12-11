@@ -1,0 +1,21 @@
+{
+  "id": "osm-10260759",
+  "slug": "rum-cuillin-traverse-10260759",
+  "name": "Rum Cuillin traverse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0150502,
+    "lon": -6.2819843
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10260759
+  }
+}

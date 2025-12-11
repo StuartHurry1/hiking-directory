@@ -1,0 +1,43 @@
+{
+  "id": "osm-1707502",
+  "slug": "acw-circular-walk-17-1707502",
+  "name": "ACW Circular Walk 17",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4832285,
+    "lon": -1.5854192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707502
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 17 is a challenging 15.6 km circular hike in the United Kingdom. The route forms a strenuous loop with varied terrain and significant elevation, starting and finishing at the same point.",
+    "terrain_summary": "Expect a mix of muddy footpaths, grassy trails, occasional rocky sections, and exposure on higher ground. Surfaces can be uneven and wet; include some climbs and descents, and be prepared for boggy or slick conditions after rain.",
+    "safety_notes": "Before setting out, check the forecast and daylight hours. Wear sturdy, ankle-supporting boots and dress in layers with a waterproof outer layer. Bring a map and compass or a GPS device, plus a fully charged phone. Carry enough water and high-energy snacks, and include a small first aid kit, a whistle, and an emergency fleece or blanket. Tell someone your planned route and expected return time. If visibility or navigation becomes difficult, turn back and avoid taking high-risk sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Weather-appropriate layered clothing and a waterproof jacket",
+      "Hat, gloves, and extra warm layers for cold conditions",
+      "Water (2–3 liters depending on conditions) and high-energy snacks",
+      "Map and compass or GPS device; fully charged phone as a backup",
+      "Small first aid kit and emergency whistle",
+      "Headlamp or flashlight with spare batteries",
+      "Lightweight emergency shelter or space blanket",
+      "Walking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) are ideal; winter hikes are possible but shorter daylight, colder conditions and more hazards.",
+    "seo": {
+      "title": "ACW Circular Walk 17 – 15.6 km Hard Circular Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 17, a demanding 15.6 km loop in the UK. Learn about terrain, safety tips, gear, and best seasons for this challenging hike.",
+      "h1": "ACW Circular Walk 17 (15.6 km) – UK Hard Circular Hike"
+    }
+  }
+}

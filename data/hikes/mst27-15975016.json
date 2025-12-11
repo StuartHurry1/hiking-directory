@@ -1,0 +1,21 @@
+{
+  "id": "osm-15975016",
+  "slug": "mst27-15975016",
+  "name": "MST27",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7457366,
+    "lon": -2.2786394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15975016
+  }
+}

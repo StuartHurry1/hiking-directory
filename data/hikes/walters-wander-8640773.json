@@ -1,0 +1,21 @@
+{
+  "id": "osm-8640773",
+  "slug": "walters-wander-8640773",
+  "name": "Walter's Wander",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7905851,
+    "lon": -0.6609402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8640773
+  }
+}

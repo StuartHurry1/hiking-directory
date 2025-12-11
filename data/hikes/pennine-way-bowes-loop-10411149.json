@@ -1,0 +1,21 @@
+{
+  "id": "osm-10411149",
+  "slug": "pennine-way-bowes-loop-10411149",
+  "name": "Pennine Way - Bowes Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5582126,
+    "lon": -2.1039566
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10411149
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18594524",
+  "slug": "the-real-peaky-blinders-history-tour-18594524",
+  "name": "The Real Peaky Blinders History Tour",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4741889,
+    "lon": -1.8816676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18594524
+  }
+}

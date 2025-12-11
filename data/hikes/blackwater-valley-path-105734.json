@@ -1,0 +1,49 @@
+{
+  "id": "osm-105734",
+  "slug": "blackwater-valley-path-105734",
+  "name": "Blackwater Valley Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 233.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2305027,
+    "lon": -0.746507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 105734
+  },
+  "ai": {
+    "summary": "The Blackwater Valley Path is a demanding long-distance hike in the United Kingdom, spanning 233.6 km. Classified as hard, the route traverses diverse landscapes including woodlands, river valleys, farmland, and occasional road sections. It demands sustained fitness, solid navigation, and the ability to cope with typical UK weather. This multi-day trek is best attempted by experienced hikers who are comfortable with long daily distances and self-sufficiency.",
+    "terrain_summary": "Terrain ranges from forest trails and grassy ridges to riverbank paths and rural roads. Expect substantial elevation gain, long days, and occasional technical or slippery sections. Navigation can be challenging in remote segments, so carry a reliable map and compass (and a GPS as backup). Weather in the UK is unpredictable, so be prepared with layers and waterproof gear.",
+    "safety_notes": "Plan for multi-day trekking with daily mileage suitable for your experience; inform someone of your route and expected timings; carry a charged phone and a backup power bank; bring map and compass even if you use a GPS device; stay hydrated and maintain energy; wear sturdy waterproof boots and warm layers; monitor weather forecasts and be prepared to shorten or bail out if conditions worsen; stay on marked paths where possible and respect private land; know emergency contacts for the area and carry a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Warm layers (fleece or down)",
+      "Backpack with rain cover",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Water bottle and water purification method",
+      "High-energy food and snacks",
+      "First aid kit and blister care",
+      "Emergency blanket and whistle",
+      "Sunscreen, hat, sunglasses",
+      "Trekking poles",
+      "Power bank and charging cable for devices",
+      "Lightweight rain cover for the pack",
+      "Optional bivy sack or small tent if camping is allowed"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October).",
+    "seo": {
+      "title": "Blackwater Valley Path – 233.6 km Hard Hike in the UK",
+      "meta_description": "Discover the 233.6 km Blackwater Valley Path, a demanding long-distance trail across varied UK landscapes. Learn about terrain, safety, and gear for this challenging route.",
+      "h1": "Blackwater Valley Path: 233.6 km Hard Hike in the UK"
+    }
+  }
+}

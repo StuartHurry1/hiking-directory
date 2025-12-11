@@ -1,0 +1,21 @@
+{
+  "id": "osm-8246479",
+  "slug": "quarry-trail-8246479",
+  "name": "Quarry Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.0346224,
+    "lon": -5.0702495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8246479
+  }
+}

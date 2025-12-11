@@ -1,0 +1,21 @@
+{
+  "id": "osm-2200229",
+  "slug": "marcham-jubilee-walks-2200229",
+  "name": "Marcham Jubilee Walks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6689167,
+    "lon": -1.326777
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2200229
+  }
+}

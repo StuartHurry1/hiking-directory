@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209163",
+  "slug": "loddon-circular-18209163",
+  "name": "Loddon Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5353476,
+    "lon": 1.4817012
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209163
+  }
+}

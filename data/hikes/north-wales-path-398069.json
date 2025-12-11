@@ -1,0 +1,21 @@
+{
+  "id": "osm-398069",
+  "slug": "north-wales-path-398069",
+  "name": "North Wales Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 343.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2210167,
+    "lon": -4.0001546
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 398069
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-18635471",
+  "slug": "stourbridge-town-arm-walk-18635471",
+  "name": "Stourbridge Town Arm Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4609152,
+    "lon": -2.1489184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18635471
+  }
+}

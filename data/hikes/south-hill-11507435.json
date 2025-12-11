@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507435",
+  "slug": "south-hill-11507435",
+  "name": "South Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4212651,
+    "lon": -0.7571904
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507435
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19862338",
+  "slug": "eaves-wood-tramper-trail-19862338",
+  "name": "Eaves Wood Tramper Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1767509,
+    "lon": -2.8117973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19862338
+  }
+}

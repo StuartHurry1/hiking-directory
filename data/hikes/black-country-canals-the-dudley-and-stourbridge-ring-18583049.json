@@ -1,0 +1,49 @@
+{
+  "id": "osm-18583049",
+  "slug": "black-country-canals-the-dudley-and-stourbridge-ring-18583049",
+  "name": "Black Country Canals: The Dudley & Stourbridge Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.1,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4781005,
+    "lon": -2.1185761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18583049
+  },
+  "ai": {
+    "summary": "A demanding 56.1 km circular hike around the Black Country canal network, connecting the Dudley and Stourbridge areas. The route blends canal towpaths, urban sections, and occasional ridgeline viewpoints. Classified as hard due to the distance and mixed surfaces, it suits experienced hikers prepared for a long day or a multi-day outing with careful pacing and planning.",
+    "terrain_summary": "Mostly canal towpaths and urban/travel surfaces with some unpaved tracks. Expect smooth pavement on many sections, with occasional muddy or grassy stretches after rain. Elevation gain is spread across several shorter climbs around the ridge-like sections near the watercourses, but the overall climbs are modest; the main challenge is the long total distance and variable footing.",
+    "safety_notes": "Plan for a long day (or two) with daylight and weather considerations. Tell someone your route and timings. Wear sturdy waterproof footwear and dress in layers. Carry a map and compass or offline GPS, plus a fully charged phone. Stay hydrated and fueled with regular snacks; know where to refill water along the canal towns. Be mindful of canal traffic, road crossings, and transitions between towpaths and urban streets. Check weather forecasts for rain and wind; carry a waterproof layer and potentially extra warmth. In rural sections, keep to marked paths and watch for uneven surfaces, mud, and overgrown edges. If conditions deteriorate, have a planned bailout point in a nearby town.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and breathable jacket (hardshell)",
+      "Insulating layer (fleece or light down)",
+      "Rucksack with 20-30 L capacity",
+      "Water bottle or hydration system (2-3 L total)",
+      "Map and compass or GPS device with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Small first aid kit and personal meds",
+      "Snacks and energy gels for a long day",
+      "Sunscreen, hat, and sunglasses",
+      "Lightweight rain pants or packable waterproof trousers",
+      "Emergency whistle and high-visibility vest or reflective gear",
+      "Phone with power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) offer the best daylight and drier conditions; aim for a long day with generous daylight, and avoid mid-winter if possible.",
+    "seo": {
+      "title": "Black Country Canals: The Dudley & Stourbridge Ring — 56.1 km Hard Hike in the UK",
+      "meta_description": "Explore a 56.1 km circular hike around the Dudley and Stourbridge canal network in the Black Country. This hard route blends towpaths, ridgeline viewpoints, safety tips, and recommended gear.",
+      "h1": "Black Country Canals: The Dudley & Stourbridge Ring"
+    }
+  }
+}

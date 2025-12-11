@@ -1,0 +1,21 @@
+{
+  "id": "osm-2405525",
+  "slug": "heathland-trail-headley-heath-nt-2405525",
+  "name": "Heathland Trail (Headley Heath NT)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2711431,
+    "lon": -0.2759492
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2405525
+  }
+}

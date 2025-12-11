@@ -1,0 +1,21 @@
+{
+  "id": "osm-13051259",
+  "slug": "the-gruffalo-spotters-trail-13051259",
+  "name": "The Gruffalo Spotters Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4335134,
+    "lon": 0.6609406
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13051259
+  }
+}

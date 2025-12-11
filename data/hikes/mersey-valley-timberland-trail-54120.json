@@ -1,0 +1,21 @@
+{
+  "id": "osm-54120",
+  "slug": "mersey-valley-timberland-trail-54120",
+  "name": "Mersey Valley Timberland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 63.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3327656,
+    "lon": -2.7436836
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 54120
+  }
+}

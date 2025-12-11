@@ -1,0 +1,21 @@
+{
+  "id": "osm-10408203",
+  "slug": "saint-cuthberts-way-deviation-10408203",
+  "name": "Saint Cuthbert's Way - deviation",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5159237,
+    "lon": -2.5636741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10408203
+  }
+}

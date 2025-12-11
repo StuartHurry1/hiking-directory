@@ -1,0 +1,21 @@
+{
+  "id": "osm-19210865",
+  "slug": "the-path-of-contentment-stowe-19210865",
+  "name": "The Path of Contentment, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0271404,
+    "lon": -1.0101367
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19210865
+  }
+}

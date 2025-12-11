@@ -1,0 +1,21 @@
+{
+  "id": "osm-19859362",
+  "slug": "dolaucothi-woodland-trail-19859362",
+  "name": "Dolaucothi Woodland trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0449113,
+    "lon": -3.9517563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19859362
+  }
+}

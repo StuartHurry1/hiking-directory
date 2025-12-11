@@ -1,0 +1,21 @@
+{
+  "id": "osm-19118282",
+  "slug": "headley-heath-bluebell-walk-box-hill-19118282",
+  "name": "Headley Heath Bluebell Walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2712037,
+    "lon": -0.2740553
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19118282
+  }
+}

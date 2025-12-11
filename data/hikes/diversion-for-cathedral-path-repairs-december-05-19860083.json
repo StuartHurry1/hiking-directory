@@ -1,0 +1,21 @@
+{
+  "id": "osm-19860083",
+  "slug": "diversion-for-cathedral-path-repairs-december-05-19860083",
+  "name": "Diversion for Cathedral Path Repairs December 05",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5655203,
+    "lon": -3.5885732
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19860083
+  }
+}

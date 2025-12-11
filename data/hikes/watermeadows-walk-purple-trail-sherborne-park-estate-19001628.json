@@ -1,0 +1,21 @@
+{
+  "id": "osm-19001628",
+  "slug": "watermeadows-walk-purple-trail-sherborne-park-estate-19001628",
+  "name": "Watermeadows Walk (Purple Trail), Sherborne Park Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8362559,
+    "lon": -1.7304891
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001628
+  }
+}

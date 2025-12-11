@@ -1,0 +1,21 @@
+{
+  "id": "osm-18744522",
+  "slug": "rail-trail-stratford-upon-avon-parkway-greater-wilmcote-18744522",
+  "name": "Rail Trail: Stratford-upon-Avon Parkway > Wilmcote",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2068545,
+    "lon": -1.7306424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18744522
+  }
+}

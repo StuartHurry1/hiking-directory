@@ -1,0 +1,21 @@
+{
+  "id": "osm-5121808",
+  "slug": "limestone-link-5121808",
+  "name": "Limestone Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 135.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4468366,
+    "lon": -2.3547667
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5121808
+  }
+}

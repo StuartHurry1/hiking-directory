@@ -1,0 +1,21 @@
+{
+  "id": "osm-19040210",
+  "slug": "yockenthwaite-to-cray-walk-upper-wharfdale-19040210",
+  "name": "Yockenthwaite to Cray walk, Upper Wharfdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2071396,
+    "lon": -2.147771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19040210
+  }
+}

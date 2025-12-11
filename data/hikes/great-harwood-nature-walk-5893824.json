@@ -1,0 +1,21 @@
+{
+  "id": "osm-5893824",
+  "slug": "great-harwood-nature-walk-5893824",
+  "name": "Great Harwood Nature Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7950068,
+    "lon": -2.4000909
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5893824
+  }
+}

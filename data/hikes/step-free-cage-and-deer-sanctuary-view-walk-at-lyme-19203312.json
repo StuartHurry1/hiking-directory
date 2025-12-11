@@ -1,0 +1,21 @@
+{
+  "id": "osm-19203312",
+  "slug": "step-free-cage-and-deer-sanctuary-view-walk-at-lyme-19203312",
+  "name": "Step free cage and deer sanctuary view walk at Lyme",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3386282,
+    "lon": -2.0568761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19203312
+  }
+}

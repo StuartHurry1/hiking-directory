@@ -1,0 +1,21 @@
+{
+  "id": "osm-165273",
+  "slug": "cassop-cum-quarrington-circular-walk-165273",
+  "name": "Cassop-cum-Quarrington circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7386106,
+    "lon": -1.4748119
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 165273
+  }
+}

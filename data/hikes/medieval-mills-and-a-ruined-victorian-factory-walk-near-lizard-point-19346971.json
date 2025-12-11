@@ -1,0 +1,23 @@
+{
+  "id": "osm-19346971",
+  "slug": "medieval-mills-and-a-ruined-victorian-factory-walk-near-lizard-point-19346971",
+  "name": "Medieval mills & a ruined Victorian factory walk near Lizard Point",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 49.9984631,
+    "lon": -5.1759486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19346971
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-3805676",
+  "slug": "tunbridge-wells-circular-walk-hawkenbury-link-3805676",
+  "name": "Tunbridge Wells Circular Walk (Hawkenbury Link)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1262684,
+    "lon": 0.2580648
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3805676
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-4683181",
+  "slug": "isbourne-way-4683181",
+  "name": "Isbourne Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9427045,
+    "lon": -1.9880734
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4683181
+  }
+}

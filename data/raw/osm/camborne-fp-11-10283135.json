@@ -1,0 +1,53 @@
+{
+  "id": 10283135,
+  "slug": "camborne-fp-11-10283135",
+  "name": "Camborne FP 11",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "name": "Camborne FP 11",
+    "network": "lwn",
+    "prow_ref": "Camborne FP 11",
+    "route": "foot",
+    "source:prow_ref": "cornwall_council_prow_gis_data",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.319427,
+      50.2211962
+    ],
+    [
+      -5.3195758,
+      50.2211631
+    ],
+    [
+      -5.320917,
+      50.2205204
+    ],
+    [
+      -5.3219442,
+      50.2199609
+    ],
+    [
+      -5.3222123,
+      50.2198139
+    ],
+    [
+      -5.3222123,
+      50.2198139
+    ],
+    [
+      -5.322301,
+      50.2198717
+    ],
+    [
+      -5.3240658,
+      50.220577
+    ],
+    [
+      -5.3242415,
+      50.2206613
+    ]
+  ]
+}

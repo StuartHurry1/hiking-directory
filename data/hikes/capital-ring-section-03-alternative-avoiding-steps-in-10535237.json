@@ -1,0 +1,21 @@
+{
+  "id": "osm-10535237",
+  "slug": "capital-ring-section-03-alternative-avoiding-steps-in-10535237",
+  "name": "Capital Ring (section 03) - alternative avoiding steps in",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4168381,
+    "lon": -0.0124406
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10535237
+  }
+}

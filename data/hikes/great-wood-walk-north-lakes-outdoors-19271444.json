@@ -1,0 +1,23 @@
+{
+  "id": "osm-19271444",
+  "slug": "great-wood-walk-north-lakes-outdoors-19271444",
+  "name": "Great Wood Walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5828007,
+    "lon": -3.128278
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19271444
+  }
+}

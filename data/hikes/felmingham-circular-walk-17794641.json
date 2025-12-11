@@ -1,0 +1,21 @@
+{
+  "id": "osm-17794641",
+  "slug": "felmingham-circular-walk-17794641",
+  "name": "Felmingham Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8089987,
+    "lon": 1.3391892
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17794641
+  }
+}

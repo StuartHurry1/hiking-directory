@@ -1,0 +1,21 @@
+{
+  "id": "osm-16660184",
+  "slug": "par-beach-trail-16660184",
+  "name": "Par Beach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3645287,
+    "lon": -4.7428512
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16660184
+  }
+}

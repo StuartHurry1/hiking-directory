@@ -1,0 +1,21 @@
+{
+  "id": "osm-1665131",
+  "slug": "the-robin-hood-trail-1665131",
+  "name": "The Robin Hood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9509861,
+    "lon": -1.1436763
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1665131
+  }
+}

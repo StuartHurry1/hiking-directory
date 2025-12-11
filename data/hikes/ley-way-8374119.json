@@ -1,0 +1,21 @@
+{
+  "id": "osm-8374119",
+  "slug": "ley-way-8374119",
+  "name": "Ley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0607793,
+    "lon": -2.4424614
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8374119
+  }
+}

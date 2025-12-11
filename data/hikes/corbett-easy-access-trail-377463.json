@@ -1,0 +1,21 @@
+{
+  "id": "osm-377463",
+  "slug": "corbett-easy-access-trail-377463",
+  "name": "Corbett Easy Access Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7277785,
+    "lon": -2.673335
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 377463
+  }
+}

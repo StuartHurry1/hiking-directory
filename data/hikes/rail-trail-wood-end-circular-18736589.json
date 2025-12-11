@@ -1,0 +1,21 @@
+{
+  "id": "osm-18736589",
+  "slug": "rail-trail-wood-end-circular-18736589",
+  "name": "Rail Trail: Wood End Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3427942,
+    "lon": -1.8442001
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18736589
+  }
+}

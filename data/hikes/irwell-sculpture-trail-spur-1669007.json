@@ -1,0 +1,21 @@
+{
+  "id": "osm-1669007",
+  "slug": "irwell-sculpture-trail-spur-1669007",
+  "name": "Irwell Sculpture Trail (spur)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4793995,
+    "lon": -2.2562751
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1669007
+  }
+}

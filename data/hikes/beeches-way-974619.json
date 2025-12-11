@@ -1,0 +1,45 @@
+{
+  "id": "osm-974619",
+  "slug": "beeches-way-974619",
+  "name": "Beeches Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5636798,
+    "lon": -0.7056846
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 974619
+  },
+  "ai": {
+    "summary": "Beeches Way is a demanding long-distance hike in the UK, spanning 42.8 km. It is best left to experienced hikers due to sustained effort, variable terrain, and potentially exposed sections. A planned itinerary, solid navigation, and proper gear are essential.",
+    "terrain_summary": "The route covers mixed terrain: forest tracks, uneven footpaths, mud, and occasional open moorland or heath. Expect tree roots, rocky sections, variable footing, and weather-driven conditions. Navigation may rely on map and compass as markers can be limited in places.",
+    "safety_notes": "This is a strenuous full-day or multi-day trek. Check weather forecasts; UK conditions can change rapidly. Carry a map and compass (GPS as backup), fully charged phone, whistle, and a first-aid kit. Bring enough water (2–3 L) and high-energy food; dress in layers with a waterproof shell and extra insulation. Wear sturdy boots; consider trekking poles. Start early to ensure daylight; inform someone of your plan; practice Leave No Trace. In winter, daylight is short and conditions can be hazardous.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Insulated mid-layer and hat",
+      "Water and/or hydration system (2–3 L)",
+      "High-energy foods and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Map and compass (GPS as backup)",
+      "Whistle and basic first-aid kit",
+      "Emergency blanket or bivy sack",
+      "Spare socks and a light rain cover for pack",
+      "Mobile phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are generally best for Beeches Way, offering longer daylight and more stable weather. Summer provides the most daylight but can be wetter; late autumn and winter require careful planning and technical gear due to shorter days and harsher conditions.",
+    "seo": {
+      "title": "Beeches Way: 42.8 km Hard Hike in the UK",
+      "meta_description": "Plan your Beeches Way adventure: a challenging 42.8 km hike in the UK. Learn about terrain, safety tips, gear lists, and the best seasons for this demanding route.",
+      "h1": "Beeches Way – UK 42.8 km Hard Hike"
+    }
+  }
+}

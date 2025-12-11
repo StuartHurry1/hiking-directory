@@ -1,0 +1,21 @@
+{
+  "id": "osm-19746606",
+  "slug": "circular-walk-moseley-old-hall-19746606",
+  "name": "Circular Walk, Moseley Old Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6370515,
+    "lon": -2.1021405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19746606
+  }
+}

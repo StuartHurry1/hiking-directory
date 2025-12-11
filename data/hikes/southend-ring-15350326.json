@@ -1,0 +1,21 @@
+{
+  "id": "osm-15350326",
+  "slug": "southend-ring-15350326",
+  "name": "Southend Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 136.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5445875,
+    "lon": 0.6083395
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15350326
+  }
+}

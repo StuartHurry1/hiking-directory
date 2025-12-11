@@ -1,0 +1,21 @@
+{
+  "id": "osm-14941585",
+  "slug": "tamsin-trail-hiking-14941585",
+  "name": "Tamsin Trail - hiking",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4567347,
+    "lon": -0.2674438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14941585
+  }
+}

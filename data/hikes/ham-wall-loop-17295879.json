@@ -1,0 +1,21 @@
+{
+  "id": "osm-17295879",
+  "slug": "ham-wall-loop-17295879",
+  "name": "Ham Wall Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1543947,
+    "lon": -2.7782295
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17295879
+  }
+}

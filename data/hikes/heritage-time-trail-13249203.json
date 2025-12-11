@@ -1,0 +1,21 @@
+{
+  "id": "osm-13249203",
+  "slug": "heritage-time-trail-13249203",
+  "name": "Heritage Time Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8940205,
+    "lon": -1.6712124
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13249203
+  }
+}

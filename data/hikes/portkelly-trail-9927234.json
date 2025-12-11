@@ -1,0 +1,21 @@
+{
+  "id": "osm-9927234",
+  "slug": "portkelly-trail-9927234",
+  "name": "Portkelly Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3407519,
+    "lon": -5.504748
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9927234
+  }
+}

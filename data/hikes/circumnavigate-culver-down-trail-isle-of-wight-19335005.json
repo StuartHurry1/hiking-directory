@@ -1,0 +1,24 @@
+{
+  "id": "osm-19335005",
+  "slug": "circumnavigate-culver-down-trail-isle-of-wight-19335005",
+  "name": "Circumnavigate Culver Down Trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6703558,
+    "lon": -1.1164647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19335005
+  }
+}

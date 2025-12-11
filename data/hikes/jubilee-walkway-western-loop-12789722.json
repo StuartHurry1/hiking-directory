@@ -1,0 +1,21 @@
+{
+  "id": "osm-12789722",
+  "slug": "jubilee-walkway-western-loop-12789722",
+  "name": "Jubilee Walkway (Western Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.510714,
+    "lon": -0.1282832
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12789722
+  }
+}

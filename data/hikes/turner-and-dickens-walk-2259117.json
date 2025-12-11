@@ -1,0 +1,21 @@
+{
+  "id": "osm-2259117",
+  "slug": "turner-and-dickens-walk-2259117",
+  "name": "Turner & Dickens Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3848377,
+    "lon": 1.3836349
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2259117
+  }
+}

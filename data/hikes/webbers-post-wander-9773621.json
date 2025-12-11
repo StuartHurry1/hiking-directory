@@ -1,0 +1,21 @@
+{
+  "id": "osm-9773621",
+  "slug": "webbers-post-wander-9773621",
+  "name": "Webber's Post wander",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1868331,
+    "lon": -3.5737287
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773621
+  }
+}

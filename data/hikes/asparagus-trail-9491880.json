@@ -1,0 +1,42 @@
+{
+  "id": "osm-9491880",
+  "slug": "asparagus-trail-9491880",
+  "name": "Asparagus Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5645542,
+    "lon": -3.0965181
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9491880
+  },
+  "ai": {
+    "summary": "The Asparagus Trail is a ~7.9 km moderate hike in the UK suitable for most walkers seeking a steady day out. The route offers varied scenery, with a mix of surfaces and gentle elevation that keeps the walk engaging without technical sections.",
+    "terrain_summary": "Expect typical UK trail conditions: well-defined paths with patches of grass, gravel, and compact earth. There may be muddy stretches after rain and gentle ascents and descents throughout the route. Overall, footing is moderate and suitable for hikers with some experience.",
+    "safety_notes": "Check weather forecast and daylight hours before you go. Wear sturdy, waterproof footwear and bring extra layers. Carry a map, compass or GPS, and know the route. Stay on marked paths, watch for mud and slippery sections, and take care in groups. Bring water, snacks, a basic first-aid kit, and sun protection. Be mindful of other hikers and dogs, and have a plan for what to do if weather conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Lightweight backpack",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, hat)"
+    ],
+    "best_seasons": "Spring to Autumn (April–October) are usually the most favorable for this trail in the UK, though weather can be changeable.",
+    "seo": {
+      "title": "Asparagus Trail – 7.9 km Moderate Hike in the UK",
+      "meta_description": "Discover the Asparagus Trail, a 7.9 km moderate hike in the UK. Learn about the terrain, safety tips, best seasons, and gear to enjoy a comfortable day on the trail.",
+      "h1": "Asparagus Trail – 7.9 km Moderate Hike in the UK"
+    }
+  }
+}

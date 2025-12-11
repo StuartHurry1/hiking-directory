@@ -1,0 +1,42 @@
+{
+  "id": "osm-16358619",
+  "slug": "bohill-forest-16358619",
+  "name": "Bohill Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3459418,
+    "lon": -5.8511948
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16358619
+  },
+  "ai": {
+    "summary": "Bohill Forest offers a short, easy hike in the UK. The 1.3 km trail is suitable for beginners and families, with mostly gentle terrain and shaded woodland surroundings.",
+    "terrain_summary": "The route follows well-maintained forest paths with gentle gradients. Expect a compact earth surface with occasional exposed roots and puddles after rain. Mostly shaded, with limited long views.",
+    "safety_notes": "Check weather and trail conditions before you go. Wear sturdy waterproof footwear and bring a light layer; trails can be muddy. Stay on marked paths, carry a map or offline navigation, and tell someone your plans. Bring water, a small first aid kit, and a phone with emergency contacts. Be mindful of ticks in woodland and seasonal wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Light rain jacket or layer",
+      "Water bottle",
+      "Map or offline navigation",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Insect repellent",
+      "Hat and sun protection"
+    ],
+    "best_seasons": "Spring through autumn; winter can be muddy with shorter daylight.",
+    "seo": {
+      "title": "Bohill Forest – Easy 1.3 km Hike in the UK",
+      "meta_description": "Explore Bohill Forest with a short and easy 1.3 km hike in the UK. Perfect for beginners and families, featuring gentle terrain and shaded paths.",
+      "h1": "Bohill Forest Easy 1.3 km Hike"
+    }
+  }
+}

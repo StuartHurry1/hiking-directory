@@ -1,0 +1,21 @@
+{
+  "id": "osm-5385431",
+  "slug": "curlew-trail-5385431",
+  "name": "Curlew Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0893984,
+    "lon": -4.0822822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5385431
+  }
+}

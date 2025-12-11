@@ -1,0 +1,21 @@
+{
+  "id": "osm-13807250",
+  "slug": "crowan-br-76-13807250",
+  "name": "Crowan BR 76",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1675768,
+    "lon": -5.3205398
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13807250
+  }
+}

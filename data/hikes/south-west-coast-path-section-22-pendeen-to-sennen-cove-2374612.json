@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374612",
+  "slug": "south-west-coast-path-section-22-pendeen-to-sennen-cove-2374612",
+  "name": "South West Coast Path (Section 22: Pendeen to Sennen Cove)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1613062,
+    "lon": -5.6694227
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374612
+  }
+}

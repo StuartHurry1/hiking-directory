@@ -1,0 +1,23 @@
+{
+  "id": "osm-2190977",
+  "slug": "south-dorset-ridgeway-2190977",
+  "name": "South Dorset Ridgeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6758697,
+    "lon": -2.6649941
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2190977
+  }
+}

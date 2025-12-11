@@ -1,0 +1,23 @@
+{
+  "id": "osm-4102347",
+  "slug": "fen-rivers-way-cambridge-to-ely-4102347",
+  "name": "Fen Rivers Way (Cambridge to Ely)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.9,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3961641,
+    "lon": 0.2740293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4102347
+  }
+}

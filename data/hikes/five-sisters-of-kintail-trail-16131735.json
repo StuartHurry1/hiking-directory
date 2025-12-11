@@ -1,0 +1,21 @@
+{
+  "id": "osm-16131735",
+  "slug": "five-sisters-of-kintail-trail-16131735",
+  "name": "Five Sisters of Kintail Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1696601,
+    "lon": -5.2961157
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16131735
+  }
+}

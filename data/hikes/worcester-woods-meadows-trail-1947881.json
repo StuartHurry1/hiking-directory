@@ -1,0 +1,21 @@
+{
+  "id": "osm-1947881",
+  "slug": "worcester-woods-meadows-trail-1947881",
+  "name": "Worcester Woods Meadows Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1869482,
+    "lon": -2.1800553
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1947881
+  }
+}

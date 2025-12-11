@@ -1,0 +1,21 @@
+{
+  "id": "osm-19557728",
+  "slug": "trassey-track-upper-19557728",
+  "name": "Trassey Track (upper)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1935853,
+    "lon": -5.9793328
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19557728
+  }
+}

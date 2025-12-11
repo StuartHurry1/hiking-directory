@@ -1,0 +1,21 @@
+{
+  "id": "osm-11043684",
+  "slug": "rainford-linear-park-11043684",
+  "name": "Rainford Linear Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5166366,
+    "lon": -2.7897058
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11043684
+  }
+}

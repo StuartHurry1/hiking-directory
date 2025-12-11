@@ -1,0 +1,21 @@
+{
+  "id": "osm-1227246",
+  "slug": "little-ouse-path-1227246",
+  "name": "Little Ouse Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 71.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4137221,
+    "lon": 0.7457972
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1227246
+  }
+}

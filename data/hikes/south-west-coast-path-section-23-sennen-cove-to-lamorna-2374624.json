@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374624",
+  "slug": "south-west-coast-path-section-23-sennen-cove-to-lamorna-2374624",
+  "name": "South West Coast Path (Section 23: Sennen Cove to Lamorna)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0780192,
+    "lon": -5.6994666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374624
+  }
+}

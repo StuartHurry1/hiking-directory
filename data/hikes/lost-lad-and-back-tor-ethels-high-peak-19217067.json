@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217067",
+  "slug": "lost-lad-and-back-tor-ethels-high-peak-19217067",
+  "name": "Lost Lad and Back Tor (Ethels), High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4025987,
+    "lon": -1.7415814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217067
+  }
+}

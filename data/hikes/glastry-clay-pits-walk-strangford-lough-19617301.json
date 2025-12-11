@@ -1,0 +1,21 @@
+{
+  "id": "osm-19617301",
+  "slug": "glastry-clay-pits-walk-strangford-lough-19617301",
+  "name": "Glastry Clay Pits Walk, Strangford Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4896235,
+    "lon": -5.4723278
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617301
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-15739662",
+  "slug": "ancient-tree-walk-15739662",
+  "name": "Ancient Tree Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2865665,
+    "lon": -2.8064582
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15739662
+  },
+  "ai": {
+    "summary": "A gentle 3.3 km woodland walk in the UK, known as Ancient Tree Walk, featuring ancient trees and shaded paths. Easy terrain suitable for families and beginners.",
+    "terrain_summary": "Flat to gently undulating woodland trail with well-marked paths. Mostly firm underfoot, but expect some exposed roots and sections of shade.",
+    "safety_notes": "Stay on marked paths, wear sturdy footwear, and bring a light waterproof layer. Be mindful of uneven ground, roots, and wet leaves, especially after rain. Carry water and a small map or smartphone for navigation, check daylight hours for winter visits, and inform someone of your plan. Supervise children closely and be aware of wildlife along the trail.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light weather-appropriate clothing (waterproof jacket, hat)",
+      "Map or offline navigation app",
+      "Snacks and a small first-aid kit",
+      "Sun protection (sunscreen, sunglasses) for sunny days",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and autumn when temperatures are mild and the woodland scenery is at its best.",
+    "seo": {
+      "title": "Ancient Tree Walk – Easy 3.3 km Woodland Hike in the UK",
+      "meta_description": "Explore Ancient Tree Walk, an easy 3.3 km forest trail in the UK. Perfect for families and beginners seeking a short, shaded hike among ancient trees.",
+      "h1": "Ancient Tree Walk: Easy 3.3 km Woodland Trail in the UK"
+    }
+  }
+}

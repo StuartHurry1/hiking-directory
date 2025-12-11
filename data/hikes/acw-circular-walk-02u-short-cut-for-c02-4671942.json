@@ -1,0 +1,44 @@
+{
+  "id": "osm-4671942",
+  "slug": "acw-circular-walk-02u-short-cut-for-c02-4671942",
+  "name": "ACW Circular Walk 02U (short-cut for C02)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4096809,
+    "lon": -1.6393788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4671942
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 02U is a 7.1 km circular route in the UK, marketed as a short-cut variation of C02. Region is unknown; the walk traverses a mix of paths including grassy verges and formed paths with occasional gentle climbs, suitable for walkers with a moderate fitness level.",
+    "terrain_summary": "The route uses a mix of well-defined paths, field margins and short sections of uneven ground. Expect a few gentle ascents and descents, with some exposure to mud after rain. Surface quality ranges from compact gravel to short grassy stretches; stiles and gates may be encountered.",
+    "safety_notes": "Check weather and daylight hours before setting out. The walk is on open country paths with occasional road sections; carry a map or GPS, and keep a charged phone. Wear sturdy footwear, bring water and snacks, and dress for changing UK conditions. Take care on wet or uneven ground, and be mindful of others on shared paths.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and/or GPS device (or offline map on phone)",
+      "Phone with a charged battery",
+      "Small first aid kit",
+      "Sun protection ( hat, sunscreen )",
+      "Headlamp or flashlight (for late finishes or low light)",
+      "Lightweight rain cover or poncho",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (approximately March to October) in the UK; can be walked year-round with extra care in winter.",
+    "seo": {
+      "title": "ACW Circular Walk 02U – 7.1 km Moderate Circular Trail in the UK",
+      "meta_description": "Discover the ACW Circular Walk 02U, a 7.1 km moderate circular hike in the UK. Learn about terrain, safety tips, and essential gear.",
+      "h1": "ACW Circular Walk 02U (C02 Short-cut) – 7.1 km Circular Walk in the UK"
+    }
+  }
+}

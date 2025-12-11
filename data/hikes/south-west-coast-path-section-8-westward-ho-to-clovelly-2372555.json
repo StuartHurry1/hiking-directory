@@ -1,0 +1,23 @@
+{
+  "id": "osm-2372555",
+  "slug": "south-west-coast-path-section-8-westward-ho-to-clovelly-2372555",
+  "name": "South West Coast Path (Section 8: Westward Ho! to Clovelly)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0400105,
+    "lon": -4.247603
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2372555
+  }
+}

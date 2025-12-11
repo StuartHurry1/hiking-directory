@@ -1,0 +1,23 @@
+{
+  "id": "osm-17739040",
+  "slug": "waterfall-way-17739040",
+  "name": "Waterfall Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1312851,
+    "lon": -5.0408161
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17739040
+  }
+}

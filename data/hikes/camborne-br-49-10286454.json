@@ -1,0 +1,39 @@
+{
+  "id": "osm-10286454",
+  "slug": "camborne-br-49-10286454",
+  "name": "Camborne BR 49",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2018028,
+    "lon": -5.2678735
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10286454
+  },
+  "ai": {
+    "summary": "A very short, easy 0.4 km hike in the United Kingdom called Camborne BR 49. Suitable for beginners and families, this trail offers a straightforward walk with minimal elevation and well-maintained surfaces.",
+    "terrain_summary": "Mostly flat and well maintained with a mix of paved and compacted surface. Expect minimal elevation gain, occasional gentle curves, and settled footing that is suitable for most walkers.",
+    "safety_notes": "This is a short route, but always follow general safety guidelines: check the weather forecast, wear sturdy footwear, stay on marked paths, and be mindful of surface conditions when wet or muddy. Keep an eye out for traffic if the path intersects roads and supervise children or pets. Carry water and a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Phone with offline map",
+      "Hat or sunscreen"
+    ],
+    "best_seasons": "All year round, though conditions vary. Spring and early autumn offer mild weather and good visibility; summer is dry and bright; winter can be cold and slippery, so plan accordingly.",
+    "seo": {
+      "title": "Camborne BR 49 - Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore Camborne BR 49, a short 0.4 km easy hike in the UK. Learn about the terrain, safety tips, and gear for a quick and beginner friendly trail.",
+      "h1": "Camborne BR 49 – 0.4 km Easy Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17309584",
+  "slug": "deodar-glen-walk-killerton-17309584",
+  "name": "Deodar Glen Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17309584
+  }
+}

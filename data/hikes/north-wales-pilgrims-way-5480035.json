@@ -1,0 +1,21 @@
+{
+  "id": "osm-5480035",
+  "slug": "north-wales-pilgrims-way-5480035",
+  "name": "North Wales Pilgrim's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 135.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2466727,
+    "lon": -3.9577556
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5480035
+  }
+}

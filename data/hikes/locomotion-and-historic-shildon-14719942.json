@@ -1,0 +1,21 @@
+{
+  "id": "osm-14719942",
+  "slug": "locomotion-and-historic-shildon-14719942",
+  "name": "Locomotion & Historic Shildon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.623025,
+    "lon": -1.6307902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14719942
+  }
+}

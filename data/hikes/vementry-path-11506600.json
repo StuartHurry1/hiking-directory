@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506600",
+  "slug": "vementry-path-11506600",
+  "name": "Vementry Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3022414,
+    "lon": -1.4441487
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506600
+  }
+}

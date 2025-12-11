@@ -1,0 +1,42 @@
+{
+  "id": "osm-2402046",
+  "slug": "allander-walkway-2402046",
+  "name": "Allander Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9278231,
+    "lon": -4.2813746
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2402046
+  },
+  "ai": {
+    "summary": "Allander Walkway is a 6.6 km moderate riverside trail in the UK that follows the Allander Water. The route is largely flat, weaving through woodland and along the river to provide calm scenery, wildlife viewing, and steady progress for walkers with moderate fitness.",
+    "terrain_summary": "Predominantly well-maintained paths of compacted gravel and earth, with occasional boardwalk sections. Expect some roots, gentle steps, and possible mud after rain. The route is shared with cyclists in parts and can be uneven in shaded woodland sections.",
+    "safety_notes": "Stay aware of other users on shared paths, especially cyclists. Wear sturdy footwear for uneven surfaces and mud. Check weather conditions, as UK rain can make the trails slippery. Bring a map or offline navigation, stay on marked paths, and supervise children near the water.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Light waterproof jacket and extra layer",
+      "Weather-appropriate clothing (hat, gloves if cold)",
+      "Map or offline navigation on phone",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, sunglasses)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions with longer daylight and drier trails, though the walk can be done year-round with appropriate clothing and footing.",
+    "seo": {
+      "title": "Allander Walkway – 6.6 km Moderate Hike Along Allander Water in the UK",
+      "meta_description": "Explore the 6.6 km Allander Walkway, a moderate riverside hike along Allander Water in the UK. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "Allander Walkway – 6.6 km Moderate Hike Along Allander Water"
+    }
+  }
+}

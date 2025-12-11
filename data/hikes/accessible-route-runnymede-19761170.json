@@ -1,0 +1,44 @@
+{
+  "id": "osm-19761170",
+  "slug": "accessible-route-runnymede-19761170",
+  "name": "Accessible Route, Runnymede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4484055,
+    "lon": -0.5678695
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761170
+  },
+  "ai": {
+    "summary": "A 4.8 km easy hike on an accessible route in the UK, designed for a comfortable, low-effort outing with flat terrain and minimal elevation.",
+    "terrain_summary": "Mostly flat, well-surfaced paths such as paved or compact gravel. Wide routes with gentle gradients; few steps or stairs. Check for seasonal maintenance and gate widths if using mobility aids like a wheelchair or stroller.",
+    "safety_notes": "Follow marked trails and local regulations. UK weather can change quickly—dress in layers and bring rain protection. Stay hydrated, carry a small first aid kit, and have a charged phone for emergencies. If using mobility aids, verify gate widths and surface consistency in advance.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing and layers",
+      "Water bottle",
+      "Snacks",
+      "Light rain jacket or poncho",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with emergency numbers",
+      "Small first aid kit",
+      "Backpack or daypack",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn; can be enjoyed year-round with proper clothing and waterproofing.",
+    "seo": {
+      "title": "Accessible Route, Runnymede – Easy 4.8 km Hike in the UK",
+      "meta_description": "Explore the Accessible Route at Runnymede in the UK: a flat, easy 4.8 km hike with accessible paths, suitable for all abilities. Safety tips and gear guide included.",
+      "h1": "Accessible Route, Runnymede – 4.8 km Easy Hike"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-2866087",
+  "slug": "ben-lomond-viewpoint-2866087",
+  "name": "Ben Lomond Viewpoint",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1784842,
+    "lon": -4.4204293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866087
+  },
+  "ai": {
+    "summary": "The Ben Lomond Viewpoint hike is an easy 5.3 km route in the UK designed for a relaxed day outdoors. Suitable for beginners and families, the trail features gentle paths and a rewarding viewpoint with scenic landscapes.",
+    "terrain_summary": "The route uses well-marked footpaths with gently rolling terrain. Expect mostly easy walking surface with some short sections of uneven, grassy, or lightly rocky ground. Weather can be changeable, so be prepared for mud and damp conditions, especially in winter.",
+    "safety_notes": "Check weather forecasts before you go and avoid strong winds or poor visibility. Wear sturdy waterproof footwear and dress in layers. Carry a map or GPS, a fully charged phone, water, snacks, and a light emergency layer. Stay on marked paths, keep children and dogs under control, and inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weatherproof jacket and extra layers",
+      "Water bottle (at least 1–2 L)",
+      "Map and compass or GPS device",
+      "Snack or energy bars",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Warm layer for changeable conditions",
+      "Headlamp or flashlight (in case of late return)",
+      "Phone with emergency numbers and portable power bank"
+    ],
+    "best_seasons": "Spring to autumn (with favorable weather); winter hikes are possible with proper gear and experience.",
+    "seo": {
+      "title": "Ben Lomond Viewpoint — Easy 5.3 km Hike in the UK",
+      "meta_description": "Explore the Ben Lomond Viewpoint on a gentle 5.3 km hike in the UK. Easy terrain, scenic views, safety tips, and gear suggestions for a great day outdoors.",
+      "h1": "Ben Lomond Viewpoint: Easy 5.3 km Hike in the UK"
+    }
+  }
+}

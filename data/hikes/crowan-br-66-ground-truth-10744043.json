@@ -1,0 +1,21 @@
+{
+  "id": "osm-10744043",
+  "slug": "crowan-br-66-ground-truth-10744043",
+  "name": "Crowan BR 66 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1906059,
+    "lon": -5.3046391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10744043
+  }
+}

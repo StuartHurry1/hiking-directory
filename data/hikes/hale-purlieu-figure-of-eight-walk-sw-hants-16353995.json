@@ -1,0 +1,21 @@
+{
+  "id": "osm-16353995",
+  "slug": "hale-purlieu-figure-of-eight-walk-sw-hants-16353995",
+  "name": "Hale Purlieu Figure of Eight Walk, SW Hants",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9596477,
+    "lon": -1.7311207
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16353995
+  }
+}

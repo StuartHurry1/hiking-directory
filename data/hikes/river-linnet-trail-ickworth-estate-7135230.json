@@ -1,0 +1,21 @@
+{
+  "id": "osm-7135230",
+  "slug": "river-linnet-trail-ickworth-estate-7135230",
+  "name": "River Linnet Trail, Ickworth Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.234668,
+    "lon": 0.6515328
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7135230
+  }
+}

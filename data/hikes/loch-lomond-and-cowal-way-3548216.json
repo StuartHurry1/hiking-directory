@@ -1,0 +1,21 @@
+{
+  "id": "osm-3548216",
+  "slug": "loch-lomond-and-cowal-way-3548216",
+  "name": "Loch Lomond and Cowal Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 181.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8763696,
+    "lon": -5.3158716
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3548216
+  }
+}

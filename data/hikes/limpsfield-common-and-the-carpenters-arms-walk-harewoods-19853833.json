@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853833",
+  "slug": "limpsfield-common-and-the-carpenters-arms-walk-harewoods-19853833",
+  "name": "Limpsfield common and the Carpenters Arms Walk, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2563126,
+    "lon": 0.0215308
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853833
+  }
+}

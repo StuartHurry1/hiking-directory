@@ -1,0 +1,41 @@
+{
+  "id": "osm-18177217",
+  "slug": "bure-circular-18177217",
+  "name": "Bure Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.802084,
+    "lon": 1.2428822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18177217
+  },
+  "ai": {
+    "summary": "Bure Circular is a short, easy 4.3 km circular walk in the UK. It suits most ages and abilities, offering a relaxed pace with rural scenery around the area.",
+    "terrain_summary": "The route follows a mix of well-defined paths, grassy tracks, and some gravel sections. Expect gentle gradients, with occasional mud after rain and gates or barriers along the way.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy footwear and bring a waterproof layer. Stay on marked paths, and be prepared for muddy sections after rain. Watch for livestock in rural stretches, and take care at any road crossings or gateways. Let someone know your plans and carry a mobile phone with emergency numbers.",
+    "recommended_gear": [
+      "Comfortable walking footwear",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or offline GPS / smartphone with offline map",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and autumn when temperatures are mild and daylight is ample.",
+    "seo": {
+      "title": "Bure Circular Walk – 4.3 km Easy Hike in the UK",
+      "meta_description": "Explore Bure Circular, a gentle 4.3 km circular walk in the UK. Easy terrain, practical safety tips, and essential gear for a comfortable day outdoors.",
+      "h1": "Bure Circular – 4.3 km Easy Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11565788",
+  "slug": "moorish-tower-walk-11565788",
+  "name": "Moorish Tower Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2666142,
+    "lon": -5.9706776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11565788
+  }
+}

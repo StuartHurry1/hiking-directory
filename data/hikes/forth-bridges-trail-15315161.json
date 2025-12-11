@@ -1,0 +1,23 @@
+{
+  "id": "osm-15315161",
+  "slug": "forth-bridges-trail-15315161",
+  "name": "Forth Bridges Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0083664,
+    "lon": -3.3996659
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15315161
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-945161",
+  "slug": "durham-coastal-path-945161",
+  "name": "Durham Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8496946,
+    "lon": -1.3446083
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 945161
+  }
+}

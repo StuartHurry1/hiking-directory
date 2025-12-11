@@ -1,0 +1,23 @@
+{
+  "id": "osm-19793195",
+  "slug": "polruan-coast-and-creek-walk-lantic-bay-19793195",
+  "name": "Polruan coast and creek walk, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.332929,
+    "lon": -4.6015427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19793195
+  }
+}

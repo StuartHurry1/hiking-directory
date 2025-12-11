@@ -1,0 +1,21 @@
+{
+  "id": "osm-17908033",
+  "slug": "h100-esh-winning-and-waterhouses-17908033",
+  "name": "H100 - Esh Winning and Waterhouses",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7688155,
+    "lon": -1.7033931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17908033
+  }
+}

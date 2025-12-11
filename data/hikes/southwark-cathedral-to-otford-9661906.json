@@ -1,0 +1,21 @@
+{
+  "id": "osm-9661906",
+  "slug": "southwark-cathedral-to-otford-9661906",
+  "name": "Southwark Cathedral to Otford",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5059428,
+    "lon": -0.0903255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9661906
+  }
+}

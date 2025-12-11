@@ -1,0 +1,21 @@
+{
+  "id": "osm-1536493",
+  "slug": "isaacs-tea-trail-1536493",
+  "name": "Isaac's Tea Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 124.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7882582,
+    "lon": -2.340897
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1536493
+  }
+}

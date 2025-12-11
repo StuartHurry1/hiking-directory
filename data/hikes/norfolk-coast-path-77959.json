@@ -1,0 +1,23 @@
+{
+  "id": "osm-77959",
+  "slug": "norfolk-coast-path-77959",
+  "name": "Norfolk Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 485.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.789371,
+    "lon": 1.6021703
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77959
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3091545",
+  "slug": "the-brenda-parker-way-3091545",
+  "name": "The Brenda Parker Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 201.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3248706,
+    "lon": -1.2468895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3091545
+  }
+}

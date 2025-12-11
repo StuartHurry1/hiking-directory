@@ -1,0 +1,21 @@
+{
+  "id": "osm-10391459",
+  "slug": "redruth-fp-24-10391459",
+  "name": "Redruth FP 24",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2401518,
+    "lon": -5.2272114
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10391459
+  }
+}

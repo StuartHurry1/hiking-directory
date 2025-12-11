@@ -1,0 +1,21 @@
+{
+  "id": "osm-15054863",
+  "slug": "wetlands-walk-15054863",
+  "name": "Wetlands Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.306021,
+    "lon": -1.0973932
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15054863
+  }
+}

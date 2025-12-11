@@ -1,0 +1,21 @@
+{
+  "id": "osm-1120852",
+  "slug": "moyle-way-1120852",
+  "name": "Moyle Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 102.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2049772,
+    "lon": -6.2396503
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1120852
+  }
+}

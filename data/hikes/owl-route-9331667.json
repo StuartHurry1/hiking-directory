@@ -1,0 +1,21 @@
+{
+  "id": "osm-9331667",
+  "slug": "owl-route-9331667",
+  "name": "Owl Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9528822,
+    "lon": -1.0925942
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9331667
+  }
+}

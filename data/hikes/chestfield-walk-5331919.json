@@ -1,0 +1,21 @@
+{
+  "id": "osm-5331919",
+  "slug": "chestfield-walk-5331919",
+  "name": "Chestfield Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3587278,
+    "lon": 1.0630936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5331919
+  }
+}

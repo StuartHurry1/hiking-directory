@@ -1,0 +1,21 @@
+{
+  "id": "osm-19207197",
+  "slug": "mam-tor-cavedale-loop-high-peak-19207197",
+  "name": "Mam Tor Cavedale Loop, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3452329,
+    "lon": -1.8129059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19207197
+  }
+}

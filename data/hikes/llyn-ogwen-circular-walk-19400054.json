@@ -1,0 +1,21 @@
+{
+  "id": "osm-19400054",
+  "slug": "llyn-ogwen-circular-walk-19400054",
+  "name": "Llyn Ogwen Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1234257,
+    "lon": -4.0200953
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400054
+  }
+}

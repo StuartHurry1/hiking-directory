@@ -1,0 +1,23 @@
+{
+  "id": "osm-19760943",
+  "slug": "finchampstead-ridges-ramble-finchampstead-ridges-19760943",
+  "name": "Finchampstead Ridges Ramble, Finchampstead Ridges",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3624885,
+    "lon": -0.8384732
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19760943
+  }
+}

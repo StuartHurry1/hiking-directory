@@ -1,0 +1,39 @@
+{
+  "id": "osm-18625687",
+  "slug": "2km-walk-sutton-park-18625687",
+  "name": "2km walk: Sutton Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.564177,
+    "lon": -1.8354994
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18625687
+  },
+  "ai": {
+    "summary": "A short, easy walk in Sutton Park, Birmingham, UK. The route covers roughly 1.7 km on level paths through open parkland and shaded areas, making it ideal for families, beginners, and casual strolls.",
+    "terrain_summary": "Mostly flat, well-maintained gravel and compacted earth paths with some grassy sections. Expect gentle slopes at park entrances and near tree lines, with occasional roots or uneven spots.",
+    "safety_notes": "Follow park rules and stay on marked trails. Be mindful of other park users, cyclists, and pets. Check the weather and bring water; wear suitable footwear and sun protection on sunny days. In autumn and winter be prepared for wet conditions and reduced visibility after dusk.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layering)",
+      "Sunscreen and hat",
+      "Small backpack"
+    ],
+    "best_seasons": "All year round; spring and autumn are particularly pleasant, but the walk is suitable in any season with appropriate clothing.",
+    "seo": {
+      "title": "2km Walk: Sutton Park - Easy 1.7 km Stroll in the UK",
+      "meta_description": "Enjoy an easy 1.7 km stroll in Sutton Park, Birmingham, UK. Great for families and beginners with flat paths, scenic parkland, safety tips, and gear suggestions.",
+      "h1": "2km Walk: Sutton Park - Easy 1.7 km Stroll in the UK"
+    }
+  }
+}

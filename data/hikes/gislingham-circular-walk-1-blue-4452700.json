@@ -1,0 +1,21 @@
+{
+  "id": "osm-4452700",
+  "slug": "gislingham-circular-walk-1-blue-4452700",
+  "name": "Gislingham Circular Walk 1 (Blue)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3024449,
+    "lon": 1.0422668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4452700
+  }
+}

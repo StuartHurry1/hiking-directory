@@ -1,0 +1,23 @@
+{
+  "id": "osm-19032543",
+  "slug": "heathland-trail-kinver-edge-19032543",
+  "name": "Heathland Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4438117,
+    "lon": -2.2396066
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19032543
+  }
+}

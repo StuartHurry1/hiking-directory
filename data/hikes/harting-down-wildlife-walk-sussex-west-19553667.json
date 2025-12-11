@@ -1,0 +1,21 @@
+{
+  "id": "osm-19553667",
+  "slug": "harting-down-wildlife-walk-sussex-west-19553667",
+  "name": "Harting Down Wildlife Walk, Sussex West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9567512,
+    "lon": -0.876371
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19553667
+  }
+}

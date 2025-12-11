@@ -1,0 +1,21 @@
+{
+  "id": "osm-18744967",
+  "slug": "rail-trail-shakespeares-stratford-18744967",
+  "name": "Rail Trail: Shakespeare’s Stratford",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.194395,
+    "lon": -1.7160159
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18744967
+  }
+}

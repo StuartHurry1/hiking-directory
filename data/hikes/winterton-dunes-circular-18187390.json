@@ -1,0 +1,21 @@
+{
+  "id": "osm-18187390",
+  "slug": "winterton-dunes-circular-18187390",
+  "name": "Winterton Dunes Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7187314,
+    "lon": 1.691386
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18187390
+  }
+}

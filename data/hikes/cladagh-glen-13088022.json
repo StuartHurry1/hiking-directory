@@ -1,0 +1,21 @@
+{
+  "id": "osm-13088022",
+  "slug": "cladagh-glen-13088022",
+  "name": "Cladagh Glen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2596003,
+    "lon": -7.815438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13088022
+  }
+}

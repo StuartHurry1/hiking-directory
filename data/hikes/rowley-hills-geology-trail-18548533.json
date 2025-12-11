@@ -1,0 +1,21 @@
+{
+  "id": "osm-18548533",
+  "slug": "rowley-hills-geology-trail-18548533",
+  "name": "Rowley Hills Geology Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5013355,
+    "lon": -2.0496276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18548533
+  }
+}

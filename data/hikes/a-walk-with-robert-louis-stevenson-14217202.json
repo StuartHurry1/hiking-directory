@@ -1,0 +1,39 @@
+{
+  "id": "osm-14217202",
+  "slug": "a-walk-with-robert-louis-stevenson-14217202",
+  "name": "A Walk with Robert Louis Stevenson",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9075022,
+    "lon": -3.2560011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14217202
+  },
+  "ai": {
+    "summary": "A short, easy walk in the UK inspired by Robert Louis Stevenson. This gentle stroll is described as 0 km, making it a very brief exploration that can be enjoyed by walkers of all ages.",
+    "terrain_summary": "Urban sidewalks and park paths with flat, easy terrain. Mostly level, but conditions depend on the local route and pavement.",
+    "safety_notes": "As with any urban walk, watch for traffic at crossings and crowded sidewalks. Check the weather in advance, wear comfortable footwear, and carry water and a charged phone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light layer or jacket",
+      "Water bottle",
+      "Map or smartphone with route",
+      "Sunscreen and hat (as needed)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn in the UK; plan for rain and variable weather year-round.",
+    "seo": {
+      "title": "A Walk with Robert Louis Stevenson - Easy UK Trail",
+      "meta_description": "Discover a short, easy walk in the UK inspired by Robert Louis Stevenson. Ideal for all ages and accessibility, with a gentle pace and minimal distance.",
+      "h1": "A Walk with Robert Louis Stevenson"
+    }
+  }
+}

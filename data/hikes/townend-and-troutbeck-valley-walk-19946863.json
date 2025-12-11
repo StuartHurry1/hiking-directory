@@ -1,0 +1,21 @@
+{
+  "id": "osm-19946863",
+  "slug": "townend-and-troutbeck-valley-walk-19946863",
+  "name": "Townend and Troutbeck Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4087576,
+    "lon": -2.9189789
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19946863
+  }
+}

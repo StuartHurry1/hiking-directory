@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865937",
+  "slug": "footpath-u76-2865937",
+  "name": "Footpath U76",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5462654,
+    "lon": -1.3661318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865937
+  }
+}

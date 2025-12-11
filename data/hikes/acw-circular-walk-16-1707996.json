@@ -1,0 +1,46 @@
+{
+  "id": "osm-1707996",
+  "slug": "acw-circular-walk-16-1707996",
+  "name": "ACW Circular Walk 16",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.462366,
+    "lon": -1.5369957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707996
+  },
+  "ai": {
+    "summary": "A demanding 44.4 km circular route in the UK, ACW Circular Walk 16 threads together rural lanes, field boundaries and occasional tracks. It features significant elevation changes and long distances, making it suitable for experienced hikers with solid navigation skills.",
+    "terrain_summary": "Mixed terrain including grassy paths, hedged field margins, woodland tracks, and some stony sections. Expect uneven footing, gates and stile crossings, and occasional road sections. Weather can change footing and visibility, so footing and navigation require attention.",
+    "safety_notes": "Plan as a full day hike: start early, carry a map and compass as well as a reliable GPS backup, and tell someone your route and expected finish time. Weather in the UK can change rapidly; bring waterproof clothing and sufficient insulation. Stay hydrated, carry enough food, and know your exit points. Carry a charged phone, but do not rely on signal in all areas. Have a first aid kit and emergency bivvy, and know how to contact local services if you are in distress. Navigation in unfamiliar countryside can be challenging; use handrails and retrace steps if lost.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers (base layer, fleece/sweater, waterproof outer layer)",
+      "Waterproof backpack cover",
+      "Hydration system or water bottles (2–3 liters total)",
+      "High-energy food and snacks",
+      "Map and compass (and optional GPS with offline maps)",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight emergency shelter or space blanket",
+      "First aid kit with blister supplies",
+      "Whistle and personal locator beacon if available",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Extra dry bags or waterproof bags for electronics"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal; the route can be undertaken year-round with additional winter precautions.",
+    "seo": {
+      "title": "ACW Circular Walk 16 – 44.4 km Hard UK Circular Trek",
+      "meta_description": "Discover ACW Circular Walk 16, a challenging 44.4 km circular trek in the UK. Practical tips, terrain notes, safety advice, and gear recommendations for experienced hikers.",
+      "h1": "ACW Circular Walk 16: A 44.4 km Hard UK Circular Trek"
+    }
+  }
+}

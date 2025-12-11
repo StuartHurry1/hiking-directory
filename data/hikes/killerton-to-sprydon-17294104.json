@@ -1,0 +1,21 @@
+{
+  "id": "osm-17294104",
+  "slug": "killerton-to-sprydon-17294104",
+  "name": "Killerton to Sprydon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7881213,
+    "lon": -3.4453807
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17294104
+  }
+}

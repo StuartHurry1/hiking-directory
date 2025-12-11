@@ -1,0 +1,21 @@
+{
+  "id": "osm-11565832",
+  "slug": "slievenaslat-walk-11565832",
+  "name": "Slievenaslat Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2614135,
+    "lon": -5.9536078
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11565832
+  }
+}

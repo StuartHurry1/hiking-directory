@@ -1,0 +1,21 @@
+{
+  "id": "osm-313464",
+  "slug": "geology-trail-313464",
+  "name": "Geology Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.832506,
+    "lon": -2.2399028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 313464
+  }
+}

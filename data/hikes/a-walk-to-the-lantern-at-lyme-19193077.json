@@ -1,0 +1,44 @@
+{
+  "id": "osm-19193077",
+  "slug": "a-walk-to-the-lantern-at-lyme-19193077",
+  "name": "A Walk to the Lantern at Lyme",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3372547,
+    "lon": -2.0467433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19193077
+  },
+  "ai": {
+    "summary": "A gentle 5.5 km walk in the UK to reach the Lantern at Lyme. The route is suitable for beginners and families, offering coastal views and a relaxed pace without major ascents.",
+    "terrain_summary": "Mostly flat with occasional gentle slopes. The path uses paved surfaces, compact gravel, and grassy verges; expect a few uneven spots and steps near the lantern. Coastal winds can be strong in exposed sections.",
+    "safety_notes": "Check local tide and weather conditions before you go. Wear sturdy, comfortable walking shoes and dress in layers for changing UK weather. Stay on marked paths, keep an eye on children and pets, and carry a charged phone with emergency numbers. Bring water and snacks, and be prepared for wind near the coast. If visibility is poor, consider postponing the walk.",
+    "recommended_gear": [
+      "Comfortable waterproof walking shoes",
+      "Windproof and waterproof jacket",
+      "Layers and hat",
+      "Water and snacks",
+      "Map or offline GPS + phone",
+      "Sun protection (sunscreen, sunglasses)",
+      "Small backpack",
+      "Basic first aid kit",
+      "Flashlight or headtorch (for dusk hours)",
+      "Phone charger or power bank"
+    ],
+    "best_seasons": "Spring to autumn offer the best daylight and milder conditions; the walk is doable year-round with proper clothing and gear.",
+    "seo": {
+      "title": "A Walk to the Lantern at Lyme — Easy 5.5 km UK Walk",
+      "meta_description": "Discover an easy 5.5 km coastal stroll to the Lantern at Lyme in the UK. Gentle terrain, scenic views, and practical safety tips for a relaxed day out.",
+      "h1": "A Walk to the Lantern at Lyme — Easy 5.5 km Walk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19169790",
+  "slug": "the-rose-walk-19169790",
+  "name": "The Rose Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5422033,
+    "lon": -5.9821781
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19169790
+  }
+}

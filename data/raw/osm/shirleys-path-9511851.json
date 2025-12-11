@@ -1,0 +1,44 @@
+{
+  "id": 9511851,
+  "slug": "shirleys-path-9511851",
+  "name": "Shirley's Path",
+  "network": "lwn",
+  "tags": {
+    "name": "Shirley's Path",
+    "network": "lwn",
+    "operator": "Cremer's Meadow",
+    "osmc:symbol": "blue:blue",
+    "route": "foot",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      1.4453311,
+      52.6255897
+    ],
+    [
+      1.4454745,
+      52.6257055
+    ],
+    [
+      1.4455363,
+      52.6257316
+    ],
+    [
+      1.4455773,
+      52.6257633
+    ],
+    [
+      1.4454591,
+      52.6261328
+    ],
+    [
+      1.4454327,
+      52.6261686
+    ],
+    [
+      1.4452836,
+      52.6262373
+    ]
+  ]
+}

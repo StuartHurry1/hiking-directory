@@ -1,0 +1,44 @@
+{
+  "id": "osm-7748236",
+  "slug": "berneray-circular-walk-7748236",
+  "name": "Berneray Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.719958,
+    "lon": -7.2038563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7748236
+  },
+  "ai": {
+    "summary": "Berneray Circular Walk is a 15.3 km loop in the UK that tests stamina with a hard rating, combining coastal paths, grassy tracks, and uneven terrain. The route rewards with rugged sea views and expansive open moorland, but can be exposed to wind and changing weather.",
+    "terrain_summary": "A coastal-to-rural loop featuring coastal paths, grassy tracks, and uneven or rocky sections. Expect exposed ground in places, potential boggy patches, and occasional stone steps. Tidal influences may affect some coastal segments and footing can be slippery when wet.",
+    "safety_notes": "This is a long, hard hike with variable terrain and weather. Wear sturdy footwear and appropriate layered clothing. Check tide times and weather forecasts before starting; some parts near the coast can be hazardous at high tide or in storms. Carry a map and compass or GPS, bring sufficient water and high-energy food, and inform someone of your plans. Mobile reception may be limited in remote sections. Stay on marked paths and be prepared for sudden weather changes and strong winds.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and warm layers",
+      "Hat and gloves (seasonal)",
+      "Map and compass or GPS device",
+      "Water (2–3 liters) and high-energy snacks",
+      "First-aid kit",
+      "Whistle for emergencies",
+      "Sun protection (sunscreen, sunglasses)",
+      "Head torch (in case of delays) or extra batteries",
+      "Lightweight emergency blanket (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn; weather can be windy and changeable year-round, so plan for cool coastal conditions and potential rain.",
+    "seo": {
+      "title": "Berneray Circular Walk – 15.3 km Hard Hike in the UK",
+      "meta_description": "Discover the Berneray Circular Walk, a demanding 15.3 km hike across coastal and rural UK terrain. Learn about terrain, safety, and gear for this challenging route.",
+      "h1": "Berneray Circular Walk – 15.3 km Hard Hike in the UK"
+    }
+  }
+}

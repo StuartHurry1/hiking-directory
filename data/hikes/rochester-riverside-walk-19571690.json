@@ -1,0 +1,21 @@
+{
+  "id": "osm-19571690",
+  "slug": "rochester-riverside-walk-19571690",
+  "name": "Rochester Riverside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3917449,
+    "lon": 0.5101167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19571690
+  }
+}

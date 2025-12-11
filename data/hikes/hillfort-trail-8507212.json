@@ -1,0 +1,21 @@
+{
+  "id": "osm-8507212",
+  "slug": "hillfort-trail-8507212",
+  "name": "Hillfort Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7623769,
+    "lon": -0.7255939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8507212
+  }
+}

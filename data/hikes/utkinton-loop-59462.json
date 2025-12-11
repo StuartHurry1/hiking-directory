@@ -1,0 +1,21 @@
+{
+  "id": "osm-59462",
+  "slug": "utkinton-loop-59462",
+  "name": "Utkinton Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1884242,
+    "lon": -2.6827115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 59462
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19306852",
+  "slug": "holywell-beach-walk-north-cornwall-19306852",
+  "name": "Holywell beach walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3853683,
+    "lon": -5.1423902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306852
+  }
+}

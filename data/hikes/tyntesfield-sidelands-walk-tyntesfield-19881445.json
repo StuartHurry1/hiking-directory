@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881445",
+  "slug": "tyntesfield-sidelands-walk-tyntesfield-19881445",
+  "name": "Tyntesfield Sidelands Walk, Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4389006,
+    "lon": -2.7198013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881445
+  }
+}

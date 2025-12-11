@@ -1,0 +1,44 @@
+{
+  "id": "osm-7697082",
+  "slug": "bracelands-to-the-wye-7697082",
+  "name": "Bracelands to the Wye",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8129314,
+    "lon": -2.6408032
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7697082
+  },
+  "ai": {
+    "summary": "A 6.4 km moderate hike from Bracelands to the Wye in the UK, weaving through rural lanes, woodlands, and a riverside section with gentle elevation and scenic countryside views.",
+    "terrain_summary": "The route combines grassy country lanes, woodland tracks, and a riverside segment along the Wye. Expect uneven surfaces, occasional gates or stiles, and occasional mud after rain. Suitable for walkers with moderate fitness.",
+    "safety_notes": "Plan for variable UK weather and daylight; wear sturdy footwear and bring a waterproof layer. Stay on marked paths, watch for livestock or cyclists on shared sections, and be prepared for mud after rain. Mobile signal may be limited in rural areas; carry a map or offline navigation. Let someone know your plan and expected return time, and take care near the river where water levels can rise.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof, breathable jacket",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map, compass, or offline navigation app",
+      "Phone with a charged battery and portable charger",
+      "Lightweight backpack",
+      "Sun protection (hat and sunscreen)",
+      "Basic first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions for this route; winter walks can be muddy and damp with shorter daylight.",
+    "seo": {
+      "title": "Bracelands to the Wye: 6.4 km Moderate Hike in the UK",
+      "meta_description": "Discover a 6.4 km moderate hike from Bracelands to the Wye in the UK. Rural lanes, woodlands, and a riverside stretch with scenic countryside vistas.",
+      "h1": "Bracelands to the Wye — 6.4 km Moderate Hike"
+    }
+  }
+}

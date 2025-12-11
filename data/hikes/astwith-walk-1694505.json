@@ -1,0 +1,46 @@
+{
+  "id": "osm-1694505",
+  "slug": "astwith-walk-1694505",
+  "name": "Astwith Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1730442,
+    "lon": -1.3426116
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1694505
+  },
+  "ai": {
+    "summary": "Astwith Walk is a demanding 17.6 km circuit in the UK that tests fitness with long distances, elevation changes and rugged terrain. The route combines exposure to the elements with technical footing, offering a day-long hike that rewards perseverance and steady navigation.",
+    "terrain_summary": "Expect rough tracks, rocky outcrops, grass moorland and occasional boggy patches. The surface is uneven and can be slippery after rain, with exposed sections on higher ground and potential slips on steep descents. Navigation is important in open areas, so staying on paths and using a map or GPS is advised.",
+    "safety_notes": "Plan for a long day and check the weather and daylight hours. Bring a map and compass (or GPS), sturdy waterproof footwear, and clothing layers for changing conditions. Stay on marked paths where possible, watch for boggy ground and drops, and carry enough water and food. Tell someone your planned route and expected return; mobile signal may be limited in remote areas. If visibility is poor, consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Layered clothing for changing conditions",
+      "Map and compass (and/or GPS device)",
+      "Fully charged mobile phone with backup power (signal may be limited)",
+      "Water and energy snacks (2–3 liters depending on conditions)",
+      "First aid kit",
+      "Whistle and optional emergency blanket",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Headlamp or torch",
+      "Walking poles (optional for stability on rough or boggy sections)",
+      "Gaiters (to keep mud and water out of boots)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for milder weather and longer daylight; winter hikes are possible but require experienced navigation and winter equipment.",
+    "seo": {
+      "title": "Astwith Walk – 17.6 km Hard Hike in the UK",
+      "meta_description": "Discover Astwith Walk, a challenging 17.6 km hike in the UK. Learn the terrain, safety tips, best seasons, and essential gear to tackle this hard route.",
+      "h1": "Astwith Walk: 17.6 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13443415",
+  "slug": "ministers-walk-13443415",
+  "name": "Ministers Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4801217,
+    "lon": -6.1654509
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13443415
+  }
+}

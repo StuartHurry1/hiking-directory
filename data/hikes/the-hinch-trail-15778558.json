@@ -1,0 +1,21 @@
+{
+  "id": "osm-15778558",
+  "slug": "the-hinch-trail-15778558",
+  "name": "The Hinch Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3874696,
+    "lon": -5.91508
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15778558
+  }
+}

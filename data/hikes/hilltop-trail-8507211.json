@@ -1,0 +1,21 @@
+{
+  "id": "osm-8507211",
+  "slug": "hilltop-trail-8507211",
+  "name": "Hilltop Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7721832,
+    "lon": -0.71028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8507211
+  }
+}

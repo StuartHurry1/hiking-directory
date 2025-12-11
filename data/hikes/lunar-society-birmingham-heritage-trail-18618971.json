@@ -1,0 +1,21 @@
+{
+  "id": "osm-18618971",
+  "slug": "lunar-society-birmingham-heritage-trail-18618971",
+  "name": "Lunar Society Birmingham Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.481094,
+    "lon": -1.8984645
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18618971
+  }
+}

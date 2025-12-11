@@ -1,0 +1,21 @@
+{
+  "id": "osm-6148106",
+  "slug": "notts-wolds-way-6148106",
+  "name": "Notts Wolds Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8681255,
+    "lon": -1.0284822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6148106
+  }
+}

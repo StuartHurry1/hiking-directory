@@ -1,0 +1,41 @@
+{
+  "id": "osm-7843434",
+  "slug": "acw-circular-walk-12o-7843434",
+  "name": "ACW Circular Walk 12O",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4350621,
+    "lon": -1.3650673
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7843434
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12O is a short, easy 2.8 km circular walk in the UK. Designed for beginners and families, the route returns to its starting point along gentle paths with minimal elevation gain.",
+    "terrain_summary": "The trail typically follows flat to gently undulating paths, including well-maintained tracks, grassy verges, and occasional pavement sections. Expect some sections to be on rural lanes and potentially uneven ground depending on weather.",
+    "safety_notes": "Wear sturdy footwear and bring a light rain jacket; check the forecast before you go. Stay on the marked paths, watch for uneven surfaces or mud, and keep an eye out for road crossings if the route uses any streets. Supervise children and be mindful of other walkers and cyclists. Carry a small amount of water and a mobile phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Snack",
+      "Light rain jacket",
+      "Sunscreen / hat (seasonal)",
+      "Map or offline navigation (optional) / fully charged phone"
+    ],
+    "best_seasons": "Year-round hiking, with spring and autumn offering milder temperatures. Summer is suitable if you’re prepared for heat and sun; winter conditions can be muddy or icy.",
+    "seo": {
+      "title": "ACW Circular Walk 12O – Easy 2.8 km Circular Hike in the UK",
+      "meta_description": "Explore ACW Circular Walk 12O, an easy 2.8 km loop in the UK. Perfect for beginners and families, featuring gentle terrain and a straightforward route.",
+      "h1": "ACW Circular Walk 12O – Easy 2.8 km Loop in the UK"
+    }
+  }
+}

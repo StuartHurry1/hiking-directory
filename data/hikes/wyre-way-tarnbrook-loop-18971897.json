@@ -1,0 +1,23 @@
+{
+  "id": "osm-18971897",
+  "slug": "wyre-way-tarnbrook-loop-18971897",
+  "name": "Wyre Way (Tarnbrook Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9790454,
+    "lon": -2.6778309
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18971897
+  }
+}

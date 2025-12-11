@@ -1,0 +1,21 @@
+{
+  "id": "osm-19878311",
+  "slug": "souter-lighthouse-trail-19878311",
+  "name": "Souter Lighthouse Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9705124,
+    "lon": -1.3639367
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878311
+  }
+}

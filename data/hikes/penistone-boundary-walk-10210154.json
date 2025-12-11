@@ -1,0 +1,21 @@
+{
+  "id": "osm-10210154",
+  "slug": "penistone-boundary-walk-10210154",
+  "name": "Penistone Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5142545,
+    "lon": -1.6314651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10210154
+  }
+}

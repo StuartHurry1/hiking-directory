@@ -1,0 +1,23 @@
+{
+  "id": "osm-19567067",
+  "slug": "stickle-tarn-trail-19567067",
+  "name": "Stickle Tarn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4482389,
+    "lon": -3.089585
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567067
+  }
+}

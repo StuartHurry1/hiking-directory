@@ -1,0 +1,21 @@
+{
+  "id": "osm-7888683",
+  "slug": "kilbo-path-7888683",
+  "name": "Kilbo Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8714904,
+    "lon": -3.1855554
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7888683
+  }
+}

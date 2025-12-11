@@ -1,0 +1,21 @@
+{
+  "id": "osm-1230368",
+  "slug": "sheffield-country-walk-1230368",
+  "name": "Sheffield Country Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 161.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3593694,
+    "lon": -1.6469162
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1230368
+  }
+}

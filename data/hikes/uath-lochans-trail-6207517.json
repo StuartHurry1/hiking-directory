@@ -1,0 +1,21 @@
+{
+  "id": "osm-6207517",
+  "slug": "uath-lochans-trail-6207517",
+  "name": "Uath Lochans Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0962656,
+    "lon": -3.9244577
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6207517
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-7838848",
+  "slug": "acw-circular-walk-12b-7838848",
+  "name": "ACW Circular Walk 12B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4131674,
+    "lon": -1.3598285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7838848
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12B is an 11 km circular hike in the UK, classified as moderate. The route winds through a mix of rural fields, woodland paths, and quiet lanes, returning to the starting point. It suits walkers with a reasonable fitness level and offers varied scenery, including open landscapes and hedgerows.",
+    "terrain_summary": "Expect a mix of surfaces: grass and earth tracks, muddy or uneven sections after rain, gravel paths, and short stretches of quiet road. The route includes gentle ascents and descents, occasional stiles, and exposed sections where weather can influence footing.",
+    "safety_notes": "Always check the weather forecast before setting out; UK conditions change quickly. Wear sturdy footwear and bring appropriate clothing for rain and wind. Carry a map or GPS and know the route; have a plan in case you get lost. Tell someone your planned start/end time. Stay hydrated with water and bring light snacks. Watch for farm gates, livestock, and traffic on road sections; give yourself time to rest if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots or footwear with good grip",
+      "Waterproof or water-resistant jacket and an extra layer",
+      "Rucksack (10–20 L) with water, snacks, and a first-aid kit",
+      "Map and compass or GPS device (and battery backup)",
+      "Water bottle or hydration system",
+      "Headwear and sun protection (hat, sunscreen)",
+      "Optional trekking poles",
+      "Extra socks and a small emergency whistle",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are the most comfortable for this route, with longer daylight hours and milder weather; however it can be hiked year-round with appropriate gear.",
+    "seo": {
+      "title": "ACW Circular Walk 12B - 11km Moderate Hike in the UK",
+      "meta_description": "Explore ACW Circular Walk 12B, an 11 km moderate circular hike in the UK. Learn about terrain, safety tips, best seasons, and gear to plan your day.",
+      "h1": "ACW Circular Walk 12B – 11 km Moderate Circular Hike in the UK"
+    }
+  }
+}

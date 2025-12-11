@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168860",
+  "slug": "the-ullswater-way-6168860",
+  "name": "The Ullswater Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 120.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6113491,
+    "lon": -2.8320867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168860
+  }
+}

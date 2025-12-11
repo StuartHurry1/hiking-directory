@@ -1,0 +1,39 @@
+{
+  "id": "osm-16435641",
+  "slug": "brown-16435641",
+  "name": "'brown'",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7008652,
+    "lon": -3.7346435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16435641
+  },
+  "ai": {
+    "summary": "brown is a very short, easy hike in the UK (region unknown). The route covers 0.1 km and is ideal for beginners seeking a quick outdoor stroll rather than a strenuous trek.",
+    "terrain_summary": "The terrain is flat and easy, likely a short footpath or pavement. It may be in an urban or suburban setting with well-maintained surfaces and minimal elevation change.",
+    "safety_notes": "Even for a brief trail, wear sturdy shoes and dress for the weather. Stay on marked paths and follow any park or trail rules. Be mindful of other pedestrians or cyclists in urban areas. Carry water in warm weather and check the forecast for rain, as UK conditions can change quickly.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat/sunscreen)",
+      "Map or offline route (optional)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring, summer, and autumn.",
+    "seo": {
+      "title": "brown – Easy 0.1 km Hike in the UK",
+      "meta_description": "Discover brown, a tiny 0.1 km easy hike in the UK. Perfect for beginners or a quick outdoor break in urban or suburban settings.",
+      "h1": "brown: Easy 0.1 km Hike in the UK"
+    }
+  }
+}

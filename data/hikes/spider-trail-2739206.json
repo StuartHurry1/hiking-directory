@@ -1,0 +1,21 @@
+{
+  "id": "osm-2739206",
+  "slug": "spider-trail-2739206",
+  "name": "Spider Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3762501,
+    "lon": 1.0153751
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2739206
+  }
+}

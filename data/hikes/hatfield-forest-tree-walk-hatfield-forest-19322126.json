@@ -1,0 +1,23 @@
+{
+  "id": "osm-19322126",
+  "slug": "hatfield-forest-tree-walk-hatfield-forest-19322126",
+  "name": "Hatfield Forest Tree Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8600603,
+    "lon": 0.2452557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19322126
+  }
+}

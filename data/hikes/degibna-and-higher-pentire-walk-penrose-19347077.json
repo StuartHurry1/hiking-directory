@@ -1,0 +1,21 @@
+{
+  "id": "osm-19347077",
+  "slug": "degibna-and-higher-pentire-walk-penrose-19347077",
+  "name": "Degibna and Higher Pentire walk, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0802108,
+    "lon": -5.2820348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347077
+  }
+}

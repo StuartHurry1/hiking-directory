@@ -1,0 +1,23 @@
+{
+  "id": "osm-3747693",
+  "slug": "little-dart-ridge-and-valley-walk-3747693",
+  "name": "Little Dart Ridge & Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 94,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8878957,
+    "lon": -3.8747864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3747693
+  }
+}

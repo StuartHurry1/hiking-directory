@@ -1,0 +1,21 @@
+{
+  "id": "osm-19009687",
+  "slug": "st-conan-pilgrim-way-19009687",
+  "name": "St Conan Pilgrim Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 147.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3303235,
+    "lon": -6.3923688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009687
+  }
+}

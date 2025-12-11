@@ -1,0 +1,21 @@
+{
+  "id": "osm-5487661",
+  "slug": "taith-ardudwy-way-5487661",
+  "name": "Taith Ardudwy Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8913975,
+    "lon": -4.0215686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5487661
+  }
+}

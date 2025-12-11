@@ -1,0 +1,21 @@
+{
+  "id": "osm-7152429",
+  "slug": "dales-high-way-7152429",
+  "name": "Dales High Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 530.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5804915,
+    "lon": -2.4871649
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7152429
+  }
+}

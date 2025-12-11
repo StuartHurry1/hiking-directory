@@ -1,0 +1,21 @@
+{
+  "id": "osm-19406719",
+  "slug": "views-of-the-hughenden-manor-estate-walk-hughenden-19406719",
+  "name": "Views of the Hughenden Manor Estate Walk, Hughenden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6523316,
+    "lon": -0.7507292
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19406719
+  }
+}

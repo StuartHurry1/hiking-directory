@@ -1,0 +1,46 @@
+{
+  "id": "osm-5851107",
+  "slug": "biggleswade-green-wheel-5851107",
+  "name": "Biggleswade Green Wheel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0985547,
+    "lon": -0.2694163
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5851107
+  },
+  "ai": {
+    "summary": "Biggleswade Green Wheel is a 26 km hard hike in the UK, blending rural paths, farm tracks and quiet country lanes. It’s a demanding route that rewards stamina with open countryside and a progressive challenge for experienced hikers.",
+    "terrain_summary": "Expect a mix of towpaths, unpaved tracks, and minor roads. Surfaces can be uneven, muddy after rain, and some sections may be exposed. Distance is substantial for a single day hike.",
+    "safety_notes": "Plan for a 26 km hike at a challenging pace. Check weather and daylight hours; rural sections may have limited phone signal. Wear sturdy footwear and weather-appropriate layers. Carry a map or offline navigation, water and snacks, and a basic first aid kit. Use sun protection in sunny conditions and wear reflective clothing if walking near roads at dusk. Inform someone of your route and expected return time. Be prepared for changes in terrain and potential mud; take breaks as needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing layers",
+      "Waterproof jacket and trousers",
+      "Hat and gloves (seasonal)",
+      "Water bottle or hydration system (2+ liters)",
+      "High-energy snacks",
+      "Map, compass or offline navigation app",
+      "Fully charged phone with emergency contacts",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Lightweight rain poncho or pack cover",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March-October), avoiding severe winter conditions.",
+    "seo": {
+      "title": "Biggleswade Green Wheel – 26km Hard Hike in the UK",
+      "meta_description": "Guide to hiking the 26 km Biggleswade Green Wheel in the UK, including terrain expectations, safety tips, gear recommendations and the best seasons to go.",
+      "h1": "Biggleswade Green Wheel: 26km Hard Hike in the UK"
+    }
+  }
+}

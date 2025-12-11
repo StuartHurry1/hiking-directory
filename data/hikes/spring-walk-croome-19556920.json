@@ -1,0 +1,23 @@
+{
+  "id": "osm-19556920",
+  "slug": "spring-walk-croome-19556920",
+  "name": "Spring Walk, Croome",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0957751,
+    "lon": -2.1821163
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19556920
+  }
+}

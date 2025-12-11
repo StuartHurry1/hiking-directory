@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737950",
+  "slug": "lochend-farm-and-scottish-gliding-centre-17737950",
+  "name": "Lochend Farm and Scottish Gliding Centre",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2091977,
+    "lon": -3.3276814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737950
+  }
+}

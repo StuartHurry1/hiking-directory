@@ -1,0 +1,21 @@
+{
+  "id": "osm-19938659",
+  "slug": "pond-walk-frensham-19938659",
+  "name": "Pond Walk, Frensham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1691157,
+    "lon": -0.77579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19938659
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 15907071,
+  "slug": "manse-lane-15907071",
+  "name": "Manse Lane",
+  "network": "lwn",
+  "tags": {
+    "from": "Dromara Road",
+    "highway_authority_ref": "CD/RW/8013",
+    "name": "Manse Lane",
+    "network": "lwn",
+    "operator": "Newry, Mourne & Down District Council",
+    "route": "foot",
+    "to": "Castle Hill",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.8461214,
+      54.2590862
+    ],
+    [
+      -5.8468449,
+      54.2588874
+    ],
+    [
+      -5.8474326,
+      54.2586577
+    ],
+    [
+      -5.8461214,
+      54.2590862
+    ],
+    [
+      -5.8457523,
+      54.2591649
+    ],
+    [
+      -5.8457523,
+      54.2591649
+    ],
+    [
+      -5.8456715,
+      54.2591719
+    ],
+    [
+      -5.844839,
+      54.2592951
+    ],
+    [
+      -5.8444765,
+      54.2593261
+    ]
+  ]
+}

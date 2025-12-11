@@ -1,0 +1,42 @@
+{
+  "id": "osm-1806538",
+  "slug": "blue-walk-1806538",
+  "name": "Blue Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5149584,
+    "lon": 0.6845446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1806538
+  },
+  "ai": {
+    "summary": "Blue Walk is a 9.9 km moderately challenging hike in the UK, suitable for hikers with some experience. The route offers varied terrain and gentle elevation changes, making it accessible to most walkers with decent footwear and preparation.",
+    "terrain_summary": "The route features a mix of surfaces common on UK trails, including firm paths, grassy sections, and short sections of uneven ground. Expect gentle inclines, possible mud in wet conditions, and navigation that is straightforward on well-marked paths. A map or GPS is recommended.",
+    "safety_notes": "Plan for UK weather changes; bring waterproof clothing and sturdy footwear. Carry sufficient water and snacks, and allow extra time in case of slower sections. Stay on marked paths, heed signs, and let someone know your itinerary. In coastal or exposed sections, watch for wind and sudden weather shifts; check tide times if the route runs near water.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Waterproof jacket and layers",
+      "Water bottle or hydration system",
+      "Maps or GPS device / mobile with offline map",
+      "Snack food and a small first-aid kit",
+      "Hat, sunscreen, and sunglasses",
+      "Headlamp or flashlight (in case of delays)",
+      "Rain cover or packable poncho"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) in the UK, with summer offering longer daylight but weather can vary.",
+    "seo": {
+      "title": "Blue Walk – 9.9 km Moderate Hike in the UK",
+      "meta_description": "Plan your Blue Walk hike in the UK. A 9.9 km, moderate-difficulty trail with varied terrain, essential safety tips, and a gear checklist.",
+      "h1": "Blue Walk – 9.9 km Moderate Hike in the UK"
+    }
+  }
+}

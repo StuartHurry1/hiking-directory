@@ -1,0 +1,21 @@
+{
+  "id": "osm-3187537",
+  "slug": "nailsea-round-3187537",
+  "name": "Nailsea Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4207713,
+    "lon": -2.8038926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3187537
+  }
+}

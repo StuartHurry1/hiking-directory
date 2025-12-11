@@ -1,0 +1,21 @@
+{
+  "id": "osm-19663776",
+  "slug": "coalisland-camino-19663776",
+  "name": "Coalisland Camino",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5402378,
+    "lon": -6.6996809
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19663776
+  }
+}

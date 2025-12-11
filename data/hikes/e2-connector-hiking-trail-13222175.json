@@ -1,0 +1,21 @@
+{
+  "id": "osm-13222175",
+  "slug": "e2-connector-hiking-trail-13222175",
+  "name": "E2 connector hiking trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3675269,
+    "lon": -2.0371229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13222175
+  }
+}

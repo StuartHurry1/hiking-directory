@@ -1,0 +1,21 @@
+{
+  "id": "osm-18609017",
+  "slug": "down-the-bumble-hole-windmill-end-trail-18609017",
+  "name": "Down The Bumble Hole- Windmill End Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4899052,
+    "lon": -2.0722646
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18609017
+  }
+}

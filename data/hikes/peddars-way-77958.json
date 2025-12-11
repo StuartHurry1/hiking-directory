@@ -1,0 +1,21 @@
+{
+  "id": "osm-77958",
+  "slug": "peddars-way-77958",
+  "name": "Peddars Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 191.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.965524,
+    "lon": 0.5252682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77958
+  }
+}

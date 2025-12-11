@@ -1,0 +1,21 @@
+{
+  "id": "osm-19293833",
+  "slug": "mytholmroyd-stoodley-pike-19293833",
+  "name": "Mytholmroyd Stoodley Pike",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7214012,
+    "lon": -2.0264013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19293833
+  }
+}

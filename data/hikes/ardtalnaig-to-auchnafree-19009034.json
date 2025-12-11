@@ -1,0 +1,46 @@
+{
+  "id": "osm-19009034",
+  "slug": "ardtalnaig-to-auchnafree-19009034",
+  "name": "Ardtalnaig to Auchnafree",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5237336,
+    "lon": -4.1015654
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009034
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike from Ardtalnaig to Auchnafree in the UK, covering about 45 km. The route traverses remote countryside with varied terrain, demanding strong navigation and solid endurance.",
+    "terrain_summary": "Expect a mix of forest tracks, open moorland, rough and rocky sections, and boggy ground. Remote stretches mean long gaps between facilities; some exposed ridges and stream crossings are possible; weather can be highly changeable, so be prepared.",
+    "safety_notes": "This is a remote, strenuous route suitable for experienced hikers. Plan a full day or multi-day trip and check the forecast. Wear sturdy boots and layered clothing; carry map and compass (do not rely on phone navigation); bring enough water and high-energy food; carry rain gear and warm layers; start early to allow daylight; tell someone your plan and expected return; bring a whistle, first aid kit, headlamp with spare batteries, and a space blanket or bivvy for emergencies; know the emergency numbers (999/112 in the UK) and have a means of contacting help if required.",
+    "recommended_gear": [
+      "Ordnance Survey map and compass (and GPS as backup)",
+      "Sturdy waterproof walking boots",
+      "Layered clothing (base layer, insulating layer, waterproof shell)",
+      "Waterproof jacket and pants",
+      "Warm hat and gloves",
+      "Backpack with rain cover",
+      "Water bottle or hydration system plus water purification method",
+      "High-energy snacks and additional food for longer days",
+      "Headlamp with spare batteries",
+      "First aid kit and personal medications",
+      "Whistle and multi-tool",
+      "Emergency shelter (space blanket or bivvy bag) for safety"
+    ],
+    "best_seasons": "May to September generally offers longer daylight and more stable conditions in the UK, though weather can still be unpredictable. Shoulder seasons (April/October) can be rewarding but require careful planning; winter hikes are for very experienced hikers with excellent navigation skills.",
+    "seo": {
+      "title": "Ardtalnaig to Auchnafree: 45 km Hard Hike in the UK",
+      "meta_description": "A detailed guide for the 45 km Ardtalnaig to Auchnafree hike in the UK. Explore terrain, safety tips, gear suggestions, and the best seasons for this challenging long-distance trek.",
+      "h1": "Ardtalnaig to Auchnafree: A 45 km Hard Hike in the UK"
+    }
+  }
+}

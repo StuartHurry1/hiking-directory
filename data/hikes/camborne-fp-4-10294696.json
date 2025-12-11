@@ -1,0 +1,42 @@
+{
+  "id": "osm-10294696",
+  "slug": "camborne-fp-4-10294696",
+  "name": "Camborne FP 4",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2184849,
+    "lon": -5.3201466
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10294696
+  },
+  "ai": {
+    "summary": "Camborne FP 4 is a short and easy 1.3 km hike in the UK. The route offers a gentle, well-marked footpath suitable for beginners and families, with minimal elevation gain and pleasant surroundings typical of local countryside paths.",
+    "terrain_summary": "The trail follows a well-maintained footpath with mostly flat terrain, occasional gentle undulations, and surface variations such as compact gravel, packed earth, and grassy sections. Expect occasional mud after rain and a few uneven patches near the edges.",
+    "safety_notes": "Check local conditions before you go. Stay on the marked path, watch for uneven surfaces and puddles, and wear sturdy footwear. Bring a map or GPS, sufficient water, and weather-appropriate clothing. In low light, carry a torch and reflectors. Respect private property and livestock, and be aware of local closures or seasonal restrictions.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (waterproof jacket, layered clothing)",
+      "Water bottle or hydration",
+      "Small backpack",
+      "Map or GPS device or fully charged phone",
+      "Snack or energy bar",
+      "First aid kit",
+      "Sun protection (sunscreen, hat)"
+    ],
+    "best_seasons": "Spring through autumn for the most comfortable conditions; hikers can complete the route in winter with proper footwear and awareness of mud and colder temperatures.",
+    "seo": {
+      "title": "Camborne FP 4 – Easy 1.3 km UK Footpath Walk",
+      "meta_description": "Discover Camborne FP 4, an easy 1.3 km footpath walk in the UK. Learn about terrain, safety tips, and what gear to bring for a short, beginner-friendly hike.",
+      "h1": "Camborne FP 4: Easy 1.3 km Footpath Walk in the UK"
+    }
+  }
+}

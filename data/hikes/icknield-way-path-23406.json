@@ -1,0 +1,21 @@
+{
+  "id": "osm-23406",
+  "slug": "icknield-way-path-23406",
+  "name": "Icknield Way Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 569.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8411431,
+    "lon": -0.608037
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 23406
+  }
+}

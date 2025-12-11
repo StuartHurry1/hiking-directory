@@ -1,0 +1,21 @@
+{
+  "id": "osm-5557173",
+  "slug": "puttenham-walk-scc-5557173",
+  "name": "Puttenham walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2143373,
+    "lon": -0.6856861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5557173
+  }
+}

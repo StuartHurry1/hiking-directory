@@ -1,0 +1,42 @@
+{
+  "id": "osm-7838637",
+  "slug": "acw-circular-walk-12s-7838637",
+  "name": "ACW Circular Walk 12S",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4123706,
+    "lon": -1.3622951
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7838637
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 12S is a 6.1 km moderate circular hike in the UK with an unknown regional location. The route is suitable for walkers who enjoy a steady pace along a mix of country lanes, fields, and short woodland sections, with some gentle climbs and descents.",
+    "terrain_summary": "The path combines well-maintained field and woodland tracks with occasional minor road sections. Expect uneven surfaces, stiles, and possible muddy patches after rain. Good traction and steady footing are recommended throughout the 6.1 km loop.",
+    "safety_notes": "Always check weather and daylight hours before starting. Wear sturdy footwear and bring a map or GPS and compass. Stay on designated paths, watch for livestock on rural sections, and carry water, snacks, a charged phone, and basic first aid. Inform someone of your plans if hiking alone and be prepared for changes in conditions in the UK.",
+    "recommended_gear": [
+      "sturdy waterproof hiking boots",
+      "weather-appropriate clothing (layers, waterproof jacket)",
+      "map or GPS device and compass",
+      "water and snacks",
+      "sun protection (hat, sunscreen)",
+      "first aid kit",
+      "emergency whistle and fully charged phone",
+      "lightweight rain cover or packable shell"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this route; it remains hikeable year-round with appropriate gear and caution in winter.",
+    "seo": {
+      "title": "ACW Circular Walk 12S – 6.1 km Moderate UK Circular Trail",
+      "meta_description": "Discover ACW Circular Walk 12S, a 6.1 km moderate circular hike in the UK. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "ACW Circular Walk 12S – 6.1 km Moderate UK Circular Trail"
+    }
+  }
+}

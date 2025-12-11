@@ -1,0 +1,21 @@
+{
+  "id": "osm-19877092",
+  "slug": "easy-access-trail-harewoods-19877092",
+  "name": "Easy Access Trail, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2498009,
+    "lon": 0.0426705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877092
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-18081557",
+  "slug": "annalong-coastal-path-18081557",
+  "name": "Annalong Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1048075,
+    "lon": -5.8976853
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18081557
+  },
+  "ai": {
+    "summary": "A short, easy 4.6 km coastal walk on the Annalong Coastal Path in the UK, offering sea views and light cliff-top scenery along a well-marked trail. Suitable for most walkers, including families.",
+    "terrain_summary": "Primarily a coastal footpath with gentle undulations. The route follows well-marked paths with some gravel sections and occasional uneven or rocky stretches near the shoreline. Expect exposed sections with wind and spray; footing near cliff edges can be uneven and slippery when wet.",
+    "safety_notes": "Check tide times and weather before you go. Stay well back from cliff edges, especially in windy or wet conditions. Wear sturdy footwear, bring layers and rain protection, and carry water. Keep a charged phone and let someone know your plans; avoid the path after heavy rain when edges may be unstable.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Windproof and waterproof jacket",
+      "Layered clothing (base layer, mid-layer, outer shell)",
+      "Water and snacks",
+      "Sunscreen, sunglasses and a hat",
+      "Map, GPS device or fully charged phone",
+      "Small first-aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight hours are longer and conditions are milder; the walk is still possible in winter but weather can be harsher and paths may be slick.",
+    "seo": {
+      "title": "Annalong Coastal Path – Easy 4.6 km Coastal Walk in the UK",
+      "meta_description": "Explore the Annalong Coastal Path, an easy 4.6 km coastal hike in the UK. Enjoy sea views, a family-friendly trail, and a well-marked coastal route.",
+      "h1": "Annalong Coastal Path – Easy 4.6 km Coastal Walk in the UK"
+    }
+  }
+}

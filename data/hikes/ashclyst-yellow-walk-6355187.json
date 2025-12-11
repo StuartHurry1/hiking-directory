@@ -1,0 +1,42 @@
+{
+  "id": "osm-6355187",
+  "slug": "ashclyst-yellow-walk-6355187",
+  "name": "Ashclyst Yellow Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7835031,
+    "lon": -3.419139
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6355187
+  },
+  "ai": {
+    "summary": "Ashclyst Yellow Walk is a short, easy woodland hike in the UK suitable for families and casual walkers. The route covers about 1.7 km on gentle paths, delivering a pleasant woodland experience with light elevation and clear waymarkers.",
+    "terrain_summary": "The trail runs along woodland paths with compacted dirt and gravel. Expect some uneven sections and gentle slopes; watch for exposed roots and loose gravel.",
+    "safety_notes": "Plan for changing UK weather. Wear sturdy footwear and comfortable clothing. Stay on marked paths, keep dogs under control where required, and bring water. Check for any trail closures before you go. Be cautious of uneven ground and seasonal hazards.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate layers (base layer, fleece, waterproof shell)",
+      "Water bottle",
+      "Small daypack",
+      "Map or offline map on your phone",
+      "Sunscreen and a hat (seasonal)",
+      "Lightweight rain jacket or poncho",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "All year round, with especially pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Ashclyst Yellow Walk – 1.7 km Easy Hike in the UK",
+      "meta_description": "Explore Ashclyst Yellow Walk, a short 1.7 km easy hike in the UK. Ideal for families and casual walkers, with gentle woodland paths and quick access to nature.",
+      "h1": "Ashclyst Yellow Walk – 1.7 km Easy Hike"
+    }
+  }
+}

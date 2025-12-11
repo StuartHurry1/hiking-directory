@@ -1,0 +1,21 @@
+{
+  "id": "osm-19691443",
+  "slug": "coed-forest-walk-19691443",
+  "name": "Coed Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0261975,
+    "lon": -3.0043682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19691443
+  }
+}

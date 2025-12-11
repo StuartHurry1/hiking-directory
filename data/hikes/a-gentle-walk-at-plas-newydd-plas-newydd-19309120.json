@@ -1,0 +1,40 @@
+{
+  "id": "osm-19309120",
+  "slug": "a-gentle-walk-at-plas-newydd-plas-newydd-19309120",
+  "name": "A Gentle Walk at Plas Newydd, Plas Newydd",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1986186,
+    "lon": -4.2154683
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19309120
+  },
+  "ai": {
+    "summary": "A gentle 3.3 km easy hike at Plas Newydd in the UK. Suitable for all ages and abilities, this relaxed stroll offers light scenery and a straightforward path.",
+    "terrain_summary": "Short, easy route with well-maintained paths. Expect smooth surfaces with possible grassy or gravel sections and occasional damp patches after rain.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, supervise children and pets, and watch for uneven ground or slippery sections after rain. Bring water, check opening hours and access restrictions, and respect wildlife and private property.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or sweater",
+      "Hat and sunscreen",
+      "Snacks",
+      "Phone with maps or offline navigation"
+    ],
+    "best_seasons": "Spring to Autumn.",
+    "seo": {
+      "title": "A Gentle Walk at Plas Newydd – Easy 3.3 km Hike in the UK",
+      "meta_description": "Enjoy a gentle 3.3 km hike at Plas Newydd, UK. This easy, family-friendly stroll is suitable for beginners and visitors exploring the area.",
+      "h1": "A Gentle Walk at Plas Newydd"
+    }
+  }
+}

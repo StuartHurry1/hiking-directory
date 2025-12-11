@@ -1,0 +1,21 @@
+{
+  "id": "osm-13216772",
+  "slug": "gortin-forest-ladies-view-13216772",
+  "name": "Gortin Forest Ladies View",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6777952,
+    "lon": -7.2370342
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216772
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10391381",
+  "slug": "redruth-fp-11-10391381",
+  "name": "Redruth FP 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2523744,
+    "lon": -5.220169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10391381
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1230517",
+  "slug": "ghb-ward-walk-1230517",
+  "name": "GHB Ward Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2967887,
+    "lon": -1.5796466
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1230517
+  }
+}

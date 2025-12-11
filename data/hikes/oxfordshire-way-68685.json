@@ -1,0 +1,21 @@
+{
+  "id": "osm-68685",
+  "slug": "oxfordshire-way-68685",
+  "name": "Oxfordshire Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 204.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8844465,
+    "lon": -1.7575867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 68685
+  }
+}

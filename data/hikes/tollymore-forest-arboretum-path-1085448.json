@@ -1,0 +1,21 @@
+{
+  "id": "osm-1085448",
+  "slug": "tollymore-forest-arboretum-path-1085448",
+  "name": "Tollymore Forest - Arboretum Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2243012,
+    "lon": -5.9406044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1085448
+  }
+}

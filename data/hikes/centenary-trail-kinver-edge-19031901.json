@@ -1,0 +1,23 @@
+{
+  "id": "osm-19031901",
+  "slug": "centenary-trail-kinver-edge-19031901",
+  "name": "Centenary Trail, Kinver Edge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.437669,
+    "lon": -2.2525443
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19031901
+  }
+}

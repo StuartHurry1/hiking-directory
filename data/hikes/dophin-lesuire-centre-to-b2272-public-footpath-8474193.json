@@ -1,0 +1,21 @@
+{
+  "id": "osm-8474193",
+  "slug": "dophin-lesuire-centre-to-b2272-public-footpath-8474193",
+  "name": "Dophin Lesuire Centre to B2272 Public Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0061549,
+    "lon": -0.1108958
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8474193
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-19754550",
+  "slug": "badger-trail-19754550",
+  "name": "Badger Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1588431,
+    "lon": -2.7231681
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19754550
+  },
+  "ai": {
+    "summary": "The Badger Trail is a gentle 3.4 km hike in the United Kingdom designed for beginners and families. Expect well-defined paths, scenic countryside views, and an easy, mostly flat route suitable for a relaxed morning or afternoon out.",
+    "terrain_summary": "Predominantly well-maintained paths with a mix of compacted gravel, grassy verges, and occasional dirt sections. The route is mostly flat with gentle inclines, making it accessible to walkers of all ages.",
+    "safety_notes": "Check the weather forecast before you go and wear sturdy waterproof footwear suitable for UK conditions. Bring a map or a means of navigation, as some segments may be signposted loosely. Stay on marked paths, watch for uneven ground, and be mindful of wildlife. If hiking after rain, be cautious of muddy sections. In peak season carry sun protection and enough water; be prepared for sudden changes in weather.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Map or offline navigation (or fully charged phone)",
+      "Snacks",
+      "Hat and sunscreen (seasonal)",
+      "Insect repellent (summer)",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal; winter walks are possible but expect mud and shorter daylight.",
+    "seo": {
+      "title": "Badger Trail – Easy 3.4 km Hike in the UK",
+      "meta_description": "Explore the Badger Trail, a gentle 3.4 km hike in the United Kingdom. An easy route for beginners and families, with terrain details, safety tips, and gear recommendations.",
+      "h1": "Badger Trail – 3.4 km Easy Walk in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19852475",
+  "slug": "hod-hill-circular-walk-hod-hill-19852475",
+  "name": "Hod Hill circular walk, Hod Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9004373,
+    "lon": -2.2103538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19852475
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-11507436",
+  "slug": "bruray-11507436",
+  "name": "Bruray",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4227678,
+    "lon": -0.750171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507436
+  },
+  "ai": {
+    "summary": "Bruray is a short, easy 2.4 km hike in the UK suitable for beginners and families. The route offers a relaxed pace and light terrain, making it a great option for a quick outdoor outing that can be completed in under 1.5 hours.",
+    "terrain_summary": "The trail follows a well-marked, gentle route with a mix of grassy paths, compacted gravel, and occasional boardwalk sections. Surface may be uneven in places and can become muddy after rain, so good footwear is advised. Expect mild slopes and few steps, with exposure varying by location.",
+    "safety_notes": "Check the weather before you go; coastal and inland winds can change quickly. Stay on the marked path, watch for roots and loose stones, and keep an eye on children and pets near water or cliff edges if present. Pack a small map or GPS, a charged phone, and sufficient water. In case of an emergency, know local emergency numbers in the UK (999 and 112).",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat (sunny days)",
+      "Light snack",
+      "Map or offline GPS app",
+      "Phone with emergency contacts",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March through October) are best for mild weather and longer daylight. Summer offers the most comfortable conditions, while autumn provides pleasant scenery; winter hiking is possible but can be muddy and cold.",
+    "seo": {
+      "title": "Bruray – Easy 2.4 km Hike in the UK",
+      "meta_description": "Explore Bruray, an easy 2.4 km hike in the UK. A beginner friendly trail with light terrain, ideal for families and casual walkers. Learn about the terrain, safety tips, and gear.",
+      "h1": "Bruray: Easy 2.4 km Hike in the UK"
+    }
+  }
+}

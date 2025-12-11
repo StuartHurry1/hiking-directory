@@ -1,0 +1,21 @@
+{
+  "id": "osm-176455",
+  "slug": "the-tryweryn-trail-176455",
+  "name": "The Tryweryn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.947011,
+    "lon": -3.6511391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 176455
+  }
+}

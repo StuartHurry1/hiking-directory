@@ -1,0 +1,23 @@
+{
+  "id": "osm-1462459",
+  "slug": "causeway-coast-and-glens-9-salllagh-braes-walk-1462459",
+  "name": "Causeway Coast and Glens - 9 - Salllagh Braes Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9570209,
+    "lon": -5.9532382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1462459
+  }
+}

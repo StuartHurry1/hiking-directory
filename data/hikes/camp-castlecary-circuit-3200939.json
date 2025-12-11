@@ -1,0 +1,21 @@
+{
+  "id": "osm-3200939",
+  "slug": "camp-castlecary-circuit-3200939",
+  "name": "Camp Castlecary Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9841158,
+    "lon": -3.9606606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3200939
+  }
+}

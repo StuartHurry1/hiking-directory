@@ -1,0 +1,21 @@
+{
+  "id": "osm-16140359",
+  "slug": "woodchester-blue-trail-16140359",
+  "name": "Woodchester Blue Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7073141,
+    "lon": -2.2697778
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16140359
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1557514",
+  "slug": "weeting-village-walk-1557514",
+  "name": "Weeting Village Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4667524,
+    "lon": 0.6137533
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1557514
+  }
+}

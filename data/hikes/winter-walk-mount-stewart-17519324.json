@@ -1,0 +1,21 @@
+{
+  "id": "osm-17519324",
+  "slug": "winter-walk-mount-stewart-17519324",
+  "name": "Winter Walk, Mount Stewart",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5519667,
+    "lon": -5.6018542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17519324
+  }
+}

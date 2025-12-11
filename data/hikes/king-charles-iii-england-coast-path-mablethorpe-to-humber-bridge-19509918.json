@@ -1,0 +1,24 @@
+{
+  "id": "osm-19509918",
+  "slug": "king-charles-iii-england-coast-path-mablethorpe-to-humber-bridge-19509918",
+  "name": "King Charles III England Coast Path: Mablethorpe to Humber Bridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 180.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3601417,
+    "lon": 0.251644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19509918
+  }
+}

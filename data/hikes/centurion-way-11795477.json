@@ -1,0 +1,21 @@
+{
+  "id": "osm-11795477",
+  "slug": "centurion-way-11795477",
+  "name": "Centurion Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8359141,
+    "lon": -0.7968134
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11795477
+  }
+}

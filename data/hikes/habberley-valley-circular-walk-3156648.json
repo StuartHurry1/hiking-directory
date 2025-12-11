@@ -1,0 +1,21 @@
+{
+  "id": "osm-3156648",
+  "slug": "habberley-valley-circular-walk-3156648",
+  "name": "Habberley Valley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3972477,
+    "lon": -2.2923322
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3156648
+  }
+}

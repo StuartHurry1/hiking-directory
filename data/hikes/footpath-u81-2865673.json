@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865673",
+  "slug": "footpath-u81-2865673",
+  "name": "Footpath U81",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.525109,
+    "lon": -1.3493557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865673
+  }
+}

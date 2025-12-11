@@ -1,0 +1,21 @@
+{
+  "id": "osm-1903483",
+  "slug": "risborough-purple-route-1903483",
+  "name": "Risborough Purple Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7295725,
+    "lon": -0.7955992
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1903483
+  }
+}

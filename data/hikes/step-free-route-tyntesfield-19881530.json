@@ -1,0 +1,21 @@
+{
+  "id": "osm-19881530",
+  "slug": "step-free-route-tyntesfield-19881530",
+  "name": "Step Free Route, Tyntesfield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4412315,
+    "lon": -2.7197894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19881530
+  }
+}

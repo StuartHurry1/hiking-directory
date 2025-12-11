@@ -1,0 +1,21 @@
+{
+  "id": "osm-2717124",
+  "slug": "hanchurch-walk-green-2717124",
+  "name": "Hanchurch Walk (Green)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9643399,
+    "lon": -2.228864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2717124
+  }
+}

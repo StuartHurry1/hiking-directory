@@ -1,0 +1,44 @@
+{
+  "id": "osm-1701416",
+  "slug": "amber-valley-routeway-walk-3-1701416",
+  "name": "Amber Valley Routeway Walk 3",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0971936,
+    "lon": -1.4054581
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1701416
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 3 is a 11.9-kilometre moderate hike in the UK along the Amber Valley Routeway. The route offers varied countryside scenery with gentle to moderate elevation changes, suitable for walkers with some experience who enjoy a steady day on the trail.",
+    "terrain_summary": "The trail combines well-maintained paths, compact dirt tracks, and occasional gravel sections, with short road crossings. Expect rolling terrain and a few gentle ascents; surfaces can become muddy after rain, so sturdy footwear is advised.",
+    "safety_notes": "Check the forecast before setting out and be prepared for UK weather. Wear sturdy boots and weather-appropriate clothing. Bring a map or offline navigation, fully charged phone, water, and snacks. Stay to marked paths, watch for road crossings, and be mindful of others on shared routes. Follow Leave No Trace principles and keep dogs under control where required.",
+    "recommended_gear": [
+      "Water or hydration system",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Sturdy walking boots or shoes",
+      "Map, compass or offline GPS",
+      "Fully charged phone and portable charger",
+      "Snacks or energy bars",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Lightweight rain layer or emergency insulation",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October) typically offer the best conditions in the UK, with summer providing longer daylight; autumn can be particularly scenic with fall colors.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 3 – 11.9 km Moderate UK Hike",
+      "meta_description": "Plan your day on Amber Valley Routeway Walk 3. Explore an 11.9 km moderate hike in the UK, with terrain tips, safety advice, and packing suggestions.",
+      "h1": "Amber Valley Routeway Walk 3 – 11.9 km Moderate Hike"
+    }
+  }
+}

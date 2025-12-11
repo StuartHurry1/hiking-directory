@@ -1,0 +1,21 @@
+{
+  "id": "osm-70228",
+  "slug": "northwood-trail-70228",
+  "name": "Northwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7480067,
+    "lon": -1.185091
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 70228
+  }
+}

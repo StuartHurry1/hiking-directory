@@ -1,0 +1,21 @@
+{
+  "id": "osm-18327141",
+  "slug": "the-sculpture-stroll-18327141",
+  "name": "The Sculpture Stroll",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3730962,
+    "lon": -3.3970142
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18327141
+  }
+}

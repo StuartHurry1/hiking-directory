@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507539",
+  "slug": "loch-of-houll-11507539",
+  "name": "Loch of Houll",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3546906,
+    "lon": -0.987706
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507539
+  }
+}

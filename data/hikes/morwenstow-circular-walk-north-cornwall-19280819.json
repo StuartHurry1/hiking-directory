@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280819",
+  "slug": "morwenstow-circular-walk-north-cornwall-19280819",
+  "name": "Morwenstow circular walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9085941,
+    "lon": -4.5539752
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280819
+  }
+}

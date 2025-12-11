@@ -1,0 +1,21 @@
+{
+  "id": "osm-19384877",
+  "slug": "pink-parkland-estate-walk-melford-hall-19384877",
+  "name": "Pink Parkland Estate Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0825375,
+    "lon": 0.7238766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19384877
+  }
+}

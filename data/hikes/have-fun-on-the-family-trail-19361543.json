@@ -1,0 +1,21 @@
+{
+  "id": "osm-19361543",
+  "slug": "have-fun-on-the-family-trail-19361543",
+  "name": "Have fun on the family trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9233592,
+    "lon": 1.2073712
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19361543
+  }
+}

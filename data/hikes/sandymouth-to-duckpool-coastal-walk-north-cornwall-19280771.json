@@ -1,0 +1,23 @@
+{
+  "id": "osm-19280771",
+  "slug": "sandymouth-to-duckpool-coastal-walk-north-cornwall-19280771",
+  "name": "Sandymouth to Duckpool coastal walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8616292,
+    "lon": -4.5539825
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280771
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-14022463",
+  "slug": "atholl-woods-path-14022463",
+  "name": "Atholl Woods Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6016483,
+    "lon": -3.5844838
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14022463
+  },
+  "ai": {
+    "summary": "Atholl Woods Path offers a demanding 20 km woodland circuit in the UK, suitable for experienced hikers who are prepared for varied terrain and endurance challenges.",
+    "terrain_summary": "Expect forest tracks with uneven surfaces, exposed roots, damp sections, and occasional hill climbs. The trail can be muddy, slippery, and exposed to changing weather; long forest stretches mean variable footing and potential boggy patches. Elevation changes add to the challenge.",
+    "safety_notes": "Plan for a long day: 6–10 hours depending on pace. Tell someone your route and expected return time. Carry a map and compass (or GPS backup) and know how to use them. Check the weather before you go and be prepared for sudden changes. Monitor fatigue and hydration; take regular breaks. Carry extra layers, waterproofs, and a headlamp if daylight is limited. Stay aware of wildlife and other trail users. In remote sections, have a charged phone but do not rely on mobile coverage.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support and grip",
+      "Weather-appropriate layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Backpack with at least 20–30 liters capacity",
+      "Water and high-energy snacks; electrolyte drinks",
+      "Map and compass; GPS device as backup",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Emergency whistle and thermal blanket",
+      "Rain cover for backpack; gaiters (optional to keep mud out)",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Sun protection (sunscreen, hat, sunglasses)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers the most daylight and better trail conditions in the UK. Winter hikes can be rewarding but require significant preparation and shorter daylight availability.",
+    "seo": {
+      "title": "Atholl Woods Path – 20km Hard Hike in the UK",
+      "meta_description": "Discover Atholl Woods Path, a challenging 20 km woodland hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this demanding route.",
+      "h1": "Atholl Woods Path: A 20km Hard Hike in the UK"
+    }
+  }
+}

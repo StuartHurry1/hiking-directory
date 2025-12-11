@@ -1,0 +1,21 @@
+{
+  "id": "osm-10376066",
+  "slug": "crowan-br-69-10376066",
+  "name": "Crowan BR 69",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1771382,
+    "lon": -5.3226498
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10376066
+  }
+}

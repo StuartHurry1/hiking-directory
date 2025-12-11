@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217200",
+  "slug": "man-v-barge-19217200",
+  "name": "Man v Barge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5880625,
+    "lon": -1.9444935
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217200
+  }
+}

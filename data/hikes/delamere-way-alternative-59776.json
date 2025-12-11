@@ -1,0 +1,23 @@
+{
+  "id": "osm-59776",
+  "slug": "delamere-way-alternative-59776",
+  "name": "Delamere Way (alternative)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2514859,
+    "lon": -2.6264956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 59776
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15477028",
+  "slug": "long-ashton-village-circular-walk-15477028",
+  "name": "Long Ashton Village Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.43514,
+    "lon": -2.6670803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15477028
+  }
+}

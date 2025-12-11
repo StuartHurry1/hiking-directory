@@ -1,0 +1,42 @@
+{
+  "id": "osm-5507441",
+  "slug": "beare-green-walk-scc-5507441",
+  "name": "Beare Green walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.181378,
+    "lon": -0.3206957
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5507441
+  },
+  "ai": {
+    "summary": "Beare Green Walk (SCC) is a gentle 5.9 km countryside stroll in the UK, suitable for all ages and abilities. The route offers easy terrain, pleasant hedgerows, and light woodland, with scenery along rural lanes and fields. The walk is ideal for a relaxed day out and can be enjoyed in most seasons with suitable clothing.",
+    "terrain_summary": "The path covers mainly well-maintained footpaths, country lanes, and gentle gradients. Expect grassy tracks, compact earth, occasional mud after rain, and some stiles or gates. Surface varies from firm soil to grassy verges; footwear with good grip is recommended.",
+    "safety_notes": "Plan for UK weather with appropriate clothing. Stay on public paths, watch for traffic on rural lanes, close gates behind you, and be mindful of livestock. Bring a map or offline navigation and keep a charged phone. Short daylight hours in winter and slippery surfaces after rain can affect footing.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered clothing, waterproof jacket)",
+      "Map, compass or offline navigation",
+      "Phone with emergency contacts and power bank",
+      "Small first aid kit",
+      "Sunscreen and hat (seasonal)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "All seasons, with appropriate clothing and daylight considerations",
+    "seo": {
+      "title": "Beare Green Walk (SCC) – Easy 5.9km Countryside Walk in the UK",
+      "meta_description": "Explore Beare Green Walk (SCC): a gentle 5.9 km countryside loop in the UK. Easy terrain, rural scenery, and practical safety and gear tips for a relaxed day out.",
+      "h1": "Beare Green Walk (SCC) – 5.9 km Easy Countryside Trail"
+    }
+  }
+}

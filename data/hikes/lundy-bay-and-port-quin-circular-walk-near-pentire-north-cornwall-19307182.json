@@ -1,0 +1,23 @@
+{
+  "id": "osm-19307182",
+  "slug": "lundy-bay-and-port-quin-circular-walk-near-pentire-north-cornwall-19307182",
+  "name": "Lundy Bay and Port Quin circular walk near Pentire, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5791984,
+    "lon": -4.8932424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307182
+  }
+}

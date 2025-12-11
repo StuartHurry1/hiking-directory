@@ -1,0 +1,21 @@
+{
+  "id": "osm-15430941",
+  "slug": "precipice-walk-15430941",
+  "name": "Precipice Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.774253,
+    "lon": -3.8685247
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15430941
+  }
+}

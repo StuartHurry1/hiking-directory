@@ -1,0 +1,21 @@
+{
+  "id": "osm-15876422",
+  "slug": "wee-woodland-way-15876422",
+  "name": "Wee Woodland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6683423,
+    "lon": -6.2522567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15876422
+  }
+}

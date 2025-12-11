@@ -1,0 +1,21 @@
+{
+  "id": "osm-15652624",
+  "slug": "drumee-cemetery-15652624",
+  "name": "Drumee Cemetery",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2484075,
+    "lon": -5.9324684
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15652624
+  }
+}

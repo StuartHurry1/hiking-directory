@@ -1,0 +1,24 @@
+{
+  "id": "osm-9710050",
+  "slug": "river-reflections-walk-attingham-park-9710050",
+  "name": "River Reflections Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6862146,
+    "lon": -2.6702391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9710050
+  }
+}

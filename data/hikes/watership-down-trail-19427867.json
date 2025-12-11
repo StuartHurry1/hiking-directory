@@ -1,0 +1,21 @@
+{
+  "id": "osm-19427867",
+  "slug": "watership-down-trail-19427867",
+  "name": "Watership Down Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 78.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2371203,
+    "lon": -1.3381813
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19427867
+  }
+}

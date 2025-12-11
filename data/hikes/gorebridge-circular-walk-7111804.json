@@ -1,0 +1,23 @@
+{
+  "id": "osm-7111804",
+  "slug": "gorebridge-circular-walk-7111804",
+  "name": "Gorebridge Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8386393,
+    "lon": -3.0462786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7111804
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15601314",
+  "slug": "chevin-geology-trail-15601314",
+  "name": "Chevin Geology Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.895072,
+    "lon": -1.6895314
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15601314
+  }
+}

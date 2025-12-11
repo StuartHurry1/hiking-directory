@@ -1,0 +1,23 @@
+{
+  "id": "osm-11507209",
+  "slug": "stenness-to-eshaness-coastal-route-11507209",
+  "name": "Stenness to Eshaness coastal route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5033701,
+    "lon": -1.5926584
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507209
+  }
+}

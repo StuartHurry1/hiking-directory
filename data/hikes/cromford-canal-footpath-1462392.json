@@ -1,0 +1,21 @@
+{
+  "id": "osm-1462392",
+  "slug": "cromford-canal-footpath-1462392",
+  "name": "Cromford Canal Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.059818,
+    "lon": -1.4216694
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1462392
+  }
+}

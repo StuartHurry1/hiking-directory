@@ -1,0 +1,21 @@
+{
+  "id": "osm-16124612",
+  "slug": "goatfell-trail-16124612",
+  "name": "Goatfell Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5766353,
+    "lon": -5.1419564
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124612
+  }
+}

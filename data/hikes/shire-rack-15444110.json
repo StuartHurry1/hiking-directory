@@ -1,0 +1,21 @@
+{
+  "id": "osm-15444110",
+  "slug": "shire-rack-15444110",
+  "name": "Shire Rack",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.972405,
+    "lon": -2.0169335
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15444110
+  }
+}

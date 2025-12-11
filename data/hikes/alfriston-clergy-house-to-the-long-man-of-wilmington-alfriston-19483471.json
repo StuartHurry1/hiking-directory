@@ -1,0 +1,46 @@
+{
+  "id": "osm-19483471",
+  "slug": "alfriston-clergy-house-to-the-long-man-of-wilmington-alfriston-19483471",
+  "name": "Alfriston Clergy House to The Long Man of Wilmington, Alfriston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.806158,
+    "lon": 0.1576692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19483471
+  },
+  "ai": {
+    "summary": "A hard 24.3 km hike from Alfriston Clergy House to The Long Man of Wilmington, tracing the South Downs across rolling chalk downs, farmland, and ridge lines. The route offers panoramic views, extensive open ground, and a final approach to the iconic chalk figure at Wilmington.",
+    "terrain_summary": "Primarily footpaths over chalk downs and fields. Expect grassy turf, compact tracks, uneven and rocky sections, and occasional mud after rain. The route includes several ascents and descents, fence lines and stiles, with exposed ridges offering wide views in good weather.",
+    "safety_notes": "Plan for a full-day hike (hard distance). Wear sturdy boots and weather-appropriate clothing. Check the forecast; wind and rain can create challenging conditions on exposed downs. Bring a map and compass or offline navigation, as mobile signal may be limited. Stay on official routes; respect farmland and livestock; dogs may need to be leashed. Carry sufficient water and high-energy food, plus a first aid kit and a light layer for emergencies. Be mindful of mud and uneven ground on steeper sections, and use trekking poles if needed. Share your plans with someone and adjust for shorter daylight in autumn/winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layered): waterproof jacket, insulating layer",
+      "Hat, gloves (seasonal)",
+      "Water bottle or hydration system (2–3 L for a full day)",
+      "High-energy snacks and a light meal",
+      "Map and compass (or GPS/offline navigation) and knowledge to use them",
+      "Sun protection (sunscreen, sunglasses)",
+      "First aid kit (blister care, basics)",
+      "Whistle and a small emergency blanket",
+      "Headlamp or flashlight (in case of delays)",
+      "Trekking poles (optional but helpful on rough or exposed sections)",
+      "Dry bag or waterproof cover for gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; winter hiking is possible but colder, wetter, and days are shorter, requiring more planning and caution.",
+    "seo": {
+      "title": "Alfriston Clergy House to The Long Man of Wilmington Hike – 24.3 km, Hard Difficulty (UK)",
+      "meta_description": "Plan a challenging 24.3 km hike from Alfriston Clergy House to The Long Man of Wilmington in East Sussex, UK. Enjoy South Downs scenery, chalk downs, and the iconic Long Man as your destination.",
+      "h1": "Alfriston Clergy House to The Long Man of Wilmington — 24.3 km (Hard)"
+    }
+  }
+}

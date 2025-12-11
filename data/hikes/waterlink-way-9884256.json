@@ -1,0 +1,21 @@
+{
+  "id": "osm-9884256",
+  "slug": "waterlink-way-9884256",
+  "name": "Waterlink Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4813065,
+    "lon": -0.0176575
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9884256
+  }
+}

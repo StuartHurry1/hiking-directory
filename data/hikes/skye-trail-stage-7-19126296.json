@@ -1,0 +1,21 @@
+{
+  "id": "osm-19126296",
+  "slug": "skye-trail-stage-7-19126296",
+  "name": "Skye Trail - Stage 7",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2158421,
+    "lon": -6.0170318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19126296
+  }
+}

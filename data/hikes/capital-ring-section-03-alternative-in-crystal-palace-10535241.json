@@ -1,0 +1,21 @@
+{
+  "id": "osm-10535241",
+  "slug": "capital-ring-section-03-alternative-in-crystal-palace-10535241",
+  "name": "Capital Ring (section 03) - alternative in Crystal Palace",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4185615,
+    "lon": -0.0726109
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10535241
+  }
+}

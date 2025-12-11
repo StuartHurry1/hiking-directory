@@ -1,0 +1,21 @@
+{
+  "id": "osm-2310202",
+  "slug": "winchcombe-way-west-2310202",
+  "name": "Winchcombe Way (West)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 81.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9524244,
+    "lon": -1.967028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2310202
+  }
+}

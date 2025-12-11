@@ -1,0 +1,21 @@
+{
+  "id": "osm-18733224",
+  "slug": "rail-trail-earlswood-greater-wythall-18733224",
+  "name": "Rail Trail: Earlswood > Wythall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3671205,
+    "lon": -1.8621826
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18733224
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10799322",
+  "slug": "margery-allingham-walk-10799322",
+  "name": "Margery Allingham Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9213938,
+    "lon": 0.7518524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10799322
+  }
+}

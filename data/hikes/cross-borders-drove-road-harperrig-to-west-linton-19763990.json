@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763990",
+  "slug": "cross-borders-drove-road-harperrig-to-west-linton-19763990",
+  "name": "Cross Borders Drove Road (Harperrig to West Linton)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7630789,
+    "lon": -3.3666243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763990
+  }
+}

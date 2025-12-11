@@ -1,0 +1,21 @@
+{
+  "id": "osm-8193963",
+  "slug": "wyche-way-8193963",
+  "name": "Wyche Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0035716,
+    "lon": -1.8772104
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8193963
+  }
+}

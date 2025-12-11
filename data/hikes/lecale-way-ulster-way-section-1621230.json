@@ -1,0 +1,21 @@
+{
+  "id": "osm-1621230",
+  "slug": "lecale-way-ulster-way-section-1621230",
+  "name": "Lecale Way (Ulster Way Section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 172.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2109291,
+    "lon": -5.8892886
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1621230
+  }
+}

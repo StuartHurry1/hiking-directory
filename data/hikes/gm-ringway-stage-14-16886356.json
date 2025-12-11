@@ -1,0 +1,21 @@
+{
+  "id": "osm-16886356",
+  "slug": "gm-ringway-stage-14-16886356",
+  "name": "GM Ringway Stage 14",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6141682,
+    "lon": -2.4106471
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16886356
+  }
+}

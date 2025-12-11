@@ -1,0 +1,21 @@
+{
+  "id": "osm-12812990",
+  "slug": "glen-affric-memorial-cairn-viewpoint-path-12812990",
+  "name": "Glen Affric Memorial Cairn Viewpoint Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2655688,
+    "lon": -4.9845931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12812990
+  }
+}

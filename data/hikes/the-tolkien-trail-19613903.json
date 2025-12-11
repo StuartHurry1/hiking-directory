@@ -1,0 +1,21 @@
+{
+  "id": "osm-19613903",
+  "slug": "the-tolkien-trail-19613903",
+  "name": "The Tolkien Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.845715,
+    "lon": -2.4551884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19613903
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11983990",
+  "slug": "capital-ring-link-to-grove-park-station-11983990",
+  "name": "Capital Ring link to Grove Park station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.433653,
+    "lon": 0.0280237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11983990
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9774049",
+  "slug": "lynmouth-circular-via-watersmeet-and-countisbury-9774049",
+  "name": "Lynmouth Circular via Watersmeet & Countisbury",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2321439,
+    "lon": -3.7956523
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9774049
+  }
+}

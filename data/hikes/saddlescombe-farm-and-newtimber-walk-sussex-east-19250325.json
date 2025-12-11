@@ -1,0 +1,21 @@
+{
+  "id": "osm-19250325",
+  "slug": "saddlescombe-farm-and-newtimber-walk-sussex-east-19250325",
+  "name": "Saddlescombe Farm and Newtimber walk, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8960462,
+    "lon": -0.1947487
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19250325
+  }
+}

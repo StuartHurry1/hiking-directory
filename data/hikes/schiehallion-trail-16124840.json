@@ -1,0 +1,21 @@
+{
+  "id": "osm-16124840",
+  "slug": "schiehallion-trail-16124840",
+  "name": "Schiehallion Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6770278,
+    "lon": -4.0368836
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124840
+  }
+}

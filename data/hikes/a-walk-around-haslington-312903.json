@@ -1,0 +1,45 @@
+{
+  "id": "osm-312903",
+  "slug": "a-walk-around-haslington-312903",
+  "name": "A Walk around Haslington",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0957258,
+    "lon": -2.392727
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 312903
+  },
+  "ai": {
+    "summary": "A Walk around Haslington is a 14 km moderate loop in the UK that traverses rural lanes, hedgerows, and farmland around Haslington. It offers steady miles, quiet countryside, and a chance to experience rural England; suitable for hikers with moderate fitness, typically taking about 3.5–4 hours.",
+    "terrain_summary": "The route combines tarmac country lanes with gravel tracks and grassy field paths. Expect a mix of surfaced and unpaved surfaces, gentle undulations, occasional stiles, and potential mud after rain. Some sections may be exposed to wind across open farmland; watch for livestock and farm gates.",
+    "safety_notes": "Wear sturdy waterproof footwear; bring water and snacks; check the weather forecast and plan for daylight. Stay on marked paths, take care on road sections, and be mindful of traffic. Observe gate etiquette around fields and watch for livestock. Carry a map or GPS and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Hat and gloves (seasonal)",
+      "Map and/or GPS device",
+      "Phone with offline maps",
+      "Snacks",
+      "Sunscreen",
+      "Basic first aid kit",
+      "Lightweight backpack",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal due to milder weather and longer daylight; the route can be tackled in winter with proper clothing, but expect mud, shorter days, and potentially reduced daylight.",
+    "seo": {
+      "title": "A Walk around Haslington – 14 km Moderate Hike in the UK",
+      "meta_description": "Discover a 14 km moderate loop around Haslington, UK. This countryside hike features rural lanes, hedgerows, and gentle terrain, ideal for hikers with moderate fitness.",
+      "h1": "A Walk around Haslington – 14 km Moderate Hike in the UK"
+    }
+  }
+}

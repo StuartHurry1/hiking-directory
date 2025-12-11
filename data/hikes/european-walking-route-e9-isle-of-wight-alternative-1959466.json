@@ -1,0 +1,21 @@
+{
+  "id": "osm-1959466",
+  "slug": "european-walking-route-e9-isle-of-wight-alternative-1959466",
+  "name": "European walking route E9, Isle of Wight alternative",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 181.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6721386,
+    "lon": -1.5618868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1959466
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13092079",
+  "slug": "tullnashane-river-trail-13092079",
+  "name": "Tullnashane River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6831093,
+    "lon": -7.8609594
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13092079
+  }
+}

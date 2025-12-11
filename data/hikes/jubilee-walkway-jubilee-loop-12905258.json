@@ -1,0 +1,21 @@
+{
+  "id": "osm-12905258",
+  "slug": "jubilee-walkway-jubilee-loop-12905258",
+  "name": "Jubilee Walkway (Jubilee Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5076062,
+    "lon": -0.1282318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12905258
+  }
+}

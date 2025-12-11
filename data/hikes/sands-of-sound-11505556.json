@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505556",
+  "slug": "sands-of-sound-11505556",
+  "name": "Sands of Sound",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1414866,
+    "lon": -1.1675802
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505556
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-18653044",
+  "slug": "abcd-pub-heritage-trail-18653044",
+  "name": "ABCD Pub Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5836555,
+    "lon": -2.1152793
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18653044
+  },
+  "ai": {
+    "summary": "The ABCD Pub Heritage Trail is a 6 km moderate hike in the UK that combines lakeside scenery with a heritage pub route. The walk features quiet waterside paths, gentle gradients, and optional stops at historic pubs along the way.",
+    "terrain_summary": "Terrain includes well-trodden paths by the lake, compact trails, grassy verges, and occasional gates or stiles. Expect a few gentle ascents and descents; surfaces can be damp or uneven after rain, so sturdy, waterproof footwear is advised.",
+    "safety_notes": "Safety: Check the forecast before you go; UK weather can change rapidly. Wear sturdy waterproof footwear and layers; bring a waterproof jacket, water, snacks, and a small first aid kit. Stay on marked paths, heed road crossings near settlements, and be mindful of other walkers, cyclists, dogs, and seasonal pub crowds. If visibility drops or conditions worsen, turn back or seek shelter.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes with good grip",
+      "Waterproof jacket and layered clothing",
+      "Backpack with rain cover",
+      "Water bottle and snacks",
+      "Map or offline route or GPS device",
+      "Phone and portable charger",
+      "Basic first aid kit",
+      "Sun protection (hat and sunscreen) in sunny weather",
+      "Headlamp or flashlight (for late finishes)"
+    ],
+    "best_seasons": "Spring through autumn (roughly April–October) generally offer the best conditions for lake views and pub stops; the trail can be enjoyed year-round with appropriate clothing and precautions.",
+    "seo": {
+      "title": "ABCD Pub Heritage Trail – 6 km Lakes Walk in the UK",
+      "meta_description": "Explore the 6 km ABCD Pub Heritage Trail in the UK. A moderate lakeside hike blending scenic water views with historic pub stops. Plan your route today.",
+      "h1": "ABCD Pub Heritage Trail: 6 km Lakes Walk in the UK"
+    }
+  }
+}

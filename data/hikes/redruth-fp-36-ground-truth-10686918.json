@@ -1,0 +1,21 @@
+{
+  "id": "osm-10686918",
+  "slug": "redruth-fp-36-ground-truth-10686918",
+  "name": "Redruth FP 36 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2284787,
+    "lon": -5.2345204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10686918
+  }
+}

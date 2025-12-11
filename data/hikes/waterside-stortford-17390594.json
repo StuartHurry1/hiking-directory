@@ -1,0 +1,21 @@
+{
+  "id": "osm-17390594",
+  "slug": "waterside-stortford-17390594",
+  "name": "Waterside Stortford",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 64.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8519549,
+    "lon": 0.1680583
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17390594
+  }
+}

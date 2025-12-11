@@ -1,0 +1,21 @@
+{
+  "id": "osm-19097885",
+  "slug": "wicken-fen-boardwalk-trail-wicken-fen-19097885",
+  "name": "Wicken Fen Boardwalk Trail, Wicken Fen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3105875,
+    "lon": 0.2912001
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19097885
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16078700",
+  "slug": "green-chain-walk-section-11-alt-16078700",
+  "name": "Green Chain Walk section 11 Alt",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4502673,
+    "lon": -0.0571802
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16078700
+  }
+}

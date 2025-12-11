@@ -1,0 +1,21 @@
+{
+  "id": "osm-17694297",
+  "slug": "mill-path-17694297",
+  "name": "Mill Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.0221777,
+    "lon": -7.1805208
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17694297
+  }
+}

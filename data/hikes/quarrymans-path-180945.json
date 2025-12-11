@@ -1,0 +1,21 @@
+{
+  "id": "osm-180945",
+  "slug": "quarrymans-path-180945",
+  "name": "Quarryman's Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6349508,
+    "lon": -3.9377213
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 180945
+  }
+}

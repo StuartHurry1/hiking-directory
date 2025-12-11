@@ -1,0 +1,21 @@
+{
+  "id": "osm-377466",
+  "slug": "wilfreds-walk-377466",
+  "name": "Wilfred's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.715217,
+    "lon": -2.6797653
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 377466
+  }
+}

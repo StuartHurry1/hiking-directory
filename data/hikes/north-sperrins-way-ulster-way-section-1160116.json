@@ -1,0 +1,21 @@
+{
+  "id": "osm-1160116",
+  "slug": "north-sperrins-way-ulster-way-section-1160116",
+  "name": "North Sperrins Way (Ulster Way Section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 67.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1212614,
+    "lon": -6.9204629
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1160116
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-374890",
+  "slug": "isle-of-anglesey-coastal-path-374890",
+  "name": "Isle of Anglesey Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 395.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4142201,
+    "lon": -4.4537563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 374890
+  }
+}

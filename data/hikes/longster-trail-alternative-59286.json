@@ -1,0 +1,21 @@
+{
+  "id": "osm-59286",
+  "slug": "longster-trail-alternative-59286",
+  "name": "Longster Trail (alternative)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2025073,
+    "lon": -2.852397
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 59286
+  }
+}

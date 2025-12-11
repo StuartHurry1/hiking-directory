@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480056",
+  "slug": "west-voe-beach-access-11480056",
+  "name": "West Voe Beach Access",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.8716173,
+    "lon": -1.2876065
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480056
+  }
+}

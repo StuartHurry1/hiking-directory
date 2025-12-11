@@ -1,0 +1,24 @@
+{
+  "id": "osm-19935225",
+  "slug": "frensham-little-pond-family-walk-frensham-19935225",
+  "name": "Frensham Little Pond Family Walk, Frensham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [
+    "lakes",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1691157,
+    "lon": -0.77579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19935225
+  }
+}

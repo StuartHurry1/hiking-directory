@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283652",
+  "slug": "hinkley-wood-route-ilam-park-19283652",
+  "name": "Hinkley Wood Route, Ilam Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0520676,
+    "lon": -1.8033843
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283652
+  }
+}

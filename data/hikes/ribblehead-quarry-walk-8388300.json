@@ -1,0 +1,21 @@
+{
+  "id": "osm-8388300",
+  "slug": "ribblehead-quarry-walk-8388300",
+  "name": "Ribblehead Quarry Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.205024,
+    "lon": -2.3602557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8388300
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17639247",
+  "slug": "lane-behind-moylena-grove-17639247",
+  "name": "Lane behind Moylena Grove",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7081248,
+    "lon": -6.2158537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17639247
+  }
+}

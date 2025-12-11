@@ -1,0 +1,23 @@
+{
+  "id": "osm-1603791",
+  "slug": "cumbria-coastal-way-1603791",
+  "name": "Cumbria Coastal Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 491.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4823973,
+    "lon": -3.5926292
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1603791
+  }
+}

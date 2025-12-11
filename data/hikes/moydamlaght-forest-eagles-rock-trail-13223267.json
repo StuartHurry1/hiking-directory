@@ -1,0 +1,21 @@
+{
+  "id": "osm-13223267",
+  "slug": "moydamlaght-forest-eagles-rock-trail-13223267",
+  "name": "Moydamlaght Forest - Eagles Rock Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8300815,
+    "lon": -6.8478361
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13223267
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-9774298",
+  "slug": "heddon-valley-to-woody-bay-walk-9774298",
+  "name": "Heddon Valley to Woody Bay Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2164288,
+    "lon": -3.9270505
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9774298
+  }
+}

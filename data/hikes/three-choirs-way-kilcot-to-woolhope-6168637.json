@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168637",
+  "slug": "three-choirs-way-kilcot-to-woolhope-6168637",
+  "name": "Three Choirs Way (Kilcot to Woolhope)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 232.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9918709,
+    "lon": -2.499012
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168637
+  }
+}

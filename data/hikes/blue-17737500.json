@@ -1,0 +1,41 @@
+{
+  "id": "osm-17737500",
+  "slug": "blue-17737500",
+  "name": "blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0648488,
+    "lon": -3.4009757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737500
+  },
+  "ai": {
+    "summary": "Blue is a short, easy 3.8 km hike in the UK designed for beginners. The route prioritizes a relaxed pace and gentle terrain, making it suitable for families, casual walkers, and anyone seeking a scenic, low-effort outing.",
+    "terrain_summary": "Mostly flat to gently undulating trails with well-marked paths. Expect a mix of grassy meadows, compact soil, occasional gravel, and a few boardwalk sections. After rain, some parts can be muddy, so waterproof footwear is advised.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy waterproof footwear and bring a light, weather-appropriate layer. Stay on marked trails, carry water, and let someone know your plans. The UK can change quickly, so be prepared for rain, wind, and uneven ground; supervise children or pets closely.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Lightweight rain jacket",
+      "Water bottle",
+      "Map or offline GPS",
+      "Sun protection (sunscreen, hat)",
+      "Small snack",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal due to milder weather and longer daylight. Summer has long days; winter can be muddy or icy.",
+    "seo": {
+      "title": "Blue Trail: Easy 3.8 km Hike in the UK",
+      "meta_description": "Explore Blue, an easy 3.8 km hike in the UK. Ideal for beginners and families, with gentle terrain and scenic views.",
+      "h1": "Blue Trail - Easy 3.8 km Hike in the UK"
+    }
+  }
+}

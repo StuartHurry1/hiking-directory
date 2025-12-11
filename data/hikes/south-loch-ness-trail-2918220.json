@@ -1,0 +1,21 @@
+{
+  "id": "osm-2918220",
+  "slug": "south-loch-ness-trail-2918220",
+  "name": "South Loch Ness Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 124.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1450515,
+    "lon": -4.6806608
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2918220
+  }
+}

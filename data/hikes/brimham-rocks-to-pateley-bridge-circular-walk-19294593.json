@@ -1,0 +1,48 @@
+{
+  "id": "osm-19294593",
+  "slug": "brimham-rocks-to-pateley-bridge-circular-walk-19294593",
+  "name": "Brimham Rocks to Pateley Bridge Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19294593
+  },
+  "ai": {
+    "summary": "A challenging 40.3 km circular hike starting at Brimham Rocks and looping via ridges to Pateley Bridge before returning to the start. The route traverses exposed moorland and limestone scenery, with long ascents and varied terrain. Best suited to experienced hikers seeking a strenuous ridge route in the UK.",
+    "terrain_summary": "Mixed terrain including rocky ridge paths at Brimham Rocks, grassy moorland, peat bogs, gravel tracks, farm lanes, and occasional tarmac in villages. Expect uneven surfaces, loose stones on ascents/descents, wet or slippery conditions, and exposed sections with variable weather.",
+    "safety_notes": "This is a long, exposed ridge walk. Check weather forecasts and plan for changes in conditions. Navigation skills and a reliable map/compass are essential; carry a GPS backup. Start early to ensure daylight, and know bail-out points near Brimham Rocks and Pateley Bridge. Wear sturdy footwear and bring waterproof layers, extra clothing, and sufficient food and water. Carry a whistle, a charged phone, and a basic first-aid kit; consider an emergency blanket for emergencies. Inform someone of your planned route and timings.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing (base layer, fleece, waterproof shell)",
+      "Waterproof pants and a lightweight, breathable outer layer",
+      "Backpack 20–30 L with rain cover",
+      "Water and high-energy food (expect 2–3 L water; snacks and meals for the day)",
+      "Map and compass (plus GPS as backup)",
+      "Whistle and fully charged mobile phone",
+      "Basic first-aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Emergency insulation (foil blanket or compact bivy)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for more predictable weather and daylight. Winter hikes are longer, more exposed, and require ice, mud, and shorter daylight; plan accordingly.",
+    "seo": {
+      "title": "Brimham Rocks to Pateley Bridge Circular Walk – 40.3 km Ridge Hike in the UK",
+      "meta_description": "Tackle a 40.3 km hard ridge hike from Brimham Rocks to Pateley Bridge and back. This Nidderdale circular walk features exposed ridges, limestone scenery, and remote moorland—ideal for experienced hikers in the UK.",
+      "h1": "Brimham Rocks to Pateley Bridge Circular Walk"
+    }
+  }
+}

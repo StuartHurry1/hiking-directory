@@ -1,0 +1,44 @@
+{
+  "id": "osm-9774299",
+  "slug": "butterfly-walk-9774299",
+  "name": "Butterfly Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2169667,
+    "lon": -3.9278861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9774299
+  },
+  "ai": {
+    "summary": "Butterfly Walk is an 8.6 km moderate circuit in the UK that traverses meadow edges and woodland trails, offering potential butterfly sightings and a varied terrain suitable for hikers with a reasonable fitness level.",
+    "terrain_summary": "The route combines grassy field paths, compact gravel tracks, and woodland trails with gentle gradients. Expect uneven ground in places, possible mud after rain, and occasional gates or stiles. Good grip footwear is recommended.",
+    "safety_notes": "Plan for UK weather and daylight hours; wear sturdy boots and carry a waterproof layer. Stay on marked paths, bring a map or offline navigation, and carry water and snacks. Be mindful of livestock, gates, and wet/ muddy sections; check for closures and watch for ticks in long grass.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Snacks",
+      "Map and compass (or offline map)",
+      "Phone with charged battery and emergency contact info",
+      "Small first-aid kit",
+      "Insect repellent",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to Autumn (March–October)",
+    "seo": {
+      "title": "Butterfly Walk – 8.6 km Moderate Hike in the UK",
+      "meta_description": "Explore Butterfly Walk, a 8.6 km moderate hike across meadows and woodland in the UK. Ideal for nature lovers and butterfly spotters seeking varied terrain.",
+      "h1": "Butterfly Walk – 8.6 km Moderate Hike in the UK"
+    }
+  }
+}

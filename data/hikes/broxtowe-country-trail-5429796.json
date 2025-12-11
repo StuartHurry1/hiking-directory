@@ -1,0 +1,44 @@
+{
+  "id": "osm-5429796",
+  "slug": "broxtowe-country-trail-5429796",
+  "name": "Broxtowe Country Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 102.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0197117,
+    "lon": -1.3245188
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5429796
+  },
+  "ai": {
+    "summary": "Broxtowe Country Trail is a hard, long-distance hike in the UK totaling 102.6 km. The route traverses an unknown region and combines rural farmland, woodlands, hedged lanes, and intermittent road sections. Suitable for experienced hikers planning a multi-day trek; expect sustained effort, varied surfaces, and multiple gate crossings.",
+    "terrain_summary": "Expect a mix of muddy fields, grassy tracks, chalk paths, and some tarmac. Terrain includes hedgerows, stiles, gentle to moderate hills, and several road crossings. Conditions can be wet and slippery after rain, so footwear and footing are important.",
+    "safety_notes": "Plan as a multi-day hike with a detailed itinerary. Check weather forecasts and daylight hours; inform someone of your route. Stay on established paths; be prepared for limited mobile reception in rural areas. Carry navigation tools (map and compass) even if using GPS. Watch for livestock and cattle on farmland; close gates behind you. Hydrate, bring sufficient food, and carry a first aid kit, a whistle, and a space blanket for emergencies. Be mindful of fatigue and know when to seek shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (base layers, insulating layer, waterproof jacket and pants)",
+      "Backpack with rain cover",
+      "Detailed map and compass (or offline GPS) and a fully charged phone",
+      "Water bottle or hydration system (minimum 2 L) and high-energy snacks",
+      "Personal first aid kit (blister care, plasters, antiseptic)",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles (optional but helpful for long segments and hills)",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency whistle and compact space blanket or bivvy bag"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers longer days and drier trails, making the 102.6 km hike more manageable. Winter conditions can be muddy, cold, and challenging; plan accordingly.",
+    "seo": {
+      "title": "Broxtowe Country Trail – 102.6 km Hard UK Hike",
+      "meta_description": "Take on the 102.6 km Broxtowe Country Trail in the UK. A demanding long-distance hike across mixed rural terrain. Plan multi-day trips with gear, navigation, and safety tips.",
+      "h1": "Broxtowe Country Trail: 102.6 km Hard-Distance Hike in the UK"
+    }
+  }
+}

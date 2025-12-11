@@ -1,0 +1,21 @@
+{
+  "id": "osm-13710232",
+  "slug": "diamond-jubilee-walk-13710232",
+  "name": "Diamond Jubilee Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1870235,
+    "lon": 0.0191096
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13710232
+  }
+}

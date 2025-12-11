@@ -1,0 +1,23 @@
+{
+  "id": "osm-11728872",
+  "slug": "loch-ryan-coastal-path-11728872",
+  "name": "Loch Ryan Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9055016,
+    "lon": -5.0260567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11728872
+  }
+}

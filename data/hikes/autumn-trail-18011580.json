@@ -1,0 +1,40 @@
+{
+  "id": "osm-18011580",
+  "slug": "autumn-trail-18011580",
+  "name": "Autumn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9658716,
+    "lon": 0.6134678
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18011580
+  },
+  "ai": {
+    "summary": "Autumn Trail is a short, easy 1 km hike in the UK designed for beginners and families seeking a gentle outdoor stroll along a flat, well-maintained path.",
+    "terrain_summary": "Mostly flat, well-maintained trail with some sections of gravel or compacted dirt. Easy underfoot with minimal elevation gain.",
+    "safety_notes": "This is a short, easy walk, but conditions can vary in the UK. Wear sturdy waterproof footwear, check the forecast, and avoid the path during heavy rain or ice. Stay on designated paths, keep children and dogs under control, bring water, and carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water and a small snack",
+      "Light rain jacket or fleece",
+      "Hat and sunscreen (sunny days)",
+      "Map or GPS enabled device (phone) and a backup",
+      "Phone charged"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Autumn Trail – 1 km Easy Hike in the UK",
+      "meta_description": "Take a short, easy 1 km hike on Autumn Trail in the UK. Flat terrain, family-friendly and suitable for beginners. Practical safety tips and gear included.",
+      "h1": "Autumn Trail: 1 km Easy Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-11580789",
+  "slug": "bardennock-trail-11580789",
+  "name": "Bardennock Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1646925,
+    "lon": -4.211647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11580789
+  },
+  "ai": {
+    "summary": "Bardennock Trail is a 13.2 km moderate hike in the United Kingdom. The route offers varied terrain and scenic views, suitable for hikers with some experience.",
+    "terrain_summary": "The path combines forest tracks, grassy paths, and occasional rocky sections. Expect gentle ascents with uneven ground in places, and potential mud, especially in wetter months. Navigation is straightforward on well-marked routes, but carrying a map or GPS is helpful.",
+    "safety_notes": "Check the weather forecast before you set out. Wear sturdy, waterproof footwear and bring appropriate layers. Carry water, snacks, a map or GPS, and a basic first-aid kit. Let someone know your planned route and expected return time. Stay on marked paths, watch footing on rocky or muddy sections, and pace yourself to complete the 13.2 km safely. Carry a charged phone and a lightweight emergency item such as a whistle.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight (in case of early return or delays)",
+      "Lightweight rain shell and extra insulating layer",
+      "Basic first-aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Phone with portable charger",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal in the UK, offering longer days and generally milder conditions. Winter hikes are possible but can be cold, windy, and very muddy.",
+    "seo": {
+      "title": "Bardennock Trail: 13.2 km Moderate Hike in the UK",
+      "meta_description": "Explore Bardennock Trail, a 13.2 km moderate hike in the United Kingdom. Get terrain details, safety tips, best seasons, and essential gear.",
+      "h1": "Bardennock Trail – 13.2 km Moderate Hike in the UK"
+    }
+  }
+}

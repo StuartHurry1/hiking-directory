@@ -1,0 +1,21 @@
+{
+  "id": "osm-2170215",
+  "slug": "coilhallan-wood-2170215",
+  "name": "Coilhallan wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2435696,
+    "lon": -4.2254517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2170215
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3748275",
+  "slug": "national-forest-way-3748275",
+  "name": "National Forest Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 311.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.725694,
+    "lon": -1.7301865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3748275
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16234191",
+  "slug": "langford-health-route-16234191",
+  "name": "Langford Health Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8909617,
+    "lon": -1.1397987
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16234191
+  }
+}

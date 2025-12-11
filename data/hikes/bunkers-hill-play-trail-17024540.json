@@ -1,0 +1,41 @@
+{
+  "id": "osm-17024540",
+  "slug": "bunkers-hill-play-trail-17024540",
+  "name": "Bunkers Hill Play Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.254734,
+    "lon": -5.9357812
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17024540
+  },
+  "ai": {
+    "summary": "Bunkers Hill Play Trail is a very short, easy hike in the UK designed for beginners and families. Spanning about 0.2 km, it offers a quick outdoor outing with light terrain and minimal elevation change.",
+    "terrain_summary": "Mostly flat or gently graded path with a maintained surface. Expect a mix of grass, gravel, and potentially paved sections. Footing is generally easy, but watch for uneven patches or wet spots after rain.",
+    "safety_notes": "Even on an easy trail, follow standard safety practices. Wear sturdy footwear, stay on the marked path, supervise children, and check the weather before you go. Bring water, and be mindful of other walkers and seasonal hazards such as mud or slick surfaces in wet conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Phone or camera",
+      "Small snack",
+      "Basic first aid kit",
+      "Hat and sunscreen in sunny weather"
+    ],
+    "best_seasons": "Spring to autumn typically offer the most pleasant conditions and scenery. The trail is accessible year-round, but winter weather can make footing slick and shorten daylight.",
+    "seo": {
+      "title": "Bunkers Hill Play Trail — 0.2 km Easy Hike in the UK",
+      "meta_description": "Explore Bunkers Hill Play Trail, a 0.2 km easy hike in the UK. Ideal for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Bunkers Hill Play Trail: A Short Easy Hike in the UK"
+    }
+  }
+}

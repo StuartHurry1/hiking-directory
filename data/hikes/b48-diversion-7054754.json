@@ -1,0 +1,38 @@
+{
+  "id": "osm-7054754",
+  "slug": "b48-diversion-7054754",
+  "name": "+B48-Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4803017,
+    "lon": -1.4529627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7054754
+  },
+  "ai": {
+    "summary": "A very short, easy diversion hike in the UK named +B48-Diversion. At only 0.1 km, it offers a quick outdoor moment with light scenery and minimal effort.",
+    "terrain_summary": "Flat, well-surfaced terrain typical of UK footpaths—likely an urban park, woodland edge, or roadside footway. The route is short and gentle with little elevation change.",
+    "safety_notes": "Follow local signage and respect private property. Check the weather, daylight, and walk with a companion if possible. For a 0.1 km route, hazards are minimal, but stay aware of pedestrians and cyclists on shared paths. Wear comfortable shoes and carry a charged phone in case of detours.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Phone with maps",
+      "Light weather-appropriate layer"
+    ],
+    "best_seasons": "Year-round in the UK; conditions are often most pleasant in spring and summer.",
+    "seo": {
+      "title": "+B48-Diversion: Quick 0.1 km Easy Hike in the UK",
+      "meta_description": "Explore +B48-Diversion, a tiny 0.1 km easy hike in the UK. A short, accessible route with practical safety tips and gear ideas for a quick outdoor break.",
+      "h1": "+B48-Diversion: A 0.1 km Easy Hike in the UK"
+    }
+  }
+}

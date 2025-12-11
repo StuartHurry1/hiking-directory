@@ -1,0 +1,21 @@
+{
+  "id": "osm-9807720",
+  "slug": "new-precipice-walk-9807720",
+  "name": "New Precipice Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7565576,
+    "lon": -3.9015382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9807720
+  }
+}

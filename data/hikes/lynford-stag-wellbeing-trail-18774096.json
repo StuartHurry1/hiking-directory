@@ -1,0 +1,21 @@
+{
+  "id": "osm-18774096",
+  "slug": "lynford-stag-wellbeing-trail-18774096",
+  "name": "Lynford Stag Wellbeing trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4942073,
+    "lon": 0.6693895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18774096
+  }
+}

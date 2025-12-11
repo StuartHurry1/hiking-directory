@@ -1,0 +1,24 @@
+{
+  "id": "osm-11498089",
+  "slug": "cauldhame-to-burra-bridge-coastal-11498089",
+  "name": "Cauldhame to Burra Bridge Coastal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1255642,
+    "lon": -1.2912611
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498089
+  }
+}

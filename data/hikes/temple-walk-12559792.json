@@ -1,0 +1,21 @@
+{
+  "id": "osm-12559792",
+  "slug": "temple-walk-12559792",
+  "name": "Temple Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0216975,
+    "lon": 0.225412
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12559792
+  }
+}

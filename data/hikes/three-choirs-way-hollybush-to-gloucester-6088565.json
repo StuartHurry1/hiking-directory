@@ -1,0 +1,21 @@
+{
+  "id": "osm-6088565",
+  "slug": "three-choirs-way-hollybush-to-gloucester-6088565",
+  "name": "Three Choirs Way (Hollybush to Gloucester)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 374.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9729253,
+    "lon": -2.322584
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6088565
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-379257",
+  "slug": "waterfall-walk-379257",
+  "name": "Waterfall Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7163581,
+    "lon": -5.2181521
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 379257
+  }
+}

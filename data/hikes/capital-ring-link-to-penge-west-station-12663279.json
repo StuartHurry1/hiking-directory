@@ -1,0 +1,21 @@
+{
+  "id": "osm-12663279",
+  "slug": "capital-ring-link-to-penge-west-station-12663279",
+  "name": "Capital Ring link to Penge West station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4177526,
+    "lon": -0.0611546
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12663279
+  }
+}

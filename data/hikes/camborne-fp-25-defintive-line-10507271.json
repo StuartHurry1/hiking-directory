@@ -1,0 +1,41 @@
+{
+  "id": "osm-10507271",
+  "slug": "camborne-fp-25-defintive-line-10507271",
+  "name": "Camborne FP 25 Defintive line",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.203977,
+    "lon": -5.3220591
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10507271
+  },
+  "ai": {
+    "summary": "A very short, easy footpath in the UK following the Camborne FP 25 Defintive line. At just 0.4 km, this route offers a gentle stroll suitable for most walkers seeking a quick outdoor outing.",
+    "terrain_summary": "Short, mostly flat footpath with mixed surface types (paved, gravel, or grassy sections). Expect gentle gradients and occasional gates or stiles typical of UK footpaths. Suitable for beginners and families.",
+    "safety_notes": "This is a short, low-difficulty route, but standard UK hiking safety applies. Check the weather forecast and dress in weather-appropriate layers. Wear sturdy footwear suitable for uneven ground. Stay on the designated footpath and respect livestock and other pedestrians. Be mindful of traffic if the path runs near roads. Bring a small amount of water; in poor weather, carry a lightweight waterproof layer. Have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Map or offline GPS / smartphone navigation",
+      "Phone with emergency contact numbers",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "Year-round (best in spring to autumn when daylight is longer and weather is milder).",
+    "seo": {
+      "title": "Camborne FP 25 Defintive line – Easy 0.4 km UK Footpath",
+      "meta_description": "Discover the short, easy 0.4 km Camborne FP 25 Defintive line footpath in the UK, ideal for a quick, low-effort outdoor stroll.",
+      "h1": "Camborne FP 25 Defintive line – Easy 0.4 km UK Footpath"
+    }
+  }
+}

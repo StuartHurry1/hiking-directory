@@ -1,0 +1,21 @@
+{
+  "id": "osm-12228273",
+  "slug": "monaghan-way-12228273",
+  "name": "Monaghan Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 165.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.005104,
+    "lon": -6.5773827
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12228273
+  }
+}

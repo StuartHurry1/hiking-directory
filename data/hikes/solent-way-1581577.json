@@ -1,0 +1,21 @@
+{
+  "id": "osm-1581577",
+  "slug": "solent-way-1581577",
+  "name": "Solent Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 375.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8437707,
+    "lon": -1.3961939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1581577
+  }
+}

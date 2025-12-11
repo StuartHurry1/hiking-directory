@@ -1,0 +1,21 @@
+{
+  "id": "osm-1716283",
+  "slug": "the-chiltern-way-berkshire-loop-1716283",
+  "name": "The Chiltern Way Berkshire Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 132.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5176967,
+    "lon": -0.9453101
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1716283
+  }
+}

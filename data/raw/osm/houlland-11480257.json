@@ -1,0 +1,41 @@
+{
+  "id": 11480257,
+  "slug": "houlland-11480257",
+  "name": "Houlland",
+  "network": "lwn",
+  "tags": {
+    "designation": "core_path",
+    "name": "Houlland",
+    "network": "lwn",
+    "official_ref": "CPPS02",
+    "route": "hiking",
+    "source": "Shetland Islands Council",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -1.2390277,
+      59.9980502
+    ],
+    [
+      -1.2392292,
+      59.9981278
+    ],
+    [
+      -1.2396307,
+      59.9981538
+    ],
+    [
+      -1.2416436,
+      59.998335
+    ],
+    [
+      -1.2426225,
+      59.9983566
+    ],
+    [
+      -1.2427649,
+      59.9983423
+    ]
+  ]
+}

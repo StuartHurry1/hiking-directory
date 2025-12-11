@@ -1,0 +1,23 @@
+{
+  "id": "osm-19788683",
+  "slug": "fowey-hall-walk-lantic-bay-19788683",
+  "name": "Fowey Hall Walk, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3396906,
+    "lon": -4.6301683
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19788683
+  }
+}

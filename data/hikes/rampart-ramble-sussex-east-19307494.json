@@ -1,0 +1,21 @@
+{
+  "id": "osm-19307494",
+  "slug": "rampart-ramble-sussex-east-19307494",
+  "name": "Rampart Ramble, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.885482,
+    "lon": -0.2120193
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307494
+  }
+}

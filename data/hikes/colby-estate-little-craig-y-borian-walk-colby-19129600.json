@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129600",
+  "slug": "colby-estate-little-craig-y-borian-walk-colby-19129600",
+  "name": "Colby Estate Little Craig Y Borian Walk, Colby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7500472,
+    "lon": -4.6632106
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129600
+  }
+}

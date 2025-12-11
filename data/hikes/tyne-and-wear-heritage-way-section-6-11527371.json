@@ -1,0 +1,21 @@
+{
+  "id": "osm-11527371",
+  "slug": "tyne-and-wear-heritage-way-section-6-11527371",
+  "name": "Tyne and Wear Heritage Way Section 6",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9379952,
+    "lon": -1.7226107
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11527371
+  }
+}

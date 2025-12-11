@@ -1,0 +1,21 @@
+{
+  "id": "osm-19009376",
+  "slug": "walk-in-the-footsteps-of-tom-pearse-finch-foundary-19009376",
+  "name": "Walk in the footsteps of Tom Pearse, Finch Foundary",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7291382,
+    "lon": -3.9257427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009376
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13606833",
+  "slug": "coombes-circular-walk-13606833",
+  "name": "Coombes Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4044462,
+    "lon": -0.8923112
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13606833
+  }
+}

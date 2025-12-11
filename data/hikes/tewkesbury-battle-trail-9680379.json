@@ -1,0 +1,21 @@
+{
+  "id": "osm-9680379",
+  "slug": "tewkesbury-battle-trail-9680379",
+  "name": "Tewkesbury Battle Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9841444,
+    "lon": -2.1574154
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9680379
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-104743",
+  "slug": "torbay-totnes-trail-3t-104743",
+  "name": "Torbay Totnes Trail (3T)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 114.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4602932,
+    "lon": -3.6004884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 104743
+  }
+}

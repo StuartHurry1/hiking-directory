@@ -1,0 +1,21 @@
+{
+  "id": "osm-19683706",
+  "slug": "hardys-cottage-to-max-gate-19683706",
+  "name": "Hardy’s cottage to Max Gate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7295181,
+    "lon": -2.3915675
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19683706
+  }
+}

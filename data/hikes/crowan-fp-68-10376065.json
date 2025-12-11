@@ -1,0 +1,21 @@
+{
+  "id": "osm-10376065",
+  "slug": "crowan-fp-68-10376065",
+  "name": "Crowan FP 68",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.177751,
+    "lon": -5.3303151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10376065
+  }
+}

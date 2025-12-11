@@ -1,0 +1,21 @@
+{
+  "id": "osm-2245731",
+  "slug": "standen-trail-2245731",
+  "name": "Standen Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1075472,
+    "lon": -0.0192646
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2245731
+  }
+}

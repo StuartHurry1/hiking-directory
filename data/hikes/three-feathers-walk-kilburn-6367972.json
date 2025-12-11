@@ -1,0 +1,21 @@
+{
+  "id": "osm-6367972",
+  "slug": "three-feathers-walk-kilburn-6367972",
+  "name": "Three Feathers Walk (Kilburn)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 118.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2238953,
+    "lon": -1.2130378
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6367972
+  }
+}

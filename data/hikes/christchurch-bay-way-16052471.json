@@ -1,0 +1,23 @@
+{
+  "id": "osm-16052471",
+  "slug": "christchurch-bay-way-16052471",
+  "name": "Christchurch Bay Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.723606,
+    "lon": -1.7420899
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16052471
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16227042",
+  "slug": "pine-tree-trail-16227042",
+  "name": "Pine Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0700753,
+    "lon": -2.9854036
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16227042
+  }
+}

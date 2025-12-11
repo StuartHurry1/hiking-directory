@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507212",
+  "slug": "tingon-11507212",
+  "name": "Tingon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5076027,
+    "lon": -1.5593459
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507212
+  }
+}

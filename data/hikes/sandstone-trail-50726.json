@@ -1,0 +1,21 @@
+{
+  "id": "osm-50726",
+  "slug": "sandstone-trail-50726",
+  "name": "Sandstone Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 100.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2960009,
+    "lon": -2.7257755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 50726
+  }
+}

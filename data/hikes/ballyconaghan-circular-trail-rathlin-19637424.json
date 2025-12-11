@@ -1,0 +1,42 @@
+{
+  "id": "osm-19637424",
+  "slug": "ballyconaghan-circular-trail-rathlin-19637424",
+  "name": "Ballyconaghan Circular Trail, Rathlin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2974707,
+    "lon": -6.1954305
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19637424
+  },
+  "ai": {
+    "summary": "A gentle 5.6 km circular hike on Rathlin Island offering coastal views, grassy tracks and a mainly easy route suitable for most walkers.",
+    "terrain_summary": "Coastal loop with grassy paths, compacted earth and occasional uneven stones. Expect exposed sections near the coast, short ascents, and some narrow, rutted tracks; stay on marked paths and watch footing when wet.",
+    "safety_notes": "Weather on Rathlin can change quickly and sea spray or strong winds are common. Stay well back from cliff edges, especially in exposed sections. Wear sturdy footwear, bring extra layers, and carry water. Let someone know your plans and check local conditions before starting. Bring a map or offline navigation if you’re unfamiliar with the island; mobile service can be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or hiking boots",
+      "Weather-appropriate clothing (layers, waterproof/windproof jacket)",
+      "Water and snacks",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Map or offline GPS and a charged phone",
+      "Small first-aid kit",
+      "Head torch or flashlight (in case of late return)",
+      "Lightweight backpack for essentials"
+    ],
+    "best_seasons": "Spring to autumn (March–October) when daylight and weather are generally more favorable; May–September often offer the best conditions for this coastal route.",
+    "seo": {
+      "title": "Ballyconaghan Circular Trail, Rathlin – Easy 5.6 km Coastal Hike",
+      "meta_description": "Explore the Ballyconaghan Circular Trail on Rathlin Island. This easy 5.6 km coastal loop delivers ocean views, grassy footpaths and beginner-friendly terrain in the UK.",
+      "h1": "Ballyconaghan Circular Trail, Rathlin – Easy 5.6 km Coastal Walk"
+    }
+  }
+}

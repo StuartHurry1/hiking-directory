@@ -1,0 +1,21 @@
+{
+  "id": "osm-19904467",
+  "slug": "the-wray-castle-to-latterbarrow-walk-wray-castle-19904467",
+  "name": "The Wray Castle to Latterbarrow Walk, Wray Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4010262,
+    "lon": -2.9642937
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19904467
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1386973",
+  "slug": "nunwell-trail-1386973",
+  "name": "Nunwell Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6563666,
+    "lon": -1.1627616
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1386973
+  }
+}

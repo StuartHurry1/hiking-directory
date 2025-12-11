@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761653",
+  "slug": "sensory-trail-hindhead-19761653",
+  "name": "Sensory Trail, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1142776,
+    "lon": -0.7289203
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761653
+  }
+}

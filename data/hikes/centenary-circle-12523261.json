@@ -1,0 +1,21 @@
+{
+  "id": "osm-12523261",
+  "slug": "centenary-circle-12523261",
+  "name": "Centenary Circle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7597524,
+    "lon": 0.5048531
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12523261
+  }
+}

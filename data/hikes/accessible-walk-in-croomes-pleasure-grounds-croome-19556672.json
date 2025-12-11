@@ -1,0 +1,44 @@
+{
+  "id": "osm-19556672",
+  "slug": "accessible-walk-in-croomes-pleasure-grounds-croome-19556672",
+  "name": "Accessible Walk in Croome's Pleasure Grounds, Croome",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.104636,
+    "lon": -2.1665499
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19556672
+  },
+  "ai": {
+    "summary": "A 9.3 km accessible walk through Croome's Pleasure Grounds in the UK. The route features moderate elevation changes along ridge‑like sections and broad parkland paths, offering scenic views and a steady pace suitable for most walkers.",
+    "terrain_summary": "Mostly well‑maintained gravel and compacted paths through formal gardens and parkland. Expect gentle climbs on ridges and occasional uneven or grassy sections; some damp patches after rain. The route is designed to be accessible, but wheelchair and stroller suitability may vary with ground conditions.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear and bring water. Stay on marked paths, watch for slippery surfaces on ridges when wet, and be mindful of wildlife and other visitors. If you have mobility issues, consider a shorter option or assistance as needed. Carry a means of communication and a map of the area.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water (and snacks)",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Map or GPS device / mobile phone with offline map",
+      "Small first aid kit",
+      "Whistle",
+      "Comfortable layers"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offer the best conditions and scenery; the walk can be done year‑round with appropriate footwear and weather gear.",
+    "seo": {
+      "title": "Accessible Walk in Croome's Pleasure Grounds – 9.3 km, Croome, UK",
+      "meta_description": "Explore a 9.3 km accessible walk through Croome's Pleasure Grounds in the UK. Moderate terrain with ridge-like sections and scenic parkland, ideal for walkers seeking a steady, scenic outing.",
+      "h1": "Accessible Walk in Croome's Pleasure Grounds, Croome (9.3 km)"
+    }
+  }
+}

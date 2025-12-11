@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507378",
+  "slug": "strandbrough-11507378",
+  "name": "Strandbrough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5853485,
+    "lon": -0.7875698
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507378
+  }
+}

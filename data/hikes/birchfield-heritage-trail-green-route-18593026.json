@@ -1,0 +1,42 @@
+{
+  "id": "osm-18593026",
+  "slug": "birchfield-heritage-trail-green-route-18593026",
+  "name": "Birchfield Heritage Trail: Green Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5136937,
+    "lon": -1.9124192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18593026
+  },
+  "ai": {
+    "summary": "Birchfield Heritage Trail: Green Route is a short and easy 3.1 km heritage walk in the United Kingdom. The route is designed to be family-friendly, with gentle gradients and well-maintained surfaces, offering light historical context along the way.",
+    "terrain_summary": "Primarily flat with a mix of paved paths and gravel trails. Surfaces are generally smooth and suitable for most walkers, with some grassy edges and patches of shade from trees.",
+    "safety_notes": "Stay on official paths and observe any local signage. Check the weather forecast before you go and allow extra time for slower pacing. Wear sturdy footwear, bring water, and carry a map or smartphone with offline access. Be mindful of other path users and potential hazards such as uneven sections, low-hanging branches, or livestock in rural areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Light rain jacket",
+      "Small backpack",
+      "Map or smartphone with offline map",
+      "Sunscreen and hat (seasonal)",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring and early autumn. Summer can be warm and winter days may be damp and chilly.",
+    "seo": {
+      "title": "Birchfield Heritage Trail: Green Route – Easy 3.1 km Walk in the UK",
+      "meta_description": "Explore the Birchfield Heritage Trail: Green Route, a 3.1 km easy walk in the UK. Family-friendly path with gentle gradients, well-surfaced surfaces, and light historical features.",
+      "h1": "Birchfield Heritage Trail: Green Route – Easy 3.1 km Walk"
+    }
+  }
+}

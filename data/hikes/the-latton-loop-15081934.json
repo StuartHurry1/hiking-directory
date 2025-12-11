@@ -1,0 +1,21 @@
+{
+  "id": "osm-15081934",
+  "slug": "the-latton-loop-15081934",
+  "name": "The Latton Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6521505,
+    "lon": -1.8848583
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15081934
+  }
+}

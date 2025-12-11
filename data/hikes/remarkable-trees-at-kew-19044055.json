@@ -1,0 +1,21 @@
+{
+  "id": "osm-19044055",
+  "slug": "remarkable-trees-at-kew-19044055",
+  "name": "Remarkable Trees at Kew",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4808608,
+    "lon": -0.2898006
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19044055
+  }
+}

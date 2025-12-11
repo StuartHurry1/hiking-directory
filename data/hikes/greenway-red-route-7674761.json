@@ -1,0 +1,21 @@
+{
+  "id": "osm-7674761",
+  "slug": "greenway-red-route-7674761",
+  "name": "Greenway Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4311192,
+    "lon": -0.7514488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7674761
+  }
+}

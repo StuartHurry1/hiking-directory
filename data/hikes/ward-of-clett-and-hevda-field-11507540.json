@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507540",
+  "slug": "ward-of-clett-and-hevda-field-11507540",
+  "name": "Ward of Clett and Hevda Field",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3339283,
+    "lon": -1.003648
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507540
+  }
+}

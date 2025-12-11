@@ -1,0 +1,21 @@
+{
+  "id": "osm-1718871",
+  "slug": "newcastle-way-1718871",
+  "name": "Newcastle Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 171.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0443478,
+    "lon": -2.2713394
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1718871
+  }
+}

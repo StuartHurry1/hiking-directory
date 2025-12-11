@@ -1,0 +1,21 @@
+{
+  "id": "osm-7135233",
+  "slug": "monument-trail-ickworth-estate-7135233",
+  "name": "Monument Trail, Ickworth Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2225848,
+    "lon": 0.6544133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7135233
+  }
+}

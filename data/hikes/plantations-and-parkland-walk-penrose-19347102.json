@@ -1,0 +1,21 @@
+{
+  "id": "osm-19347102",
+  "slug": "plantations-and-parkland-walk-penrose-19347102",
+  "name": "Plantations and parkland walk, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0860488,
+    "lon": -5.3020212
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347102
+  }
+}

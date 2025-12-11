@@ -1,0 +1,21 @@
+{
+  "id": "osm-1996027",
+  "slug": "deddington-circular-walk-east-1996027",
+  "name": "Deddington Circular Walk - East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9698151,
+    "lon": -1.3015734
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1996027
+  }
+}

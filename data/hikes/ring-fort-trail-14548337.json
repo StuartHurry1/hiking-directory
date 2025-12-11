@@ -1,0 +1,21 @@
+{
+  "id": "osm-14548337",
+  "slug": "ring-fort-trail-14548337",
+  "name": "Ring Fort Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7175645,
+    "lon": -3.8673563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14548337
+  }
+}

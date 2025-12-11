@@ -1,0 +1,21 @@
+{
+  "id": "osm-18558650",
+  "slug": "moorcroft-wood-walsall-canal-health-walk-18558650",
+  "name": "Moorcroft Wood/ Walsall Canal Health Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5559769,
+    "lon": -2.0575316
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18558650
+  }
+}

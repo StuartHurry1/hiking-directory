@@ -1,0 +1,21 @@
+{
+  "id": "osm-11134561",
+  "slug": "loop-link-to-cockfosters-underground-11134561",
+  "name": "LOOP link to Cockfosters Underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6517608,
+    "lon": -0.1503207
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11134561
+  }
+}

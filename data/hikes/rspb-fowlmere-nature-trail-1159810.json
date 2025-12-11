@@ -1,0 +1,23 @@
+{
+  "id": "osm-1159810",
+  "slug": "rspb-fowlmere-nature-trail-1159810",
+  "name": "RSPB Fowlmere Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0931023,
+    "lon": 0.0530079
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1159810
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-19611747",
+  "slug": "accessible-route-to-the-royal-burial-ground-yellow-route-sutton-hoo-19611747",
+  "name": "Accessible Route to the Royal Burial Ground (Yellow Route), Sutton Hoo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0943656,
+    "lon": 1.3409393
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19611747
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km hike on the Yellow Route to Sutton Hoo's Royal Burial Ground. The route offers easy, well-maintained paths with gentle gradients, suitable for beginners and families, and provides views of the historic burial ground and surrounding landscape.",
+    "terrain_summary": "Predominantly flat to gently rolling terrain with well-maintained gravel and grassy paths. Occasional uneven patches and wet conditions can occur after rain; expect short inclines and a mix of open ground and shaded sections.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing; stay on marked paths at all times; be cautious of uneven ground and slippery sections after rain; check site access and opening hours before you go; keep a safe distance from restricted areas and wildlife; carry a charged mobile phone and essentials for sun or rain protection; dispose of waste responsibly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Light rain jacket",
+      "Map or offline navigation (or fully charged phone)",
+      "Snacks",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for the most comfortable conditions; be prepared for wind or rain year-round.",
+    "seo": {
+      "title": "Accessible Route to the Royal Burial Ground (Yellow Route) – Sutton Hoo",
+      "meta_description": "Explore an easy 3.7 km hike on the Yellow Route to Sutton Hoo's Royal Burial Ground. This accessible route is suitable for most walkers and families, with gentle terrain and key heritage views.",
+      "h1": "Accessible Route to the Royal Burial Ground (Yellow Route) – Sutton Hoo"
+    }
+  }
+}

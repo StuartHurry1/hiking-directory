@@ -1,0 +1,21 @@
+{
+  "id": "osm-2186279",
+  "slug": "daffodil-way-2186279",
+  "name": "Daffodil Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9551506,
+    "lon": -2.4636011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2186279
+  }
+}

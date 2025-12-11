@@ -1,0 +1,21 @@
+{
+  "id": "osm-16128213",
+  "slug": "singing-sands-trail-16128213",
+  "name": "Singing Sands Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8770865,
+    "lon": -6.1290602
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16128213
+  }
+}

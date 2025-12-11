@@ -1,0 +1,21 @@
+{
+  "id": "osm-18643457",
+  "slug": "havant-footpath-506-18643457",
+  "name": "Havant Footpath 506",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.865149,
+    "lon": -0.989858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18643457
+  }
+}

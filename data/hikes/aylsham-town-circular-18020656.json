@@ -1,0 +1,44 @@
+{
+  "id": "osm-18020656",
+  "slug": "aylsham-town-circular-18020656",
+  "name": "Aylsham Town Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7918994,
+    "lon": 1.2442721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18020656
+  },
+  "ai": {
+    "summary": "A challenging 24.6 km circular hike that starts and ends in Aylsham. The route combines rural lanes, farmland paths and occasional woodland, delivering a strenuous workout for experienced hikers. Weather and ground conditions can greatly affect difficulty, so good navigation and preparation are essential.",
+    "terrain_summary": "Mostly rural with a mix of tarmac roads, compacted earth, grassy field paths and occasional woodland. Expect uneven surfaces, muddy sections after rain, gates and stiles, and some short inclines. Some sections run along quiet country lanes with light traffic; be mindful of livestock and farm boundaries.",
+    "safety_notes": "Plan for daylight hours and check the forecast before setting out. Wear sturdy boots and weather-appropriate clothing. Carry a map, compass or GPS and a fully charged phone. Let someone know your route and expected return time. Stay hydrated with water and bring snacks. Be prepared for muddy conditions, gates and livestock, and potential traffic on rural sections. Follow Leave No Trace and respect private property and farm access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Hat and sunscreen",
+      "Trekking poles (optional)",
+      "Headtorch (for early morning or late finishes)",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn, with the best conditions typically from March to October due to milder weather, longer daylight and firmer ground; winter hikes can be slippery and shorter daylight hours.",
+    "seo": {
+      "title": "Aylsham Town Circular – 24.6 km Hard Hike in the UK",
+      "meta_description": "Take on the Aylsham Town Circular: a 24.6 km hard hike in the UK featuring rural lanes, farmland and mixed terrain. Gear tips, safety notes and best seasons.",
+      "h1": "Aylsham Town Circular — 24.6 km Hard Hike in the UK"
+    }
+  }
+}

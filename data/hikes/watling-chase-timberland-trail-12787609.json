@@ -1,0 +1,21 @@
+{
+  "id": "osm-12787609",
+  "slug": "watling-chase-timberland-trail-12787609",
+  "name": "Watling Chase Timberland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6533611,
+    "lon": -0.2797651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12787609
+  }
+}

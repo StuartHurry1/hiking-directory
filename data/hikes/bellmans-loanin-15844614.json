@@ -1,0 +1,42 @@
+{
+  "id": "osm-15844614",
+  "slug": "bellmans-loanin-15844614",
+  "name": "Bellman's Loanin",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1839908,
+    "lon": -6.328872
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15844614
+  },
+  "ai": {
+    "summary": "Bellman's Loanin is a short and easy hike in the UK, covering about 0.7 km. It’s ideal for beginners and casual walkers seeking a quick, low-effort outdoor stroll with minimal elevation.",
+    "terrain_summary": "The route runs along a well-maintained trail that is mostly flat with gentle undulations. Surfaces are a mix of compact earth, grass, and occasional gravel. After rain, expect damp or muddy patches; edges may have roots or small stones. Overall, a comfortable short hike with straightforward terrain.",
+    "safety_notes": "Wear sturdy shoes and stay on marked paths. Check the weather before starting, as UK conditions can change quickly. Keep children and pets in sight, and bring a lightweight rain jacket. If sections are muddy, slow down to avoid slipping. Share your plan with someone and carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Light rain jacket or shell",
+      "Compact map or GPS device",
+      "Snack or energy bar",
+      "Phone with offline map and emergency contacts",
+      "Hat and sunscreen for sunny days"
+    ],
+    "best_seasons": "Spring to autumn generally offer the nicest conditions for this short hike in the UK, though the route remains feasible year-round with appropriate weather gear.",
+    "seo": {
+      "title": "Bellman's Loanin – 0.7 km Easy UK Hike",
+      "meta_description": "Discover Bellman's Loanin, a 0.7 km easy hike in the UK. Perfect for beginners and families seeking a quick, low-effort outdoor stroll with light terrain.",
+      "h1": "Bellman's Loanin: Easy 0.7 km Hike in the UK"
+    }
+  }
+}

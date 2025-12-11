@@ -1,0 +1,21 @@
+{
+  "id": "osm-16703778",
+  "slug": "harringay-passage-16703778",
+  "name": "Harringay Passage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.587047,
+    "lon": -0.1050349
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16703778
+  }
+}

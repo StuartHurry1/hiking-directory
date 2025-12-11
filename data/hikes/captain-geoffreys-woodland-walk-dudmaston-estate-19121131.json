@@ -1,0 +1,21 @@
+{
+  "id": "osm-19121131",
+  "slug": "captain-geoffreys-woodland-walk-dudmaston-estate-19121131",
+  "name": "Captain Geoffrey's Woodland Walk, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4763277,
+    "lon": -2.373033
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19121131
+  }
+}

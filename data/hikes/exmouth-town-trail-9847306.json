@@ -1,0 +1,21 @@
+{
+  "id": "osm-9847306",
+  "slug": "exmouth-town-trail-9847306",
+  "name": "Exmouth Town Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6196449,
+    "lon": -3.4143554
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9847306
+  }
+}

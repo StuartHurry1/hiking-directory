@@ -1,0 +1,23 @@
+{
+  "id": "osm-19690917",
+  "slug": "henrhyd-falls-and-nant-llech-walk-19690917",
+  "name": "Henrhyd Falls and Nant Llech walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7954943,
+    "lon": -3.6644851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19690917
+  }
+}

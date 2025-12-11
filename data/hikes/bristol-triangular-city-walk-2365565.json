@@ -1,0 +1,46 @@
+{
+  "id": "osm-2365565",
+  "slug": "bristol-triangular-city-walk-2365565",
+  "name": "Bristol Triangular City Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5064118,
+    "lon": -2.6333105
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2365565
+  },
+  "ai": {
+    "summary": "A challenging 61.7 km city-loop walk in the United Kingdom, weaving through urban cores, riverside paths, and green corridors. Designed for experienced walkers seeking a demanding day or multi-day challenge.",
+    "terrain_summary": "Predominantly urban surfaces—pavement, sidewalks, and roads—with segments along riverbanks and park trails. Expect gentle inclines and occasional stairs in historic areas; footing can be uneven on some paths.",
+    "safety_notes": "Plan for long mileage; consider splitting the route into 2–3 days if needed. Check weather in the UK, carry a waterproof layer and warm layers. Be mindful of traffic at busy crossings, and use pedestrian crossings. Carry a map or GPS, a phone with offline maps, and a power bank. Stay hydrated with water and snacks. Keep valuables secure and wear reflective gear or lights in low light. Share your plan with someone and avoid isolated sections after dark.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layering)",
+      "Water and high-energy snacks",
+      "Waterproof jacket and extra layers",
+      "Map, compass, or GPS device (offline map recommended)",
+      "Phone with offline maps and power bank",
+      "Small first aid kit and blister care",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Headlamp or small flashlight for early/late sections",
+      "Reflective vest or lights for low visibility",
+      "Lightweight bag or daypack",
+      "Cash and ID"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight hours are longer and weather is milder; winter hikes are possible but expect short days and more rain.",
+    "seo": {
+      "title": "Bristol Triangular City Walk – 61.7 km Hard Urban Hike in the UK",
+      "meta_description": "Discover the Bristol Triangular City Walk, a 61.7 km hard-distance urban hike in the United Kingdom. Gear lists, terrain notes, safety tips, and best season guidance.",
+      "h1": "Bristol Triangular City Walk"
+    }
+  }
+}

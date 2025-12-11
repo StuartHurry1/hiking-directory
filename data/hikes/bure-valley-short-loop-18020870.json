@@ -1,0 +1,43 @@
+{
+  "id": "osm-18020870",
+  "slug": "bure-valley-short-loop-18020870",
+  "name": "Bure Valley Short Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7905411,
+    "lon": 1.2599453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18020870
+  },
+  "ai": {
+    "summary": "An easy 3.7 km circular hike in the UK, suitable for families and casual walkers. The route follows gentle countryside paths around hedgerows and fields, with minimal elevation and frequent opportunities for relaxed scenery.",
+    "terrain_summary": "Mostly flat with gentle elevation changes. Surfaces include compacted dirt and gravel, with short sections of tarmac and grassy paths. Expect occasional mud after rain and some uneven ground near field boundaries.",
+    "safety_notes": "Carry a map or GPS as the route is on well-marked paths but mobile signal can be unreliable in rural areas. Wear sturdy footwear and weather-appropriate clothing. Stay on official paths and respect private property. Be cautious around road crossings and potential cyclists on shared paths. If near any railway attractions, obey warning signs and keep well clear of tracks. Keep dogs under control, and bring water and a small first-aid kit.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light snack",
+      "Map or offline GPS",
+      "Small first-aid kit",
+      "Rain jacket or poncho",
+      "Sunscreen and hat",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the best weather and daylight. Winter visits can be muddy with shorter daylight hours.",
+    "seo": {
+      "title": "Bure Valley Short Loop Walk — 3.7 km Easy Hike in the UK",
+      "meta_description": "Explore the Bure Valley Short Loop, a gentle 3.7 km circular hike in the UK. Learn about terrain, safety tips, best seasons, and gear for an easy day out.",
+      "h1": "Bure Valley Short Loop Walk"
+    }
+  }
+}

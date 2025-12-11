@@ -1,0 +1,21 @@
+{
+  "id": "osm-16129850",
+  "slug": "wymondhams-abbey-trail-16129850",
+  "name": "Wymondham’s Abbey Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5700277,
+    "lon": 1.105086
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16129850
+  }
+}

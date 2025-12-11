@@ -1,0 +1,21 @@
+{
+  "id": "osm-3086692",
+  "slug": "mull-of-galloway-trail-3086692",
+  "name": "Mull of Galloway Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 58.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6354184,
+    "lon": -4.8599604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3086692
+  }
+}

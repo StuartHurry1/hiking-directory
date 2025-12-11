@@ -1,0 +1,21 @@
+{
+  "id": "osm-19395366",
+  "slug": "stafford-62-19395366",
+  "name": "Stafford 62",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8074309,
+    "lon": -2.1396801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19395366
+  }
+}

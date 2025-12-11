@@ -1,0 +1,21 @@
+{
+  "id": "osm-19568045",
+  "slug": "high-close-tree-trail-19568045",
+  "name": "High Close Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4383947,
+    "lon": -3.0210856
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19568045
+  }
+}

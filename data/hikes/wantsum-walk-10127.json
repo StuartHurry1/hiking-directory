@@ -1,0 +1,21 @@
+{
+  "id": "osm-10127",
+  "slug": "wantsum-walk-10127",
+  "name": "Wantsum Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 87.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3776585,
+    "lon": 1.3017062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10127
+  }
+}

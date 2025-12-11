@@ -1,0 +1,41 @@
+{
+  "id": "osm-1477814",
+  "slug": "ballypatrick-forest-trails-0-corratavey-glen-trail-1477814",
+  "name": "Ballypatrick Forest Trails - 0 Corratavey Glen Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1648416,
+    "lon": -6.1243334
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1477814
+  },
+  "ai": {
+    "summary": "A short, easy forest hike on Ballypatrick Forest Trails featuring the Corratavey Glen Trail. At 2.7 km, this loop is suitable for families and casual walkers seeking a quick woodland stroll in the UK.",
+    "terrain_summary": "Flat to gently rolling forest path with shaded sections. Well-maintained in most areas, but expect occasional roots, damp patches, and uneven sections near the glen; appropriate footwear recommended.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths. Check daylight hours and weather before setting out. Bring water and a small first-aid kit. Inform someone of your route, and be cautious of wet leaves and uneven ground; watch for wildlife and other hikers.",
+    "recommended_gear": [
+      "Trail shoes with good grip",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or offline map",
+      "Fully charged phone with emergency contacts",
+      "Sunscreen and hat",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round in the UK, with spring to autumn offering the most comfortable conditions; be mindful of winter mud or ice.",
+    "seo": {
+      "title": "Ballypatrick Forest Trails – Corratavey Glen Trail (2.7 km, Easy)",
+      "meta_description": "Discover the 2.7 km Corratavey Glen Trail in Ballypatrick Forest. An easy, family-friendly hike in the UK—perfect for beginners and quick woodland strolls.",
+      "h1": "Corratavey Glen Trail, Ballypatrick Forest Trails (2.7 km, Easy)"
+    }
+  }
+}

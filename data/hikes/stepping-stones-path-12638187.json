@@ -1,0 +1,21 @@
+{
+  "id": "osm-12638187",
+  "slug": "stepping-stones-path-12638187",
+  "name": "Stepping Stones Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2536285,
+    "lon": -0.3228243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12638187
+  }
+}

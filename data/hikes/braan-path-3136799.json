@@ -1,0 +1,47 @@
+{
+  "id": "osm-3136799",
+  "slug": "braan-path-3136799",
+  "name": "Braan Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.560524,
+    "lon": -3.6079405
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3136799
+  },
+  "ai": {
+    "summary": "Braan Path is a 14.3 km moderate hike in the UK, weaving along forest trails and ridges to showcase cascading waterfalls and scenic viewpoints along the Braan River.",
+    "terrain_summary": "The route combines forest paths, rocky ridges, and occasional boardwalk sections. Expect uneven ground with roots and minor elevation gain; trails near waterfalls can be damp and slippery.",
+    "safety_notes": "Wear sturdy boots and weather-appropriate clothing. Stay on marked paths, especially near waterfalls where rocks can be slick. Check local conditions for closures or muddy stretches. Carry a map or GPS, sufficient water, and inform someone of your plans; keep dogs on a leash if required.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Layered clothing",
+      "Water and snacks",
+      "Map or GPS device",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Insect repellent",
+      "Sunscreen",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn offer comfortable weather and vivid scenery; summer provides longer daylight, while winter requires extra preparation and can bring closures.",
+    "seo": {
+      "title": "Braan Path Hike – 14.3 km Moderate Trail in the UK",
+      "meta_description": "Discover the Braan Path, a 14.3 km moderate hike in the UK featuring waterfalls, ridges, and forest scenery. Practical tips, gear recommendations, and safety notes for your adventure.",
+      "h1": "Braan Path: 14.3 km Moderate Hike through Waterfalls and Ridges (UK)"
+    }
+  }
+}

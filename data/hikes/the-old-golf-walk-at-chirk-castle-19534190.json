@@ -1,0 +1,21 @@
+{
+  "id": "osm-19534190",
+  "slug": "the-old-golf-walk-at-chirk-castle-19534190",
+  "name": "The Old Golf walk at Chirk Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9373029,
+    "lon": -3.0916851
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19534190
+  }
+}

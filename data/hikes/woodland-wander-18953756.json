@@ -1,0 +1,21 @@
+{
+  "id": "osm-18953756",
+  "slug": "woodland-wander-18953756",
+  "name": "Woodland Wander",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5349364,
+    "lon": -3.0348301
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18953756
+  }
+}

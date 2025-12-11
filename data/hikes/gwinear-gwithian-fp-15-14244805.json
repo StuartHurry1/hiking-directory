@@ -1,0 +1,21 @@
+{
+  "id": "osm-14244805",
+  "slug": "gwinear-gwithian-fp-15-14244805",
+  "name": "Gwinear-Gwithian FP 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1877388,
+    "lon": -5.3543207
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14244805
+  }
+}

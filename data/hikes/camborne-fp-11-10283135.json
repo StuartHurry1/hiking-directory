@@ -1,0 +1,41 @@
+{
+  "id": "osm-10283135",
+  "slug": "camborne-fp-11-10283135",
+  "name": "Camborne FP 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2211962,
+    "lon": -5.319427
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10283135
+  },
+  "ai": {
+    "summary": "Camborne FP 11 is a short, easy 0.4 km hike in the UK. Designed for casual walkers, it offers a quick outdoor experience with minimal elevation and well-maintained paths. The route is suitable for beginners and families seeking a brief outdoor stroll.",
+    "terrain_summary": "The hike follows a short footpath (FP) of about 0.4 km. Expect flat to gentle terrain, well-trodden surfaces, and potential grass or compacted earth. Footing is generally easy, but conditions can be slippery when wet.",
+    "safety_notes": "Even on short walks, wear sturdy shoes and watch for uneven ground. Check the weather and daylight hours before setting out; UK weather can change rapidly. Stay on the designated path, be mindful of cyclists or other walkers on footpaths, and bring water. For children or pets, supervise closely and keep them within sight. Let someone know your plans if hiking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or shell",
+      "Sunscreen / hat for sun",
+      "Mobile phone with emergency contacts",
+      "Small backpack",
+      "Map or offline navigation app"
+    ],
+    "best_seasons": "All year, with spring to autumn typically offering the most comfortable conditions. In winter, be prepared for mud and wet weather; daylight is shorter.",
+    "seo": {
+      "title": "Camborne FP 11 - Easy 0.4 km Hike in the UK",
+      "meta_description": "Discover Camborne FP 11, an easy 0.4 km hike in the UK. A family-friendly, short footpath with gentle terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Camborne FP 11: Easy 0.4 km Hike in the UK"
+    }
+  }
+}

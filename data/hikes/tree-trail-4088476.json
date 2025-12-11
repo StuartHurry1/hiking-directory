@@ -1,0 +1,21 @@
+{
+  "id": "osm-4088476",
+  "slug": "tree-trail-4088476",
+  "name": "Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.64785,
+    "lon": -3.5928902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4088476
+  }
+}

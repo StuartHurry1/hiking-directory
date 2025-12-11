@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004228",
+  "slug": "carn-mor-dearg-arete-4004228",
+  "name": "Carn Mor Dearg arete",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8075773,
+    "lon": -4.9890572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004228
+  }
+}

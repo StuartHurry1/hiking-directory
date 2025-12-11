@@ -1,0 +1,47 @@
+{
+  "id": "osm-19153772",
+  "slug": "birmingham-platinum-jubilee-walkway-19153772",
+  "name": "Birmingham Platinum Jubilee Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4829209,
+    "lon": -1.9046048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19153772
+  },
+  "ai": {
+    "summary": "A challenging 19.6 km hike along the Birmingham Platinum Jubilee Walkway in the UK. The route blends urban streets, parks, and riverside paths, with long stretches that demand endurance. Best suited for experienced hikers comfortable with distance and urban navigation.",
+    "terrain_summary": "Primarily urban pavements and tarmac, with brief sections on riverside paths and park trails. Overall flat to moderate elevation changes, but the long distance makes it a hard outing. Surfaces can be uneven in older sections and may be crowded on busy days.",
+    "safety_notes": "Plan for a long day and daylight hours. Check for route closures or events before you go. Stay on marked paths and obey traffic signals in urban sections. Be mindful of pedestrians and cyclists. Carry ample water and snacks, wear weather-appropriate clothing, and be prepared for rain or wind. Bring a map or offline navigation, a charged phone, and inform someone of your start and end times. In quieter sections, have a backup plan if public transport options are limited.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle (2+ L) or hydration system",
+      "Snacks and/or energy bars",
+      "Lightweight rain shell and/or windbreaker",
+      "Hat and sunscreen",
+      "Map and compass or offline navigation app",
+      "Phone with charged battery and GPS",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle",
+      "Backpack to carry gear",
+      "Power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best hiking conditions with longer daylight and milder weather. Summer can be warm and busier; winter conditions may include rain, wind, and reduced daylight, making the distance more demanding.",
+    "seo": {
+      "title": "Birmingham Platinum Jubilee Walkway – 19.6 km Hard Hike in the UK",
+      "meta_description": "Discover the 19.6 km Birmingham Platinum Jubilee Walkway, a hard urban and riverside hike in the UK. Get route overview, terrain tips, safety notes, and gear recommendations.",
+      "h1": "Birmingham Platinum Jubilee Walkway – 19.6 km Hard Hike"
+    }
+  }
+}

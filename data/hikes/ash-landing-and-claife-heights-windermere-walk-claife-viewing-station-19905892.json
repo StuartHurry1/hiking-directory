@@ -1,0 +1,47 @@
+{
+  "id": "osm-19905892",
+  "slug": "ash-landing-and-claife-heights-windermere-walk-claife-viewing-station-19905892",
+  "name": "Ash Landing and Claife Heights Windermere Walk, Claife Viewing Station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.5,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3502381,
+    "lon": -2.9434651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19905892
+  },
+  "ai": {
+    "summary": "A strenuous 46.5 km circuit centered on Windermere, combining lakeside paths, Claife Heights viewpoints, and woodland trails to the Claife Viewing Station. Expect long hours on the trail, mixed terrain, and rewarding vistas of the Lake District's iconic lake and hills. Best tackled as a multi-day hike for most walkers or a challenging long day for experienced hikers.",
+    "terrain_summary": "Mostly well-marked trails and quiet lanes: lakefront gravel paths, forest tracks, stone steps on steeper sections, and some exposed ridgeline segments on Claife Heights. The surface ranges from smooth tarmac to muddy single-track, with occasional stairs and rocky patches; weather can make sections slippery, so adjust pace and footwear accordingly.",
+    "safety_notes": "Plan in advance: carry a detailed map and a charged phone with offline navigation; check weather forecasts for the Lake District and be prepared for sudden changes. This is a long, strenuous route with limited access to services; carry enough water and high-energy food, and take breaks. Wear sturdy waterproof boots, dress in layers, and bring a waterproof all-weather jacket. Start early in summer daylight; inform someone of your itinerary; be cautious on exposed ridges in windy conditions; note that some segments cross roads and remote moorland where navigation can be challenging at dusk. In case of emergency, dial 999 or 112 and use local landmarks to describe your position.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing plus a waterproof jacket and hat",
+      "Backpack with rain cover",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a light meal",
+      "Map and compass or GPS device, plus offline backup",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Sun protection (sunglasses, sunscreen, lip balm)",
+      "Optional trekking poles and gaiters",
+      "Emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) are best for milder weather and longer daylight; summer offers the most daylight but can be busy, while autumn provides stunning color but weather can be variable. Winter hikes are possible for experienced hikers with proper gear but carry extra caution.",
+    "seo": {
+      "title": "Ash Landing and Claife Heights Windermere Walk – 46.5 km Lake District Hike",
+      "meta_description": "Discover a challenging 46.5 km Windermere circuit featuring Claife Viewing Station and Claife Heights. A hard, lakeside trek through the Lake District with varied terrain.",
+      "h1": "Ash Landing and Claife Heights Windermere Walk, Claife Viewing Station"
+    }
+  }
+}

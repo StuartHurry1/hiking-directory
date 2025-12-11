@@ -1,0 +1,21 @@
+{
+  "id": "osm-13217274",
+  "slug": "rousky-walk-13217274",
+  "name": "Rousky Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7086974,
+    "lon": -7.1547035
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13217274
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14080918",
+  "slug": "selby-horseshoe-14080918",
+  "name": "Selby Horseshoe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7541329,
+    "lon": -1.1141489
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14080918
+  }
+}

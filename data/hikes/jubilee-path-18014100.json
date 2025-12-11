@@ -1,0 +1,21 @@
+{
+  "id": "osm-18014100",
+  "slug": "jubilee-path-18014100",
+  "name": "Jubilee Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6378611,
+    "lon": -2.6769679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18014100
+  }
+}

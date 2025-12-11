@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168636",
+  "slug": "three-choirs-way-gloucester-to-kilcot-6168636",
+  "name": "Three Choirs Way (Gloucester to Kilcot)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 243.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.874425,
+    "lon": -2.2668416
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168636
+  }
+}

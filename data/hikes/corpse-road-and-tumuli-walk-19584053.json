@@ -1,0 +1,21 @@
+{
+  "id": "osm-19584053",
+  "slug": "corpse-road-and-tumuli-walk-19584053",
+  "name": "Corpse Road and Tumuli Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5770429,
+    "lon": -3.3404747
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19584053
+  }
+}

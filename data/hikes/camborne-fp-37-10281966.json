@@ -1,0 +1,42 @@
+{
+  "id": "osm-10281966",
+  "slug": "camborne-fp-37-10281966",
+  "name": "Camborne FP 37",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2066869,
+    "lon": -5.2855259
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10281966
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km hike along a public footpath in the UK, suitable for beginners and families. The route offers a gentle pace with light scenery and minimal elevation.",
+    "terrain_summary": "Gravel or compacted dirt trail with occasional grassy edges. Generally flat with a gentle incline. Path is typically well-maintained, but may be muddy after rain or in wet conditions.",
+    "safety_notes": "- Easy terrain, but check weather and be prepared for changes. - Wear sturdy footwear and bring a light layer. - Stay on the public footpath and watch for other walkers or cyclists. - Keep pets under control and close gates behind you when present. - Carry a map or phone with emergency contacts; know your route.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light snack",
+      "Map or offline GPS",
+      "Phone with emergency contacts",
+      "Light rain jacket or windbreaker",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "All-year round, with the best conditions typically in late spring to early autumn.",
+    "seo": {
+      "title": "Camborne FP 37 – Easy 1.2 km Hike in the UK",
+      "meta_description": "Discover Camborne FP 37, a short and easy 1.2 km hike along a UK public footpath. Family-friendly route with practical safety tips and gear suggestions.",
+      "h1": "Camborne FP 37 — Easy 1.2 km Public Footpath Hike"
+    }
+  }
+}

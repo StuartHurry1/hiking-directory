@@ -1,0 +1,21 @@
+{
+  "id": "osm-16256792",
+  "slug": "penrhys-pilgrimage-16256792",
+  "name": "Penrhys Pilgrimage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 79.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4976399,
+    "lon": -3.2214862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16256792
+  }
+}

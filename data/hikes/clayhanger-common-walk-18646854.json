@@ -1,0 +1,21 @@
+{
+  "id": "osm-18646854",
+  "slug": "clayhanger-common-walk-18646854",
+  "name": "Clayhanger Common Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6364987,
+    "lon": -1.9797542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18646854
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3175634",
+  "slug": "ox-drove-way-3175634",
+  "name": "Ox Drove Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 123.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1023968,
+    "lon": -1.2251815
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3175634
+  }
+}

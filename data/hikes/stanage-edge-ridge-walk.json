@@ -1,18 +1,55 @@
 {
   "id": "stanage-edge-ridge-walk",
   "slug": "stanage-edge-ridge-walk",
-  "name": "Stanage Edge Ridge Walk",
-  "region": "Peak District, Derbyshire",
-  "distance_km": 9.8,
-  "difficulty": "moderate",
-  "summary": "Classic Peak District ridge walk along the gritstone edge of Stanage with huge views and dramatic rock formations.",
-  "terrain": "Gritstone edges, rocky paths, moorland tracks, occasional boggy patches.",
-  "estimated_time_hours": 3.5,
-  "ascent_meters": 420,
-  "gpx_path": "gpx/stanage-edge-ridge-walk.gpx",
+  "name": "Stanage Edge Ridge Walk from Hathersage",
+  "region": "Peak District",
+  "country": "England",
+  "county": "Derbyshire",
+
   "start": {
-    "lat": 53.347,
-    "lon": -1.621,
-    "nearest_postcode": "S66 7RR"
+    "lat": 53.3405,
+    "lon": -1.6312,
+    "nearest_postcode": "S32 1BA"
+  },
+  "end": {
+    "lat": 53.3405,
+    "lon": -1.6312,
+    "nearest_postcode": "S32 1BA"
+  },
+
+  "distance_km": 10.5,
+  "ascent_m": 380,
+  "descent_m": 380,
+  "difficulty": "moderate",
+  "terrain": ["moorland", "ridge"],
+  "features": ["ridge", "rocky_edges", "views"],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [
+      {
+        "name": "Hathersage",
+        "distance_km": 1.2,
+        "station_code": "HSG"
+      }
+    ],
+    "nearest_bus_stops": [],
+    "access_summary": "Train to Hathersage, short walk from village centre towards Stanage Edge.",
+    "access_tags": ["train-accessible", "car-free-possible"]
+  },
+
+  "ai": {
+    "summary": "A classic Peak District ridge walk along Stanage Edge with wide-open views, gritstone edges and moorland paths.",
+    "terrain_summary": "Generally good paths with some rocky sections along the edge and occasional muddy stretches after rain.",
+    "safety_notes": "Take care near the edge in high winds or poor visibility. Some sections can be slippery when wet.",
+    "recommended_gear": ["sturdy walking boots", "waterproof jacket", "map or GPS"],
+    "best_seasons": "Spring to autumn; on clear winter days the views are excellent but conditions can be harsher."
+  },
+
+  "seo": {
+    "title": "Stanage Edge Ridge Walk from Hathersage – Peak District Hiking Route",
+    "meta_description": "Plan a classic ridge walk along Stanage Edge from Hathersage. Distance ~10.5 km, moderate difficulty, with superb Peak District views.",
+    "h1": "Stanage Edge Ridge Walk from Hathersage"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "osm-13196939",
+  "slug": "lough-navar-lakes-walk-13196939",
+  "name": "Lough Navar Lakes Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.3,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4592278,
+    "lon": -7.9092171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13196939
+  }
+}

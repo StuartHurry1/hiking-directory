@@ -1,0 +1,23 @@
+{
+  "id": "osm-17248489",
+  "slug": "king-charles-iii-england-coast-path-calshot-to-gosport-17248489",
+  "name": "King Charles III England Coast Path: Calshot to Gosport",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8143113,
+    "lon": -1.3134572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17248489
+  }
+}

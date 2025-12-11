@@ -1,0 +1,21 @@
+{
+  "id": "osm-15480618",
+  "slug": "reservoir-trail-15480618",
+  "name": "Reservoir Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1395938,
+    "lon": -2.0058822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15480618
+  }
+}

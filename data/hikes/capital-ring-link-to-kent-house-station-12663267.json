@@ -1,0 +1,21 @@
+{
+  "id": "osm-12663267",
+  "slug": "capital-ring-link-to-kent-house-station-12663267",
+  "name": "Capital Ring link to Kent House station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4137804,
+    "lon": -0.0411093
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12663267
+  }
+}

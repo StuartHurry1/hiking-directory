@@ -1,0 +1,21 @@
+{
+  "id": "osm-3179175",
+  "slug": "tees-link-3179175",
+  "name": "Tees Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.578653,
+    "lon": -1.2198857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3179175
+  }
+}

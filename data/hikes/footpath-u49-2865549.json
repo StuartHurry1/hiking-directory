@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865549",
+  "slug": "footpath-u49-2865549",
+  "name": "Footpath U49",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5485359,
+    "lon": -1.337049
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865549
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-1745534",
+  "slug": "tunbridge-wells-circular-walk-1745534",
+  "name": "Tunbridge Wells Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 107.6,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.118215,
+    "lon": 0.1854502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1745534
+  }
+}

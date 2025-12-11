@@ -1,0 +1,50 @@
+{
+  "id": "osm-1120847",
+  "slug": "antrim-hills-way-1120847",
+  "name": "Antrim Hills Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8802597,
+    "lon": -6.1005474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1120847
+  },
+  "ai": {
+    "summary": "The Antrim Hills Way is a demanding long-distance hike in the UK, totaling about 34.1 km. The route traverses exposed uplands and rugged trails, requiring solid fitness, navigation, and suitable gear. Expect variable weather, boggy sections, and potentially steep climbs.",
+    "terrain_summary": "Rugged upland moorland with grassy ridges, peat bogs, rocky outcrops, and muddy tracks. Open exposure means wind and sudden weather changes can affect visibility and comfort; navigation can be challenging in low visibility sections.",
+    "safety_notes": "This is a hard, long hike. Plan for a full day or split the route into stages. Check weather forecasts and be prepared for rapid changes. Carry a detailed map and compass (or a reliable GPS) and know how to use them. Do not rely solely on mobile phones. Tell someone your plan and expected return. Bring sufficient clothing, extra layers, waterproofs, and head protection. Stay on marked paths where possible, monitor footing on boggy sections, and turn back if signs of severe weather or exhaustion appear. Consider an exit point or shorter alternative if you are unsure of conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing",
+      "Waterproof jacket and pants",
+      "Backpack with 20-30 L capacity",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Sunscreen, sunglasses, and a hat",
+      "Gloves and a warm layer",
+      "Emergency whistle",
+      "Personal locator beacon or phone with offline maps (if available)",
+      "Trekking poles",
+      "Emergency bivy or space blanket",
+      "Water purification method",
+      "Mobile phone power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers milder weather, longer daylight, and easier navigation. Winter hiking can bring snow, ice, and high winds; only for experienced hikers with specialized equipment.",
+    "seo": {
+      "title": "Antrim Hills Way – 34.1 km Hard Hike in the UK",
+      "meta_description": "Explore the challenging Antrim Hills Way, a 34.1 km long-distance trail in the UK. Learn about terrain, safety considerations, best seasons, and gear recommendations.",
+      "h1": "Antrim Hills Way: 34.1 km Hard Hike in the UK"
+    }
+  }
+}

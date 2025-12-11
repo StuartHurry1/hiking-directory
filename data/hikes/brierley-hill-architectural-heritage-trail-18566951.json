@@ -1,0 +1,41 @@
+{
+  "id": "osm-18566951",
+  "slug": "brierley-hill-architectural-heritage-trail-18566951",
+  "name": "Brierley Hill Architectural Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4808633,
+    "lon": -2.1216651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18566951
+  },
+  "ai": {
+    "summary": "A short, easy 2.7 km urban trail in the UK that highlights architectural highlights and local heritage around Brierley Hill.",
+    "terrain_summary": "Predominantly flat pavements and quiet streets with occasional gentle slopes; mostly urban surface with curb edges and light crossings.",
+    "safety_notes": "Walk defensively on busy streets and obey traffic signals at junctions. Stay on sidewalks where available and watch for uneven paving, wet leaves, and cyclists. Carry a charged phone for navigation and emergencies; wear weather-appropriate clothing and a reflective layer in low light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Small backpack",
+      "Smartphone or map with offline access",
+      "Lightweight rain jacket or umbrella",
+      "Hat and sun protection (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn typically offer the best conditions for this urban trail, but it can be walked year-round with appropriate clothing.",
+    "seo": {
+      "title": "Brierley Hill Architectural Heritage Trail – Easy 2.7 km UK Urban Walk",
+      "meta_description": "Discover the Brierley Hill Architectural Heritage Trail, a short 2.7 km easy route in the UK that highlights local buildings and heritage. Practical safety tips and gear included.",
+      "h1": "Brierley Hill Architectural Heritage Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13201411",
+  "slug": "glenties-to-killeter-13201411",
+  "name": "GLENTIES TO KILLETER",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.667652,
+    "lon": -7.6839687
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13201411
+  }
+}

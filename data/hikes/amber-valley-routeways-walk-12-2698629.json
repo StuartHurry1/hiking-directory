@@ -1,0 +1,43 @@
+{
+  "id": "osm-2698629",
+  "slug": "amber-valley-routeways-walk-12-2698629",
+  "name": "Amber Valley Routeways Walk 12",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0666712,
+    "lon": -1.5009641
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2698629
+  },
+  "ai": {
+    "summary": "A challenging 15.1 km hike in the UK countryside, classified as hard. The route traverses varied rural terrain and can be exposed to weather conditions, requiring good navigation and fitness.",
+    "terrain_summary": "Expect a mix of country lanes, field edges, farm tracks, and occasional stiles. Ground can be uneven and muddy after rain, with moderate elevation changes and sections that may be exposed to wind. Navigation may rely on waymarkers and field boundaries in places.",
+    "safety_notes": "Check the forecast and start early to maximize daylight. Wear sturdy, waterproof boots and clothing, and bring a map or GPS. Carry sufficient water and snacks, a charged phone, and a basic first aid kit. Be prepared for mud, gates, livestock, and gates/stiles; close gates after passing. In rural areas, mobile signal can be patchy—plan accordingly and consider a partner for the hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and layers",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Headwear and sun protection (hat, sunscreen)",
+      "Emergency whistle",
+      "Mobile phone with offline maps (battery backup)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn when daylight is longer and weather is more stable; summer offers longer daylight but can be muddy after rain; winter hikes are more challenging due to reduced daylight and weather.",
+    "seo": {
+      "title": "Amber Valley Routeways Walk 12 – 15.1 km Hard UK Hike",
+      "meta_description": "Experience Amber Valley Routeways Walk 12, a 15.1 km challenging hike in the UK. Learn about terrain, safety tips, best seasons, and gear for this hard route.",
+      "h1": "Amber Valley Routeways Walk 12 – 15.1 km, Hard Difficulty"
+    }
+  }
+}

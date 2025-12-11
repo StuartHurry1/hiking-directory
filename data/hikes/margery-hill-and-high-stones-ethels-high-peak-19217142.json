@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217142",
+  "slug": "margery-hill-and-high-stones-ethels-high-peak-19217142",
+  "name": "Margery Hill and High Stones (Ethels), High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4425461,
+    "lon": -1.7486126
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217142
+  }
+}

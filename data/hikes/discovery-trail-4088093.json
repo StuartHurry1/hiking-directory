@@ -1,0 +1,21 @@
+{
+  "id": "osm-4088093",
+  "slug": "discovery-trail-4088093",
+  "name": "Discovery Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6540601,
+    "lon": -3.5787138
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4088093
+  }
+}

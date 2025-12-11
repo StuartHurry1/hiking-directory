@@ -1,0 +1,21 @@
+{
+  "id": "osm-8246541",
+  "slug": "gorge-trail-8246541",
+  "name": "Gorge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.78271,
+    "lon": -5.0365511
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8246541
+  }
+}

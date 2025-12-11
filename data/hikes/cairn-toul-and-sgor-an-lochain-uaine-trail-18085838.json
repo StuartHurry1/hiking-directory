@@ -1,0 +1,46 @@
+{
+  "id": "osm-18085838",
+  "slug": "cairn-toul-and-sgor-an-lochain-uaine-trail-18085838",
+  "name": "Cairn Toul and Sgor an Lochain Uaine Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0256198,
+    "lon": -3.624927
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18085838
+  },
+  "ai": {
+    "summary": "A short, easy out-and-back hike on a high-elevation trail in the UK. Despite the modest distance (0.4 km), conditions can be windy and visibility variable, so appropriate clothing and footing are important.",
+    "terrain_summary": "Mostly easy, well-defined path with occasional rocky or uneven sections. Possible boggy patches after rain and exposed viewpoints where wind can be strong.",
+    "safety_notes": "Check weather and daylight; conditions can change rapidly in UK highland areas. Wear sturdy footwear and clothing layers; even short trails can be rocky and exposed. Stay on marked paths and carry navigation aids if visibility is reduced. Be prepared for wind and cooler temperatures at height; carry a warm layer. Bring water and a small snack, and inform someone of your plans. Follow Leave No Trace principles and take all rubbish with you.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Lightweight, weather-appropriate clothing (layers)",
+      "Water bottle or hydration system",
+      "Snack or energy bar",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight (with extra batteries)",
+      "Windproof/waterproof outer layer",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Whistle and emergency contact information",
+      "Phone charger or power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for dry, daylight-rich conditions; year-round hiking is possible with extra precautions in winter (short days, snow and ice possible).",
+    "seo": {
+      "title": "Cairn Toul and Sgor an Lochain Uaine Trail – Easy 0.4 km Hike in the UK",
+      "meta_description": "Discover the Cairn Toul and Sgor an Lochain Uaine Trail, a short, easy 0.4 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to hike.",
+      "h1": "Cairn Toul and Sgor an Lochain Uaine Trail – Easy 0.4 km Hike"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-12854668",
+  "slug": "blue-trail-florence-court-12854668",
+  "name": "Blue Trail, Florence Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2556325,
+    "lon": -7.7296107
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12854668
+  },
+  "ai": {
+    "summary": "A gentle 4.8 km hike on easy terrain around Florence Court in the UK. The Blue Trail weaves through woodland, offering pleasant views, tranquil paths, and a family-friendly route suitable for most walkers.",
+    "terrain_summary": "Mostly flat to gently undulating forest tracks with occasional gentle steps. Surfaces include packed dirt, gravel, and some boardwalk sections. Expect roots and potential mud after rain.",
+    "safety_notes": "- Wear sturdy walking shoes and dress for the weather. - Bring water and a small snack. - Stay on marked trails and respect private property around Florence Court. - Check local notices for closures and times; avoid the trail in icy or flood conditions. - Be mindful of seasonal wildlife and keep pets under control where allowed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Water bottle or hydration system",
+      "Map, guidebook, or GPS device",
+      "Lightweight rain shell",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Snack or energy bar",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Blue Trail, Florence Court – 4.8 km Easy Hike in the UK",
+      "meta_description": "Explore the 4.8 km Blue Trail at Florence Court, a gentle, family-friendly hike through woodland in the UK. Easy terrain, best visited in spring to autumn.",
+      "h1": "Blue Trail, Florence Court – 4.8 km Easy Hike"
+    }
+  }
+}

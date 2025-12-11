@@ -1,0 +1,21 @@
+{
+  "id": "osm-12099383",
+  "slug": "locherwood-trail-12099383",
+  "name": "Locherwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8412649,
+    "lon": -4.6318722
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12099383
+  }
+}

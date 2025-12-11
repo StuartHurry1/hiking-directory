@@ -1,0 +1,21 @@
+{
+  "id": "osm-18885200",
+  "slug": "whitehill-walk-18885200",
+  "name": "Whitehill Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1570437,
+    "lon": -3.9177453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18885200
+  }
+}

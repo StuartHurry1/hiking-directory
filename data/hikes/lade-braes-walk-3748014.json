@@ -1,0 +1,21 @@
+{
+  "id": "osm-3748014",
+  "slug": "lade-braes-walk-3748014",
+  "name": "Lade Braes Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3365288,
+    "lon": -2.7923004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3748014
+  }
+}

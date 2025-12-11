@@ -1,0 +1,21 @@
+{
+  "id": "osm-19229756",
+  "slug": "chasm-explorer-sussex-east-19229756",
+  "name": "Chasm Explorer, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8851579,
+    "lon": -0.2127778
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19229756
+  }
+}

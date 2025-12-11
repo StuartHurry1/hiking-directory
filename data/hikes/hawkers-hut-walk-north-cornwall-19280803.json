@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280803",
+  "slug": "hawkers-hut-walk-north-cornwall-19280803",
+  "name": "Hawker's Hut walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9085941,
+    "lon": -4.5539752
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280803
+  }
+}

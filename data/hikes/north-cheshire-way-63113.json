@@ -1,0 +1,21 @@
+{
+  "id": "osm-63113",
+  "slug": "north-cheshire-way-63113",
+  "name": "North Cheshire Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 245.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2968344,
+    "lon": -2.976552
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 63113
+  }
+}

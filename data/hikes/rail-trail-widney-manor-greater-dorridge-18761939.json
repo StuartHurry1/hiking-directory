@@ -1,0 +1,23 @@
+{
+  "id": "osm-18761939",
+  "slug": "rail-trail-widney-manor-greater-dorridge-18761939",
+  "name": "Rail Trail: Widney Manor > Dorridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3958844,
+    "lon": -1.7743536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18761939
+  }
+}

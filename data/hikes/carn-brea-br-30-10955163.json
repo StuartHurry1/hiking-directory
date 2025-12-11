@@ -1,0 +1,21 @@
+{
+  "id": "osm-10955163",
+  "slug": "carn-brea-br-30-10955163",
+  "name": "Carn Brea BR 30",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1950542,
+    "lon": -5.258396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10955163
+  }
+}

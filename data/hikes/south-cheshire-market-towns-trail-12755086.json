@@ -1,0 +1,21 @@
+{
+  "id": "osm-12755086",
+  "slug": "south-cheshire-market-towns-trail-12755086",
+  "name": "South Cheshire Market Towns Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 146,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1359001,
+    "lon": -2.1842792
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12755086
+  }
+}

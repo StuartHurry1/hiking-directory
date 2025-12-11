@@ -1,0 +1,21 @@
+{
+  "id": "osm-19366871",
+  "slug": "compton-trail-isle-of-wight-19366871",
+  "name": "Compton Trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6552719,
+    "lon": -1.4662325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19366871
+  }
+}

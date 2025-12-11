@@ -1,0 +1,21 @@
+{
+  "id": "osm-13626828",
+  "slug": "goathland-to-grosmont-rail-trail-13626828",
+  "name": "Goathland to Grosmont Rail Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4008554,
+    "lon": -0.7130467
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13626828
+  }
+}

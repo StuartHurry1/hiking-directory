@@ -1,0 +1,43 @@
+{
+  "id": "osm-18657748",
+  "slug": "all-saints-trail-18657748",
+  "name": "All Saints' Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5779644,
+    "lon": -2.1166059
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18657748
+  },
+  "ai": {
+    "summary": "All Saints' Trail is a 5.7 km easy hike in the UK, ideal for families and casual walkers. The route follows well-marked paths through gentle woodland and open ground, with light elevation and minimal ascents.",
+    "terrain_summary": "The terrain is mostly flat to gently rolling, on well-maintained dirt and gravel paths. Expect some grassy sections, occasional muddy patches after rain, and a few gates or stiles along the way.",
+    "safety_notes": "- Check the weather forecast before you go; UK conditions can change quickly. - Wear sturdy, closed-toe footwear. - Bring water and a small snack. - Stay on marked paths and follow local signs; be cautious at gates and road crossings. - Mud and slippery surfaces are common after rain; allow extra time. - Mobile signal can be limited in remote stretches; carry a map or offline route. - If walking with dogs, keep them under control and clean up after them. - Supervise children at all times near gates and livestock.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle (1–2 litres)",
+      "Light rain jacket or shell",
+      "Hat and sunscreen",
+      "Map, compass, or GPS device",
+      "Fully charged mobile phone",
+      "Small first-aid kit",
+      "Snacks (energy bars, fruit)",
+      "Lightweight extra layer for wind"
+    ],
+    "best_seasons": "Spring to autumn (roughly March through October) is typically best in the UK, offering milder weather and longer daylight; autumn can be particularly scenic.",
+    "seo": {
+      "title": "All Saints' Trail – Easy 5.7 km Hike in the UK",
+      "meta_description": "Discover All Saints' Trail, a gentle 5.7 km loop in the UK. An easy route suitable for families and casual walkers, with well-marked paths and scenic woodland and open-ground sections.",
+      "h1": "All Saints' Trail"
+    }
+  }
+}

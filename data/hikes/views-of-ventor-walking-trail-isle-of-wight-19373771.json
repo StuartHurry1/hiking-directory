@@ -1,0 +1,21 @@
+{
+  "id": "osm-19373771",
+  "slug": "views-of-ventor-walking-trail-isle-of-wight-19373771",
+  "name": "Views of Ventor Walking Trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6047154,
+    "lon": -1.1941898
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19373771
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853885",
+  "slug": "the-pools-loop-walk-carding-mill-valley-19853885",
+  "name": "The Pools Loop Walk, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5457036,
+    "lon": -2.8221188
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853885
+  }
+}

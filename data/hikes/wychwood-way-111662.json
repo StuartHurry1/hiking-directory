@@ -1,0 +1,21 @@
+{
+  "id": "osm-111662",
+  "slug": "wychwood-way-111662",
+  "name": "Wychwood Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 180,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8223982,
+    "lon": -1.4363829
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 111662
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10411102",
+  "slug": "pennine-way-tan-hill-to-kirk-yetholm-deviation-10411102",
+  "name": "Pennine Way (Tan Hill to Kirk Yetholm) - deviation",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5384938,
+    "lon": -2.2535664
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10411102
+  }
+}

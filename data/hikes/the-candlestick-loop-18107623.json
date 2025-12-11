@@ -1,0 +1,21 @@
+{
+  "id": "osm-18107623",
+  "slug": "the-candlestick-loop-18107623",
+  "name": "The Candlestick Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7598896,
+    "lon": -0.171994
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18107623
+  }
+}

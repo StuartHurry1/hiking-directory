@@ -1,0 +1,21 @@
+{
+  "id": "osm-10692547",
+  "slug": "silk-mill-path-10692547",
+  "name": "Silk Mill Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4653863,
+    "lon": -0.0112746
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10692547
+  }
+}

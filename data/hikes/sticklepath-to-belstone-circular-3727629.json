@@ -1,0 +1,21 @@
+{
+  "id": "osm-3727629",
+  "slug": "sticklepath-to-belstone-circular-3727629",
+  "name": "Sticklepath to Belstone Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7299138,
+    "lon": -3.9262171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3727629
+  }
+}

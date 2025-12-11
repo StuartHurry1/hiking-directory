@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283564",
+  "slug": "ilam-park-to-wetton-circular-walk-ilam-park-19283564",
+  "name": "Ilam Park to Wetton Circular Walk, Ilam Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0537173,
+    "lon": -1.8063926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283564
+  }
+}

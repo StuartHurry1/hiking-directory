@@ -1,0 +1,23 @@
+{
+  "id": "osm-5900598",
+  "slug": "king-charles-iii-england-coast-path-hopton-on-sea-to-sea-palling-5900598",
+  "name": "King Charles III England Coast Path: Hopton-on-Sea to Sea Palling",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 73.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5362267,
+    "lon": 1.7377574
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5900598
+  }
+}

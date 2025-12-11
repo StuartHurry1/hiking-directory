@@ -1,0 +1,21 @@
+{
+  "id": "osm-5529912",
+  "slug": "octavia-hill-centenary-trail-east-5529912",
+  "name": "Octavia Hill centenary trail east",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2452655,
+    "lon": 0.1035525
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5529912
+  }
+}

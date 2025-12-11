@@ -1,0 +1,41 @@
+{
+  "id": "osm-2853833",
+  "slug": "bridleway-v53-2853833",
+  "name": "Bridleway V53",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5404679,
+    "lon": -1.2667074
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2853833
+  },
+  "ai": {
+    "summary": "Bridleway V53 is a short, easy 0.7 km hike along a UK bridleway. With flat to gentle terrain and minimal elevation gain, it’s suitable for walkers of all ages and experience.",
+    "terrain_summary": "UK bridleways typically feature mixed surfaces such as compacted earth, gravel, and grass. Expect occasional mud after rain and a generally flat to gently rolling route with few obstacles.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check local conditions before you go, as mud can occur after rain. Stay on the marked path, give way to horses and livestock where present, and be mindful of road crossings if the route runs near roads. Bring water and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy footwear",
+      "Weather-appropriate clothing",
+      "Water",
+      "Snack",
+      "Phone with offline map",
+      "Lightweight rain jacket",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "All year in the UK; spring and autumn offer mild conditions and pleasant scenery, while summer is good on dry days. Winter hiking is possible but can be muddy and cold.",
+    "seo": {
+      "title": "Bridleway V53 – Easy 0.7 km Bridleway Walk in the UK",
+      "meta_description": "Discover Bridleway V53, a short 0.7 km easy hike in the UK. Get terrain notes, safety tips, gear suggestions, and the best seasons to hike this route.",
+      "h1": "Bridleway V53 – Easy 0.7 km Bridleway Walk in the UK"
+    }
+  }
+}

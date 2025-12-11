@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505562",
+  "slug": "ness-of-sound-11505562",
+  "name": "Ness of Sound",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1415346,
+    "lon": -1.1718639
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505562
+  }
+}

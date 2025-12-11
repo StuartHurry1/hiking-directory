@@ -1,0 +1,21 @@
+{
+  "id": "osm-2717095",
+  "slug": "hanchurch-walk-blue-2717095",
+  "name": "Hanchurch Walk (Blue)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9474744,
+    "lon": -2.2493402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2717095
+  }
+}

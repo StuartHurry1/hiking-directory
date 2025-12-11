@@ -1,0 +1,46 @@
+{
+  "id": "osm-19718689",
+  "slug": "brancaster-staithe-wildlife-walk-brancaster-19718689",
+  "name": "Brancaster Staithe Wildlife Walk, Brancaster",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9668861,
+    "lon": 0.6669931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19718689
+  },
+  "ai": {
+    "summary": "A scenic 8.5 km coastal wildlife walk around Brancaster Staithe on the North Norfolk coast. The moderate-level route combines marshland and coastal paths with ample birdlife and shorelines; expect flat sections, occasional boardwalks, and possible mud, making sturdy footwear and weather-appropriate layers advisable.",
+    "terrain_summary": "Predominantly flat to gently undulating coastal terrain. The route mixes gravel paths, tidal estuary boardwalks, grassy tidal banks, and some muddy sections, especially after rain. Sections along marshes can be exposed to wind; watch for wet/muddy patches near the shore.",
+    "safety_notes": "Check tide times before starting; some areas are inaccessible at high tide due to tides and mud. Wear sturdy, waterproof footwear and dress in layers; coastal weather can change quickly. Follow marked paths near wildlife reserves and keep dogs on a lead if required. Carry water, a basic map or GPS, a charged phone, and a small first aid kit. Be mindful of wind and cold; in an emergency call 999.",
+    "recommended_gear": [
+      "Waterproof jacket and trousers",
+      "Sturdy, grippy hiking boots",
+      "Water and snacks",
+      "Map and/or GPS device",
+      "Phone with a charged battery and offline map",
+      "Binoculars or camera",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insect repellent",
+      "Small first aid kit",
+      "Backpack",
+      "Gaiters (optional for mud)",
+      "Tide times reference (offline)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for best wildlife viewing and milder weather; summer offers long daylight; winter can be windy, cold, and muddy with fewer wildlife sightings.",
+    "seo": {
+      "title": "Brancaster Staithe Wildlife Walk – 8.5 km Coastal Trail in Norfolk, UK",
+      "meta_description": "Discover the 8.5 km Brancaster Staithe Wildlife Walk along the North Norfolk coast. A moderate coastal hike with marshes, birds, and scenic shorelines—tips, gear, and best seasons included.",
+      "h1": "Brancaster Staithe Wildlife Walk: 8.5 km Coastal Trail in Norfolk"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11798894",
+  "slug": "glen-tilt-trail-11798894",
+  "name": "Glen Tilt Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7744622,
+    "lon": -3.8432212
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11798894
+  }
+}

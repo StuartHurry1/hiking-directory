@@ -1,0 +1,49 @@
+{
+  "id": "osm-34591",
+  "slug": "beacons-way-34591",
+  "name": "Beacons Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 716.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8670349,
+    "lon": -2.9711952
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 34591
+  },
+  "ai": {
+    "summary": "Beacons Way is a demanding long-distance trail in the UK, totaling 716.4 km with varied terrain and notable elevation changes. It suits experienced hikers who are prepared for remote sections, changing weather, and multi-day trekking.",
+    "terrain_summary": "Expect a mix of moorland, ridges, forests, and open pasture, with rocky ascents, wet bogs, and occasional limestone pavements. The route can include long exposed sections and substantial height gain, often far from towns or services.",
+    "safety_notes": "Plan and prepare: obtain updated maps or a GPX file and know your daily distances. The route traverses remote areas with limited services, so carry enough food, water, and a means to treat water. UK weather can be highly changeable; bring warm layers, rain gear, and a windproof layer. Navigation skills are essential; carry a map and compass or a reliable GPS and know how to use them. Inform someone of your itinerary and expected finish times. Carry a basic first‑aid kit, emergency shelter, and a space blanket. Use sturdy footwear with good ankle support and monitor feet for blisters. Have a plan for retreat or emergency evacuation and seek shelter during storms. Practice Leave No Trace and respect livestock, farmland, and private property.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Thermal base layers and a mid-layer",
+      "Wide-brimmed hat and/or beanie, gloves depending on season",
+      "Map, compass, and/or GPS device",
+      "Hydration system or water bottles (2–3 litres capacity)",
+      "High-energy snacks and meals",
+      "Lightweight shelter: bivvy bag or compact tent and warm sleeping bag (for multi-day trips)",
+      "Headlamp with extra batteries",
+      "Basic first aid kit and blister care",
+      "Multi-tool or knife",
+      "Emergency whistle and reflective gear",
+      "Trekking poles",
+      "Pack rain cover",
+      "Power bank and offline maps on mobile device"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best overall conditions, with longer days and more reliable weather. Early autumn can be quieter but cooler and more variable. Winter trekking is possible only for experienced hikers with advanced navigation and proper cold-weather gear.",
+    "seo": {
+      "title": "Beacons Way: UK Long-Distance Trek (716.4 km)",
+      "meta_description": "Discover the Beacons Way, a challenging UK long-distance trail spanning 716.4 km with varied terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Beacons Way – UK Long-Distance Trail (716.4 km)"
+    }
+  }
+}

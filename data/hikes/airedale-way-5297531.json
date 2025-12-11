@@ -1,0 +1,48 @@
+{
+  "id": "osm-5297531",
+  "slug": "airedale-way-5297531",
+  "name": "Airedale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 236.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0881023,
+    "lon": -2.1648973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5297531
+  },
+  "ai": {
+    "summary": "The Airedale Way is a challenging long-distance trail in the United Kingdom, spanning approximately 236.7 km. Designed for experienced hikers, it traverses varied landscapes and demanding ascents, with multiple days of trekking and sections that may have limited infrastructure in places.",
+    "terrain_summary": "Expect a mix of rough tracks, muddy moorland, woodland paths, river valleys, and exposed ridgelines. The route can include steep climbs, uneven terrain, and boggy sections, with weather that can change rapidly and daylight hours influencing pacing and safety.",
+    "safety_notes": "Plan for a multi-day hike and check weather and daylight hours before setting out. Carry navigation tools (map, compass, and a GPS as backup) and a fully charged phone with offline maps. Inform someone of your itinerary, have a first aid kit and spare clothing, and bring enough water and high-energy food. Be prepared for limited phone reception in remote areas and consider a personal locator beacon or satellite messenger for emergencies. Respect access rights, wildlife, and Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants (3+ level waterproofing)",
+      "Thermal base layers and warm hat/gloves for variable conditions",
+      "Map and compass, plus a GPS device as backup",
+      "Phone with offline maps and a power bank",
+      "Hydration system (water bottles or hydration bladder)",
+      "High-energy food and trail snacks",
+      "First aid kit, multitool, and emergency whistle",
+      "Headlamp with spare batteries",
+      "Lightweight shelter (tent or bivouac) if wild camping is considered",
+      "Extra socks and footwear care items",
+      "Rain covers for backpack and dry bags",
+      "Personal safety device (e.g., PLB or satellite messenger) if hiking solo",
+      "Sun protection: sunscreen and sunglasses"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) typically offers the best conditions for this trail in the UK, with longer daylight, more stable weather, and better trail conditions. Winter hiking is possible only for very experienced hikers with substantial gear.",
+    "seo": {
+      "title": "Airedale Way — 236.7 km Hard-Distance Trail in the UK",
+      "meta_description": "Explore the Airedale Way, a demanding 236.7 km UK long-distance hike. Get terrain insights, safety tips, gear lists, and the best seasons for this challenging trail.",
+      "h1": "Airedale Way: A 236.7 km Hard-Distance UK Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3195152",
+  "slug": "gordano-round-3195152",
+  "name": "Gordano Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 91.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4816852,
+    "lon": -2.7701928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3195152
+  }
+}

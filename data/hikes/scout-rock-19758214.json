@@ -1,0 +1,21 @@
+{
+  "id": "osm-19758214",
+  "slug": "scout-rock-19758214",
+  "name": "Scout Rock",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7287246,
+    "lon": -1.9832663
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19758214
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-15957919",
+  "slug": "ancient-history-and-agriculture-walk-formerly-the-orange-walk-15957919",
+  "name": "Ancient History & Agriculture Walk (Formerly the Orange Walk)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6446463,
+    "lon": -1.6127312
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15957919
+  },
+  "ai": {
+    "summary": "The Ancient History & Agriculture Walk is an 11.9 km route in the UK that blends stories of ancient settlement with practical agricultural heritage. The walk traverses varied countryside, offering informative glimpses into historic landscapes while passing through farmland, hedgerows, and rural lanes. It suits walkers with some experience who enjoy a relaxed but steady pace and light elevation changes.",
+    "terrain_summary": "Expect a mix of rural lanes, grassy field tracks, hedged paths, and occasional woodland. Ground can be uneven and muddy after rain. The route includes a few stiles and gates typical of UK countryside and gentle gradients rather than long hills.",
+    "safety_notes": "Check local guidance and weather before you go, as conditions can change quickly. Wear sturdy footwear and carry a map or GPS to stay on the route. Be aware of livestock on farmland and follow marked rights-of-way. Bring water, snacks, and a basic first aid kit. If visibility is poor or daylight is fading, turn back or seek a safe alternative.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and snacks",
+      "Map or offline map on a smartphone",
+      "Fully charged mobile phone",
+      "First aid kit",
+      "Compass or GPS device",
+      "Sunscreen and hat",
+      "Walking poles (optional)",
+      "Headlamp or torch (if walking near dusk)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October)",
+    "seo": {
+      "title": "Ancient History & Agriculture Walk — 11.9 km Moderate Hike in the UK",
+      "meta_description": "Discover historic landscapes on the Ancient History & Agriculture Walk (formerly the Orange Walk). An 11.9 km moderate hike through UK farmland, lanes, and hedgerows.",
+      "h1": "Ancient History & Agriculture Walk (11.9 km) – Moderate UK Hike"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-13334717",
+  "slug": "blacklion-kinameel-13334717",
+  "name": "Blacklion - Kinameel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2595571,
+    "lon": -7.8491442
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13334717
+  },
+  "ai": {
+    "summary": "Blacklion - Kinameel is an 8.9 km moderate hike in the UK that weaves through a mix of woodland, open grassy slopes, and gentle ridgelines. The route offers steady elevation with a few rocky stretches, making it suitable for hikers with some experience seeking varied scenery.",
+    "terrain_summary": "Expect a mix of well-defined paths, forest tracks, meadow edges, and occasional rocky outcrops. Ground can be damp or boggy after rain, and some sections may have uneven footing. The trail features a few modest ascents and short descents, with exposed sections that can catch the wind.",
+    "safety_notes": "Prepare for variable UK weather. Wear sturdy waterproof hiking boots and layered clothing. Carry a map and compass (and a charged phone with offline maps). Stay on marked trails and monitor footing on damp rock and exposed roots. Allow extra time in poor weather; daylight can be limited outside summer. Let someone know your plan, and carry a basic first aid kit and sufficient water and snacks. In winter or after heavy rain, streams may be higher and ground more slippery.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 liters)",
+      "Weather-appropriate clothing (layered, including a rain jacket and hat)",
+      "Map and compass (or GPS with offline maps)",
+      "Backpack with rain cover",
+      "Snack and electrolyte-rich foods",
+      "Basic first aid kit",
+      "Headlamp or flashlight",
+      "Walking poles (optional but helpful on rough sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best for stable conditions and daylight in the UK; winter hiking is possible with extra caution, shorter daylight hours, and more challenging conditions.",
+    "seo": {
+      "title": "Blacklion - Kinameel Hike - 8.9 km Moderate UK Trail",
+      "meta_description": "Explore the 8.9 km Blacklion - Kinameel moderate hike in the UK. Learn about the terrain, safety tips, necessary gear, and the best seasons for this trail.",
+      "h1": "Blacklion - Kinameel Hike (8.9 km) – Moderate UK Trail"
+    }
+  }
+}

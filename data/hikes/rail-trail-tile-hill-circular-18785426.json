@@ -1,0 +1,21 @@
+{
+  "id": "osm-18785426",
+  "slug": "rail-trail-tile-hill-circular-18785426",
+  "name": "Rail Trail: Tile Hill Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3950984,
+    "lon": -1.5967876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18785426
+  }
+}

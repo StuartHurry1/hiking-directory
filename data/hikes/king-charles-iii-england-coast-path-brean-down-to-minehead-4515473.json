@@ -1,0 +1,23 @@
+{
+  "id": "osm-4515473",
+  "slug": "king-charles-iii-england-coast-path-brean-down-to-minehead-4515473",
+  "name": "King Charles III England Coast Path: Brean Down to Minehead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 200.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3280941,
+    "lon": -3.0336845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4515473
+  }
+}

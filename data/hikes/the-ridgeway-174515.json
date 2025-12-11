@@ -1,0 +1,23 @@
+{
+  "id": "osm-174515",
+  "slug": "the-ridgeway-174515",
+  "name": "The Ridgeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4903058,
+    "lon": 0.0856465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 174515
+  }
+}

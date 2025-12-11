@@ -1,0 +1,21 @@
+{
+  "id": "osm-13334415",
+  "slug": "tullyhona-brookfield-loop-13334415",
+  "name": "Tullyhona - brookfield loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2555584,
+    "lon": -7.7929295
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13334415
+  }
+}

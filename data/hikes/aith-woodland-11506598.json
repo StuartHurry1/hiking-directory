@@ -1,0 +1,41 @@
+{
+  "id": "osm-11506598",
+  "slug": "aith-woodland-11506598",
+  "name": "Aith Woodland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2853145,
+    "lon": -1.3847526
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506598
+  },
+  "ai": {
+    "summary": "Aith Woodland offers a short, easy 0.8 km hike in the UK, perfect for families or beginners who want a peaceful woodland stroll.",
+    "terrain_summary": "Mostly flat, well-marked woodland path. Expect shaded ground with occasional roots and possible mud after rain; footing is uneven in places and footwear should be sturdy.",
+    "safety_notes": "Stay on marked paths at all times; watch for roots and mud, especially after rain. Wear sturdy shoes and bring a water bottle. Check the weather and daylight hours before you go. Inform someone of your route and expected return. Be aware of ticks in grassy areas and supervise children and dogs. Respect wildlife and follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water",
+      "Light waterproof jacket",
+      "Map or GPS",
+      "Fully charged phone",
+      "Whistle",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring and autumn are ideal for mild weather and scenery; the trail can be enjoyed year-round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Aith Woodland Hike (UK) – Easy 0.8 km Nature Walk",
+      "meta_description": "Explore Aith Woodland in the UK on an easy 0.8 km trail. A family-friendly hike through shaded woodland with practical safety tips and gear.",
+      "h1": "Aith Woodland: Easy 0.8 km Nature Walk in the UK"
+    }
+  }
+}

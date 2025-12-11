@@ -1,0 +1,21 @@
+{
+  "id": "osm-19774701",
+  "slug": "woodland-walk-oxburgh-estate-19774701",
+  "name": "Woodland Walk, Oxburgh Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5825771,
+    "lon": 0.5733145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19774701
+  }
+}

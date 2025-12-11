@@ -1,0 +1,21 @@
+{
+  "id": "osm-3728695",
+  "slug": "fen-rivers-way-ely-to-kings-lynn-3728695",
+  "name": "Fen Rivers Way (Ely to King's Lynn)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 62.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4008071,
+    "lon": 0.2859998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3728695
+  }
+}

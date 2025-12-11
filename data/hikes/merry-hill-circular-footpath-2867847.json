@@ -1,0 +1,23 @@
+{
+  "id": "osm-2867847",
+  "slug": "merry-hill-circular-footpath-2867847",
+  "name": "Merry Hill Circular Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6413538,
+    "lon": -0.3689392
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2867847
+  }
+}

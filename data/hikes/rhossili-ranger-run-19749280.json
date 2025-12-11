@@ -1,0 +1,21 @@
+{
+  "id": "osm-19749280",
+  "slug": "rhossili-ranger-run-19749280",
+  "name": "Rhossili Ranger Run",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5694186,
+    "lon": -4.2883402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19749280
+  }
+}

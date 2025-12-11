@@ -1,0 +1,21 @@
+{
+  "id": "osm-18998242",
+  "slug": "garn-fawr-viewpoint-walk-garn-fawr-sm-89890-38843-5200816-506283-hampersmarchfabric-18998242",
+  "name": "Garn Fawr Viewpoint Walk, Garn Fawr, SM 89890 38843, 52.00816, -5.06283, hampers.march.fabric",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0081291,
+    "lon": -5.0624879
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18998242
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-165410",
+  "slug": "fred-perry-way-165410",
+  "name": "Fred Perry Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 91.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4103206,
+    "lon": -2.1480336
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 165410
+  }
+}

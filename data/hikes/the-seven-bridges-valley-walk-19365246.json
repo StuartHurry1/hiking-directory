@@ -1,0 +1,23 @@
+{
+  "id": "osm-19365246",
+  "slug": "the-seven-bridges-valley-walk-19365246",
+  "name": "The Seven Bridges Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1121416,
+    "lon": -1.5863248
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365246
+  }
+}

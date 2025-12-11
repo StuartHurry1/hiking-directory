@@ -1,19 +1,24 @@
-import type { Metadata } from 'next'
-import './globals.css'
+import type { Metadata } from 'next';
+import 'leaflet/dist/leaflet.css';
+import './globals.css';
+import { SiteHeader } from '@/components/SiteHeader';
 
 export const metadata: Metadata = {
-  title: 'Hiking Directory',
-  description: 'Find UK hikes by postcode',
-}
+  title: 'UK Hiking Directory',
+  description: 'Find the best hiking trails across the UK, by train, bus, or car-free.',
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-slate-50 text-slate-900">
+        <SiteHeader />
+        <main className="min-h-screen pb-10">{children}</main>
+      </body>
     </html>
-  )
+  );
 }

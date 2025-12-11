@@ -1,0 +1,21 @@
+{
+  "id": "osm-239620",
+  "slug": "welsh-three-thousands-239620",
+  "name": "Welsh Three Thousands",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0726831,
+    "lon": -4.079644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 239620
+  }
+}

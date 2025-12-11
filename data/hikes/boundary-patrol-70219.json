@@ -1,0 +1,44 @@
+{
+  "id": "osm-70219",
+  "slug": "boundary-patrol-70219",
+  "name": "Boundary Patrol",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7459833,
+    "lon": -1.1931339
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 70219
+  },
+  "ai": {
+    "summary": "Boundary Patrol is a demanding 22.1 km hike in the UK, designed for experienced hikers. Expect rugged terrain, variable weather, and significant elevation changes that test endurance and navigation skills.",
+    "terrain_summary": "The route covers varied terrain including open moorland, long ascents and descents, rocky sections, and muddy footpaths. In exposed stretches you can encounter wind and rain; navigation can be challenging in less-tracked areas.",
+    "safety_notes": "Plan for UK weather and limited shelter: carry a detailed map and compass (GPS is helpful but not a substitute), know the route, and check the forecast. Wear sturdy boots and dress in layers, bring waterproofs, food, water, a first aid kit, headlamp, and a whistle. Start early to maximize daylight, tell someone your plan, and be prepared to turn back if conditions deteriorate. In remote sections, mobile signal may be unreliable.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and waterproofs",
+      "Map and compass (GPS as backup)",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Mobile phone with portable charger",
+      "Sun protection",
+      "Lightweight emergency bivy or space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October)",
+    "seo": {
+      "title": "Boundary Patrol: 22.1 km Hard Hike in the UK",
+      "meta_description": "Explore Boundary Patrol, a challenging 22.1 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this demanding route.",
+      "h1": "Boundary Patrol – 22.1 km Hard Hike in the UK"
+    }
+  }
+}

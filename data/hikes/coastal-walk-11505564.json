@@ -1,0 +1,23 @@
+{
+  "id": "osm-11505564",
+  "slug": "coastal-walk-11505564",
+  "name": "Coastal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1489438,
+    "lon": -1.1601486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505564
+  }
+}

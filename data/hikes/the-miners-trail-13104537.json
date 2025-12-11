@@ -1,0 +1,21 @@
+{
+  "id": "osm-13104537",
+  "slug": "the-miners-trail-13104537",
+  "name": "The Miners' Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4157976,
+    "lon": -3.8872266
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13104537
+  }
+}

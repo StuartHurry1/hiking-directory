@@ -1,0 +1,21 @@
+{
+  "id": "osm-2429933",
+  "slug": "ladybrook-valley-interest-trail-2429933",
+  "name": "Ladybrook Valley Interest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 79,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3754487,
+    "lon": -2.1701338
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2429933
+  }
+}

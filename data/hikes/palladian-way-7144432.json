@@ -1,0 +1,23 @@
+{
+  "id": "osm-7144432",
+  "slug": "palladian-way-7144432",
+  "name": "Palladian Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 66.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8311199,
+    "lon": -1.4127465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7144432
+  }
+}

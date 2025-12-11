@@ -1,0 +1,21 @@
+{
+  "id": "osm-13753687",
+  "slug": "the-romans-and-nomansland-13753687",
+  "name": "The Romans & Nomansland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8130106,
+    "lon": -0.2926543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13753687
+  }
+}

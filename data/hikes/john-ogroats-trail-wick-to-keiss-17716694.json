@@ -1,0 +1,21 @@
+{
+  "id": "osm-17716694",
+  "slug": "john-ogroats-trail-wick-to-keiss-17716694",
+  "name": "John O'Groats Trail (Wick to Keiss)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.5318478,
+    "lon": -3.1195047
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17716694
+  }
+}

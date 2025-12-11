@@ -1,0 +1,21 @@
+{
+  "id": "osm-15909359",
+  "slug": "the-moat-pad-15909359",
+  "name": "The Moat Pad",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3090066,
+    "lon": -6.0645985
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15909359
+  }
+}

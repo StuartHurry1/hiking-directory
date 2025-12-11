@@ -1,0 +1,21 @@
+{
+  "id": "osm-15054866",
+  "slug": "woodland-walk-at-the-vyne-15054866",
+  "name": "Woodland Walk at The Vyne",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3104127,
+    "lon": -1.0859284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15054866
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1996318",
+  "slug": "lyke-wake-walk-1996318",
+  "name": "Lyke Wake Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 194.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3962307,
+    "lon": -1.2728867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1996318
+  }
+}

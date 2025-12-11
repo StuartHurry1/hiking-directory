@@ -1,0 +1,21 @@
+{
+  "id": "osm-19400659",
+  "slug": "whiteleaf-and-the-hampdens-walk-princes-risborough-19400659",
+  "name": "Whiteleaf and the Hampdens walk, Princes Risborough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7252508,
+    "lon": -0.8097478
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19400659
+  }
+}

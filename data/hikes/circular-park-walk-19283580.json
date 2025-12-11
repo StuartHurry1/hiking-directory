@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283580",
+  "slug": "circular-park-walk-19283580",
+  "name": "Circular Park Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0537173,
+    "lon": -1.8063926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283580
+  }
+}

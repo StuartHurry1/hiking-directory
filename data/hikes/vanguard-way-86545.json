@@ -1,0 +1,21 @@
+{
+  "id": "osm-86545",
+  "slug": "vanguard-way-86545",
+  "name": "Vanguard Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 185.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3746928,
+    "lon": -0.0918143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 86545
+  }
+}

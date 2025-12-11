@@ -1,0 +1,21 @@
+{
+  "id": "osm-4035127",
+  "slug": "london-loop-section-22-4035127",
+  "name": "London LOOP (Section 22)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5928117,
+    "lon": 0.2327465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4035127
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-115934",
+  "slug": "thames-down-link-115934",
+  "name": "Thames Down Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 51.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2540451,
+    "lon": -0.3285095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 115934
+  }
+}

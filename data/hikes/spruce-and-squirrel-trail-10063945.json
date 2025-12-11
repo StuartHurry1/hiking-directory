@@ -1,0 +1,21 @@
+{
+  "id": "osm-10063945",
+  "slug": "spruce-and-squirrel-trail-10063945",
+  "name": "Spruce & Squirrel Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0003648,
+    "lon": -4.3176362
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10063945
+  }
+}

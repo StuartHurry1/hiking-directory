@@ -1,0 +1,21 @@
+{
+  "id": "osm-19754791",
+  "slug": "marsh-meander-19754791",
+  "name": "Marsh Meander",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3319075,
+    "lon": 1.6374021
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19754791
+  }
+}

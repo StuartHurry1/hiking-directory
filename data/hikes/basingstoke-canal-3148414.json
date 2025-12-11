@@ -1,0 +1,48 @@
+{
+  "id": "osm-3148414",
+  "slug": "basingstoke-canal-3148414",
+  "name": "Basingstoke Canal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 82.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2662653,
+    "lon": -1.081538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3148414
+  },
+  "ai": {
+    "summary": "An 82.2 km long-distance hike along the Basingstoke Canal in the UK. A challenging route that follows a historic waterway with varied scenery, from rural countryside to urban edges, featuring towpaths, locks and bridges. The overall difficulty is hard due to distance and mixed terrain.",
+    "terrain_summary": "Primarily canal towpath with mixed surfaces: compact gravel, paved sections, and damp or muddy patches. Expect sections through villages and towns, plus stairs or steps near locks. Some stretches can be shaded by trees, while open stretches may be exposed to wind and rain. Footing can be slippery after rain or on wet boards.",
+    "safety_notes": "Plan your trip with route breaks and know your ETA. Tell someone your itinerary and expected schedule. Carry a charged phone with offline maps and a navigation method. Stay hydrated and carry sufficient food. Wear sturdy footwear and watch footing on wet surfaces near water. Be mindful of canal edges, low bridges, and locked sections. Check local notices for closures or restrictions before setting out.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and warm layer",
+      "Comfortable backpack with hydration system or water bottles",
+      "Map and compass or offline navigation app",
+      "Fully charged phone with offline maps and emergency contact",
+      "Water and high-energy snacks (plus optional meals)",
+      "Headlamp or flashlight with extra batteries",
+      "Hat, sunglasses, sunscreen",
+      "Lightweight trekking poles (optional)",
+      "First aid kit and personal medications",
+      "Emergency whistle and multi-tool",
+      "Spare socks and a small towel",
+      "Bug repellent and a lightweight dry bag",
+      "Cash or card for possible detours or services"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to September) offers longer daylight and typically milder conditions for a long canal hike. However UK weather is variable, so be prepared for rain and cooler days year-round.",
+    "seo": {
+      "title": "Basingstoke Canal Hike – 82.2 km Hard Distance in the UK",
+      "meta_description": "Explore the 82.2 km Basingstoke Canal long-distance hike in the UK. A challenging, varied towpath route with rural and urban sections. Gear tips and safety notes included.",
+      "h1": "Basingstoke Canal Hike (82.2 km) — Hard Long-Distance Trail in the UK"
+    }
+  }
+}

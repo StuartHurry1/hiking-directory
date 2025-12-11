@@ -1,0 +1,21 @@
+{
+  "id": "osm-8769824",
+  "slug": "middlesex-street-estate-pedways-8769824",
+  "name": "Middlesex Street Estate Pedways",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5161418,
+    "lon": -0.0765165
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769824
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-23388",
+  "slug": "river-ver-trail-23388",
+  "name": "River Ver Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 132.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8194218,
+    "lon": -0.4144515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 23388
+  }
+}

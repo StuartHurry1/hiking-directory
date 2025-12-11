@@ -1,0 +1,21 @@
+{
+  "id": "osm-18310722",
+  "slug": "station-to-the-hermitage-18310722",
+  "name": "Station to the Hermitage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5570659,
+    "lon": -3.578721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18310722
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-3971779",
+  "slug": "king-charles-iii-england-coast-path-portland-to-lulworth-3971779",
+  "name": "King Charles III England Coast Path: Portland to Lulworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 70.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5405477,
+    "lon": -2.4271813
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3971779
+  }
+}

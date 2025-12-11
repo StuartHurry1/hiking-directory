@@ -1,0 +1,37 @@
+{
+  "id": 10547270,
+  "slug": "soham-millennium-walk-red-route-10547270",
+  "name": "Soham Millennium Walk (Red Route)",
+  "network": "lwn",
+  "tags": {
+    "colour": "#A00000",
+    "distance": "1.75 mi",
+    "name": "Soham Millennium Walk (Red Route)",
+    "network": "lwn",
+    "route": "foot",
+    "type": "route",
+    "wheelchair": "yes"
+  },
+  "coordinates": [
+    [
+      0.3369837,
+      52.3340771
+    ],
+    [
+      0.3365804,
+      52.3341762
+    ],
+    [
+      0.3369837,
+      52.3340771
+    ],
+    [
+      0.3369891,
+      52.3341136
+    ],
+    [
+      0.3369914,
+      52.3342205
+    ]
+  ]
+}

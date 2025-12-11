@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761171",
+  "slug": "views-route-runnymede-19761171",
+  "name": "Views Route, Runnymede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4483928,
+    "lon": -0.5678124
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761171
+  }
+}

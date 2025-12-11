@@ -1,0 +1,41 @@
+{
+  "id": "osm-10323828",
+  "slug": "camborne-fp-31-10323828",
+  "name": "Camborne FP 31",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1891658,
+    "lon": -5.2844559
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10323828
+  },
+  "ai": {
+    "summary": "Camborne FP 31 is a very short, easy 0.7 km hike in the UK, ideal for beginners and families. The route follows a gentle footpath that typically takes around 10–15 minutes to complete, with mostly level terrain and only light elevation.",
+    "terrain_summary": "A short grassy/gravelly footpath with occasional uneven patches and light mud. The path is largely level with gentle slopes; you may encounter small roots or ruts near edges and occasional puddles after rain.",
+    "safety_notes": "Before you go, check the latest weather, daylight hours and any access restrictions. Wear sturdy, grippy footwear and stay on the marked path. Be prepared for mud in wet conditions and keep an eye out for other path users. Bring a light layer and waterproofs if rain is possible, a charged phone, water, and a small first aid kit. Supervise children and dogs, and keep them under control at all times.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Water and a lightweight snack",
+      "Weather-appropriate clothing (layered, including a waterproof jacket)",
+      "Small backpack to carry essentials",
+      "Map or offline GPS and a charged mobile phone",
+      "Basic first aid kit",
+      "Sun protection (hat and sunscreen) or insect repellent as needed"
+    ],
+    "best_seasons": "All year round, with the most pleasant conditions in spring, summer and autumn. Exercise extra caution in winter due to wet, muddy or icy surfaces.",
+    "seo": {
+      "title": "Camborne FP 31 — Easy 0.7 km Hike in the UK",
+      "meta_description": "Explore Camborne FP 31, a short and easy 0.7 km hike in the UK. Perfect for beginners, with gentle terrain, practical safety tips, and a concise gear checklist.",
+      "h1": "Camborne FP 31: Easy 0.7 km Hike in the UK"
+    }
+  }
+}

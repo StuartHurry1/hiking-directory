@@ -1,0 +1,23 @@
+{
+  "id": "osm-2372584",
+  "slug": "south-west-coast-path-section-9-clovelly-to-hartland-quay-2372584",
+  "name": "South West Coast Path (Section 9: Clovelly to Hartland Quay)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 41.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9996021,
+    "lon": -4.4016446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2372584
+  }
+}

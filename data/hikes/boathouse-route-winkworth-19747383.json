@@ -1,0 +1,42 @@
+{
+  "id": "osm-19747383",
+  "slug": "boathouse-route-winkworth-19747383",
+  "name": "Boathouse Route, Winkworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1619319,
+    "lon": -0.5846973
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19747383
+  },
+  "ai": {
+    "summary": "Boathouse Route at Winkworth is a gentle 3.9 km circuit through woodland near a historic boathouse, designed for easy walking and family-friendly enjoyment.",
+    "terrain_summary": "Predominantly well-maintained woodland paths with compact gravel; occasional exposed roots and small steps; some damp sections may be muddy after rain; overall easy footing and shaded routes.",
+    "safety_notes": "Check the weather forecast and dress accordingly; wear sturdy, non-slip footwear; stay on marked paths and watch for uneven ground; mobile signal can be weak in woodland areas; carry water and a snack; keep dogs under control; be aware of ticks in rural woodland and check after your walk; allow extra time in wet conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Light waterproof layer",
+      "Map or offline navigation (optional)",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn; year-round walking is possible, but summer offers shade and milder temperatures; in winter, plan for shorter daylight hours and potentially slick surfaces.",
+    "seo": {
+      "title": "Boathouse Route, Winkworth — Easy 3.9 km Hike in the UK",
+      "meta_description": "Explore Boathouse Route at Winkworth Arboretum, a gentle 3.9 km walk through tranquil woodland in the UK. Easy terrain, seasonal scenery, safety tips, and gear.",
+      "h1": "Boathouse Route, Winkworth – Easy 3.9 km Hike"
+    }
+  }
+}

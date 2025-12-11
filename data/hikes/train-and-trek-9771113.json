@@ -1,0 +1,21 @@
+{
+  "id": "osm-9771113",
+  "slug": "train-and-trek-9771113",
+  "name": "Train & Trek",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3352384,
+    "lon": -1.7200847
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9771113
+  }
+}

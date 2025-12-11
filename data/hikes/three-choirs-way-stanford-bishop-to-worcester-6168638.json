@@ -1,0 +1,21 @@
+{
+  "id": "osm-6168638",
+  "slug": "three-choirs-way-stanford-bishop-to-worcester-6168638",
+  "name": "Three Choirs Way (Stanford Bishop to Worcester)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 172.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2039131,
+    "lon": -2.3633308
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6168638
+  }
+}

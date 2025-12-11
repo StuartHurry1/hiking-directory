@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376042",
+  "slug": "south-west-coast-path-section-38-bigbury-on-sea-to-salcombe-2376042",
+  "name": "South West Coast Path (Section 38: Bigbury on Sea to Salcombe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2828825,
+    "lon": -3.8910908
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376042
+  }
+}

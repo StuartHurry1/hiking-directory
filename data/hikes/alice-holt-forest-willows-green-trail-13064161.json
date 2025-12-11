@@ -1,0 +1,42 @@
+{
+  "id": "osm-13064161",
+  "slug": "alice-holt-forest-willows-green-trail-13064161",
+  "name": "Alice Holt Forest: Willows Green Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1651187,
+    "lon": -0.8392868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13064161
+  },
+  "ai": {
+    "summary": "Alice Holt Forest's Willows Green Trail is a short, easy woodland walk in the UK. At 1.6 km, the route is suitable for families and beginners, offering a calm stroll through managed mixed woodland with a gentle, well-maintained surface.",
+    "terrain_summary": "Mostly flat, well-maintained forest paths with compacted earth. Expect shaded sections, occasional tree roots near the trail edges, and occasional gentle changes in grade. The surface is suitable for most footwear.",
+    "safety_notes": "Please follow all park signs and stay on marked paths. Wear sturdy footwear and bring a light layer and water. Be mindful of cyclists on shared trails, and keep dogs under control and on a short leash where required. Pack out any litter and check weather conditions before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water and a small snack",
+      "Light waterproof jacket or layer",
+      "Map or offline map/app on your phone",
+      "Sun protection (sunscreen, hat) in sunny weather",
+      "Insect repellent (seasonal)",
+      "Phone charged and emergency contact info",
+      "Small backpack for added comfort"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers the best conditions for dry, comfortable walking. The trail is accessible in winter, but can be muddy and less predictable.",
+    "seo": {
+      "title": "Willows Green Trail at Alice Holt Forest | 1.6 km Easy Walk in the UK",
+      "meta_description": "Explore Willows Green Trail in Alice Holt Forest. This 1.6 km easy, family-friendly walk in the UK features flat, shaded woodland and a calm pace.",
+      "h1": "Alice Holt Forest – Willows Green Trail"
+    }
+  }
+}

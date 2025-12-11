@@ -1,0 +1,21 @@
+{
+  "id": "osm-16178575",
+  "slug": "st-patricks-way-the-pilgrim-walk-16178575",
+  "name": "St Patrick's Way: The Pilgrim Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 345.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3440652,
+    "lon": -6.7012025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16178575
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13418193",
+  "slug": "whelnetham-railway-walk-13418193",
+  "name": "Whelnetham Railway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1985441,
+    "lon": 0.7709705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13418193
+  }
+}

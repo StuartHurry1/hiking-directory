@@ -1,0 +1,23 @@
+{
+  "id": "osm-16216508",
+  "slug": "west-windermere-way-walking-route-16216508",
+  "name": "West Windermere Way (Walking Route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.3,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2687748,
+    "lon": -2.9682536
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16216508
+  }
+}

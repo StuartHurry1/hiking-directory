@@ -1,0 +1,21 @@
+{
+  "id": "osm-18168477",
+  "slug": "west-acre-circular-18168477",
+  "name": "West Acre Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7062859,
+    "lon": 0.6361332
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18168477
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19641262",
+  "slug": "dune-and-estuary-walk-portstewart-strand-19641262",
+  "name": "Dune and Estuary Walk, Portstewart Strand",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1712904,
+    "lon": -6.7287639
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19641262
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-19360694",
+  "slug": "boundary-walk-19360694",
+  "name": "Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19360694
+  },
+  "ai": {
+    "summary": "The Boundary Walk is a 13.7 km moderate hike in the UK that traverses a variety of countryside paths along a boundary-like route in an unspecified region. It is suitable for hikers seeking steady mileage without extreme terrain and can be completed in a half-day to a full day depending on pace and stops.",
+    "terrain_summary": "A mix of grassy trails, farm lanes, and occasional woodland with gentle to moderate elevation changes. Expect uneven surfaces, stiles, and potential mud after rain. Some sections are exposed to wind and weather, offering open views.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Carry a map and compass (or GPS), fully charged phone, and let someone know your plan. Wear sturdy boots and dress in layers; bring waterproof outerwear and extra warmth. Stay on marked paths, watch for livestock, gates, and weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and warm layer",
+      "Backpack with rain cover",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Personal first aid kit",
+      "Headlamp or flashlight (if there's a chance of ending after dark)",
+      "Extra gloves and a hat for cold or windy conditions"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this walk due to longer daylight and generally drier conditions; it can be tackled year-round with proper clothing and preparation.",
+    "seo": {
+      "title": "Boundary Walk - 13.7 km Moderate UK Hiking Experience",
+      "meta_description": "Discover the Boundary Walk: a 13.7 km moderate hike in the UK. Learn about terrain, safety, gear, and the best seasons for this scenic countryside route.",
+      "h1": "Boundary Walk – 13.7 km Moderate UK Hike"
+    }
+  }
+}

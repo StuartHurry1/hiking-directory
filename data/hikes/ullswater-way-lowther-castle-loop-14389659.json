@@ -1,0 +1,21 @@
+{
+  "id": "osm-14389659",
+  "slug": "ullswater-way-lowther-castle-loop-14389659",
+  "name": "Ullswater Way - Lowther Castle Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6082412,
+    "lon": -2.7392756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14389659
+  }
+}

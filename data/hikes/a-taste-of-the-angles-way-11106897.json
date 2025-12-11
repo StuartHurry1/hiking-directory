@@ -1,0 +1,44 @@
+{
+  "id": "osm-11106897",
+  "slug": "a-taste-of-the-angles-way-11106897",
+  "name": "A Taste of the Angles Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3761816,
+    "lon": 1.0673102
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11106897
+  },
+  "ai": {
+    "summary": "A 6.1 km moderate hike along a section of the Angles Way in the United Kingdom, offering a gentle mix of rural paths and minor roads with pleasant countryside views.",
+    "terrain_summary": "Trail starts on well-defined footpaths, with sections of grassy field edges and short sections of minor roads. Expect uneven surfaces, occasional mud after rain, gentle undulations, and occasional gates or stiles. Scenery is typical UK countryside with hedgerows and farmland.",
+    "safety_notes": "Plan for typical UK weather; wear sturdy footwear; bring a waterproof layer and a hat; carry enough water and snacks; carry map or GPS; stay on marked paths, watch for traffic on rural lanes; watch for livestock and muddy ground after rain; inform someone of your route and expected return; in low visibility carry lights; daylight hours vary by season.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Waterproof jacket and extra layer",
+      "Hat and sunglasses",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Small first aid kit and personal essentials",
+      "Snacks or energy bars",
+      "Phone with charged battery and power bank (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–September) offers the most comfortable conditions; feasible year-round with proper gear, but rain and mud can make winter walks more challenging.",
+    "seo": {
+      "title": "A Taste of the Angles Way — 6.1 km Moderate Hike in the UK",
+      "meta_description": "Discover a 6.1 km moderate hike along the Angles Way in the United Kingdom. Explore terrain, safety tips, recommended gear, and the best seasons for this scenic trail segment.",
+      "h1": "A Taste of the Angles Way — 6.1 km Moderate Hike in the UK"
+    }
+  }
+}

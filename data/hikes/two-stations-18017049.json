@@ -1,0 +1,21 @@
+{
+  "id": "osm-18017049",
+  "slug": "two-stations-18017049",
+  "name": "Two Stations",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7580891,
+    "lon": 1.1111887
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18017049
+  }
+}

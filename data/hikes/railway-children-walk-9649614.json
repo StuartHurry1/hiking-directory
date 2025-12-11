@@ -1,0 +1,21 @@
+{
+  "id": "osm-9649614",
+  "slug": "railway-children-walk-9649614",
+  "name": "Railway Children Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8226027,
+    "lon": -1.9579606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9649614
+  }
+}

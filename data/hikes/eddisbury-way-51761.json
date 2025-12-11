@@ -1,0 +1,21 @@
+{
+  "id": "osm-51761",
+  "slug": "eddisbury-way-51761",
+  "name": "Eddisbury Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 75.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3002461,
+    "lon": -2.7072438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 51761
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-19738656",
+  "slug": "calming-cambridge-woods-brownsea-island-19738656",
+  "name": "Calming Cambridge Woods, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6955945,
+    "lon": -1.9807497
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738656
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km woodland ridge walk on Brownsea Island in the UK. The Calming Cambridge Woods trail offers a peaceful canopy, gentle elevation, and a quiet escape into nature—suitable for beginners and families seeking a quick, scenic stroll.",
+    "terrain_summary": "Mostly well-maintained woodland paths with a gentle ridge section. Surface ranges from compact soil to grassy patches; some roots and shaded areas may be slippery when wet.",
+    "safety_notes": "Check island access times and tide-related ferry schedules. Trails are generally well-marked, but wear sturdy footwear and watch for uneven ground, roots, and slippery conditions after rain. Stay hydrated, protect yourself from sun and insects, and follow local island guidelines.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen / hat",
+      "Insect repellent",
+      "Map or offline map of Brownsea Island",
+      "Small snack"
+    ],
+    "best_seasons": "Spring and autumn for mild weather and wildlife activity; summer for long daylight; winter can be muddy and windy—wear appropriate gear.",
+    "seo": {
+      "title": "Calming Cambridge Woods Walk on Brownsea Island — 1.7 km Easy Ridge Trek",
+      "meta_description": "Explore the tranquil Calming Cambridge Woods on Brownsea Island with this easy 1.7 km ridge walk in the UK. Practical gear, safety tips, and best seasons.",
+      "h1": "Calming Cambridge Woods Walk on Brownsea Island"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13122267",
+  "slug": "red-route-13122267",
+  "name": "Red Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2257956,
+    "lon": 0.7299255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13122267
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1066531",
+  "slug": "canalside-trail-1066531",
+  "name": "Canalside Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2876208,
+    "lon": -2.8918558
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1066531
+  }
+}

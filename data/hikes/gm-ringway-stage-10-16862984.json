@@ -1,0 +1,21 @@
+{
+  "id": "osm-16862984",
+  "slug": "gm-ringway-stage-10-16862984",
+  "name": "GM Ringway Stage 10",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.600985,
+    "lon": -2.0951056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16862984
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-1721596",
+  "slug": "acw-circular-walk-19x-detour-thro-elkin-wood-1721596",
+  "name": "ACW Circular Walk 19X (detour thro' Elkin Wood)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4508333,
+    "lon": -1.5865095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1721596
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 19X is a short, easy 1 km circular stroll in the UK, featuring a detour through Elkin Wood. Designed for casual walkers and families seeking a quick woodland loop with light scenery.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with a short detour into Elkin Wood. Expect compact gravel, dirt tracks, occasional tree roots, and gentle gradients. The main route is stroller-friendly, but some sections may be uneven or muddy after rain.",
+    "safety_notes": "Check weather and daylight before you go. Stay on marked paths, and watch for cyclists and other walkers. Wear sturdy footwear and bring a light layer and water. Be mindful of damp leaves, roots, and muddy sections. Supervise children at all times and avoid touching unknown plants.",
+    "recommended_gear": [
+      "Sturdy, comfortable footwear",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Map or offline route reference / charged phone",
+      "Sun protection in sunny conditions",
+      "Small backpack for essentials"
+    ],
+    "best_seasons": "All year round, with spring and autumn offering the best woodland scenery. Summer is fine for shade and a pleasant stroll; autumn and winter require weather-ready clothing and careful footing.",
+    "seo": {
+      "title": "ACW Circular Walk 19X (Elkin Wood Detour) – 1 km Easy UK Walk",
+      "meta_description": "Discover a 1 km circular stroll in the UK with a detour through Elkin Wood. Easy terrain, family-friendly, and practical safety and gear tips for a quick woodland walk.",
+      "h1": "ACW Circular Walk 19X (Elkin Wood Detour) – 1 km Easy Walk"
+    }
+  }
+}

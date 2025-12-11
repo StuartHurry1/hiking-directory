@@ -1,0 +1,21 @@
+{
+  "id": "osm-6322236",
+  "slug": "westleigh-quarry-trail-6322236",
+  "name": "Westleigh Quarry Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9486629,
+    "lon": -3.3316022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6322236
+  }
+}

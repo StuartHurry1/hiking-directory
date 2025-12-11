@@ -1,0 +1,55 @@
+{
+  "id": "arthurs-seat-circular",
+  "slug": "arthurs-seat-circular",
+  "name": "Arthur’s Seat Circular",
+  "region": "Edinburgh",
+  "country": "Scotland",
+  "county": "City of Edinburgh",
+
+  "start": {
+    "lat": 55.9440,
+    "lon": -3.1619,
+    "nearest_postcode": "EH8 8AZ"
+  },
+  "end": {
+    "lat": 55.9440,
+    "lon": -3.1619,
+    "nearest_postcode": "EH8 8AZ"
+  },
+
+  "distance_km": 4.8,
+  "ascent_m": 210,
+  "descent_m": 210,
+  "difficulty": "easy",
+  "terrain": ["hill", "urban-nature"],
+  "features": ["panoramic-views", "summit"],
+  "theme_tags": [],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [
+      {
+        "name": "Edinburgh Waverley",
+        "distance_km": 1.3,
+        "station_code": "EDB"
+      }
+    ],
+    "nearest_bus_stops": [],
+    "access_summary": "Multiple buses run from central Edinburgh. The walk begins in Holyrood Park."
+  },
+
+  "ai": {
+    "summary": "A short but rewarding walk to the volcanic summit of Arthur’s Seat, offering sweeping views across Edinburgh and the Firth of Forth.",
+    "terrain_summary": "Good paths with occasional rocky steps. Short but steep ascent to the summit.",
+    "safety_notes": "Can be windy on top. Paths may be slippery after rain.",
+    "recommended_gear": ["comfortable shoes", "light jacket", "water bottle"],
+    "best_seasons": "Year-round, especially on clear days."
+  },
+
+  "seo": {
+    "title": "Arthur’s Seat Circular Walk – Best Views in Edinburgh",
+    "meta_description": "A short and popular 4.8 km walk to Arthur’s Seat with stunning city views. Perfect for beginners and visitors.",
+    "h1": "Arthur’s Seat Circular"
+  }
+}

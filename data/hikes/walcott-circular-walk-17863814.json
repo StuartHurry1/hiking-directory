@@ -1,0 +1,21 @@
+{
+  "id": "osm-17863814",
+  "slug": "walcott-circular-walk-17863814",
+  "name": "Walcott Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8220183,
+    "lon": 1.5374358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17863814
+  }
+}

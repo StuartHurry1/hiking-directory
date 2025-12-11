@@ -1,0 +1,39 @@
+{
+  "id": "osm-11480248",
+  "slug": "burn-of-geosetter-11480248",
+  "name": "Burn of Geosetter",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9638658,
+    "lon": -1.3192576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480248
+  },
+  "ai": {
+    "summary": "A tiny, easy riverside stroll in the United Kingdom. Burn of Geosetter covers just 0.1 km along a calm burn, making it ideal for a quick, family-friendly outing with minimal effort and serene scenery.",
+    "terrain_summary": "Flat to gently uneven path along the edge of a small burn. Expect packed earth with damp patches, and occasional roots or rocks; near-water sections can be slippery after rain.",
+    "safety_notes": "Even on very short walks, watch your footing on damp ground and near the water. Keep children within arm's reach and avoid getting close to the burn's edge. Check the forecast, as UK weather can change quickly, and mobile reception may be patchy in rural areas. Carry a basic means of communication and tell someone your plan.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Light rain jacket",
+      "Water bottle",
+      "Hat and sunscreen (seasonal)",
+      "Phone or map for safety and updates"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering particularly pleasant conditions; be prepared for rain in any season.",
+    "seo": {
+      "title": "Burn of Geosetter – Quick 0.1 km Easy UK Riverside Hike",
+      "meta_description": "Explore Burn of Geosetter, a 0.1 km easy trail in the United Kingdom. A brief riverside stroll with safety tips and gear for a quick outdoor outing.",
+      "h1": "Burn of Geosetter: A 0.1 km Easy UK Riverside Hike"
+    }
+  }
+}

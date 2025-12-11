@@ -1,0 +1,23 @@
+{
+  "id": "osm-9392170",
+  "slug": "waldridge-fell-country-park-easy-access-route-9392170",
+  "name": "Waldridge Fell Country Park: Easy Access Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8408736,
+    "lon": -1.6142835
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9392170
+  }
+}

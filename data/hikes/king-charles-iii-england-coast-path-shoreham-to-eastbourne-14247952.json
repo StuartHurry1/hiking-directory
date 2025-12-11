@@ -1,0 +1,23 @@
+{
+  "id": "osm-14247952",
+  "slug": "king-charles-iii-england-coast-path-shoreham-to-eastbourne-14247952",
+  "name": "King Charles III England Coast Path: Shoreham to Eastbourne",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 107.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8316901,
+    "lon": -0.2746008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14247952
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-297177",
+  "slug": "nickey-line-297177",
+  "name": "Nickey Line",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8236741,
+    "lon": -0.3560968
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 297177
+  }
+}

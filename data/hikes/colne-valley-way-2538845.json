@@ -1,0 +1,21 @@
+{
+  "id": "osm-2538845",
+  "slug": "colne-valley-way-2538845",
+  "name": "Colne Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4355687,
+    "lon": -0.5220699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2538845
+  }
+}

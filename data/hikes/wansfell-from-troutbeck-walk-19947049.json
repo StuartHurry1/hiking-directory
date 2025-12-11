@@ -1,0 +1,21 @@
+{
+  "id": "osm-19947049",
+  "slug": "wansfell-from-troutbeck-walk-19947049",
+  "name": "Wansfell from Troutbeck Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4173003,
+    "lon": -2.9055298
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19947049
+  }
+}

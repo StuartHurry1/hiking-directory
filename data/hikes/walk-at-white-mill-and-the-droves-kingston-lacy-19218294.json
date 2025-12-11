@@ -1,0 +1,21 @@
+{
+  "id": "osm-19218294",
+  "slug": "walk-at-white-mill-and-the-droves-kingston-lacy-19218294",
+  "name": "Walk at White Mill and the Droves, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8055266,
+    "lon": -2.0609564
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19218294
+  }
+}

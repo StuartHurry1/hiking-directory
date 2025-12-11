@@ -1,0 +1,21 @@
+{
+  "id": "osm-70088",
+  "slug": "shere-parish-millennium-trail-70088",
+  "name": "Shere Parish Millennium Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2183968,
+    "lon": -0.4687819
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 70088
+  }
+}

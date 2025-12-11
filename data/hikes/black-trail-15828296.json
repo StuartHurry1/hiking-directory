@@ -1,0 +1,43 @@
+{
+  "id": "osm-15828296",
+  "slug": "black-trail-15828296",
+  "name": "Black Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.294654,
+    "lon": 1.0419974
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15828296
+  },
+  "ai": {
+    "summary": "Black Trail is a moderate-length hike in the UK, about 12.9 km, featuring varied terrain and gentle elevation. Suitable for walkers with some experience and a steady pace; plan for several hours on the trail.",
+    "terrain_summary": "The route combines woodland paths, grassy verges, and occasional rocky or muddy sections. Ground can be uneven with moderate elevation changes and occasional exposed or boggy patches, especially after rain.",
+    "safety_notes": "Plan for changing weather and varying trail conditions. Stay on marked paths, carry a map or GPS, and let someone know your plans. Wear sturdy boots and bring warm layers, a waterproof outer layer, sufficient water, snacks, and a basic first aid kit. In dim light, bring a headlamp or flashlight; phone with emergency numbers can be useful.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Waterproof jacket and warm layers",
+      "Trail-appropriate clothing (moisture-wicking base layer)",
+      "Map and compass or GPS device",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Headlamp or flashlight (for extended plans)"
+    ],
+    "best_seasons": "Spring to autumn are generally best for this hike in the UK; winter hikes can be muddy and weather-dependent with shorter daylight.",
+    "seo": {
+      "title": "Black Trail – 12.9 km Moderate Hike in the UK",
+      "meta_description": "Explore Black Trail, a 12.9 km moderate hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons.",
+      "h1": "Black Trail: 12.9 km Moderate UK Hike"
+    }
+  }
+}

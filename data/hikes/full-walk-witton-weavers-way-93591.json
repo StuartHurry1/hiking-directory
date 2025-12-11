@@ -1,0 +1,21 @@
+{
+  "id": "osm-93591",
+  "slug": "full-walk-witton-weavers-way-93591",
+  "name": "Full walk - Witton Weavers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7424075,
+    "lon": -2.5646594
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 93591
+  }
+}

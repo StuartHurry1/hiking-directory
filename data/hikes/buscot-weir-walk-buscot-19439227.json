@@ -1,0 +1,41 @@
+{
+  "id": "osm-19439227",
+  "slug": "buscot-weir-walk-buscot-19439227",
+  "name": "Buscot Weir Walk, Buscot",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6774431,
+    "lon": -1.6675936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19439227
+  },
+  "ai": {
+    "summary": "A short, easy riverside stroll on a 1.9 km loop around Buscot Weir, suitable for families and casual walkers. The route follows flat, well-maintained paths along the River Thames with gentle scenery and opportunities to spot wildlife.",
+    "terrain_summary": "Mostly flat, well-maintained paths with a mix of gravel and tarmac. Some packed earth sections and a few boardwalks near the water; possible mud after rain and uneven surfaces in shaded areas.",
+    "safety_notes": "Stay on marked paths, especially near the water. Watch for uneven surfaces and slippery boards after rain. Supervise children and pets. Check weather conditions before you go; riverside sections can be exposed. Take care when crossing quiet rural paths and respect private land.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Water bottle and a small snack",
+      "Sunscreen, hat, and sunglasses",
+      "Map or offline navigation (or smartphone with GPS)",
+      "Small backpack for essentials",
+      "Basic first-aid kit and whistle"
+    ],
+    "best_seasons": "All year, with the best experiences in spring, summer, and autumn when days are longer and riverside scenery is at its best.",
+    "seo": {
+      "title": "Buscot Weir Walk – Easy 1.9km Riverside Walk in the UK",
+      "meta_description": "Explore the Buscot Weir Walk, a short and easy 1.9 km riverside circuit near Buscot. Ideal for families and casual walkers, with flat paths along the River Thames and peaceful countryside scenery.",
+      "h1": "Buscot Weir Walk – Easy 1.9km Riverside Route"
+    }
+  }
+}

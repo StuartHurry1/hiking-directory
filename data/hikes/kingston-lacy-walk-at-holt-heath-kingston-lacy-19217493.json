@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217493",
+  "slug": "kingston-lacy-walk-at-holt-heath-kingston-lacy-19217493",
+  "name": "Kingston Lacy walk at Holt Heath, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.838255,
+    "lon": -1.9163677
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217493
+  }
+}

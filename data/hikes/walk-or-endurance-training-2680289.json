@@ -1,0 +1,21 @@
+{
+  "id": "osm-2680289",
+  "slug": "walk-or-endurance-training-2680289",
+  "name": "walk or endurance training",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8048373,
+    "lon": -3.9220538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2680289
+  }
+}

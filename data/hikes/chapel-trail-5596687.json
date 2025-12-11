@@ -1,0 +1,21 @@
+{
+  "id": "osm-5596687",
+  "slug": "chapel-trail-5596687",
+  "name": "Chapel Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0526328,
+    "lon": -2.8595711
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5596687
+  }
+}

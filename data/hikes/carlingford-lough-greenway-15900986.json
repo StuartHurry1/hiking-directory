@@ -1,0 +1,21 @@
+{
+  "id": "osm-15900986",
+  "slug": "carlingford-lough-greenway-15900986",
+  "name": "Carlingford Lough Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1710537,
+    "lon": -6.3391262
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15900986
+  }
+}

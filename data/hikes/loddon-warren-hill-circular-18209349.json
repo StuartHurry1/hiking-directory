@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209349",
+  "slug": "loddon-warren-hill-circular-18209349",
+  "name": "Loddon (Warren Hill) Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5349619,
+    "lon": 1.4815567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209349
+  }
+}

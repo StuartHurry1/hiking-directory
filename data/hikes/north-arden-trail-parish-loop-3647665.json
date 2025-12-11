@@ -1,0 +1,21 @@
+{
+  "id": "osm-3647665",
+  "slug": "north-arden-trail-parish-loop-3647665",
+  "name": "North Arden Trail - Parish Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5464667,
+    "lon": -1.5333102
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3647665
+  }
+}

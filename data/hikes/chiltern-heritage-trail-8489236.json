@@ -1,0 +1,21 @@
+{
+  "id": "osm-8489236",
+  "slug": "chiltern-heritage-trail-8489236",
+  "name": "Chiltern Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 288.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6451344,
+    "lon": -0.5352366
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8489236
+  }
+}

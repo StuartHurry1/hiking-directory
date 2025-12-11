@@ -1,0 +1,21 @@
+{
+  "id": "osm-4764970",
+  "slug": "round-yatton-walk-4764970",
+  "name": "Round Yatton Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3926427,
+    "lon": -2.7839788
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4764970
+  }
+}

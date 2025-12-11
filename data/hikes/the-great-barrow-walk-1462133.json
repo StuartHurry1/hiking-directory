@@ -1,0 +1,21 @@
+{
+  "id": "osm-1462133",
+  "slug": "the-great-barrow-walk-1462133",
+  "name": "The Great Barrow Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3290152,
+    "lon": 0.5953706
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1462133
+  }
+}

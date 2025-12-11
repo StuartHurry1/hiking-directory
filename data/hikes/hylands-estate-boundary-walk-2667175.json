@@ -1,0 +1,21 @@
+{
+  "id": "osm-2667175",
+  "slug": "hylands-estate-boundary-walk-2667175",
+  "name": "Hylands Estate Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7172215,
+    "lon": 0.429675
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2667175
+  }
+}

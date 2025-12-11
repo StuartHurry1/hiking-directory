@@ -1,0 +1,41 @@
+{
+  "id": "osm-9495896",
+  "slug": "bluebell-trail-9495896",
+  "name": "Bluebell Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5647813,
+    "lon": -0.3072206
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9495896
+  },
+  "ai": {
+    "summary": "Bluebell Trail is an easy 5.7 km hike in the UK, ideal for families and beginners. The route features gentle terrain, woodland scenery, and seasonal bluebells, with a straightforward loop that returns to the start on well-maintained paths.",
+    "terrain_summary": "Predominantly well-maintained footpaths with grassy and compact soil. Expect occasional uneven patches and short muddy sections after rain; gentle gradients for most of the route.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear with good grip. Stay on marked paths and follow signs. Bring a map or GPS and ensure your phone is charged. Pack water and a light layer; in spring, conditions can be cool and damp. Inform someone of your plan and expected return time. Be cautious of other trail users, roots, loose stones, and muddy patches.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Map or GPS device",
+      "Phone with offline map or charged battery",
+      "Trail snacks",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring (April–May) is ideal for bluebell viewing; mild conditions also common in late spring and early autumn.",
+    "seo": {
+      "title": "Bluebell Trail – Easy 5.7 km Hike in the UK",
+      "meta_description": "Discover the Bluebell Trail, an easy 5.7 km hike in the UK. Gentle terrain through woodland with seasonal bluebells. Safety tips and gear included.",
+      "h1": "Bluebell Trail – Easy 5.7 km Hike in the UK"
+    }
+  }
+}

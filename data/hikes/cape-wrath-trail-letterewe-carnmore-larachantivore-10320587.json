@@ -1,0 +1,21 @@
+{
+  "id": "osm-10320587",
+  "slug": "cape-wrath-trail-letterewe-carnmore-larachantivore-10320587",
+  "name": "Cape Wrath Trail (Letterewe - Carnmore - Larachantivore)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6087907,
+    "lon": -5.2940618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10320587
+  }
+}

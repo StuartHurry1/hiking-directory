@@ -1,0 +1,21 @@
+{
+  "id": "osm-1273060",
+  "slug": "strood-community-trail-1273060",
+  "name": "Strood Community Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3941977,
+    "lon": 0.4571995
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1273060
+  }
+}

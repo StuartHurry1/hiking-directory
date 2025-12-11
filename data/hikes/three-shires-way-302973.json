@@ -1,0 +1,21 @@
+{
+  "id": "osm-302973",
+  "slug": "three-shires-way-302973",
+  "name": "Three Shires Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 138.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1071064,
+    "lon": -0.7901439
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 302973
+  }
+}

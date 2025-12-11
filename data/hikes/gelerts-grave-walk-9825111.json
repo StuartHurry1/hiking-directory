@@ -1,0 +1,21 @@
+{
+  "id": "osm-9825111",
+  "slug": "gelerts-grave-walk-9825111",
+  "name": "Gelert's grave walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0087218,
+    "lon": -4.102274
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9825111
+  }
+}

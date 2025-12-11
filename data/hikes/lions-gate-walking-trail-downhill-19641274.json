@@ -1,0 +1,21 @@
+{
+  "id": "osm-19641274",
+  "slug": "lions-gate-walking-trail-downhill-19641274",
+  "name": "Lion's Gate Walking Trail, Downhill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1630533,
+    "lon": -6.8140488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19641274
+  }
+}

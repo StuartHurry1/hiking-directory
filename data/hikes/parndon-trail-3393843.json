@@ -1,0 +1,21 @@
+{
+  "id": "osm-3393843",
+  "slug": "parndon-trail-3393843",
+  "name": "Parndon Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7797906,
+    "lon": 0.0815766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3393843
+  }
+}

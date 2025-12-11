@@ -1,0 +1,21 @@
+{
+  "id": "osm-240521",
+  "slug": "wroughton-timberland-trail-240521",
+  "name": "Wroughton Timberland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5295508,
+    "lon": -1.792357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 240521
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18581753",
+  "slug": "manchester-green-trail-14-18581753",
+  "name": "Manchester Green Trail 14",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4105212,
+    "lon": -2.2302904
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18581753
+  }
+}

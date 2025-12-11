@@ -1,0 +1,21 @@
+{
+  "id": "osm-15480617",
+  "slug": "crabapple-trail-15480617",
+  "name": "Crabapple Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1395938,
+    "lon": -2.0058822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15480617
+  }
+}

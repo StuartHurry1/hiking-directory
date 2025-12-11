@@ -1,0 +1,21 @@
+{
+  "id": "osm-392999",
+  "slug": "red-circular-walk-392999",
+  "name": "Red Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4034963,
+    "lon": 0.4153791
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 392999
+  }
+}

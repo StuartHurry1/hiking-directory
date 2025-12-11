@@ -1,0 +1,21 @@
+{
+  "id": "osm-9802443",
+  "slug": "garden-trail-9802443",
+  "name": "Garden Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8885073,
+    "lon": -5.8448142
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9802443
+  }
+}

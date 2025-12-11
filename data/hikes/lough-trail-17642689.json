@@ -1,0 +1,21 @@
+{
+  "id": "osm-17642689",
+  "slug": "lough-trail-17642689",
+  "name": "Lough Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6021091,
+    "lon": -6.0319328
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17642689
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16405952",
+  "slug": "purple-trail-16405952",
+  "name": "Purple Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6183651,
+    "lon": 1.2352303
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16405952
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19361408",
+  "slug": "the-trwyn-cemlyn-walk-on-anglesey-19361408",
+  "name": "The Trwyn Cemlyn walk on Anglesey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4121987,
+    "lon": -4.5156115
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19361408
+  }
+}

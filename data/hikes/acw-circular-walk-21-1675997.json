@@ -1,0 +1,44 @@
+{
+  "id": "osm-1675997",
+  "slug": "acw-circular-walk-21-1675997",
+  "name": "ACW Circular Walk 21",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4357028,
+    "lon": -1.6312284
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1675997
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 21 is a 9.5 km circular hike in the United Kingdom with moderate difficulty. The route loops through countryside and returns to the start; the specific region is not stated.",
+    "terrain_summary": "The walk features a mix of rural tracks, grassy lanes, and occasional gravel paths. Expect uneven footing, short climbs, stiles, gates, and potential mud after rain. Have appropriate footwear and be prepared for changing UK weather.",
+    "safety_notes": "Plan around daylight and weather conditions; wear sturdy, waterproof footwear; carry water and snacks; bring a map or GPS and know your route; stay on marked paths; inform someone of your plan and expected return; watch for livestock and slow weather changes; adjust plans for mud, ice, or heavy rain.",
+    "recommended_gear": [
+      "Sturdy walking boots with good traction",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass or GPS device",
+      "Small daypack for essentials",
+      "Snack or energy bars",
+      "Sun protection (hat and sunscreen)",
+      "Light first aid kit",
+      "Phone with charged battery and power bank",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are best; winter is possible with proper gear and daylight considerations.",
+    "seo": {
+      "title": "ACW Circular Walk 21 – 9.5 km Moderate Hike in the UK (Region Unknown)",
+      "meta_description": "Explore ACW Circular Walk 21, a 9.5 km moderate circular hike in the United Kingdom (region unspecified). Learn about terrain, safety tips, gear, and the best seasons to hike.",
+      "h1": "ACW Circular Walk 21 – 9.5 km Moderate Hike (UK, Region Unknown)"
+    }
+  }
+}

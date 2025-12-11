@@ -1,0 +1,21 @@
+{
+  "id": "osm-19280414",
+  "slug": "rocky-valley-walk-north-cornwall-19280414",
+  "name": "Rocky Valley walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6692072,
+    "lon": -4.7293871
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19280414
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-19666918",
+  "slug": "birling-gap-from-the-tiger-inn-south-downs-east-19666918",
+  "name": "Birling Gap from the Tiger Inn, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7433063,
+    "lon": 0.2016967
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19666918
+  },
+  "ai": {
+    "summary": "A 10.3 km coastal hike from the Tiger Inn to Birling Gap along the South Downs East. Expect sea views, chalk cliffs, and a mix of grassy paths with some exposed cliff-top sections, typically at a moderate pace (roughly 3–4 hours).",
+    "terrain_summary": "Mostly well-defined paths on chalk and flint, with grassy trods and some steep descents/ascents near the coastline. Expect uneven surfaces and potential slipperiness after rain; stay on official paths and be mindful near cliff edges.",
+    "safety_notes": "Stay away from unstable cliff edges and keep to marked trails. Weather along the coast can change quickly, so carry layers and a waterproof. Wear sturdy footwear, bring water, and check tide times if you plan to explore near Birling Gap. Inform someone of your route and avoid solo travel in poor conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      " Waterproof and windproof layered clothing",
+      "Hat, sunscreen, and sunglasses",
+      "Water bottle and energy snacks",
+      "Map or GPS device and charged phone",
+      "Lightweight emergency rain cover or blanket",
+      "Optional walking poles"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Birling Gap from the Tiger Inn – South Downs East Coastal Hike (10.3 km)",
+      "meta_description": "Discover the 10.3 km coastal hike from the Tiger Inn to Birling Gap along the South Downs East. A moderate route with stunning sea views, chalk cliffs, and coastal paths.",
+      "h1": "Birling Gap from the Tiger Inn, South Downs East (10.3 km)"
+    }
+  }
+}

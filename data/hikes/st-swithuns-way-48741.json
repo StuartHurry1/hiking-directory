@@ -1,0 +1,21 @@
+{
+  "id": "osm-48741",
+  "slug": "st-swithuns-way-48741",
+  "name": "St Swithun's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 100.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0627339,
+    "lon": -1.3144292
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 48741
+  }
+}

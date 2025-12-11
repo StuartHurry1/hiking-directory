@@ -1,0 +1,21 @@
+{
+  "id": "osm-15539450",
+  "slug": "scotch-rock-pad-15539450",
+  "name": "Scotch Rock Pad",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3178036,
+    "lon": -6.0627108
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15539450
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17410251",
+  "slug": "chacewater-trail-1-the-main-settlement-loop-17410251",
+  "name": "Chacewater Trail 1 - The Main Settlement Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2564425,
+    "lon": -5.1564346
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17410251
+  }
+}

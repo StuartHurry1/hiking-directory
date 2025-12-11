@@ -1,0 +1,21 @@
+{
+  "id": "osm-19294594",
+  "slug": "moorland-walk-19294594",
+  "name": "Moorland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19294594
+  }
+}

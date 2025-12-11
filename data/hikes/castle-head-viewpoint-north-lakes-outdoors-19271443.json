@@ -1,0 +1,23 @@
+{
+  "id": "osm-19271443",
+  "slug": "castle-head-viewpoint-north-lakes-outdoors-19271443",
+  "name": "Castle Head Viewpoint, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5958798,
+    "lon": -3.1394103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19271443
+  }
+}

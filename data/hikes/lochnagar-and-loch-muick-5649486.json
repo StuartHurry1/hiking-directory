@@ -1,0 +1,21 @@
+{
+  "id": "osm-5649486",
+  "slug": "lochnagar-and-loch-muick-5649486",
+  "name": "Lochnagar & Loch Muick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9524269,
+    "lon": -3.1367167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5649486
+  }
+}

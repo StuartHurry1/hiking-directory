@@ -1,0 +1,21 @@
+{
+  "id": "osm-2164034",
+  "slug": "silurian-way-2164034",
+  "name": "Silurian Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3118151,
+    "lon": -3.016441
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2164034
+  }
+}

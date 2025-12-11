@@ -1,0 +1,21 @@
+{
+  "id": "osm-9927235",
+  "slug": "national-nature-reserve-trail-9927235",
+  "name": "National Nature Reserve Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3385337,
+    "lon": -5.5017634
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9927235
+  }
+}

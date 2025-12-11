@@ -1,0 +1,40 @@
+{
+  "id": "osm-11507996",
+  "slug": "brunatwatt-11507996",
+  "name": "Brunatwatt",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2468294,
+    "lon": -1.5493083
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507996
+  },
+  "ai": {
+    "summary": "Brunatwatt is a short, easy 1 km hike in the UK designed for casual walkers. It offers a quick outdoor experience with minimal elevation and straightforward paths, making it suitable for beginners and families.",
+    "terrain_summary": "Primarily a well-maintained footpath with gentle gradients. Expect a mix of gravel and compacted earth, with occasional grassy or boardwalk sections. Signs and markers are likely present; watch for uneven footing after rain.",
+    "safety_notes": "General safety: Check the forecast and daylight hours before you go. Wear sturdy, comfortable footwear and dress in layers. Stay on marked paths to protect sensitive ground and reduce the risk of getting lost. Bring water, and carry a phone with a charged battery. In remote stretches or poor visibility, let someone know your plans. Be mindful of other walkers, cyclists, and dogs. In case of emergency, dial 999 in the UK.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layering) and a waterproof jacket",
+      "Water bottle and light snacks",
+      "Hat and sunscreen for sun protection",
+      "Small backpack to carry essentials",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for Brunatwatt; the hike is generally accessible year-round with proper clothing and footwear when conditions are cold or wet.",
+    "seo": {
+      "title": "Brunatwatt: Easy 1 km Hike in the UK",
+      "meta_description": "Explore Brunatwatt, a short 1 km hike in the UK suitable for beginners. Learn about terrain, safety tips, gear, and the best seasons for this easy walk.",
+      "h1": "Brunatwatt: Easy 1 km UK Hike"
+    }
+  }
+}

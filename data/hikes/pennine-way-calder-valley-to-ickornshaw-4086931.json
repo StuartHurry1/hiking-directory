@@ -1,0 +1,21 @@
+{
+  "id": "osm-4086931",
+  "slug": "pennine-way-calder-valley-to-ickornshaw-4086931",
+  "name": "Pennine Way (Calder Valley to Ickornshaw)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.882361,
+    "lon": -2.0536154
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086931
+  }
+}

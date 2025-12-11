@@ -1,0 +1,21 @@
+{
+  "id": "osm-3343338",
+  "slug": "mid-wilts-way-3343338",
+  "name": "Mid Wilts Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 312.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0903901,
+    "lon": -2.2693125
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3343338
+  }
+}

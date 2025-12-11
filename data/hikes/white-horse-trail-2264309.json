@@ -1,0 +1,21 @@
+{
+  "id": "osm-2264309",
+  "slug": "white-horse-trail-2264309",
+  "name": "White Horse Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 547.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4148389,
+    "lon": -1.7428592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2264309
+  }
+}

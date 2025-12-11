@@ -1,0 +1,21 @@
+{
+  "id": "osm-11168932",
+  "slug": "slievenacloy-stoneyford-river-11168932",
+  "name": "Slievenacloy - Stoneyford River",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5736546,
+    "lon": -6.0679206
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11168932
+  }
+}

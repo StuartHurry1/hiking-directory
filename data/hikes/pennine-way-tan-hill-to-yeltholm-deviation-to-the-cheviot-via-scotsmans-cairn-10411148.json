@@ -1,0 +1,21 @@
+{
+  "id": "osm-10411148",
+  "slug": "pennine-way-tan-hill-to-yeltholm-deviation-to-the-cheviot-via-scotsmans-cairn-10411148",
+  "name": "Pennine Way (Tan Hill to Yeltholm) - deviation to The Cheviot via Scotsman's Cairn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4700322,
+    "lon": -2.1536576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10411148
+  }
+}

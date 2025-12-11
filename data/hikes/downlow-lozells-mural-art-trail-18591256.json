@@ -1,0 +1,21 @@
+{
+  "id": "osm-18591256",
+  "slug": "downlow-lozells-mural-art-trail-18591256",
+  "name": "Downlow: Lozells Mural Art Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4992245,
+    "lon": -1.9144589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18591256
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-185496",
+  "slug": "yar-river-trail-185496",
+  "name": "Yar River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6923559,
+    "lon": -1.0923519
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 185496
+  }
+}

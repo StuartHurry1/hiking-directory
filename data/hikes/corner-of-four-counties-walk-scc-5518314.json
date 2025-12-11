@@ -1,0 +1,21 @@
+{
+  "id": "osm-5518314",
+  "slug": "corner-of-four-counties-walk-scc-5518314",
+  "name": "Corner of Four Counties walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1560736,
+    "lon": 0.0256848
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5518314
+  }
+}

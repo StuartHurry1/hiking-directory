@@ -1,0 +1,21 @@
+{
+  "id": "osm-12920636",
+  "slug": "link-to-brockley-station-12920636",
+  "name": "link to Brockley station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.464239,
+    "lon": -0.0530674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12920636
+  }
+}

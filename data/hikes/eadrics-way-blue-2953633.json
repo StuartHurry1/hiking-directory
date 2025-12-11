@@ -1,0 +1,21 @@
+{
+  "id": "osm-2953633",
+  "slug": "eadrics-way-blue-2953633",
+  "name": "Eadric's Way (blue)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0358646,
+    "lon": -1.571451
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2953633
+  }
+}

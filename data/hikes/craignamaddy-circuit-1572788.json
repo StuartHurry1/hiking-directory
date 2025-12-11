@@ -1,0 +1,21 @@
+{
+  "id": "osm-1572788",
+  "slug": "craignamaddy-circuit-1572788",
+  "name": "Craignamaddy Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7510459,
+    "lon": -7.1440568
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1572788
+  }
+}

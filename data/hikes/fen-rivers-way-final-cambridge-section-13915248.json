@@ -1,0 +1,23 @@
+{
+  "id": "osm-13915248",
+  "slug": "fen-rivers-way-final-cambridge-section-13915248",
+  "name": "Fen Rivers Way (Final Cambridge section)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2091644,
+    "lon": 0.1295071
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13915248
+  }
+}

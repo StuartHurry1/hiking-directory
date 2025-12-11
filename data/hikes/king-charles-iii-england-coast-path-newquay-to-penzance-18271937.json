@@ -1,0 +1,23 @@
+{
+  "id": "osm-18271937",
+  "slug": "king-charles-iii-england-coast-path-newquay-to-penzance-18271937",
+  "name": "King Charles III England Coast Path: Newquay to Penzance",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 54.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4146911,
+    "lon": -5.0843789
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18271937
+  }
+}

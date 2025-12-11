@@ -1,0 +1,21 @@
+{
+  "id": "osm-3149262",
+  "slug": "three-choirs-way-gloucester-to-hereford-3149262",
+  "name": "Three Choirs Way (Gloucester to Hereford)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 129.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8674595,
+    "lon": -2.2475473
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3149262
+  }
+}

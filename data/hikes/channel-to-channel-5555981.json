@@ -1,0 +1,21 @@
+{
+  "id": "osm-5555981",
+  "slug": "channel-to-channel-5555981",
+  "name": "Channel to Channel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 135.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.706898,
+    "lon": -3.0841452
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5555981
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18593897",
+  "slug": "handsworth-park-arts-trail-18593897",
+  "name": "Handsworth Park Arts Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5115972,
+    "lon": -1.9221775
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18593897
+  }
+}

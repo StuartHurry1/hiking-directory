@@ -1,0 +1,21 @@
+{
+  "id": "osm-19356280",
+  "slug": "tennyson-down-trail-isle-of-wight-19356280",
+  "name": "Tennyson Down Trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6692447,
+    "lon": -1.5417619
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19356280
+  }
+}

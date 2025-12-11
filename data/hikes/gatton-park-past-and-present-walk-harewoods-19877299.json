@@ -1,0 +1,23 @@
+{
+  "id": "osm-19877299",
+  "slug": "gatton-park-past-and-present-walk-harewoods-19877299",
+  "name": "Gatton Park Past and Present Walk, Harewoods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2561968,
+    "lon": -0.1922792
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19877299
+  }
+}

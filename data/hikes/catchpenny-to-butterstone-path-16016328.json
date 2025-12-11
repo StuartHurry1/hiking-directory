@@ -1,0 +1,21 @@
+{
+  "id": "osm-16016328",
+  "slug": "catchpenny-to-butterstone-path-16016328",
+  "name": "Catchpenny to Butterstone Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5777643,
+    "lon": -3.5259137
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16016328
+  }
+}

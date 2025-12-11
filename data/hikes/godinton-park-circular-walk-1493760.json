@@ -1,0 +1,21 @@
+{
+  "id": "osm-1493760",
+  "slug": "godinton-park-circular-walk-1493760",
+  "name": "Godinton Park Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1528104,
+    "lon": 0.8362891
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1493760
+  }
+}

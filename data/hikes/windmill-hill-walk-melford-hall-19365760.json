@@ -1,0 +1,21 @@
+{
+  "id": "osm-19365760",
+  "slug": "windmill-hill-walk-melford-hall-19365760",
+  "name": "Windmill Hill Walk, Melford Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0821139,
+    "lon": 0.7016766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365760
+  }
+}

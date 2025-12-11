@@ -1,0 +1,21 @@
+{
+  "id": "osm-16379684",
+  "slug": "lodge-trail-16379684",
+  "name": "Lodge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1576792,
+    "lon": -3.6805621
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16379684
+  }
+}

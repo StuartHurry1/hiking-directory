@@ -1,0 +1,23 @@
+{
+  "id": "osm-2665201",
+  "slug": "north-down-coastal-path-2665201",
+  "name": "North Down Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6747918,
+    "lon": -5.6102387
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2665201
+  }
+}

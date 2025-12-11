@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737948",
+  "slug": "white-craigs-and-kilmagadwood-17737948",
+  "name": "White Craigs and Kilmagadwood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2051148,
+    "lon": -3.3172721
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737948
+  }
+}

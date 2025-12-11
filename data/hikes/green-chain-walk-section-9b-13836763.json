@@ -1,0 +1,21 @@
+{
+  "id": "osm-13836763",
+  "slug": "green-chain-walk-section-9b-13836763",
+  "name": "Green Chain Walk section 9B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.423117,
+    "lon": 0.036997
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13836763
+  }
+}

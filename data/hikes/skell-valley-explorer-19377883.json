@@ -1,0 +1,21 @@
+{
+  "id": "osm-19377883",
+  "slug": "skell-valley-explorer-19377883",
+  "name": "Skell Valley Explorer",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1052514,
+    "lon": -1.6233003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19377883
+  }
+}

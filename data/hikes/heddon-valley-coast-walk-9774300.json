@@ -1,0 +1,23 @@
+{
+  "id": "osm-9774300",
+  "slug": "heddon-valley-coast-walk-9774300",
+  "name": "Heddon Valley coast walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2164288,
+    "lon": -3.9270505
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9774300
+  }
+}

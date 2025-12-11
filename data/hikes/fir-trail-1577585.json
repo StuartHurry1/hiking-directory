@@ -1,0 +1,21 @@
+{
+  "id": "osm-1577585",
+  "slug": "fir-trail-1577585",
+  "name": "Fir Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4324825,
+    "lon": 0.6592022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1577585
+  }
+}

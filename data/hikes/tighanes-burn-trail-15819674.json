@@ -1,0 +1,21 @@
+{
+  "id": "osm-15819674",
+  "slug": "tighanes-burn-trail-15819674",
+  "name": "Tighanes Burn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.3220851,
+    "lon": -4.3288218
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15819674
+  }
+}

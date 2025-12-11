@@ -1,0 +1,21 @@
+{
+  "id": "osm-2170207",
+  "slug": "the-meadows-2170207",
+  "name": "The Meadows",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2434283,
+    "lon": -4.2213199
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2170207
+  }
+}

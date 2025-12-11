@@ -1,0 +1,44 @@
+{
+  "id": "osm-2856820",
+  "slug": "bridleway-v29-2856820",
+  "name": "Bridleway V29",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5571714,
+    "lon": -1.2789759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2856820
+  },
+  "ai": {
+    "summary": "Bridleway V29 is a 9.4 km moderate hike in the UK, suitable for walkers seeking a steady day on a mix of rural paths. It avoids technical sections and is accessible to most fit walkers.",
+    "terrain_summary": "The route follows a well-trodden bridleway with occasional field edges and stiles. Expect mixed surfaces: compact gravel, grassy track, and potential mud after rain. Elevation changes are moderate, with gentle ascents and descents throughout.",
+    "safety_notes": "Plan for UK weather: check forecast and daylight hours. Wear sturdy boots and bring a waterproof outer layer, plus enough water and snacks. Carry a map or GPS and inform someone of your plans. In rural sections, livestock may be present; stay on marked paths and be cautious of uneven or slippery ground, especially after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water",
+      "Waterproof jacket",
+      "Layered clothing",
+      "Hat and sun protection",
+      "Map or GPS device",
+      "Small first aid kit",
+      "Phone charger/power bank",
+      "Snack",
+      "Head torch (for short days)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Bridleway V29 – 9.4 km Moderate Hike in the UK",
+      "meta_description": "Discover Bridleway V29, a 9.4 km moderate hike in the UK. Learn terrain, safety tips, and gear to plan your day.",
+      "h1": "Bridleway V29 – 9.4 km Moderate Hike (UK)"
+    }
+  }
+}

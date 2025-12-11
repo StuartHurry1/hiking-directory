@@ -1,0 +1,21 @@
+{
+  "id": "osm-1880252",
+  "slug": "leicestershire-round-1880252",
+  "name": "Leicestershire Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 885.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6659451,
+    "lon": -1.4218591
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1880252
+  }
+}

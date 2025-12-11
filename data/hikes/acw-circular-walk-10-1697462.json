@@ -1,0 +1,44 @@
+{
+  "id": "osm-1697462",
+  "slug": "acw-circular-walk-10-1697462",
+  "name": "ACW Circular Walk 10",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3755127,
+    "lon": -1.3795725
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1697462
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 10 is a demanding 23.2 km loop in the UK designed for experienced hikers. The route starts and finishes at the same point, weaving across varied countryside with persistent gradients, long ascents, and exposed sections. Expect a mix of grassy fields, woodland, moorland, and occasional rocky or uneven tracks, with boggy patches after rain. A full-day outing is typical, and navigational ease varies with weather and terrain.",
+    "terrain_summary": "Varied terrain including grassy field margins, well-marked paths, muddy sections, uneven rocky tracks, and heath or moorland crossings. Expect long climbs, steep descents, and possible boggy or squishy surface after rain. Weather can change rapidly in the UK, so be prepared for mud, wind exposure on higher ground, and reduced visibility at times.",
+    "safety_notes": "Plan for a long day (6–9+ hours depending on pace). Check the forecast and daylight hours before starting. Carry ample water and high-energy food, a first aid kit, and a fully charged phone with offline maps. Wear sturdy, waterproof footwear and layered clothing with a windproof shell. Bring map and compass or a reliable GPS, plus a whistle and emergency blanket. Inform someone of your planned start and finish times. If visibility is poor or conditions are treacherous, consider postponing or shortening the route. Be prepared for sudden changes in weather and possible navigation challenges in exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes with good grip",
+      "Waterproof jacket and waterproof trousers",
+      "Layered clothing suitable for variable UK weather",
+      "Map and compass or GPS device with offline maps",
+      "Fully charged phone and portable power bank",
+      "Water (2–3 liters) and high-energy snacks",
+      "First aid kit and blister care supplies",
+      "Emergency whistle and reflective emergency blanket",
+      "Headwear (cap or beanie) and sun protection",
+      "Optional gaiters for mud and boggy sections"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (roughly March to October) are ideal due to longer daylight and milder conditions. In winter, the hike is still possible for experienced walkers but requires careful planning, shorter daylight windows, and readiness for cold, wind, and slippery surfaces.",
+    "seo": {
+      "title": "ACW Circular Walk 10 – 23.2 km Hard UK Hike",
+      "meta_description": "Discover ACW Circular Walk 10, a challenging 23.2 km loop in the UK. Learn terrain details, safety tips, gear recommendations, and the best seasons for this hard hike.",
+      "h1": "ACW Circular Walk 10: 23.2 km Hard UK Loop"
+    }
+  }
+}

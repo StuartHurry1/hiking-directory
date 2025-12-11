@@ -1,0 +1,21 @@
+{
+  "id": "osm-15955631",
+  "slug": "south-swindon-green-trail-15955631",
+  "name": "South Swindon Green Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5622177,
+    "lon": -1.7807854
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15955631
+  }
+}

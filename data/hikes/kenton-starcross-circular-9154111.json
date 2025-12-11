@@ -1,0 +1,21 @@
+{
+  "id": "osm-9154111",
+  "slug": "kenton-starcross-circular-9154111",
+  "name": "Kenton Starcross Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6371705,
+    "lon": -3.4672102
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9154111
+  }
+}

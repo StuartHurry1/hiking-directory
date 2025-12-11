@@ -1,0 +1,21 @@
+{
+  "id": "osm-18205637",
+  "slug": "two-rivers-walk-18205637",
+  "name": "Two Rivers Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.667508,
+    "lon": -0.6147623
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18205637
+  }
+}

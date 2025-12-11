@@ -1,0 +1,21 @@
+{
+  "id": "osm-13974581",
+  "slug": "diamond-jubilee-way-13974581",
+  "name": "Diamond Jubilee Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3418372,
+    "lon": -3.5660043
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13974581
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "osm-337048",
+  "slug": "angles-way-337048",
+  "name": "Angles Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 385.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6116725,
+    "lon": 1.7216572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 337048
+  },
+  "ai": {
+    "summary": "Angles Way is a hard, long-distance hike in the UK, covering approximately 385.5 km. It traverses varied terrain and remote countryside, demanding endurance, careful planning, and solid navigation. This guide summarizes terrain, safety considerations, gear, best seasons, and SEO-ready details.",
+    "terrain_summary": "Expect a mix of surface types including quiet lanes, farmland, river valleys, woodland trails, and occasional coastal or marshy sections. The route includes gates and stiles, with some longer road sections and potentially boggy ground after rain. Services and resupply points may be sparse in remote stretches, so plan ahead.",
+    "safety_notes": "This is a hard route requiring good fitness, prior long-distance experience, and careful pacing. Carry a detailed map and compass and don’t rely solely on electronics; have backups. Check weather forecasts; coastal and open sections can be exposed, so bring windproof and waterproof layers. Plan stages with realistic daily distances and have contingency plans for late finishes or navigation errors. Tell someone your itinerary and expected finish times; consider a personal locator beacon or satellite messenger in remote areas. Bring enough water and food, practice foot care, and inspect boots for blisters; treat them promptly. Be mindful of tides and coastal hazards where that applies. Respect landowners and stay on marked paths.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable jacket and pants",
+      "Layered clothing for warmth",
+      "Hat, gloves, and sun protection",
+      "Map and compass (and/or GPS) with backups",
+      "Fully charged phone with offline maps",
+      "Water bottles or hydration system with at least 2-3 liters capacity",
+      "Water purification method (filters or purification tablets)",
+      "High-energy food and snacks",
+      "First aid kit including blister care",
+      "Trekking poles",
+      "Headlamp with extra batteries",
+      "Emergency shelter (bivvy or ultralight tent)",
+      "Whistle and personal locator beacon or satellite messenger",
+      "Sunscreen and sunglasses",
+      "Multi-tool or knife",
+      "Dry bags or waterproof sacks for gear"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best weather and daylight for a 385.5 km hike; winter travel is possible with extra planning and longer days, but conditions are more challenging.",
+    "seo": {
+      "title": "Angles Way: 385.5 km UK Long-Distance Hike – Guide, Gear & Safety",
+      "meta_description": "Plan your 385.5 km journey along Angles Way in the UK. Discover terrain, safety tips, best seasons, and gear for tackling this hard-distance trail.",
+      "h1": "Angles Way — 385.5 km UK Long-Distance Hike"
+    }
+  }
+}

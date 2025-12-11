@@ -1,0 +1,21 @@
+{
+  "id": "osm-16172994",
+  "slug": "temptation-hill-agus-dun-bhorghadail-temptation-hill-and-dun-borodale-16172994",
+  "name": "Temptation Hill agus Dùn Bhorghadail / Temptation Hill and Dun Borodale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3553185,
+    "lon": -6.0806551
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16172994
+  }
+}

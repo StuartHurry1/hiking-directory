@@ -1,0 +1,21 @@
+{
+  "id": "osm-17749410",
+  "slug": "overstrand-circular-walk-17749410",
+  "name": "Overstrand Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9023068,
+    "lon": 1.3365263
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17749410
+  }
+}

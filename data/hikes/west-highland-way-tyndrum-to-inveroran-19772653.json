@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772653",
+  "slug": "west-highland-way-tyndrum-to-inveroran-19772653",
+  "name": "West Highland Way (Tyndrum to Inveroran)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4399759,
+    "lon": -4.712101
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772653
+  }
+}

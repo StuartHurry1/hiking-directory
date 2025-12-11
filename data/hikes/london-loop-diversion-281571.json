@@ -1,0 +1,21 @@
+{
+  "id": "osm-281571",
+  "slug": "london-loop-diversion-281571",
+  "name": "London Loop Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3223451,
+    "lon": -0.1403595
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 281571
+  }
+}

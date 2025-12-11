@@ -1,0 +1,21 @@
+{
+  "id": "osm-410689",
+  "slug": "heathland-hike-hindhead-410689",
+  "name": "Heathland Hike, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1533717,
+    "lon": -0.679674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 410689
+  }
+}

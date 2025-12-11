@@ -1,0 +1,21 @@
+{
+  "id": "osm-19366870",
+  "slug": "mottistone-trial-mottistone-19366870",
+  "name": "Mottistone Trial, Mottistone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6476371,
+    "lon": -1.4341772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19366870
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19682372",
+  "slug": "woodpecker-trail-19682372",
+  "name": "Woodpecker Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9360507,
+    "lon": -4.0465867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19682372
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19567710",
+  "slug": "old-harry-rocks-walk-studland-19567710",
+  "name": "Old Harry Rocks walk, Studland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6425138,
+    "lon": -1.9488379
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567710
+  }
+}

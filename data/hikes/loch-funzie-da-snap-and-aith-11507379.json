@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507379",
+  "slug": "loch-funzie-da-snap-and-aith-11507379",
+  "name": "Loch Funzie, Da Snap and Aith",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.588499,
+    "lon": -0.8300169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507379
+  }
+}

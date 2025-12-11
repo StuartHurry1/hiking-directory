@@ -1,0 +1,21 @@
+{
+  "id": "osm-19754790",
+  "slug": "reebed-ramble-19754790",
+  "name": "Reebed Ramble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3357529,
+    "lon": 1.6438056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19754790
+  }
+}

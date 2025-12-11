@@ -1,0 +1,21 @@
+{
+  "id": "osm-16892525",
+  "slug": "windmill-hill-trail-16892525",
+  "name": "Windmill Hill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4019857,
+    "lon": -5.8871749
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16892525
+  }
+}

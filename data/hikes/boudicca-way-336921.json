@@ -1,0 +1,51 @@
+{
+  "id": "osm-336921",
+  "slug": "boudicca-way-336921",
+  "name": "Boudicca Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 232.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.513399,
+    "lon": 1.251424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 336921
+  },
+  "ai": {
+    "summary": "The Boudicca Way is a hard, long-distance UK trail covering about 232.7 km. It weaves through varied countryside, including rural lanes, hedgerow footpaths, and occasional woodland tracks, demanding substantial daily distances, solid navigation, and strong endurance.",
+    "terrain_summary": "Expect a varied mix of surfaces: well-maintained footpaths, field margins, forest tracks, and occasional muddy or uneven sections. The route features rolling hills and exposed sections, with weather demanding readiness for wind and rain.",
+    "safety_notes": "Plan for multi-day trekking with flexible itineraries; carry a map and compass or GPS, and know how to use them. Check weather forecasts and daylight hours, inform someone of your route, carry sufficient water and food, and have a means of emergency contact. In the UK, dial 999 for emergencies. Be prepared for muddy terrain, navigation challenges in rural areas, and varying weather; consider tent or bivouac gear if wild camping is allowed along the route and follow local regs.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Layered clothing with a waterproof shell",
+      "Rucksack with rain cover",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency bivy or lightweight shelter",
+      "First aid kit tailored for multi-day hikes",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Whistle",
+      "Phone with offline maps",
+      "Lightweight sleeping system or tent (if camping is permitted)",
+      "Trekking poles (optional)",
+      "Blister care kit",
+      "Dry bags or zip-locks for electronics"
+    ],
+    "best_seasons": "Spring to autumn are best for visibility and daylight. Late spring (April–June) and early autumn (September–October) offer mild weather, while summer provides the most daylight but can bring variable conditions; winter hiking is possible only with substantial gear and shorter daylight.",
+    "seo": {
+      "title": "Boudicca Way: UK 232.7 km Hard-Distance Trail Guide",
+      "meta_description": "Discover the Boudicca Way, a 232.7 km hard trek across the UK. Learn terrain, safety, best seasons, and gear recommendations for this challenging long-distance hike.",
+      "h1": "Boudicca Way: UK 232.7 km Hard-Distance Trail Guide"
+    }
+  }
+}

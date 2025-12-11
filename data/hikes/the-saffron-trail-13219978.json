@@ -1,0 +1,21 @@
+{
+  "id": "osm-13219978",
+  "slug": "the-saffron-trail-13219978",
+  "name": "The Saffron Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7301656,
+    "lon": 0.5204797
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13219978
+  }
+}

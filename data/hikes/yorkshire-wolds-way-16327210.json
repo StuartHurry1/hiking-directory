@@ -1,0 +1,21 @@
+{
+  "id": "osm-16327210",
+  "slug": "yorkshire-wolds-way-16327210",
+  "name": "Yorkshire Wolds Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7143015,
+    "lon": -0.4469013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16327210
+  }
+}

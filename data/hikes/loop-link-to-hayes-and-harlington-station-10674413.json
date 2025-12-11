@@ -1,0 +1,21 @@
+{
+  "id": "osm-10674413",
+  "slug": "loop-link-to-hayes-and-harlington-station-10674413",
+  "name": "LOOP link to Hayes & Harlington station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5046161,
+    "lon": -0.4192844
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10674413
+  }
+}

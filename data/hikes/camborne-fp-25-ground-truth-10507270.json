@@ -1,0 +1,40 @@
+{
+  "id": "osm-10507270",
+  "slug": "camborne-fp-25-ground-truth-10507270",
+  "name": "Camborne FP 25 Ground truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2040302,
+    "lon": -5.3224049
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10507270
+  },
+  "ai": {
+    "summary": "Camborne FP 25 Ground truth is a very short, easy hike in the UK, covering 0.4 km. The route is suitable for all ages and can be completed in just a few minutes, making it ideal for a quick outdoor escape.",
+    "terrain_summary": "Mostly flat, on a well-maintained footpath. Expect a level surface with possible gravel or tarmac sections. It may be muddy after rain and could have gentle slopes near entry or exit points.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Wear comfortable, well-fitting walking shoes and bring a light layer if rain is possible. Stay on the designated path, give way to other pedestrians, and keep an eye out for uneven surfaces or puddles. Carry a charged phone with emergency contacts and know your return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof layer",
+      "Phone with emergency contacts",
+      "Map or offline route (if needed)",
+      "Small snack"
+    ],
+    "best_seasons": "All year round; spring and summer typically offer the best conditions, but the short length also makes it a quick option in autumn and mild winter days.",
+    "seo": {
+      "title": "Camborne FP 25 Ground truth — 0.4 km Easy Hike in the UK",
+      "meta_description": "Discover a 0.4 km easy hike on Camborne FP 25 Ground truth in the UK. Short, accessible, and suitable for families. Safety tips and gear included.",
+      "h1": "Camborne FP 25 Ground truth: 0.4 km Easy Hike"
+    }
+  }
+}

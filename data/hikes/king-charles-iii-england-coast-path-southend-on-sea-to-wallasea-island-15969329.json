@@ -1,0 +1,23 @@
+{
+  "id": "osm-15969329",
+  "slug": "king-charles-iii-england-coast-path-southend-on-sea-to-wallasea-island-15969329",
+  "name": "King Charles III England Coast Path: Southend-on-Sea to Wallasea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 104.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5216052,
+    "lon": 0.7827095
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15969329
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6201408",
+  "slug": "ted-hughes-poetry-trail-6201408",
+  "name": "Ted Hughes Poetry Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5651711,
+    "lon": -3.6501775
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6201408
+  }
+}

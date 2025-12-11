@@ -1,0 +1,21 @@
+{
+  "id": "osm-1464656",
+  "slug": "river-parrett-trail-1464656",
+  "name": "River Parrett Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 234.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9481709,
+    "lon": -2.7442177
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1464656
+  }
+}

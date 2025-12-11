@@ -1,0 +1,21 @@
+{
+  "id": "osm-18162931",
+  "slug": "maidenhead-millennium-walk-marlow-link-18162931",
+  "name": "Maidenhead Millennium Walk Marlow Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.540903,
+    "lon": -0.7537461
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18162931
+  }
+}

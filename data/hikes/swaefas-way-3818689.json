@@ -1,0 +1,21 @@
+{
+  "id": "osm-3818689",
+  "slug": "swaefas-way-3818689",
+  "name": "Swaefas Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6536225,
+    "lon": 0.6917858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3818689
+  }
+}

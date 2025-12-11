@@ -1,0 +1,23 @@
+{
+  "id": "osm-1175417",
+  "slug": "the-bembridge-trail-1175417",
+  "name": "The Bembridge Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.8,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6944871,
+    "lon": -1.0911502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1175417
+  }
+}

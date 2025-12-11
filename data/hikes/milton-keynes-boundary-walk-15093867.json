@@ -1,0 +1,21 @@
+{
+  "id": "osm-15093867",
+  "slug": "milton-keynes-boundary-walk-15093867",
+  "name": "Milton Keynes Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 202,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1469419,
+    "lon": -0.8066771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15093867
+  }
+}

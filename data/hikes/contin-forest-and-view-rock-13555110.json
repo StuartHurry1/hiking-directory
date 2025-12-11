@@ -1,0 +1,21 @@
+{
+  "id": "osm-13555110",
+  "slug": "contin-forest-and-view-rock-13555110",
+  "name": "Contin forest and View Rock",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5765819,
+    "lon": -4.5904126
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13555110
+  }
+}

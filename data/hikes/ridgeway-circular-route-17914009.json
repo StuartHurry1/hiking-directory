@@ -1,0 +1,23 @@
+{
+  "id": "osm-17914009",
+  "slug": "ridgeway-circular-route-17914009",
+  "name": "Ridgeway Circular Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5463287,
+    "lon": -1.6475236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17914009
+  }
+}

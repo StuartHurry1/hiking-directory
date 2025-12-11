@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375786",
+  "slug": "south-west-coast-path-section-31-portloe-to-mevagissey-2375786",
+  "name": "South West Coast Path (Section 31: Portloe to Mevagissey)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.218377,
+    "lon": -4.8920105
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375786
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10680372",
+  "slug": "redruth-fp-21-ground-truth-10680372",
+  "name": "Redruth FP 21 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2362969,
+    "lon": -5.2378996
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10680372
+  }
+}

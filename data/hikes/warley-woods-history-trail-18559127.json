@@ -1,0 +1,21 @@
+{
+  "id": "osm-18559127",
+  "slug": "warley-woods-history-trail-18559127",
+  "name": "Warley Woods History Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4696248,
+    "lon": -1.9799922
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18559127
+  }
+}

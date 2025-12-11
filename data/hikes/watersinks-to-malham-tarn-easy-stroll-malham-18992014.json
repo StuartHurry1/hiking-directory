@@ -1,0 +1,23 @@
+{
+  "id": "osm-18992014",
+  "slug": "watersinks-to-malham-tarn-easy-stroll-malham-18992014",
+  "name": "Watersinks to Malham Tarn Easy Stroll, Malham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0882021,
+    "lon": -2.1632034
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18992014
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8151890",
+  "slug": "westerham-to-chartwell-trail-chartwell-8151890",
+  "name": "Westerham to Chartwell Trail, Chartwell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2492006,
+    "lon": 0.0846557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8151890
+  }
+}

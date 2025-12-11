@@ -1,0 +1,43 @@
+{
+  "id": "osm-16411960",
+  "slug": "blue-16411960",
+  "name": "'blue'",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.707773,
+    "lon": -3.7379241
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16411960
+  },
+  "ai": {
+    "summary": "Blue is a short, easy 2.6 km hike in the UK suitable for beginners and families. The route typically follows gentle, well-maintained paths with minimal elevation, making it an accessible option for a relaxed outdoor outing.",
+    "terrain_summary": "Primarily flat or gently rolling trails along well-trodden paths. Expect occasional muddy patches after rain and uneven footing in places; depending on the exact location, segments may pass through parks, woodlands, or riverside paths.",
+    "safety_notes": "Check the forecast and daylight hours before you go, as UK weather can be changeable. Wear sturdy footwear with good grip and bring a weather-appropriate layer. Stay on marked paths, carry a map or compass (or reliable offline GPS), and tell someone your route and expected return time. Bring water, snacks, and a small first-aid kit. In winter or after rain, paths can be slippery and visibility may be reduced.",
+    "recommended_gear": [
+      "Comfortable hiking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Snack",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map and compass or offline GPS",
+      "Small first-aid kit",
+      "Phone for safety"
+    ],
+    "best_seasons": "Spring and Summer",
+    "seo": {
+      "title": "Blue: Easy 2.6 km Hike in the UK",
+      "meta_description": "Discover the easy 2.6 km Blue hike in the UK. Perfect for beginners and families, with gentle terrain, safety tips, a gear list, and best seasons.",
+      "h1": "Blue – Easy 2.6 km Hike in the UK"
+    }
+  }
+}

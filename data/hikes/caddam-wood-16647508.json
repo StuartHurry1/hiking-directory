@@ -1,0 +1,42 @@
+{
+  "id": "osm-16647508",
+  "slug": "caddam-wood-16647508",
+  "name": "Caddam Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6873429,
+    "lon": -3.0116019
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647508
+  },
+  "ai": {
+    "summary": "Caddam Wood is a gentle 4.4 km hike in the UK, classified as easy and suitable for families and beginners. The route takes you through woodland with shaded, well-marked paths and gentle terrain.",
+    "terrain_summary": "The trail runs primarily through woodlands with a mix of flat to gently rolling sections. Expect well-defined paths, occasional roots or small logs, and potential muddy patches after rain. Footing is generally even, but some sections may be uneven.",
+    "safety_notes": "Conditions in UK woodlands can change quickly. Check local weather, wear sturdy walking shoes, and stay on marked trails. Bring a waterproof layer, sufficient water, and a small first aid kit. Be mindful of mud after rain, and watch for low-hanging branches or roots. Do not disturb wildlife or vegetation; inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or waterproof layer",
+      "Map or GPS device / fully charged phone",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent"
+    ],
+    "best_seasons": "All year, with the best conditions in late spring to early autumn (roughly March to October) when the trails are drier.",
+    "seo": {
+      "title": "Caddam Wood Hike – Easy 4.4 km Woodland Trail in the UK",
+      "meta_description": "Discover Caddam Wood, an easy 4.4 km hike in the UK. Family-friendly woodland trail with shaded paths, practical safety tips, and gear suggestions.",
+      "h1": "Caddam Wood – Easy 4.4 km Woodland Hike in the UK"
+    }
+  }
+}

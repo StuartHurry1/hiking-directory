@@ -1,0 +1,21 @@
+{
+  "id": "osm-16133107",
+  "slug": "felbrigg-circular-16133107",
+  "name": "Felbrigg Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9298166,
+    "lon": 1.2930088
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16133107
+  }
+}

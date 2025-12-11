@@ -1,0 +1,44 @@
+{
+  "id": "osm-19718258",
+  "slug": "a-walk-from-altrincham-interchange-19718258",
+  "name": "A Walk from Altrincham Interchange",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.394215,
+    "lon": -2.3735572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19718258
+  },
+  "ai": {
+    "summary": "A 27.4 km hard-distance hike starting at Altrincham Interchange in the UK. This route blends urban streets with rural lanes and fields, demanding good fitness, navigation, and planning. Allow 7–9 hours depending on pace and breaks.",
+    "terrain_summary": "Mix of pavement, tarred and grass lanes, field edges, and occasional uneven footing. Some hills or gentle climbs may occur; expect variable surfaces and potential mud in wet weather.",
+    "safety_notes": "Plan your start time to ensure daylight for the full distance. Wear sturdy waterproof footwear and layers. Stay aware of traffic in urban sections and carry a map or GPS. Carry enough water and snacks, and have a means to call for help. Let someone know your plans and expected finish time. Carry a basic first aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and extra layers",
+      "Backpack with hydration (2–3 L) or water bottles",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Snacks and a light meal for a long day",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Headlamp or flashlight (in case of late finish)",
+      "Basic first aid kit",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and milder conditions.",
+    "seo": {
+      "title": "A Walk from Altrincham Interchange – 27.4 km Hard Hike in the UK",
+      "meta_description": "Discover a challenging 27.4 km hike from Altrincham Interchange in the UK. This route mixes urban and rural terrain, demanding fitness and good navigation.",
+      "h1": "A Walk from Altrincham Interchange"
+    }
+  }
+}

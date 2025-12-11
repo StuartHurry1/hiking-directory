@@ -1,0 +1,21 @@
+{
+  "id": "osm-3149263",
+  "slug": "three-choirs-way-hereford-to-worcester-3149263",
+  "name": "Three Choirs Way (Hereford to Worcester)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 103.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0543146,
+    "lon": -2.7147928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3149263
+  }
+}

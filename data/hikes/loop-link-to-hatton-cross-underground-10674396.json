@@ -1,0 +1,21 @@
+{
+  "id": "osm-10674396",
+  "slug": "loop-link-to-hatton-cross-underground-10674396",
+  "name": "LOOP link to Hatton Cross Underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4669337,
+    "lon": -0.4220756
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10674396
+  }
+}

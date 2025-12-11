@@ -1,0 +1,42 @@
+{
+  "id": "osm-1477811",
+  "slug": "ballypatrick-forest-trails-2-glenmakeeran-trail-1477811",
+  "name": "Ballypatrick Forest Trails - 2 Glenmakeeran Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1599021,
+    "lon": -6.1671198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1477811
+  },
+  "ai": {
+    "summary": "A gentle 3.5 km forest trail in Ballypatrick Forest. The Glenmakeeran Trail is easy and suitable for families and casual walkers, offering shaded woodland, steady footing, and scenic forest scenery.",
+    "terrain_summary": "Forest path with mostly smooth ground and compact soil. Expect occasional exposed roots and muddy patches after rain. The route is well-marked and generally level with minor gentle rises.",
+    "safety_notes": "Easy and family friendly, but uneven ground and exposed roots can appear after rain. Wear sturdy footwear and check the weather before you go. Stay on marked paths and yield to other users on shared sections. Allow extra time in wet conditions as trails can be muddy. Bring water, snacks, and a charged phone; woodland areas may have limited mobile signal. Insect repellent and a lightweight waterproof layer are recommended.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Weather-appropriate clothing and a light waterproof layer",
+      "Water and snacks",
+      "Map or offline GPS device",
+      "Phone charged with emergency power bank",
+      "Small first-aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to Autumn; winter visits can be muddy with shorter daylight.",
+    "seo": {
+      "title": "Ballypatrick Forest Trails – Glenmakeeran Trail (3.5 km) – Easy Forest Walk in the UK",
+      "meta_description": "Discover the 3.5 km Glenmakeeran Trail in Ballypatrick Forest. An easy, family friendly hike in the UK with practical safety tips and gear suggestions.",
+      "h1": "Ballypatrick Forest Trails: Glenmakeeran Trail (3.5 km) – Easy Forest Walk"
+    }
+  }
+}

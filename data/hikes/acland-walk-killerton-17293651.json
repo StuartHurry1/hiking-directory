@@ -1,0 +1,42 @@
+{
+  "id": "osm-17293651",
+  "slug": "acland-walk-killerton-17293651",
+  "name": "Acland Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17293651
+  },
+  "ai": {
+    "summary": "Acland Walk at Killerton is a short, easy 2.5 km estate stroll in the Killerton Estate (National Trust) near Exeter, UK. The route offers pleasant woodland and open grounds with mostly flat, well-maintained paths, making it suitable for families, casual walkers, and visitors looking for a quick, scenic outing.",
+    "terrain_summary": "Flat to gently undulating paths with well-maintained gravel and tarmac sections. Mostly easy woodland and meadow terrain with occasional uneven spots near gate areas.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, watch for uneven ground and roots, and heed estate rules. Bring water, check opening hours and possible restrictions, and keep dogs under control. In wet conditions the paths can be muddy; beware slippery surfaces after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light jacket or layer for changeable UK weather",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Small backpack",
+      "Map or offline GPS (optional)",
+      "Phone charged for emergencies"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Acland Walk, Killerton – Easy 2.5 km Estate Trail in the UK",
+      "meta_description": "Explore Acland Walk at Killerton, a short and easy 2.5 km trail through historic estate grounds in the UK. Flat paths, family-friendly scenery, and a quick outdoor escape.",
+      "h1": "Acland Walk, Killerton"
+    }
+  }
+}

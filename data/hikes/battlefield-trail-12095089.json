@@ -1,0 +1,42 @@
+{
+  "id": "osm-12095089",
+  "slug": "battlefield-trail-12095089",
+  "name": "Battlefield Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8417968,
+    "lon": -1.2747758
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12095089
+  },
+  "ai": {
+    "summary": "An 8 km moderate hike on mixed terrain in the UK, offering a comfortable day outdoors with gentle climbs and varied scenery along the Battlefield Trail.",
+    "terrain_summary": "The route features well-maintained dirt paths, grassy verges, and occasional rocky patches. Expect roots, gentle ascents, some muddy sections after rain, and clear waymarking to stay on track.",
+    "safety_notes": "Weather in the UK can change quickly; come prepared. Wear sturdy hiking boots and a waterproof layer. Bring enough water and snacks, plus a map or GPS. Stay on marked trails, be mindful of slippery surfaces when wet, and check daylight hours if hiking in late autumn or winter. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map or GPS device",
+      "Snack or energy bars",
+      "Hat and sunscreen",
+      "Fully charged phone with emergency contacts",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring and Autumn (milder, drier conditions are common)",
+    "seo": {
+      "title": "Battlefield Trail — 8 km Moderate Hike in the UK",
+      "meta_description": "Explore Battlefield Trail, an 8 km moderate hike in the UK. Learn terrain, safety tips, gear, and the best seasons to hike.",
+      "h1": "Battlefield Trail: 8 km Moderate Hike in the UK"
+    }
+  }
+}

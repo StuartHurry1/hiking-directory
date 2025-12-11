@@ -1,0 +1,21 @@
+{
+  "id": "osm-18078285",
+  "slug": "pentney-and-shouldham-warren-via-pentney-abbey-18078285",
+  "name": "Pentney and Shouldham Warren via Pentney Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6936296,
+    "lon": 0.4196835
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18078285
+  }
+}

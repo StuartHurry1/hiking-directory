@@ -1,0 +1,23 @@
+{
+  "id": "osm-14592754",
+  "slug": "king-charles-iii-england-coast-path-tilbury-to-southend-on-sea-14592754",
+  "name": "King Charles III England Coast Path: Tilbury to Southend-on-Sea",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 131.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4522298,
+    "lon": 0.3666098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14592754
+  }
+}

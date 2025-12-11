@@ -1,0 +1,21 @@
+{
+  "id": "osm-19641799",
+  "slug": "clapton-circuit-19641799",
+  "name": "Clapton Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4628809,
+    "lon": -2.7595711
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19641799
+  }
+}

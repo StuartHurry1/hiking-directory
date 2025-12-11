@@ -1,0 +1,21 @@
+{
+  "id": "osm-7674758",
+  "slug": "grand-tour-yellow-route-7674758",
+  "name": "Grand Tour Yellow route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4275253,
+    "lon": -0.7656725
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7674758
+  }
+}

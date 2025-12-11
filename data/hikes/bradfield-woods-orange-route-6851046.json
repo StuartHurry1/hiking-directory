@@ -1,0 +1,44 @@
+{
+  "id": "osm-6851046",
+  "slug": "bradfield-woods-orange-route-6851046",
+  "name": "Bradfield Woods Orange Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1816611,
+    "lon": 0.8209937
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6851046
+  },
+  "ai": {
+    "summary": "Bradfield Woods Orange Route is a 6.3 km moderate woodland hike in the UK. The route winds through mixed woodland, open glades and occasional damp sections, offering a peaceful forest experience with gentle elevation changes.",
+    "terrain_summary": "Mostly well-marked forest paths with some uneven ground, tree roots and small steps. Expect a mix of shaded woodland and open clearings, with occasional muddy patches after rain.",
+    "safety_notes": "Wear sturdy, waterproof footwear and dress in layers. Check the forecast and daylight hours before setting out. Stay on marked paths; be mindful of muddy and slippery sections. Insect protection and sun awareness are recommended. Carry a map, compass or offline navigation, a small first aid kit, enough water and snacks. Tell someone your plan and expected return time; bring a flashlight or headlamp if you might be out near dusk.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers and waterproof jacket",
+      "Water and snacks",
+      "Map or offline navigation (GPS as backup)",
+      "Small first aid kit",
+      "Insect repellent",
+      "Sunscreen and hat",
+      "Headlamp or flashlight (if needed)",
+      "Lightweight emergency blanket (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal, with cooler temperatures and less mud than winter; winter visits are possible but can be muddy and daylight is limited.",
+    "seo": {
+      "title": "Bradfield Woods Orange Route – 6.3 km Moderate Woodland Hike (UK)",
+      "meta_description": "Discover the Bradfield Woods Orange Route, a 6.3 km moderate woodland hike in the UK. Terrain, safety tips and gear for a enjoyable trail experience.",
+      "h1": "Bradfield Woods Orange Route – 6.3 km Moderate Woodland Hike (UK)"
+    }
+  }
+}

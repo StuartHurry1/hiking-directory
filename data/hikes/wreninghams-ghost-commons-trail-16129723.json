@@ -1,0 +1,21 @@
+{
+  "id": "osm-16129723",
+  "slug": "wreninghams-ghost-commons-trail-16129723",
+  "name": "Wreningham’s Ghost Commons Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5485016,
+    "lon": 1.1773705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16129723
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-17445039",
+  "slug": "castle-crag-from-seatoller-trail-the-scenic-route-north-lakes-outdoors-17445039",
+  "name": "Castle Crag from Seatoller Trail: The Scenic Route, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5137683,
+    "lon": -3.1669273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17445039
+  }
+}

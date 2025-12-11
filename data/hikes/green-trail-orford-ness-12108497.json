@@ -1,0 +1,21 @@
+{
+  "id": "osm-12108497",
+  "slug": "green-trail-orford-ness-12108497",
+  "name": "Green Trail, Orford Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0859778,
+    "lon": 1.5573592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12108497
+  }
+}

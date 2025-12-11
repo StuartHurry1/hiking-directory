@@ -1,0 +1,21 @@
+{
+  "id": "osm-3177024",
+  "slug": "priors-wood-3177024",
+  "name": "Prior's Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4635972,
+    "lon": -2.7344751
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3177024
+  }
+}

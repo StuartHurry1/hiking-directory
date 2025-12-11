@@ -1,0 +1,21 @@
+{
+  "id": "osm-1750057",
+  "slug": "marshall-country-trail-1750057",
+  "name": "Marshall Country Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5558153,
+    "lon": -7.1818087
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1750057
+  }
+}

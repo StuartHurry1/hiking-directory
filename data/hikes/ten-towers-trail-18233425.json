@@ -1,0 +1,21 @@
+{
+  "id": "osm-18233425",
+  "slug": "ten-towers-trail-18233425",
+  "name": "Ten Towers Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 62.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7428423,
+    "lon": 1.1843954
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18233425
+  }
+}

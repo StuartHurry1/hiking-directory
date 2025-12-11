@@ -1,0 +1,21 @@
+{
+  "id": "osm-1176405",
+  "slug": "weaver-walk-1176405",
+  "name": "Weaver Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0053562,
+    "lon": -1.7931928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1176405
+  }
+}

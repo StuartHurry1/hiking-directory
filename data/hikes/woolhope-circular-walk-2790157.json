@@ -1,0 +1,21 @@
+{
+  "id": "osm-2790157",
+  "slug": "woolhope-circular-walk-2790157",
+  "name": "Woolhope Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0178306,
+    "lon": -2.5654468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2790157
+  }
+}

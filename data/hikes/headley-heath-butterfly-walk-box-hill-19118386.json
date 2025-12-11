@@ -1,0 +1,21 @@
+{
+  "id": "osm-19118386",
+  "slug": "headley-heath-butterfly-walk-box-hill-19118386",
+  "name": "Headley Heath Butterfly Walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2658372,
+    "lon": -0.2728024
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19118386
+  }
+}

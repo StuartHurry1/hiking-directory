@@ -1,0 +1,21 @@
+{
+  "id": "osm-19238422",
+  "slug": "windmill-hill-at-waddesdon-19238422",
+  "name": "Windmill Hill at Waddesdon,",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8406974,
+    "lon": -0.9307544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19238422
+  }
+}

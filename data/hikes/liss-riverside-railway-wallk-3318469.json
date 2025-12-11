@@ -1,0 +1,21 @@
+{
+  "id": "osm-3318469",
+  "slug": "liss-riverside-railway-wallk-3318469",
+  "name": "Liss Riverside Railway Wallk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0476455,
+    "lon": -0.8890297
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3318469
+  }
+}

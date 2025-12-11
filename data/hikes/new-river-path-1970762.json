@@ -1,0 +1,21 @@
+{
+  "id": "osm-1970762",
+  "slug": "new-river-path-1970762",
+  "name": "New River Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 106.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8064206,
+    "lon": -0.0582415
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1970762
+  }
+}

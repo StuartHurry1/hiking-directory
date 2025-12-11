@@ -1,0 +1,41 @@
+{
+  "id": "osm-4091539",
+  "slug": "ale-trail-4091539",
+  "name": "Ale Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7441712,
+    "lon": -0.3346128
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4091539
+  },
+  "ai": {
+    "summary": "Ale Trail is a short and easy 4.2 km hike in the UK, ideal for casual walkers. The route offers gentle terrain and countryside views with no particular thematic features.",
+    "terrain_summary": "The trail uses a mix of well-marked footpaths and minor country lanes. Expect mostly flat to gently undulating terrain with surfaces ranging from compact gravel and tarmac to grassy paths. Suitable for most footwear.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy footwear and bring a light layer and rain protection. Stay on marked paths, watch for livestock or cyclists on shared routes, and carry a map or GPS. Be mindful of farm gates and livestock gates when crossing fields. In rural UK, phone signal may be inconsistent in remote sections.",
+    "recommended_gear": [
+      "Comfortable waterproof walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Phone with emergency contacts",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; winter hikes are possible with proper clothing and care.",
+    "seo": {
+      "title": "Ale Trail - Easy 4.2 km Hike in the UK",
+      "meta_description": "Plan your trip on the Ale Trail: a short 4.2 km easy hike in the UK. Perfect for beginners, with gentle terrain and countryside scenery.",
+      "h1": "Ale Trail: Easy 4.2 km Hike in the UK"
+    }
+  }
+}

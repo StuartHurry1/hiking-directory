@@ -1,0 +1,21 @@
+{
+  "id": "osm-4004182",
+  "slug": "pyg-track-4004182",
+  "name": "Pyg Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0782108,
+    "lon": -4.0357293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4004182
+  }
+}

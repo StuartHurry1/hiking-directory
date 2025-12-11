@@ -1,0 +1,21 @@
+{
+  "id": "osm-18158268",
+  "slug": "meall-mor-trail-18158268",
+  "name": "Meall Mor Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9013941,
+    "lon": -5.156363
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18158268
+  }
+}

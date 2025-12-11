@@ -1,0 +1,21 @@
+{
+  "id": "osm-7776868",
+  "slug": "fife-pilgrim-way-7776868",
+  "name": "Fife Pilgrim Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 290.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0281015,
+    "lon": -3.4323961
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7776868
+  }
+}

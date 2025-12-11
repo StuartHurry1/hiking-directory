@@ -1,0 +1,21 @@
+{
+  "id": "osm-3726252",
+  "slug": "london-loop-section-18-3726252",
+  "name": "London LOOP (Section 18)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6680586,
+    "lon": -0.0284474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3726252
+  }
+}

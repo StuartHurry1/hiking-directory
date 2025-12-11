@@ -1,0 +1,24 @@
+{
+  "id": "osm-17432609",
+  "slug": "thorneythwaite-farm-picnic-and-waterfall-walk-north-lakes-outdoors-17432609",
+  "name": "Thorneythwaite Farm Picnic and Waterfall walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [
+    "waterfalls",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5135008,
+    "lon": -3.1672075
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17432609
+  }
+}

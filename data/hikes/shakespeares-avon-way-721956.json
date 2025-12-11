@@ -1,0 +1,21 @@
+{
+  "id": "osm-721956",
+  "slug": "shakespeares-avon-way-721956",
+  "name": "Shakespeare's Avon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 410.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3974184,
+    "lon": -0.988728
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 721956
+  }
+}

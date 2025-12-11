@@ -1,0 +1,21 @@
+{
+  "id": "osm-86542",
+  "slug": "staffordshire-way-rushton-spencer-cannock-chase-86542",
+  "name": "Staffordshire Way (Rushton Spencer - Cannock Chase)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 189.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1671767,
+    "lon": -2.1063889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 86542
+  }
+}

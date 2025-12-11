@@ -1,0 +1,21 @@
+{
+  "id": "osm-16379688",
+  "slug": "ryvoan-trail-16379688",
+  "name": "Ryvoan Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1675059,
+    "lon": -3.6929595
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16379688
+  }
+}

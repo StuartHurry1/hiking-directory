@@ -1,0 +1,21 @@
+{
+  "id": "osm-19859670",
+  "slug": "eaves-wood-circular-walk-19859670",
+  "name": "Eaves Wood Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1763447,
+    "lon": -2.8114491
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19859670
+  }
+}

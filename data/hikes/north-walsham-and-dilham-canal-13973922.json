@@ -1,0 +1,21 @@
+{
+  "id": "osm-13973922",
+  "slug": "north-walsham-and-dilham-canal-13973922",
+  "name": "North Walsham and Dilham Canal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8166916,
+    "lon": 1.4276446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13973922
+  }
+}

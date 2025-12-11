@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375711",
+  "slug": "south-west-coast-path-section-28-coverack-to-helford-2375711",
+  "name": "South West Coast Path (Section 28: Coverack to Helford)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0227672,
+    "lon": -5.0955041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375711
+  }
+}

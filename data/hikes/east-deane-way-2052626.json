@@ -1,0 +1,21 @@
+{
+  "id": "osm-2052626",
+  "slug": "east-deane-way-2052626",
+  "name": "East Deane Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 158.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.010841,
+    "lon": -3.1028725
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2052626
+  }
+}

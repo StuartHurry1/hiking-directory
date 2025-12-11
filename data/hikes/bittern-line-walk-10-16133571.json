@@ -1,0 +1,45 @@
+{
+  "id": "osm-16133571",
+  "slug": "bittern-line-walk-10-16133571",
+  "name": "Bittern Line Walk 10",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9414274,
+    "lon": 1.2106844
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16133571
+  },
+  "ai": {
+    "summary": "Bittern Line Walk 10 is a challenging 25.5 km hike in the UK, following rural countryside near the Bittern Line route. The route features mixed terrain, long segments between landmarks, and variable weather; solid footwear and careful planning are essential for a full-day trek.",
+    "terrain_summary": "Expect a varied mix of public footpaths, field margins, minor roads, hedgerows, and occasional wetland sections. Surfaces range from firm paths to muddy fields and occasional boardwalks; gates, stiles, and uneven ground require careful footing and navigation.",
+    "safety_notes": "Plan for a long day: carry a map and compass or GPS, check weather forecasts, and be prepared for wind and rain. Stay on public rights of way and avoid walking along railway tracks. Ensure you have enough water and food for 25+ km, and be mindful of livestock and uneven terrain. Carry a light source for low light, and share your route and expected finish time with someone in case of emergency.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Breathable waterproof jacket and layered clothing",
+      "Backpack (20–30L) with rain cover",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Sun protection: hat and sunscreen",
+      "Headlamp or flashlight with extra batteries",
+      "Personal first aid kit",
+      "Whistle and emergency contact information",
+      "Mobile phone with offline maps and a power bank",
+      "Extra socks and a small repair kit (laces, patch kit)"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September).",
+    "seo": {
+      "title": "Bittern Line Walk 10: 25.5 km Hard Hike in the UK",
+      "meta_description": "Discover Bittern Line Walk 10, a challenging 25.5 km hike in the UK. Explore terrain, safety tips, gear, best seasons, and practical planning for this long-distance route.",
+      "h1": "Bittern Line Walk 10 – 25.5 km Hard Hike in the UK"
+    }
+  }
+}

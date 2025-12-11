@@ -1,0 +1,21 @@
+{
+  "id": "osm-445601",
+  "slug": "cotswold-link-445601",
+  "name": "Cotswold Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 169.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0759945,
+    "lon": -1.6212817
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 445601
+  }
+}

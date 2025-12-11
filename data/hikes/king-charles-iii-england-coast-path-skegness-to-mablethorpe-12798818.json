@@ -1,0 +1,23 @@
+{
+  "id": "osm-12798818",
+  "slug": "king-charles-iii-england-coast-path-skegness-to-mablethorpe-12798818",
+  "name": "King Charles III England Coast Path: Skegness to Mablethorpe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1444365,
+    "lon": 0.3476599
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12798818
+  }
+}

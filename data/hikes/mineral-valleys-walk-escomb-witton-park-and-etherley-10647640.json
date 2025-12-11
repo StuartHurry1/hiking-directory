@@ -1,0 +1,21 @@
+{
+  "id": "osm-10647640",
+  "slug": "mineral-valleys-walk-escomb-witton-park-and-etherley-10647640",
+  "name": "Mineral Valleys Walk - Escomb, Witton Park & Etherley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6655089,
+    "lon": -1.7085216
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10647640
+  }
+}

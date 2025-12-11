@@ -1,0 +1,21 @@
+{
+  "id": "osm-8209296",
+  "slug": "peak-pilgrimage-8209296",
+  "name": "Peak Pilgrimage",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1456922,
+    "lon": -1.7781068
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8209296
+  }
+}

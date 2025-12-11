@@ -1,0 +1,21 @@
+{
+  "id": "osm-9495895",
+  "slug": "wildflower-trail-9495895",
+  "name": "Wildflower Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.562609,
+    "lon": -0.3067116
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9495895
+  }
+}

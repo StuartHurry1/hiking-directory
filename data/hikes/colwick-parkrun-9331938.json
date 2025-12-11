@@ -1,0 +1,21 @@
+{
+  "id": "osm-9331938",
+  "slug": "colwick-parkrun-9331938",
+  "name": "Colwick Parkrun",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9441226,
+    "lon": -1.0972487
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9331938
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-9852929",
+  "slug": "wildlife-walk-ashridge-estate-9852929",
+  "name": "Wildlife Walk, Ashridge Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8084699,
+    "lon": -0.5884271
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9852929
+  }
+}

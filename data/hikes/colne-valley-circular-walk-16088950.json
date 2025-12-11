@@ -1,0 +1,21 @@
+{
+  "id": "osm-16088950",
+  "slug": "colne-valley-circular-walk-16088950",
+  "name": "Colne Valley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6352735,
+    "lon": -1.8775889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16088950
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-4154804",
+  "slug": "bogle-crag-trail-long-4154804",
+  "name": "Bogle Crag Trail (long)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3322975,
+    "lon": -3.0194717
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4154804
+  },
+  "ai": {
+    "summary": "A 10.3 km moderate day hike on the Bogle Crag Trail in the UK. The route covers mixed terrain with steady elevation, offering scenic views and a satisfying workout for hikers with some experience.",
+    "terrain_summary": "Terrain ranges from wooded tracks to rocky sections and grassy ascents. Expect uneven ground, potential mud, and occasional exposed edges. The route features a steady elevation gain but remains manageable for moderate hikers.",
+    "safety_notes": "Plan for UK weather changes; wear layered clothing and a waterproof jacket. Wear sturdy boots with good grip and watch footing on uneven ground, mud, and exposed rock, especially after rain. Stay on marked paths and keep a safe distance from cliff edges. Carry a map and compass or GPS device; don't rely solely on phone signals. Bring enough water and snacks and know your turnaround time. Tell someone your plan and expected return. In an emergency, call 999 (or 112) for immediate assistance; contact the appropriate authorities if rescue is required.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing with waterproof jacket",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Fully charged phone and portable charger",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October).",
+    "seo": {
+      "title": "Bogle Crag Trail (Long) – 10.3 km Moderate Hike in the UK",
+      "meta_description": "Guide to the Bogle Crag Trail, a 10.3 km moderate hike in the UK. Terrain overview, safety tips, gear list, best seasons, and planning advice for a safe day on the trail.",
+      "h1": "Bogle Crag Trail (Long) – 10.3 km Moderate Hike in the UK"
+    }
+  }
+}

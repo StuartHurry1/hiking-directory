@@ -1,0 +1,21 @@
+{
+  "id": "osm-8132394",
+  "slug": "willow-tree-fen-blue-intermediate-route-8132394",
+  "name": "Willow Tree Fen Blue intermediate route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7764868,
+    "lon": -0.249873
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8132394
+  }
+}

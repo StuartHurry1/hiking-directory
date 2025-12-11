@@ -1,0 +1,21 @@
+{
+  "id": "osm-10680371",
+  "slug": "redruth-fp-22-10680371",
+  "name": "Redruth FP 22",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.228992,
+    "lon": -5.2341069
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10680371
+  }
+}

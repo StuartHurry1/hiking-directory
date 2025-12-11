@@ -1,0 +1,21 @@
+{
+  "id": "osm-13753597",
+  "slug": "devils-dyke-and-nomansland-13753597",
+  "name": "Devil's Dyke & Nomansland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8130106,
+    "lon": -0.2926543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13753597
+  }
+}

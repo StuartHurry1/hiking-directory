@@ -1,0 +1,43 @@
+{
+  "id": "osm-13120778",
+  "slug": "blue-route-13120778",
+  "name": "Blue Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2257956,
+    "lon": 0.7299255
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13120778
+  },
+  "ai": {
+    "summary": "Blue Route is a short, easy 3.5 km hike in the United Kingdom, suitable for beginners and families, with gentle terrain and minimal elevation change.",
+    "terrain_summary": "Primarily well-maintained footpaths with flat to gently rolling sections. Occasional gravel stretches and light grassy or dirt segments; overall elevation gain is minimal.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy, comfortable footwear and dress for changing UK conditions. Stay on marked paths, carry a map or a fully charged phone, and bring water. Supervise children or pets and be mindful of road crossings if present.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Extra layer",
+      "Hat and sunscreen",
+      "Map or offline GPS",
+      "Fully charged phone",
+      "Small backpack",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn when trails are dry and daylight is longer. In winter, be prepared for rain, mud, and potential icy or slippery sections.",
+    "seo": {
+      "title": "Blue Route Walk — Easy 3.5 km Hike in the UK",
+      "meta_description": "Discover Blue Route, a 3.5 km easy hike in the United Kingdom. Ideal for beginners and families, featuring gentle terrain, practical safety tips, and the best seasons to visit.",
+      "h1": "Blue Route: Easy 3.5 km Hike in the UK"
+    }
+  }
+}

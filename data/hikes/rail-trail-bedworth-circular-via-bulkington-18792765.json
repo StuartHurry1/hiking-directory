@@ -1,0 +1,21 @@
+{
+  "id": "osm-18792765",
+  "slug": "rail-trail-bedworth-circular-via-bulkington-18792765",
+  "name": "Rail Trail: Bedworth Circular via Bulkington",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4789533,
+    "lon": -1.4676923
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18792765
+  }
+}

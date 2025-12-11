@@ -1,0 +1,21 @@
+{
+  "id": "osm-19683797",
+  "slug": "the-badger-trail-clent-hills-19683797",
+  "name": "The Badger Trail, Clent Hills",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.42511,
+    "lon": -2.0922616
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19683797
+  }
+}

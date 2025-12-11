@@ -1,0 +1,46 @@
+{
+  "id": "osm-19210926",
+  "slug": "below-kinder-scout-a-circular-walk-around-kinder-reservoir-high-peak-19210926",
+  "name": "Below Kinder Scout: A Circular Walk Around Kinder Reservoir, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3859051,
+    "lon": -1.9363099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19210926
+  },
+  "ai": {
+    "summary": "A challenging 20.9 km circular hike around Kinder Reservoir, looping beneath Kinder Scout in the Derbyshire Peak District. The route combines exposed moorland, rocky paths, and occasional woodland stretches with long ascents and sweeping reservoir views. Suitable for experienced walkers with good navigation and fitness.",
+    "terrain_summary": "Varied terrain including rough moorland tracks, exposed ridges, rocky steps, peat bogs and damp, muddy sections. Expect significant elevation gain, long ascents and descents, and sections where ground can be very soft or slippery, especially after rain. Navigation skills are important as paths can be faint in poor visibility.",
+    "safety_notes": "This long upland route can be challenging in changeable weather. Check the forecast and start early in winter. Carry map and compass (GPS is useful but not a substitute). Wear sturdy waterproof boots and plenty of layers; bring extra food and water. Stay on marked paths to protect the ground and avoid bogs. Be prepared for sudden wind and cold on exposed sections; inform someone of your planned return time. Always carry a whistle and a charged phone; in an emergency call 999/112.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and trousers",
+      "Warm layers (fleece or down, hat and gloves)",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Water and high-energy snacks (2–3 liters recommended)",
+      "First aid kit and emergency blanket",
+      "Trekking poles (optional but helpful on long ascents)",
+      "Headlamp or flashlight with spare batteries",
+      "Sun protection (sunscreen and sunglasses)",
+      "Lightweight emergency shelter or bivvy",
+      "Dry bag or waterproof case for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best trail conditions and daylight. Winter can be particularly challenging due to ice, boggy ground, and reduced daylight; always check weather and route suitability.",
+    "seo": {
+      "title": "Below Kinder Scout Circular Walk: Kinder Reservoir Loop – Peak District, UK",
+      "meta_description": "Discover the 20.9 km Below Kinder Scout circular walk around Kinder Reservoir in the Peak District. A hard upland route with moorland, rocky paths and reservoir views. Safety tips and gear list included.",
+      "h1": "Below Kinder Scout: Kinder Reservoir Circular Walk"
+    }
+  }
+}

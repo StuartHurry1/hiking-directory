@@ -1,0 +1,21 @@
+{
+  "id": "osm-15917232",
+  "slug": "heritage-trails-churches-15917232",
+  "name": "Heritage Trails: churches",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9690689,
+    "lon": -1.6198926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15917232
+  }
+}

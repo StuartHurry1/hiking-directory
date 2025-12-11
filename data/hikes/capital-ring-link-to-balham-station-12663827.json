@@ -1,0 +1,21 @@
+{
+  "id": "osm-12663827",
+  "slug": "capital-ring-link-to-balham-station-12663827",
+  "name": "Capital Ring link to Balham station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4422127,
+    "lon": -0.1537345
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12663827
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-52874",
+  "slug": "crewe-and-nantwich-circular-walk-52874",
+  "name": "Crewe and Nantwich Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 77.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0666351,
+    "lon": -2.401106
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 52874
+  }
+}

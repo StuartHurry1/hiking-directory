@@ -1,0 +1,21 @@
+{
+  "id": "osm-17294060",
+  "slug": "plains-walk-killerton-17294060",
+  "name": "Plains Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7908758,
+    "lon": -3.4538398
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17294060
+  }
+}

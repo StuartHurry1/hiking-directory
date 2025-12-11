@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507982",
+  "slug": "mid-dale-and-north-pund-11507982",
+  "name": "Mid Dale and North Pund",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2594182,
+    "lon": -1.6600133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507982
+  }
+}

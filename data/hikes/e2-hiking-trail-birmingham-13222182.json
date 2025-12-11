@@ -1,0 +1,21 @@
+{
+  "id": "osm-13222182",
+  "slug": "e2-hiking-trail-birmingham-13222182",
+  "name": "E2 hiking trail Birmingham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 293.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.763442,
+    "lon": -2.0305105
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13222182
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505555",
+  "slug": "staney-hill-link-path-11505555",
+  "name": "Staney Hill link path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1553736,
+    "lon": -1.1649571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505555
+  }
+}

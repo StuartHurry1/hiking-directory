@@ -1,0 +1,21 @@
+{
+  "id": "osm-6296887",
+  "slug": "penybedd-trail-6296887",
+  "name": "Penybedd Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6913706,
+    "lon": -4.2961011
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6296887
+  }
+}

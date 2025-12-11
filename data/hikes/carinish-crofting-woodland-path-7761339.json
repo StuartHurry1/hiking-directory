@@ -1,0 +1,21 @@
+{
+  "id": "osm-7761339",
+  "slug": "carinish-crofting-woodland-path-7761339",
+  "name": "Carinish Crofting Woodland Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5231407,
+    "lon": -7.2849669
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7761339
+  }
+}

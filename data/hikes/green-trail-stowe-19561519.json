@@ -1,0 +1,21 @@
+{
+  "id": "osm-19561519",
+  "slug": "green-trail-stowe-19561519",
+  "name": "Green Trail, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0266072,
+    "lon": -1.0133062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561519
+  }
+}

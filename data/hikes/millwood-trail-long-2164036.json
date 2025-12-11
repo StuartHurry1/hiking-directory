@@ -1,0 +1,21 @@
+{
+  "id": "osm-2164036",
+  "slug": "millwood-trail-long-2164036",
+  "name": "Millwood Trail (Long)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3410912,
+    "lon": -3.0241353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2164036
+  }
+}

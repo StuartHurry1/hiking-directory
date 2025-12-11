@@ -1,0 +1,21 @@
+{
+  "id": "osm-16666746",
+  "slug": "horningsea-and-clayhithe-river-walk-16666746",
+  "name": "Horningsea and Clayhithe River Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2577683,
+    "lon": 0.198679
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16666746
+  }
+}

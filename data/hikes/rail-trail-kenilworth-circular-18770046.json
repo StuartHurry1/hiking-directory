@@ -1,0 +1,21 @@
+{
+  "id": "osm-18770046",
+  "slug": "rail-trail-kenilworth-circular-18770046",
+  "name": "Rail Trail: Kenilworth Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3428538,
+    "lon": -1.5726577
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18770046
+  }
+}

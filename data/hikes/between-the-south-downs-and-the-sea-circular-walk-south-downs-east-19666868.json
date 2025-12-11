@@ -1,0 +1,47 @@
+{
+  "id": "osm-19666868",
+  "slug": "between-the-south-downs-and-the-sea-circular-walk-south-downs-east-19666868",
+  "name": "Between The South Downs and the Sea Circular Walk, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7602118,
+    "lon": 0.1962517
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19666868
+  },
+  "ai": {
+    "summary": "A challenging 17.2 km circular hike along the South Downs East, blending chalk downs, coastal scenery, and rural lanes. The route offers sweeping sea views, rugged upland sections, and exposure to wind; best suited for experienced hikers prepared for long distances and varied terrain. Expect steep ascents and uneven surfaces as you traverse the downs and coast before returning to the start point.",
+    "terrain_summary": "Primarily chalk downland paths with steep ascents and descents, mixed with grassy tracks, some flint/stone sections, and occasional woodland and meadow crossing. Expect uneven ground, muddy stretches after rain, short sections of steps or stiles, and exposed ridgelines near the coast with potential strong winds and sea spray. Take care near cliff edges and follow official paths.",
+    "safety_notes": "Check tide times and weather forecast before you start; avoid cliff-edge sections during high winds or poor visibility. Stay on established paths, carry a map and compass or GPS, and know your route. Allow extra time for longer stretches and potential detours. Bring sufficient water, snacks, sun protection in sunny weather, and layers for changing conditions. In an emergency, contact local authorities (999 in the UK).",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system (at least 1–2 liters)",
+      "Energy snacks or a packed lunch",
+      "Hat, sunglasses, and sunscreen",
+      "Small first aid kit",
+      "Headtorch or flashlight (optional)",
+      "Mobile phone with portable charger",
+      "Lightweight rain pants and extra socks",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Late spring to early autumn; can be tackled in other seasons with proper gear and daylight, but conditions are most favorable for coastal views and drier trails.",
+    "seo": {
+      "title": "Between The South Downs and the Sea Circular Walk, South Downs East – 17.2 km Coastal Hike in the UK",
+      "meta_description": "Experience a demanding 17.2 km circular hike along the South Downs East, blending chalk downs with dramatic coastal scenery. A tough coastal route ideal for seasoned hikers in the UK.",
+      "h1": "Between The South Downs and the Sea Circular Walk, South Downs East"
+    }
+  }
+}

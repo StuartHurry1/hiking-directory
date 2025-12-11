@@ -1,0 +1,43 @@
+{
+  "id": "osm-4086528",
+  "slug": "ashclyst-green-walk-4086528",
+  "name": "Ashclyst Green Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7877746,
+    "lon": -3.4229024
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086528
+  },
+  "ai": {
+    "summary": "Ashclyst Green Walk is a short, easy circular hike in the UK countryside, covering about 4.6 km. It’s suitable for families and casual walkers, offering gentle scenery along hedgerows, fields, and quiet lanes.",
+    "terrain_summary": "Predominantly well-defined footpaths and grassy lanes. Mostly flat with occasional gentle rises. Expect some damp spots or mud after rain; sturdy footwear is recommended.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear suitable footwear and layers, and carry water. Stay on marked paths, be mindful of livestock and other walkers, and watch for muddy or slippery sections after rain. If the route crosses roads, take care at crossings and keep pets under control.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Map, compass, or offline GPS",
+      "Fully charged mobile phone",
+      "Hat and sunscreen for sunny conditions",
+      "Snacks or energy bars",
+      "Small backpack and light rain cover",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Year-round; spring and summer often offer the most pleasant conditions, but the route can be enjoyed in autumn and winter with appropriate footwear.",
+    "seo": {
+      "title": "Ashclyst Green Walk – Easy 4.6 km UK hike",
+      "meta_description": "Explore Ashclyst Green Walk, a gentle 4.6 km circular hike in the UK countryside. Easy terrain, family-friendly, with practical safety and gear tips.",
+      "h1": "Ashclyst Green Walk – Easy 4.6 km UK hike"
+    }
+  }
+}

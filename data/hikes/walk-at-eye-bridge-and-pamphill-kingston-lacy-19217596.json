@@ -1,0 +1,23 @@
+{
+  "id": "osm-19217596",
+  "slug": "walk-at-eye-bridge-and-pamphill-kingston-lacy-19217596",
+  "name": "Walk at Eye Bridge and Pamphill, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8005024,
+    "lon": -2.0069978
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217596
+  }
+}

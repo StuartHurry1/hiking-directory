@@ -1,0 +1,46 @@
+{
+  "id": 10394186,
+  "slug": "redruth-br-28-10394186",
+  "name": "Redruth BR 28",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_bridleway",
+    "name": "Redruth BR 28",
+    "network": "lwn",
+    "prow_ref": "Redruth BR 28",
+    "route": "foot",
+    "source:designation": "cornwall_council_prow_gis_data",
+    "source:prow_ref": "cornwall_council_prow_gis_data",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.220594,
+      50.2392088
+    ],
+    [
+      -5.2205242,
+      50.2392002
+    ],
+    [
+      -5.2202533,
+      50.239159
+    ],
+    [
+      -5.2201466,
+      50.2390884
+    ],
+    [
+      -5.2207861,
+      50.2377856
+    ],
+    [
+      -5.2206694,
+      50.2377848
+    ],
+    [
+      -5.2205242,
+      50.237844
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-18680416",
+  "slug": "windermere-west-shore-walk-claife-viewing-station-18680416",
+  "name": "Windermere West Shore Walk, Claife Viewing Station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.4,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3502601,
+    "lon": -2.9436783
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18680416
+  }
+}

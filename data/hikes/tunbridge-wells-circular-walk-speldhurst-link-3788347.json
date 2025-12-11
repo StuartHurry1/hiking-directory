@@ -1,0 +1,23 @@
+{
+  "id": "osm-3788347",
+  "slug": "tunbridge-wells-circular-walk-speldhurst-link-3788347",
+  "name": "Tunbridge Wells Circular Walk (Speldhurst Link)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1490124,
+    "lon": 0.2193513
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3788347
+  }
+}

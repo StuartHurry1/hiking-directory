@@ -1,0 +1,42 @@
+{
+  "id": "osm-18720085",
+  "slug": "alder-coppice-blue-path-18720085",
+  "name": "Alder Coppice: Blue Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.551228,
+    "lon": -2.1284318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18720085
+  },
+  "ai": {
+    "summary": "A short, easy 1.1 km woodland stroll on the Alder Coppice: Blue Path in the UK. Suitable for all ages and a gentle introduction to coppice trails, with shade, calm surroundings, and a steady, slow pace.",
+    "terrain_summary": "Well-defined woodland path through a coppice. Mostly flat with gentle undulations; surface is typically compact soil or gravel, with occasional roots and potential damp patches after rain.",
+    "safety_notes": "Check the weather in advance and wear sturdy footwear. Stay on marked paths, be mindful of low branches and uneven surfaces, and watch for mud after rain. Keep dogs under control, carry water, and have a basic map or GPS. Cellular reception can be limited in woodland areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof layer",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Map or offline GPS",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn; milder temperatures and longer days are ideal, though a dry winter day can also be pleasant",
+    "seo": {
+      "title": "Alder Coppice: Blue Path – Easy 1.1 km Woodland Walk in the UK",
+      "meta_description": "Discover Alder Coppice's Blue Path, a gentle 1.1 km trail in the UK. Learn about terrain, safety tips, and gear for a comfortable, family-friendly woodland stroll.",
+      "h1": "Alder Coppice: Blue Path – Easy 1.1 km Woodland Walk"
+    }
+  }
+}

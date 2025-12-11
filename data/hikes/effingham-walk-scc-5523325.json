@@ -1,0 +1,21 @@
+{
+  "id": "osm-5523325",
+  "slug": "effingham-walk-scc-5523325",
+  "name": "Effingham walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2822883,
+    "lon": -0.3942529
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5523325
+  }
+}

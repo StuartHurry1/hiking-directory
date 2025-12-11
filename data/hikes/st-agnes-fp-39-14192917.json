@@ -1,0 +1,21 @@
+{
+  "id": "osm-14192917",
+  "slug": "st-agnes-fp-39-14192917",
+  "name": "St Agnes FP 39",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2781925,
+    "lon": -5.2236209
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14192917
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9729844",
+  "slug": "footpath-133-9729844",
+  "name": "Footpath 133",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5772463,
+    "lon": 0.1919308
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9729844
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18547925",
+  "slug": "galton-valley-walk-18547925",
+  "name": "Galton Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4987845,
+    "lon": -1.9715833
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18547925
+  }
+}

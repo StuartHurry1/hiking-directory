@@ -1,0 +1,40 @@
+{
+  "id": "osm-11507998",
+  "slug": "asta-loch-11507998",
+  "name": "Asta Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1597504,
+    "lon": -1.2555857
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507998
+  },
+  "ai": {
+    "summary": "Asta Loch offers a short, easy 2.2 km hike in the UK. A gentle circuit around the loch, suitable for beginners, families, and casual walkers seeking calm waterside scenery.",
+    "terrain_summary": "Predominantly flat to gently undulating paths around the loch. Surfaces are mostly grassy or compact gravel with occasional boardwalk or packed earth; expect occasional damp patches after rain. The route is well-marked and easy to follow.",
+    "safety_notes": "Always check the local weather before you go; UK conditions can change quickly. Wear sturdy footwear with good grip. Stay on marked paths, and keep children and pets within sight. Bring water and a light layer for wind or rain; in winter daylight hours are short and surfaces can be slippery. If visibility is low or you are alone, inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and a small snack",
+      "Sun protection (hat, sunscreen) in sunny weather",
+      "Map, route notes, or offline navigation",
+      "Phone with emergency contacts and a basic first-aid kit"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best conditions with longer daylight and drier trails.",
+    "seo": {
+      "title": "Asta Loch – Easy 2.2 km Hike in the UK",
+      "meta_description": "Explore Asta Loch with this easy 2.2 km walk. Flat, scenic lochside terrain, practical safety tips, and gear recommendations for a relaxed UK hike.",
+      "h1": "Asta Loch – Easy 2.2 km Hike"
+    }
+  }
+}

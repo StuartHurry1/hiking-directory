@@ -1,0 +1,21 @@
+{
+  "id": "osm-16711174",
+  "slug": "culliaghs-walk-crom-16711174",
+  "name": "Culliaghs Walk, Crom",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1664552,
+    "lon": -7.4347337
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16711174
+  }
+}

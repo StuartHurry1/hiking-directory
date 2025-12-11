@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506695",
+  "slug": "dale-of-walls-huxter-mills-to-bousta-11506695",
+  "name": "Dale of Walls, Huxter Mills to Bousta",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.3029624,
+    "lon": -1.6002658
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506695
+  }
+}

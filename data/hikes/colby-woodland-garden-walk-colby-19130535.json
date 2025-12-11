@@ -1,0 +1,21 @@
+{
+  "id": "osm-19130535",
+  "slug": "colby-woodland-garden-walk-colby-19130535",
+  "name": "Colby Woodland Garden Walk, Colby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7412839,
+    "lon": -4.6693008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19130535
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16450187",
+  "slug": "wildlife-trail-1-fen-and-wet-woodland-16450187",
+  "name": "Wildlife Trail 1: Fen and Wet Woodland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6215424,
+    "lon": 1.2317996
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16450187
+  }
+}

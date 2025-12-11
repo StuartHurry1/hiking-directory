@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497968",
+  "slug": "wester-quarff-11497968",
+  "name": "Wester Quarff",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0985261,
+    "lon": -1.2677552
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497968
+  }
+}

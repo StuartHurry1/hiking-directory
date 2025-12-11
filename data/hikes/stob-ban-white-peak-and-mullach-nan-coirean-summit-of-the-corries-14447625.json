@@ -1,0 +1,21 @@
+{
+  "id": "osm-14447625",
+  "slug": "stob-ban-white-peak-and-mullach-nan-coirean-summit-of-the-corries-14447625",
+  "name": "Stob Ban (white peak) and Mullach nan Coirean (Summit of the Corries)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7703276,
+    "lon": -5.0535407
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14447625
+  }
+}

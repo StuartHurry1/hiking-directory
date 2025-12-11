@@ -1,0 +1,48 @@
+{
+  "id": "osm-1713853",
+  "slug": "borders-abbeys-way-1713853",
+  "name": "Borders Abbeys Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 200.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4517939,
+    "lon": -2.6570604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1713853
+  },
+  "ai": {
+    "summary": "The Borders Abbeys Way is a demanding long-distance trekking route in the United Kingdom, roughly 200.4 km in length and designed for experienced hikers. The route links historic abbeys with rolling countryside, remote valleys, and border-country scenery, delivering considerable daily distances, elevation gain, and exposed sections. Expect a mix of rural lanes, moorland paths, woodlands, and occasional town or village detours, with cultural highlights at abbey ruins along the way.",
+    "terrain_summary": "Expect a varied terrain mix: grassy uplands and moorland tracks, forest trails, ribbon-like country lanes, river valleys, and occasional road sections. The surface ranges from well-made paths to muddy, uneven ground; there are gentle approaches in some sections and steeper ascents in others, with stiles, gates, and potential boggy stretches after rain.",
+    "safety_notes": "This is a strenuous, multi-day route with long daily distances and variable weather factors. Plan carefully: map and compass or GPS, a planned daily itinerary, and accommodation or resupply points. Check local conditions, bring waterproof clothing, sun protection, extra layers, and sufficient food and water. Take care on exposed sections, road crossings, and in remote stretches where help may be far away; tell someone your plan; have a means of emergency communication. Tick-borne illness, wildlife, and uneven footing are potential hazards; cross-border sections may involve road walking or limits on public transport.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Thermal layers and hat gloves",
+      "Packed meals and high-energy snacks",
+      "Water bottles or hydration reservoir",
+      "Map, compass, and/or GPS device",
+      "Headlamp with spare batteries",
+      "First aid kit and personal medications",
+      "Emergency bivy or space blanket",
+      "Lightweight tent or bivy (optional for wild camping)",
+      "Flexible trekking poles",
+      "Sunscreen and sunglasses",
+      "Phone charger or power bank",
+      "Whistle and multi-tool"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) typically offers the best weather and daylight for this route, though conditions can be variable and wet, windy, or icy at any time.",
+    "seo": {
+      "title": "Borders Abbeys Way: 200km UK Long-Distance Trek to Historic Abbey Ruins",
+      "meta_description": "Plan your adventure on the Borders Abbeys Way, a challenging 200.4 km trek in the UK. Explore rolling countryside, border scenery, and ancient abbeys while preparing gear and safety steps.",
+      "h1": "Borders Abbeys Way — a 200km UK Long-Distance Trek"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mam-tor-great-ridge",
+  "slug": "mam-tor-great-ridge",
+  "name": "Mam Tor & The Great Ridge",
+  "region": "Peak District",
+  "country": "England",
+  "county": "Derbyshire",
+
+  "start": {
+    "lat": 53.3501,
+    "lon": -1.7744,
+    "nearest_postcode": "S33 8WA"
+  },
+  "end": {
+    "lat": 53.3501,
+    "lon": -1.7744,
+    "nearest_postcode": "S33 8WA"
+  },
+
+  "distance_km": 8.0,
+  "ascent_m": 380,
+  "descent_m": 380,
+  "difficulty": "moderate",
+  "terrain": ["ridge", "hill"],
+  "features": ["views", "ridge", "hillfort"],
+  "theme_tags": ["ridge"],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [
+      {
+        "name": "Hope",
+        "distance_km": 2.8,
+        "station_code": "HOP"
+      }
+    ],
+    "nearest_bus_stops": [],
+    "access_summary": "Reachable via the Hope Valley line; a short walk or taxi ride to the trail start."
+  },
+
+  "ai": {
+    "summary": "A classic Peak District ridge walk with spectacular views across Edale and the Hope Valley, linking Mam Tor with the Great Ridge.",
+    "terrain_summary": "Firm ridge paths with some steep sections and stone steps. Exposed in windy conditions.",
+    "safety_notes": "High winds can be severe along the ridge. Stay back from steep drops and check the forecast.",
+    "recommended_gear": ["windproof jacket", "sturdy boots", "map or GPS"],
+    "best_seasons": "Spring through autumn, or clear winter days."
+  },
+
+  "seo": {
+    "title": "Mam Tor & The Great Ridge Walk – Peak District Hiking Route",
+    "meta_description": "A classic 8 km Peak District ridge hike over Mam Tor with panoramic views across Edale and Hope Valley.",
+    "h1": "Mam Tor & The Great Ridge"
+  }
+}

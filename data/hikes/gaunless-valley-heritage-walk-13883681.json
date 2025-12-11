@@ -1,0 +1,21 @@
+{
+  "id": "osm-13883681",
+  "slug": "gaunless-valley-heritage-walk-13883681",
+  "name": "Gaunless Valley Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6209113,
+    "lon": -1.8777755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13883681
+  }
+}

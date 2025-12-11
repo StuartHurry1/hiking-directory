@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209034",
+  "slug": "claxton-circular-18209034",
+  "name": "Claxton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5893496,
+    "lon": 1.4355567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209034
+  }
+}

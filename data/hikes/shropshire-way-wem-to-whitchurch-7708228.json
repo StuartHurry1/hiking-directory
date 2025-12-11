@@ -1,0 +1,21 @@
+{
+  "id": "osm-7708228",
+  "slug": "shropshire-way-wem-to-whitchurch-7708228",
+  "name": "Shropshire Way - Wem to Whitchurch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8557956,
+    "lon": -2.72347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7708228
+  }
+}

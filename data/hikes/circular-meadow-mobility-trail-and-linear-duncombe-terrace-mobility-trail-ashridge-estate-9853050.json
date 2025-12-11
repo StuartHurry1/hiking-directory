@@ -1,0 +1,23 @@
+{
+  "id": "osm-9853050",
+  "slug": "circular-meadow-mobility-trail-and-linear-duncombe-terrace-mobility-trail-ashridge-estate-9853050",
+  "name": "Circular Meadow Mobility Trail & Linear Duncombe Terrace Mobility Trail, Ashridge Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8079316,
+    "lon": -0.5925694
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9853050
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3015040",
+  "slug": "ripon-rowel-walk-3015040",
+  "name": "Ripon Rowel Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 73.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1428496,
+    "lon": -1.5166139
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3015040
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19905300",
+  "slug": "tilberthwaite-to-cathedral-quarry-tarn-hows-and-coniston-19905300",
+  "name": "Tilberthwaite to Cathedral Quarry, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4002743,
+    "lon": -3.0706622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19905300
+  }
+}

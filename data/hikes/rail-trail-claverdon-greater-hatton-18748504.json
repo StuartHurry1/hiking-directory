@@ -1,0 +1,21 @@
+{
+  "id": "osm-18748504",
+  "slug": "rail-trail-claverdon-greater-hatton-18748504",
+  "name": "Rail Trail: Claverdon > Hatton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2774717,
+    "lon": -1.696257
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18748504
+  }
+}

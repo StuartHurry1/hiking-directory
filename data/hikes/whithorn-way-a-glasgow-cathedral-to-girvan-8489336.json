@@ -1,0 +1,21 @@
+{
+  "id": "osm-8489336",
+  "slug": "whithorn-way-a-glasgow-cathedral-to-girvan-8489336",
+  "name": "Whithorn Way - a Glasgow Cathedral to Girvan",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 330.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8629232,
+    "lon": -4.2353128
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8489336
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19761173",
+  "slug": "memorial-route-runnymede-19761173",
+  "name": "Memorial Route, Runnymede",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4484055,
+    "lon": -0.5678695
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19761173
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17366845",
+  "slug": "mesopotamia-walk-17366845",
+  "name": "Mesopotamia Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7562063,
+    "lon": -1.2385532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17366845
+  }
+}

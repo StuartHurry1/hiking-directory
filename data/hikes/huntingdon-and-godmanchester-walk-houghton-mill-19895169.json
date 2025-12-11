@@ -1,0 +1,21 @@
+{
+  "id": "osm-19895169",
+  "slug": "huntingdon-and-godmanchester-walk-houghton-mill-19895169",
+  "name": "Huntingdon and Godmanchester Walk, Houghton Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3380431,
+    "lon": -0.1524914
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19895169
+  }
+}

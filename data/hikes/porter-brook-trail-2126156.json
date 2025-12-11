@@ -1,0 +1,21 @@
+{
+  "id": "osm-2126156",
+  "slug": "porter-brook-trail-2126156",
+  "name": "Porter Brook Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3561944,
+    "lon": -1.5619001
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2126156
+  }
+}

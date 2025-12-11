@@ -1,0 +1,21 @@
+{
+  "id": "osm-966635",
+  "slug": "west-bowburn-way-966635",
+  "name": "West Bowburn Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7339341,
+    "lon": -1.5252057
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 966635
+  }
+}

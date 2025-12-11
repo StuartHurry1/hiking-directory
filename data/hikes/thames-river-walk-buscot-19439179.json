@@ -1,0 +1,21 @@
+{
+  "id": "osm-19439179",
+  "slug": "thames-river-walk-buscot-19439179",
+  "name": "Thames River Walk, Buscot",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6774431,
+    "lon": -1.6675936
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19439179
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480060",
+  "slug": "sumburgh-head-to-grutness-11480060",
+  "name": "Sumburgh Head to Grutness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.8695693,
+    "lon": -1.287688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480060
+  }
+}

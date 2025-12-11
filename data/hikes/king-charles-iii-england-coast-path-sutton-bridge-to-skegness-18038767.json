@@ -1,0 +1,24 @@
+{
+  "id": "osm-18038767",
+  "slug": "king-charles-iii-england-coast-path-sutton-bridge-to-skegness-18038767",
+  "name": "King Charles III England Coast Path: Sutton Bridge to Skegness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 172.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7668607,
+    "lon": 0.1946734
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18038767
+  }
+}

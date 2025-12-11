@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497969",
+  "slug": "fladdabister-old-road-11497969",
+  "name": "Fladdabister Old Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0717004,
+    "lon": -1.217698
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497969
+  }
+}

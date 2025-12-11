@@ -1,0 +1,23 @@
+{
+  "id": "osm-19252978",
+  "slug": "shropshire-way-whitchurch-to-ellesmere-19252978",
+  "name": "Shropshire Way - Whitchurch to Ellesmere",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 54.8,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9815146,
+    "lon": -2.7107042
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19252978
+  }
+}

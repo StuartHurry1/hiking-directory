@@ -1,0 +1,39 @@
+{
+  "id": "osm-10955164",
+  "slug": "camborne-br-53-10955164",
+  "name": "Camborne BR 53",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1950289,
+    "lon": -5.2584335
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10955164
+  },
+  "ai": {
+    "summary": "Camborne BR 53 is a very short, easy hike in the United Kingdom. The route covers 0.2 km and is suitable for beginners, families, and casual walkers seeking a quick outdoor experience.",
+    "terrain_summary": "Short, flat route on a well-maintained surface. Minimal elevation change; suitable for light footwear and strollers, but check local conditions.",
+    "safety_notes": "Despite the short distance, weather can affect footing. Wear appropriate footwear; watch for slippery surfaces when wet; stay on the marked path; carry a phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof layer",
+      "Water bottle",
+      "Phone with emergency contacts",
+      "Light snack"
+    ],
+    "best_seasons": "Spring to Autumn; summers are generally pleasant, while winter conditions can make the surface slippery",
+    "seo": {
+      "title": "Camborne BR 53: Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore Camborne BR 53, a short 0.2 km easy hike in the United Kingdom. Learn about the terrain, safety tips, and recommended gear for this quick outdoor stroll.",
+      "h1": "Camborne BR 53 — Easy Short Hike in the UK"
+    }
+  }
+}

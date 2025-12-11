@@ -1,0 +1,21 @@
+{
+  "id": "osm-17567065",
+  "slug": "inver-trail-17567065",
+  "name": "Inver Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.017139,
+    "lon": -6.0987591
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17567065
+  }
+}

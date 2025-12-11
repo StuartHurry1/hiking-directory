@@ -1,0 +1,21 @@
+{
+  "id": "osm-19852457",
+  "slug": "hod-hill-butterfly-walk-hod-hill-19852457",
+  "name": "Hod Hill butterfly walk, Hod Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9004373,
+    "lon": -2.2103538
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19852457
+  }
+}

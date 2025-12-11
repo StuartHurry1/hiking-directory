@@ -1,0 +1,23 @@
+{
+  "id": "osm-1536034",
+  "slug": "colebridge-way-1536034",
+  "name": "Colebridge Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5067032,
+    "lon": -1.7922099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1536034
+  }
+}

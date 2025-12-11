@@ -1,0 +1,21 @@
+{
+  "id": "osm-19650428",
+  "slug": "erddig-riverside-walk-19650428",
+  "name": "Erddig Riverside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0261975,
+    "lon": -3.0043682
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19650428
+  }
+}

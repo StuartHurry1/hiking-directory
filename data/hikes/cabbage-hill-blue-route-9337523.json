@@ -1,0 +1,40 @@
+{
+  "id": "osm-9337523",
+  "slug": "cabbage-hill-blue-route-9337523",
+  "name": "Cabbage Hill Blue Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4307091,
+    "lon": -0.7639935
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9337523
+  },
+  "ai": {
+    "summary": "Cabbage Hill Blue Route is a short, easy 0.7 km hike in the UK, designed for beginners and families. The route follows a blue-marked path, with gentle gradients and countryside scenery that make it a quick and pleasant outing.",
+    "terrain_summary": "Primarily a grassy track or compacted earth. Expect gentle gradients with occasional mud after rain and a few small steps or exposed roots. The surface is generally easy underfoot, making it suitable for a very short walk.",
+    "safety_notes": "Always check current trail conditions and weather before you go. Wear sturdy waterproof footwear and bring a light rain jacket. Carry a map or offline GPS, a charged phone, and some water. Stay on marked paths to protect wildlife and farmland, and supervise children at all times. If visibility is reduced, turn back and seek shelter if needed.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (jacket, layers)",
+      "Map or offline GPS device",
+      "Phone with emergency contacts",
+      "Sunscreen and hat (for sunny conditions)"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions for this short UK hike. Summer is ideal for dry trails, but be prepared for sudden showers. In winter, expect mud and lower daylight hours, and check for possible path closures.",
+    "seo": {
+      "title": "Cabbage Hill Blue Route – Easy 0.7 km Hike in the UK",
+      "meta_description": "Discover the family-friendly 0.7 km Cabbage Hill Blue Route in the UK. An easy, short hike with practical safety tips, gear, and the best seasons to visit.",
+      "h1": "Cabbage Hill Blue Route: Easy 0.7 km Hike in the UK"
+    }
+  }
+}

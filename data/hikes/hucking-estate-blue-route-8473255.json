@@ -1,0 +1,21 @@
+{
+  "id": "osm-8473255",
+  "slug": "hucking-estate-blue-route-8473255",
+  "name": "Hucking Estate Blue Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2934657,
+    "lon": 0.6334695
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8473255
+  }
+}

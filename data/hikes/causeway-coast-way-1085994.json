@@ -1,0 +1,23 @@
+{
+  "id": "osm-1085994",
+  "slug": "causeway-coast-way-1085994",
+  "name": "Causeway Coast Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 78.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1716507,
+    "lon": -6.7257401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1085994
+  }
+}

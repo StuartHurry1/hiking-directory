@@ -1,0 +1,21 @@
+{
+  "id": "osm-3585651",
+  "slug": "priests-way-3585651",
+  "name": "Priest's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6069425,
+    "lon": -1.9744314
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3585651
+  }
+}

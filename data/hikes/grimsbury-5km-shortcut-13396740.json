@@ -1,0 +1,21 @@
+{
+  "id": "osm-13396740",
+  "slug": "grimsbury-5km-shortcut-13396740",
+  "name": "Grimsbury 5km Shortcut",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0690168,
+    "lon": -1.3292187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13396740
+  }
+}

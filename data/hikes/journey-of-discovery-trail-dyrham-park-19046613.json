@@ -1,0 +1,21 @@
+{
+  "id": "osm-19046613",
+  "slug": "journey-of-discovery-trail-dyrham-park-19046613",
+  "name": "Journey of Discovery trail, Dyrham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4817501,
+    "lon": -2.3701501
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19046613
+  }
+}

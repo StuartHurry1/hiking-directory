@@ -1,0 +1,21 @@
+{
+  "id": "osm-18173443",
+  "slug": "gressenhallbeetley-circular-18173443",
+  "name": "Gressenhall/Beetley Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7151818,
+    "lon": 0.9233726
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18173443
+  }
+}

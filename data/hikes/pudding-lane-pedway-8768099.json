@@ -1,0 +1,21 @@
+{
+  "id": "osm-8768099",
+  "slug": "pudding-lane-pedway-8768099",
+  "name": "Pudding Lane pedway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5092775,
+    "lon": -0.085623
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8768099
+  }
+}

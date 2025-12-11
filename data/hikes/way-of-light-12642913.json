@@ -1,0 +1,21 @@
+{
+  "id": "osm-12642913",
+  "slug": "way-of-light-12642913",
+  "name": "Way of Light",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 196.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.020496,
+    "lon": -2.1001177
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12642913
+  }
+}

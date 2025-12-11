@@ -1,0 +1,21 @@
+{
+  "id": "osm-2953267",
+  "slug": "imber-range-perimeter-path-2953267",
+  "name": "Imber Range Perimeter Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 113.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2000182,
+    "lon": -2.0724241
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2953267
+  }
+}

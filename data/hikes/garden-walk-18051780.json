@@ -1,0 +1,21 @@
+{
+  "id": "osm-18051780",
+  "slug": "garden-walk-18051780",
+  "name": "Garden Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3797941,
+    "lon": -5.671911
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051780
+  }
+}

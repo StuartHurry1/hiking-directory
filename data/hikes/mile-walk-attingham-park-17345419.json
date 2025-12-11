@@ -1,0 +1,21 @@
+{
+  "id": "osm-17345419",
+  "slug": "mile-walk-attingham-park-17345419",
+  "name": "Mile Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6860247,
+    "lon": -2.6692632
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17345419
+  }
+}

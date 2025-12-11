@@ -1,0 +1,21 @@
+{
+  "id": "osm-16058622",
+  "slug": "peatlands-walk-16058622",
+  "name": "Peatlands Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4947114,
+    "lon": -6.6109741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16058622
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7522322",
+  "slug": "summit-trail-7522322",
+  "name": "Summit Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3056983,
+    "lon": -3.7514144
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7522322
+  }
+}

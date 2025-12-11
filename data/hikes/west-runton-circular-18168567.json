@@ -1,0 +1,21 @@
+{
+  "id": "osm-18168567",
+  "slug": "west-runton-circular-18168567",
+  "name": "West Runton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9411362,
+    "lon": 1.2503661
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18168567
+  }
+}

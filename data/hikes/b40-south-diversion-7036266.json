@@ -1,0 +1,41 @@
+{
+  "id": "osm-7036266",
+  "slug": "b40-south-diversion-7036266",
+  "name": "+B40 South Diversion",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4655592,
+    "lon": -1.4495867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7036266
+  },
+  "ai": {
+    "summary": "An ultra-short, easy walk along the +B40 South Diversion in the UK. At only 0.3 km, it’s ideal for a quick stroll, suitable for families and beginners seeking a low-impact outdoor activity.",
+    "terrain_summary": "The route features a flat, well-maintained surface—typically tarmac, paved path, or compacted gravel. Expect minimal elevation change, with possible damp patches after rain and occasional shaded sections.",
+    "safety_notes": "This is a very short walk, but standard outdoor safety applies: stay on marked paths, be mindful of other pedestrians, and check local conditions before you go. In urban or canal-adjacent areas, watch for cyclists and low-hanging branches. Wear sturdy shoes, bring a light layer for unexpected weather, and keep valuables secure.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket or windbreaker",
+      "Sunscreen and hat (seasonal)",
+      "Phone with offline map or local guidance",
+      "Small snack if needed"
+    ],
+    "best_seasons": "Year-round in the UK, with particularly pleasant conditions in spring and autumn when temperatures are mild and daylight is comfortable.",
+    "seo": {
+      "title": "+B40 South Diversion Walk – Easy 0.3 km Hike in the UK",
+      "meta_description": "Discover an ultra-short, easy 0.3 km hike on the +B40 South Diversion in the UK. Flat terrain, family-friendly and accessible year-round.",
+      "h1": "+B40 South Diversion"
+    }
+  }
+}

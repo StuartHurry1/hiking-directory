@@ -1,0 +1,21 @@
+{
+  "id": "osm-16075650",
+  "slug": "pine-cone-point-path-16075650",
+  "name": "Pine Cone Point Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5584859,
+    "lon": -3.6180518
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16075650
+  }
+}

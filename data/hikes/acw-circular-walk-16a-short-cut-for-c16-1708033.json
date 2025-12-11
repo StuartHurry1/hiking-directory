@@ -1,0 +1,44 @@
+{
+  "id": "osm-1708033",
+  "slug": "acw-circular-walk-16a-short-cut-for-c16-1708033",
+  "name": "ACW Circular Walk 16A (short-cut for C16)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4693563,
+    "lon": -1.5314803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1708033
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 16A (short-cut for C16) is a demanding 22.8 km circular hike in the UK. The route blends country lanes, grassy tracks, and occasional rough sections, with several ascents and a steady, long day of walking. The short-cut variant provides a more direct option for experienced hikers.",
+    "terrain_summary": "Mixed terrain with paved lanes, grassy bridleways, and rough, uneven paths. Expect mud in wetter conditions, modest to moderate elevation changes, and some stony or tussocky sections. Gates, hedges, and occasional moorland-style footing may appear along the route.",
+    "safety_notes": "This is a long and strenuous outing that can take around 6–9 hours depending on pace. Be prepared for changeable UK weather and potentially muddy or slippery sections. Navigation can be challenging in less-marked areas, so carry a map and compass or GPS. Wear sturdy boots, bring sufficient water and snacks, dress in layers, and have a plan for daylight. Check for access issues, cattle, and gate etiquette along farmland sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks (2–3 litres of water preferred)",
+      "Weather-appropriate clothing (layering; waterproof jacket and trousers)",
+      "Map and compass or GPS device",
+      "Hat, gloves and an extra warm layer for changing conditions",
+      "Walking poles (optional but helpful on long ascents)",
+      "First aid kit and a small emergency wind/foil blanket",
+      "Headlamp or flashlight (in case of delays or poor light)",
+      "Small knife/multi-tool and whistle",
+      "Pack suitable for a full day's carry"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with longer daylight and milder weather. Avoid deep winter conditions when mud, ice, and reduced daylight make the route riskier.",
+    "seo": {
+      "title": "ACW Circular Walk 16A – 22.8 km Hard Circular Hike in the UK (Short-cut for C16)",
+      "meta_description": "Discover ACW Circular Walk 16A, a challenging 22.8 km circular hike in the UK with a short-cut option for C16. Learn about terrain, safety tips, gear, and the best seasons for this route.",
+      "h1": "ACW Circular Walk 16A (Short-cut for C16) – 22.8 km Hard Hike in the UK"
+    }
+  }
+}

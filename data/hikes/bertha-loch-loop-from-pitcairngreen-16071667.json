@@ -1,0 +1,44 @@
+{
+  "id": "osm-16071667",
+  "slug": "bertha-loch-loop-from-pitcairngreen-16071667",
+  "name": "Bertha Loch Loop from Pitcairngreen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.4246643,
+    "lon": -3.5142432
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16071667
+  },
+  "ai": {
+    "summary": "Bertha Loch Loop from Pitcairngreen is a 9.1 km moderate circuit in the UK that circles Bertha Loch and traverses varied countryside. The route blends woodland trails, field edges, and occasional shoreline sections, offering tranquil rural scenery and wildlife sightings at a relaxed pace suitable for hikers with intermediate fitness.",
+    "terrain_summary": "A mix of well-defined trails and grassy paths with some muddy stretches after rain. Generally gentle elevation changes with short ascents and descents. Portions run along the loch shore and through woodland; expect uneven roots, potential slippery boards near water, and occasional cattle/grazing areas.",
+    "safety_notes": "Check the weather forecast and wear sturdy waterproof boots. Stick to marked paths; edges by the water can be slippery. Muddy conditions are common in wet weather—bring a waterproof layer and extra clothing. Carry a map or GPS, stay hydrated, and know your route and turn-back points. Inform someone of your plan and expected return. Keep a charged phone, be mindful of livestock, and watch for changes in daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Snack or energy bars",
+      "Lightweight rain shell and extra mid-layer",
+      "Hat and gloves if windy",
+      "Small first aid kit",
+      "Phone with offline map or downloaded route",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the best trail conditions and daylight; winter hikes are possible with appropriate gear and shorter daylight hours.",
+    "seo": {
+      "title": "Bertha Loch Loop from Pitcairngreen – 9.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the Bertha Loch Loop from Pitcairngreen, a 9.1 km moderate hike in the UK featuring lochside paths, woodland sections, and rural scenery. Includes safety tips and gear recommendations.",
+      "h1": "Bertha Loch Loop from Pitcairngreen – 9.1 km Moderate Hike"
+    }
+  }
+}

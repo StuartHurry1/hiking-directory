@@ -1,0 +1,21 @@
+{
+  "id": "osm-16947260",
+  "slug": "consett-heritage-trail-16947260",
+  "name": "Consett Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8390978,
+    "lon": -1.8473291
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16947260
+  }
+}

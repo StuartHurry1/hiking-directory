@@ -1,0 +1,42 @@
+{
+  "id": "osm-1668626",
+  "slug": "amber-valley-routeway-walk-16-1668626",
+  "name": "Amber Valley Routeway Walk 16",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9900096,
+    "lon": -1.3622805
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1668626
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 16 is a 7.8 km moderate hike in the UK along the Amber Valley Routeway. The route offers a pleasant mix of countryside paths and modest elevation, suitable for walkers comfortable with a steady pace.",
+    "terrain_summary": "The terrain is a mix of well-kept footpaths, grassy verges, and occasional muddy or uneven sections. You may encounter canal towpaths or embankments, and gentle rises plus flat stretches. Footing can be uneven after rain, so sturdy footwear is advised.",
+    "safety_notes": "Carry sufficient water and snacks, wear sturdy footwear, and check the forecast before you go. Stay on marked paths, watch for uneven ground and mud, and be cautious near road crossings. Tell someone your plan and expected return time. Bring a charged phone and a basic map or GPS; in cold or wet conditions wear layers and waterproof outerwear. In case of emergency, dial 999 in the UK.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle and snacks",
+      "Map or GPS device / offline map",
+      "Phone with emergency contacts",
+      "Hat, sunscreen, and sunglasses",
+      "Small backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn; can be done in winter with proper gear and daylight.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 16 – 7.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the Amber Valley Routeway Walk 16, a 7.8 km moderate hike in the UK. Learn about terrain, safety tips, the best seasons to hike, and what gear to bring.",
+      "h1": "Amber Valley Routeway Walk 16 – 7.8 km Moderate UK Hike"
+    }
+  }
+}

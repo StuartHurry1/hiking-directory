@@ -1,0 +1,21 @@
+{
+  "id": "osm-5571103",
+  "slug": "river-teign-walk-5571103",
+  "name": "River Teign Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 77.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6008197,
+    "lon": -3.6119865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5571103
+  }
+}

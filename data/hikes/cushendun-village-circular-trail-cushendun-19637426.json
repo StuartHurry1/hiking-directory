@@ -1,0 +1,21 @@
+{
+  "id": "osm-19637426",
+  "slug": "cushendun-village-circular-trail-cushendun-19637426",
+  "name": "Cushendun Village Circular Trail, Cushendun",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1253136,
+    "lon": -6.0425052
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19637426
+  }
+}

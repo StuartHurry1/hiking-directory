@@ -1,0 +1,40 @@
+{
+  "id": "osm-17293710",
+  "slug": "ancient-trees-walk-killerton-17293710",
+  "name": "Ancient Trees Walk, Killerton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7911118,
+    "lon": -3.4537945
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17293710
+  },
+  "ai": {
+    "summary": "A short, easy 2.8 km woodland stroll at Killerton Estate in the UK. Family-friendly and suitable for all ages, this route winds through ancient trees along well-trodden paths, offering a peaceful nature experience with minimal elevation.",
+    "terrain_summary": "Mostly flat, well-maintained woodland paths with occasional tree roots and small gravel sections. Some uneven segments may require careful footing; sturdy footwear is recommended.",
+    "safety_notes": "Wear comfortable walking shoes and bring water. Check for any path closures or seasonal notices at Killerton. Stay on marked trails and respect wildlife. Mobile signal can be patchy in woodland areas, so carry a simple map or download directions. Dress in layers to adjust to changing UK weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light jacket or fleece",
+      "Small backpack",
+      "Hat and sunscreen (sun protection)"
+    ],
+    "best_seasons": "Year-round; spring and autumn are particularly pleasant for wildlife and scenery.",
+    "seo": {
+      "title": "Ancient Trees Walk, Killerton – Easy 2.8 km Woodland Trail in the UK",
+      "meta_description": "Explore the Ancient Trees Walk at Killerton Estate in the UK. A short, easy 2.8 km woodland trail through ancient trees—perfect for families and nature lovers.",
+      "h1": "Ancient Trees Walk, Killerton – Easy 2.8 km Woodland Trail"
+    }
+  }
+}

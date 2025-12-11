@@ -1,0 +1,21 @@
+{
+  "id": "osm-236878",
+  "slug": "cray-riverway-236878",
+  "name": "Cray Riverway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4518873,
+    "lon": 0.1733237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 236878
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507211",
+  "slug": "sandvoe-to-uyea-and-fetherland-west-11507211",
+  "name": "Sandvoe to Uyea and Fetherland West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6054916,
+    "lon": -1.3340384
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507211
+  }
+}

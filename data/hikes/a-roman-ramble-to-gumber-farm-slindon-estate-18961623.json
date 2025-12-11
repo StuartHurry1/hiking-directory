@@ -1,0 +1,44 @@
+{
+  "id": "osm-18961623",
+  "slug": "a-roman-ramble-to-gumber-farm-slindon-estate-18961623",
+  "name": "A Roman ramble to Gumber Farm, Slindon Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9074924,
+    "lon": -0.6182169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18961623
+  },
+  "ai": {
+    "summary": "A 10.5 km moderately challenging circuit to Gumber Farm within the Slindon Estate, combining woodland trails with open country paths in the UK.",
+    "terrain_summary": "Varied terrain: shaded forest tracks, grassy or gravel paths, and occasional narrow lanes. Expect some uneven ground, roots and small gradients, and gates or stiles along the route. Mud possible after rain.",
+    "safety_notes": "- Check weather and daylight hours; wear sturdy footwear and dress in layers. - Stay on marked paths; respect farmland boundaries and gates. - Watch for uneven ground, roots, and livestock; use extra caution on wet surfaces. - Bring a map or GPS, and let someone know your planned route and return time. - Carry water and snacks; have a small first-aid kit. - If hiking with dogs, keep them under control and on a leash where required.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle (1–2 liters)",
+      "Snacks or energy bars",
+      "Map and/or GPS or fully charged phone with offline map",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Headlamp or flashlight (for potential delays)",
+      "Pocket knife or multitool",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when trails are drier and daylight is longer; autumn offers color but can be slippery; check forecasts for rain and wind.",
+    "seo": {
+      "title": "A Roman Ramble to Gumber Farm – 10.5 km Moderate Hike in Slindon Estate, UK",
+      "meta_description": "Explore a 10.5 km moderate hike to Gumber Farm through Slindon Estate, West Sussex. Terrain overview, safety tips, and gear suggestions for a rewarding UK countryside walk.",
+      "h1": "A Roman Ramble to Gumber Farm, Slindon Estate"
+    }
+  }
+}

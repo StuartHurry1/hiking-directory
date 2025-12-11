@@ -1,0 +1,21 @@
+{
+  "id": "osm-4626604",
+  "slug": "west-loop-4626604",
+  "name": "West Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8186135,
+    "lon": -4.052672
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4626604
+  }
+}

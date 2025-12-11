@@ -1,0 +1,21 @@
+{
+  "id": "osm-126358",
+  "slug": "the-chiltern-way-northern-extension-126358",
+  "name": "The Chiltern Way Northern Extension",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 94.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9359719,
+    "lon": -0.4035187
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 126358
+  }
+}

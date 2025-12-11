@@ -1,0 +1,23 @@
+{
+  "id": "osm-3967662",
+  "slug": "king-charles-iii-england-coast-path-allonby-to-whitehaven-3967662",
+  "name": "King Charles III England Coast Path: Allonby to Whitehaven",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 90.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7726474,
+    "lon": -3.4309134
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3967662
+  }
+}

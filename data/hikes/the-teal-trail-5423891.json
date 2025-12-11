@@ -1,0 +1,21 @@
+{
+  "id": "osm-5423891",
+  "slug": "the-teal-trail-5423891",
+  "name": "The Teal Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9442049,
+    "lon": -1.0819182
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5423891
+  }
+}

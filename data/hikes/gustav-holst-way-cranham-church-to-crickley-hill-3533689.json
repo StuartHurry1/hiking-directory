@@ -1,0 +1,21 @@
+{
+  "id": "osm-3533689",
+  "slug": "gustav-holst-way-cranham-church-to-crickley-hill-3533689",
+  "name": "Gustav Holst Way (Cranham Church to Crickley Hill)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8105513,
+    "lon": -2.1595031
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3533689
+  }
+}

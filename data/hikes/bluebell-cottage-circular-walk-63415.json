@@ -1,0 +1,42 @@
+{
+  "id": "osm-63415",
+  "slug": "bluebell-cottage-circular-walk-63415",
+  "name": "Bluebell Cottage Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2863148,
+    "lon": -2.6248304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 63415
+  },
+  "ai": {
+    "summary": "Bluebell Cottage Circular Walk is a 12.4-kilometre circular hike in the UK countryside. The route combines gentle ascents with woodland and meadow scenery, offering a pleasant moderate challenge suitable for walkers with some experience. The loop passes through bluebell woods in season and returns to the starting point via a scenic mix of paths and rural lanes.",
+    "terrain_summary": "Primarily well-defined paths and grassy trails with occasional muddy sections. Expect gentle ascents, stiles, gates, and uneven ground near field edges. Surfaces can be wet after rain; waterproof footwear is recommended.",
+    "safety_notes": "Plan for UK weather, which can change quickly. Wear sturdy boots, bring waterproof clothing, and carry a map or GPS. Start early in shorter daylight months. Stay on marked paths, watch for livestock and stiles, and take care crossing rural roads. Bring enough water and snacks, and tell someone your route and expected return time. If visibility drops, be prepared to turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Waterproof jacket and layers",
+      "Map or GPS device",
+      "Water bottle and some snacks",
+      "Hat and sun protection",
+      "Small first aid kit",
+      "Headtorch (in case of late return)",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring (late March to May) for bluebells; also enjoyable in autumn when leaves change.",
+    "seo": {
+      "title": "Bluebell Cottage Circular Walk – 12.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the Bluebell Cottage Circular Walk, a 12.4 km moderate loop in the UK countryside. Enjoy bluebell woods, varied terrain, and scenic views with practical safety tips and gear.",
+      "h1": "Bluebell Cottage Circular Walk"
+    }
+  }
+}

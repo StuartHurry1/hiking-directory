@@ -1,0 +1,21 @@
+{
+  "id": "osm-16997747",
+  "slug": "memories-of-castlereagh-heritage-trail-16997747",
+  "name": "Memories of Castlereagh Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5547054,
+    "lon": -5.8768243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16997747
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19284270",
+  "slug": "upton-house-ley-line-walk-upton-house-and-gardens-19284270",
+  "name": "Upton House Ley Line Walk, Upton House and Gardens",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1090121,
+    "lon": -1.4606254
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19284270
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-18999058",
+  "slug": "malham-tarn-trail-for-trampers-malham-18999058",
+  "name": "Malham Tarn trail for Trampers, Malham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0928446,
+    "lon": -2.1860842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18999058
+  }
+}

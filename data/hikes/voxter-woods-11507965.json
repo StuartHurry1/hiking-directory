@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507965",
+  "slug": "voxter-woods-11507965",
+  "name": "Voxter Woods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4122937,
+    "lon": -1.3291229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507965
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15965025",
+  "slug": "forest-walk-15965025",
+  "name": "Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5897777,
+    "lon": -5.4923755
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15965025
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "osm-8432542",
+  "slug": "aylesbeare-circular-8432542",
+  "name": "Aylesbeare Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7189878,
+    "lon": -3.3637882
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8432542
+  },
+  "ai": {
+    "summary": "Aylesbeare Circular is an 8.8 km moderate hike around Aylesbeare in the UK. The route blends farmland, hedgerows, woodland edges and occasional country lanes, offering gentle elevation and pleasant viewpoints along the way. It suits walkers with some experience who enjoy varied countryside scenery.",
+    "terrain_summary": "Expect mixed surfaces: compact country lanes, grassy field paths, muddy sections after rain, and wooden stiles. The route goes through farm tracks and well-trodden trails with uneven footing, so sturdy footwear and careful stepping are advised. Some parts are shaded by trees while others expose open views; there are small gradients that keep the hike at a moderate level.",
+    "safety_notes": "Check the weather forecast and wear sturdy waterproof hiking boots. Stay on defined paths, mind gates and stiles, and be cautious of livestock in fields. Keep dogs under control or on a lead where required. Bring a map or GPS, water and snacks; carry a charged phone and a basic first-aid kit. Be mindful of mud and slippery surfaces after rain and watch for thorny undergrowth and low branches.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layering)",
+      "Map, compass or GPS device",
+      "Lightweight rain jacket",
+      "Backpack to carry gear",
+      "Snacks or energy bars",
+      "First-aid kit",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Whistle and personal identification",
+      "Mobile phone with offline navigation (optional)"
+    ],
+    "best_seasons": "Spring to autumn, typically March to October, with the best conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Aylesbeare Circular Walk – 8.8 km Moderate Hike in the UK",
+      "meta_description": "Discover the Aylesbeare Circular, an 8.8 km moderate walk through farmland, hedgerows and woods in the UK. Includes terrain details, safety tips, gear list and best seasons.",
+      "h1": "Aylesbeare Circular Walk – 8.8 km, Moderate Difficulty"
+    }
+  }
+}

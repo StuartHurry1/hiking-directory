@@ -1,0 +1,21 @@
+{
+  "id": "osm-19118821",
+  "slug": "headley-heath-lizard-trail-box-hill-19118821",
+  "name": "Headley Heath Lizard Trail, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2711431,
+    "lon": -0.2759492
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19118821
+  }
+}

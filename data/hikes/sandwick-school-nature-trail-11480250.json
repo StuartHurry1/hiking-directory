@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480250",
+  "slug": "sandwick-school-nature-trail-11480250",
+  "name": "Sandwick School Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9966522,
+    "lon": -1.2519419
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480250
+  }
+}

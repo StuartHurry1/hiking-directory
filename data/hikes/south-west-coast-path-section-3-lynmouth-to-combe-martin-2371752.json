@@ -1,0 +1,23 @@
+{
+  "id": "osm-2371752",
+  "slug": "south-west-coast-path-section-3-lynmouth-to-combe-martin-2371752",
+  "name": "South West Coast Path (Section 3: Lynmouth to Combe Martin)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2309038,
+    "lon": -3.8302304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2371752
+  }
+}

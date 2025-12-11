@@ -1,0 +1,41 @@
+{
+  "id": "osm-2858162",
+  "slug": "bargemans-walk-2858162",
+  "name": "Bargeman's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9379021,
+    "lon": -1.3682515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858162
+  },
+  "ai": {
+    "summary": "Bargeman's Walk is an easy, scenic 5.2 km hike in the UK that follows flat, waterside paths. The route is suitable for most fitness levels and families, offering frequent views of canals or rivers and open countryside.",
+    "terrain_summary": "Mostly flat or gently undulating towpath and riverside paths. Surfaces are typically gravel or compacted earth with occasional muddy patches after rain. Shade can be limited on open stretches, so sun protection is advisable.",
+    "safety_notes": "Carry water and wear sturdy footwear. The route runs along water edges, so keep children and pets close and stay away from the water's edge. Be mindful of other users on shared paths, including cyclists. Check weather before you go; if heavy rain or ice is forecast, consider delaying the walk. In remote spots, tell someone your plans and expected return time, and have a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a small snack",
+      "Light waterproof jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map or GPS-enabled device",
+      "Phone and portable charger",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers the best conditions and daylight, though the walk can be done in milder winter weather with appropriate clothing.",
+    "seo": {
+      "title": "Bargeman's Walk – Easy 5.2 km Hike in the UK",
+      "meta_description": "Discover Bargeman's Walk, an easy 5.2 km waterside hike in the UK. Flat terrain, scenic views, practical safety tips, and gear recommendations for a comfortable day out.",
+      "h1": "Bargeman's Walk – 5.2 km Easy Hike"
+    }
+  }
+}

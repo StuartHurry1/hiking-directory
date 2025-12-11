@@ -1,0 +1,21 @@
+{
+  "id": "osm-10376068",
+  "slug": "crowan-br-56-definitive-line-10376068",
+  "name": "Crowan BR 56 Definitive line",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1833172,
+    "lon": -5.3128956
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10376068
+  }
+}

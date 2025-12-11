@@ -1,0 +1,46 @@
+{
+  "id": "osm-18960651",
+  "slug": "bridle-road-to-bignor-walk-slindon-18960651",
+  "name": "Bridle Road to Bignor Walk, Slindon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8769514,
+    "lon": -0.62942
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18960651
+  },
+  "ai": {
+    "summary": "A challenging 21.7 km point-to-point hike from Bridle Road to Bignor Walk, near Slindon in the UK. The route combines rural lanes, bridleways, woodlands and open chalk downland, with notable elevation changes and a demanding pace suitable for experienced walkers.",
+    "terrain_summary": "The trail uses a mix of solid country lanes, gravel bridleways, woodland paths and open downland. Expect uneven ground, possible mud after rain, short steep sections, and exposure on higher ridges with wide views across the countryside.",
+    "safety_notes": "Plan for a long day and check the weather forecast. Wear sturdy boots with good grip, and bring layered clothing plus a waterproof outer layer. Carry enough water and high-energy snacks for the 21.7 km distance, and have a map and compass or a reliable GPS. Let someone know your planned route and return time. Take care on narrow lanes and around farm access, and keep dogs under close control. Navigation can be challenging in woodland sections; stay on marked paths and be prepared for sudden weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing plus a waterproof outer shell",
+      "Water (2–3 litres) and high-energy snacks",
+      "Map and compass or a GPS device (with route downloaded)",
+      "Headwear and gloves (seasonal)",
+      "Sunscreen, sunglasses and a hat for sun protection",
+      "Lightweight emergency blanket or space blanket",
+      "First aid kit",
+      "Emergency whistle",
+      "Trekking poles (optional)",
+      "Backpack with rain cover",
+      "Phone with offline map and power bank"
+    ],
+    "best_seasons": "Spring and autumn offer the best balance of daylight and drier conditions; the route is doable year-round, but winter mud and summer heat can make the hike more demanding.",
+    "seo": {
+      "title": "Bridle Road to Bignor Walk, Slindon – 21.7 km Hard Hike in the UK",
+      "meta_description": "Tackle the demanding 21.7 km Bridle Road to Bignor Walk near Slindon. This UK hike combines rural lanes, bridleways and open downland with scenic views—prepare accordingly.",
+      "h1": "Bridle Road to Bignor Walk, Slindon – 21.7 km Hard Hike"
+    }
+  }
+}

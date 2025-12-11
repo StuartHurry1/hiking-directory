@@ -1,0 +1,21 @@
+{
+  "id": "osm-12470025",
+  "slug": "capital-ring-diversion-for-flooding-12470025",
+  "name": "Capital Ring (diversion for flooding)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5088367,
+    "lon": -0.3432151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12470025
+  }
+}

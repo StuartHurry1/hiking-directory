@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507973",
+  "slug": "skaw-unst-11507973",
+  "name": "Skaw Unst",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.8271014,
+    "lon": -0.785676
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507973
+  }
+}

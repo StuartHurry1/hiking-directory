@@ -1,0 +1,21 @@
+{
+  "id": "osm-2259548",
+  "slug": "the-bishops-way-2259548",
+  "name": "The Bishop's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4310362,
+    "lon": 0.2495821
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2259548
+  }
+}

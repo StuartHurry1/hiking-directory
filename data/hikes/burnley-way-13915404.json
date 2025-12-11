@@ -1,0 +1,47 @@
+{
+  "id": "osm-13915404",
+  "slug": "burnley-way-13915404",
+  "name": "Burnley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 139.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7680628,
+    "lon": -2.3263928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13915404
+  },
+  "ai": {
+    "summary": "Burnley Way is a long-distance, hard-rated hike in the UK, covering about 139.5 km. It traverses varied terrain and demands good fitness, navigation ability, and careful planning for multi-day travel.",
+    "terrain_summary": "Expect a mix of country lanes, farm tracks, woodland trails, and occasional steeper ascents. Footing can be uneven, muddy, or rocky, with exposed sections depending on weather. The route offers variable scenery and elevation changes.",
+    "safety_notes": "This is a hard-distance hike; plan for multi-day trips with planned overnight stops. UK weather can change rapidly—prepare for rain, wind, and cold even in summer. Carry a map and compass and use them; have a GPS as backup. Wear sturdy boots and dress in layers; bring waterproofs. Stay hydrated and fueled with extra food. Inform someone of your itinerary and expected finish times. Check access rights and respect farmland and property. In winter, daylight is limited—start early and carry a headlamp and extra batteries.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 liters total)",
+      "Moisture-wicking layers plus a weatherproof outer layer",
+      "Waterproof jacket and pants",
+      "Warm hat and gloves (seasonal)",
+      "Map and compass; GPS device as backup",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care",
+      "Energy-dense snacks and meals; lightweight stove for multi-day trips",
+      "Emergency whistle, space blanket, and basic repair kit",
+      "Sun protection (sunscreen, sunglasses)",
+      "Mobile phone with power bank",
+      "Personal identification and copies of important documents"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and milder conditions; the hike can be attempted year-round with careful planning and shorter day segments.",
+    "seo": {
+      "title": "Burnley Way Hiking Guide – 139.5 km Hard Trail in the UK",
+      "meta_description": "Plan your Burnley Way trek: a 139.5 km hard route in the UK with terrain variety, safety tips, gear checklist, and best seasons for trekking.",
+      "h1": "Burnley Way Hiking Guide"
+    }
+  }
+}

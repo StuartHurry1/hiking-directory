@@ -1,0 +1,21 @@
+{
+  "id": "osm-12861343",
+  "slug": "pen-den-trail-12861343",
+  "name": "Pen-Den Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5256545,
+    "lon": -1.6228757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12861343
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3853488",
+  "slug": "pathfinder-way-3853488",
+  "name": "Pathfinder Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 241.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3958859,
+    "lon": -0.0410283
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3853488
+  }
+}

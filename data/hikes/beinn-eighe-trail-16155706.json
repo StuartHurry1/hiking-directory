@@ -1,0 +1,48 @@
+{
+  "id": "osm-16155706",
+  "slug": "beinn-eighe-trail-16155706",
+  "name": "Beinn Eighe Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5772554,
+    "lon": -5.4561145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16155706
+  },
+  "ai": {
+    "summary": "A challenging 26.6 km circuit-style hike in the UK characterized by steep ascents, rugged terrain, and dramatic scenery. It requires good fitness, navigation, and weather preparation.",
+    "terrain_summary": "Expect a mix of rocky paths, tussocky moorland, uneven scree, and occasional stream crossings. The route includes steep ascents and descents, exposed sections, and ground that can be loose or wet. Navigation is important, as weather can reduce visibility and obscure features.",
+    "safety_notes": "Plan for rapidly changing weather and short daylight hours. The area is remote with limited mobile reception in places. Start early, carry a detailed map and compass, and know how to use them. Wear sturdy boots and carry waterproof and warm layers. Bring ample water and high-energy food, plus a first aid kit, whistle, and emergency shelter. Hike with a partner or group when possible and inform someone of your itinerary. In winter, avalanche, ice, and severe wind risks increase; check local conditions before proceeding.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and waterproof pants",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Map and compass (GPS as backup)",
+      "Fully charged mobile phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system (2–4 liters)",
+      "High-energy snacks and a light meal",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Walking poles (optional but helpful)",
+      "Emergency bivy or space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for more reliable weather and daylight. Shoulder seasons can be suitable with proper planning, but winter conditions demand mountaineering equipment and experience.",
+    "seo": {
+      "title": "Beinn Eighe Trail – 26.6 km Hard Hike in the UK",
+      "meta_description": "Plan your Beinn Eighe Trail hike: a 26.6 km hard route in the UK with rugged terrain, safety tips, gear suggestions, and best seasons.",
+      "h1": "Beinn Eighe Trail – 26.6 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376119",
+  "slug": "south-west-coast-path-section-44-exmouth-to-sidmouth-2376119",
+  "name": "South West Coast Path (Section 44: Exmouth to Sidmouth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 51.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6168174,
+    "lon": -3.4227586
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376119
+  }
+}

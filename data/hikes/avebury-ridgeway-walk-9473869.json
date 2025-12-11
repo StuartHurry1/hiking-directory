@@ -1,0 +1,49 @@
+{
+  "id": "osm-9473869",
+  "slug": "avebury-ridgeway-walk-9473869",
+  "name": "Avebury Ridgeway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.428153,
+    "lon": -1.8565948
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9473869
+  },
+  "ai": {
+    "summary": "Avebury Ridgeway Walk is a 16.8 km challenging ridge hike in the UK, delivering exposed high-ground scenery along rolling ridgelines. The route combines open grassland, rough path sections, and occasional boggy patches, making it a demanding day of navigation and endurance with rewarding views.",
+    "terrain_summary": "Expect ridge-top paths with uneven footing, rocky or gravelly surfaces, and exposed sections. The terrain can be wet and muddy after rain, with grass, heather, and potential boggy patches. Gates, stiles, minor ascents, and occasional short scrambling may accompany the route.",
+    "safety_notes": "Plan for changeable UK weather and variable daylight. Ridge sections are exposed with potential strong winds, so bring a warm layer and a waterproof shell. Wear sturdy boots with good grip and be prepared for slick footing on loose stones. Carry a map and compass (or GPS) and know how to use them; mobile signal can be unreliable in remote parts. Start early, carry sufficient water and high-energy snacks, and have a plan for shelter in case of sudden weather. Tell someone your route and expected finish time. If needed, dial 999 or 112 in an emergency.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket",
+      "Warm layers and hat/gloves",
+      "Map and compass or GPS device",
+      "Sufficient water and high-energy snacks",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Lightweight shell pants",
+      "Trekking poles (optional)",
+      "Mobile power bank",
+      "Lightweight emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October).",
+    "seo": {
+      "title": "Avebury Ridgeway Walk - 16.8 km Hard Ridge Hike in the UK",
+      "meta_description": "Discover the Avebury Ridgeway Walk: a 16.8 km challenging ridge hike in the UK. Exposed ridges, panoramic views, safety tips, and gear recommendations.",
+      "h1": "Avebury Ridgeway Walk – 16.8 km Hard Ridge Hike"
+    }
+  }
+}

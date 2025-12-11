@@ -1,0 +1,21 @@
+{
+  "id": "osm-1841895",
+  "slug": "martley-circular-walk-1841895",
+  "name": "Martley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2554112,
+    "lon": -2.349101
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1841895
+  }
+}

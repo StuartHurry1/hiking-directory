@@ -1,0 +1,21 @@
+{
+  "id": "osm-12876219",
+  "slug": "london-loop-section-16-alternative-2-12876219",
+  "name": "London LOOP (Section 16 alternative 2)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6271792,
+    "lon": -0.2539666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12876219
+  }
+}

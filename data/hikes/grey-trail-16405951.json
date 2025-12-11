@@ -1,0 +1,21 @@
+{
+  "id": "osm-16405951",
+  "slug": "grey-trail-16405951",
+  "name": "Grey Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6209767,
+    "lon": 1.242878
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16405951
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14359923",
+  "slug": "ullswater-way-dalemain-loop-14359923",
+  "name": "Ullswater Way - Dalemain Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6124955,
+    "lon": -2.8229281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14359923
+  }
+}

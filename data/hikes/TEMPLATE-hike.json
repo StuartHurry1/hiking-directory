@@ -1,0 +1,49 @@
+{
+  "_comment": "Copy this file, rename it to something like 'stanage-edge-ridge-walk.json', and fill in the fields.",
+  "id": "string-unique-id",
+  "slug": "url-slug-for-route",
+  "name": "Human friendly route name",
+  "region": "e.g. Peak District, Lake District, Snowdonia",
+  "country": "England",
+  "county": "Derbyshire",
+
+  "start": {
+    "lat": 0,
+    "lon": 0,
+    "nearest_postcode": "POSTCODE_NEAR_START"
+  },
+  "end": {
+    "lat": 0,
+    "lon": 0,
+    "nearest_postcode": "POSTCODE_NEAR_END"
+  },
+
+  "distance_km": 0,
+  "ascent_m": 0,
+  "descent_m": 0,
+  "difficulty": "easy",
+  "terrain": ["moorland"],
+  "features": ["ridge"],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [],
+    "nearest_bus_stops": [],
+    "access_summary": ""
+  },
+
+  "ai": {
+    "summary": "",
+    "terrain_summary": "",
+    "safety_notes": "",
+    "recommended_gear": [],
+    "best_seasons": ""
+  },
+
+  "seo": {
+    "title": "",
+    "meta_description": "",
+    "h1": ""
+  }
+}

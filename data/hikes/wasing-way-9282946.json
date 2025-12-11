@@ -1,0 +1,21 @@
+{
+  "id": "osm-9282946",
+  "slug": "wasing-way-9282946",
+  "name": "Wasing Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3875299,
+    "lon": -1.1539677
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9282946
+  }
+}

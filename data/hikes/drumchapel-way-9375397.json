@@ -1,0 +1,21 @@
+{
+  "id": "osm-9375397",
+  "slug": "drumchapel-way-9375397",
+  "name": "Drumchapel Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9175244,
+    "lon": -4.3803121
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9375397
+  }
+}

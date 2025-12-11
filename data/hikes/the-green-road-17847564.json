@@ -1,0 +1,21 @@
+{
+  "id": "osm-17847564",
+  "slug": "the-green-road-17847564",
+  "name": "The Green Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2795338,
+    "lon": -6.0962202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17847564
+  }
+}

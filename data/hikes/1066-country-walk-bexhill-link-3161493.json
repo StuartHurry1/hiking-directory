@@ -1,0 +1,47 @@
+{
+  "id": "osm-3161493",
+  "slug": "1066-country-walk-bexhill-link-3161493",
+  "name": "1066 Country Walk - Bexhill Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8453512,
+    "lon": 0.4807958
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3161493
+  },
+  "ai": {
+    "summary": "A challenging 23.3 km link in the 1066 Country Walk, connecting Hastings/Bexhill areas to Bexhill. This hard-rated route combines coastal paths, farmland lanes, and inland tracks with significant elevation changes. Suitable for experienced hikers prepared for long days and variable UK weather.",
+    "terrain_summary": "The hike features coastal cliff-top and shoreline sections, grassy trails, woodland stretches, and quiet country lanes with occasional road crossings. Expect uneven, rocky or muddy paths, exposed upland segments, and potential stiles. Elevation gains can be substantial in places, and footing can be slippery after rain.",
+    "safety_notes": "Plan for a long day (23.3 km) with variable weather. Check tidal conditions if passages cross shorelines. Wear sturdy waterproof boots and bring layers. Carry a map and compass (or GPS) and fully charged phone. Tell someone your route and expected return. Pack sufficient water and high-energy food, a first aid kit, headlamp, whistle, and a weather-appropriate shell. Watch for coastal erosion and farm gates; stay on marked paths. In late autumn to winter, daylight is limited; consider starting early or dividing the hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and trousers",
+      "Map and compass (or GPS) and fully charged phone",
+      "Hydration: 2–3 liters of water or equivalent",
+      "High-energy snacks and a meal if needed",
+      "Extra layers (fleece, hat, gloves)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Lightweight rain cover for your pack",
+      "Mobile charger or power bank",
+      "Personal identification and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn for longer daylight and generally better outdoor conditions; summer offers the most daylight, while late autumn and winter require careful weather planning and shorter daylight hours.",
+    "seo": {
+      "title": "1066 Country Walk - Bexhill Link: 23.3 km Hard Coastal Hike in the UK",
+      "meta_description": "Discover the 1066 Country Walk - Bexhill Link, a 23.3 km hard hike in the UK. Enjoy coastal paths, rural lanes, and varied terrain with practical safety tips and gear guidance.",
+      "h1": "1066 Country Walk - Bexhill Link (23.3 km, Hard)"
+    }
+  }
+}

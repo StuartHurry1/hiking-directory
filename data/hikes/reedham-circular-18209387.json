@@ -1,0 +1,21 @@
+{
+  "id": "osm-18209387",
+  "slug": "reedham-circular-18209387",
+  "name": "Reedham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5574536,
+    "lon": 1.5507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18209387
+  }
+}

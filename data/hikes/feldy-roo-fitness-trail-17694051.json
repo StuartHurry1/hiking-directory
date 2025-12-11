@@ -1,0 +1,21 @@
+{
+  "id": "osm-17694051",
+  "slug": "feldy-roo-fitness-trail-17694051",
+  "name": "Feldy Roo Fitness Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6216808,
+    "lon": -3.874264
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17694051
+  }
+}

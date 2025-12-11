@@ -1,0 +1,46 @@
+{
+  "id": "osm-1703716",
+  "slug": "acw-circular-walk-13a-short-cut-for-c13-1703716",
+  "name": "ACW Circular Walk 13A (short-cut for C13)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4483716,
+    "lon": -1.4033842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1703716
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 13A, a 25.7 km circular route in the UK, is a strenuous hike that acts as a short-cut variant of C13. It traverses varied terrain and exposed sections, requiring strong navigation skills, fitness, and thorough preparation for experienced hikers.",
+    "terrain_summary": "The route features a mix of grassy upland paths, boggy stretches, woodland tracks, and uneven rocky sections. Expect several climbs and long descents; surfaces can be muddy after rain. Weather can change quickly, with potential wind exposure and cool conditions even in summer.",
+    "safety_notes": "Carry a detailed map and compass (don’t rely solely on GPS). Check weather and daylight hours before starting; begin early to ensure full daylight. Inform someone of your planned route and expected return. Wear sturdy, waterproof boots and dress in layers; bring a waterproof shell. Pack ample water and high-energy food. Include a basic first aid kit, whistle, and emergency blanket. Be prepared to turn back if visibility or footing deteriorates due to weather or fatigue.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Warm layers and a hat/gloves (season dependent)",
+      "Rucksack with space for 1–2 liters of water and food",
+      "Maps and compass (or GPS device) with backup power",
+      "Headtorch with spare batteries",
+      "Basic first aid kit",
+      "Emergency blanket or bivy bag",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses, cap)",
+      "Energy snacks and a portable water filter or extra water",
+      "Insect repellent if needed"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offer the best conditions for this long, exposed loop in the UK. Winter hiking is possible for experienced walkers with substantial kit, but conditions can be severe and daylight limited.",
+    "seo": {
+      "title": "ACW Circular Walk 13A (Short-cut for C13) – 25.7 km Hard Hike in the UK",
+      "meta_description": "Discover ACW Circular Walk 13A, a demanding 25.7 km loop in the UK. Learn route details, terrain, safety tips, and gear recommendations for experienced hikers.",
+      "h1": "ACW Circular Walk 13A (Short-cut for C13) – 25.7 km Hard"
+    }
+  }
+}

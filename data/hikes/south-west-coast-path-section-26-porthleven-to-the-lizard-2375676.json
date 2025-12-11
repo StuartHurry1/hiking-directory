@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375676",
+  "slug": "south-west-coast-path-section-26-porthleven-to-the-lizard-2375676",
+  "name": "South West Coast Path (Section 26: Porthleven to The Lizard)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0853427,
+    "lon": -5.317773
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375676
+  }
+}

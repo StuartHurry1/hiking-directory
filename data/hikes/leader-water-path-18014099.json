@@ -1,0 +1,21 @@
+{
+  "id": "osm-18014099",
+  "slug": "leader-water-path-18014099",
+  "name": "Leader Water Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.604389,
+    "lon": -2.6746198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18014099
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2389513",
+  "slug": "mary-queen-of-scots-way-2389513",
+  "name": "Mary Queen of Scots Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 147.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2451704,
+    "lon": -4.7391516
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2389513
+  }
+}

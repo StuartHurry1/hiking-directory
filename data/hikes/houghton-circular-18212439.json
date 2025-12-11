@@ -1,0 +1,21 @@
+{
+  "id": "osm-18212439",
+  "slug": "houghton-circular-18212439",
+  "name": "Houghton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8255687,
+    "lon": 0.6077048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18212439
+  }
+}

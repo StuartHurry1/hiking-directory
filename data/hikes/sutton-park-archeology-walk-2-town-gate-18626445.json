@@ -1,0 +1,21 @@
+{
+  "id": "osm-18626445",
+  "slug": "sutton-park-archeology-walk-2-town-gate-18626445",
+  "name": "Sutton Park Archeology Walk 2: Town Gate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5651399,
+    "lon": -1.8316789
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18626445
+  }
+}

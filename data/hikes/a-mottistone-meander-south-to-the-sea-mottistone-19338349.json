@@ -1,0 +1,45 @@
+{
+  "id": "osm-19338349",
+  "slug": "a-mottistone-meander-south-to-the-sea-mottistone-19338349",
+  "name": "A Mottistone Meander: South to the Sea, Mottistone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6528864,
+    "lon": -1.4295383
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19338349
+  },
+  "ai": {
+    "summary": "A scenic 10 km coastal hike starting near Mottistone and heading south to the sea. The route blends rolling downs, cliff-top viewpoints, and shoreline sections along the UK coast, offering rewarding sea views with a moderate level of effort.",
+    "terrain_summary": "Mostly well-defined coastal paths with grassy cliff-top sections, occasional rocky or muddy patches, and some uneven ground. Expect wooden steps at viewpoints and occasional exposure to wind and seaspray near the shore.",
+    "safety_notes": "Watch for unstable ground near cliff edges and avoid the inner edges after rain. Tides can affect shoreline sections; check tide tables and avoid walking too close to the waterline. UK weather can change quickly—bring a waterproof layer and warm clothing. Wear sturdy boots with good grip, stay on marked paths, keep dogs under control where required, and carry a map or offline navigation. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Lightweight waterproof jacket and a warm layer",
+      "Daypack with water and snacks",
+      "Map or offline navigation (GPS on a phone)",
+      "Sun protection (hat and sunscreen)",
+      "Basic first aid kit",
+      "Emergency whistle",
+      "Headlamp or small flashlight (for late returns)",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and clearer coastal views; winter walks are possible but can be windy, wet, and with shorter daylight.",
+    "seo": {
+      "title": "A Mottistone Meander: South to the Sea – 10km Coastal Hike in the UK",
+      "meta_description": "Discover a 10 km moderate coastal hike from Mottistone to the sea. Enjoy cliff-top views, shoreline sections, and practical safety tips for UK coastal trails.",
+      "h1": "A Mottistone Meander: South to the Sea"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17761894",
+  "slug": "juniper-path-17761894",
+  "name": "Juniper Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0582346,
+    "lon": -2.8599988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17761894
+  }
+}

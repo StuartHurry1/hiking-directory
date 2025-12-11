@@ -1,0 +1,21 @@
+{
+  "id": "osm-8769894",
+  "slug": "fyefoot-lane-pedway-8769894",
+  "name": "Fyefoot Lane pedway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5114678,
+    "lon": -0.09628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8769894
+  }
+}

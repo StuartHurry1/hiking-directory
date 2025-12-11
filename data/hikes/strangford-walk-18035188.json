@@ -1,0 +1,21 @@
+{
+  "id": "osm-18035188",
+  "slug": "strangford-walk-18035188",
+  "name": "Strangford Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3815212,
+    "lon": -5.6766056
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18035188
+  }
+}

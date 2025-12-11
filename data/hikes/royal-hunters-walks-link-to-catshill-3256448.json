@@ -1,0 +1,21 @@
+{
+  "id": "osm-3256448",
+  "slug": "royal-hunters-walks-link-to-catshill-3256448",
+  "name": "Royal Hunters Walks - Link to Catshill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3595261,
+    "lon": -2.0683089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3256448
+  }
+}

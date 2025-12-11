@@ -1,0 +1,21 @@
+{
+  "id": "osm-12567687",
+  "slug": "capital-ring-link-to-mottingham-station-12567687",
+  "name": "Capital Ring link to Mottingham station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4425912,
+    "lon": 0.0421633
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12567687
+  }
+}

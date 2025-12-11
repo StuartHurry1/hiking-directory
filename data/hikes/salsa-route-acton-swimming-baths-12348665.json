@@ -1,0 +1,21 @@
+{
+  "id": "osm-12348665",
+  "slug": "salsa-route-acton-swimming-baths-12348665",
+  "name": "SALSA route (Acton Swimming Baths)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5080638,
+    "lon": -0.2555794
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12348665
+  }
+}

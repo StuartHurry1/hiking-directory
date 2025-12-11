@@ -1,0 +1,21 @@
+{
+  "id": "osm-19002840",
+  "slug": "gm-ringway-stage-17-19002840",
+  "name": "GM Ringway Stage 17",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4959268,
+    "lon": -2.5189831
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19002840
+  }
+}

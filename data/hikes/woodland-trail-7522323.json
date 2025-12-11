@@ -1,0 +1,21 @@
+{
+  "id": "osm-7522323",
+  "slug": "woodland-trail-7522323",
+  "name": "Woodland Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3056983,
+    "lon": -3.7514144
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7522323
+  }
+}

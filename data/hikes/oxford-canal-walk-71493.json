@@ -1,0 +1,21 @@
+{
+  "id": "osm-71493",
+  "slug": "oxford-canal-walk-71493",
+  "name": "Oxford Canal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 399.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7568932,
+    "lon": -1.2702004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 71493
+  }
+}

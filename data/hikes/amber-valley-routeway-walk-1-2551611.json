@@ -1,0 +1,43 @@
+{
+  "id": "osm-2551611",
+  "slug": "amber-valley-routeway-walk-1-2551611",
+  "name": "Amber Valley Routeway Walk 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9862916,
+    "lon": -1.5924204
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2551611
+  },
+  "ai": {
+    "summary": "A challenging 20.7 km hike along the Amber Valley Routeway Walk 1 in the UK. Designed for experienced walkers, the route combines varied surfaces and some elevation, offering a demanding day on the trail.",
+    "terrain_summary": "Mixed terrain including rural paths, fields, and possibly uneven tracks with gates and stiles. Expect a mix of surfaced sections and muddy, uneven ground, with short ascents or descents.",
+    "safety_notes": "Check the weather forecast before you go; daylight can be limited in winter. Wear sturdy boots with good grip and clothing suitable for layered guidance. Bring a detailed map and compass (GPS as backup). Stay on marked paths, be mindful of livestock, and close gates. Tell someone your plan and expected return time. Carry sufficient water and snacks, a small first aid kit, a whistle, and a charged mobile phone. In remote sections, coverage may be limited; carry a basic emergency plan.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Waterproof jacket and insulating layers",
+      "Daypack with at least 1–2 litres of water and high-energy snacks",
+      "Map and compass (and GPS as backup)",
+      "Hat, gloves, and sun protection",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Walking poles (optional)",
+      "Emergency blanket or extra warm layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best conditions; winter hikes are possible but require careful planning due to mud, ice, and shorter daylight.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 1 – 20.7 km Hard Hike in the UK",
+      "meta_description": "Plan your day on the Amber Valley Routeway Walk 1, a demanding 20.7 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Amber Valley Routeway Walk 1"
+    }
+  }
+}

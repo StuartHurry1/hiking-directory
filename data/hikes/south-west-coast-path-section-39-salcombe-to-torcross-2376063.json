@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376063",
+  "slug": "south-west-coast-path-section-39-salcombe-to-torcross-2376063",
+  "name": "South West Coast Path (Section 39: Salcombe to Torcross)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2347857,
+    "lon": -3.7635243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376063
+  }
+}

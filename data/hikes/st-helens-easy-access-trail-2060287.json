@@ -1,0 +1,21 @@
+{
+  "id": "osm-2060287",
+  "slug": "st-helens-easy-access-trail-2060287",
+  "name": "St Helen's Easy Access Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4530489,
+    "lon": 0.6856502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2060287
+  }
+}

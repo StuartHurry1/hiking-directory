@@ -1,0 +1,21 @@
+{
+  "id": "osm-13087955",
+  "slug": "spring-grove-ecotrail-13087955",
+  "name": "Spring Grove EcoTrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2247288,
+    "lon": -7.1800654
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13087955
+  }
+}

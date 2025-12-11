@@ -1,0 +1,21 @@
+{
+  "id": "osm-18180510",
+  "slug": "kings-lynn-weird-walk-18180510",
+  "name": "King’s Lynn Weird Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7583332,
+    "lon": 0.3967363
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18180510
+  }
+}

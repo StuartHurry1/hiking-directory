@@ -1,0 +1,21 @@
+{
+  "id": "osm-9710805",
+  "slug": "meadow-nature-trail-9710805",
+  "name": "Meadow Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9426633,
+    "lon": -1.3467985
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9710805
+  }
+}

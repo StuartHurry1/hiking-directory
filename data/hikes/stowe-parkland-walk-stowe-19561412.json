@@ -1,0 +1,21 @@
+{
+  "id": "osm-19561412",
+  "slug": "stowe-parkland-walk-stowe-19561412",
+  "name": "Stowe Parkland Walk, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.033664,
+    "lon": -1.0235041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561412
+  }
+}

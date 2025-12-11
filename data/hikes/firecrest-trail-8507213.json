@@ -1,0 +1,21 @@
+{
+  "id": "osm-8507213",
+  "slug": "firecrest-trail-8507213",
+  "name": "Firecrest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7722069,
+    "lon": -0.712069
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8507213
+  }
+}

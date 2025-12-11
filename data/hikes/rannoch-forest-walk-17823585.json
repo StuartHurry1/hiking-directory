@@ -1,0 +1,21 @@
+{
+  "id": "osm-17823585",
+  "slug": "rannoch-forest-walk-17823585",
+  "name": "Rannoch Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6855767,
+    "lon": -4.258486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17823585
+  }
+}

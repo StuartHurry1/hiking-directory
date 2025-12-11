@@ -1,0 +1,21 @@
+{
+  "id": "osm-165839",
+  "slug": "grantham-canal-bi-centenial-canalside-walk-165839",
+  "name": "Grantham Canal Bi-Centenial Canalside Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9224568,
+    "lon": -1.0594829
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 165839
+  }
+}

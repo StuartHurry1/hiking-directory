@@ -1,0 +1,48 @@
+{
+  "id": "osm-7079695",
+  "slug": "arran-coastal-way-alternative-via-goat-fell-7079695",
+  "name": "Arran Coastal Way: Alternative via Goat Fell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5913577,
+    "lon": -5.1558747
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7079695
+  },
+  "ai": {
+    "summary": "An 11 km coastal variant of the Arran Coastal Way that follows exposed shoreline on the Isle of Arran, with an optional ascent of Goat Fell. Moderate difficulty suited to hikers with good stamina and comfortable footwear; rewards include sea views, rugged cliffs, and potential wildlife.",
+    "terrain_summary": "Primarily coastal path with rocky shoreline, grassy headlands, and occasional woodland sections. Expect uneven, wet, and wind-swept terrain; some steep climbs when diverting to Goat Fell, and footing can be loose near cliffs. Tide can affect beach segments and may limit access at high water.",
+    "safety_notes": "Weather in coastal Scotland can change rapidly; always check the forecast and tide tables. The route has exposed sections and can be windy, with slippery rocks when wet. Wear sturdy waterproof boots, layer clothing, and carry waterproofs. Bring a map and compass (or GPS), sufficient water and snacks, a first aid kit, and a headlamp. Mobile reception can be unreliable; don’t rely on phone navigation. If attempting Goat Fell, be prepared for a steep, rocky ascent; consider turning back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, fleece, and waterproof/windproof shell)",
+      "Waterproof pack cover and/or rain pants",
+      "Map and compass (or GPS device)",
+      "Water bottle or hydration bladder",
+      "High-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)",
+      "Emergency space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (April–October) is ideal; the route can be hiked year-round with proper gear, but daylight and weather variability should be considered.",
+    "seo": {
+      "title": "Arran Coastal Way: Alternative via Goat Fell – 11 km Coastal Hike in the UK",
+      "meta_description": "Discover the 11 km Arran Coastal Way alternative route via Goat Fell. A moderate coastal hike on the Isle of Arran, Scotland, with sea cliffs, scenery, safety tips, and gear checklist.",
+      "h1": "Arran Coastal Way: Alternative via Goat Fell"
+    }
+  }
+}

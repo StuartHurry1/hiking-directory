@@ -1,0 +1,21 @@
+{
+  "id": "osm-9181166",
+  "slug": "hatherleigh-circular-9181166",
+  "name": "Hatherleigh Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8194844,
+    "lon": -4.0727192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9181166
+  }
+}

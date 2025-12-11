@@ -1,0 +1,21 @@
+{
+  "id": "osm-1742520",
+  "slug": "round-holmesfield-walk-1742520",
+  "name": "Round Holmesfield Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2858213,
+    "lon": -1.495174
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1742520
+  }
+}

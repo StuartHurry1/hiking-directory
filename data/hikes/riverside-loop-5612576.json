@@ -1,0 +1,21 @@
+{
+  "id": "osm-5612576",
+  "slug": "riverside-loop-5612576",
+  "name": "Riverside Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.051035,
+    "lon": -3.0554003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5612576
+  }
+}

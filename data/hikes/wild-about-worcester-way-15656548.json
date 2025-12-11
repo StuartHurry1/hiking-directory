@@ -1,0 +1,21 @@
+{
+  "id": "osm-15656548",
+  "slug": "wild-about-worcester-way-15656548",
+  "name": "Wild About Worcester Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1905375,
+    "lon": -2.2259739
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15656548
+  }
+}

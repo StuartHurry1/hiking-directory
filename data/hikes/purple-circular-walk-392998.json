@@ -1,0 +1,21 @@
+{
+  "id": "osm-392998",
+  "slug": "purple-circular-walk-392998",
+  "name": "Purple Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4036996,
+    "lon": 0.4175518
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 392998
+  }
+}

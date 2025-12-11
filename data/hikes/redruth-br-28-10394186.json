@@ -1,0 +1,21 @@
+{
+  "id": "osm-10394186",
+  "slug": "redruth-br-28-10394186",
+  "name": "Redruth BR 28",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2392088,
+    "lon": -5.220594
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10394186
+  }
+}

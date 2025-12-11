@@ -1,0 +1,21 @@
+{
+  "id": "osm-13092050",
+  "slug": "holy-well-trail-13092050",
+  "name": "Holy Well Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6761289,
+    "lon": -7.8644111
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13092050
+  }
+}

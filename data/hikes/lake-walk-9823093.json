@@ -1,0 +1,23 @@
+{
+  "id": "osm-9823093",
+  "slug": "lake-walk-9823093",
+  "name": "Lake Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5519667,
+    "lon": -5.6018542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9823093
+  }
+}

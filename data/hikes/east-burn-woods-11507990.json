@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507990",
+  "slug": "east-burn-woods-11507990",
+  "name": "East Burn Woods",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.5070585,
+    "lon": -1.3882604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507990
+  }
+}

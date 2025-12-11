@@ -1,0 +1,44 @@
+{
+  "id": "osm-1703393",
+  "slug": "acw-circular-walk-13-1703393",
+  "name": "ACW Circular Walk 13",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4574112,
+    "lon": -1.3610624
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1703393
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 13 is a demanding 25.1 km circuit in the UK, best tackled by experienced hikers. The route combines rural tracks, fields, and woodlands with elevation gains and variable terrain, including muddy sections and short ascents.",
+    "terrain_summary": "Varied terrain with long stretches of rough paths, steep ascents, uneven surfaces, and potentially muddy boggy sections. Expect hedgerows, fence lines, stiles, and occasional exposed ground; navigation may be challenging in poor visibility.",
+    "safety_notes": "Plan for a full day in daylight; check the forecast and be prepared for sudden weather changes. Carry a map and compass (or reliable GPS), adequate water and food, and a first aid kit. Wear sturdy boots and dress in layers. Tell someone your planned route and estimated return time; bring a whistle and a light for contingencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof outer layer and extra warm layers",
+      "Map and compass (or GPS) plus a backup battery",
+      "Hydration (water or electrolyte drink) and high-energy snacks",
+      "Rucksack with rain cover",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Hat, gloves, and sun protection",
+      "Spare clothing and emergency shelter (space blanket)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal, with drier ground and longer daylight; be prepared for winter conditions outside this window.",
+    "seo": {
+      "title": "ACW Circular Walk 13 – 25.1 km Hard Circular Walk in the UK",
+      "meta_description": "Discover ACW Circular Walk 13, a challenging 25.1 km loop in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this demanding hike.",
+      "h1": "ACW Circular Walk 13 – 25.1 km Hard Circular Walk (UK)"
+    }
+  }
+}

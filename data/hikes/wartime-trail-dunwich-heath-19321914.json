@@ -1,0 +1,23 @@
+{
+  "id": "osm-19321914",
+  "slug": "wartime-trail-dunwich-heath-19321914",
+  "name": "Wartime Trail, Dunwich Heath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2515799,
+    "lon": 1.6283902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321914
+  }
+}

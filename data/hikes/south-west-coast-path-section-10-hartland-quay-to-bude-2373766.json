@@ -1,0 +1,23 @@
+{
+  "id": "osm-2373766",
+  "slug": "south-west-coast-path-section-10-hartland-quay-to-bude-2373766",
+  "name": "South West Coast Path (Section 10: Hartland Quay to Bude)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9942873,
+    "lon": -4.5338579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2373766
+  }
+}

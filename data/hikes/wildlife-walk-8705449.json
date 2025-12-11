@@ -1,0 +1,21 @@
+{
+  "id": "osm-8705449",
+  "slug": "wildlife-walk-8705449",
+  "name": "Wildlife Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6956887,
+    "lon": -0.8925926
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8705449
+  }
+}

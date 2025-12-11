@@ -1,0 +1,21 @@
+{
+  "id": "osm-3902669",
+  "slug": "mary-michael-pilgrims-way-3902669",
+  "name": "Mary Michael Pilgrims Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 480.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7595733,
+    "lon": -3.7930889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3902669
+  }
+}

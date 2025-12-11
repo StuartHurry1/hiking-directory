@@ -1,0 +1,21 @@
+{
+  "id": "osm-11498087",
+  "slug": "meal-beach-and-hamnavoe-circular-11498087",
+  "name": "Meal Beach and Hamnavoe Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1044825,
+    "lon": -1.3246902
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498087
+  }
+}

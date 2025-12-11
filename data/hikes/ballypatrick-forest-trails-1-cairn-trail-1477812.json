@@ -1,0 +1,39 @@
+{
+  "id": "osm-1477812",
+  "slug": "ballypatrick-forest-trails-1-cairn-trail-1477812",
+  "name": "Ballypatrick Forest Trails - 1 Cairn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1481235,
+    "lon": -6.1458547
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1477812
+  },
+  "ai": {
+    "summary": "A short, easy 0.3 km trail in Ballypatrick Forest: 1 Cairn Trail. A quick, family-friendly stroll through forest terrain with cairn markers guiding the route.",
+    "terrain_summary": "Forest floor with compacted earth and occasional gravel, exposed roots, and potential mud. The trail is flat to gently undulating and features cairns as markers. Suitable for beginners but watch for slippery patches in wet conditions.",
+    "safety_notes": "Though short, conditions can change quickly. Wear sturdy footwear, bring a weather-appropriate layer, and stay on the marked path. Supervise children, watch for roots and uneven ground, check for ticks in wooded areas, and be prepared for limited or no cell service in some parts of the forest.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (jacket, layers)",
+      "Map or GPS-enabled device",
+      "Sun protection (hat and sunscreen) or rain gear as appropriate"
+    ],
+    "best_seasons": "All year, with ideal conditions in spring and summer. Be prepared for mud and slippery surfaces in autumn and winter.",
+    "seo": {
+      "title": "Ballypatrick Forest Trails - 1 Cairn Trail (0.3 km) | Easy UK Hike",
+      "meta_description": "Explore Ballypatrick Forest's 1 Cairn Trail — a short 0.3 km easy hike in the UK. Family-friendly, with tips on safety, terrain, and gear.",
+      "h1": "Ballypatrick Forest Trails: 1 Cairn Trail (0.3 km) — Easy Family Walk"
+    }
+  }
+}

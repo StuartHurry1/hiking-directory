@@ -1,0 +1,45 @@
+{
+  "id": "osm-12751084",
+  "slug": "a-grand-day-out-12751084",
+  "name": "A Grand Day Out",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3746978,
+    "lon": 0.9273798
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12751084
+  },
+  "ai": {
+    "summary": "A Grand Day Out is a demanding 26.7-kilometre hike in the United Kingdom, designed for experienced walkers seeking a full-day challenge. Expect varied terrain, steady elevation, and rewarding views along a remote or semi-rural route.",
+    "terrain_summary": "The route combines muddy woodland paths, rocky ascents, moorland slabs, potential stream crossings, and long open sections. Elevation gain is substantial, with some short steep climbs and uneven footing. Navigation can be tricky in unfamiliar regions; use a map or GPS.",
+    "safety_notes": "Check the weather forecast before setting out; UK weather can change quickly. Wear sturdy ankle-supporting hiking boots and carry waterproof layers. Bring sufficient water and snacks, a map and compass or GPS, and a charged phone. Inform someone of your plan and expected return time. In remote sections, stay on marked paths, watch for slippery rocks, and be prepared for reduced daylight in autumn/winter. If unsure about conditions, consider shortening the route or joining a guided option.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration bladder (2–3 litres)",
+      "Weather-appropriate clothing (layers + waterproof/windproof jacket)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Snack and energy foods",
+      "Emergency fleece or space blanket",
+      "Whistle for signalling",
+      "Mobile phone with offline maps",
+      "Lightweight rain pants or poncho"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal in the UK, when daylight hours are longer and routes are drier. In winter the hike is only suitable for very experienced hikers with robust equipment and careful planning.",
+    "seo": {
+      "title": "A Grand Day Out – 26.7 km Hard UK Hike",
+      "meta_description": "Plan a challenging 26.7 km hike in the United Kingdom. A Grand Day Out covers varied terrain, demanding elevation, safety tips, gear lists, and best seasons.",
+      "h1": "A Grand Day Out: 26.7 km Hard UK Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14433632",
+  "slug": "dee-valley-way-14433632",
+  "name": "Dee Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9862236,
+    "lon": -3.3674692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14433632
+  }
+}

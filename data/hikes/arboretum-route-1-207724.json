@@ -1,0 +1,40 @@
+{
+  "id": "osm-207724",
+  "slug": "arboretum-route-1-207724",
+  "name": "Arboretum Route 1",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9616468,
+    "lon": -1.1579074
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 207724
+  },
+  "ai": {
+    "summary": "A short, easy 0.2 km stroll through an arboretum in the UK. The route is flat, well-maintained, and suitable for beginners, families, and those seeking a quick nature break.",
+    "terrain_summary": "Flat, easy surface paths within an arboretum. Mostly paved or well-maintained gravel with minimal elevation gain; expect gentle shade and tree-lined scenery.",
+    "safety_notes": "Even on a short walk, follow standard safety guidelines: check the forecast, wear sturdy footwear, stay on designated paths, watch for other visitors and cyclists, keep an eye on children, and bring water if it's warm.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light layer of clothing or jacket",
+      "Water bottle",
+      "Sun protection (sunscreen, hat)",
+      "Phone or map for navigation",
+      "Small backpack or bag to carry essentials"
+    ],
+    "best_seasons": "Spring and summer (April–September) offer the most pleasant conditions; the route is also strollable in other seasons with appropriate clothing.",
+    "seo": {
+      "title": "Arboretum Route 1 – Easy 0.2 km Hike in the UK",
+      "meta_description": "Discover Arboretum Route 1, a short and easy 0.2 km hike in the UK. Flat terrain, beginner-friendly and ideal for a quick nature stroll.",
+      "h1": "Arboretum Route 1: Easy 0.2 km Hike in the UK"
+    }
+  }
+}

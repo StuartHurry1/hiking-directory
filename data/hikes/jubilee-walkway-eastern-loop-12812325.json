@@ -1,0 +1,21 @@
+{
+  "id": "osm-12812325",
+  "slug": "jubilee-walkway-eastern-loop-12812325",
+  "name": "Jubilee Walkway (Eastern Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5093798,
+    "lon": -0.0802597
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12812325
+  }
+}

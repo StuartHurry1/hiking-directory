@@ -1,0 +1,43 @@
+{
+  "id": "osm-7267186",
+  "slug": "burlescombe-trail-7267186",
+  "name": "Burlescombe Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9454112,
+    "lon": -3.3254962
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7267186
+  },
+  "ai": {
+    "summary": "The Burlescombe Trail is a 14.2 km moderate hike in the UK, following rural lanes and field paths for a steady day on the trail. It suits walkers with intermediate fitness and offers countryside views along the way.",
+    "terrain_summary": "Mostly rural footpaths and minor roads with occasional gates and stiles. Expect a mix of grassy tracks, compacted earth, and gravel; sections can be muddy after rain. Gentle elevation changes with some gradual slopes.",
+    "safety_notes": "Plan for 4–5 hours. Check weather and daylight; wear sturdy hiking boots and weather-appropriate clothing. Carry water and snacks, a map and compass or offline GPS, and a charged phone. Stay on public rights of way, close gates behind you, watch for livestock, and be prepared for reduced mobile signal in remote areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and extra layers",
+      "Water and snacks",
+      "Map and compass or offline GPS",
+      "Phone with emergency battery or power bank",
+      "Hat, sunscreen and sunglasses",
+      "Lightweight backpack",
+      "First-aid kit",
+      "Headlamp or flashlight (for late finishes)"
+    ],
+    "best_seasons": "Spring to early autumn are ideal; winter hikes are possible with proper gear and caution due to mud and shorter daylight.",
+    "seo": {
+      "title": "Burlescombe Trail - 14.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the Burlescombe Trail, a 14.2 km moderate hike in the UK. Enjoy rural paths, gentle hills, and countryside scenery suitable for hikers with intermediate fitness.",
+      "h1": "Burlescombe Trail: 14.2 km Moderate UK Walk"
+    }
+  }
+}

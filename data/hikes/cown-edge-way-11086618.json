@@ -1,0 +1,23 @@
+{
+  "id": "osm-11086618",
+  "slug": "cown-edge-way-11086618",
+  "name": "Cown Edge Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4082667,
+    "lon": -2.0171913
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11086618
+  }
+}

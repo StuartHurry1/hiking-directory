@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507382",
+  "slug": "hammersness-11507382",
+  "name": "Hammersness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6293949,
+    "lon": -0.9309981
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507382
+  }
+}

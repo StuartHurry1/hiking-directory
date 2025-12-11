@@ -1,0 +1,21 @@
+{
+  "id": "osm-19405441",
+  "slug": "watlington-hill-and-the-wormsley-estate-walk-watlington-hill-19405441",
+  "name": "Watlington Hill and the Wormsley Estate walk, Watlington Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6365758,
+    "lon": -0.9758571
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19405441
+  }
+}

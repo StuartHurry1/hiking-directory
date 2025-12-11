@@ -1,0 +1,46 @@
+{
+  "id": "osm-11771194",
+  "slug": "bigods-way-11771194",
+  "name": "Bigod's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4563383,
+    "lon": 1.4374962
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11771194
+  },
+  "ai": {
+    "summary": "Bigod's Way is an 11.9 km moderate-grade hike in the UK with a mix of rural lanes, fields, and light woodland. The route offers rolling countryside scenery and occasional ascents, suitable for hikers with a reasonable level of fitness. Allow 3.5-4.5 hours depending on pace and stops; check local maps for access and rights of way in the unspecified region.",
+    "terrain_summary": "The route combines well-defined country paths, grassy field edges, muddy sections after rain, and short stretches along quiet lanes. Expect gentle ascents and descents, some stone or compacted-earth tracks, and occasional overgrown or uneven ground. Wildlife and livestock may be present in fields; always follow waymarks and respect farmland.",
+    "safety_notes": "Wear sturdy boots and weather-appropriate clothing; check the forecast before starting. Keep to public rights of way and be prepared for sudden weather changes. Bring a map and compass (or offline navigation), a fully charged phone, enough water and snacks, and a small first-aid kit. Watch for farm animals, uneven ground, and traffic on lanes; in remote sections carry a means to call for help and let someone know your plans.",
+    "recommended_gear": [
+      "Map and compass",
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layered, waterproof jacket and trousers)",
+      "Backpack with rain cover",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Whistle",
+      "Head torch and spare batteries",
+      "Mobile phone with power bank",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn for best daylight and drier conditions; winter hiking possible with proper footwear and daylight, but plan for shorter daylight hours and potentially muddy or icy sections.",
+    "seo": {
+      "title": "Bigod's Way – 11.9 km Moderate Hike in the UK Countryside",
+      "meta_description": "Discover Bigod's Way, an 11.9 km moderate hike through UK countryside. Enjoy rolling scenery, rural paths, and accessible terrain ideal for hikers with moderate fitness.",
+      "h1": "Bigod's Way: 11.9 km Moderate Hike in the UK Countryside"
+    }
+  }
+}

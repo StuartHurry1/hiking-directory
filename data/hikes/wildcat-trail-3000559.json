@@ -1,0 +1,21 @@
+{
+  "id": "osm-3000559",
+  "slug": "wildcat-trail-3000559",
+  "name": "Wildcat Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0669248,
+    "lon": -4.1332881
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3000559
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-11507588",
+  "slug": "brekon-coastal-11507588",
+  "name": "Brekon Coastal",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.9,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.724237,
+    "lon": -1.0342065
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507588
+  },
+  "ai": {
+    "summary": "Brekon Coastal is a short, easy 4.9 km coastal hike in the UK. The route follows a gentle sea-front path with views of the coast, suitable for families, beginners, and casual walkers.",
+    "terrain_summary": "Mostly coastal footpath with gravel and compacted earth. Occasional wooden boardwalk sections and short steps near the cliffs. The route can be exposed to wind and sea spray, with some uneven ground and slippery patches when wet.",
+    "safety_notes": "Check local tide times and weather before you go. Wear sturdy, grippy footwear and bring a windproof jacket. Stay well back from cliff edges and supervise children and dogs. Be prepared for coastal winds and spray; bring extra layers. Carry water and a small snack. Ensure your phone is charged; signal can be patchy along the shore. Parking can be limited, so plan ahead or use public transport where available.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Windproof and waterproof jacket",
+      "Water bottle and some snacks",
+      "Sunscreen, hat, and sunglasses",
+      "Light layer for chilly or spray",
+      "Map, compass, or offline navigation on phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer milder weather, longer daylight, and better sea views. Winter hikes are possible but more exposed and potentially slippery.",
+    "seo": {
+      "title": "Brekon Coastal Hike: Easy 4.9 km Coastal Walk in the UK",
+      "meta_description": "Explore Brekon Coastal, an easy 4.9 km coastal hike in the UK. Learn about terrain, safety tips, best seasons, and gear to enjoy a seaside walk.",
+      "h1": "Brekon Coastal: Easy 4.9 km Coastal Walk in the UK"
+    }
+  }
+}

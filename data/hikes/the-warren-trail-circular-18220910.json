@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220910",
+  "slug": "the-warren-trail-circular-18220910",
+  "name": "The Warren Trail Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6173147,
+    "lon": 0.5858576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220910
+  }
+}

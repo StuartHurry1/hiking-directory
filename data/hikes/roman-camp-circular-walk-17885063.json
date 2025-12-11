@@ -1,0 +1,21 @@
+{
+  "id": "osm-17885063",
+  "slug": "roman-camp-circular-walk-17885063",
+  "name": "Roman Camp Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9302208,
+    "lon": 1.2971801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17885063
+  }
+}

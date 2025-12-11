@@ -1,0 +1,50 @@
+{
+  "id": 10781432,
+  "slug": "camborne-fp-76-10781432",
+  "name": "Camborne FP 76",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "name": "Camborne FP 76",
+    "network": "lwn",
+    "prow_ref": "Camborne FP 76",
+    "route": "foot",
+    "source:designation": "cornwall_council_prow_gis_data",
+    "source:prow_ref": "cornwall_council_prow_gis_data",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.2835374,
+      50.2219411
+    ],
+    [
+      -5.2832488,
+      50.2217872
+    ],
+    [
+      -5.2832488,
+      50.2217872
+    ],
+    [
+      -5.2830948,
+      50.2216955
+    ],
+    [
+      -5.283072,
+      50.2215942
+    ],
+    [
+      -5.2830633,
+      50.221541
+    ],
+    [
+      -5.28307,
+      50.2215076
+    ],
+    [
+      -5.2831079,
+      50.221478
+    ]
+  ]
+}

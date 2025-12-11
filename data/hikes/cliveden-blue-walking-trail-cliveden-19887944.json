@@ -1,0 +1,21 @@
+{
+  "id": "osm-19887944",
+  "slug": "cliveden-blue-walking-trail-cliveden-19887944",
+  "name": "Cliveden Blue Walking Trail, Cliveden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5403008,
+    "lon": -0.6903634
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19887944
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6334405",
+  "slug": "cape-wrath-trail-fort-william-glenfinnan-morvich-6334405",
+  "name": "Cape Wrath Trail (Fort William → Glenfinnan → Morvich)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 232.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9506519,
+    "lon": -5.3488169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6334405
+  }
+}

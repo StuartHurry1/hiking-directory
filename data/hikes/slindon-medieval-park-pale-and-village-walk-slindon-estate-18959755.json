@@ -1,0 +1,21 @@
+{
+  "id": "osm-18959755",
+  "slug": "slindon-medieval-park-pale-and-village-walk-slindon-estate-18959755",
+  "name": "Slindon medieval park pale and village walk, Slindon Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8615323,
+    "lon": -0.6377222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18959755
+  }
+}

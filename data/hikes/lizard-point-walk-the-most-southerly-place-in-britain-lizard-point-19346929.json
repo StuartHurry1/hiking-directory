@@ -1,0 +1,23 @@
+{
+  "id": "osm-19346929",
+  "slug": "lizard-point-walk-the-most-southerly-place-in-britain-lizard-point-19346929",
+  "name": "Lizard Point walk: the most southerly place in Britain, Lizard Point",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 49.9611211,
+    "lon": -5.2047907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19346929
+  }
+}

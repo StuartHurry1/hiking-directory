@@ -1,0 +1,21 @@
+{
+  "id": "osm-12605333",
+  "slug": "capital-ring-link-to-highgate-underground-station-12605333",
+  "name": "Capital Ring link to Highgate underground station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5778633,
+    "lon": -0.1455236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12605333
+  }
+}

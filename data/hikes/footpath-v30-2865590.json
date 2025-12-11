@@ -1,0 +1,21 @@
+{
+  "id": "osm-2865590",
+  "slug": "footpath-v30-2865590",
+  "name": "Footpath V30",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5272788,
+    "lon": -1.3304894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2865590
+  }
+}

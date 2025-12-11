@@ -1,0 +1,21 @@
+{
+  "id": "osm-276005",
+  "slug": "cassop-vale-circular-walk-276005",
+  "name": "Cassop Vale circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7452821,
+    "lon": -1.4848474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 276005
+  }
+}

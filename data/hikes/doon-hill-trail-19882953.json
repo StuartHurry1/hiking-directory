@@ -1,0 +1,21 @@
+{
+  "id": "osm-19882953",
+  "slug": "doon-hill-trail-19882953",
+  "name": "Doon Hill Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1625269,
+    "lon": -4.3697876
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19882953
+  }
+}

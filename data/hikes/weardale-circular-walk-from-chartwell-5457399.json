@@ -1,0 +1,21 @@
+{
+  "id": "osm-5457399",
+  "slug": "weardale-circular-walk-from-chartwell-5457399",
+  "name": "Weardale Circular Walk From Chartwell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2528727,
+    "lon": 0.1011768
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5457399
+  }
+}

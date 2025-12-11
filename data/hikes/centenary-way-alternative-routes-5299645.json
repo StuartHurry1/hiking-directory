@@ -1,0 +1,21 @@
+{
+  "id": "osm-5299645",
+  "slug": "centenary-way-alternative-routes-5299645",
+  "name": "Centenary Way - Alternative routes",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 187.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2891354,
+    "lon": -1.4709021
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5299645
+  }
+}

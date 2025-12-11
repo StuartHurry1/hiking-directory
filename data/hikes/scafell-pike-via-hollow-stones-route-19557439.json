@@ -1,0 +1,21 @@
+{
+  "id": "osm-19557439",
+  "slug": "scafell-pike-via-hollow-stones-route-19557439",
+  "name": "Scafell Pike via Hollow Stones Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4562877,
+    "lon": -3.2635766
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19557439
+  }
+}

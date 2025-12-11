@@ -1,0 +1,21 @@
+{
+  "id": "osm-59047",
+  "slug": "longster-trail-59047",
+  "name": "Longster Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2733987,
+    "lon": -2.7631592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 59047
+  }
+}

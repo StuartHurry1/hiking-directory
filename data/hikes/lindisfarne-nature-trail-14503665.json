@@ -1,0 +1,21 @@
+{
+  "id": "osm-14503665",
+  "slug": "lindisfarne-nature-trail-14503665",
+  "name": "Lindisfarne Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.6707592,
+    "lon": -1.7956207
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14503665
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-331403",
+  "slug": "sussex-ouse-valley-way-331403",
+  "name": "Sussex Ouse Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 392.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.896781,
+    "lon": 0.0062466
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 331403
+  }
+}

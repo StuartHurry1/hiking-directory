@@ -1,0 +1,23 @@
+{
+  "id": "osm-1820963",
+  "slug": "wales-coast-path-link-st-dogmaels-cardigan-1820963",
+  "name": "Wales Coast Path link (St Dogmaels-Cardigan)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0809642,
+    "lon": -4.6609048
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1820963
+  }
+}

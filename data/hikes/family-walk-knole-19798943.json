@@ -1,0 +1,21 @@
+{
+  "id": "osm-19798943",
+  "slug": "family-walk-knole-19798943",
+  "name": "Family Walk, Knole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2665735,
+    "lon": 0.2045014
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19798943
+  }
+}

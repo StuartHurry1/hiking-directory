@@ -1,0 +1,21 @@
+{
+  "id": "osm-3256449",
+  "slug": "royal-hunters-walks-foresters-walk-3256449",
+  "name": "Royal Hunters Walks - Foresters' walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3419494,
+    "lon": -2.0943741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3256449
+  }
+}

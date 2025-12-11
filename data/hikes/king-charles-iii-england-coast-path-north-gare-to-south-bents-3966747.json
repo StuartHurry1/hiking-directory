@@ -1,0 +1,23 @@
+{
+  "id": "osm-3966747",
+  "slug": "king-charles-iii-england-coast-path-north-gare-to-south-bents-3966747",
+  "name": "King Charles III England Coast Path (North Gare to South Bents)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 141.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6443409,
+    "lon": -1.1731524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3966747
+  }
+}

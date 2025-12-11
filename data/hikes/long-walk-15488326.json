@@ -1,0 +1,21 @@
+{
+  "id": "osm-15488326",
+  "slug": "long-walk-15488326",
+  "name": "Long walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9594036,
+    "lon": -1.5392401
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15488326
+  }
+}

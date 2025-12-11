@@ -1,0 +1,23 @@
+{
+  "id": "osm-18991991",
+  "slug": "malham-tarn-national-nature-reserve-walk-malham-18991991",
+  "name": "Malham Tarn National Nature Reserve Walk, Malham",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1018205,
+    "lon": -2.1721563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18991991
+  }
+}

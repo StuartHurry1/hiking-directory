@@ -1,0 +1,21 @@
+{
+  "id": "osm-12042606",
+  "slug": "literary-heritage-trail-12042606",
+  "name": "Literary Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4363333,
+    "lon": 0.0184298
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12042606
+  }
+}

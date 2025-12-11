@@ -1,0 +1,21 @@
+{
+  "id": "osm-5540650",
+  "slug": "mills-and-pillboxes-walk-scc-5540650",
+  "name": "Mills & Pillboxes walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2397292,
+    "lon": -0.2308604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5540650
+  }
+}

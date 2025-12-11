@@ -1,0 +1,21 @@
+{
+  "id": "osm-19604128",
+  "slug": "tramper-route-sheringham-park-19604128",
+  "name": "Tramper Route, Sheringham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9299005,
+    "lon": 1.1761143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19604128
+  }
+}

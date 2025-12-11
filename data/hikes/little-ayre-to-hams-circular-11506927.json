@@ -1,0 +1,21 @@
+{
+  "id": "osm-11506927",
+  "slug": "little-ayre-to-hams-circular-11506927",
+  "name": "Little Ayre to Hams circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.350362,
+    "lon": -1.4236978
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11506927
+  }
+}

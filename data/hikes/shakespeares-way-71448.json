@@ -1,0 +1,21 @@
+{
+  "id": "osm-71448",
+  "slug": "shakespeares-way-71448",
+  "name": "Shakespeare's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 810.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1091441,
+    "lon": -1.6233688
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 71448
+  }
+}

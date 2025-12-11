@@ -1,0 +1,21 @@
+{
+  "id": "osm-9599259",
+  "slug": "the-monega-pass-9599259",
+  "name": "The Monega Pass",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8107705,
+    "lon": -3.3258977
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9599259
+  }
+}

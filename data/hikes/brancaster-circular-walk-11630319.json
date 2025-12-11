@@ -1,0 +1,46 @@
+{
+  "id": "osm-11630319",
+  "slug": "brancaster-circular-walk-11630319",
+  "name": "Brancaster Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.8,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9630656,
+    "lon": 0.6380959
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11630319
+  },
+  "ai": {
+    "summary": "A 10.8 km coastal loop near Brancaster offering dune ridge scenery, salt marsh edges and sea views. The route combines flat coastal paths with gentle climbs along dune ridges for a moderate day hike.",
+    "terrain_summary": "Mixed surfaces including compact paths, wooden boardwalks over salt marsh, sandy tracks along dunes, and short, uneven climbs on dune ridges. Mud can be present in wet seasons and surfaces may be slick after rain.",
+    "safety_notes": "Check tide times for coastal sections; avoid cliff edges and unstable ground near marshes; weather on the coast can change quickly, bring a waterproof layer and sun protection; wear sturdy footwear and carry water and snacks; if hiking alone, share your plan and expected return time.",
+    "recommended_gear": [
+      "sturdy waterproof walking boots",
+      "layered clothing",
+      "windproof/waterproof jacket",
+      "hat and sunscreen",
+      "water bottle",
+      "snacks",
+      "map or GPS device",
+      "basic first aid kit",
+      "phone with offline maps",
+      "compact headlamp or flashlight (for late returns)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for milder weather and better daylight",
+    "seo": {
+      "title": "Brancaster Circular Walk – 10.8 km Coastal Ridge Hike in the UK",
+      "meta_description": "Discover the Brancaster Circular Walk, a 10.8 km moderate coastal loop in the UK featuring dune ridges, salt marshes, and sea views. Practical tips, gear and best season.",
+      "h1": "Brancaster Circular Walk – 10.8 km Coastal Ridge Hike"
+    }
+  }
+}

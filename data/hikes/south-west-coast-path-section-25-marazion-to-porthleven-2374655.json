@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374655",
+  "slug": "south-west-coast-path-section-25-marazion-to-porthleven-2374655",
+  "name": "South West Coast Path (Section 25: Marazion to Porthleven)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.2,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1227941,
+    "lon": -5.4595699
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374655
+  }
+}

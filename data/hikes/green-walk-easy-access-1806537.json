@@ -1,0 +1,21 @@
+{
+  "id": "osm-1806537",
+  "slug": "green-walk-easy-access-1806537",
+  "name": "Green Walk (Easy Access)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5149584,
+    "lon": 0.6845446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1806537
+  }
+}

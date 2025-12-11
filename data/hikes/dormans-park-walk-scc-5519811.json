@@ -1,0 +1,21 @@
+{
+  "id": "osm-5519811",
+  "slug": "dormans-park-walk-scc-5519811",
+  "name": "Dormans Park Walk (SCC)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.160943,
+    "lon": -0.0079441
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5519811
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "osm-9749722",
+  "slug": "red-trail-giants-causeway-9749722",
+  "name": "Red Trail, Giant's Causeway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.2336467,
+    "lon": -6.5163988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9749722
+  }
+}

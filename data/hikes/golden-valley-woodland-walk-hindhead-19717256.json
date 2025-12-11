@@ -1,0 +1,21 @@
+{
+  "id": "osm-19717256",
+  "slug": "golden-valley-woodland-walk-hindhead-19717256",
+  "name": "Golden Valley Woodland Walk, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1173719,
+    "lon": -0.7361186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19717256
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763992",
+  "slug": "cross-borders-drove-road-traquair-to-hawick-19763992",
+  "name": "Cross Borders Drove Road (Traquair to Hawick)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 63.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5926623,
+    "lon": -3.0767098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763992
+  }
+}

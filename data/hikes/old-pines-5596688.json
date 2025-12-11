@@ -1,0 +1,21 @@
+{
+  "id": "osm-5596688",
+  "slug": "old-pines-5596688",
+  "name": "Old Pines",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0320675,
+    "lon": -2.8814337
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5596688
+  }
+}

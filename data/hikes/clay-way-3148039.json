@@ -1,0 +1,21 @@
+{
+  "id": "osm-3148039",
+  "slug": "clay-way-3148039",
+  "name": "Clay Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.026653,
+    "lon": -0.5943322
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3148039
+  }
+}

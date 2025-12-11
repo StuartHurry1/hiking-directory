@@ -1,0 +1,43 @@
+{
+  "id": "osm-12802796",
+  "slug": "aston-rowant-discovery-trail-12802796",
+  "name": "Aston Rowant Discovery Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6818424,
+    "lon": -0.9474076
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12802796
+  },
+  "ai": {
+    "summary": "The Aston Rowant Discovery Trail is a challenging 19.9 km hike in the UK that combines open chalk downs, woodlands, and country lanes. Expect steep climbs and uneven terrain, with sweeping viewpoints and a mix of sunlit fields and shaded forest sections.",
+    "terrain_summary": "Varied terrain including steep ascents and descents, uneven chalk tracks, rocky patches, muddy woodland and field paths, and occasional gates or stiles. Some sections are exposed with open views.",
+    "safety_notes": "This is a hard route suitable for experienced hikers. Navigation is straightforward on clear markers but mist can reduce visibility. Wear sturdy boots and carry a map and compass or GPS. Weather can change quickly—bring waterproofs and extra layers. Stay on marked paths, watch for livestock on open ground, and be mindful of other trail users. Dogs are allowed where permitted but should be kept under control and on short leads in farmed or livestock areas. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and a waterproof outer layer",
+      "Water and high-energy snacks (2–3 L water per person)",
+      "Map and compass or GPS device",
+      "Headlamp or torch (in case you’re out after dark)",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle and a mobile phone with offline map",
+      "Walking poles (optional, helpful on uneven sections)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are best for the Aston Rowant Discovery Trail; winter conditions can be muddy, windy and more challenging.",
+    "seo": {
+      "title": "Aston Rowant Discovery Trail – 19.9 km Hard Hike in the UK",
+      "meta_description": "Discover the Aston Rowant Discovery Trail, a hard 19.9 km hike in the UK featuring varied terrain, steep ascents, and scenic views. Safety tips, gear list, and best seasons.",
+      "h1": "Aston Rowant Discovery Trail – 19.9 km Hard Hike in the UK"
+    }
+  }
+}

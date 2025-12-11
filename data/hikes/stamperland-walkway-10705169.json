@@ -1,0 +1,21 @@
+{
+  "id": "osm-10705169",
+  "slug": "stamperland-walkway-10705169",
+  "name": "Stamperland Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7959799,
+    "lon": -4.2628805
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10705169
+  }
+}

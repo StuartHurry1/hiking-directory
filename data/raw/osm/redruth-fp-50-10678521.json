@@ -1,0 +1,58 @@
+{
+  "id": 10678521,
+  "slug": "redruth-fp-50-10678521",
+  "name": "Redruth FP 50",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "name": "Redruth FP 50",
+    "network": "lwn",
+    "prow_ref": "Redruth FP 50",
+    "route": "foot",
+    "source:designation": "cornwall_council_prow_gis_data",
+    "source:prow_ref": "cornwall_council_prow_gis_data",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.2290591,
+      50.2356374
+    ],
+    [
+      -5.2291301,
+      50.2356296
+    ],
+    [
+      -5.2295177,
+      50.2355898
+    ],
+    [
+      -5.2295177,
+      50.2355898
+    ],
+    [
+      -5.2295338,
+      50.235465
+    ],
+    [
+      -5.229523,
+      50.2353192
+    ],
+    [
+      -5.2295016,
+      50.2351935
+    ],
+    [
+      -5.2294694,
+      50.2350751
+    ],
+    [
+      -5.2294238,
+      50.2349859
+    ],
+    [
+      -5.2294042,
+      50.2349404
+    ]
+  ]
+}

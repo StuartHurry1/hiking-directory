@@ -1,0 +1,21 @@
+{
+  "id": "osm-1715062",
+  "slug": "naht-parish-walk-fillongley-1715062",
+  "name": "NAHT Parish Walk Fillongley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4832285,
+    "lon": -1.5854192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1715062
+  }
+}

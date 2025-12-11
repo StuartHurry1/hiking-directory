@@ -1,0 +1,21 @@
+{
+  "id": "osm-3570167",
+  "slug": "hunstanton-wolf-trail-3570167",
+  "name": "Hunstanton Wolf Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9407649,
+    "lon": 0.4875486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3570167
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-9044616",
+  "slug": "cranborne-droves-way-9044616",
+  "name": "Cranborne Droves Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 126.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0201407,
+    "lon": -1.8900707
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9044616
+  }
+}

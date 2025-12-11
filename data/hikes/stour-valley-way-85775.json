@@ -1,0 +1,21 @@
+{
+  "id": "osm-85775",
+  "slug": "stour-valley-way-85775",
+  "name": "Stour Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 310,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7754281,
+    "lon": -1.8832801
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 85775
+  }
+}

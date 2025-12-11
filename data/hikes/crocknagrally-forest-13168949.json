@@ -1,0 +1,21 @@
+{
+  "id": "osm-13168949",
+  "slug": "crocknagrally-forest-13168949",
+  "name": "CROCKNAGRALLY FOREST",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3369677,
+    "lon": -7.2658483
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13168949
+  }
+}

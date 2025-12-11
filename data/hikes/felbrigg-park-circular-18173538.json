@@ -1,0 +1,21 @@
+{
+  "id": "osm-18173538",
+  "slug": "felbrigg-park-circular-18173538",
+  "name": "Felbrigg Park Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9069983,
+    "lon": 1.263197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18173538
+  }
+}

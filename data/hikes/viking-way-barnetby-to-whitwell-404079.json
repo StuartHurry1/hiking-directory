@@ -1,0 +1,21 @@
+{
+  "id": "osm-404079",
+  "slug": "viking-way-barnetby-to-whitwell-404079",
+  "name": "Viking Way (Barnetby to Whitwell)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 486.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5557732,
+    "lon": -0.4074196
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 404079
+  }
+}

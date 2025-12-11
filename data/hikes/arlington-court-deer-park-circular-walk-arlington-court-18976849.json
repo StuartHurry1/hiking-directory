@@ -1,0 +1,42 @@
+{
+  "id": "osm-18976849",
+  "slug": "arlington-court-deer-park-circular-walk-arlington-court-18976849",
+  "name": "Arlington Court deer park circular walk, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1374536,
+    "lon": -3.9904655
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976849
+  },
+  "ai": {
+    "summary": "A circular 11.8 km hike around Arlington Court deer park in Devon, UK. This moderate-length route blends parkland, woodland and open fields, with potential deer sightings and scenic views. The loop starts and finishes at the Arlington Court estate, passing through the deer grounds and surrounding countryside with occasional gentle climbs and gates to negotiate.",
+    "terrain_summary": "The surface is a mix of compact gravel paths, grassy tracks and uneven field edges. Look out for gentle ascents, small steps or stiles, and possible mud after wet weather. Although the route follows established trails, conditions can vary with cattle or deer movement and seasonal maintenance.",
+    "safety_notes": "Distance and terrain demand steady footing and good preparation for roughly 12 km. Wear sturdy footwear and weather-appropriate clothing. Be mindful of deer and other visitors; keep dogs under control where permitted and avoid disturbing wildlife. Stay on marked paths, close gates behind you, and watch for uneven ground and mud. Carry water, a map or offline navigation, a charged phone, and a small first aid kit. Check opening times/restrictions for Arlington Court and plan to finish before dark.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle (2-3 litres) and snacks",
+      "Weather-appropriate layers and a lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Map or offline navigation (or a charged phone with mapping app)",
+      "Small first aid kit",
+      "Insect repellent",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn; expect muddier and windier conditions in winter",
+    "seo": {
+      "title": "Arlington Court deer park circular walk (11.8 km) – Devon, UK",
+      "meta_description": "Discover an 11.8 km circular hike around Arlington Court deer park in Devon, UK. A moderate walk through parkland, woodland and fields with potential deer sightings and scenic countryside views.",
+      "h1": "Arlington Court deer park circular walk (11.8 km)"
+    }
+  }
+}

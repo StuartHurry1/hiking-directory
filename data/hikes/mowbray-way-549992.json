@@ -1,0 +1,21 @@
+{
+  "id": "osm-549992",
+  "slug": "mowbray-way-549992",
+  "name": "Mowbray Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8108517,
+    "lon": -0.7268705
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 549992
+  }
+}

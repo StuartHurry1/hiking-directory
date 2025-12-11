@@ -1,0 +1,21 @@
+{
+  "id": "osm-18627498",
+  "slug": "selly-oak-park-nature-trail-18627498",
+  "name": "Selly Oak Park Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4429882,
+    "lon": -1.9428689
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18627498
+  }
+}

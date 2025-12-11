@@ -1,0 +1,21 @@
+{
+  "id": "osm-6191024",
+  "slug": "rowbothams-round-6191024",
+  "name": "Rowbotham's Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3154605,
+    "lon": -1.2035147
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6191024
+  }
+}

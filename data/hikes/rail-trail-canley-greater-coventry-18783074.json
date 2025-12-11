@@ -1,0 +1,23 @@
+{
+  "id": "osm-18783074",
+  "slug": "rail-trail-canley-greater-coventry-18783074",
+  "name": "Rail Trail: Canley > Coventry",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3992329,
+    "lon": -1.5474375
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18783074
+  }
+}

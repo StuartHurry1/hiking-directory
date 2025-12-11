@@ -1,0 +1,21 @@
+{
+  "id": "osm-17829484",
+  "slug": "newark-park-pink-trail-17829484",
+  "name": "Newark Park Pink Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6364824,
+    "lon": -2.3194964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17829484
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19617205",
+  "slug": "island-reagh-strangford-lough-19617205",
+  "name": "Island Reagh, Strangford Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5061066,
+    "lon": -5.6454026
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617205
+  }
+}

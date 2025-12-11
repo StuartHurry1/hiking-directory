@@ -1,0 +1,55 @@
+{
+  "id": "malvern-hills-north-hill-loop",
+  "slug": "malvern-hills-north-hill-loop",
+  "name": "Malvern Hills North Hill Loop",
+  "region": "Malvern Hills",
+  "country": "England",
+  "county": "Worcestershire",
+
+  "start": {
+    "lat": 52.1153,
+    "lon": -2.3333,
+    "nearest_postcode": "WR14 4DQ"
+  },
+  "end": {
+    "lat": 52.1153,
+    "lon": -2.3333,
+    "nearest_postcode": "WR14 4DQ"
+  },
+
+  "distance_km": 7.0,
+  "ascent_m": 350,
+  "descent_m": 350,
+  "difficulty": "moderate",
+  "terrain": ["hill", "ridge"],
+  "features": ["views", "ridge"],
+  "theme_tags": ["ridge"],
+
+  "gpx_file": null,
+
+  "transport": {
+    "nearest_train_stations": [
+      {
+        "name": "Great Malvern",
+        "distance_km": 1.3,
+        "station_code": "GMV"
+      }
+    ],
+    "nearest_bus_stops": [],
+    "access_summary": "Walk up from Great Malvern town to the main ridge paths."
+  },
+
+  "ai": {
+    "summary": "A popular loop over North Hill in the Malvern Hills with far-reaching views over Worcestershire and Herefordshire.",
+    "terrain_summary": "Steady ascents on well-trodden paths, with some steeper, rocky sections near the ridge.",
+    "safety_notes": "Can be very exposed in high winds; carry layers and check the weather forecast.",
+    "recommended_gear": ["lightweight hiking boots", "windproof layer", "water bottle"],
+    "best_seasons": "Year-round, but especially good in clear spring and autumn weather."
+  },
+
+  "seo": {
+    "title": "Malvern Hills North Hill Loop Hiking Route",
+    "meta_description": "Explore a scenic 7 km loop over North Hill in the Malvern Hills with superb views and moderate ascents.",
+    "h1": "Malvern Hills North Hill Loop"
+  }
+}

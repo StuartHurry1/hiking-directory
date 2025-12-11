@@ -1,0 +1,41 @@
+{
+  "id": "osm-13106830",
+  "slug": "bellanaleck-loughshore-walk-13106830",
+  "name": "Bellanaleck Loughshore Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2979577,
+    "lon": -7.639995
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13106830
+  },
+  "ai": {
+    "summary": "A gentle, 3.4 km lakeside stroll along the Bellanaleck Loughshore. Flat and easy, this family-friendly route offers wide water views, opportunities for birdwatching, and a relaxing walk near Bellanaleck in the United Kingdom.",
+    "terrain_summary": "Flat, well-maintained path along the shoreside with gravel sections and occasional boardwalk. Generally easy, but may be muddy or slippery after rain and can be windy along the water.",
+    "safety_notes": "Stay on designated paths and keep a safe distance from the shore; watch for wet, muddy sections after rain; supervise children and pets near the water; check the weather forecast and wind conditions before you go; wear appropriate clothing and bring a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light to mid-weight layer clothing",
+      "Rain jacket or windbreaker",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Map or smartphone for navigation (optional)",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn are ideal for comfortable temperatures and good visibility for lake views. The trail can be walked year-round, but winter conditions may be muddy and windy.",
+    "seo": {
+      "title": "Bellanaleck Loughshore Walk – Easy 3.4 km Lakeside Path in the UK",
+      "meta_description": "Explore the 3.4 km Bellanaleck Loughshore Walk, a flat, family-friendly lakeside trail near Bellanaleck in the UK. Easy terrain, scenic water views, and wildlife along the shore.",
+      "h1": "Bellanaleck Loughshore Walk – Easy 3.4 km Lakeside Path"
+    }
+  }
+}

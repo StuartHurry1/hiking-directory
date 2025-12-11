@@ -1,0 +1,21 @@
+{
+  "id": "osm-18552184",
+  "slug": "west-bromwich-to-oldbury-health-walk-18552184",
+  "name": "West Bromwich to Oldbury Health Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5164624,
+    "lon": -1.9944262
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18552184
+  }
+}

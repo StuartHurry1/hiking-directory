@@ -1,0 +1,21 @@
+{
+  "id": "osm-15968877",
+  "slug": "manor-stroll-15968877",
+  "name": "Manor Stroll",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6768156,
+    "lon": -0.3553035
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15968877
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "osm-408578",
+  "slug": "bourne-wood-yellow-route-408578",
+  "name": "Bourne Wood Yellow Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1842899,
+    "lon": -0.776028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 408578
+  },
+  "ai": {
+    "summary": "A short, easy woodland stroll on the Bourne Wood Yellow Route. At only 0.3 km, it’s a quick option for a casual, family-friendly outing in the UK.",
+    "terrain_summary": "Flat to gently graded forest paths with a soft surface. Tree cover provides shade and a tranquil setting.",
+    "safety_notes": "Stay on marked paths. Watch for exposed roots and uneven ground. Wear sturdy footwear and bring weather-appropriate clothing. Carry water; be mindful of weather changes and ticks in wooded areas.",
+    "recommended_gear": [
+      "Sturdy footwear",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or offline route (optional)"
+    ],
+    "best_seasons": "All year round; spring and autumn offer especially pleasant scenery, but a walk is suitable any season.",
+    "seo": {
+      "title": "Bourne Wood Yellow Route - Easy 0.3 km Woodland Walk in the UK",
+      "meta_description": "Explore the Bourne Wood Yellow Route, a short 0.3 km easy hike in the UK. Perfect for a quick, family-friendly woodland stroll.",
+      "h1": "Bourne Wood Yellow Route"
+    }
+  }
+}

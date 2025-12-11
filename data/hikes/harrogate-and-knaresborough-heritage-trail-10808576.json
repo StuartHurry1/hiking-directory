@@ -1,0 +1,21 @@
+{
+  "id": "osm-10808576",
+  "slug": "harrogate-and-knaresborough-heritage-trail-10808576",
+  "name": "Harrogate and Knaresborough Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9579451,
+    "lon": -1.5291404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10808576
+  }
+}

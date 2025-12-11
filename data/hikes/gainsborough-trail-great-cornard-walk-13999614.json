@@ -1,0 +1,21 @@
+{
+  "id": "osm-13999614",
+  "slug": "gainsborough-trail-great-cornard-walk-13999614",
+  "name": "Gainsborough Trail Great Cornard Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0264865,
+    "lon": 0.7478577
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13999614
+  }
+}

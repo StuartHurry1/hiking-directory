@@ -1,0 +1,21 @@
+{
+  "id": "osm-12719587",
+  "slug": "capital-ring-link-to-west-ham-station-12719587",
+  "name": "Capital Ring link to West Ham station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5299006,
+    "lon": 0.0053197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12719587
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19216918",
+  "slug": "crook-hill-circular-ethel-high-peak-19216918",
+  "name": "Crook Hill Circular (Ethel), High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4009687,
+    "lon": -1.7431703
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19216918
+  }
+}

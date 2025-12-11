@@ -1,0 +1,41 @@
+{
+  "id": "osm-15923939",
+  "slug": "abinger-roughs-rhododendron-and-bluebell-walk-15923939",
+  "name": "Abinger Roughs rhododendron and bluebell walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2188658,
+    "lon": -0.4259877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15923939
+  },
+  "ai": {
+    "summary": "An easy 5.9 km woodland circuit at Abinger Roughs in the UK, renowned for bluebell and rhododendron blooms. The route is gentle and well-signed, making it suitable for families and casual walkers seeking a scenic spring or early summer walk through a sheltered woodland environment.",
+    "terrain_summary": "Predominantly well-defined woodland paths with some uneven sections and gentle rises. Expect shaded trails, moderate mud after rain, and occasional steps along the route.",
+    "safety_notes": "Wear sturdy, waterproof footwear and dress in weather-appropriate layers. Stay on marked paths and watch for slippery leaves after rain. Be mindful of ticks in woodland areas and keep dogs under control where required. Bring water, a small first-aid kit, and tell someone your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water bottle and lightweight snacks",
+      "Map, phone with offline map, and a compass if needed",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring, especially April–June, when bluebells and rhododendrons are in bloom; early autumn also offers pleasant woodland colors.",
+    "seo": {
+      "title": "Abinger Roughs Rhododendron & Bluebell Walk – 5.9 km Easy UK Hike",
+      "meta_description": "Discover the 5.9 km Abinger Roughs rhododendron and bluebell walk in the UK. An easy woodland hike through bluebells and rhododendrons with safety tips and gear.",
+      "h1": "Abinger Roughs Rhododendron & Bluebell Walk (5.9 km, Easy)"
+    }
+  }
+}

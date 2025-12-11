@@ -1,0 +1,21 @@
+{
+  "id": "osm-19258084",
+  "slug": "fulking-archaeology-walk-sussex-east-19258084",
+  "name": "Fulking Archaeology Walk, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8838744,
+    "lon": -0.2146657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19258084
+  }
+}

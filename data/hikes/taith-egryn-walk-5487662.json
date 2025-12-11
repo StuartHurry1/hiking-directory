@@ -1,0 +1,21 @@
+{
+  "id": "osm-5487662",
+  "slug": "taith-egryn-walk-5487662",
+  "name": "Taith Egryn Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7630438,
+    "lon": -4.0403371
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5487662
+  }
+}

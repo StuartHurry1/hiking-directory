@@ -1,0 +1,42 @@
+{
+  "id": "osm-3134556",
+  "slug": "birnam-riverside-path-3134556",
+  "name": "Birnam Riverside Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5612493,
+    "lon": -3.5878469
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3134556
+  },
+  "ai": {
+    "summary": "Birnam Riverside Path is a gentle 5.9 km riverside walk in the UK. The route follows flat, well-maintained paths along the river, making it suitable for beginners, families, and anyone seeking a relaxed outdoor outing.",
+    "terrain_summary": "Mostly flat, well-maintained paths along the riverbank. Expect gravel, compact dirt, and occasional boardwalk sections. The route is generally easy with gentle gradients and minimal ascent. Be prepared for mud after rain and seasonal puddles near the water.",
+    "safety_notes": "Watch weather and river conditions; stay on marked paths and be mindful of other users on shared sections. Keep children and pets under control near the water. Wear sturdy footwear, bring water, and carry a charged phone. Check local notices for seasonal closures or flood risks.",
+    "recommended_gear": [
+      "Comfortable walking shoes or waterproof sneakers",
+      "Weather-appropriate clothing in layers",
+      "Light waterproof jacket or rain shell",
+      "Water bottle",
+      "Small backpack",
+      "Hat and sunglasses",
+      "Map or offline navigation (phone with signal)",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn; mild temperatures and longer daylight make for the most pleasant hikes. The route can be enjoyed in winter with proper clothing and footwear.",
+    "seo": {
+      "title": "Birnam Riverside Path: Easy 5.9 km UK Riverside Walk",
+      "meta_description": "Discover Birnam Riverside Path, a 5.9 km easy hike along the UK river. Flat terrain, scenic views, safety tips, best seasons, and gear.",
+      "h1": "Birnam Riverside Path — Easy 5.9 km Riverside Walk"
+    }
+  }
+}

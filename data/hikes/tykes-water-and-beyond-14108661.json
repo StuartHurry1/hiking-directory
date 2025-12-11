@@ -1,0 +1,21 @@
+{
+  "id": "osm-14108661",
+  "slug": "tykes-water-and-beyond-14108661",
+  "name": "Tykes Water & Beyond",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6701274,
+    "lon": -0.2897403
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14108661
+  }
+}

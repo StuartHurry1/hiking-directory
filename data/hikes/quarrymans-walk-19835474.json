@@ -1,0 +1,21 @@
+{
+  "id": "osm-19835474",
+  "slug": "quarrymans-walk-19835474",
+  "name": "Quarrymans Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5518357,
+    "lon": -1.5263965
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19835474
+  }
+}

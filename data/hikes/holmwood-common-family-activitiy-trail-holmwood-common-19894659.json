@@ -1,0 +1,21 @@
+{
+  "id": "osm-19894659",
+  "slug": "holmwood-common-family-activitiy-trail-holmwood-common-19894659",
+  "name": "Holmwood Common Family Activitiy Trail, Holmwood Common",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2028809,
+    "lon": -0.3167195
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19894659
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7888727",
+  "slug": "mounth-road-7888727",
+  "name": "Mounth Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9115829,
+    "lon": -2.9140486
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7888727
+  }
+}

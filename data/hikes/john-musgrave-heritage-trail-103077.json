@@ -1,0 +1,21 @@
+{
+  "id": "osm-103077",
+  "slug": "john-musgrave-heritage-trail-103077",
+  "name": "John Musgrave Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 504.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.49743,
+    "lon": -3.527166
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 103077
+  }
+}

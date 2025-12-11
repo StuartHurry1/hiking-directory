@@ -1,0 +1,21 @@
+{
+  "id": "osm-274313",
+  "slug": "great-ashby-woodland-walk-274313",
+  "name": "Great Ashby Woodland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.930156,
+    "lon": -0.1606495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 274313
+  }
+}

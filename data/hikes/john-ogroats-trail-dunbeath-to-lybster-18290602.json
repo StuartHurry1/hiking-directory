@@ -1,0 +1,21 @@
+{
+  "id": "osm-18290602",
+  "slug": "john-ogroats-trail-dunbeath-to-lybster-18290602",
+  "name": "John O'Groats Trail (Dunbeath to Lybster)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.2457395,
+    "lon": -3.4232488
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18290602
+  }
+}

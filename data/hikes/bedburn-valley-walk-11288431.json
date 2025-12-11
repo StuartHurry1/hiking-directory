@@ -1,0 +1,44 @@
+{
+  "id": "osm-11288431",
+  "slug": "bedburn-valley-walk-11288431",
+  "name": "Bedburn Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6761282,
+    "lon": -1.8593141
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11288431
+  },
+  "ai": {
+    "summary": "Bedburn Valley Walk is a 12.6 km moderate hike in the UK. The route weaves through Bedburn Valley with river paths, woodlands and open fields, offering tranquil countryside scenery. Expect gentle climbs, varied surfaces and potential muddiness after rain.",
+    "terrain_summary": "Mixed terrain: grassy and dirt tracks, some compacted paths, and short stretches of stony ground. Expect uneven footing, several stiles or gates, and sections that follow streams or riverbanks. After rain, paths can be muddy and slippery; waterproof footwear is recommended.",
+    "safety_notes": "Plan for variable UK weather and shorter daylight hours in winter. Wear sturdy, grippy hiking boots and bring waterproof clothing. Stay on official paths, respect livestock, and be mindful of gates and stiles. Carry a map and/or GPS, a charged mobile phone, and a small first aid kit. Let someone know your planned route and estimated return time. Bring enough water and snacks; be prepared for wind or cold, especially along exposed sections. If hiking with dogs, keep them on a leash where required and watch for farm animals.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Waterproof jacket",
+      "Warm layers",
+      "Map and compass or GPS",
+      "Fully charged mobile phone",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn",
+    "seo": {
+      "title": "Bedburn Valley Walk – 12.6 km Moderate Hike in the UK",
+      "meta_description": "Explore Bedburn Valley Walk, a 12.6 km moderate hike in the UK. Learn about the terrain, safety tips and gear to enjoy a day on the trail.",
+      "h1": "Bedburn Valley Walk – 12.6 km Moderate Hike in the UK"
+    }
+  }
+}

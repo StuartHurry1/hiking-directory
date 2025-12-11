@@ -1,0 +1,21 @@
+{
+  "id": "osm-9331377",
+  "slug": "cape-wrath-trail-morvich-bendronaig-9331377",
+  "name": "Cape Wrath Trail (Morvich → Bendronaig)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 53.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2346413,
+    "lon": -5.3715866
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9331377
+  }
+}

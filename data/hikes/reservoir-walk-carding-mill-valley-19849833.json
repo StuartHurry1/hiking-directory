@@ -1,0 +1,21 @@
+{
+  "id": "osm-19849833",
+  "slug": "reservoir-walk-carding-mill-valley-19849833",
+  "name": "Reservoir Walk, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5463841,
+    "lon": -2.8232089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19849833
+  }
+}

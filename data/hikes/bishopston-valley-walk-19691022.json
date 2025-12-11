@@ -1,0 +1,46 @@
+{
+  "id": "osm-19691022",
+  "slug": "bishopston-valley-walk-19691022",
+  "name": "Bishopston Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5642832,
+    "lon": -4.0592498
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19691022
+  },
+  "ai": {
+    "summary": "Bishopston Valley Walk is a roughly 10.2 km moderate hike through a picturesque UK valley. The route suits walkers with some experience and offers steady pacing, river views, and a mix of terrains that keep the day engaging.",
+    "terrain_summary": "Predominantly well-maintained footpaths along the valley floor with grassy verges and occasional gentle climbs. Expect uneven sections, potential muddiness in wet weather, and occasional stream crossings.",
+    "safety_notes": "Check the weather forecast and tell someone your planned route. Wear sturdy waterproof boots and dress in layers; bring a waterproof jacket. Stay on waymarked paths, watch for slippery surfaces near water, and consider a map, compass or GPS. Carry sufficient water and snacks, a basic first aid kit, a whistle for emergencies, and a charged phone.",
+    "recommended_gear": [
+      "Sturdy waterproof boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS",
+      "Phone with offline maps",
+      "Snacks or energy bars",
+      "Hat and sunscreen (summer)",
+      "Lightweight backpack",
+      "Basic first aid kit",
+      "Emergency whistle",
+      "Dry bag for valuables",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offers the best conditions in the UK, with longer daylight and drier weather. Winter walks are possible but often wetter, muddier, and shorter due to shorter daylight.",
+    "seo": {
+      "title": "Bishopston Valley Walk – 10.2 km Moderate Hike in the UK",
+      "meta_description": "Discover Bishopston Valley Walk, a 10.2 km moderate hike through a scenic UK valley. Learn about terrain, safety tips, best seasons, and gear for this enjoyable valley trail.",
+      "h1": "Bishopston Valley Walk (10.2 km) – A Moderate UK Valley Hike"
+    }
+  }
+}

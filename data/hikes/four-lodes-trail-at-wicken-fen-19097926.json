@@ -1,0 +1,21 @@
+{
+  "id": "osm-19097926",
+  "slug": "four-lodes-trail-at-wicken-fen-19097926",
+  "name": "Four Lodes Trail at Wicken Fen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3107191,
+    "lon": 0.2917099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19097926
+  }
+}

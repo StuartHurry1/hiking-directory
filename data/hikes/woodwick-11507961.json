@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507961",
+  "slug": "woodwick-11507961",
+  "name": "Woodwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.7721909,
+    "lon": -0.9075604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507961
+  }
+}

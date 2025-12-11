@@ -1,0 +1,21 @@
+{
+  "id": "osm-13724511",
+  "slug": "somerset-space-walk-13724511",
+  "name": "Somerset Space Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 55.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1236527,
+    "lon": -3.0027542
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13724511
+  }
+}

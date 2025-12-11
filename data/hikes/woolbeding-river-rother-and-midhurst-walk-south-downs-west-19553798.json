@@ -1,0 +1,23 @@
+{
+  "id": "osm-19553798",
+  "slug": "woolbeding-river-rother-and-midhurst-walk-south-downs-west-19553798",
+  "name": "Woolbeding, River Rother and Midhurst Walk, South Downs West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9869314,
+    "lon": -0.7388008
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19553798
+  }
+}

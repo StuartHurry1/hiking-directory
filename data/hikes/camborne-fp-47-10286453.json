@@ -1,0 +1,41 @@
+{
+  "id": "osm-10286453",
+  "slug": "camborne-fp-47-10286453",
+  "name": "Camborne FP 47",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2041762,
+    "lon": -5.2704206
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10286453
+  },
+  "ai": {
+    "summary": "Camborne FP 47 is a short, easy 1 km hike in the UK. The route is suitable for beginners and casual walkers looking for a quick outdoor outing with minimal elevation and simple terrain.",
+    "terrain_summary": "The trail follows a short, well-defined footpath. Expect flat to gently undulating sections with a mix of compact earth, gravel, and occasional uneven spots or small roots. Suitable for most footwear.",
+    "safety_notes": "Wear sturdy walking shoes, bring a light layer and water. Check weather forecast, stay on the designated path, be mindful of wet or muddy sections, and carry a map or a charged phone. Children and pets should be supervised at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Rain jacket (optional)",
+      "Phone or map",
+      "Small backpack",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring to autumn offer the best comfortable conditions; winter can be cold and damp, with shorter daylight.",
+    "seo": {
+      "title": "Camborne FP 47: Easy 1 km Hike in the UK",
+      "meta_description": "Discover Camborne FP 47, a short and easy 1 km hike in the UK. Practical safety tips, gear checklist, and best seasons for this quick outdoor stroll.",
+      "h1": "Camborne FP 47 — Easy 1 km Hike in the UK"
+    }
+  }
+}

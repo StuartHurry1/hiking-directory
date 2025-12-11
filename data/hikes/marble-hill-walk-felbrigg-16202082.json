@@ -1,0 +1,23 @@
+{
+  "id": "osm-16202082",
+  "slug": "marble-hill-walk-felbrigg-16202082",
+  "name": "Marble Hill Walk, Felbrigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9060111,
+    "lon": 1.2774084
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16202082
+  }
+}

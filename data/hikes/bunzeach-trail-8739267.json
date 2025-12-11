@@ -1,0 +1,44 @@
+{
+  "id": "osm-8739267",
+  "slug": "bunzeach-trail-8739267",
+  "name": "Bunzeach Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1997869,
+    "lon": -3.0695049
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8739267
+  },
+  "ai": {
+    "summary": "The Bunzeach Trail is a 10.6 km moderate hike in the UK, offering a mix of woodland, open countryside, and gentle elevation. It suits walkers with some trail experience and requires sensible footwear and weather preparation. Expect steady progress over several hours through varied scenery.",
+    "terrain_summary": "The route features undulating terrain with mixed surfaces: well-defined paths, gravel tracks, muddy forest sections, and occasional rocky segments. It includes short, steady ascents and longer rolling stretches. Navigation is straightforward on well-marked paths, though visibility can affect footing in poor weather.",
+    "safety_notes": "Check the weather forecast before you go; UK conditions can change quickly. Wear sturdy waterproof footwear and dress in layers with a waterproof jacket. Bring a map and compass or GPS, even on well-marked trails. Carry enough water and snacks, and stay hydrated. Stick to the marked path, watch for uneven or slippery ground, especially after rain. Share your plan and expected return time with someone, and be aware that mobile signal may be weak in rural areas. If hiking in a group, stay together and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system (2–3 liters)",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Headlamp or flashlight (for potential delays)",
+      "Extra socks and a lightweight emergency blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are best for longer daylight and drier conditions; winter hikes are possible but often muddy and with reduced daylight.",
+    "seo": {
+      "title": "Bunzeach Trail – 10.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the Bunzeach Trail, a 10.6 km moderate hike in the UK. Learn about the terrain, best seasons, safety tips, and gear to help you plan your trip.",
+      "h1": "Bunzeach Trail – 10.6 km Moderate Hike in the UK"
+    }
+  }
+}

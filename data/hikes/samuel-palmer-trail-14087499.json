@@ -1,0 +1,21 @@
+{
+  "id": "osm-14087499",
+  "slug": "samuel-palmer-trail-14087499",
+  "name": "Samuel Palmer Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.333514,
+    "lon": 0.1814404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14087499
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-19749379",
+  "slug": "aira-force-to-glencoyne-trail-19749379",
+  "name": "Aira Force to Glencoyne Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5715593,
+    "lon": -2.9286627
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19749379
+  },
+  "ai": {
+    "summary": "A scenic 6.5 km route linking Aira Force waterfall with Glencoyne in the UK. The trail offers varied terrain, including riverbank paths, grassy patches, and some rocky or muddy sections. Suitable for walkers with moderate fitness and basic navigation, with opportunities for water views and waterfall scenery.",
+    "terrain_summary": "Mostly well-defined paths along the river and through grassy areas, with some uneven, rocky, and muddy sections. Expect damp ground near the waterfall and potential slippery stones; footing is typically moderate but can be challenging in wet conditions. Occasional gentle climbs and descents.",
+    "safety_notes": "Check the weather before you go and be prepared for rapid UK weather changes. Wear sturdy waterproof footwear and bring layers. Stay on marked paths, be mindful near the waterfall, and avoid slipping on wet rocks. Bring a charged phone for emergencies and tell someone your planned route and timings.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and extra layers",
+      "Water bottle and snacks",
+      "Lightweight waterproof jacket",
+      "Map or GPS device",
+      "Mobile phone with offline maps",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Waterproof backpack or bag cover",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the most reliable conditions and views; winter walks are possible but can be cold, wet, and slippery.",
+    "seo": {
+      "title": "Aira Force to Glencoyne Trail – 6.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.5 km Aira Force to Glencoyne Trail in the UK. A moderate hike featuring waterfalls, river paths, and scenic views. Practical safety tips and essential gear for your trek.",
+      "h1": "Aira Force to Glencoyne Trail – 6.5 km Moderate Hike in the UK"
+    }
+  }
+}

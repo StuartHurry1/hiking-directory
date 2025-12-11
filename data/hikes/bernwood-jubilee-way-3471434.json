@@ -1,0 +1,46 @@
+{
+  "id": "osm-3471434",
+  "slug": "bernwood-jubilee-way-3471434",
+  "name": "Bernwood Jubilee Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 264.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7644836,
+    "lon": -0.981495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3471434
+  },
+  "ai": {
+    "summary": "The Bernwood Jubilee Way is a challenging long-distance trail in the United Kingdom, spanning about 264.8 km. It traverses a mix of rural countryside, woodlands and farmland, demanding solid navigation, steady endurance, and reliable gear.",
+    "terrain_summary": "Terrain is varied: forest tracks through Bernwood Forest, hedged bridleways, quiet country lanes, and occasional open fields. Expect rolling to hilly sections, muddy surfaces after rain, and some road walking. While many sections are well-marked, carrying a map and compass is advisable.",
+    "safety_notes": "Check weather forecasts and trail conditions before starting. Plan daily distances with realistic daylight hours. Carry enough water and food for each stage; have a means to purify water if needed. Wear sturdy, waterproof boots and layered clothing; be prepared for mud and wind. Bring a map and compass or a GPS device; know how to navigate offline. Inform someone of your itinerary and expected finish times. Carry a basic first-aid kit, whistle, and emergency contact information. Stay on the official route and be cautious on rural roads; be mindful of livestock and weather changes.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and extra layers",
+      "Rucksack around 20–30L with rain cover",
+      "Orienteering essentials: map and compass (and GPS as backup)",
+      "Water bottle or hydration reservoir (2–3 litres total)",
+      "High-energy snacks and meals",
+      "Personal first-aid kit",
+      "Headlamp with spare batteries",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional but helpful)",
+      "Whistle and emergency contact information"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) provides the most favorable conditions; the route can be attempted year-round with shorter days and more severe weather in winter.",
+    "seo": {
+      "title": "Bernwood Jubilee Way – 264.8 km Hard UK Long-Distance Trail",
+      "meta_description": "Plan your trek on the Bernwood Jubilee Way, a challenging 264.8 km route through the UK. Learn about terrain, safety tips, gear lists, and the best seasons for this long-distance climb.",
+      "h1": "Bernwood Jubilee Way: A 264.8 km Hard UK Long-Distance Trail"
+    }
+  }
+}

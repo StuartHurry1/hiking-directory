@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129614",
+  "slug": "colby-estate-streamside-walk-colby-19129614",
+  "name": "Colby Estate Streamside Walk, Colby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7417833,
+    "lon": -4.6669585
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129614
+  }
+}

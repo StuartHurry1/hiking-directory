@@ -1,0 +1,42 @@
+{
+  "id": "osm-1826223",
+  "slug": "balsall-heath-tree-trail-west-1826223",
+  "name": "Balsall Heath Tree Trail West",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4586292,
+    "lon": -1.8918007
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1826223
+  },
+  "ai": {
+    "summary": "A short, easy 5.5 km hike along the Balsall Heath Tree Trail West in the UK. This route offers a relaxed urban-woodland experience suitable for families and beginners, with shaded tree-lined paths and gentle gradients.",
+    "terrain_summary": "Mostly flat with gentle slopes. The trail uses a mix of paved walkways and gravel paths through parkland and tree-lined corridors. Surfaces are generally well-maintained, but can be uneven or slippery after rain; wear appropriate footwear and watch for roots and loose gravel.",
+    "safety_notes": "Stay on designated trails, watch for pedestrians and cyclists in shared paths, and be mindful of weather and footing. Bring sun protection in warmer months and a waterproof layer in wet conditions. Carry a phone with local emergency numbers and a small map or offline navigation tool. Keep valuables secure and supervise children around water features or busy areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Map or offline navigation app",
+      "Small backpack for essentials",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn (April–September) for comfortable temperatures and shade; the hike is feasible year-round but conditions may be less pleasant in winter.",
+    "seo": {
+      "title": "Balsall Heath Tree Trail West – Easy 5.5 km Hike in the UK",
+      "meta_description": "Discover an easy 5.5 km hike on the Balsall Heath Tree Trail West in the UK. Enjoy tree-lined paths, urban woodland, and practical safety and gear tips.",
+      "h1": "Balsall Heath Tree Trail West: Easy 5.5 km Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19211284",
+  "slug": "llanbedrog-walking-trail-llyn-19211284",
+  "name": "Llanbedrog Walking Trail, Llyn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8549908,
+    "lon": -4.4808502
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19211284
+  }
+}

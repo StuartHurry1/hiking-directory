@@ -1,0 +1,21 @@
+{
+  "id": "osm-19612596",
+  "slug": "murlough-woodland-walk-19612596",
+  "name": "Murlough Woodland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2464967,
+    "lon": -5.8380858
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19612596
+  }
+}

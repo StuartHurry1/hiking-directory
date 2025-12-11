@@ -1,0 +1,21 @@
+{
+  "id": "osm-19946145",
+  "slug": "kiplings-puck-walk-around-the-batemans-countryside-batemans-19946145",
+  "name": "Kipling's Puck Walk Around the Bateman's Countryside, Batemans",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9905079,
+    "lon": 0.3777515
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19946145
+  }
+}

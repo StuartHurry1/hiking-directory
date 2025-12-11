@@ -1,0 +1,43 @@
+{
+  "id": "osm-16647276",
+  "slug": "burghill-circuit-16647276",
+  "name": "Burghill Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7229821,
+    "lon": -2.6478999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647276
+  },
+  "ai": {
+    "summary": "The Burghill Circuit is an 8.2 km circular hike in the UK with a moderate difficulty. The route weaves through rural lanes, fields and hedgerows, returning to the starting point after a scenic loop.",
+    "terrain_summary": "Terrain varies between firm farm tracks, grassy paths and short sections of compacted earth. Expect gentle ascents and descents with occasional gates or stiles. Surface quality can be uneven after rain, so sturdy footwear is recommended, and weather can influence footing.",
+    "safety_notes": "Check the forecast and wear sturdy footwear with good grip. Bring a map or GPS and know your route, as some sections may not be clearly signposted. Be prepared for gates, livestock, and potential mud; close gates behind you. Stay on public rights of way and respect private property. Carry enough water, and have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water (1–2 liters) and snacks",
+      "Weather-appropriate clothing (waterproof jacket and additional layer)",
+      "Map, compass or GPS device",
+      "Phone with charged battery and portable charger",
+      "Hat and sunscreen for sunny days",
+      "Small first aid kit",
+      "Lightweight backpack",
+      "Headtorch (optional for early morning or late finish)"
+    ],
+    "best_seasons": "Spring to Autumn (best in dry, clear conditions)",
+    "seo": {
+      "title": "Burghill Circuit Hike – 8.2 km Moderate Loop in the UK",
+      "meta_description": "Plan your day with the Burghill Circuit: an 8.2 km UK hike of moderate difficulty through rural lanes and fields. Includes terrain notes, safety tips, gear suggestions, and the best seasons.",
+      "h1": "Burghill Circuit – 8.2 km Moderate Hike"
+    }
+  }
+}

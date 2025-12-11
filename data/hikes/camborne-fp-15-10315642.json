@@ -1,0 +1,41 @@
+{
+  "id": "osm-10315642",
+  "slug": "camborne-fp-15-10315642",
+  "name": "Camborne FP 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2367563,
+    "lon": -5.3616424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10315642
+  },
+  "ai": {
+    "summary": "Camborne FP 15 is a very short, easy hike in the UK, covering about 0.9 km along a public footpath. Suitable for beginners and families.",
+    "terrain_summary": "Flat to gently level surface on a maintained footpath. Mostly easy walking with short sections on grass or gravel; surfaces may become slippery when wet.",
+    "safety_notes": "Check the weather before you go. Wear sturdy, comfortable footwear. Stay on marked paths and follow any posted signs. Be mindful of other hikers and livestock if present. Bring water and weather-appropriate clothing; carry a phone with emergency contacts and your location.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle (500 ml or more)",
+      "Light weather-appropriate layer",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline GPS",
+      "Phone with emergency contacts",
+      "Small snack"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round in dry, mild weather.",
+    "seo": {
+      "title": "Camborne FP 15: Easy 0.9 km UK Footpath Hike",
+      "meta_description": "Explore Camborne FP 15, a short 0.9 km easy hike along a UK footpath. Perfect for beginners and families. Includes safety tips and a gear checklist.",
+      "h1": "Camborne FP 15: Easy 0.9 km UK Footpath Hike"
+    }
+  }
+}

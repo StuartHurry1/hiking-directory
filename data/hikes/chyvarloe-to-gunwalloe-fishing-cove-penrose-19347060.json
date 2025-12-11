@@ -1,0 +1,21 @@
+{
+  "id": "osm-19347060",
+  "slug": "chyvarloe-to-gunwalloe-fishing-cove-penrose-19347060",
+  "name": "Chyvarloe to Gunwalloe Fishing Cove, Penrose",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0667965,
+    "lon": -5.282463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19347060
+  }
+}

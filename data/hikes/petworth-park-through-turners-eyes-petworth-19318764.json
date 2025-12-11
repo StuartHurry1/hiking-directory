@@ -1,0 +1,23 @@
+{
+  "id": "osm-19318764",
+  "slug": "petworth-park-through-turners-eyes-petworth-19318764",
+  "name": "Petworth Park Through Turner's Eyes, Petworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.3,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9907634,
+    "lon": -0.613097
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19318764
+  }
+}

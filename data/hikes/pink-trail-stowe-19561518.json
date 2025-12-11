@@ -1,0 +1,21 @@
+{
+  "id": "osm-19561518",
+  "slug": "pink-trail-stowe-19561518",
+  "name": "Pink Trail, Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0266072,
+    "lon": -1.0133062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561518
+  }
+}

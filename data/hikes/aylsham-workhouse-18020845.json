@@ -1,0 +1,43 @@
+{
+  "id": "osm-18020845",
+  "slug": "aylsham-workhouse-18020845",
+  "name": "Aylsham Workhouse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7898142,
+    "lon": 1.24416
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18020845
+  },
+  "ai": {
+    "summary": "Aylsham Workhouse is a short, easy 4.2 km walk in the UK that combines a gentle route with a touch of local history. The trail circles the site of the former workhouse, featuring flat paths, open countryside, and occasional views of the historic ruins. Suitable for families and casual walkers, it can be completed in under two hours depending on stops.",
+    "terrain_summary": "Primarily flat and well-marked, with a mix of paved footpaths, compact gravel, and short grassy sections. Expect occasional mud after rain; proper footwear is recommended. Some exposed sections may be windy, so bring a layer or two.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Stay on marked paths to protect the site and avoid hazards near ruins. Be mindful of cyclists on shared paths. Carry a charged phone, a basic map or offline navigation, water, and a small first aid kit. If conditions worsen, turn back to ensure safety.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light waterproof jacket",
+      "Hat and sunglasses (seasonal)",
+      "Map or offline navigation (or download offline maps)",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions with longer daylight and milder weather; the walk is workable year-round with proper clothing.",
+    "seo": {
+      "title": "Aylsham Workhouse Walk – 4.2 km Easy Hike in the UK",
+      "meta_description": "Discover a 4.2 km easy walk near Aylsham Workhouse in the UK. Flat routes, family-friendly paths, and historic ruins with countryside views.",
+      "h1": "Aylsham Workhouse Walk – 4.2 km Easy Hike (UK)"
+    }
+  }
+}

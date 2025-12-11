@@ -1,0 +1,21 @@
+{
+  "id": "osm-1272106",
+  "slug": "red-open-16-oct-14-june-1272106",
+  "name": "Red: (Open 16 Oct-14 June)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.4343501,
+    "lon": -1.7624741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1272106
+  }
+}

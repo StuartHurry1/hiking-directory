@@ -1,0 +1,21 @@
+{
+  "id": "osm-7865081",
+  "slug": "spires-and-steeples-7865081",
+  "name": "Spires and Steeples",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7296827,
+    "lon": -1.6285831
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7865081
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-3586270",
+  "slug": "john-muir-link-3586270",
+  "name": "John Muir Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0041168,
+    "lon": -2.519553
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3586270
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2401591",
+  "slug": "manifold-valley-circular-walk-2401591",
+  "name": "Manifold Valley Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0666102,
+    "lon": -1.8186779
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2401591
+  }
+}

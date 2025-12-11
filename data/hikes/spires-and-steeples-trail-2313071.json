@@ -1,0 +1,21 @@
+{
+  "id": "osm-2313071",
+  "slug": "spires-and-steeples-trail-2313071",
+  "name": "Spires and Steeples Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 226,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9994533,
+    "lon": -0.4035375
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2313071
+  }
+}

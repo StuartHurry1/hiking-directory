@@ -1,0 +1,21 @@
+{
+  "id": "osm-11682525",
+  "slug": "old-salt-road-11682525",
+  "name": "Old Salt Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 106.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.4393368,
+    "lon": -1.399551
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11682525
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17015120",
+  "slug": "heritage-100-bearpark-17015120",
+  "name": "Heritage 100 - Bearpark",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7867499,
+    "lon": -1.6302433
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17015120
+  }
+}

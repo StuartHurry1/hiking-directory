@@ -1,0 +1,48 @@
+{
+  "id": "osm-1692908",
+  "slug": "acw-circular-walk-05-1692908",
+  "name": "ACW Circular Walk 05",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3928141,
+    "lon": -1.5282656
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1692908
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 05 is a demanding long-distance circuit in the UK, covering 38.4 km with rugged, varied terrain that tests endurance and navigation.\n",
+    "terrain_summary": "The route features a mix of country lanes, rough trails, boggy moorland, rocky ascents, and forest tracks. Expect exposed sections, uneven ground, and limited shelter in parts, with mud common in wetter conditions.\n",
+    "safety_notes": "This is a hard, long hike requiring good navigation and weather preparedness. Plan for a full day or more, check forecast, and start early in daylight. Carry a map and compass (or GPS), a fully charged phone as backup, and know your escape routes. Bring adequate clothing for rain and cold, extra food and water, a first aid kit, and an emergency blanket. Be cautious of boggy sections, sudden weather changes, and fatigue; turn back if conditions worsen or visibility drops,\n",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Breathable layering system (base layer, insulating layer, outer shell)",
+      "Backpack 20–30 L capacity with rain cover",
+      "Map and compass (or GPS) and fully charged phone as backup",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy snacks and a portable stove if needed",
+      "Hat, gloves (seasonal)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit tailored to long hikes",
+      "Emergency blanket or bivvy bag",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful on rough sections)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) typically offer the most reliable conditions and daylight in the UK; spring can be muddier and autumn can be wetter and windier.\n",
+    "seo": {
+      "title": "ACW Circular Walk 05 – 38.4 km Hard UK Circular Hike",
+      "meta_description": "Discover ACW Circular Walk 05, a challenging 38.4 km loop in the UK. This guide covers terrain, safety tips, and gear for a hard long-distance hike.",
+      "h1": "ACW Circular Walk 05 — 38.4 km hard circular hike in the UK"
+    }
+  }
+}

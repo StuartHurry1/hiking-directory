@@ -1,0 +1,21 @@
+{
+  "id": "osm-10521621",
+  "slug": "trans-pennine-trail-wombwell-to-selby-10521621",
+  "name": "Trans-Pennine Trail (Wombwell to Selby)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 114.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5342108,
+    "lon": -1.4125448
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10521621
+  }
+}

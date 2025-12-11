@@ -1,0 +1,21 @@
+{
+  "id": "osm-2168281",
+  "slug": "reservoir-walk-route-2168281",
+  "name": "Reservoir Walk Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0535874,
+    "lon": -3.1396397
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2168281
+  }
+}

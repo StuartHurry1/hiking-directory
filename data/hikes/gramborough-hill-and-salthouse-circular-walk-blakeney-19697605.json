@@ -1,0 +1,23 @@
+{
+  "id": "osm-19697605",
+  "slug": "gramborough-hill-and-salthouse-circular-walk-blakeney-19697605",
+  "name": "Gramborough Hill and Salthouse Circular Walk, Blakeney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.1,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9516991,
+    "lon": 1.0910771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697605
+  }
+}

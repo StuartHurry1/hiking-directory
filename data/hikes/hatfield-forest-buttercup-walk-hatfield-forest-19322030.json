@@ -1,0 +1,23 @@
+{
+  "id": "osm-19322030",
+  "slug": "hatfield-forest-buttercup-walk-hatfield-forest-19322030",
+  "name": "Hatfield Forest Buttercup Walk, Hatfield Forest",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8552557,
+    "lon": 0.2333708
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19322030
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2131781",
+  "slug": "coleridge-link-2131781",
+  "name": "Coleridge Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 46.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.745411,
+    "lon": -3.2856022
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2131781
+  }
+}

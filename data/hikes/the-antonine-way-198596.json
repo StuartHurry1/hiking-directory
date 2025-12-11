@@ -1,0 +1,21 @@
+{
+  "id": "osm-198596",
+  "slug": "the-antonine-way-198596",
+  "name": "The Antonine Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9662834,
+    "lon": -4.0296098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 198596
+  }
+}

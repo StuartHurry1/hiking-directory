@@ -1,0 +1,21 @@
+{
+  "id": "osm-10812557",
+  "slug": "round-chapel-10812557",
+  "name": "Round Chapel",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9214472,
+    "lon": 0.7527306
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10812557
+  }
+}

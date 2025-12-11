@@ -1,0 +1,21 @@
+{
+  "id": "osm-399106",
+  "slug": "wealdway-399106",
+  "name": "Wealdway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 405.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1972164,
+    "lon": 0.28867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 399106
+  }
+}

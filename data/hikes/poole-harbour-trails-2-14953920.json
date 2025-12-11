@@ -1,0 +1,21 @@
+{
+  "id": "osm-14953920",
+  "slug": "poole-harbour-trails-2-14953920",
+  "name": "Poole Harbour Trails 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6446987,
+    "lon": -2.059604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14953920
+  }
+}

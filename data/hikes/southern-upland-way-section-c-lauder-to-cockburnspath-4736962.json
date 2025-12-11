@@ -1,0 +1,21 @@
+{
+  "id": "osm-4736962",
+  "slug": "southern-upland-way-section-c-lauder-to-cockburnspath-4736962",
+  "name": "Southern Upland Way (Section C - Lauder to Cockburnspath)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8710529,
+    "lon": -2.3838915
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4736962
+  }
+}

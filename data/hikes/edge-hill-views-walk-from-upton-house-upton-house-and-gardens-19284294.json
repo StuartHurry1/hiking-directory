@@ -1,0 +1,23 @@
+{
+  "id": "osm-19284294",
+  "slug": "edge-hill-views-walk-from-upton-house-upton-house-and-gardens-19284294",
+  "name": "Edge Hill Views Walk from Upton House, Upton House and Gardens",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1123837,
+    "lon": -1.4626357
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19284294
+  }
+}

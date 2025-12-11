@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763742",
+  "slug": "pentland-way-dunsyre-to-cross-borders-drove-road-19763742",
+  "name": "Pentland Way (Dunsyre to Cross Borders Drove Road)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7630789,
+    "lon": -3.3666243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763742
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2375724",
+  "slug": "south-west-coast-path-section-29-helford-to-falmouth-2375724",
+  "name": "South West Coast Path (Section 29: Helford to Falmouth)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 39.7,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1002511,
+    "lon": -5.1279164
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2375724
+  }
+}

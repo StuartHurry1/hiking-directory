@@ -1,0 +1,23 @@
+{
+  "id": "osm-2663",
+  "slug": "sandlings-walk-2663",
+  "name": "Sandlings Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 225.6,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0550915,
+    "lon": 1.2341931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2663
+  }
+}

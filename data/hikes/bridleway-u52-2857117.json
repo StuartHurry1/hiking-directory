@@ -1,0 +1,40 @@
+{
+  "id": "osm-2857117",
+  "slug": "bridleway-u52-2857117",
+  "name": "Bridleway U52",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5637962,
+    "lon": -1.321329
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2857117
+  },
+  "ai": {
+    "summary": "Bridleway U52 is a short, easy 1.5 km walk along a public bridleway in the UK. Suitable for families and beginners, it offers a gentle stroll with light scenery and minimal elevation change.",
+    "terrain_summary": "Primarily surfaced or compact dirt paths with gentle gradients. Expect some muddy patches after rain, seasonal overgrowth near field margins, and occasional exposure to uneven ground or gates. Some stretches may be shared with horses or cyclists.",
+    "safety_notes": "Check weather and daylight before you go. Stay on the designated bridleway and yield to horses and riders. Keep to the left on shared paths, watch for cyclists at crossings, and close gates behind you. Wear sturdy footwear with good grip, carry a map or GPS, and bring a phone, water, and a light layer for changing conditions.",
+    "recommended_gear": [
+      "Sturdy, waterproof walking boots or shoes",
+      "Lightweight waterproof jacket",
+      "Small daypack with water and snacks",
+      "Map, guidebook, or offline navigation (or phone with GPS)",
+      "Warm layer and hat for cooler days",
+      "Sunscreen and sunglasses for sunny weather"
+    ],
+    "best_seasons": "Spring to autumn typically offer the most comfortable conditions; the route can be enjoyed year-round with appropriate footwear and clothing.",
+    "seo": {
+      "title": "Bridleway U52 - Easy 1.5 km Hike in the UK",
+      "meta_description": "Explore Bridleway U52, a short 1.5 km easy hike in the United Kingdom. Find route details, terrain notes, safety tips, best seasons, and gear recommendations.",
+      "h1": "Bridleway U52 – 1.5 km Easy Walk in the UK"
+    }
+  }
+}

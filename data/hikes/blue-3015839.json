@@ -1,0 +1,42 @@
+{
+  "id": "osm-3015839",
+  "slug": "blue-3015839",
+  "name": "Blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.354648,
+    "lon": 0.5183861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3015839
+  },
+  "ai": {
+    "summary": "Blue is a short, easy 3.9 km hike in the United Kingdom suitable for beginners. The route offers straightforward terrain and a relaxed pace with scenic views along the way.",
+    "terrain_summary": "The trail is predominantly well-maintained and flat to gently undulating, with occasional compact paths. Expect short roots, grassy sections, and a few steps. Footwear should be comfortable and grip-friendly.",
+    "safety_notes": "As with any UK hike, check the forecast as conditions can change quickly. Wear sturdy footwear, bring a waterproof layer, and carry water. Stay on the marked path, be mindful of other walkers, and have a simple map or GPS in areas with limited signal.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle (1–2 L)",
+      "Light layers (fleece or jacket)",
+      "Waterproof jacket",
+      "Hat and sunscreen",
+      "Map or fully charged phone with offline maps",
+      "Small backpack",
+      "Snack for energy"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March to October) are ideal; the trail can be hiked year-round with appropriate clothing.",
+    "seo": {
+      "title": "Blue Hike — 3.9 km Easy Trail in the UK",
+      "meta_description": "Explore the Blue hike: a gentle 3.9 km trail in the UK. This guide covers terrain, safety tips, and must-have gear for an enjoyable outdoor walk.",
+      "h1": "Blue: A 3.9 km Easy Hike in the UK"
+    }
+  }
+}

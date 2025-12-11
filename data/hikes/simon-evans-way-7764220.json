@@ -1,0 +1,21 @@
+{
+  "id": "osm-7764220",
+  "slug": "simon-evans-way-7764220",
+  "name": "Simon Evans Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3995059,
+    "lon": -2.4879353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7764220
+  }
+}

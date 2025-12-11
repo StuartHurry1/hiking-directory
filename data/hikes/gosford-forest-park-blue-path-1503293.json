@@ -1,0 +1,21 @@
+{
+  "id": "osm-1503293",
+  "slug": "gosford-forest-park-blue-path-1503293",
+  "name": "Gosford Forest Park - Blue Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3057432,
+    "lon": -6.5179901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1503293
+  }
+}

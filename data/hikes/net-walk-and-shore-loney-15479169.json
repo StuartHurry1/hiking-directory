@@ -1,0 +1,21 @@
+{
+  "id": "osm-15479169",
+  "slug": "net-walk-and-shore-loney-15479169",
+  "name": "Net Walk & Shore Loney",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4042422,
+    "lon": -5.6467811
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15479169
+  }
+}

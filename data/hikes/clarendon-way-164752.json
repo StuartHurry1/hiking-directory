@@ -1,0 +1,21 @@
+{
+  "id": "osm-164752",
+  "slug": "clarendon-way-164752",
+  "name": "Clarendon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 123.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0609972,
+    "lon": -1.3145186
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 164752
+  }
+}

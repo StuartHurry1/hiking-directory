@@ -1,0 +1,21 @@
+{
+  "id": "osm-13631946",
+  "slug": "hall-walk-13631946",
+  "name": "Hall Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3289943,
+    "lon": -4.6329358
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13631946
+  }
+}

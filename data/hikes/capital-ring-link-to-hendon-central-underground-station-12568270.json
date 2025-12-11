@@ -1,0 +1,21 @@
+{
+  "id": "osm-12568270",
+  "slug": "capital-ring-link-to-hendon-central-underground-station-12568270",
+  "name": "Capital Ring link to Hendon Central underground station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5796248,
+    "lon": -0.2202872
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12568270
+  }
+}

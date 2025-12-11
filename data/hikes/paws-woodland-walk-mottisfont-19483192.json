@@ -1,0 +1,21 @@
+{
+  "id": "osm-19483192",
+  "slug": "paws-woodland-walk-mottisfont-19483192",
+  "name": "PAWS Woodland Walk, Mottisfont",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0478473,
+    "lon": -1.5509544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19483192
+  }
+}

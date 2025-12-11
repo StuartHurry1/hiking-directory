@@ -1,0 +1,21 @@
+{
+  "id": "osm-4616710",
+  "slug": "middle-woodbatch-circular-4616710",
+  "name": "Middle Woodbatch Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.489309,
+    "lon": -3.0447435
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4616710
+  }
+}

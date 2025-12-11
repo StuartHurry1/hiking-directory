@@ -1,0 +1,21 @@
+{
+  "id": "osm-18184378",
+  "slug": "happy-valley-circular-18184378",
+  "name": "Happy Valley Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9303717,
+    "lon": 1.3060158
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18184378
+  }
+}

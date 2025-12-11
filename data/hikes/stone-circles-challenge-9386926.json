@@ -1,0 +1,21 @@
+{
+  "id": "osm-9386926",
+  "slug": "stone-circles-challenge-9386926",
+  "name": "Stone Circles Challenge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 101,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8510952,
+    "lon": -2.0578046
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9386926
+  }
+}

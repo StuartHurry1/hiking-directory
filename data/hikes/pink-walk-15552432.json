@@ -1,0 +1,21 @@
+{
+  "id": "osm-15552432",
+  "slug": "pink-walk-15552432",
+  "name": "Pink Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8022174,
+    "lon": -1.4641195
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15552432
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14999916",
+  "slug": "former-chiltern-way-14999916",
+  "name": "Former Chiltern Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8184218,
+    "lon": -0.4334222
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14999916
+  }
+}

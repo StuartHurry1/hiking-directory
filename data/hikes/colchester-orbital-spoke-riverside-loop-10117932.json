@@ -1,0 +1,21 @@
+{
+  "id": "osm-10117932",
+  "slug": "colchester-orbital-spoke-riverside-loop-10117932",
+  "name": "Colchester Orbital Spoke (Riverside Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8949175,
+    "lon": 0.9052657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10117932
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15618930",
+  "slug": "the-strathbraan-pilgrims-path-15618930",
+  "name": "The Strathbraan Pilgrims' Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 25.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5101924,
+    "lon": -3.7882463
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15618930
+  }
+}

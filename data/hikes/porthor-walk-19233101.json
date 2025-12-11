@@ -1,0 +1,21 @@
+{
+  "id": "osm-19233101",
+  "slug": "porthor-walk-19233101",
+  "name": "Porthor Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8319186,
+    "lon": -4.7232369
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19233101
+  }
+}

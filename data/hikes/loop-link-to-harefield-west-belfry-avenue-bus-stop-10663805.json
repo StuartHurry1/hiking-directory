@@ -1,0 +1,21 @@
+{
+  "id": "osm-10663805",
+  "slug": "loop-link-to-harefield-west-belfry-avenue-bus-stop-10663805",
+  "name": "LOOP link to Harefield West / Belfry Avenue bus stop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6088758,
+    "lon": -0.4975704
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10663805
+  }
+}

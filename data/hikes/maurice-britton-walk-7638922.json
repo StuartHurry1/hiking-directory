@@ -1,0 +1,21 @@
+{
+  "id": "osm-7638922",
+  "slug": "maurice-britton-walk-7638922",
+  "name": "Maurice Britton Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.857151,
+    "lon": 0.9566501
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7638922
+  }
+}

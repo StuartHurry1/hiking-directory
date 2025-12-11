@@ -1,0 +1,21 @@
+{
+  "id": "osm-11565889",
+  "slug": "cypress-pond-walk-11565889",
+  "name": "Cypress Pond Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2666488,
+    "lon": -5.9672638
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11565889
+  }
+}

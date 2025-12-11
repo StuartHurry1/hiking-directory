@@ -1,0 +1,41 @@
+{
+  "id": "osm-2716821",
+  "slug": "amber-valley-routeway-walk-18-2716821",
+  "name": "Amber Valley Routeway Walk 18",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0604234,
+    "lon": -1.3836491
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2716821
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 18 is a short, easy 0.8 km stroll designed for casual walkers and families. This section of the Amber Valley Routeway offers a gentle, well-surfaced route with pleasant surroundings, allowing a relaxed pace and easy footing.",
+    "terrain_summary": "Primarily flat and well-maintained paths, often surfaced with compact gravel or tarmac. Expect a few damp patches after rain and occasional gentle inclines. The route is generally suitable for prams and most mobility levels on maintained sections.",
+    "safety_notes": "Check local conditions before you go, as UK weather can change quickly. Wear sturdy, grippy footwear and bring a light layer. Stay on the official paths, supervise children, and keep dogs under control. Be mindful of other walkers and cyclists on shared sections. Carry water and a small first-aid kit if possible. If you encounter mud or flooding, turn back to avoid getting stranded.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Light rain jacket",
+      "Small personal first-aid kit",
+      "Map or offline route details (or a charged phone with navigation)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this short stroll, though the route can be enjoyed year-round in mild weather.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 18 - Easy 0.8 km UK Walk",
+      "meta_description": "Explore Amber Valley Routeway Walk 18, a short and easy 0.8 km walk in the UK. Learn about the terrain, safety tips, best seasons, and essential gear for the trip.",
+      "h1": "Amber Valley Routeway Walk 18: Easy 0.8 km"
+    }
+  }
+}

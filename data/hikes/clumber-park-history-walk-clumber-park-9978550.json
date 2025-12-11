@@ -1,0 +1,21 @@
+{
+  "id": "osm-9978550",
+  "slug": "clumber-park-history-walk-clumber-park-9978550",
+  "name": "Clumber Park History Walk, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2651049,
+    "lon": -1.0644042
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9978550
+  }
+}

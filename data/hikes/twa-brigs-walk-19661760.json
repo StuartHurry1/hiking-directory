@@ -1,0 +1,21 @@
+{
+  "id": "osm-19661760",
+  "slug": "twa-brigs-walk-19661760",
+  "name": "Twa' Brigs Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5146025,
+    "lon": -4.0660814
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19661760
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853450",
+  "slug": "firmounth-road-7853450",
+  "name": "Firmounth Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.905835,
+    "lon": -2.8348141
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853450
+  }
+}

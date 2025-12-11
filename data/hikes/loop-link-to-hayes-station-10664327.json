@@ -1,0 +1,21 @@
+{
+  "id": "osm-10664327",
+  "slug": "loop-link-to-hayes-station-10664327",
+  "name": "LOOP link to Hayes station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3703206,
+    "lon": 0.003723
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10664327
+  }
+}

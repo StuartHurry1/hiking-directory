@@ -1,0 +1,21 @@
+{
+  "id": "osm-12476624",
+  "slug": "tarland-way-12476624",
+  "name": "Tarland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0767447,
+    "lon": -2.7922991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12476624
+  }
+}

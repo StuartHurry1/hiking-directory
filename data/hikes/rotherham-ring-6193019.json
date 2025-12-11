@@ -1,0 +1,21 @@
+{
+  "id": "osm-6193019",
+  "slug": "rotherham-ring-6193019",
+  "name": "Rotherham Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3205231,
+    "lon": -1.2585009
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6193019
+  }
+}

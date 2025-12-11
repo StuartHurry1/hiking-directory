@@ -1,0 +1,41 @@
+{
+  "id": "osm-11303323",
+  "slug": "beech-tree-trail-11303323",
+  "name": "Beech Tree Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1888152,
+    "lon": -2.2529572
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11303323
+  },
+  "ai": {
+    "summary": "Beech Tree Trail is a short, easy 2 km hike in the UK. The route follows a well-marked woodland path, offering a gentle stroll suitable for beginners and families.",
+    "terrain_summary": "Characterized by a short, easy woodland trail. The path is mostly flat with occasional roots or small uneven sections. Expect shade from trees, with a peaceful, natural setting.",
+    "safety_notes": "Always check the forecast and daylight hours before you go. Wear sturdy footwear and bring a light waterproof layer. Stay on the marked path, watch for uneven ground and roots, and keep an eye on children and pets. Carry water and a small first aid item, and let someone know your plan if hiking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Snack",
+      "Map or offline GPS",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with charged battery"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the best conditions; winters can be muddy and chilly, and summers can be busier.",
+    "seo": {
+      "title": "Beech Tree Trail – Easy 2 km Hike in the UK",
+      "meta_description": "Explore Beech Tree Trail, a short and easy 2 km hike in the UK. Learn about the terrain, safety tips, best seasons, and what to pack.",
+      "h1": "Beech Tree Trail: Easy 2 km Hike in the UK"
+    }
+  }
+}

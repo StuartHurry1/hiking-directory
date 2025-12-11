@@ -1,0 +1,21 @@
+{
+  "id": "osm-2866083",
+  "slug": "footpath-u5-2866083",
+  "name": "Footpath U5",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.549877,
+    "lon": -1.3926324
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866083
+  }
+}

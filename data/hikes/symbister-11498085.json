@@ -1,0 +1,21 @@
+{
+  "id": "osm-11498085",
+  "slug": "symbister-11498085",
+  "name": "Symbister",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0635031,
+    "lon": -1.3248878
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498085
+  }
+}

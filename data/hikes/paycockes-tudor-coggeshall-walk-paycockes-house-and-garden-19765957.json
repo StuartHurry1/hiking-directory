@@ -1,0 +1,21 @@
+{
+  "id": "osm-19765957",
+  "slug": "paycockes-tudor-coggeshall-walk-paycockes-house-and-garden-19765957",
+  "name": "Paycocke's Tudor Coggeshall Walk, Paycocke's House and Garden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8707328,
+    "lon": 0.6841761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19765957
+  }
+}

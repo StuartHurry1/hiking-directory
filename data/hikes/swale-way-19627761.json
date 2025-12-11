@@ -1,0 +1,21 @@
+{
+  "id": "osm-19627761",
+  "slug": "swale-way-19627761",
+  "name": "Swale Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2196307,
+    "lon": -1.3321999
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19627761
+  }
+}

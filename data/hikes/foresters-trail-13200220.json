@@ -1,0 +1,21 @@
+{
+  "id": "osm-13200220",
+  "slug": "foresters-trail-13200220",
+  "name": "Foresters' Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7105822,
+    "lon": -3.7637378
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13200220
+  }
+}

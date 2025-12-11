@@ -1,0 +1,21 @@
+{
+  "id": "osm-9787869",
+  "slug": "lizard-rarirty-walk-9787869",
+  "name": "Lizard rarirty walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0003834,
+    "lon": -5.2541003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9787869
+  }
+}

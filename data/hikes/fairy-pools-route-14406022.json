@@ -1,0 +1,21 @@
+{
+  "id": "osm-14406022",
+  "slug": "fairy-pools-route-14406022",
+  "name": "Fairy pools route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2506357,
+    "lon": -6.2720921
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14406022
+  }
+}

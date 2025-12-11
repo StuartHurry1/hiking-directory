@@ -1,0 +1,21 @@
+{
+  "id": "osm-18212359",
+  "slug": "heacham-circular-18212359",
+  "name": "Heacham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.90326,
+    "lon": 0.4708618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18212359
+  }
+}

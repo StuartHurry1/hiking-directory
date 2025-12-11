@@ -1,0 +1,21 @@
+{
+  "id": "osm-1156074",
+  "slug": "st-illtyds-walk-1156074",
+  "name": "St Illtyd's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 168.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6789324,
+    "lon": -3.6545762
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1156074
+  }
+}

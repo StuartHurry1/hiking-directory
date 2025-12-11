@@ -1,0 +1,21 @@
+{
+  "id": "osm-946847",
+  "slug": "dane-valley-way-946847",
+  "name": "Dane Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 152.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2582492,
+    "lon": -1.9160942
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 946847
+  }
+}

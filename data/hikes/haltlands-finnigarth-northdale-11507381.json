@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507381",
+  "slug": "haltlands-finnigarth-northdale-11507381",
+  "name": "Haltlands - Finnigarth - Northdale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.6030139,
+    "lon": -0.8981443
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507381
+  }
+}

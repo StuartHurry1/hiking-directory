@@ -1,0 +1,45 @@
+{
+  "id": "osm-15923938",
+  "slug": "abinger-roughs-nature-walk-15923938",
+  "name": "Abinger Roughs nature walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2188658,
+    "lon": -0.4259877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15923938
+  },
+  "ai": {
+    "summary": "A 7 km moderate nature walk around Abinger Roughs, offering grassy escarpments, woodlands, and viewpoints in the UK. Suitable for hikers who enjoy varied terrain and wildlife observation.",
+    "terrain_summary": "Expect a mix of chalk paths, woodland trails, and open grassland. The route includes uneven ground, gentle climbs, exposed sections, and potential mud after rain. Some sections have roots, loose gravel, gates or stiles, and narrow paths that may require careful footing.",
+    "safety_notes": "Weather in the UK can change rapidly — check the forecast and daylight hours before you go. Wear sturdy, waterproof footwear and dress in layered clothing. Stay on marked paths to protect habitats and reduce the risk of ticks in long grass. Carry a map or offline navigation and keep your phone charged. Bring water, snacks, and a small first aid kit; carry a whistle for emergencies. Let someone know your planned route and expected return time. Be mindful of dogs and livestock; control pets where required. Respect wildlife and signage, and avoid disturbing birds or rare plants during sensitive seasons.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Waterproof jacket and an extra layer",
+      "Comfortable clothing for changing weather",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map and/or offline navigation (or fully charged phone with offline maps)",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Small first aid kit",
+      "Whistle for emergencies",
+      "Pocket notebook and pen (optional)"
+    ],
+    "best_seasons": "All-year, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Abinger Roughs Nature Walk – 7 km Moderate Hike in the UK",
+      "meta_description": "Discover a 7 km moderate nature walk at Abinger Roughs in the UK. Terrain highlights, safety tips, gear recommendations, and the best seasons for this scenic hike.",
+      "h1": "Abinger Roughs Nature Walk – 7 km Moderate Hike in the UK"
+    }
+  }
+}

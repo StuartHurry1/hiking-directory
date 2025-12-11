@@ -1,0 +1,21 @@
+{
+  "id": "osm-2382950",
+  "slug": "saints-way-2382950",
+  "name": "Saints Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 167.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4088734,
+    "lon": -4.719561
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2382950
+  }
+}

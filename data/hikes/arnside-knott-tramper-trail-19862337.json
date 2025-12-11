@@ -1,0 +1,41 @@
+{
+  "id": "osm-19862337",
+  "slug": "arnside-knott-tramper-trail-19862337",
+  "name": "Arnside Knott Tramper Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1895496,
+    "lon": -2.8444098
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19862337
+  },
+  "ai": {
+    "summary": "An easy 3.1 km loop around Arnside Knott offering gentle paths, coastal views, and a manageable grade suitable for families and casual walkers.",
+    "terrain_summary": "Predominantly well maintained footpaths with compacted gravel and grassy sections. The route features a gentle ascent with occasional steps near the summit and some uneven patches where it traverses grassy ground.",
+    "safety_notes": "Check weather before you go, as coastal conditions can be windy and paths may become slippery. Wear sturdy footwear and bring layers for changing temperatures. Stay on marked paths, watch your footing on uneven ground, and be cautious near cliff edges. Suitable for families and dogs on leads where allowed.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water and a small snack",
+      "Light waterproof jacket",
+      "Sun protection and a hat",
+      "Map or offline navigation",
+      "Phone with emergency contact information",
+      "Lightweight backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn; the route is walkable year-round with appropriate weather planning in winter.",
+    "seo": {
+      "title": "Arnside Knott Tramper Trail — Easy 3.1 km Family Friendly Hike in the UK",
+      "meta_description": "Discover the easy 3.1 km Arnside Knott Tramper Trail in the UK. Learn about the terrain, safety tips, best seasons, and gear to bring for a family friendly walk.",
+      "h1": "Arnside Knott Tramper Trail — Easy 3.1 km Walk"
+    }
+  }
+}

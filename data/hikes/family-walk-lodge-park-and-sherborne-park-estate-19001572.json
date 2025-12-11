@@ -1,0 +1,21 @@
+{
+  "id": "osm-19001572",
+  "slug": "family-walk-lodge-park-and-sherborne-park-estate-19001572",
+  "name": "Family Walk, Lodge Park and Sherborne Park Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8275563,
+    "lon": -1.7699026
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001572
+  }
+}

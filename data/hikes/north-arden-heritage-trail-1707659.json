@@ -1,0 +1,21 @@
+{
+  "id": "osm-1707659",
+  "slug": "north-arden-heritage-trail-1707659",
+  "name": "North Arden Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 50.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4819537,
+    "lon": -1.5980952
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707659
+  }
+}

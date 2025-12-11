@@ -1,0 +1,21 @@
+{
+  "id": "osm-19296779",
+  "slug": "sgwd-yr-eira-trail-19296779",
+  "name": "Sgwd yr Eira Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.75944,
+    "lon": -3.5794914
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19296779
+  }
+}

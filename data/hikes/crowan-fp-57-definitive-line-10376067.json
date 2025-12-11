@@ -1,0 +1,21 @@
+{
+  "id": "osm-10376067",
+  "slug": "crowan-fp-57-definitive-line-10376067",
+  "name": "Crowan FP 57 Definitive Line",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1821193,
+    "lon": -5.3185137
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10376067
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8148367",
+  "slug": "dales-way-harrogate-link-path-8148367",
+  "name": "Dales Way - Harrogate Link Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9934706,
+    "lon": -1.5474761
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8148367
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "osm-19587845",
+  "slug": "woodland-and-coastal-walk-sheringham-park-19587845",
+  "name": "Woodland and Coastal Walk, Sheringham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9247645,
+    "lon": 1.1800808
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19587845
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-9332711",
+  "slug": "cape-wrath-trail-ullapool-loch-an-daimh-9332711",
+  "name": "Cape Wrath Trail (Ullapool → Loch an Daimh)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9044706,
+    "lon": -5.1593037
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9332711
+  }
+}

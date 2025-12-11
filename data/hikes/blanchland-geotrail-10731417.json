@@ -1,0 +1,41 @@
+{
+  "id": "osm-10731417",
+  "slug": "blanchland-geotrail-10731417",
+  "name": "Blanchland Geotrail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.848962,
+    "lon": -2.0558915
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10731417
+  },
+  "ai": {
+    "summary": "Blanchland Geotrail is a gentle 5.7 km hike in the UK designed for casual walkers. The route travels through countryside near Blanchland, following a mix of tracks and lanes with easy gradients and relaxed scenery, making it suitable for families and day-trippers seeking a relaxed outdoor experience.",
+    "terrain_summary": "The trail uses a combination of well-trodden paths, gravel tracks, and rural lanes. Expect mostly flat to gently undulating terrain with some uneven or muddy sections after rain; footwear with good grip is recommended.",
+    "safety_notes": "Always check the weather and wear sturdy footwear. Stay on marked paths and be mindful of gates and livestock. Weather in the UK can change quickly; bring waterproof layers. Carry water, snacks, a map or GPS, and a small first-aid kit. Let someone know your plans and expected return time, and be aware that mobile signal can be unreliable in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Hat and sunscreen",
+      "Map, compass, or GPS device",
+      "Snack or energy bar",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and autumn; summer is usually good but can be hot, and winter can be muddy or icy.",
+    "seo": {
+      "title": "Blanchland Geotrail: Easy 5.7 km Hike in the UK",
+      "meta_description": "Discover Blanchland Geotrail, a gentle 5.7 km hike in the UK. Learn about the terrain, safety tips, and gear for a relaxed day outdoors.",
+      "h1": "Blanchland Geotrail – Easy 5.7 km Hike in the UK"
+    }
+  }
+}

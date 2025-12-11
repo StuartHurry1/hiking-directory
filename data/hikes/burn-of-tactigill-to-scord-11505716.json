@@ -1,0 +1,43 @@
+{
+  "id": "osm-11505716",
+  "slug": "burn-of-tactigill-to-scord-11505716",
+  "name": "Burn of Tactigill to Scord",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2359854,
+    "lon": -1.3187522
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505716
+  },
+  "ai": {
+    "summary": "A scenic 6.1 km moderate hike from Burn of Tactigill to Scord in the UK countryside. The route traverses mixed terrain with gentle elevation, woodland corridors, and open fields, offering pleasant views and a peaceful day on the trail.",
+    "terrain_summary": "Mixed terrain with grassy tracks, gravel paths, woodland trails, and occasional damp or uneven ground. Expect some exposed sections and minor water features; good footwear is recommended.",
+    "safety_notes": "Plan for variable UK weather; wear sturdy boots and layered clothing. Stay on marked paths, and bring a map or GPS. Allow extra time for slower pacing and possible boggy ground. Be mindful of remote sections with limited cell service, and follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and rain jacket",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Hat and sunglasses",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle and mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring through autumn",
+    "seo": {
+      "title": "Burn of Tactigill to Scord – 6.1 km Moderate Hike in the UK",
+      "meta_description": "Explore a 6.1 km moderate hike from Burn of Tactigill to Scord in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this scenic route.",
+      "h1": "Burn of Tactigill to Scord Hiking Route"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19854397",
+  "slug": "river-walk-at-wallington-19854397",
+  "name": "River Walk at Wallington",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1538843,
+    "lon": -1.957988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19854397
+  }
+}

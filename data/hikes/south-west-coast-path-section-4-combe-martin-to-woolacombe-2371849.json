@@ -1,0 +1,23 @@
+{
+  "id": "osm-2371849",
+  "slug": "south-west-coast-path-section-4-combe-martin-to-woolacombe-2371849",
+  "name": "South West Coast Path (Section 4: Combe Martin to Woolacombe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2065834,
+    "lon": -4.0378261
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2371849
+  }
+}

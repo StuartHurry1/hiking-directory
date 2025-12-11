@@ -1,0 +1,21 @@
+{
+  "id": "osm-13319903",
+  "slug": "crowan-br-133-13319903",
+  "name": "Crowan BR 133",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.1806495,
+    "lon": -5.292044
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13319903
+  }
+}

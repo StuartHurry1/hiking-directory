@@ -1,0 +1,21 @@
+{
+  "id": "osm-19309121",
+  "slug": "glan-faenol-wildlife-and-woodland-walk-plas-newydd-19309121",
+  "name": "Glan Faenol Wildlife and Woodland Walk, Plas Newydd",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2049192,
+    "lon": -4.1963922
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19309121
+  }
+}

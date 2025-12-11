@@ -1,0 +1,44 @@
+{
+  "id": "osm-4086490",
+  "slug": "ashclyst-red-walk-4086490",
+  "name": "Ashclyst Red Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7851304,
+    "lon": -3.4187214
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4086490
+  },
+  "ai": {
+    "summary": "Ashclyst Red Walk is a 6.7 km moderate-length hike in the UK. The route combines woodland trails with open countryside, offering a steady pace suitable for hikers with some experience. Expect a mix of shaded paths, gentle climbs, and uneven ground that may be muddy after rain.",
+    "terrain_summary": "Terrain includes forest paths, grassy tracks, and gentle gradients. Expect uneven surfaces, tree roots, and occasional muddy sections, with some sun-exposed stretches in open areas.",
+    "safety_notes": "Wear sturdy hiking boots and weather-appropriate clothing. Check the forecast and be prepared for changes in conditions. Stay on marked trails, keep to daylight hours, and carry a map or GPS. Bring sufficient water and snacks, a small first aid kit, and a whistle or mobile phone for emergencies. Inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Lightweight waterproof jacket",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map, compass, or GPS device",
+      "Small first aid kit",
+      "Whistle and mobile phone",
+      "Hat and sunscreen",
+      "Backpack to carry gear"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round with proper gear",
+    "seo": {
+      "title": "Ashclyst Red Walk – 6.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.7 km Ashclyst Red Walk in the UK. Find terrain details, safety tips, gear recommendations, and best seasons for this moderate hike.",
+      "h1": "Ashclyst Red Walk (6.7 km) – Moderate UK Hike"
+    }
+  }
+}

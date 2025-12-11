@@ -1,0 +1,21 @@
+{
+  "id": "osm-15504417",
+  "slug": "trassey-track-15504417",
+  "name": "Trassey Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2187542,
+    "lon": -5.9732377
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15504417
+  }
+}

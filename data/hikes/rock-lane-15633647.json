@@ -1,0 +1,21 @@
+{
+  "id": "osm-15633647",
+  "slug": "rock-lane-15633647",
+  "name": "Rock Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2442272,
+    "lon": -5.9569674
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15633647
+  }
+}

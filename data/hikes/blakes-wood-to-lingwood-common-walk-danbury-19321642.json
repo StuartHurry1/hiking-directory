@@ -1,0 +1,44 @@
+{
+  "id": "osm-19321642",
+  "slug": "blakes-wood-to-lingwood-common-walk-danbury-19321642",
+  "name": "Blakes Wood to Lingwood Common Walk, Danbury",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7289077,
+    "lon": 0.5689287
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19321642
+  },
+  "ai": {
+    "summary": "A gentle 4.5 km route from Blakes Wood to Lingwood Common in Danbury, weaving through woodland and open countryside with lakeside views. Designed as an easy, family-friendly walk suitable for casual walkers.",
+    "terrain_summary": "The route is mostly flat and on well-trodden paths through Blakes Wood and surrounding land, with some grassy or damp sections. Expect occasional muddy patches after rain and a few short, uneven stretches; surfaced paths and gentle boardwalks keep the walk accessible.",
+    "safety_notes": "Stay on marked paths and close gates where encountered. Wear sturdy footwear and be prepared for mud or uneven ground. Check weather and daylight; carry a map or offline navigation. Bring water, a small first aid kit, and insect repellent. Be mindful of livestock on open ground and supervise children or pets closely. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Map or offline navigation app",
+      "Small snacks",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "All year, with spring and summer offering the best scenery and drier trails; autumn can be very pleasant too, while winter walks may be muddier.",
+    "seo": {
+      "title": "Blakes Wood to Lingwood Common Walk, Danbury – 4.5 km Easy Trail",
+      "meta_description": "Discover a gentle 4.5 km hike from Blakes Wood to Lingwood Common in Danbury, UK. Easy terrain, lakeside scenery, and woodland paths—perfect for a family-friendly day out.",
+      "h1": "Blakes Wood to Lingwood Common Walk, Danbury"
+    }
+  }
+}

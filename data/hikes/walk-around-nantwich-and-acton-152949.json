@@ -1,0 +1,21 @@
+{
+  "id": "osm-152949",
+  "slug": "walk-around-nantwich-and-acton-152949",
+  "name": "Walk around Nantwich and Acton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0664596,
+    "lon": -2.5227348
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 152949
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "osm-177640",
+  "slug": "avon-walkway-177640",
+  "name": "Avon Walkway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7852322,
+    "lon": -4.0267846
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 177640
+  },
+  "ai": {
+    "summary": "The Avon Walkway is a challenging long-distance hike totaling 57.8 km in the UK. The route traverses varied landscapes along the River Avon, mixing riverside paths, fields, woodlands, and occasional urban sections. Given its hard difficulty, the hike is typically undertaken as a multi-day trek with careful planning for distances, navigation, and weather.",
+    "terrain_summary": "Expect mixed terrain: riverbank paths, muddy and grassy tracks, occasional chalky or compacted trails, gentle to moderate gradients, several gates or stiles, and periodic urban or industrial stretches. Footing can be uneven and exposure to mud is common after rain; sturdy, waterproof footwear and good navigation are recommended.",
+    "safety_notes": "Plan for a multi-day trip if you are tackling the full 57.8 km. Check weather forecasts and daylight hours. Carry a map and compass (or GPS), fully charged phone, and a means of navigation. Inform someone of your itinerary, stay on marked paths, and be cautious at road crossings and in busy sections. Bring sufficient water and food, know your limits, and adjust plans if conditions are poor or sections are flooded or unsafe. Be mindful of private land and access rights and respect wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable layers and a waterproof jacket",
+      "Comfortable moisture-wicking clothing",
+      "Water bottle or hydration system",
+      "Headlamp or flashlight with extra batteries",
+      "Map and compass or GPS device",
+      "Snack and electrolyte drinks",
+      "Small first-aid kit and blister care",
+      "Sun protection (hat, sunscreen)",
+      "Whistle and ID",
+      "Lightweight rain cover or pack rain cover",
+      "Emergency foil blanket",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best weather and daylight for a 57.8 km hike; winter hiking is possible but requires extra caution, shorter days, and more aggressive weather conditions.",
+    "seo": {
+      "title": "Avon Walkway – 57.8 km Hard-Difficulty Hike in the UK",
+      "meta_description": "Discover the Avon Walkway, a challenging 57.8 km long-distance hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this hard trail.",
+      "h1": "Avon Walkway: A Hard 57.8 km UK Long-Distance Hike"
+    }
+  }
+}

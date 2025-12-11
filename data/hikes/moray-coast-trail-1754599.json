@@ -1,0 +1,23 @@
+{
+  "id": "osm-1754599",
+  "slug": "moray-coast-trail-1754599",
+  "name": "Moray Coast Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 194.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6123138,
+    "lon": -3.6076729
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1754599
+  }
+}

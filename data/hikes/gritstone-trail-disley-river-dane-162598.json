@@ -1,0 +1,21 @@
+{
+  "id": "osm-162598",
+  "slug": "gritstone-trail-disley-river-dane-162598",
+  "name": "Gritstone Trail (Disley - River Dane)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 73.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.358136,
+    "lon": -2.0424573
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 162598
+  }
+}

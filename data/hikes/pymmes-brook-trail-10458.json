@@ -1,0 +1,21 @@
+{
+  "id": "osm-10458",
+  "slug": "pymmes-brook-trail-10458",
+  "name": "Pymmes Brook Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 33.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6588484,
+    "lon": -0.1999574
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10458
+  }
+}

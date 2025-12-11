@@ -1,0 +1,21 @@
+{
+  "id": "osm-9792776",
+  "slug": "old-drove-road-walking-route-9792776",
+  "name": "Old Drove Road Walking Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.7578378,
+    "lon": -4.3248519
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9792776
+  }
+}

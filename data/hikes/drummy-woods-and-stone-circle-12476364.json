@@ -1,0 +1,21 @@
+{
+  "id": "osm-12476364",
+  "slug": "drummy-woods-and-stone-circle-12476364",
+  "name": "Drummy Woods and Stone circle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1273482,
+    "lon": -2.8581229
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12476364
+  }
+}

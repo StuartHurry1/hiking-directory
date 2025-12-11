@@ -1,0 +1,21 @@
+{
+  "id": "osm-7853596",
+  "slug": "kirkton-of-glenisla-coffin-road-7853596",
+  "name": "Kirkton of Glenisla Coffin Road",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7040154,
+    "lon": -3.2736304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7853596
+  }
+}

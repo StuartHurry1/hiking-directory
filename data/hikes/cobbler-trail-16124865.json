@@ -1,0 +1,21 @@
+{
+  "id": "osm-16124865",
+  "slug": "cobbler-trail-16124865",
+  "name": "Cobbler Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.2057766,
+    "lon": -4.7508556
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16124865
+  }
+}

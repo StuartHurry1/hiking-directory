@@ -1,0 +1,47 @@
+{
+  "id": "osm-2168279",
+  "slug": "black-grouse-2168279",
+  "name": "Black Grouse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0594938,
+    "lon": -3.1346708
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2168279
+  },
+  "ai": {
+    "summary": "Black Grouse is a moderate 8.6 km hike in the UK suitable for walkers with some elevation gain and uneven ground. The route offers varied scenery and a steady pace for most outdoor enthusiasts.",
+    "terrain_summary": "Expect mixed terrain: well-defined trails interspersed with grassy sections, occasional muddy patches, and uneven, rocky or stony stretches. Gates and stiles may be encountered; wear sturdy footwear and be prepared for changing surface conditions.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy waterproof boots and multiple layers. Stay on marked paths, watch for boggy ground after rain, and take care near exposed edges or livestock enclosures. Carry a map or GPS, a charged phone, water, snacks, a basic first aid kit, a whistle, and weather-appropriate clothing. Plan for limited mobile reception in remote sections and inform someone of your hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layered clothing",
+      "Waterproof jacket",
+      "Hat and gloves if cold",
+      "Map and compass or GPS",
+      "Fully charged phone",
+      "Water bottle or hydration system",
+      "Energy-rich snacks",
+      "Small first aid kit",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency blanket (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with proper gear and careful planning.",
+    "seo": {
+      "title": "Black Grouse Hike – 8.6 km Moderate Trek in the UK",
+      "meta_description": "Discover the Black Grouse hike, an 8.6 km moderate route in the UK. Terrain overview, safety tips, essential gear, and the best seasons for this outdoor outing.",
+      "h1": "Black Grouse Hike – 8.6 km Moderate UK Trail"
+    }
+  }
+}

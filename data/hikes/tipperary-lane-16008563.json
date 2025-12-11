@@ -1,0 +1,21 @@
+{
+  "id": "osm-16008563",
+  "slug": "tipperary-lane-16008563",
+  "name": "Tipperary Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2146967,
+    "lon": -5.8995395
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16008563
+  }
+}

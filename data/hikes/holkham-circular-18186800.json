@@ -1,0 +1,23 @@
+{
+  "id": "osm-18186800",
+  "slug": "holkham-circular-18186800",
+  "name": "Holkham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9728031,
+    "lon": 0.847127
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18186800
+  }
+}

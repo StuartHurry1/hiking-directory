@@ -1,0 +1,21 @@
+{
+  "id": "osm-2739207",
+  "slug": "lopham-loop-2739207",
+  "name": "Lopham Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3814286,
+    "lon": 1.0140567
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2739207
+  }
+}

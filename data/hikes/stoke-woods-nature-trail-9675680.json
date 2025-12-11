@@ -1,0 +1,21 @@
+{
+  "id": "osm-9675680",
+  "slug": "stoke-woods-nature-trail-9675680",
+  "name": "Stoke Woods Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7515766,
+    "lon": -3.5263969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9675680
+  }
+}

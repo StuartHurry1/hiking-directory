@@ -1,0 +1,21 @@
+{
+  "id": "osm-12724243",
+  "slug": "link-to-erith-station-12724243",
+  "name": "link to Erith station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4812236,
+    "lon": 0.1759835
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12724243
+  }
+}

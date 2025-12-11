@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737698",
+  "slug": "magnificent-11-17737698",
+  "name": "Magnificent 11",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8036972,
+    "lon": -4.2692453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737698
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7342961",
+  "slug": "via-beata-7342961",
+  "name": "Via Beata",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 425.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4764575,
+    "lon": 1.7608631
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7342961
+  }
+}

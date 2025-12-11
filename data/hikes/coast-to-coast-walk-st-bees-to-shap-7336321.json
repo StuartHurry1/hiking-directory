@@ -1,0 +1,23 @@
+{
+  "id": "osm-7336321",
+  "slug": "coast-to-coast-walk-st-bees-to-shap-7336321",
+  "name": "Coast to Coast Walk (St Bees to Shap)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 364.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4907467,
+    "lon": -3.6066938
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7336321
+  }
+}

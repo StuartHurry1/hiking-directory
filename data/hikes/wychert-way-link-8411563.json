@@ -1,0 +1,21 @@
+{
+  "id": "osm-8411563",
+  "slug": "wychert-way-link-8411563",
+  "name": "Wychert Way Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 58.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7787972,
+    "lon": -0.9262749
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8411563
+  }
+}

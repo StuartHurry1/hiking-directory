@@ -1,0 +1,41 @@
+{
+  "id": "osm-1707539",
+  "slug": "acw-circular-walk-17x-extra-to-tippers-hill-1707539",
+  "name": "ACW Circular Walk 17X (eXtra to Tippers Hill)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4931874,
+    "lon": -1.5793652
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707539
+  },
+  "ai": {
+    "summary": "An easy 1.1 km circular walk from eXtra to Tippers Hill in the UK. The route is short and gentle, suitable for beginners and families, with light scenery along mixed surfaces.",
+    "terrain_summary": "Mostly gentle, flat to slightly undulating terrain. Surfaces include well-maintained paths and grassy sections; expect some uneven ground and potential muddy patches after rain.",
+    "safety_notes": "- Check weather and daylight hours before starting. - Wear sturdy, comfortable footwear and weather-appropriate clothing. - Stay on the marked path; carry a small map or GPS and a phone charged. - Inform someone of your plans, especially in unknown or rural areas. - Bring water and snacks; be cautious of slippery surfaces after rain.",
+    "recommended_gear": [
+      "Sturdy walking shoes or sneakers",
+      "Water and a snack",
+      "Light waterproof jacket",
+      "Sun protection in sunny weather (hat, sunscreen)",
+      "Map, guide or smartphone with route details",
+      "Small backpack for essentials",
+      "Optional walking poles"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal; it is generally walkable year-round in the UK with appropriate clothing and footwear.",
+    "seo": {
+      "title": "ACW Circular Walk 17X (eXtra to Tippers Hill) – 1.1 km Easy UK Circular Walk",
+      "meta_description": "Explore the 1.1 km ACW Circular Walk 17X from eXtra to Tippers Hill. An easy, short circular route in the UK suitable for beginners and families.",
+      "h1": "ACW Circular Walk 17X: eXtra to Tippers Hill (1.1 km)"
+    }
+  }
+}

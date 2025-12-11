@@ -1,0 +1,21 @@
+{
+  "id": "osm-10743124",
+  "slug": "chester-le-street-heritage-trail-10743124",
+  "name": "Chester-le-Street Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8606356,
+    "lon": -1.572559
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10743124
+  }
+}

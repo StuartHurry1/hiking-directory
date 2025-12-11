@@ -1,0 +1,21 @@
+{
+  "id": "osm-19561037",
+  "slug": "thetford-river-trails-red-route-east-19561037",
+  "name": "Thetford River Trails - Red Route (East)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4118741,
+    "lon": 0.7488243
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19561037
+  }
+}

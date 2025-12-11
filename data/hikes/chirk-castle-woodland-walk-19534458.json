@@ -1,0 +1,21 @@
+{
+  "id": "osm-19534458",
+  "slug": "chirk-castle-woodland-walk-19534458",
+  "name": "Chirk Castle woodland walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.93732,
+    "lon": -3.0916086
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19534458
+  }
+}

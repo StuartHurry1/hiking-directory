@@ -1,0 +1,21 @@
+{
+  "id": "osm-2566042",
+  "slug": "south-wales-traverse-2566042",
+  "name": "South Wales Traverse",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 177.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8227596,
+    "lon": -3.3292271
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2566042
+  }
+}

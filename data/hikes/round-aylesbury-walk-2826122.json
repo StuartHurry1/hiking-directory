@@ -1,0 +1,21 @@
+{
+  "id": "osm-2826122",
+  "slug": "round-aylesbury-walk-2826122",
+  "name": "Round Aylesbury Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 61.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7944481,
+    "lon": -0.8208068
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2826122
+  }
+}

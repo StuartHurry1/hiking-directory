@@ -1,0 +1,21 @@
+{
+  "id": "osm-8374117",
+  "slug": "coy-burn-trail-8374117",
+  "name": "Coy Burn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0638659,
+    "lon": -2.4380323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8374117
+  }
+}

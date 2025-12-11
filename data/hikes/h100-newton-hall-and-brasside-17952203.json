@@ -1,0 +1,21 @@
+{
+  "id": "osm-17952203",
+  "slug": "h100-newton-hall-and-brasside-17952203",
+  "name": "H100 - Newton Hall & Brasside",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8010555,
+    "lon": -1.5520972
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17952203
+  }
+}

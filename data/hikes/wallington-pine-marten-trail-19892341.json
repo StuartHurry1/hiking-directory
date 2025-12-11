@@ -1,0 +1,21 @@
+{
+  "id": "osm-19892341",
+  "slug": "wallington-pine-marten-trail-19892341",
+  "name": "Wallington Pine Marten Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1528211,
+    "lon": -1.9590285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19892341
+  }
+}

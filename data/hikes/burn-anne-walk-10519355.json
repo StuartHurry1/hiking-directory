@@ -1,0 +1,42 @@
+{
+  "id": "osm-10519355",
+  "slug": "burn-anne-walk-10519355",
+  "name": "Burn Anne walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5947745,
+    "lon": -4.3715344
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10519355
+  },
+  "ai": {
+    "summary": "Burn Anne Walk is a 7.4 km moderate hike in the United Kingdom, following a scenic burn (stream) through varied terrain. The route offers a steady mix of grassy paths, woodland edges, and occasional muddy sections, suitable for walkers with some experience.",
+    "terrain_summary": "Expect a primarily well-defined path with intermittent muddy patches near the water. Elevation gain is moderate, with gentle ascents and some short, steady climbs. Surface varies from compact gravel and grass to wet, marshy ground after rainfall. Occasional boardwalks may appear over damp areas.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy walking boots with good grip. Stay on the marked path; keep away from riverbanks; be mindful of slippery surfaces after rain. Bring waterproof clothing, sufficient water, snacks, and a map or GPS. Let someone know your plan and expected return. In rural sections, mobile coverage may be limited.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Waterproof jacket and layers",
+      "Water and snacks",
+      "Map and compass or GPS device",
+      "Phone charged with offline map",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Headlamp or flashlight (for late starts)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal for the Burn Anne Walk due to milder weather and longer daylight. Winter visits are possible but expect mud, damp conditions, and reduced daylight.",
+    "seo": {
+      "title": "Burn Anne Walk – 7.4 km Moderate Hike in the UK",
+      "meta_description": "Discover Burn Anne Walk, a 7.4 km moderate hike in the UK. Practical tips, terrain overview, and essential gear for a safe day on the trail.",
+      "h1": "Burn Anne Walk (7.4 km) – Moderate UK hike"
+    }
+  }
+}

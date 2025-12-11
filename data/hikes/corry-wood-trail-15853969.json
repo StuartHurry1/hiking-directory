@@ -1,0 +1,21 @@
+{
+  "id": "osm-15853969",
+  "slug": "corry-wood-trail-15853969",
+  "name": "Corry Wood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2605854,
+    "lon": -5.921803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15853969
+  }
+}

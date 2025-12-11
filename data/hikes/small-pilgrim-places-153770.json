@@ -1,0 +1,21 @@
+{
+  "id": "osm-153770",
+  "slug": "small-pilgrim-places-153770",
+  "name": "Small Pilgrim Places",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7782935,
+    "lon": -1.5869638
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 153770
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18724291",
+  "slug": "rail-trail-wythall-greater-shirley-18724291",
+  "name": "Rail Trail: Wythall > Shirley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.379573,
+    "lon": -1.8655145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18724291
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19556799",
+  "slug": "conservation-walk-croome-19556799",
+  "name": "Conservation Walk, Croome",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0991829,
+    "lon": -2.1639283
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19556799
+  }
+}

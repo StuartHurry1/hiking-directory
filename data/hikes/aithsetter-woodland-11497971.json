@@ -1,0 +1,42 @@
+{
+  "id": "osm-11497971",
+  "slug": "aithsetter-woodland-11497971",
+  "name": "Aithsetter woodland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.061084,
+    "lon": -1.2208678
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497971
+  },
+  "ai": {
+    "summary": "A brief, easy 0.4 km woodland stroll in the UK’s Aithsetter Woodland. Designed for all ages, it offers a gentle surface and relaxing natural surroundings, making it an ideal short outing.",
+    "terrain_summary": "Flat, well-maintained woodland path. Mostly compact dirt with occasional roots and gentle inclines. Expect shaded sections; ground can be soft or muddy after rain.",
+    "safety_notes": "Stay on the marked path; weather in the UK can change quickly. Wear sturdy walking shoes and bring a lightweight rain jacket. Be mindful of uneven ground, tree roots, and slippery sections when wet. In warmer months, use insect repellent and check for ticks after the walk. Carry water and a small snack, and supervise children closely. If dogs are allowed, keep them under control and clean up after them. Check local access rules and any closures before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Lightweight rain jacket",
+      "Water bottle",
+      "Small backpack",
+      "Phone or map",
+      "Sunscreen and insect repellent",
+      "Basic first aid kit (optional)",
+      "Snack (optional)"
+    ],
+    "best_seasons": "All year; best in spring and autumn when the path is drier and scenery is most vibrant.",
+    "seo": {
+      "title": "Aithsetter Woodland Walk – Easy 0.4 km in the UK",
+      "meta_description": "Discover a short, easy 0.4 km woodland stroll at Aithsetter Woodland in the UK. A family-friendly, flat trail with relaxing natural scenery.",
+      "h1": "Aithsetter Woodland Walk (0.4 km, Easy)"
+    }
+  }
+}

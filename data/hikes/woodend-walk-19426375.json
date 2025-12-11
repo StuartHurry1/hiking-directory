@@ -1,0 +1,21 @@
+{
+  "id": "osm-19426375",
+  "slug": "woodend-walk-19426375",
+  "name": "Woodend Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7748188,
+    "lon": -3.8435742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426375
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-10424042",
+  "slug": "admiral-mchardy-way-10424042",
+  "name": "Admiral McHardy Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7443905,
+    "lon": 0.5324137
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10424042
+  },
+  "ai": {
+    "summary": "Admiral McHardy Way is a challenging 31.7 km hike in the UK, designed for experienced walkers. The route covers varied countryside and can be strenuous in a single day, or split into overnighters for pace. Expect long sections on footpaths, minor ascents, and some rough terrain; navigation and prior preparation are essential.",
+    "terrain_summary": "The path traverses a mix of rural lanes, hedged fields, minor woodland tracks, and potentially exposed moorland sections. Expect uneven surfaces, stiles, muck in wet weather, and some gradient changes. Weather in the UK can alter footing, so boots with good grip and waterproofing are recommended. Distance markers may be sparse on remote stretches.",
+    "safety_notes": "Plan for a full-day hike with sufficient daylight, carry a map and compass or GPS, and let someone know your itinerary. Wear sturdy boots, bring waterproof layers, and pack extra food and water. Be prepared for sudden weather changes, bring a charged phone with offline maps, and watch for fatigue on long ascent/descent sections. In remote parts, mobile reception may be variable; consider a backup beacon if available.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable weatherproof jacket and extra layers",
+      "Map and compass or GPS device",
+      "Hydration 2–3 liters and high-energy snacks",
+      "Emergency whistle and first aid kit",
+      "Headlamp or small flashlight with spare batteries",
+      "Hat, gloves (seasonal), and sun protection",
+      "Mobile phone with offline maps and power bank",
+      "Lightweight emergency blanket and basic repair kit"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for milder weather, longer daylight, and lower mud risk; shoulder seasons can be viable with careful planning and wetter weather gear.",
+    "seo": {
+      "title": "Admiral McHardy Way Hike — 31.7 km Hard Trail in the UK",
+      "meta_description": "Discover Admiral McHardy Way, a challenging 31.7 km hike in the UK. Terrain, safety tips, gear recommendations, and best seasons for this demanding route.",
+      "h1": "Admiral McHardy Way — 31.7 km Hard Hike in the UK"
+    }
+  }
+}

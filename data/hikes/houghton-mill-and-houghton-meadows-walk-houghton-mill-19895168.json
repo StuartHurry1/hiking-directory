@@ -1,0 +1,21 @@
+{
+  "id": "osm-19895168",
+  "slug": "houghton-mill-and-houghton-meadows-walk-houghton-mill-19895168",
+  "name": "Houghton Mill and Houghton Meadows Walk, Houghton Mill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3314947,
+    "lon": -0.1153608
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19895168
+  }
+}

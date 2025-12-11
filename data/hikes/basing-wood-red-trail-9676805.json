@@ -1,0 +1,41 @@
+{
+  "id": "osm-9676805",
+  "slug": "basing-wood-red-trail-9676805",
+  "name": "Basing Wood Red Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2940067,
+    "lon": -1.0767822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9676805
+  },
+  "ai": {
+    "summary": "Basing Wood Red Trail is a short, easy woodland walk in the UK, measuring 0.4 km. Designed for all ages and casual walkers, this quick nature escape follows a flat, well-marked path through a wooded area and returns you to the start in a few minutes.",
+    "terrain_summary": "Flat, well-maintained woodland path with a packed earth (and some gravel) surface. Mostly shaded by trees; expect occasional roots and minor uneven patches. The route is short and easy, suitable for beginners and families.",
+    "safety_notes": "A short, easy trail but conditions can change with weather. Wear sturdy footwear and weather-appropriate clothing. Stay on the marked path, watch for roots or uneven surfaces, and keep an eye out for other walkers. Supervises children; carry a charged phone. In an emergency, call 999. Check for seasonal closures or wildlife advisories before you set out.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing and a light waterproof layer",
+      "Water and a small snack",
+      "Sun protection (hat and sunscreen) or a warm layer for shade",
+      "Insect repellent",
+      "Small backpack for essentials",
+      "Phone with offline map or GPS"
+    ],
+    "best_seasons": "Year-round in the UK, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Basing Wood Red Trail - Easy 0.4 km Woodland Walk in the UK",
+      "meta_description": "Discover the Basing Wood Red Trail, a short, easy 0.4 km woodland walk in the UK. Learn about terrain, safety tips, gear, and the best seasons to visit.",
+      "h1": "Basing Wood Red Trail — Easy 0.4 km Woodland Walk"
+    }
+  }
+}

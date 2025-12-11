@@ -1,0 +1,45 @@
+{
+  "id": "osm-11621876",
+  "slug": "bacton-circular-11621876",
+  "name": "Bacton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8470341,
+    "lon": 1.484246
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11621876
+  },
+  "ai": {
+    "summary": "Bacton Circular is a 14.2 km moderate hike in the UK, offering a steady loop through rural lanes, fields, and quiet byways. It suits walkers who enjoy varied scenery at a comfortable pace and is accessible to a wide range of fitness levels with occasional gentle climbs.",
+    "terrain_summary": "The route combines well-trodden paths, grassy field edges, and quiet country lanes. Expect uneven ground after rain, some soft verges, and a few short stretches of pavement. Elevation is gentle with a few mild ascents distributed along the loop.",
+    "safety_notes": "Check local weather and tide times if parts of the route run near the coast. Wear sturdy waterproof boots and dress in layers. Carry a map and compass or GPS, plus a charged phone. Stay on marked paths, inform someone of your plans, bring water and snacks, and be mindful of livestock and traffic on byways. Short daylight hours in winter mean plan accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle (2–3 liters) or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Small first-aid kit",
+      "Energy snacks or portable food",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Whistle for signaling",
+      "Lightweight rain shell or packable layer",
+      "Phone with offline map or trail app",
+      "Small daypack"
+    ],
+    "best_seasons": "Spring to autumn; generally best conditions from late spring to early autumn, with longer daylight and drier trails.",
+    "seo": {
+      "title": "Bacton Circular Hike — 14.2 km Moderate Walk in the UK",
+      "meta_description": "Discover the Bacton Circular, a 14.2 km moderate hike in the UK. Enjoy rural lanes, fields, and scenic countryside with practical safety tips and gear recommendations.",
+      "h1": "Bacton Circular Hike (UK) – 14.2 km, Moderate Difficulty"
+    }
+  }
+}

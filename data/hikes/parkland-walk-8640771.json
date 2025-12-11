@@ -1,0 +1,21 @@
+{
+  "id": "osm-8640771",
+  "slug": "parkland-walk-8640771",
+  "name": "Parkland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7882772,
+    "lon": -0.6587431
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8640771
+  }
+}

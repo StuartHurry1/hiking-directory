@@ -1,0 +1,21 @@
+{
+  "id": "osm-1879599",
+  "slug": "tas-valley-way-1879599",
+  "name": "Tas Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 279.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5169967,
+    "lon": 1.2061831
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1879599
+  }
+}

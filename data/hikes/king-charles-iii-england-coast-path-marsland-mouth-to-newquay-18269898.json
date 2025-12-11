@@ -1,0 +1,23 @@
+{
+  "id": "osm-18269898",
+  "slug": "king-charles-iii-england-coast-path-marsland-mouth-to-newquay-18269898",
+  "name": "King Charles III England Coast Path: Marsland Mouth to Newquay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 117.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5922892,
+    "lon": -4.8347543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18269898
+  }
+}

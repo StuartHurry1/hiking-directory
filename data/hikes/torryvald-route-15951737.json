@@ -1,0 +1,21 @@
+{
+  "id": "osm-15951737",
+  "slug": "torryvald-route-15951737",
+  "name": "Torryvald Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5618491,
+    "lon": -3.6119023
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15951737
+  }
+}

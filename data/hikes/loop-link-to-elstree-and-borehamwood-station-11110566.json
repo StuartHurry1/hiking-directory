@@ -1,0 +1,21 @@
+{
+  "id": "osm-11110566",
+  "slug": "loop-link-to-elstree-and-borehamwood-station-11110566",
+  "name": "LOOP link to Elstree & Borehamwood station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6527546,
+    "lon": -0.2817901
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11110566
+  }
+}

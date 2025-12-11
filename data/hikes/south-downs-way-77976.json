@@ -1,0 +1,21 @@
+{
+  "id": "osm-77976",
+  "slug": "south-downs-way-77976",
+  "name": "South Downs Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 211.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.060964,
+    "lon": -1.3079145
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 77976
+  }
+}

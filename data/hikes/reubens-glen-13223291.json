@@ -1,0 +1,21 @@
+{
+  "id": "osm-13223291",
+  "slug": "reubens-glen-13223291",
+  "name": "REUBENS GLEN",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7391156,
+    "lon": -6.6676678
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13223291
+  }
+}

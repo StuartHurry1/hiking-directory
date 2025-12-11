@@ -1,0 +1,46 @@
+{
+  "id": "osm-19788491",
+  "slug": "blackbottle-rock-picnic-walk-lantic-bay-19788491",
+  "name": "Blackbottle Rock picnic walk, Lantic Bay",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [
+    "coastal",
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3264596,
+    "lon": -4.6262774
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19788491
+  },
+  "ai": {
+    "summary": "A short, family-friendly coastal walk around Lantic Bay to Blackbottle Rock. This easy 2.7 km route offers sea views, rugged rock formations, and a pleasant spot for a seaside picnic.",
+    "terrain_summary": "Primarily a well-maintained coastal path with gentle gradients. Expect occasional steps and sections of uneven, rocky ground near the shore, with exposed ridges and sea-swept viewpoints.",
+    "safety_notes": "Stay back from cliff edges and avoid wet, slippery rocks along the shoreline. Check tide times and avoid parts that are flooded at high tide. Wear sturdy footwear and dress for wind and rain. Keep children close and dogs on leads where required. Carry water, a small first-aid kit, and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Snack or picnic",
+      "Camera or smartphone",
+      "Map or offline navigation",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offer milder weather and clearer coastal views; winter can be windy and wet.",
+    "seo": {
+      "title": "Blackbottle Rock Picnic Walk, Lantic Bay – Easy 2.7 km Coastal Walk in the UK",
+      "meta_description": "Explore the easy 2.7 km Blackbottle Rock picnic walk at Lantic Bay, UK. Coastal views, cliffs, and a perfect spot for a seaside picnic. Plan your day hike.",
+      "h1": "Blackbottle Rock Picnic Walk, Lantic Bay – Easy 2.7 km Coastal Trail"
+    }
+  }
+}

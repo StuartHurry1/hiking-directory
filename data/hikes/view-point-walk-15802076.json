@@ -1,0 +1,21 @@
+{
+  "id": "osm-15802076",
+  "slug": "view-point-walk-15802076",
+  "name": "View Point Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1993325,
+    "lon": 0.0666974
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15802076
+  }
+}

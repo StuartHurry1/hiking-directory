@@ -1,0 +1,21 @@
+{
+  "id": "osm-19763829",
+  "slug": "water-of-leith-walkway-balerno-to-currie-19763829",
+  "name": "Water of Leith Walkway (Balerno to Currie)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8874746,
+    "lon": -3.3391246
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19763829
+  }
+}

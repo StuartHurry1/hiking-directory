@@ -1,0 +1,44 @@
+{
+  "id": "osm-1701381",
+  "slug": "amber-valley-routeway-walk-4-1701381",
+  "name": "Amber Valley Routeway Walk 4",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0605817,
+    "lon": -1.3445192
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1701381
+  },
+  "ai": {
+    "summary": "Amber Valley Routeway Walk 4 is a demanding 21.8 km hike in the UK. Classified as hard, it traverses varied countryside with hills, fields and some road sections. It suits fit walkers with solid navigation skills and robust gear, and typically takes most hikers a full day to complete.",
+    "terrain_summary": "Mixed terrain including smooth country lanes, grassy field paths, stiles and gates; occasional rough or muddy stretches; gentle to steep ascents; some exposed sections and potential wind.",
+    "safety_notes": "Hard distance and variable UK weather require planning. Check the forecast and carry waterproof clothing and extra layers. Navigation is essential—bring a map and compass or GPS and stay on the route. Daylight hours can be short in winter, so start early. Inform someone of your plan and expected return. Pack water, food, a basic first aid kit, a charged phone, and a whistle. Wear sturdy boots and adjust pace for terrain; be cautious at road crossings, gates, livestock, and uneven ground. Trekking poles can aid stability on long or hilly sections. In rural sections, access points and phone signal may be limited.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof/windproof jacket and layered clothing",
+      "Backpack (20–30 L) with rain cover",
+      "Water and high-energy snacks (plus extra for emergencies)",
+      "Map and compass or GPS device; fully charged",
+      "Personal first aid kit and whistle",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Headlamp or flashlight with spare batteries",
+      "Extra mid-layer (fleece or insulated jacket)",
+      "Trekking poles (optional but helpful on long or hilly sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for the best conditions. Spring and autumn can be muddy; winter hiking is longer and weather can be severe with shorter daylight.",
+    "seo": {
+      "title": "Amber Valley Routeway Walk 4 — 21.8 km Hard Hike in the UK",
+      "meta_description": "Explore Amber Valley Routeway Walk 4, a challenging 21.8 km hike in the UK. Learn about terrain, safety considerations, gear, and the best seasons for this hard trail.",
+      "h1": "Amber Valley Routeway Walk 4 — 21.8 km Hard Hike in the UK"
+    }
+  }
+}

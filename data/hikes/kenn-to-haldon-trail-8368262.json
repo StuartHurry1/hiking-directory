@@ -1,0 +1,21 @@
+{
+  "id": "osm-8368262",
+  "slug": "kenn-to-haldon-trail-8368262",
+  "name": "Kenn to Haldon Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6604001,
+    "lon": -3.5263713
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8368262
+  }
+}

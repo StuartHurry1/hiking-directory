@@ -1,0 +1,23 @@
+{
+  "id": "osm-9773856",
+  "slug": "wildlife-walk-attingham-park-9773856",
+  "name": "Wildlife Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6847433,
+    "lon": -2.6627635
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9773856
+  }
+}

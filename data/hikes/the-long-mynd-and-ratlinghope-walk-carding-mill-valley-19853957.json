@@ -1,0 +1,21 @@
+{
+  "id": "osm-19853957",
+  "slug": "the-long-mynd-and-ratlinghope-walk-carding-mill-valley-19853957",
+  "name": "The Long Mynd and Ratlinghope Walk, Carding Mill Valley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5457036,
+    "lon": -2.8221188
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19853957
+  }
+}

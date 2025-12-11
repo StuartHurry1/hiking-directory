@@ -1,0 +1,23 @@
+{
+  "id": "osm-1084419",
+  "slug": "lake-trail-1084419",
+  "name": "Lake Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4587473,
+    "lon": -6.0816739
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1084419
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1995962",
+  "slug": "faesten-dic-path-1995962",
+  "name": "Faesten Dic Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4254984,
+    "lon": 0.1587325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1995962
+  }
+}

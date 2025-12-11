@@ -1,0 +1,23 @@
+{
+  "id": "osm-3805401",
+  "slug": "tunbridge-wells-circular-walk-groombridge-link-3805401",
+  "name": "Tunbridge Wells Circular Walk (Groombridge Link)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1169118,
+    "lon": 0.1899842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3805401
+  }
+}

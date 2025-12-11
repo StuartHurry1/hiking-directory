@@ -1,0 +1,21 @@
+{
+  "id": "osm-8656978",
+  "slug": "hughendens-monument-walk-hughenden-8656978",
+  "name": "Hughenden's Monument Walk, Hughenden",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6542398,
+    "lon": -0.759643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8656978
+  }
+}

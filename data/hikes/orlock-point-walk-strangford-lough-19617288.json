@@ -1,0 +1,23 @@
+{
+  "id": "osm-19617288",
+  "slug": "orlock-point-walk-strangford-lough-19617288",
+  "name": "Orlock Point Walk, Strangford Lough",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.669342,
+    "lon": -5.5748777
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19617288
+  }
+}

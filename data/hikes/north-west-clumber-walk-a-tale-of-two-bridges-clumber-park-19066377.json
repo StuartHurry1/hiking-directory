@@ -1,0 +1,23 @@
+{
+  "id": "osm-19066377",
+  "slug": "north-west-clumber-walk-a-tale-of-two-bridges-clumber-park-19066377",
+  "name": "North West Clumber Walk: A Tale of Two Bridges, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2655767,
+    "lon": -1.062425
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19066377
+  }
+}

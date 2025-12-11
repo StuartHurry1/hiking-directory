@@ -1,0 +1,21 @@
+{
+  "id": "osm-16244970",
+  "slug": "wherry-lines-walk-5-16244970",
+  "name": "Wherry Lines Walk 5",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5289982,
+    "lon": 1.6230819
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16244970
+  }
+}

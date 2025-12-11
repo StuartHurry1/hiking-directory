@@ -1,0 +1,21 @@
+{
+  "id": "osm-12696155",
+  "slug": "link-to-abbey-wood-station-12696155",
+  "name": "link to Abbey Wood station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4887324,
+    "lon": 0.1275283
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12696155
+  }
+}

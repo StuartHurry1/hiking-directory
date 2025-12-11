@@ -1,0 +1,21 @@
+{
+  "id": "osm-78280",
+  "slug": "reelers-trail-witton-weavers-way-78280",
+  "name": "Reelers Trail - Witton Weavers Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7282613,
+    "lon": -2.5261738
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 78280
+  }
+}

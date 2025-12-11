@@ -1,0 +1,21 @@
+{
+  "id": "osm-14406020",
+  "slug": "old-man-of-storr-14406020",
+  "name": "Old man of Storr",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.4979657,
+    "lon": -6.1590414
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14406020
+  }
+}

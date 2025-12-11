@@ -1,0 +1,46 @@
+{
+  "id": "osm-16127868",
+  "slug": "cairngorms-trekking-iv-16127868",
+  "name": "Cairngorms Trekking IV",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0957966,
+    "lon": -3.649477
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127868
+  },
+  "ai": {
+    "summary": "Cairngorms Trekking IV is a hard, 31.9 km hike in the United Kingdom. It demands strong stamina, solid navigation, and careful weather planning due to variable conditions and a challenging elevation profile. The region is listed as unknown, but be prepared for a long, remote day with changing light and potential boggy ground.",
+    "terrain_summary": "The route likely traverses mixed UK terrain typical of long-distance treks: forest tracks, open moorland, peat bogs, and rocky sections. Expect uneven footing, frequent climbs, wet patches, and occasional exposed viewpoints. Weather can shift quickly, so versatile footwear and layering are essential.",
+    "safety_notes": "Long-distance, hard terrain requires careful planning. Carry a detailed map and compass and know how to use them; do not rely on mobile signal. Check weather forecasts and start early to maximize daylight. Inform someone of your planned route and expected turnaround time. Pack enough water and high-energy food, plus an emergency shelter or bivy. Wear sturdy boots with good grip and consider trekking poles for stability. Be prepared for bogs, sudden weather changes, and navigation challenges; turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing, including a waterproof/windproof outer layer",
+      "Map and compass (and/or GPS) with fully charged devices",
+      "Headlamp with extra batteries",
+      "Hydration system or water bottles (2–3 L)",
+      "High-energy food for a full day",
+      "Emergency bivy or space blanket",
+      "First aid kit",
+      "Whistle and signaling device",
+      "Hiking poles (optional but recommended for stability)",
+      "Rucksack with rain cover",
+      "Extra socks, gloves and hat"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers longer daylight and generally drier conditions in the UK; winter treks require advanced mountaineering skills and additional gear.",
+    "seo": {
+      "title": "Cairngorms Trekking IV — 31.9 km Hard Hike in the UK",
+      "meta_description": "Discover Cairngorms Trekking IV, a demanding 31.9 km hike in the UK. Find terrain insights, safety notes, and gear recommendations for a successful trek.",
+      "h1": "Cairngorms Trekking IV: 31.9 km Hard Hike in the UK"
+    }
+  }
+}

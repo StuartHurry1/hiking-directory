@@ -1,0 +1,21 @@
+{
+  "id": "osm-15634177",
+  "slug": "caskell-lane-15634177",
+  "name": "Caskell Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2472022,
+    "lon": -5.962378
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15634177
+  }
+}

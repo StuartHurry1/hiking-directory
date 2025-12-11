@@ -1,0 +1,21 @@
+{
+  "id": "osm-10306763",
+  "slug": "cape-wrath-trail-ceasan-dorcha-10306763",
+  "name": "Cape Wrath Trail (CEasan Dorcha)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5005214,
+    "lon": -5.3549671
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10306763
+  }
+}

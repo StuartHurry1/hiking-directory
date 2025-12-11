@@ -1,0 +1,21 @@
+{
+  "id": "osm-1631934",
+  "slug": "senior-way-1631934",
+  "name": "Senior Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8326609,
+    "lon": -1.913954
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1631934
+  }
+}

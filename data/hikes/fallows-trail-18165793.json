@@ -1,0 +1,21 @@
+{
+  "id": "osm-18165793",
+  "slug": "fallows-trail-18165793",
+  "name": "Fallows Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0981357,
+    "lon": -6.1628911
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18165793
+  }
+}

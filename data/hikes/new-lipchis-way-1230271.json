@@ -1,0 +1,21 @@
+{
+  "id": "osm-1230271",
+  "slug": "new-lipchis-way-1230271",
+  "name": "New Lipchis Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 163.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0714753,
+    "lon": -0.8011231
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1230271
+  }
+}

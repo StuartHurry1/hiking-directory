@@ -1,0 +1,23 @@
+{
+  "id": "osm-19604583",
+  "slug": "marshes-mudflats-and-woodbridge-circular-walk-kyson-hill-19604583",
+  "name": "Marshes, Mudflats and Woodbridge Circular Walk, Kyson Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0894571,
+    "lon": 1.3153191
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19604583
+  }
+}

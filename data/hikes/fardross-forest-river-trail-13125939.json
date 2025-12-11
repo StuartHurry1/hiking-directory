@@ -1,0 +1,21 @@
+{
+  "id": "osm-13125939",
+  "slug": "fardross-forest-river-trail-13125939",
+  "name": "Fardross Forest River Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3851992,
+    "lon": -7.1996074
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13125939
+  }
+}

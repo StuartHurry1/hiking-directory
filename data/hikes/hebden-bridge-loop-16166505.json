@@ -1,0 +1,23 @@
+{
+  "id": "osm-16166505",
+  "slug": "hebden-bridge-loop-16166505",
+  "name": "Hebden Bridge Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7316954,
+    "lon": -2.0321877
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16166505
+  }
+}

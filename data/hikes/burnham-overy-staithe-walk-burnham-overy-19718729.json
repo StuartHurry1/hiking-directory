@@ -1,0 +1,44 @@
+{
+  "id": "osm-19718729",
+  "slug": "burnham-overy-staithe-walk-burnham-overy-19718729",
+  "name": "Burnham Overy Staithe Walk, Burnham Overy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9635302,
+    "lon": 0.7455198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19718729
+  },
+  "ai": {
+    "summary": "The Burnham Overy Staithe Walk is a 7.4 km coastal circuit near Burnham Overy in the UK. This moderate-length route follows a mix of quay paths, grassy dunes, and salt-marsh edges, offering sea views, wildlife, and a relaxed coastal atmosphere. Suitable for walkers with moderate fitness and good footwear, the loop typically takes about 2–3 hours.",
+    "terrain_summary": "Mixed coastal terrain: firm paths along the quay and village lanes, grassy dunes, raised sea walls, and wooden boardwalks over marshes. Expect occasional mud, loose sand, and gentle gradients. The route can be exposed to wind and salt spray on open sections.",
+    "safety_notes": "Check tide times and weather before you go; coastal paths can be muddy and slippery near marsh edges. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths to protect wildlife and prevent erosion. Be aware of cyclists and other walkers on shared sections. Carry a map or GPS, a charged phone, enough water, and sun protection; bring a small first-aid kit. If walking with children or dogs, keep them under close control near water and crowds.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Layered clothing with a waterproof outer layer",
+      "Daypack with water bottle (2–3 litres if hot)",
+      "Map or GPS device / smartphone with offline map",
+      "Sunscreen and hat",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Insect repellent (seasonal)",
+      "Lightweight rain shell or poncho",
+      "Whistle and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn offer the best weather and visibility; the walk is doable year-round, but be prepared for wind, rain, and shorter daylight in winter.",
+    "seo": {
+      "title": "Burnham Overy Staithe Walk – 7.4 km Coastal Hike in the UK",
+      "meta_description": "Explore the 7.4 km Burnham Overy Staithe Walk, a moderate coastal route featuring salt marshes, sea views, and dunes. Plan your UK coast hike today.",
+      "h1": "Burnham Overy Staithe Walk – 7.4 km Coastal Hike"
+    }
+  }
+}

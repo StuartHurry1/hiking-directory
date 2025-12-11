@@ -1,0 +1,46 @@
+{
+  "id": "osm-1707023",
+  "slug": "acw-circular-walk-19-1707023",
+  "name": "ACW Circular Walk 19",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4591623,
+    "lon": -1.5904083
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707023
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 19 is a strenuous 34.4 km loop in the UK. The route combines rural tracks, farmland, woodland paths, and occasional road sections, with several ascent and descent segments that test endurance. As a hard-distance hike, plan for a full-day outing (often 9–12+ hours depending on pace) and be prepared for variable conditions and potential navigation challenges.",
+    "terrain_summary": "Expect a mixed surface profile: muddy and uneven field paths, grassy ascents, rocky or stony tracks, some exposed moorland, and occasional paved roads. Early or late-season conditions can be wet and slippery; longer sections may involve stream crossings or gate stiles. Navigation benefits from a map, compass, or GPS; signs may be sparse in remote stretches.",
+    "safety_notes": "Always check the forecast and daylight hours before starting. Tell someone your route and estimated finish time. Carry a fully charged phone and a portable charger; bring a map and compass or GPS; wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Pack enough water (2–3 litres) and high-energy snacks; consider extra food and a thermal layer for cool evenings. Take regular breaks, start early to avoid late finishing, and be prepared for changes in terrain or weather. In case of emergency, call 999 or 112 for police, fire, or ambulance services; follow local guidance and use navigation aids if you become disoriented.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing in layers (base layer, insulating layer, outer waterproof shell)",
+      "Backpack with 15–25 L capacity",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device (and a backup battery)",
+      "Fully charged phone with portable charger",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit",
+      "Emergency whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Extra socks and a dry bag or waterproof liner for gear",
+      "Light rain shell and warm layers for exposed sections"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) is ideal for drier conditions and longer daylight; the hike can be done year-round with extra caution and appropriate gear for winter conditions.",
+    "seo": {
+      "title": "ACW Circular Walk 19 — 34.4 km Hard Hike in the UK",
+      "meta_description": "Explore ACW Circular Walk 19, a challenging 34.4 km loop in the UK. This guide covers terrain, safety tips, best seasons, and essential gear for this hard-distance hike.",
+      "h1": "ACW Circular Walk 19 — 34.4 km Hard Hike in the UK"
+    }
+  }
+}

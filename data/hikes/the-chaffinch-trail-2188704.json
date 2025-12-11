@@ -1,0 +1,21 @@
+{
+  "id": "osm-2188704",
+  "slug": "the-chaffinch-trail-2188704",
+  "name": "The Chaffinch Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2866619,
+    "lon": -1.3152831
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2188704
+  }
+}

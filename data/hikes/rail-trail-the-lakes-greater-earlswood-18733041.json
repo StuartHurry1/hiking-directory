@@ -1,0 +1,23 @@
+{
+  "id": "osm-18733041",
+  "slug": "rail-trail-the-lakes-greater-earlswood-18733041",
+  "name": "Rail Trail: The Lakes > Earlswood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3590253,
+    "lon": -1.8442268
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18733041
+  }
+}

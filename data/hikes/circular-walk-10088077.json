@@ -1,0 +1,21 @@
+{
+  "id": "osm-10088077",
+  "slug": "circular-walk-10088077",
+  "name": "Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2392072,
+    "lon": 0.7250642
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10088077
+  }
+}

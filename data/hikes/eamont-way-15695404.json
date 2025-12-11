@@ -1,0 +1,21 @@
+{
+  "id": "osm-15695404",
+  "slug": "eamont-way-15695404",
+  "name": "Eamont Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6601,
+    "lon": -2.758661
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15695404
+  }
+}

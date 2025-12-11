@@ -1,0 +1,42 @@
+{
+  "id": "osm-19337181",
+  "slug": "accessible-route-dunwich-heath-19337181",
+  "name": "Accessible Route, Dunwich Heath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2524201,
+    "lon": 1.6267759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19337181
+  },
+  "ai": {
+    "summary": "Accessible Route, Dunwich Heath is a ~6.3 km moderate hike through coastal heathland in the UK. The route offers open views, sea breeze, and a steady pace suitable for walkers seeking a longer but manageable coastal outing.",
+    "terrain_summary": "Predominantly compacted sandy and grassy paths with some exposed ground. Expect a mix of short boardwalk sections and well-trodden trails; sections can be uneven or wind-swept near the heath, with occasional dune edges.",
+    "safety_notes": "Coastal weather can change rapidly. Wear sturdy footwear and bring layers, a waterproof jacket, and sun protection. Stay on marked paths to protect the delicate heath and avoid soft dune areas. Carry water and a charged phone; mobile signal may be limited in remote parts of the heath.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate layers",
+      "Water bottle",
+      "Sun protection (hat, sunscreen)",
+      "Light rain jacket",
+      "Map or offline navigation on your phone",
+      "Snack or energy bar",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn are ideal, when the heath is in bloom and trails are drier; winter visits can be windy and muddy.",
+    "seo": {
+      "title": "Accessible Route, Dunwich Heath – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Accessible Route at Dunwich Heath, a 6.3 km moderate hike through coastal heathland in the UK. Tips on terrain, safety and gear.",
+      "h1": "Accessible Route: Dunwich Heath"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2374546",
+  "slug": "south-west-coast-path-section-18-perranporth-to-portreath-2374546",
+  "name": "South West Coast Path (Section 18: Perranporth to Portreath)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3461365,
+    "lon": -5.1557931
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2374546
+  }
+}

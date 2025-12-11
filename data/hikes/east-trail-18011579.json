@@ -1,0 +1,21 @@
+{
+  "id": "osm-18011579",
+  "slug": "east-trail-18011579",
+  "name": "East Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9636745,
+    "lon": 0.6098122
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18011579
+  }
+}

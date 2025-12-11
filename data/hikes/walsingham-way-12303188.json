@@ -1,0 +1,21 @@
+{
+  "id": "osm-12303188",
+  "slug": "walsingham-way-12303188",
+  "name": "Walsingham Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 125.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6958308,
+    "lon": 1.1641942
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12303188
+  }
+}

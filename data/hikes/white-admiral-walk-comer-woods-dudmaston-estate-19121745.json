@@ -1,0 +1,21 @@
+{
+  "id": "osm-19121745",
+  "slug": "white-admiral-walk-comer-woods-dudmaston-estate-19121745",
+  "name": "White Admiral Walk, Comer Woods, Dudmaston Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.506717,
+    "lon": -2.3818123
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19121745
+  }
+}

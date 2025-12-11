@@ -1,0 +1,23 @@
+{
+  "id": "osm-19697086",
+  "slug": "miss-james-walk-at-hindhead-19697086",
+  "name": "Miss James Walk at Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1102459,
+    "lon": -0.7387104
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19697086
+  }
+}

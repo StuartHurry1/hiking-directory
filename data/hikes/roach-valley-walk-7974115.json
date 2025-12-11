@@ -1,0 +1,21 @@
+{
+  "id": "osm-7974115",
+  "slug": "roach-valley-walk-7974115",
+  "name": "Roach Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 35.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5883941,
+    "lon": 0.7546785
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7974115
+  }
+}

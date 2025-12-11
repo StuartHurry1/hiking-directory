@@ -1,0 +1,21 @@
+{
+  "id": "osm-13287238",
+  "slug": "ministers-path-13287238",
+  "name": "Minister's Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8034608,
+    "lon": -3.0860196
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13287238
+  }
+}

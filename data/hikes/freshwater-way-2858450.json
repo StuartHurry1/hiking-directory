@@ -1,0 +1,21 @@
+{
+  "id": "osm-2858450",
+  "slug": "freshwater-way-2858450",
+  "name": "Freshwater Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6704035,
+    "lon": -1.5118073
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2858450
+  }
+}

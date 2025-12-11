@@ -1,0 +1,21 @@
+{
+  "id": "osm-17359332",
+  "slug": "storth-trail-17359332",
+  "name": "Storth Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2157378,
+    "lon": -2.8090728
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17359332
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12076032",
+  "slug": "ravensbourne-greenway-12076032",
+  "name": "Ravensbourne Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.423008,
+    "lon": -0.0085215
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12076032
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-19803413",
+  "slug": "a-walk-in-elgar-country-the-firs-19803413",
+  "name": "A Walk in Elgar Country, The Firs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1987002,
+    "lon": -2.2827953
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19803413
+  },
+  "ai": {
+    "summary": "A 7.6 km moderate-length hike called 'A Walk in Elgar Country, The Firs' in the UK. The route blends woodland trails with country lanes, offering pleasant scenery and a manageable challenge for hikers with some experience.",
+    "terrain_summary": "Mostly easy to moderate surfaces, including shaded woodland paths, gravel tracks, and short sections of rural paths. Expect some uneven ground, exposed roots, and occasional mud after rain.",
+    "safety_notes": "Check the weather before you go and wear sturdy walking footwear. Stay on marked paths and respect access rights. Be mindful of uneven ground, roots, and mud, especially after rain. Carry a map or GPS, a charged phone, and enough water. Pack a light layer and sun protection as conditions can change; give yourself extra time in rural areas where services are limited.",
+    "recommended_gear": [
+      "Sturdy walking boots or hiking shoes",
+      "Water bottle",
+      "Weather-appropriate layers (waterproof jacket, hat, gloves if needed)",
+      "Small backpack for essentials",
+      "Map or offline navigation app",
+      "Fully charged phone (and power bank if possible)",
+      "Light snack",
+      "Basic first-aid kit",
+      "Sunscreen and sunglasses (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions; winter visits are possible but expect cold, wetter weather and muddier trails.",
+    "seo": {
+      "title": "A Walk in Elgar Country, The Firs – 7.6 km Moderate Hike in the UK",
+      "meta_description": "Explore a 7.6 km moderate hike through The Firs in Elgar Country, UK. This scenic walk combines woodland paths and country lanes, suitable for hikers seeking a moderate challenge.",
+      "h1": "A Walk in Elgar Country, The Firs (7.6 km)"
+    }
+  }
+}

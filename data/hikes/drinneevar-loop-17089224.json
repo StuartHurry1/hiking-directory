@@ -1,0 +1,21 @@
+{
+  "id": "osm-17089224",
+  "slug": "drinneevar-loop-17089224",
+  "name": "Drinneevar Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1916197,
+    "lon": -5.8904544
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17089224
+  }
+}

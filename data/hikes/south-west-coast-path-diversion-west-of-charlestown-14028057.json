@@ -1,0 +1,23 @@
+{
+  "id": "osm-14028057",
+  "slug": "south-west-coast-path-diversion-west-of-charlestown-14028057",
+  "name": "South West Coast Path (Diversion West of Charlestown)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3254018,
+    "lon": -4.7649252
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14028057
+  }
+}

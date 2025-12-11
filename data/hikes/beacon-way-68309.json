@@ -1,0 +1,46 @@
+{
+  "id": "osm-68309",
+  "slug": "beacon-way-68309",
+  "name": "Beacon Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 122.2,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.587334,
+    "lon": -1.9309393
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 68309
+  },
+  "ai": {
+    "summary": "Beacon Way is a demanding long-distance hike in the UK, spanning about 122.2 km with varied terrain and lake scenery. Classified as hard, it suits experienced trekkers seeking a multi-day challenge and rewarding views.",
+    "terrain_summary": "Expect mixed terrain: grassy uplands, rocky or muddy sections, lakefront paths, and occasional gravel tracks. Significant elevation changes and exposed sections can occur, and navigation may be tricky in poor visibility.",
+    "safety_notes": "Plan as a multi-day trek with a conservative timetable. Check weather forecasts, as UK conditions can change rapidly. Carry a map and compass (GPS as backup), inform someone of your route and daily progress, and start early to maximise daylight. Stay hydrated, conserve energy in exposed areas, and follow Leave No Trace principles; be prepared for limited shelter in some stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof shell jacket and warm layers",
+      "Backpack (20–40 L) with rain cover",
+      "Map and compass (GPS as backup)",
+      "Water bottle or hydration system with water purification",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp with spare batteries",
+      "Emergency shelter or bivvy bag",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) provide the best daylight and drier conditions; spring and autumn can be rewarding with careful planning; winter hiking is challenging and recommended only for experienced trekkers.",
+    "seo": {
+      "title": "Beacon Way: 122.2 km Lakes Hike in the UK (Hard)",
+      "meta_description": "Plan your Beacon Way trek: a 122.2 km hard-distance hike through lakes in the UK. Get terrain, safety tips, gear lists, and best seasons for this challenging route.",
+      "h1": "Beacon Way - 122.2 km Lakes Hike (Hard)"
+    }
+  }
+}

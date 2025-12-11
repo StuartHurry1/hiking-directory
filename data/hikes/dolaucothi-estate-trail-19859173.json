@@ -1,0 +1,21 @@
+{
+  "id": "osm-19859173",
+  "slug": "dolaucothi-estate-trail-19859173",
+  "name": "Dolaucothi Estate Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0449113,
+    "lon": -3.9517563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19859173
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "osm-1695404",
+  "slug": "acw-circular-walk-08a-short-cut-for-c08-1695404",
+  "name": "ACW Circular Walk 08A (short-cut for C08)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 29.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3353359,
+    "lon": -1.4400322
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1695404
+  },
+  "ai": {
+    "summary": "A long, hard 29.5 km circular hike using the ACW Circular Walk 08A shortcut for C08. It traverses varied UK terrain and is suitable for experienced hikers seeking a substantial day out.",
+    "terrain_summary": "Expect mixed terrain: open moorland, grassy ridges, woodland paths, and some rocky or uneven sections. Long, exposed stretches may be windy with variable visibility; navigation can be challenging in poorly marked areas.",
+    "safety_notes": "This is a strenuous, long-distance walk with potential exposure and navigation challenges. Plan for a full day, monitor weather, carry sufficient water and food, stay on marked paths, inform someone of your route and timing, wear proper footwear, and be prepared for sudden weather changes. In unknown or poorly marked sections, carry a map and compass and know how to use them; ensure your phone is charged and bring a power bank where coverage exists.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass (or GPS)",
+      "Weather-appropriate layered clothing (including waterproof shell)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "High-energy snacks and sufficient food for a long day",
+      "Emergency whistle",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with portable charger",
+      "Extra warm layer and gloves",
+      "Lightweight rain gear",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring to Autumn (roughly May–September) for the best conditions; winter hiking is possible for experienced hikers with proper gear.",
+    "seo": {
+      "title": "ACW Circular Walk 08A (Short-Cut for C08) – 29.5 km Hard UK Hike",
+      "meta_description": "Discover the challenging ACW Circular Walk 08A, a 29.5 km hard circular route in the UK. Learn about terrain, safety tips, and essential gear.",
+      "h1": "ACW Circular Walk 08A (Short-Cut for C08)"
+    }
+  }
+}

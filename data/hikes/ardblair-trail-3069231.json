@@ -1,0 +1,45 @@
+{
+  "id": "osm-3069231",
+  "slug": "ardblair-trail-3069231",
+  "name": "Ardblair Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5915693,
+    "lon": -3.3462729
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3069231
+  },
+  "ai": {
+    "summary": "Ardblair Trail is a roughly 9.1 km hike in the United Kingdom of moderate difficulty. The route traverses varied terrain through rural paths and woodland, appealing to hikers with some experience.",
+    "terrain_summary": "Expect varied terrain: forest tracks, grassy paths, and several uneven sections. There may be mild ascents and descents, and footing can be slippery when wet.",
+    "safety_notes": "Check weather conditions before you go and carry suitable clothing. Wear sturdy footwear and stay on marked paths. Bring a map and compass or GPS, sufficient water and snacks, and a basic first-aid kit. Be mindful of daylight hours in winter and have a plan for emergencies; tell someone your route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof shell",
+      "Map and compass (or GPS with offline maps)",
+      "Water bottle or hydration system",
+      "Energy snacks",
+      "Small first-aid kit",
+      "Headlamp or flashlight",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Mobile phone with emergency contacts",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer the most favorable conditions, though UK weather can be changeable.",
+    "seo": {
+      "title": "Ardblair Trail: 9.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the Ardblair Trail in the UK. A ~9.1 km moderate hike with varied terrain, practical safety notes, and gear recommendations.",
+      "h1": "Ardblair Trail — 9.1 km Moderate Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "osm-19666600",
+  "slug": "bounding-up-to-belle-tout-at-birling-gap-south-downs-east-19666600",
+  "name": "Bounding Up to Belle Tout at Birling Gap, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7425385,
+    "lon": 0.2023057
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19666600
+  },
+  "ai": {
+    "summary": "A coastal ridge hike of about 8.4 km along the South Downs from Birling Gap to Belle Tout in East Sussex, returning along the same cliff-top route. The moderate path runs over chalk and gravel with exposed sections and sweeping sea views along the coast near the Seven Sisters.",
+    "terrain_summary": "Cliff-top trails on chalk and gravel with uneven surfaces and some stairs. Exposed edges and windy conditions are common; paths can be muddy after rain, and weather can change quickly near the coast.",
+    "safety_notes": "Check the weather and wind conditions before you go; stay well back from cliff edges and follow marked paths; wear sturdy footwear and dress in layers; carry water and snacks; have a map or offline navigation and a charged device; let someone know your plan and allow extra time in case of detours or delays.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers) and a waterproof jacket",
+      "Water (1–2 liters) and snacks",
+      "Map or offline navigation (GPS/phone) and a charged device",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Lightweight backpack with essentials (extra layers, basic first aid)",
+      "Optional: windproof gloves or a warm layer for cold/windy days"
+    ],
+    "best_seasons": "Spring to autumn (April–October) are ideal for mild weather and clear coastal views; winter can be windy, wet, and the cliff paths may be hazardous or closed after storms.",
+    "seo": {
+      "title": "Bounding Up to Belle Tout at Birling Gap — South Downs East, UK (8.4 km, Moderate)",
+      "meta_description": "Embark on an 8.4 km moderate coastal hike from Birling Gap to Belle Tout along the South Downs in East Sussex, UK. Cliff-top trails, sea views, and rugged chalk paths.",
+      "h1": "Bounding Up to Belle Tout at Birling Gap, South Downs East"
+    }
+  }
+}

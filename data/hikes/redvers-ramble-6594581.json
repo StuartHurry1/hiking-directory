@@ -1,0 +1,21 @@
+{
+  "id": "osm-6594581",
+  "slug": "redvers-ramble-6594581",
+  "name": "Redvers Ramble",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7822409,
+    "lon": -3.6481342
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6594581
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480062",
+  "slug": "jarlshoff-to-sumburgh-head-11480062",
+  "name": "Jarlshoff to Sumburgh Head",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.8579458,
+    "lon": -1.2719889
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480062
+  }
+}

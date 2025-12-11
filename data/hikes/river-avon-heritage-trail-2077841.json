@@ -1,0 +1,21 @@
+{
+  "id": "osm-2077841",
+  "slug": "river-avon-heritage-trail-2077841",
+  "name": "River Avon Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 26.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9747885,
+    "lon": -3.630974
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2077841
+  }
+}

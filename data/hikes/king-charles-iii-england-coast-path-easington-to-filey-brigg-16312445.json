@@ -1,0 +1,23 @@
+{
+  "id": "osm-16312445",
+  "slug": "king-charles-iii-england-coast-path-easington-to-filey-brigg-16312445",
+  "name": "King Charles III England Coast Path: Easington to Filey Brigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 151.9,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.215496,
+    "lon": -0.2807261
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16312445
+  }
+}

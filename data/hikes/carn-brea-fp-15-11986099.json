@@ -1,0 +1,21 @@
+{
+  "id": "osm-11986099",
+  "slug": "carn-brea-fp-15-11986099",
+  "name": "Carn Brea FP 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2197738,
+    "lon": -5.2609482
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11986099
+  }
+}

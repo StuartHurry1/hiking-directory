@@ -1,0 +1,46 @@
+{
+  "id": "osm-1703772",
+  "slug": "acw-circular-walk-13c-an-even-shorter-4-mile-total-short-cut-route-than-route-a-devised-for-use-on-the-wwf-1-jun-2006-event-1703772",
+  "name": "ACW Circular Walk 13C (an even shorter [4 mile total] short-cut route than route A, devised for use on the WWF 1-Jun-2006 event)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4527331,
+    "lon": -1.3795651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1703772
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 13C is a hard circular hike in the UK. A shorter 4-mile variant exists as an even shorter cut of route A, devised for the WWF event on 1-Jun-2006. The route is listed here at 15.6 km (about 9.7 miles) with regional details not specified; participants should be prepared for a longer workout or use the shorter variant as appropriate.",
+    "terrain_summary": "The walk traverses varied UK countryside on rural lanes, footpaths, and field edges. Expect uneven ground, potential mud, intermittent ascents and descents, and occasional stiles. Terrain and drainage will depend on season and weather; plan for navigation across open country and private waymarks where permitted.",
+    "safety_notes": "Plan for a long, hard hike: check the weather, wear sturdy boots with ankle support, and bring navigation tools. Stay on marked paths where possible, respect private land, and keep dogs under control. Carry sufficient water and snacks, dress in layers with a waterproof outer layer, and have a map or GPS. Let someone know your route and estimated return time; carry a basic first aid kit and a whistle. If attempting the shorter 4-mile variant, ensure you follow the official cut and any permissions required for private land.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and waterproof jacket",
+      "Layered clothing for temperature changes",
+      "Map, compass or GPS device",
+      "Fully charged mobile phone",
+      "Lightweight headlamp or flashlight",
+      "Basic first aid kit",
+      "Emergency whistle",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Backpack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (with caution and appropriate gear in winter).",
+    "seo": {
+      "title": "ACW Circular Walk 13C – 4-mile short-cut variant in the UK",
+      "meta_description": "Explore ACW Circular Walk 13C, a hard circular hike in the UK featuring a 4-mile shortcut variant used for a WWF event on 1 June 2006. Includes terrain, safety tips, gear, and best seasons.",
+      "h1": "ACW Circular Walk 13C (4-mile short-cut variant)"
+    }
+  }
+}

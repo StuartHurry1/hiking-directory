@@ -1,0 +1,21 @@
+{
+  "id": "osm-11497967",
+  "slug": "kjurkhul-track-11497967",
+  "name": "Kjurkhul Track",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.0998585,
+    "lon": -1.2364027
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11497967
+  }
+}

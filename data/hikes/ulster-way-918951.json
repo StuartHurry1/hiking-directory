@@ -1,0 +1,21 @@
+{
+  "id": "osm-918951",
+  "slug": "ulster-way-918951",
+  "name": "Ulster Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1957.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4785655,
+    "lon": -8.0944501
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 918951
+  }
+}

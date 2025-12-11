@@ -1,0 +1,21 @@
+{
+  "id": "osm-11542956",
+  "slug": "repton-route-and-rhododendrons-sheringham-park-11542956",
+  "name": "Repton Route and Rhododendrons, Sheringham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9247645,
+    "lon": 1.1800808
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11542956
+  }
+}

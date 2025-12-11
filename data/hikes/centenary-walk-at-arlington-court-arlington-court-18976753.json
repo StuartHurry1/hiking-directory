@@ -1,0 +1,21 @@
+{
+  "id": "osm-18976753",
+  "slug": "centenary-walk-at-arlington-court-arlington-court-18976753",
+  "name": "Centenary walk at Arlington Court, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1432215,
+    "lon": -3.9947347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976753
+  }
+}

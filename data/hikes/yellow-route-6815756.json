@@ -1,0 +1,21 @@
+{
+  "id": "osm-6815756",
+  "slug": "yellow-route-6815756",
+  "name": "Yellow Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3809283,
+    "lon": -1.2803942
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6815756
+  }
+}

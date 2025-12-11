@@ -1,0 +1,23 @@
+{
+  "id": "osm-19346953",
+  "slug": "lizard-peninsula-rare-flora-and-fauna-walk-lizard-point-19346953",
+  "name": "Lizard peninsula rare flora and fauna walk, Lizard Point",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.3,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.0003834,
+    "lon": -5.2541003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19346953
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "osm-14594955",
+  "slug": "anavig-trail-14594955",
+  "name": "Anavig Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2716706,
+    "lon": -5.7444581
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14594955
+  },
+  "ai": {
+    "summary": "Anavig Trail is a gentle 3.5 km hike in the UK suitable for beginners and families. The route follows a well-marked path with light elevation, offering a relaxed pace and scenic countryside views.",
+    "terrain_summary": "Predominantly flat to gently rolling terrain with a well-defined footpath. Expect gravel sections, compact earth, and occasional grassy verges. Some parts may be muddy after rain; proper footwear is advised, and wind exposure can be noticeable in open sections.",
+    "safety_notes": "Stay on marked trails and heed signs. Check the weather and dress in layers; a waterproof jacket is recommended. Wear sturdy, non-slip footwear and bring enough water and a light snack. Be mindful of uneven ground, roots, and potential mud. Keep children and pets in sight. If hiking alone, inform someone of your plan and estimated return time. In an emergency dial 999 or 112; carry a charged mobile phone and know the local signal constraints.",
+    "recommended_gear": [
+      "Water and snacks",
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing (layers) and a waterproof jacket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Reusable water bottle",
+      "Small first aid kit",
+      "Map, guidebook, or GPS-enabled device",
+      "Headlamp or flashlight (for late departures or low light)"
+    ],
+    "best_seasons": "All year, with the best conditions in late spring through early autumn when trails are drier and daylight is longer.",
+    "seo": {
+      "title": "Anavig Trail — Easy 3.5 km hike in the UK",
+      "meta_description": "Discover Anavig Trail, a gentle 3.5 km hike in the UK suitable for beginners. Learn about terrain, safety tips, gear and the best season to walk.",
+      "h1": "Anavig Trail: Easy 3.5 km Hike in the UK"
+    }
+  }
+}

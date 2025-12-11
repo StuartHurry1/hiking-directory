@@ -1,0 +1,21 @@
+{
+  "id": "osm-17567064",
+  "slug": "viewpoint-trail-17567064",
+  "name": "Viewpoint Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.015283,
+    "lon": -6.1069929
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17567064
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-6007729",
+  "slug": "tolkien-trail-great-haywood-walk-6007729",
+  "name": "Tolkien Trail Great Haywood Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8008725,
+    "lon": -2.0074557
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6007729
+  }
+}

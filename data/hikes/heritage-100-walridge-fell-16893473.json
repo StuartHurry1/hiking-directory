@@ -1,0 +1,23 @@
+{
+  "id": "osm-16893473",
+  "slug": "heritage-100-walridge-fell-16893473",
+  "name": "Heritage 100 - Walridge Fell",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8426711,
+    "lon": -1.6095494
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16893473
+  }
+}

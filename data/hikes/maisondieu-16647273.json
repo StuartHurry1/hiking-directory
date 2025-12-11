@@ -1,0 +1,21 @@
+{
+  "id": "osm-16647273",
+  "slug": "maisondieu-16647273",
+  "name": "Maisondieu",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.737225,
+    "lon": -2.6790341
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16647273
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7892620",
+  "slug": "valley-walk-red-route-sutton-hoo-7892620",
+  "name": "Valley Walk (Red Route), Sutton Hoo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0937571,
+    "lon": 1.3353955
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7892620
+  }
+}

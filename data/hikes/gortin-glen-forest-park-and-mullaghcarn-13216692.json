@@ -1,0 +1,21 @@
+{
+  "id": "osm-13216692",
+  "slug": "gortin-glen-forest-park-and-mullaghcarn-13216692",
+  "name": "Gortin Glen Forest Park and Mullaghcarn",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6929904,
+    "lon": -7.2346822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216692
+  }
+}

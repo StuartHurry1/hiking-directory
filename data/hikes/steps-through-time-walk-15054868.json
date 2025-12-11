@@ -1,0 +1,21 @@
+{
+  "id": "osm-15054868",
+  "slug": "steps-through-time-walk-15054868",
+  "name": "Steps Through Time Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3066586,
+    "lon": -1.0914453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15054868
+  }
+}

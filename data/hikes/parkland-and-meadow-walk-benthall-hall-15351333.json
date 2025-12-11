@@ -1,0 +1,21 @@
+{
+  "id": "osm-15351333",
+  "slug": "parkland-and-meadow-walk-benthall-hall-15351333",
+  "name": "Parkland and Meadow Walk, Benthall Hall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6193125,
+    "lon": -2.5076396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15351333
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15552433",
+  "slug": "purple-walk-15552433",
+  "name": "Purple Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8016873,
+    "lon": -1.458354
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15552433
+  }
+}

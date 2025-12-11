@@ -1,0 +1,21 @@
+{
+  "id": "osm-15020034",
+  "slug": "oakwood-loop-15020034",
+  "name": "Oakwood Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5256187,
+    "lon": -3.3943964
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15020034
+  }
+}

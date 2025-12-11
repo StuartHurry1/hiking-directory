@@ -1,0 +1,21 @@
+{
+  "id": "osm-2964582",
+  "slug": "castle-ward-farm-trail-2964582",
+  "name": "Castle Ward - Farm Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3783122,
+    "lon": -5.5756254
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2964582
+  }
+}

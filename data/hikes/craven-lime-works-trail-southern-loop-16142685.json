@@ -1,0 +1,21 @@
+{
+  "id": "osm-16142685",
+  "slug": "craven-lime-works-trail-southern-loop-16142685",
+  "name": "Craven Lime Works Trail (Southern Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0916282,
+    "lon": -2.2701672
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16142685
+  }
+}

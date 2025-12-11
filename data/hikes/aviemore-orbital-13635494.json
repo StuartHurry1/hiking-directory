@@ -1,0 +1,47 @@
+{
+  "id": "osm-13635494",
+  "slug": "aviemore-orbital-13635494",
+  "name": "Aviemore Orbital",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.184396,
+    "lon": -3.832103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13635494
+  },
+  "ai": {
+    "summary": "Aviemore Orbital is a 15.3 km hard circular hike in the UK that tests fitness with sustained climbs and varied terrain. Expect long distances, elevation changes, and sections requiring careful footing; navigation is helpful where markers are sparse.",
+    "terrain_summary": "The route mixes rough forest tracks, exposed moorland paths, rocky ascents, and muddy sections. Expect uneven ground, loose scree, and steep gradients at several points. Navigation can be challenging in poor weather; some stretches may be muddy or waterlogged after rain, so stout boots and preparedness for changing conditions are essential.",
+    "safety_notes": "Check the weather forecast and be prepared for sudden changes typical of UK hills. Start early to maximize daylight. Carry a map and compass (or GPS) and know how to use them; do not rely on a phone alone. Tell someone your plan and expected return. Bring enough food and water, plus extra layers and waterproofs. Wear sturdy boots and consider trekking poles. Pace yourself to avoid fatigue. In remote sections, stay on established paths to protect habitat and reduce navigation risks; carry a small emergency shelter or space blanket.",
+    "recommended_gear": [
+      "Sturdy, worn-in hiking boots with good ankle support and grip",
+      "Breathable base layers plus a warm mid-layer and a waterproof/windproof outer shell",
+      "Backpack with space for extra layers, water, and food",
+      "Map and compass (or GPS device) and knowledge of how to use them",
+      "Fully charged phone with offline maps as a backup (not sole navigation aid)",
+      "Headlamp or flashlight with spare batteries",
+      "Water container (at least 2 liters) and high-energy snacks",
+      "First aid kit with blister care and emergency items",
+      "Emergency shelter or space blanket and a compact rain shell for the kit",
+      "Weather protection: waterproof trousers, hat, and gloves as needed",
+      "Trekking poles (optional but helpful on rough or steep sections)",
+      "Sunscreen and sunglasses",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) generally offer the best conditions with longer daylight and milder weather. Winter and shoulder seasons can be navigable but require alpine-level gear and gear-specific planning.",
+    "seo": {
+      "title": "Aviemore Orbital – 15.3 km Hard Hike in the UK",
+      "meta_description": "Tackle the Aviemore Orbital, a 15.3 km hard circular hike in the UK. Explore terrain, safety tips, gear recommendations, and the best season to attempt this challenging route.",
+      "h1": "Aviemore Orbital – 15.3 km Hard Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18976953",
+  "slug": "winford-valley-walk-at-arlington-court-arlington-court-18976953",
+  "name": "Winford Valley walk at Arlington Court, Arlington Court",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1476396,
+    "lon": -3.9872323
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18976953
+  }
+}

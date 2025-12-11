@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505559",
+  "slug": "equestrian-route-seafield-11505559",
+  "name": "Equestrian route Seafield",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.140712,
+    "lon": -1.1633714
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505559
+  }
+}

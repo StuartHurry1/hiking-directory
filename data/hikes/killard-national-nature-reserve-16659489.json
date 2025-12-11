@@ -1,0 +1,21 @@
+{
+  "id": "osm-16659489",
+  "slug": "killard-national-nature-reserve-16659489",
+  "name": "Killard National Nature Reserve",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.320044,
+    "lon": -5.5429325
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16659489
+  }
+}

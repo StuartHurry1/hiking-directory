@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507592",
+  "slug": "littlester-loch-11507592",
+  "name": "Littlester Loch",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4947544,
+    "lon": -1.057127
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507592
+  }
+}

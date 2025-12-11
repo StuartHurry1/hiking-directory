@@ -1,0 +1,42 @@
+{
+  "id": "osm-11480254",
+  "slug": "burn-of-setter-11480254",
+  "name": "Burn of Setter",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9991018,
+    "lon": -1.2531127
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480254
+  },
+  "ai": {
+    "summary": "Burn of Setter is a very short, easy walk in the UK, covering about 0.5 km. The route is suitable for families and casual walkers seeking a quick outdoor stroll with light scenery and a gently undulating profile.",
+    "terrain_summary": "The trail uses grassy footpaths with occasional gravel or compacted earth. Expect possible mud in wet weather and small stone sections; overall straightforward and easy underfoot.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear with good grip and bring a lightweight layer or waterproof. Stay on the official path, monitor footing for mud, and carry a charged phone. If in remote areas, let someone know your plans. Keep dogs under control and be mindful of livestock on agricultural land where applicable.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered, with a waterproof shell)",
+      "Map or offline navigation (or a charged smartphone)",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Snacks or energy bars",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "All year, with spring and autumn offering mild weather and pleasant scenery; summer suitable for longer daylight hours; winter walks possible but may be muddy or icy.",
+    "seo": {
+      "title": "Burn of Setter: A Short Easy 0.5 km Hike in the UK",
+      "meta_description": "Discover Burn of Setter, a quick 0.5 km easy hike in the UK. Perfect for families and casual walkers seeking a brief outdoor stroll with light scenery.",
+      "h1": "Burn of Setter – Short Easy Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16172997",
+  "slug": "tro-a-choille-mhoir-through-the-big-wood-16172997",
+  "name": "Tro a' Choille Mhòir / Through the Big Wood",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.354011,
+    "lon": -6.0686563
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16172997
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19525655",
+  "slug": "hill-and-vale-walk-at-frog-firle-farm-south-downs-east-19525655",
+  "name": "Hill and Vale Walk at Frog Firle Farm, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7900827,
+    "lon": 0.139657
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19525655
+  }
+}

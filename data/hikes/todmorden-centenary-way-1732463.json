@@ -1,0 +1,21 @@
+{
+  "id": "osm-1732463",
+  "slug": "todmorden-centenary-way-1732463",
+  "name": "Todmorden Centenary Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 58.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.7301355,
+    "lon": -2.0492023
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1732463
+  }
+}

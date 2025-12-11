@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129585",
+  "slug": "colby-estate-forest-and-field-walk-colby-19129585",
+  "name": "Colby Estate Forest and Field Walk, Colby",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7417833,
+    "lon": -4.6669585
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129585
+  }
+}

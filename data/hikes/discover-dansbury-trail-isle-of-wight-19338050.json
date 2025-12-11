@@ -1,0 +1,23 @@
+{
+  "id": "osm-19338050",
+  "slug": "discover-dansbury-trail-isle-of-wight-19338050",
+  "name": "Discover Dansbury trail, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6509315,
+    "lon": -1.455614
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19338050
+  }
+}

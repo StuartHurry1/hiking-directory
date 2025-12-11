@@ -1,0 +1,21 @@
+{
+  "id": "osm-4096160",
+  "slug": "pennine-way-horton-in-ribblesdale-to-hawes-4096160",
+  "name": "Pennine Way (Horton in Ribblesdale to Hawes)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 45.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.303924,
+    "lon": -2.1975867
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4096160
+  }
+}

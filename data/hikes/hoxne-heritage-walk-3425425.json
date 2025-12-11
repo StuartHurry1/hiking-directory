@@ -1,0 +1,21 @@
+{
+  "id": "osm-3425425",
+  "slug": "hoxne-heritage-walk-3425425",
+  "name": "Hoxne Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.346413,
+    "lon": 1.202304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3425425
+  }
+}

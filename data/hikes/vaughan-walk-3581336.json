@@ -1,0 +1,21 @@
+{
+  "id": "osm-3581336",
+  "slug": "vaughan-walk-3581336",
+  "name": "Vaughan Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8874007,
+    "lon": -3.2995003
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3581336
+  }
+}

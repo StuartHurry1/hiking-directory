@@ -1,0 +1,21 @@
+{
+  "id": "osm-13945179",
+  "slug": "ure-walks-through-time-13945179",
+  "name": "Ure Walks Through Time",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0805743,
+    "lon": -1.3351245
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13945179
+  }
+}

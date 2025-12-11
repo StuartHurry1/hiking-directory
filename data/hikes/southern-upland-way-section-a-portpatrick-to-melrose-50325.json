@@ -1,0 +1,21 @@
+{
+  "id": "osm-50325",
+  "slug": "southern-upland-way-section-a-portpatrick-to-melrose-50325",
+  "name": "Southern Upland Way (Section A - Portpatrick to Melrose)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 402.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8427909,
+    "lon": -5.1207237
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 50325
+  }
+}

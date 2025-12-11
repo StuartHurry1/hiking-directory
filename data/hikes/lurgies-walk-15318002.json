@@ -1,0 +1,21 @@
+{
+  "id": "osm-15318002",
+  "slug": "lurgies-walk-15318002",
+  "name": "Lurgies Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7045582,
+    "lon": -2.5324622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15318002
+  }
+}

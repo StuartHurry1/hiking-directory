@@ -1,0 +1,21 @@
+{
+  "id": "osm-14375436",
+  "slug": "capital-ring-section-01-alternative-route-14375436",
+  "name": "Capital Ring (Section 01 alternative route)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4911168,
+    "lon": 0.0409334
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14375436
+  }
+}

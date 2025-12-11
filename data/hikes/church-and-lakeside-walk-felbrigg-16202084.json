@@ -1,0 +1,23 @@
+{
+  "id": "osm-16202084",
+  "slug": "church-and-lakeside-walk-felbrigg-16202084",
+  "name": "Church and Lakeside Walk, Felbrigg",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.9,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9016397,
+    "lon": 1.2576171
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16202084
+  }
+}

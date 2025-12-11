@@ -1,0 +1,21 @@
+{
+  "id": "osm-19009028",
+  "slug": "lydford-gorge-railway-path-lydford-gorge-19009028",
+  "name": "Lydford Gorge Railway Path, Lydford Gorge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6318163,
+    "lon": -4.1263147
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19009028
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "osm-13971745",
+  "slug": "brenig-way-13971745",
+  "name": "Brenig Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 59.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0761116,
+    "lon": -3.5439545
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13971745
+  },
+  "ai": {
+    "summary": "Brenig Way is a demanding long-distance hike in the UK, covering 59.3 km. The route weaves through varied terrain and exposes hikers to sustained effort, navigation challenges, and weather variability, making it best suited for experienced trekkers who can complete a multi-day trek or a strenuous single-day push.",
+    "terrain_summary": "Expect a mix of rough tracks, forest paths, exposed upland sections, and occasional road stints. The terrain can be muddy after rain, with uneven surfaces, rocky steps, and potential boggy moorland. Significant elevation changes occur in parts, with long ascents and descents.",
+    "safety_notes": "Plan for a multi-day trek or a long, strenuous day. Check weather forecasts and daylight hours before you go. Carry map and compass (or a reliable GPS) and know how to navigate. Stay on marked paths, and be prepared for sudden weather changes and reduced visibility. Bring enough food and water, wear sturdy boots and layered clothing, and have a plan for emergency shelter. Tell someone your route and expected finish time, and carry a charged mobile phone as a backup. In remote sections expect limited signals; consider a satellite messenger for emergencies. Manage fatigue and blisters; adjust pace to conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and trousers",
+      "Breathable base layers and mid-layer",
+      "Backpack with a waterproof cover",
+      "Water and high-energy food (at least 2–3 liters and snacks)",
+      "Map and compass; or GPS device; fully charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit (blister care, plasters, antiseptic)",
+      "Emergency layer or bivvy/sleeping bag for cold nights",
+      "Hat, gloves (seasonal)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer longer daylight and more favorable conditions, though weather remains changeable. Winter hiking is possible but requires extra care, shorter daylight, and stronger gear.",
+    "seo": {
+      "title": "Brenig Way: 59.3 km Hard Hike in the UK",
+      "meta_description": "Explore Brenig Way, a challenging 59.3 km hike in the UK. Get terrain overview, safety tips, gear list, and best seasons for this demanding trek.",
+      "h1": "Brenig Way – 59.3 km Hard Hike in the UK"
+    }
+  }
+}

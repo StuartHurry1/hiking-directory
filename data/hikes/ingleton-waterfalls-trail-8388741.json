@@ -1,0 +1,23 @@
+{
+  "id": "osm-8388741",
+  "slug": "ingleton-waterfalls-trail-8388741",
+  "name": "Ingleton Waterfalls Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [
+    "waterfalls"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1686635,
+    "lon": -2.4526496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8388741
+  }
+}

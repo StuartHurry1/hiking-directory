@@ -1,0 +1,21 @@
+{
+  "id": "osm-10067777",
+  "slug": "colchester-orbital-east-b-10067777",
+  "name": "Colchester Orbital East B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9049693,
+    "lon": 0.9502919
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10067777
+  }
+}

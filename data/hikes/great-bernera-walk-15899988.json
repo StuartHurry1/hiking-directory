@@ -1,0 +1,21 @@
+{
+  "id": "osm-15899988",
+  "slug": "great-bernera-walk-15899988",
+  "name": "Great Bernera Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.2346796,
+    "lon": -6.8712078
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15899988
+  }
+}

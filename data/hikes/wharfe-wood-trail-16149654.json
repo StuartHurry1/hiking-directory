@@ -1,0 +1,21 @@
+{
+  "id": "osm-16149654",
+  "slug": "wharfe-wood-trail-16149654",
+  "name": "Wharfe Wood trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1132562,
+    "lon": -2.331595
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16149654
+  }
+}

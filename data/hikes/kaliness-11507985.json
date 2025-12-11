@@ -1,0 +1,21 @@
+{
+  "id": "osm-11507985",
+  "slug": "kaliness-11507985",
+  "name": "Kaliness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2302076,
+    "lon": -1.3041576
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507985
+  }
+}

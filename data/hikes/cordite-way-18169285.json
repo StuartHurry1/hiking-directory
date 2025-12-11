@@ -1,0 +1,21 @@
+{
+  "id": "osm-18169285",
+  "slug": "cordite-way-18169285",
+  "name": "Cordite Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7170222,
+    "lon": -2.0655265
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18169285
+  }
+}

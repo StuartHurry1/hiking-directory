@@ -1,0 +1,21 @@
+{
+  "id": "osm-11542840",
+  "slug": "sheringham-circular-11542840",
+  "name": "Sheringham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 18.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9456431,
+    "lon": 1.2067285
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11542840
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-1753531",
+  "slug": "linacre-and-cordwell-valleys-circular-walk-1753531",
+  "name": "Linacre and Cordwell Valleys Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2517691,
+    "lon": -1.5036298
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1753531
+  }
+}

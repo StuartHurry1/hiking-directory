@@ -1,0 +1,21 @@
+{
+  "id": "osm-19772650",
+  "slug": "west-highland-way-drymen-to-rowardennan-19772650",
+  "name": "West Highland Way (Drymen to Rowardennan)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0682076,
+    "lon": -4.4399786
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19772650
+  }
+}

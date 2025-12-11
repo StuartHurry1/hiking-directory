@@ -1,0 +1,21 @@
+{
+  "id": "osm-10306701",
+  "slug": "cape-wrath-trail-bealach-ban-loch-coulin-10306701",
+  "name": "Cape Wrath Trail (Bealach Ban-Loch Coulin)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.5160683,
+    "lon": -5.4229089
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10306701
+  }
+}

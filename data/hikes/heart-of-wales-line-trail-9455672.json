@@ -1,0 +1,21 @@
+{
+  "id": "osm-9455672",
+  "slug": "heart-of-wales-line-trail-9455672",
+  "name": "Heart of Wales Line Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 969.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4372893,
+    "lon": -2.8341643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9455672
+  }
+}

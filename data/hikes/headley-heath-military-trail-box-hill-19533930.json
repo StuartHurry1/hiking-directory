@@ -1,0 +1,21 @@
+{
+  "id": "osm-19533930",
+  "slug": "headley-heath-military-trail-box-hill-19533930",
+  "name": "Headley Heath Military Trail, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2710781,
+    "lon": -0.2743846
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19533930
+  }
+}

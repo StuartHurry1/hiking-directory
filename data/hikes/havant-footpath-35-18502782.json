@@ -1,0 +1,21 @@
+{
+  "id": "osm-18502782",
+  "slug": "havant-footpath-35-18502782",
+  "name": "Havant Footpath 35",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8517455,
+    "lon": -0.9976396
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18502782
+  }
+}

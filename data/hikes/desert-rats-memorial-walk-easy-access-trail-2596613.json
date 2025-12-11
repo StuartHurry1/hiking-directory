@@ -1,0 +1,21 @@
+{
+  "id": "osm-2596613",
+  "slug": "desert-rats-memorial-walk-easy-access-trail-2596613",
+  "name": "Desert Rats Memorial Walk Easy Access Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5379378,
+    "lon": 0.6714487
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2596613
+  }
+}

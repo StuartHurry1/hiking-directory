@@ -1,0 +1,21 @@
+{
+  "id": "osm-2670",
+  "slug": "fynn-valley-walk-2670",
+  "name": "Fynn Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 38.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0802528,
+    "lon": 1.1648741
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2670
+  }
+}

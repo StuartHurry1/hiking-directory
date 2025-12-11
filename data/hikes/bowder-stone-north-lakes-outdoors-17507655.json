@@ -1,0 +1,44 @@
+{
+  "id": "osm-17507655",
+  "slug": "bowder-stone-north-lakes-outdoors-17507655",
+  "name": "Bowder Stone, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5410961,
+    "lon": -3.1558273
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17507655
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km hike near Bowder Stone in the UK, offering lakeside views and the prominent rock feature. Suitable for beginners, families, and casual walkers seeking a quick outdoor outing in a lakeside setting.",
+    "terrain_summary": "A short, well-marked path with mostly flat or gently undulating terrain. Expect some loose stones and a few rocky steps near the Bowder Stone, with occasional damp or muddy sections after rain. The lakeside backdrop adds to the scenery.",
+    "safety_notes": "Weather in the UK can change quickly; wear appropriate footwear and layer clothing. Stay on marked trails, supervise children, and yield to other walkers around the rock formation. Bring water, a small first aid kit, and a map or GPS device. Be cautious on wet or slippery surfaces and avoid busy times if you prefer a quieter walk.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Layered clothing",
+      "Water and snacks",
+      "Map or offline map on phone with GPS",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Hat for sun or cold as needed"
+    ],
+    "best_seasons": "Spring to autumn are ideal for stable weather and clearer views; winter walks are possible with extra care for ice and wind.",
+    "seo": {
+      "title": "Bowder Stone Hike in the UK | Easy 1.7 km Lakes Walk",
+      "meta_description": "Discover the Bowder Stone hike in the UK: an easy 1.7 km lakeside walk featuring gentle terrain, scenic lake views, and practical safety tips.",
+      "h1": "Bowder Stone: Easy 1.7 km Lakes Walk in the UK"
+    }
+  }
+}

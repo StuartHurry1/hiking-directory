@@ -1,0 +1,21 @@
+{
+  "id": "osm-18051803",
+  "slug": "crazy-trail-18051803",
+  "name": "Crazy Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3816179,
+    "lon": -5.6772236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18051803
+  }
+}

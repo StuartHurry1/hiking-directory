@@ -1,0 +1,23 @@
+{
+  "id": "osm-19066107",
+  "slug": "clumber-park-lakeside-walk-clumber-park-19066107",
+  "name": "Clumber Park Lakeside Walk, Clumber Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.5,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2645064,
+    "lon": -1.0648426
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19066107
+  }
+}

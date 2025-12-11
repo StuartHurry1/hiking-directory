@@ -1,0 +1,21 @@
+{
+  "id": "osm-12629670",
+  "slug": "john-ogroats-trail-alness-to-tain-12629670",
+  "name": "John O'Groats Trail (Alness to Tain)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6963256,
+    "lon": -4.2587656
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12629670
+  }
+}

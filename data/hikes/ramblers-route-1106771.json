@@ -1,0 +1,21 @@
+{
+  "id": "osm-1106771",
+  "slug": "ramblers-route-1106771",
+  "name": "Ramblers Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 173.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3849694,
+    "lon": -0.8070454
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1106771
+  }
+}

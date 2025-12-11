@@ -1,0 +1,21 @@
+{
+  "id": "osm-19410465",
+  "slug": "coombe-hill-woodland-walk-central-chilterns-19410465",
+  "name": "Coombe Hill Woodland Walk, Central Chilterns",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7481508,
+    "lon": -0.7677353
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19410465
+  }
+}

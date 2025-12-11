@@ -1,0 +1,21 @@
+{
+  "id": "osm-172677",
+  "slug": "jubilee-walk-172677",
+  "name": "Jubilee Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7841359,
+    "lon": -1.5821212
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 172677
+  }
+}

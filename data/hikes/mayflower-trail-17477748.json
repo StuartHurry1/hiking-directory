@@ -1,0 +1,21 @@
+{
+  "id": "osm-17477748",
+  "slug": "mayflower-trail-17477748",
+  "name": "Mayflower Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3694295,
+    "lon": -4.1398012
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17477748
+  }
+}

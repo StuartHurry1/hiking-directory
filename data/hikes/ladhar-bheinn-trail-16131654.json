@@ -1,0 +1,21 @@
+{
+  "id": "osm-16131654",
+  "slug": "ladhar-bheinn-trail-16131654",
+  "name": "Ladhar Bheinn Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0659777,
+    "lon": -5.5599391
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16131654
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19426376",
+  "slug": "farm-and-forest-walk-19426376",
+  "name": "Farm and Forest Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7748188,
+    "lon": -3.8435742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19426376
+  }
+}

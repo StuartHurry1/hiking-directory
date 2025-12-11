@@ -1,0 +1,43 @@
+{
+  "id": "osm-17403348",
+  "slug": "bentham-heritage-trail-b-17403348",
+  "name": "Bentham Heritage Trail B",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1144471,
+    "lon": -2.5092589
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17403348
+  },
+  "ai": {
+    "summary": "Bentham Heritage Trail B is an 11.1-kilometer moderate hike in the United Kingdom. This route combines rural scenery with historic sites and village character, making it suitable for walkers who enjoy cultural landscapes and steady pacing.",
+    "terrain_summary": "The trail follows a mix of rural lanes, field paths, and short sections of minor roads. Expect uneven surfaces, grassy verges, and potential mud in wet weather; some gentle elevation changes may test pace.",
+    "safety_notes": "Check weather forecasts before you go—UK weather can change rapidly. Wear sturdy, waterproof hiking boots and bring a rain jacket. Carry enough water, snacks, a map or GPS, and a fully charged phone. Tell someone your plan and be prepared for farm animals or quiet road sections. Stay on public rights of way and respect local property.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Water and high-energy snacks",
+      "Map or GPS device",
+      "Phone with offline maps",
+      "Hat and sunscreen for sun exposure",
+      "Lightweight backpack",
+      "First-aid kit (including blister care)",
+      "Headlamp or flashlight (for shorter days or delays)"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions for this moderate trail, with milder weather and clearer scenery; the hike can be done year-round with extra precautions for winter conditions.",
+    "seo": {
+      "title": "Bentham Heritage Trail B – 11.1 km Moderate Hike in the United Kingdom",
+      "meta_description": "Explore Bentham Heritage Trail B, an 11.1 km moderate hike in the United Kingdom. Enjoy countryside, historic sites, and village charm with practical hiking tips and gear recommendations.",
+      "h1": "Bentham Heritage Trail B – 11.1 km Moderate Hike"
+    }
+  }
+}

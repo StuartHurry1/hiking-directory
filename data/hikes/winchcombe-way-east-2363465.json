@@ -1,0 +1,21 @@
+{
+  "id": "osm-2363465",
+  "slug": "winchcombe-way-east-2363465",
+  "name": "Winchcombe Way (East)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 60.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.952507,
+    "lon": -1.9666838
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2363465
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19894311",
+  "slug": "leith-hill-rhododendron-wood-walk-leith-hill-19894311",
+  "name": "Leith Hill Rhododendron Wood Walk, Leith Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1733451,
+    "lon": -0.3831328
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19894311
+  }
+}

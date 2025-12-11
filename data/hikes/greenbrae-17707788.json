@@ -1,0 +1,21 @@
+{
+  "id": "osm-17707788",
+  "slug": "greenbrae-17707788",
+  "name": "Greenbrae",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.8318081,
+    "lon": -7.4695524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17707788
+  }
+}

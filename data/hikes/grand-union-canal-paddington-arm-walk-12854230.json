@@ -1,0 +1,21 @@
+{
+  "id": "osm-12854230",
+  "slug": "grand-union-canal-paddington-arm-walk-12854230",
+  "name": "Grand Union Canal (Paddington Arm) Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 34.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4998084,
+    "lon": -0.4064071
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12854230
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-2177151",
+  "slug": "settle-loop-2177151",
+  "name": "Settle Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 36.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0630269,
+    "lon": -2.2526875
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2177151
+  }
+}

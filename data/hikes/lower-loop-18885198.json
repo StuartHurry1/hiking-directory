@@ -1,0 +1,21 @@
+{
+  "id": "osm-18885198",
+  "slug": "lower-loop-18885198",
+  "name": "Lower loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1596389,
+    "lon": -3.9119224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18885198
+  }
+}

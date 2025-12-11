@@ -1,0 +1,46 @@
+{
+  "id": "osm-16127475",
+  "slug": "ben-nevis-trail-16127475",
+  "name": "Ben Nevis Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.799987,
+    "lon": -5.0672501
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16127475
+  },
+  "ai": {
+    "summary": "Ben Nevis Trail is a demanding long-distance hike in the United Kingdom. The route commonly covers about 32.2 km with substantial elevation gain. It traverses rugged highland terrain to reach and pass near Ben Nevis, offering dramatic summit views on clear days but exposed and weather driven risks throughout the ascent and descent.",
+    "terrain_summary": "Terrain is varied and demanding. Expect rocky paths, scree slopes, peat bogs, and occasional scrambling. There are long open sections with exposure across the moor and steep ascents and exposed ridges near the summit. Weather can shift rapidly, bringing wind, rain, fog and cold. Navigation is important even on popular routes, as mist may reduce visibility. Sections can be wet and uneven underfoot. The distance makes this a long day on rough terrain.",
+    "safety_notes": "- Weather in the Scottish Highlands can change quickly; check the forecast and plan contingencies. The summit and ridges are exposed; use proper clothing and sun protection. Falls and slips are a real hazard on rocky and scree sections; stay on marked paths and consider trekking poles. Navigation skills are important; carry a map and compass even if you have a GPS. Bring enough food and water; dehydration and fatigue can occur. Start early to maximize daylight and have an emergency plan. If conditions are severe, consider postponing or turning back; do not attempt if underprepared.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and warm mid-layer",
+      "Warm hat and gloves",
+      "Extra base layer and insulating layer",
+      "Backpack (20–30 L) with rain cover",
+      "Water supply (2–3 L) and high-energy snacks",
+      "Map and compass (and optional GPS)",
+      "Headlamp with spare batteries",
+      "Emergency bivvy or space blanket",
+      "First aid kit and personal medications",
+      "Whistle and sunscreen with sunglasses",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "May to September offer the most reliable conditions and daylight; winter ascents require mountaineering experience and specialized gear.",
+    "seo": {
+      "title": "Ben Nevis Trail Guide | Hard 32.2 km Highland Hike in the UK",
+      "meta_description": "Plan your Ben Nevis Trail hike. This hard 32.2 km trail in Scotland offers rugged highland terrain, exposed paths, and essential safety and gear advice for a rewarding climb and return.",
+      "h1": "Ben Nevis Trail – Hard Highland Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-11551591",
+  "slug": "corridors-to-the-countryside-11551591",
+  "name": "Corridors to the countryside",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.0745647,
+    "lon": 1.1560459
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11551591
+  }
+}

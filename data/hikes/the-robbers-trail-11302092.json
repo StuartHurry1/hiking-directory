@@ -1,0 +1,21 @@
+{
+  "id": "osm-11302092",
+  "slug": "the-robbers-trail-11302092",
+  "name": "The Robbers Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.1898035,
+    "lon": -2.2411304
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11302092
+  }
+}

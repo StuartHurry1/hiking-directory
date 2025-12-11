@@ -1,0 +1,23 @@
+{
+  "id": "osm-17731899",
+  "slug": "visitor-centre-to-fan-bay-deep-shelter-and-south-foreland-lighthouse-circiular-trail-white-cliffs-17731899",
+  "name": "Visitor Centre to Fan Bay Deep Shelter and South Foreland Lighthouse Circiular Trail, White Cliffs",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1315122,
+    "lon": 1.3371845
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17731899
+  }
+}

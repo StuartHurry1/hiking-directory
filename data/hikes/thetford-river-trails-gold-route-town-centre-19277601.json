@@ -1,0 +1,21 @@
+{
+  "id": "osm-19277601",
+  "slug": "thetford-river-trails-gold-route-town-centre-19277601",
+  "name": "Thetford River Trails - Gold Route (Town Centre)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4117812,
+    "lon": 0.7485864
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19277601
+  }
+}

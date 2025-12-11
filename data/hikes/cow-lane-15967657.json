@@ -1,0 +1,21 @@
+{
+  "id": "osm-15967657",
+  "slug": "cow-lane-15967657",
+  "name": "Cow Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2509241,
+    "lon": -5.9510507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15967657
+  }
+}

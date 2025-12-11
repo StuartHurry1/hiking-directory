@@ -1,0 +1,44 @@
+{
+  "id": "osm-12788010",
+  "slug": "alban-way-12788010",
+  "name": "Alban Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7420659,
+    "lon": -0.3347443
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12788010
+  },
+  "ai": {
+    "summary": "Alban Way is a 24.3 km hike in the UK that blends urban pathways with green corridors. The route is long and physically demanding, with minimal technical difficulty but a substantial distance that can take most walkers a full day. Expect varied surfaces and occasional road crossings; solid navigation and steady pacing are essential.",
+    "terrain_summary": "Primarily paved or compacted surfaces suitable for walking and cycling, with occasional gravel stretches and a few roadside verges. Elevation is generally modest, but the total distance makes the hike challenging. Wet conditions can make surfaces slick; be prepared for variable weather.",
+    "safety_notes": "Plan for a full-day outing. Wear sturdy footwear and weather-appropriate clothing. Carry a map or GPS, water, snacks, and a basic first aid kit. Stay on the path, obey local rules, and be mindful of other users, especially cyclists. Check weather and daylight hours before starting; in poor conditions or low light consider shortening the route or turning back. Let someone know your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration reservoir (2–3 L)",
+      "Weather-appropriate layers",
+      "Lightweight rain shell",
+      "Hat and sun protection",
+      "Map and/or GPS device",
+      "Basic first aid kit",
+      "Headlamp or small flashlight",
+      "Snacks or energy bars",
+      "Phone with offline maps or charging option"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; Winter hikes are possible with extra daylight, appropriate clothing, and careful planning.",
+    "seo": {
+      "title": "Alban Way Hike – 24.3 km UK Trail Guide",
+      "meta_description": "Plan and prepare for the Alban Way hike: a challenging 24.3 km route in the UK with terrain notes, safety tips, gear recommendations, and best seasons.",
+      "h1": "Alban Way: 24.3 km UK Hike Guide"
+    }
+  }
+}

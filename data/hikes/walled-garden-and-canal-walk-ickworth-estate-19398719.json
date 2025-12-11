@@ -1,0 +1,23 @@
+{
+  "id": "osm-19398719",
+  "slug": "walled-garden-and-canal-walk-ickworth-estate-19398719",
+  "name": "Walled Garden and Canal Walk, Ickworth Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2225848,
+    "lon": 0.6544133
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19398719
+  }
+}

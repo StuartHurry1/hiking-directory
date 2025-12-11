@@ -1,0 +1,21 @@
+{
+  "id": "osm-18666061",
+  "slug": "walk-smethwick-heritage-trail-18666061",
+  "name": "Walk Smethwick Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4966114,
+    "lon": -1.9725362
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18666061
+  }
+}

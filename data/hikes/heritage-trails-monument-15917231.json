@@ -1,0 +1,21 @@
+{
+  "id": "osm-15917231",
+  "slug": "heritage-trails-monument-15917231",
+  "name": "Heritage Trails: monument",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9741857,
+    "lon": -1.6172524
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15917231
+  }
+}

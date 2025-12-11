@@ -1,0 +1,21 @@
+{
+  "id": "osm-1943329",
+  "slug": "sherbourne-valley-walk-1943329",
+  "name": "Sherbourne Valley Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 67.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4646559,
+    "lon": -1.5904991
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1943329
+  }
+}

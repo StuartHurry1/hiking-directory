@@ -1,0 +1,41 @@
+{
+  "id": "osm-18993747",
+  "slug": "abermawr-woods-and-beach-walk-18993747",
+  "name": "Abermawr Woods and Beach Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9698153,
+    "lon": -5.0827585
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18993747
+  },
+  "ai": {
+    "summary": "A scenic 6.3 km hike in the UK that blends shaded woodland with a coastal beach section. Starting in Abermawr Woods, the route winds through trees before reaching Abermawr Beach, offering sea views and a mix of forest paths and sandy shoreline.",
+    "terrain_summary": "Mixed terrain including forest footpaths (compact earth and roots), gentle ascents and descents, exposed coastal paths along cliffs, and a final stretch along the beach. Surfaces can be uneven, muddy when wet, and slippery near the shore.",
+    "safety_notes": "Check tide times and weather before you go. Stay on marked paths, especially near cliff edges and on the beach where waves can surge. Wear sturdy footwear and bring a waterproof layer. Carry water, a light snack, and a way to navigate (map or phone with offline access). Let someone know your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Layered clothing and a waterproof jacket",
+      "Daypack with water and snacks",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Map or GPS/phone with offline access to the route",
+      "Emergency whistle and basic first aid kit",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better sea views; summer offers longer daylight, while winter visits can be windy and exposed.",
+    "seo": {
+      "title": "Abermawr Woods and Beach Walk – 6.3 km Moderate Coastal Hike (UK)",
+      "meta_description": "Plan a 6.3 km moderate hike through Abermawr Woods to Abermawr Beach. This UK coastal walk blends shaded woodland with a sandy beach and sea views.",
+      "h1": "Abermawr Woods and Beach Walk – 6.3 km Moderate Coastal Hike"
+    }
+  }
+}

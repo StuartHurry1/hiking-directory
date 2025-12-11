@@ -1,0 +1,21 @@
+{
+  "id": "osm-2951592",
+  "slug": "hicca-way-2951592",
+  "name": "Hicca Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.019695,
+    "lon": -0.2678128
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2951592
+  }
+}

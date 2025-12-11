@@ -1,0 +1,21 @@
+{
+  "id": "osm-11223492",
+  "slug": "loop-link-to-chigwell-underground-11223492",
+  "name": "LOOP Link to Chigwell Underground",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6208335,
+    "lon": 0.07654
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11223492
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-15702566",
+  "slug": "meadow-walk-ladderedge-country-park-purple-arrows-15702566",
+  "name": "Meadow Walk Ladderedge Country Park (Purple Arrows)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0935127,
+    "lon": -2.0426164
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15702566
+  }
+}

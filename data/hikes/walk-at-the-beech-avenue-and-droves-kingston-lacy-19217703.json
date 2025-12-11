@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217703",
+  "slug": "walk-at-the-beech-avenue-and-droves-kingston-lacy-19217703",
+  "name": "Walk at the Beech Avenue and Droves, Kingston Lacy",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8058839,
+    "lon": -2.0315829
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217703
+  }
+}

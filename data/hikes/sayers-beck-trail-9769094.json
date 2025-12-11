@@ -1,0 +1,21 @@
+{
+  "id": "osm-9769094",
+  "slug": "sayers-beck-trail-9769094",
+  "name": "Sayer's Beck Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3029985,
+    "lon": 0.6375176
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9769094
+  }
+}

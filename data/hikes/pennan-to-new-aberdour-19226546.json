@@ -1,0 +1,21 @@
+{
+  "id": "osm-19226546",
+  "slug": "pennan-to-new-aberdour-19226546",
+  "name": "Pennan to New Aberdour",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6769087,
+    "lon": -2.2450016
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19226546
+  }
+}

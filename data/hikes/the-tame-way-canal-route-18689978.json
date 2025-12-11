@@ -1,0 +1,21 @@
+{
+  "id": "osm-18689978",
+  "slug": "the-tame-way-canal-route-18689978",
+  "name": "The Tame Way- Canal Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5197218,
+    "lon": -1.8011217
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18689978
+  }
+}

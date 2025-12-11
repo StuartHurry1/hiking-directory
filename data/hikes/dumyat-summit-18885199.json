@@ -1,0 +1,21 @@
+{
+  "id": "osm-18885199",
+  "slug": "dumyat-summit-18885199",
+  "name": "Dumyat summit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1596389,
+    "lon": -3.9119224
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18885199
+  }
+}

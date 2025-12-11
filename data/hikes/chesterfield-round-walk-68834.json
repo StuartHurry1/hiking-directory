@@ -1,0 +1,21 @@
+{
+  "id": "osm-68834",
+  "slug": "chesterfield-round-walk-68834",
+  "name": "Chesterfield Round Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 73.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1885843,
+    "lon": -1.3878161
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 68834
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-370663",
+  "slug": "ebor-way-370663",
+  "name": "Ebor Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 310.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9286153,
+    "lon": -1.8305421
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 370663
+  }
+}

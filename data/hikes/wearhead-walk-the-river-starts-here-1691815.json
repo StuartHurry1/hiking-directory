@@ -1,0 +1,21 @@
+{
+  "id": "osm-1691815",
+  "slug": "wearhead-walk-the-river-starts-here-1691815",
+  "name": "Wearhead Walk - The River Starts Here",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7498124,
+    "lon": -2.2216297
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1691815
+  }
+}

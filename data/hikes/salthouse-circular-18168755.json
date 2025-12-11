@@ -1,0 +1,23 @@
+{
+  "id": "osm-18168755",
+  "slug": "salthouse-circular-18168755",
+  "name": "Salthouse Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.952128,
+    "lon": 1.0872151
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18168755
+  }
+}

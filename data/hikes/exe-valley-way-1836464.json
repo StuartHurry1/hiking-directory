@@ -1,0 +1,21 @@
+{
+  "id": "osm-1836464",
+  "slug": "exe-valley-way-1836464",
+  "name": "Exe Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 675.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9003133,
+    "lon": -3.4882772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1836464
+  }
+}

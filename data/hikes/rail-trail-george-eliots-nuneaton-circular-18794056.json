@@ -1,0 +1,21 @@
+{
+  "id": "osm-18794056",
+  "slug": "rail-trail-george-eliots-nuneaton-circular-18794056",
+  "name": "Rail Trail: George Eliot’s Nuneaton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.526054,
+    "lon": -1.4639219
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18794056
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "osm-16411959",
+  "slug": "baelach-path-16411959",
+  "name": "Baelach Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7265526,
+    "lon": -3.7309138
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16411959
+  },
+  "ai": {
+    "summary": "Baelach Path is a short, easy hike in the UK, covering about 4 km. Designed for beginners, families, and casual walkers, it offers gentle terrain and a pleasant outdoor experience.",
+    "terrain_summary": "The route follows well-defined trails with a mix of compact paths and grassy sections. Expect mostly flat or gently undulating ground, with occasional steps or uneven patches. Recent weather can affect grip, so sturdy footwear is recommended.",
+    "safety_notes": "Before you go, check the weather and daylight hours. Wear sturdy walking shoes and carry a light, windproof layer. Stay to marked paths, watch for uneven ground, gates, and cattle or livestock if present. Bring a map or offline navigation, and a water supply. In winter, daylight is limited—plan your pace and consider a small torch. Be mindful of other hikers and wildlife, and carry out all litter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle (1–2 liters)",
+      "Light, weather-appropriate layer",
+      "Small backpack to carry essentials",
+      "Map or offline navigation (or loaded offline map on your phone)",
+      "Sunscreen, hat, and lightweight rain shell"
+    ],
+    "best_seasons": "Spring and Summer are ideal for Baelach Path, offering longer days and comfortable temperatures. The trail is still enjoyable in autumn and winter with proper gear.",
+    "seo": {
+      "title": "Baelach Path - Easy 4 km Hike in the UK",
+      "meta_description": "Plan your walk on Baelach Path: an easy 4 km UK hike suitable for beginners. Learn terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Baelach Path: Easy 4 km Hike in the UK"
+    }
+  }
+}

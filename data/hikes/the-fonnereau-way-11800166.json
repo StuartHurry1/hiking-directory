@@ -1,0 +1,21 @@
+{
+  "id": "osm-11800166",
+  "slug": "the-fonnereau-way-11800166",
+  "name": "The Fonnereau Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 20.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0592756,
+    "lon": 1.1564461
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11800166
+  }
+}

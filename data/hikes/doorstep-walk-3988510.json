@@ -1,0 +1,21 @@
+{
+  "id": "osm-3988510",
+  "slug": "doorstep-walk-3988510",
+  "name": "Doorstep Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.36197,
+    "lon": -1.2784652
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3988510
+  }
+}

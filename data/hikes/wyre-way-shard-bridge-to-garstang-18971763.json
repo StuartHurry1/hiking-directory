@@ -1,0 +1,23 @@
+{
+  "id": "osm-18971763",
+  "slug": "wyre-way-shard-bridge-to-garstang-18971763",
+  "name": "Wyre Way (Shard Bridge to Garstang)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 27.9,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8635591,
+    "lon": -2.9624613
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18971763
+  }
+}

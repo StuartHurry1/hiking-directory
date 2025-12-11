@@ -1,0 +1,46 @@
+{
+  "id": "osm-11505649",
+  "slug": "burwick-11505649",
+  "name": "Burwick",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 23.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1416558,
+    "lon": -1.2779013
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505649
+  },
+  "ai": {
+    "summary": "Burwick is a challenging 23.2 km hike in the UK characterized by rugged, exposed terrain and significant elevation gain. It suits experienced hikers willing to plan for changeable weather and long distances, with navigation and fitness playing key roles.",
+    "terrain_summary": "Expect varied, rugged terrain: steep ascents and descents, rocky tracks, marshy or muddy sections, and exposed ridges. Weather can shift quickly, especially near coastlines, so footing and navigation require attention and proper footwear.",
+    "safety_notes": "Check the forecast and plan for daylight. Use map and compass (don’t rely solely on GPS); carry a charged device and route knowledge. Start early to ensure finish during daylight; pace yourself to avoid fatigue. Wear layered, weatherproof clothing and bring waterproofs. Carry sufficient water and food, plus a basic first aid kit and emergency signaling (whistle). Stay on marked paths, be mindful of unstable ground and slippery rocks, and let someone know your route and expected return. In coastal areas, be aware of tides and sea spray; carry a means to call for help if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Windproof and waterproof jacket",
+      "Insulating mid-layer and moisture-wicking base layers",
+      "Map and compass (and a backup navigation method)",
+      "GPS device or smartphone with offline maps and power bank",
+      "Sufficient water and high-energy snacks",
+      "Headtorch or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Gloves and hat for cold or windy conditions",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency blanket or bivvy sack",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October). Winter hiking is more demanding due to shorter daylight hours, harsher weather, and increased risk of slips and hypothermia.",
+    "seo": {
+      "title": "Burwick Hike – 23.2 km Hard Terrain in the UK",
+      "meta_description": "Explore Burwick, a demanding 23.2 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Burwick Hike: 23.2 km Hard Terrain in the UK"
+    }
+  }
+}

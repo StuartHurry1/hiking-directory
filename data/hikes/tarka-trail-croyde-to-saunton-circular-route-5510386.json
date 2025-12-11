@@ -1,0 +1,23 @@
+{
+  "id": "osm-5510386",
+  "slug": "tarka-trail-croyde-to-saunton-circular-route-5510386",
+  "name": "Tarka Trail - Croyde to Saunton Circular Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 17.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1251813,
+    "lon": -4.2136907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5510386
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-13928011",
+  "slug": "mynydd-moel-tyrrau-mawr-ridge-walk-13928011",
+  "name": "Mynydd Moel-Tyrrau Mawr ridge walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.6,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.7067345,
+    "lon": -3.8685281
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13928011
+  }
+}

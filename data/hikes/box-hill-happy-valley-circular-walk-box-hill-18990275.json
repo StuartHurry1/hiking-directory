@@ -1,0 +1,43 @@
+{
+  "id": "osm-18990275",
+  "slug": "box-hill-happy-valley-circular-walk-box-hill-18990275",
+  "name": "Box Hill Happy Valley circular walk, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2489922,
+    "lon": -0.3126551
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18990275
+  },
+  "ai": {
+    "summary": "A scenic 7.8 km circular hike starting and ending at Box Hill, exploring the Happy Valley area with chalk grassland, woodlands and sweeping views over the Surrey countryside; a moderate route with some steeper sections and uneven surfaces.",
+    "terrain_summary": "Varied terrain including open chalk hillside, woodland paths, and rocky/uneven sections. Expect steep ascents and descents in places, exposed ridgelines, and surfaces that can be slippery when wet. The route combines quiet woodland tracks with exposed viewpoints.",
+    "safety_notes": "Wear sturdy footwear with good grip and bring a waterproof layer. Chalk surfaces can be slippery when wet and winds can be strong on exposed ridges. Stay on marked paths, watch for other hikers and cyclists in shared sections, and be mindful of edge ledges. Plan for weather changes, carry a map or GPS, enough water and a snack, and tell someone your route and expected return.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Extra layers and hat",
+      "Sunscreen and sunglasses",
+      "Map, GPS-enabled phone or offline navigation",
+      "Small first aid kit",
+      "Energy snacks",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this circular walk, with the best wildflower displays in late spring and long daylight in summer; autumn brings color. Winter can be muddy and windy.",
+    "seo": {
+      "title": "Box Hill Happy Valley Circular Walk – 7.8 km Moderate Hike in Surrey, UK",
+      "meta_description": "Discover the 7.8 km Box Hill Happy Valley circular route in Surrey, England. A moderate hike through chalk grassland and woodland with scenic views, plus safety tips and gear.",
+      "h1": "Box Hill Happy Valley Circular Walk (7.8 km) — Surrey, UK"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12931470",
+  "slug": "link-to-west-dulwich-station-12931470",
+  "name": "link to West Dulwich station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4431545,
+    "lon": -0.0677506
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12931470
+  }
+}

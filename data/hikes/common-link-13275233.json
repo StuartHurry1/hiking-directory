@@ -1,0 +1,21 @@
+{
+  "id": "osm-13275233",
+  "slug": "common-link-13275233",
+  "name": "Common link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4610644,
+    "lon": -0.155865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13275233
+  }
+}

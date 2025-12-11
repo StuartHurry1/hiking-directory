@@ -1,0 +1,21 @@
+{
+  "id": "osm-19229913",
+  "slug": "ditchling-beacon-to-devils-dyke-south-downs-walk-sussex-east-19229913",
+  "name": "Ditchling Beacon to Devil's Dyke, South Downs walk, Sussex East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 40.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9009953,
+    "lon": -0.1051558
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19229913
+  }
+}

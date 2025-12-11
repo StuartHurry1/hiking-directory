@@ -1,0 +1,41 @@
+{
+  "id": "osm-13216403",
+  "slug": "an-creagan-biodiversity-trail-13216403",
+  "name": "An Creagán Biodiversity Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.6545847,
+    "lon": -7.034934
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13216403
+  },
+  "ai": {
+    "summary": "A 5.3 km easy biodiversity trail in the UK (region unknown), offering a family-friendly stroll with opportunities to observe local flora, birds and other wildlife along well-maintained paths.",
+    "terrain_summary": "The route features mostly flat, well-maintained paths with some gravel, gentle slopes, and a few sections with exposed roots or uneven ground. Expect occasional boardwalk and potentially muddy patches after rain.",
+    "safety_notes": "This is an easy hike suitable for most ages, but wear sturdy footwear, dress for changes in weather, and stay on marked paths. Bring water, a small first aid kit, sun protection or a hat, and insect repellent. Be mindful of wildlife, check for crowds, and leash dogs where required. In icy or wet conditions, slow footing and extra care are advised.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket if rain is forecast)",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Map or offline navigation (or smartphone with GPS)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn typically offer the most comfortable conditions and rich biodiversity viewing; the trail can be hiked year-round, but be prepared for rain and colder weather in winter.",
+    "seo": {
+      "title": "An Creagán Biodiversity Trail – Easy 5.3 km Nature Walk in the UK",
+      "meta_description": "Explore the An Creagán Biodiversity Trail, a 5.3 km easy hike in the UK. Ideal for families, with wildlife viewing, accessible paths, and practical hiking tips.",
+      "h1": "An Creagán Biodiversity Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8427510",
+  "slug": "frith-rathad-na-hearadh-8427510",
+  "name": "Frith-Rathad na Hearadh",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 75.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9679955,
+    "lon": -6.7559449
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8427510
+  }
+}

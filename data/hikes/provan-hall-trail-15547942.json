@@ -1,0 +1,21 @@
+{
+  "id": "osm-15547942",
+  "slug": "provan-hall-trail-15547942",
+  "name": "Provan Hall Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.8611077,
+    "lon": -4.107897
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15547942
+  }
+}

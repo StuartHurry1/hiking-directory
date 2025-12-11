@@ -1,0 +1,21 @@
+{
+  "id": "osm-37308",
+  "slug": "itchen-way-37308",
+  "name": "Itchen Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 104.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9036322,
+    "lon": -1.3764644
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 37308
+  }
+}

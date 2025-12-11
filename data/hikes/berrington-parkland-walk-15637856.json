@@ -1,0 +1,45 @@
+{
+  "id": "osm-15637856",
+  "slug": "berrington-parkland-walk-15637856",
+  "name": "Berrington Parkland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2686454,
+    "lon": -2.7278293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15637856
+  },
+  "ai": {
+    "summary": "An 11.1 km moderate hike through UK parkland, featuring open fields, light woodland, and gentle gradients suitable for walkers with reasonable fitness.",
+    "terrain_summary": "Predominantly well-maintained parkland paths with a mix of grassy verges, dirt tracks, and occasional steps. Expect gentle rises and flat stretches, with some mud after rain and shaded sections that can be uneven.",
+    "safety_notes": "Plan your trip with daylight in mind and check local conditions. Wear sturdy footwear and dress in layers; bring waterproof outerwear. Carry a map or GPS, a charged phone, and enough water and snacks. Let someone know your route and expected return time. Stay on official paths, watch for livestock on open fields, and take care on wet, uneven or muddy sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing (layers; rain jacket)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map, compass, or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Headlamp or flashlight (if there is a chance of staying out after dusk)",
+      "Phone with emergency numbers",
+      "Lightweight backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are the best seasons for this hike, when days are longer and the landscape is at its most welcoming. In winter, expect mud, wind exposure, and shorter daylight hours.",
+    "seo": {
+      "title": "Berrington Parkland Walk – 11.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Berrington Parkland Walk, an 11.1 km moderate hike through UK parkland. Read terrain notes, safety tips, gear recommendations, and best seasons.",
+      "h1": "Berrington Parkland Walk – 11.1 km Moderate Hike in the UK"
+    }
+  }
+}

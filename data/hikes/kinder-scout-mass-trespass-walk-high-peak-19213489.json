@@ -1,0 +1,23 @@
+{
+  "id": "osm-19213489",
+  "slug": "kinder-scout-mass-trespass-walk-high-peak-19213489",
+  "name": "Kinder Scout Mass Trespass Walk, High Peak",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.5,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3909285,
+    "lon": -1.9199062
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19213489
+  }
+}

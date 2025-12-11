@@ -1,0 +1,21 @@
+{
+  "id": "osm-4091304",
+  "slug": "cleveland-way-4091304",
+  "name": "Cleveland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 62.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.515935,
+    "lon": -1.0592969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4091304
+  }
+}

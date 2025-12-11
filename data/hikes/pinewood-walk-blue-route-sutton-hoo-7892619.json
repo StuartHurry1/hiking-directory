@@ -1,0 +1,21 @@
+{
+  "id": "osm-7892619",
+  "slug": "pinewood-walk-blue-route-sutton-hoo-7892619",
+  "name": "Pinewood Walk (Blue Route), Sutton Hoo",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0943986,
+    "lon": 1.3409424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7892619
+  }
+}

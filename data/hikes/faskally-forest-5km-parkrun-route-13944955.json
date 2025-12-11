@@ -1,0 +1,21 @@
+{
+  "id": "osm-13944955",
+  "slug": "faskally-forest-5km-parkrun-route-13944955",
+  "name": "Faskally Forest 5km ParkRun Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7081146,
+    "lon": -3.7655861
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13944955
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13624674",
+  "slug": "centenary-walk-13624674",
+  "name": "Centenary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3940015,
+    "lon": -0.7169169
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13624674
+  }
+}

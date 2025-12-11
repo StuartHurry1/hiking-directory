@@ -1,0 +1,21 @@
+{
+  "id": "osm-19526810",
+  "slug": "discover-nature-walk-at-penrhyn-castle-19526810",
+  "name": "Discover Nature Walk at Penrhyn Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2238904,
+    "lon": -4.0923686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19526810
+  }
+}

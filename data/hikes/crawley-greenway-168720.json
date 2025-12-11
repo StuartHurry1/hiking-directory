@@ -1,0 +1,21 @@
+{
+  "id": "osm-168720",
+  "slug": "crawley-greenway-168720",
+  "name": "Crawley Greenway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1002029,
+    "lon": -0.1644842
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 168720
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12359280",
+  "slug": "isbourne-way-12359280",
+  "name": "Isbourne Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0200099,
+    "lon": -1.9515289
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12359280
+  }
+}

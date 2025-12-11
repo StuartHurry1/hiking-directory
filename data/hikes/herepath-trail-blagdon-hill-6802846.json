@@ -1,0 +1,21 @@
+{
+  "id": "osm-6802846",
+  "slug": "herepath-trail-blagdon-hill-6802846",
+  "name": "Herepath Trail - Blagdon Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.958213,
+    "lon": -3.1243853
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6802846
+  }
+}

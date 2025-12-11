@@ -1,0 +1,46 @@
+{
+  "id": "osm-17444903",
+  "slug": "borger-dalr-geology-walk-north-lakes-outdoors-17444903",
+  "name": "Borger Dalr Geology Walk, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.2,
+  "difficulty": "hard",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5412866,
+    "lon": -3.1547836
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17444903
+  },
+  "ai": {
+    "summary": "The Borger Dalr Geology Walk is a challenging 19.2 km hike run by North Lakes Outdoors. The lakes-themed route combines rugged upland terrain with exposed geological features, delivering remote views and a demanding day on foot for experienced hikers. Expect a mix of rocky paths, boggy moorland, and occasional stream crossings as you traverse geologically interesting landscapes connected to the lakes in the area.",
+    "terrain_summary": "Expect mixed terrain: rocky ascents and descents, scree, peat bogs, and open heather moorland. Significant elevation gain and long stretches of exposure are common, with slippery or uneven surfaces after rain. The route runs near several lakes, offering water features and potential crosswinds; navigation can be challenging in low visibility, so stick to mapped paths where possible.",
+    "safety_notes": "Check the forecast and be prepared for rapid weather changes in upland UK. Wear sturdy, ankle-supporting boots and dress in layers with a waterproof outer layer. Carry a map and compass or GPS and know how to use them. Bring sufficient water (2–3 L) and high-energy food, plus a first aid kit and emergency whistle. Start early to allow for daylight, and tell someone your planned route and return time. In exposed or boggy sections, turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Layered clothing and a waterproof jacket and trousers",
+      "Map and compass (or GPS) and the knowledge to use them",
+      "Water (2–3 litres) and high-energy snacks",
+      "Headlamp or small flashlight with spare batteries",
+      "First aid kit and blister care items",
+      "Emergency blanket or bivvy and whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Walking poles (optional but helpful)",
+      "Fully charged phone with offline maps and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are generally the best seasons for this hike due to longer daylight and drier trails; winter conditions can bring snow, ice and more exposed walking.",
+    "seo": {
+      "title": "Borger Dalr Geology Walk – 19.2 km Lakes-Themed Hard Hike in the UK",
+      "meta_description": "Discover the Borger Dalr Geology Walk by North Lakes Outdoors. A demanding 19.2 km lakes-themed route in the UK with rugged geology, lakeside scenery and challenging terrain.",
+      "h1": "Borger Dalr Geology Walk"
+    }
+  }
+}

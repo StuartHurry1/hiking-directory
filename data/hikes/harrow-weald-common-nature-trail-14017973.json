@@ -1,0 +1,21 @@
+{
+  "id": "osm-14017973",
+  "slug": "harrow-weald-common-nature-trail-14017973",
+  "name": "Harrow Weald Common Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6207248,
+    "lon": -0.3507276
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14017973
+  }
+}

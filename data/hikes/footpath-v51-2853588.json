@@ -1,0 +1,21 @@
+{
+  "id": "osm-2853588",
+  "slug": "footpath-v51-2853588",
+  "name": "Footpath V51",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5561681,
+    "lon": -1.2796452
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2853588
+  }
+}

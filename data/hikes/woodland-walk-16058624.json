@@ -1,0 +1,21 @@
+{
+  "id": "osm-16058624",
+  "slug": "woodland-walk-16058624",
+  "name": "Woodland Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.485601,
+    "lon": -6.6182865
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16058624
+  }
+}

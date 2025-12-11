@@ -1,0 +1,43 @@
+{
+  "id": "osm-10349979",
+  "slug": "aira-force-and-gowbarrow-trail-10349979",
+  "name": "Aira Force and Gowbarrow Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5715343,
+    "lon": -2.928554
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10349979
+  },
+  "ai": {
+    "summary": "Aira Force and Gowbarrow Trail is a 14.9 km circular hike in the UK that combines a visit to the Aira Force waterfall with a climb to Gowbarrow Summit, offering woodland paths, streams, and wide views over the surrounding countryside. The route is rated moderate and suits walkers with some hiking experience.",
+    "terrain_summary": "The trail uses a mix of well used footpaths, forest tracks, and some uneven rocky sections. You will encounter boardwalks near Aira Force, grassy lanes, and a steady ascent to Gowbarrow Summit. After rain the surface can be muddy and slippery, so good footwear is important.",
+    "safety_notes": "Check weather forecasts before setting out, as conditions can change quickly on exposed upland ground. Wear sturdy waterproof boots and bring warm layers and a waterproof jacket. Stay on marked paths, carry a map or offline navigation, and have a charged phone. Bring sufficient water and snacks, and let someone know your planned return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and an extra warm layer",
+      "Daypack with hydration and snacks",
+      "Water bottle or hydration system",
+      "Map or offline GPS and compass",
+      "Hat, sunglasses, and sunscreen",
+      "Small first aid kit and emergency whistle",
+      "Walking poles (optional)",
+      "Headlamp or small flashlight (for late finishes)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hike, with May to October offering the best weather and views. Winter can be cold and muddy; plan for shorter daylight hours and more challenging conditions.",
+    "seo": {
+      "title": "Aira Force and Gowbarrow Trail — 14.9 km Moderate UK Hike",
+      "meta_description": "Discover the Aira Force and Gowbarrow Trail, a 14.9 km moderate hike in the UK featuring the Aira Force waterfall and Gowbarrow Summit views. Practical tips, best seasons, and gear included.",
+      "h1": "Aira Force and Gowbarrow Trail Hike"
+    }
+  }
+}

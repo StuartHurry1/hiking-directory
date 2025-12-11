@@ -1,0 +1,23 @@
+{
+  "id": "osm-2372163",
+  "slug": "south-west-coast-path-section-5-woolacombe-to-braunton-2372163",
+  "name": "South West Coast Path (Section 5: Woolacombe to Braunton)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 57,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1723494,
+    "lon": -4.2077473
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2372163
+  }
+}

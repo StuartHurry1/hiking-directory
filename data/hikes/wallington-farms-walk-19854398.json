@@ -1,0 +1,21 @@
+{
+  "id": "osm-19854398",
+  "slug": "wallington-farms-walk-19854398",
+  "name": "Wallington Farms Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.1549386,
+    "lon": -1.9602968
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19854398
+  }
+}

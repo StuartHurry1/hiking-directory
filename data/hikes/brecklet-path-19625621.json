@@ -1,0 +1,43 @@
+{
+  "id": "osm-19625621",
+  "slug": "brecklet-path-19625621",
+  "name": "Brecklet Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6728971,
+    "lon": -5.1236424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19625621
+  },
+  "ai": {
+    "summary": "Brecklet Path is a gentle 3.2 km hike in the UK, suitable for beginners and families. The route runs over mostly level gravel and grassy tracks with occasional gentle inclines, offering relaxed countryside views and potential encounters with local wildlife. At a casual pace, most hikers complete the trek in about 45–90 minutes depending on stops.",
+    "terrain_summary": "Mostly flat to gently rolling terrain. Expect a mix of compact gravel, dirt paths, and grassy sections. Some parts may be muddy after rain; proper footwear is advised. The route is well-marked and passes through open fields and light woodland, with occasional gates and farm crossings.",
+    "safety_notes": "Plan for typical UK weather: check the forecast and daylight hours before you go. Wear sturdy waterproof footwear and bring a light waterproof layer. Stay on marked paths, close gates behind you, and watch for muddy sections after rain. Carry water, a map or a fully charged phone, and a small first-aid kit. If visibility is poor or conditions are icy, consider postponing the hike.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Additional warmth layer",
+      "Sunscreen and hat for sun protection",
+      "Map or fully charged phone with offline navigation",
+      "Small first-aid kit",
+      "Snacks or energy bars",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring through autumn; year-round hiking is possible with suitable wet-weather gear.",
+    "seo": {
+      "title": "Brecklet Path: 3.2 km Easy UK Hike | Terrain & Gear",
+      "meta_description": "Discover Brecklet Path, a 3.2 km easy hike in the UK. Learn terrain details, safety tips, best seasons, and recommended gear for a comfortable outdoor experience.",
+      "h1": "Brecklet Path – 3.2 km Easy UK Hike"
+    }
+  }
+}

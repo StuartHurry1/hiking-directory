@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376012",
+  "slug": "south-west-coast-path-section-36-plymouth-to-wembury-point-2376012",
+  "name": "South West Coast Path (Section 36: Plymouth to Wembury Point)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 58.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3656382,
+    "lon": -4.1632672
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376012
+  }
+}

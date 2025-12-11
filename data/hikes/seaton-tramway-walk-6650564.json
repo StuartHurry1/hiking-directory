@@ -1,0 +1,21 @@
+{
+  "id": "osm-6650564",
+  "slug": "seaton-tramway-walk-6650564",
+  "name": "Seaton Tramway Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7072069,
+    "lon": -3.0684063
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6650564
+  }
+}

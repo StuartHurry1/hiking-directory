@@ -1,0 +1,21 @@
+{
+  "id": "osm-19878212",
+  "slug": "the-souter-saunter-19878212",
+  "name": "The Souter Saunter",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.9707666,
+    "lon": -1.3640579
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19878212
+  }
+}

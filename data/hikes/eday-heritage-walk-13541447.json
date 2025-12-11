@@ -1,0 +1,21 @@
+{
+  "id": "osm-13541447",
+  "slug": "eday-heritage-walk-13541447",
+  "name": "Eday Heritage Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.2190298,
+    "lon": -2.7646477
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13541447
+  }
+}

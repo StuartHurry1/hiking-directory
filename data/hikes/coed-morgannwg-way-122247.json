@@ -1,0 +1,21 @@
+{
+  "id": "osm-122247",
+  "slug": "coed-morgannwg-way-122247",
+  "name": "Coed Morgannwg Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6970348,
+    "lon": -3.6383507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 122247
+  }
+}

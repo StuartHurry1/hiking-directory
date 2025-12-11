@@ -1,0 +1,21 @@
+{
+  "id": "osm-16411761",
+  "slug": "loch-a-choire-route-16411761",
+  "name": "Loch A Choire Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.7041485,
+    "lon": -3.7385018
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16411761
+  }
+}

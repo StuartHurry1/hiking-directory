@@ -1,0 +1,21 @@
+{
+  "id": "osm-19338098",
+  "slug": "paradise-on-the-isle-of-wight-butterfly-walk-isle-of-wight-19338098",
+  "name": "Paradise on the Isle of Wight Butterfly Walk, Isle of Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6671745,
+    "lon": -1.4821197
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19338098
+  }
+}

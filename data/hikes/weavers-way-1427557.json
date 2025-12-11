@@ -1,0 +1,21 @@
+{
+  "id": "osm-1427557",
+  "slug": "weavers-way-1427557",
+  "name": "Weavers’ Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 187.3,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9324823,
+    "lon": 1.3004787
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1427557
+  }
+}

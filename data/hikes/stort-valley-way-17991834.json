@@ -1,0 +1,21 @@
+{
+  "id": "osm-17991834",
+  "slug": "stort-valley-way-17991834",
+  "name": "Stort Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 104.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7823883,
+    "lon": 0.0594209
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17991834
+  }
+}

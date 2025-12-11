@@ -1,0 +1,42 @@
+{
+  "id": "osm-12864188",
+  "slug": "belsize-walk-12864188",
+  "name": "Belsize Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5375257,
+    "lon": -0.1526543
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12864188
+  },
+  "ai": {
+    "summary": "Belsize Walk is a roughly 6.9 km moderate route in the UK that traverses a mix of urban streets, parks, and green spaces. The path suits hikers who enjoy city scenery, woodland corners, and quiet residential lanes, with enough elevation changes to feel like a proper walk without technical terrain.",
+    "terrain_summary": "The route combines paved city sidewalks, park paths, and occasional grassy or compact dirt sections. Expect gentle ascents and descents, some uneven surfaces, steps, and potential wet patches after rain. Footing is generally stable but may vary by section.",
+    "safety_notes": "Plan for variable UK weather: carry a light rain jacket and layers. Stay aware of traffic at crossings and respect private property. Keep to marked trails, supervise children and dogs, and carry a charged phone and small map. Let someone know your plan and estimated return time. Bring water and snacks; allow extra time during busy periods.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking shoes",
+      "Water bottle and light snacks",
+      "Layered clothing and a compact rain jacket",
+      "Windbreaker or hat for sun",
+      "Map, guidebook, or offline navigation on your phone",
+      "Phone and portable charger",
+      "Small backpack or daypack",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for pleasant temperatures and longer daylight. The route can be tackled year-round with appropriate gear.",
+    "seo": {
+      "title": "Belsize Walk – 6.9 km Moderate UK Trail through Parks and Streets",
+      "meta_description": "Discover Belsize Walk, a 6.9 km moderate hike in the UK featuring urban routes and green spaces. Practical tips, gear recommendations, and safety notes to plan your day.",
+      "h1": "Belsize Walk – 6.9 km Moderate UK Walk"
+    }
+  }
+}

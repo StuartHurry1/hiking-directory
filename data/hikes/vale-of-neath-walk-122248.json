@@ -1,0 +1,21 @@
+{
+  "id": "osm-122248",
+  "slug": "vale-of-neath-walk-122248",
+  "name": "Vale of Neath Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6970348,
+    "lon": -3.6383507
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 122248
+  }
+}

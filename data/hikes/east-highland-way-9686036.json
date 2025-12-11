@@ -1,0 +1,21 @@
+{
+  "id": "osm-9686036",
+  "slug": "east-highland-way-9686036",
+  "name": "East Highland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 339.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.8198924,
+    "lon": -5.104236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9686036
+  }
+}

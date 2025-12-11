@@ -1,0 +1,21 @@
+{
+  "id": "osm-2673997",
+  "slug": "white-horse-circular-walk-2673997",
+  "name": "White horse circular walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5761715,
+    "lon": -1.5564904
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2673997
+  }
+}

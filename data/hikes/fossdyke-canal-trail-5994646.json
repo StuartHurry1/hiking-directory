@@ -1,0 +1,21 @@
+{
+  "id": "osm-5994646",
+  "slug": "fossdyke-canal-trail-5994646",
+  "name": "Fossdyke Canal Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2633969,
+    "lon": -0.6296648
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5994646
+  }
+}

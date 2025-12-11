@@ -1,0 +1,21 @@
+{
+  "id": "osm-11505717",
+  "slug": "loch-of-hellister-11505717",
+  "name": "Loch of Hellister",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.2291864,
+    "lon": -1.3013622
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11505717
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18177818",
+  "slug": "walsham-wood-circular-18177818",
+  "name": "Walsham Wood Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8083543,
+    "lon": 1.3368759
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18177818
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19609050",
+  "slug": "castle-ward-boundary-trail-19609050",
+  "name": "Castle Ward Boundary Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3713166,
+    "lon": -5.5774642
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19609050
+  }
+}

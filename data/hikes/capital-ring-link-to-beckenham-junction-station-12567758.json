@@ -1,0 +1,21 @@
+{
+  "id": "osm-12567758",
+  "slug": "capital-ring-link-to-beckenham-junction-station-12567758",
+  "name": "Capital Ring link to Beckenham Junction station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4157517,
+    "lon": -0.0278778
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12567758
+  }
+}

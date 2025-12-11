@@ -1,0 +1,21 @@
+{
+  "id": "osm-4102023",
+  "slug": "hereward-way-4102023",
+  "name": "Hereward Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 700.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4008071,
+    "lon": 0.2859998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4102023
+  }
+}

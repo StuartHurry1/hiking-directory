@@ -1,0 +1,21 @@
+{
+  "id": "osm-18884514",
+  "slug": "dun-coillich-blue-18884514",
+  "name": "Dùn Coillich Blue",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6698068,
+    "lon": -4.0373026
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18884514
+  }
+}

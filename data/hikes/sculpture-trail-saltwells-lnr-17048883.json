@@ -1,0 +1,21 @@
+{
+  "id": "osm-17048883",
+  "slug": "sculpture-trail-saltwells-lnr-17048883",
+  "name": "Sculpture Trail (Saltwells LNR)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4804089,
+    "lon": -2.1010366
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17048883
+  }
+}

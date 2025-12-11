@@ -1,0 +1,21 @@
+{
+  "id": "osm-11796940",
+  "slug": "illogan-br-2-11796940",
+  "name": "Illogan BR 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2345441,
+    "lon": -5.3250969
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11796940
+  }
+}

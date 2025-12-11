@@ -1,0 +1,42 @@
+{
+  "id": "osm-1707523",
+  "slug": "acw-circular-walk-17a-short-cut-to-c17-1707523",
+  "name": "ACW Circular Walk 17A (short-cut to C17)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4867875,
+    "lon": -1.5834492
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1707523
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 17A is a hard, 15.6 km circular route in the UK, designated as the short-cut to C17. It offers a strenuous day with varied terrain and several steep sections, suitable for experienced hikers seeking a challenging outing.",
+    "terrain_summary": "The route combines grassy ascents, rocky paths, muddy sections, and exposed ridges. Footing can be uneven with potential boggy patches; expect a mix of sheltered and exposed sections and navigate using map or GPS as markers may be less reliable in poor weather.",
+    "safety_notes": "This is a strenuous hike intended for experienced walkers. Check the weather forecast and daylight hours, carry navigation aids, and inform someone of your plan and expected return. Be prepared for rapid weather changes, ensure adequate hydration and energy, watch footing on steep or uneven sections, and consider turning back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water (2–3 liters recommended) and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket, insulating layer)",
+      "Map and compass or GPS device; fully charged mobile phone",
+      "Emergency whistle and small first aid kit",
+      "Headlamp or flashlight (if there is a chance of completing near dusk)",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency blanket or bivvy sack"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hard 15.6 km loop; winter hiking is possible with meticulous preparation and favorable weather, but conditions can be more demanding and safety considerations increase.",
+    "seo": {
+      "title": "ACW Circular Walk 17A (Hard) – Short-Cut to C17, UK 15.6 km",
+      "meta_description": "Explore the 15.6 km ACW Circular Walk 17A in the UK. A hard-rated circular route with steep sections and varied terrain—plan ahead with safety tips and gear recommendations.",
+      "h1": "ACW Circular Walk 17A (Short-Cut to C17) – 15.6 km Hard UK Route"
+    }
+  }
+}

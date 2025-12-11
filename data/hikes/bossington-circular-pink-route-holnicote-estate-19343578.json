@@ -1,0 +1,42 @@
+{
+  "id": "osm-19343578",
+  "slug": "bossington-circular-pink-route-holnicote-estate-19343578",
+  "name": "Bossington Circular Pink Route, Holnicote Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2205965,
+    "lon": -3.5794025
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19343578
+  },
+  "ai": {
+    "summary": "Bossington Circular Pink Route is an easy 5.4 km circular hike on the Holnicote Estate in the UK. The route follows gentle trails through woodlands and open fields, with scenic views along the coast and across the estate. Suitable for families and casual walkers, it offers a relaxed outing with moderate footing and occasional gradients.",
+    "terrain_summary": "The path combines compact tarmac or gravel lanes with grassy tracks, stony sections, and short ascents. Expect uneven footing in places, some exposed stretches, and sections that can be muddy after rain. Grip footwear with a tread is recommended.",
+    "safety_notes": "Check weather before you go; UK conditions can change quickly. The route is on open countryside with potential exposure; carry a waterproof layer, sun protection in sunny weather, and enough water. Stay on marked paths, observe local access rules on common land, and bring a map or offline navigation. In winter or wet conditions, parts may be slippery; take care on descents and ledges. Let someone know your plan if hiking alone.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and snacks",
+      "Weatherproof jacket and layers",
+      "Map or offline navigation device",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Head torch or flashlight (for late return)",
+      "Extra socks, spare layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the mildest weather and best views, but the route can be enjoyed year-round; plan for shorter daylight hours in winter and be prepared for rain.",
+    "seo": {
+      "title": "Bossington Circular Pink Route: Easy 5.4 km hike on Holnicote Estate, UK",
+      "meta_description": "Discover Bossington Circular Pink Route – an easy 5.4 km hike on the Holnicote Estate in the UK. Learn about terrain, safety tips, gear, and the best seasons for this family-friendly walk.",
+      "h1": "Bossington Circular Pink Route: Easy 5.4 km Walk on Holnicote Estate"
+    }
+  }
+}

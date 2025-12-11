@@ -1,0 +1,47 @@
+{
+  "id": "osm-19584208",
+  "slug": "buttermere-to-rannerdale-walk-19584208",
+  "name": "Buttermere to Rannerdale Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.4,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5434725,
+    "lon": -3.2804167
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19584208
+  },
+  "ai": {
+    "summary": "A 13.4 km route from Buttermere to Rannerdale that offers classic Lake District scenery: tranquil lakeside paths, rolling fells, and open valley views. The hike follows a mix of lakeside track, woodland paths, and gentle upland sections, making it suitable for hikers with moderate fitness who enjoy lakes and panoramas rather than technical scrambling.",
+    "terrain_summary": "The route combines well-defined lakeside paths around Buttermere, woodland tracks, and grassy moorland with occasional rocky or uneven sections. Expect mud after rain, stone steps, stiles, and occasional gate crossings. There are gentle ascents and descents, with the best long-distance views toward the Rannerdale valley.",
+    "safety_notes": "Weather in the Lake District can change rapidly; check a forecast before setting out. Paths can be muddy and slippery, especially after rain, with uneven ground and small rocky sections. Navigation is straightforward on clear days, but fog or low clouds can reduce visibility, so carry a map and compass or a reliable GPS. Bring adequate layers, waterproofs, and sufficient water and snacks. Inform someone of your plans and be prepared for limited phone reception in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket and trousers)",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight (in case of delays or low light)",
+      "First-aid kit",
+      "Snacks or energy bars",
+      "Sunscreen, sunglasses, and hat",
+      "Insect repellent",
+      "Whistle and emergency blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September). The hike is popular in these months, offering longer daylight and better visibility, though it can be done year-round with proper gear.",
+    "seo": {
+      "title": "Buttermere to Rannerdale Walk – 13.4 km Moderate Lakeside Hike in the Lake District (UK)",
+      "meta_description": "Explore the 13.4 km Buttermere to Rannerdale Walk, a moderate lakeside hike in the Lake District featuring Buttermere, tranquil shores, and the dramatic Rannerdale Valley.",
+      "h1": "Buttermere to Rannerdale Walk: A 13.4 km Moderate Lakeside Hike"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19378918",
+  "slug": "walk-through-the-centuries-at-fountains-abbey-19378918",
+  "name": "Walk through the centuries at Fountains Abbey",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1129539,
+    "lon": -1.5844238
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19378918
+  }
+}

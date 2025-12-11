@@ -1,0 +1,23 @@
+{
+  "id": "osm-19904486",
+  "slug": "wray-to-blelham-tarn-circular-walk-wray-castle-19904486",
+  "name": "Wray to Blelham Tarn Circular Walk, Wray Castle",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.4002719,
+    "lon": -2.9662236
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19904486
+  }
+}

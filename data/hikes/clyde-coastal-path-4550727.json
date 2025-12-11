@@ -1,0 +1,23 @@
+{
+  "id": "osm-4550727",
+  "slug": "clyde-coastal-path-4550727",
+  "name": "Clyde Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 56.1,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.9414529,
+    "lon": -4.3179382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4550727
+  }
+}

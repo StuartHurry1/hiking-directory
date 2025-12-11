@@ -1,0 +1,21 @@
+{
+  "id": "osm-54119",
+  "slug": "cheshire-ring-canal-walk-54119",
+  "name": "Cheshire Ring Canal Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 299.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.361858,
+    "lon": -2.5971803
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 54119
+  }
+}

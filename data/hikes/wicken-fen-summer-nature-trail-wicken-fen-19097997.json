@@ -1,0 +1,21 @@
+{
+  "id": "osm-19097997",
+  "slug": "wicken-fen-summer-nature-trail-wicken-fen-19097997",
+  "name": "Wicken Fen Summer Nature Trail, Wicken Fen",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3105875,
+    "lon": 0.2912001
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19097997
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-17737497",
+  "slug": "red-17737497",
+  "name": "red",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.0648488,
+    "lon": -3.4009757
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17737497
+  }
+}

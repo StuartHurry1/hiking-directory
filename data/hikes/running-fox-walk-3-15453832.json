@@ -1,0 +1,21 @@
+{
+  "id": "osm-15453832",
+  "slug": "running-fox-walk-3-15453832",
+  "name": "Running Fox Walk 3",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.1817024,
+    "lon": 0.060779
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15453832
+  }
+}

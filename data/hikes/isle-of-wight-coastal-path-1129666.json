@@ -1,0 +1,23 @@
+{
+  "id": "osm-1129666",
+  "slug": "isle-of-wight-coastal-path-1129666",
+  "name": "Isle of Wight Coastal Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 267.3,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6721386,
+    "lon": -1.5618868
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1129666
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-13190783",
+  "slug": "wyre-way-fleetwood-peninsula-loop-13190783",
+  "name": "Wyre Way (Fleetwood Peninsula Loop)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 49.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.8798493,
+    "lon": -2.9825537
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13190783
+  }
+}

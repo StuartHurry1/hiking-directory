@@ -1,0 +1,21 @@
+{
+  "id": "osm-13219951",
+  "slug": "vinegar-hill-loop-13219951",
+  "name": "Vinegar Hill Loop",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 19.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7588671,
+    "lon": -7.1443174
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13219951
+  }
+}

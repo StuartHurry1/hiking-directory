@@ -1,0 +1,21 @@
+{
+  "id": "osm-74771",
+  "slug": "guildford-nature-trail-74771",
+  "name": "Guildford Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2347602,
+    "lon": -0.5715988
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 74771
+  }
+}

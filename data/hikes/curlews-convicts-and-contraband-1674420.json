@@ -1,0 +1,21 @@
+{
+  "id": "osm-1674420",
+  "slug": "curlews-convicts-and-contraband-1674420",
+  "name": "Curlews, Convicts & Contraband",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.465291,
+    "lon": 0.5874894
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1674420
+  }
+}

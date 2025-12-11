@@ -1,0 +1,21 @@
+{
+  "id": "osm-13354885",
+  "slug": "the-co-operative-way-13354885",
+  "name": "The Co-operative Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 42.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4111561,
+    "lon": -4.1329649
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13354885
+  }
+}

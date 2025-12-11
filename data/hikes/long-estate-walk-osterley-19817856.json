@@ -1,0 +1,21 @@
+{
+  "id": "osm-19817856",
+  "slug": "long-estate-walk-osterley-19817856",
+  "name": "Long Estate Walk, Osterley",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.488755,
+    "lon": -0.3490907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19817856
+  }
+}

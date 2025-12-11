@@ -1,0 +1,21 @@
+{
+  "id": "osm-18215329",
+  "slug": "snettisham-circular-18215329",
+  "name": "Snettisham Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.8869457,
+    "lon": 0.4562082
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18215329
+  }
+}

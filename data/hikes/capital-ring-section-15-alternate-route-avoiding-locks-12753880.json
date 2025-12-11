@@ -1,0 +1,21 @@
+{
+  "id": "osm-12753880",
+  "slug": "capital-ring-section-15-alternate-route-avoiding-locks-12753880",
+  "name": "Capital Ring (Section 15, alternate route avoiding locks)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5073926,
+    "lon": 0.071004
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12753880
+  }
+}

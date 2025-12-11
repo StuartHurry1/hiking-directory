@@ -1,0 +1,21 @@
+{
+  "id": "osm-16517795",
+  "slug": "new-cut-trail-16517795",
+  "name": "New Cut Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3948745,
+    "lon": -2.5623438
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16517795
+  }
+}

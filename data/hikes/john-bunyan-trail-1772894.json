@@ -1,0 +1,21 @@
+{
+  "id": "osm-1772894",
+  "slug": "john-bunyan-trail-1772894",
+  "name": "John Bunyan Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 339.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9458132,
+    "lon": -0.4098119
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1772894
+  }
+}

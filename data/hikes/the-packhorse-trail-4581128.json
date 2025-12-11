@@ -1,0 +1,21 @@
+{
+  "id": "osm-4581128",
+  "slug": "the-packhorse-trail-4581128",
+  "name": "The Packhorse Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7073766,
+    "lon": -4.1712067
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4581128
+  }
+}

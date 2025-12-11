@@ -1,0 +1,21 @@
+{
+  "id": "osm-12693073",
+  "slug": "capital-ring-link-to-hackney-wick-station-12693073",
+  "name": "Capital Ring link to Hackney Wick station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5428038,
+    "lon": -0.0214478
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12693073
+  }
+}

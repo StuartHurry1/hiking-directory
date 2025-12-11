@@ -1,0 +1,21 @@
+{
+  "id": "osm-3537408",
+  "slug": "gustav-holst-way-corndean-lane-to-guiting-power-3537408",
+  "name": "Gustav Holst Way (Corndean Lane to Guiting Power)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 28.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9346413,
+    "lon": -1.9721731
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3537408
+  }
+}

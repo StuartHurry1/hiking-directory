@@ -1,0 +1,21 @@
+{
+  "id": "osm-18569987",
+  "slug": "dudley-time-trail-18569987",
+  "name": "Dudley Time Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5111711,
+    "lon": -2.0812897
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18569987
+  }
+}

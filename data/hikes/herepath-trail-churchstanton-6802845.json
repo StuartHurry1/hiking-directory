@@ -1,0 +1,21 @@
+{
+  "id": "osm-6802845",
+  "slug": "herepath-trail-churchstanton-6802845",
+  "name": "Herepath Trail - Churchstanton",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.916484,
+    "lon": -3.1557855
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6802845
+  }
+}

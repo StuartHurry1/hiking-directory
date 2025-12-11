@@ -1,0 +1,21 @@
+{
+  "id": "osm-8256224",
+  "slug": "southwell-heritage-trail-8256224",
+  "name": "Southwell Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0847606,
+    "lon": -0.9721643
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8256224
+  }
+}

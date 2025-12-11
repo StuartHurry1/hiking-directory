@@ -1,0 +1,21 @@
+{
+  "id": "osm-18788932",
+  "slug": "rail-trail-marston-green-circular-via-elmdon-18788932",
+  "name": "Rail Trail: Marston Green Circular via Elmdon",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4664337,
+    "lon": -1.75465
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18788932
+  }
+}

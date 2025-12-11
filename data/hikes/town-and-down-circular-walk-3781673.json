@@ -1,0 +1,21 @@
+{
+  "id": "osm-3781673",
+  "slug": "town-and-down-circular-walk-3781673",
+  "name": "Town and Down Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3202558,
+    "lon": -0.2251252
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3781673
+  }
+}

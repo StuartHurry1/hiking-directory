@@ -1,0 +1,23 @@
+{
+  "id": "osm-17431738",
+  "slug": "stargazing-walk-at-friars-crag-north-lakes-outdoors-17431738",
+  "name": "Stargazing Walk at Friars Crag, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5958798,
+    "lon": -3.1394103
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17431738
+  }
+}

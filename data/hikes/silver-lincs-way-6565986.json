@@ -1,0 +1,21 @@
+{
+  "id": "osm-6565986",
+  "slug": "silver-lincs-way-6565986",
+  "name": "Silver Lincs Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3575901,
+    "lon": -0.0563586
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6565986
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-15801974",
+  "slug": "rowans-walk-15801974",
+  "name": "Rowan's Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2010301,
+    "lon": 0.0703402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15801974
+  }
+}

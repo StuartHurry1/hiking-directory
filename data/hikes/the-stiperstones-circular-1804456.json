@@ -1,0 +1,21 @@
+{
+  "id": "osm-1804456",
+  "slug": "the-stiperstones-circular-1804456",
+  "name": "The Stiperstones Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5747963,
+    "lon": -2.9492382
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1804456
+  }
+}

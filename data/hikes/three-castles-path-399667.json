@@ -1,0 +1,21 @@
+{
+  "id": "osm-399667",
+  "slug": "three-castles-path-399667",
+  "name": "Three Castles Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 788.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4165657,
+    "lon": -0.6874968
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 399667
+  }
+}

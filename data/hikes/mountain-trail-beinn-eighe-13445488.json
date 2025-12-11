@@ -1,0 +1,21 @@
+{
+  "id": "osm-13445488",
+  "slug": "mountain-trail-beinn-eighe-13445488",
+  "name": "Mountain Trail - Beinn Eighe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.6306877,
+    "lon": -5.3491249
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13445488
+  }
+}

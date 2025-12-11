@@ -1,0 +1,23 @@
+{
+  "id": "osm-19793571",
+  "slug": "polruan-to-polperro-rollercoaster-walk-lansallos-19793571",
+  "name": "Polruan to Polperro rollercoaster walk, Lansallos",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3289917,
+    "lon": -4.6345289
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19793571
+  }
+}

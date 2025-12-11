@@ -1,0 +1,21 @@
+{
+  "id": "osm-7904944",
+  "slug": "tarfside-to-invermark-path-7904944",
+  "name": "Tarfside to Invermark Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.9062227,
+    "lon": -2.8375143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7904944
+  }
+}

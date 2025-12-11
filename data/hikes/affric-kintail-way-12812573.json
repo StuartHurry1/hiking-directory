@@ -1,0 +1,49 @@
+{
+  "id": "osm-12812573",
+  "slug": "affric-kintail-way-12812573",
+  "name": "Affric Kintail Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 200.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.3354148,
+    "lon": -4.4799436
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12812573
+  },
+  "ai": {
+    "summary": "The Affric Kintail Way is a challenging long-distance trail totaling about 200.5 km. It traverses varied Highland scenery, demanding consistent stamina and good navigation. Expect multi-day trekking with substantial elevation gain, exposed sections, and changeable weather. Proper planning, staged days, and contingency options are essential for a successful crossing.",
+    "terrain_summary": "Primarily Highland terrain with a mix of moorland tracks, pine and broadleaf woodland, glens, and rugged ridges. The route includes long ascents and descents, boggy sections, river crossings, and exposed open ground. Weather can be unpredictable and winds can be strong, even in summer.",
+    "safety_notes": "Plan each day around daylight, weather and personal fitness. Carry a current map and compass and know how to use them; have GPS backup. Share your itinerary with someone, check local conditions, and be prepared for sudden weather changes. Break the hike into manageable stages, carry sufficient food and water, and have emergency provisions and a means to contact help. If conditions are unsafe, consider postponing or taking alternative sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and trousers",
+      "Insulating layers (fleece or down)",
+      "Warm hat and gloves",
+      "Map and compass (and GPS as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Water purification or treatment tablets",
+      "Water bottles or hydration system with at least 2–3 liters capacity",
+      "High-energy food and snacks",
+      "Rain cover for pack and spare dry bags",
+      "Emergency shelter or bivy bag",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen, sunglasses, and sun hat"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) when daylight is longer and weather is more stable, though conditions remain variable and hikers should be prepared for sudden changes.",
+    "seo": {
+      "title": "Affric Kintail Way – 200.5 km Hard-Distance Hike in the UK",
+      "meta_description": "Discover the Affric Kintail Way, a demanding 200.5 km long-distance hike through Highland terrain in the UK. Includes terrain overview, safety tips, and essential gear.",
+      "h1": "Affric Kintail Way – 200.5 km Hard-Distance Trek"
+    }
+  }
+}

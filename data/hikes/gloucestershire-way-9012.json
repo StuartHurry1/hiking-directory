@@ -1,0 +1,21 @@
+{
+  "id": "osm-9012",
+  "slug": "gloucestershire-way-9012",
+  "name": "Gloucestershire Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 402.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8637734,
+    "lon": -2.4629453
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 9012
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "osm-1691330",
+  "slug": "acw-circular-walk-03-1691330",
+  "name": "ACW Circular Walk 03",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.387465,
+    "lon": -1.6010771
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1691330
+  },
+  "ai": {
+    "summary": "ACW Circular Walk 03 is a 12 km circular hike in the UK with a moderate difficulty. The route traverses countryside paths and rural lanes in an unknown region, looping back to the start. Navigation should rely on a map and compass or GPS, and the total time is typically around 3–4 hours depending on pace.",
+    "terrain_summary": "Expect mixed UK countryside terrain: grassy field paths, hedgerows, gates or stiles, and gentle to moderate ascents. Ground can be muddy after rain and sections may be exposed to wind. Wear sturdy footwear and be prepared for changing conditions.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Wear sturdy boots and bring a waterproof layer. Carry a map, compass or GPS, a fully charged phone, and enough food and water. Stay on marked paths, close gates behind you, and watch for livestock. Tell someone your plan and expected return time. In an unknown region, have a backup plan and know how to navigate; adjust pace or turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Waterproof jacket and extra layers",
+      "Hat and sun protection",
+      "Map, compass or GPS; fully charged phone",
+      "Lightweight backpack",
+      "First aid kit",
+      "Headlamp or torch (for low light)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; the hike is doable year-round with appropriate gear and daylight.",
+    "seo": {
+      "title": "ACW Circular Walk 03 – 12 km Moderate Hike in the UK",
+      "meta_description": "Explore the 12 km ACW Circular Walk 03 in the UK. A moderate circular hike across countryside paths with likely mud and gentle hills. Plan for 3–4 hours.",
+      "h1": "ACW Circular Walk 03"
+    }
+  }
+}

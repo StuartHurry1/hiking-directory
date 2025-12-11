@@ -1,0 +1,23 @@
+{
+  "id": "osm-17803768",
+  "slug": "rhosili-headland-walk-gower-17803768",
+  "name": "Rhosili Headland Walk, Gower",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5694186,
+    "lon": -4.2883402
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17803768
+  }
+}

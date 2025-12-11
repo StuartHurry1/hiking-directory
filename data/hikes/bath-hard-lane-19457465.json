@@ -1,0 +1,39 @@
+{
+  "id": "osm-19457465",
+  "slug": "bath-hard-lane-19457465",
+  "name": "Bath Hard Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3842384,
+    "lon": 0.5121318
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19457465
+  },
+  "ai": {
+    "summary": "A very short, easy walk along Bath Hard Lane in the UK, perfect for a quick outdoor break. The route is flat and accessible for most ages, making it suitable for families and casual walkers.",
+    "terrain_summary": "Flat, well-maintained path primarily paved, with a brief stretch of compact gravel. Urban surroundings with occasional views of greenery.",
+    "safety_notes": "Check weather before you go, wear comfortable footwear, and stay on the designated path. Be mindful of other pedestrians and any traffic at entry/exit points. Carry a phone for emergencies, and avoid walking in dim conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Phone with map or offline directions",
+      "Sunscreen and/or hat for sunny days"
+    ],
+    "best_seasons": "All year round. Spring and autumn offer comfortable temperatures; summer is fine with sun protection; winter can be icy or slippery, so wear appropriate footwear.",
+    "seo": {
+      "title": "Bath Hard Lane – Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore Bath Hard Lane, a short 0.2 km easy hike in the UK. Learn terrain details, safety tips, best seasons, and gear suggestions.",
+      "h1": "Bath Hard Lane: Easy 0.2 km Hike in the UK"
+    }
+  }
+}

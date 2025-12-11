@@ -1,0 +1,21 @@
+{
+  "id": "osm-2901347",
+  "slug": "plossland-round-2901347",
+  "name": "Plossland Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1829975,
+    "lon": -0.5404347
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2901347
+  }
+}

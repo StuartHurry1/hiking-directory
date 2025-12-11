@@ -1,0 +1,21 @@
+{
+  "id": "osm-19859209",
+  "slug": "dolaucothi-parkland-walk-19859209",
+  "name": "Dolaucothi Parkland walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0480019,
+    "lon": -3.9490461
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19859209
+  }
+}

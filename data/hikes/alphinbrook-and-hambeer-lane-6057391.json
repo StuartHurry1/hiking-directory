@@ -1,0 +1,42 @@
+{
+  "id": "osm-6057391",
+  "slug": "alphinbrook-and-hambeer-lane-6057391",
+  "name": "Alphinbrook & Hambeer Lane",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.4,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.70544,
+    "lon": -3.5536293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6057391
+  },
+  "ai": {
+    "summary": "A gentle 5.4 km circuit suitable for beginners, following quiet country lanes and hedgerows around Alphinbrook & Hambeer Lane in the UK. The route mainly uses level paths with occasional grassy sections and a short road crossing, offering simple scenery and a relaxed pace.",
+    "terrain_summary": "Mostly easy, mixed terrain: tarmac and gravel country lanes, grassy verges, farm tracks, and occasional uneven patches. Expect a few stiles and a brief road crossing; some sections can be muddy after rain.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay alert for passing traffic on narrow lanes and watch for livestock in fields. Bring water, a map or offline navigation, and a small first aid kit. Check weather and daylight hours before setting out; daylight is shorter in winter. Carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Light waterproof jacket or shell",
+      "Water bottle",
+      "Snacks",
+      "Map or offline navigation (or smartphone with offline maps)",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions and daylight; winter visits can be muddy and chilly, so plan accordingly.",
+    "seo": {
+      "title": "Alphinbrook & Hambeer Lane Walk — Easy 5.4 km Hike in the UK",
+      "meta_description": "Explore the easy 5.4 km Alphinbrook & Hambeer Lane hike in the UK. A gentle route along country lanes with hedgerows, suitable for beginners and casual walkers.",
+      "h1": "Alphinbrook & Hambeer Lane Walk (5.4 km) — Easy UK Hike"
+    }
+  }
+}

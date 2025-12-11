@@ -1,0 +1,51 @@
+{
+  "id": "osm-7364653",
+  "slug": "buckfastleigh-to-totnes-trail-7364653",
+  "name": "Buckfastleigh to Totnes Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 44.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.4407895,
+    "lon": -3.6928477
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7364653
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike of 44.7 km from Buckfastleigh to Totnes in the UK. The route traverses varied countryside with potential elevation changes, river crossings, and rural tracks. It requires good stamina, navigation ability, and preparation for mixed weather and daylight hours.",
+    "terrain_summary": "The trail blends rural lanes, woodland paths, riverbank sections and uneven field edges. Surfaces range from compact trails to muddy tracks and rocky footing. Expect gradients, occasional gates or stiles, and exposed sections where weather can influence footing.",
+    "safety_notes": "Plan for a long day and possible weather changes. Carry a detailed map and compass and do not rely on phones alone. Check daylight hours and weather forecast; the route has sections with limited signage. Inform someone of your plans and expected return. Wear sturdy boots and waterproof clothing and bring extra layers. Carry sufficient water and high energy food; consider a water treatment option if refilling from streams. Be prepared for muddy, uneven surfaces and potential crossings or gates. Be aware of livestock and respect farm rights of way. In an emergency in the UK call 999 or 112. Navigation aids may be sparse in remote sections; stick to the rights of way and follow local access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Warm layers and a hat and gloves",
+      "Backpack with rain cover",
+      "Map and compass (and a GPS as backup)",
+      "Fully charged mobile phone with offline maps",
+      "Water bottle or hydration system and water treatment option",
+      "High-energy snacks and a small food reserve",
+      "First aid kit tailored for longer hikes",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency blanket or bivouac sack",
+      "Whistle and small multi-tool",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Trekking poles (optional but helpful)",
+      "Dry bag for valuables",
+      "Cash or card for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers the best daylight and typically drier conditions, though UK weather can be unpredictable. Winter hikes are possible with proper gear but require extra preparation and shorter daylight.",
+    "seo": {
+      "title": "Buckfastleigh to Totnes Trail: 44.7 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan your Buckfastleigh to Totnes Trail hike. A 44.7 km hard-difficulty route with varied terrain, safety tips, best seasons, and gear recommendations to help you prepare.",
+      "h1": "Buckfastleigh to Totnes Trail – 44.7 km Hard-Distance Hike"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "osm-19338132",
+  "slug": "a-climb-to-the-common-at-mottistone-19338132",
+  "name": "A Climb To The Common at Mottistone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6528864,
+    "lon": -1.4295383
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19338132
+  },
+  "ai": {
+    "summary": "A 14.5 km moderate hike to the Common at Mottistone in the UK. The route combines country lanes, gentle ascents, and open heathland, offering distant views and a satisfying elevation without technical climbing.",
+    "terrain_summary": "Predominantly well-defined rural paths with some grassy and uneven sections. Moderate ascent to open common ground, surfaces can be muddy after rain. Expect exposure on higher ground and occasional rocky or rooty patches.",
+    "safety_notes": "Check the forecast and plan for UK weather variability. Wear sturdy boots and bring a waterproof layer. Carry a map and compass (or GPS) and a charged phone. Stay on marked paths, pace yourself on exposed sections, and monitor for wind on higher ground. Bring water and snacks, tell someone your route and expected return, and have basic first aid and a whistle. Be mindful of livestock and wildlife; apply sun protection in summer.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS) and a fully charged phone",
+      "Emergency whistle and basic first aid kit",
+      "Sun protection: sunscreen, hat, sunglasses",
+      "Lightweight backpack with rain cover",
+      "Extra layers for temperature changes",
+      "Headlamp (in case of low light)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; avoid heavy rain or strong winter winds.",
+    "seo": {
+      "title": "A Climb To The Common at Mottistone – 14.5 km Moderate UK Hike",
+      "meta_description": "Discover a 14.5 km moderate hike to the Common at Mottistone in the UK. Rural lanes, open heathland, and rewarding views with practical safety tips and gear.",
+      "h1": "A Climb To The Common at Mottistone – 14.5 km Moderate Hike in the UK"
+    }
+  }
+}

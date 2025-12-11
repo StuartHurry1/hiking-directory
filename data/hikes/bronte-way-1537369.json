@@ -1,0 +1,49 @@
+{
+  "id": "osm-1537369",
+  "slug": "bronte-way-1537369",
+  "name": "Bronte Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 182.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.802134,
+    "lon": -2.2954564
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1537369
+  },
+  "ai": {
+    "summary": "Bronte Way is a hard long-distance hike in the United Kingdom totaling 182.5 km. The route traverses a mix of countryside, moorland, and small towns with cultural connections to the Brontë sisters. Expect sustained climbs, exposed sections, and multiple days of trekking that require careful planning and endurance.",
+    "terrain_summary": "Terrain varies from rough moorland and stone tracks to farm lanes and minor roads. Expect boggy sections after rain, many stiles and gates, and long ascents and descents across rolling hills. UK weather can be unpredictable, so waterproof footwear and layered clothing are essential.",
+    "safety_notes": "Hard, long-distance route. Plan for multiple days, check the forecast, and carry navigation tools (map and compass) in addition to a GPS device. Tell someone your itinerary, bring enough food and water, and keep a charged phone with a power bank. Be prepared for sudden weather changes, uneven footing, and road crossings; adjust pace to conditions and daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket",
+      "Base layers and insulating mid-layer",
+      "Rucksack with sufficient capacity (e.g., 20–40 L)",
+      "Water bottle or hydration system with extra water",
+      "High-energy food and snacks",
+      "Map and compass (and/or GPS)",
+      "Fully charged phone and power bank",
+      "First-aid kit",
+      "Emergency whistle",
+      "Headlamp with extra batteries",
+      "Sun protection (hat, sunscreen)",
+      "Gaiters for boggy sections",
+      "Trekking poles (optional)",
+      "Lightweight rain cover for gear"
+    ],
+    "best_seasons": "Spring, Summer and Early Autumn (roughly March to October) are most favorable due to longer daylight and milder weather; winter hiking is more demanding and daylight is limited.",
+    "seo": {
+      "title": "Bronte Way: 182.5 km Hard UK Trail Guide",
+      "meta_description": "Discover Bronte Way, a challenging 182.5 km hike in the UK. This guide covers terrain, safety tips, essential gear, and the best seasons for this long-distance route.",
+      "h1": "Bronte Way – 182.5 km Hard UK Trail"
+    }
+  }
+}

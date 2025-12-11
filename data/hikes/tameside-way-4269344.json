@@ -1,0 +1,21 @@
+{
+  "id": "osm-4269344",
+  "slug": "tameside-way-4269344",
+  "name": "Tameside Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5341998,
+    "lon": -2.0109202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4269344
+  }
+}

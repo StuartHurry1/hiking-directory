@@ -1,0 +1,21 @@
+{
+  "id": "osm-3241445",
+  "slug": "royal-hunters-walks-saunders-park-to-park-gate-link-3241445",
+  "name": "Royal Hunters Walks - Saunders Park to Park Gate Link",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.3350539,
+    "lon": -2.0701202
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3241445
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-10086547",
+  "slug": "west-terrace-circular-10086547",
+  "name": "West Terrace Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.0827234,
+    "lon": -4.0670668
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10086547
+  }
+}

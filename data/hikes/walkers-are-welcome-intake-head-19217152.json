@@ -1,0 +1,21 @@
+{
+  "id": "osm-19217152",
+  "slug": "walkers-are-welcome-intake-head-19217152",
+  "name": "Walkers are Welcome Intake Head",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.5945702,
+    "lon": -1.9350277
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19217152
+  }
+}

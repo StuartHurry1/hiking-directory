@@ -1,0 +1,21 @@
+{
+  "id": "osm-1756630",
+  "slug": "river-ayr-way-1756630",
+  "name": "River Ayr Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 130,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5365093,
+    "lon": -3.9773217
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1756630
+  }
+}

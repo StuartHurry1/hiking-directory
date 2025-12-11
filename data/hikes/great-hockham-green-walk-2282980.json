@@ -1,0 +1,21 @@
+{
+  "id": "osm-2282980",
+  "slug": "great-hockham-green-walk-2282980",
+  "name": "Great Hockham Green Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 4.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.496792,
+    "lon": 0.8476296
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2282980
+  }
+}

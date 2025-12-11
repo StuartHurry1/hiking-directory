@@ -1,0 +1,21 @@
+{
+  "id": "osm-5637959",
+  "slug": "lions-face-and-cromlins-5637959",
+  "name": "Lion's Face & Cromlins",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.005608,
+    "lon": -3.3978053
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 5637959
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8465109",
+  "slug": "stoke-mandeville-way-8465109",
+  "name": "Stoke Mandeville Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8147712,
+    "lon": -0.8145532
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8465109
+  }
+}

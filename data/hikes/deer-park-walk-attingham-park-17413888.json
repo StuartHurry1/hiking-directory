@@ -1,0 +1,23 @@
+{
+  "id": "osm-17413888",
+  "slug": "deer-park-walk-attingham-park-17413888",
+  "name": "Deer Park Walk, Attingham Park",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.6861523,
+    "lon": -2.6693884
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17413888
+  }
+}

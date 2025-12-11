@@ -1,0 +1,23 @@
+{
+  "id": "osm-14086280",
+  "slug": "south-west-coast-path-avoiding-mansands-beach-14086280",
+  "name": "South West Coast Path (Avoiding Mansands Beach)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1,
+  "difficulty": "easy",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3704939,
+    "lon": -3.5168189
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14086280
+  }
+}

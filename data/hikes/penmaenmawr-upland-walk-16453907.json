@@ -1,0 +1,21 @@
+{
+  "id": "osm-16453907",
+  "slug": "penmaenmawr-upland-walk-16453907",
+  "name": "Penmaenmawr Upland walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2677443,
+    "lon": -3.9214903
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16453907
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-7336320",
+  "slug": "coast-to-coast-walk-shap-to-richmond-7336320",
+  "name": "Coast to Coast Walk (Shap to Richmond)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 201.5,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5264195,
+    "lon": -2.6747366
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7336320
+  }
+}

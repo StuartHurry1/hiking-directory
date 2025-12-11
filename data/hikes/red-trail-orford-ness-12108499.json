@@ -1,0 +1,21 @@
+{
+  "id": "osm-12108499",
+  "slug": "red-trail-orford-ness-12108499",
+  "name": "Red Trail, Orford Ness",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0859778,
+    "lon": 1.5573592
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12108499
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2205249",
+  "slug": "south-west-coast-path-section-2-porlock-weir-to-lynmouth-lynton-2205249",
+  "name": "South West Coast Path (Section 2: Porlock Weir to Lynmouth / Lynton)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 67.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2184516,
+    "lon": -3.6268155
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2205249
+  }
+}

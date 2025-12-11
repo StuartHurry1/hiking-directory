@@ -1,0 +1,23 @@
+{
+  "id": "osm-18581320",
+  "slug": "stourbridge-canal-and-glass-quarter-heritage-trail-18581320",
+  "name": "Stourbridge Canal & Glass Quarter Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4609152,
+    "lon": -2.1489184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18581320
+  }
+}

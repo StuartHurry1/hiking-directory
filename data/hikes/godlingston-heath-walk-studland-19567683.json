@@ -1,0 +1,21 @@
+{
+  "id": "osm-19567683",
+  "slug": "godlingston-heath-walk-studland-19567683",
+  "name": "Godlingston Heath walk, Studland",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.643615,
+    "lon": -1.957487
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567683
+  }
+}

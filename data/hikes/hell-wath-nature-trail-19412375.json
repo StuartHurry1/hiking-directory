@@ -1,0 +1,21 @@
+{
+  "id": "osm-19412375",
+  "slug": "hell-wath-nature-trail-19412375",
+  "name": "Hell Wath Nature Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1272899,
+    "lon": -1.5422822
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19412375
+  }
+}

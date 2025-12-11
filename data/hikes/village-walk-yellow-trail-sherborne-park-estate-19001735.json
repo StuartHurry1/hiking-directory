@@ -1,0 +1,21 @@
+{
+  "id": "osm-19001735",
+  "slug": "village-walk-yellow-trail-sherborne-park-estate-19001735",
+  "name": "Village Walk (Yellow Trail), Sherborne Park Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8349748,
+    "lon": -1.7365587
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19001735
+  }
+}

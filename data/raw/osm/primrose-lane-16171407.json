@@ -1,0 +1,31 @@
+{
+  "id": 16171407,
+  "slug": "primrose-lane-16171407",
+  "name": "Primrose Lane",
+  "network": "lwn",
+  "tags": {
+    "designation": "public_footpath",
+    "from": "Bryansford Gardens",
+    "highway_authority_ref": "CD/RW/8057",
+    "name": "Primrose Lane",
+    "network": "lwn",
+    "operator": "Newry, Mourne & Down District Council",
+    "route": "foot",
+    "to": "Shimna Road",
+    "type": "route"
+  },
+  "coordinates": [
+    [
+      -5.8916462,
+      54.2120558
+    ],
+    [
+      -5.8921329,
+      54.2121138
+    ],
+    [
+      -5.8926885,
+      54.2121826
+    ]
+  ]
+}

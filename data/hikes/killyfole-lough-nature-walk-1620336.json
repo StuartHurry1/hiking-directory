@@ -1,0 +1,21 @@
+{
+  "id": "osm-1620336",
+  "slug": "killyfole-lough-nature-walk-1620336",
+  "name": "Killyfole Lough Nature Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2288187,
+    "lon": -7.2899454
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1620336
+  }
+}

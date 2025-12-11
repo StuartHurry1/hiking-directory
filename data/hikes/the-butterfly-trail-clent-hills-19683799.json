@@ -1,0 +1,21 @@
+{
+  "id": "osm-19683799",
+  "slug": "the-butterfly-trail-clent-hills-19683799",
+  "name": "The Butterfly Trail, Clent Hills",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4249164,
+    "lon": -2.0909496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19683799
+  }
+}

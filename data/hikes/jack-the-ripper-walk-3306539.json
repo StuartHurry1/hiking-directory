@@ -1,0 +1,21 @@
+{
+  "id": "osm-3306539",
+  "slug": "jack-the-ripper-walk-3306539",
+  "name": "Jack The Ripper Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.515403,
+    "lon": -0.0664692
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3306539
+  }
+}

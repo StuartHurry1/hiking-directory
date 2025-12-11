@@ -1,0 +1,21 @@
+{
+  "id": "osm-151586",
+  "slug": "clwydian-way-151586",
+  "name": "Clwydian Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.1,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.3237529,
+    "lon": -3.3813997
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 151586
+  }
+}

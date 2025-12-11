@@ -1,0 +1,47 @@
+{
+  "id": "osm-13283319",
+  "slug": "brighouse-boundary-walk-13283319",
+  "name": "Brighouse Boundary Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 76,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.6953462,
+    "lon": -1.76835
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13283319
+  },
+  "ai": {
+    "summary": "The Brighouse Boundary Walk is a hard, 76-kilometre long-distance circuit in the United Kingdom. It weaves through a mix of urban streets, farmland, and open countryside, demanding good navigation, robust fitness, and careful planning from experienced hikers.",
+    "terrain_summary": "The route combines surfaced paths, gravel tracks, field margins, and occasional rough or grassy sections. Expect rolling to steep ascents, hedgerows, potential boggy ground after rain, and some exposed moorland or high points. Navigation accuracy is important in rural gaps and long stretches between settlements.",
+    "safety_notes": "This is a strenuous route with long distances between towns. Prepare a robust navigation plan (carry a map and compass or GPS), check weather forecasts, and start early to ensure daylight. Tell someone your GPX or planned timing. Wear sturdy hiking boots, bring sufficient water and food, and carry a waterproof layer. Be prepared for remote sections, and have a means of emergency contact.",
+    "recommended_gear": [
+      "Ordnance Survey map(s) and compass or GPS device",
+      "Water bottle or hydration bladder (2–3 litres for 76 km depending on conditions)",
+      "Energy-rich snacks and meals",
+      "Sturdy waterproof hiking boots or shoes with good grip",
+      "Weather-appropriate clothing (layering, waterproof jacket and trousers)",
+      "Headlamp or torch with extra batteries",
+      "Hat, gloves, and sunscreen as needed",
+      "Basic first aid kit and blister kit",
+      "Emergency whistle and lightweight space blanket",
+      "Mobile phone with offline maps and power bank",
+      "Sun protection",
+      "Multi-tool or knife",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers longer daylight and typically more stable conditions. Winter hiking is possible with experience, shorter daylight hours, and higher weather risk.",
+    "seo": {
+      "title": "Brighouse Boundary Walk - 76 km UK Long-Distance Trek",
+      "meta_description": "Explore the Brighouse Boundary Walk, a challenging 76-kilometre circuit in the UK. Get route overview, terrain, safety tips, gear advice, and best seasons for this hard-distance hike.",
+      "h1": "Brighouse Boundary Walk (76 km) – UK Long-Distance Challenge"
+    }
+  }
+}

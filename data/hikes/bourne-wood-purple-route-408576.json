@@ -1,0 +1,43 @@
+{
+  "id": "osm-408576",
+  "slug": "bourne-wood-purple-route-408576",
+  "name": "Bourne Wood Purple Route",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1842899,
+    "lon": -0.776028
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 408576
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km woodland stroll on Bourne Wood's Purple Route in the UK. This family-friendly trail weaves through shaded pines and open glades, with a flat to gently undulating path and well-defined tracks.",
+    "terrain_summary": "Flat to gently undulating forest terrain. Well-defined dirt and gravel paths with occasional tree roots and compact sections. Expect shaded sections and occasional sunlight filtering through the canopy.",
+    "safety_notes": "Stay on marked trails; wear sturdy footwear and weather-appropriate clothing; be mindful of uneven surfaces and tree roots; carry water and a small snack; check the forecast and bring a light rain jacket; watch for ticks and insects and use repellent; supervise children and dogs (on a leash where required); obey signage and any forestry work zones; in case of emergency, contact the local ranger or emergency services as appropriate.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Weather-appropriate clothing (layers; waterproof jacket if rain is forecast)",
+      "Water bottle and a small snack",
+      "Sunscreen and a hat (seasonal)",
+      "Insect repellent",
+      "Small backpack",
+      "Map or offline navigation (or route description)",
+      "Phone with a charged battery and, if possible, a portable power bank",
+      "Leash for pets (where allowed)"
+    ],
+    "best_seasons": "All year; best conditions typically from spring to autumn when paths are drier and daylight is longer.",
+    "seo": {
+      "title": "Bourne Wood Purple Route – Easy 0.7 km Woodland Walk in the UK",
+      "meta_description": "Explore the Bourne Wood Purple Route, a 0.7 km easy woodland walk in the UK. Learn about the terrain, safety tips, gear, and the best seasons to visit.",
+      "h1": "Bourne Wood Purple Route – Easy 0.7 km Woodland Walk (UK)"
+    }
+  }
+}

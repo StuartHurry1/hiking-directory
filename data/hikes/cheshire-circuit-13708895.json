@@ -1,0 +1,21 @@
+{
+  "id": "osm-13708895",
+  "slug": "cheshire-circuit-13708895",
+  "name": "Cheshire Circuit",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 260.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9823272,
+    "lon": -2.6640914
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13708895
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-8163036",
+  "slug": "chalkland-way-8163036",
+  "name": "Chalkland Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 122.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9297907,
+    "lon": -0.7804928
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8163036
+  }
+}

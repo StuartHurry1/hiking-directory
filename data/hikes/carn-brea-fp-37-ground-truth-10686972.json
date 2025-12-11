@@ -1,0 +1,21 @@
+{
+  "id": "osm-10686972",
+  "slug": "carn-brea-fp-37-ground-truth-10686972",
+  "name": "Carn Brea FP 37 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.2251744,
+    "lon": -5.2399742
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10686972
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-14082892",
+  "slug": "ver-valley-walk-2-14082892",
+  "name": "Ver Valley Walk 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8230326,
+    "lon": -0.4304883
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 14082892
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12685811",
+  "slug": "loop-link-to-gordon-hill-station-12685811",
+  "name": "LOOP link to Gordon Hill station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6684701,
+    "lon": -0.0938588
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12685811
+  }
+}

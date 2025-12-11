@@ -1,0 +1,21 @@
+{
+  "id": "osm-2199239",
+  "slug": "rookhope-trails-4-2199239",
+  "name": "Rookhope Trails 4",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.7924312,
+    "lon": -2.0807873
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2199239
+  }
+}

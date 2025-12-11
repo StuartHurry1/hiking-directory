@@ -1,0 +1,21 @@
+{
+  "id": "osm-15757283",
+  "slug": "weem-forest-trail-15757283",
+  "name": "Weem Forest Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.6248377,
+    "lon": -3.8924854
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15757283
+  }
+}

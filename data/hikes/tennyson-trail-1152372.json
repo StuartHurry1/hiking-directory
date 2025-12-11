@@ -1,0 +1,21 @@
+{
+  "id": "osm-1152372",
+  "slug": "tennyson-trail-1152372",
+  "name": "Tennyson Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 65.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.663916,
+    "lon": -1.4415745
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1152372
+  }
+}

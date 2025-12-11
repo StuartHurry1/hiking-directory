@@ -1,0 +1,21 @@
+{
+  "id": "osm-16500404",
+  "slug": "sid-valley-ring-16500404",
+  "name": "Sid Valley Ring",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 108,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6827629,
+    "lon": -3.2176026
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16500404
+  }
+}

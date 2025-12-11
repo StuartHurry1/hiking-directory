@@ -1,0 +1,42 @@
+{
+  "id": "osm-11507994",
+  "slug": "burn-of-val-ayre-11507994",
+  "name": "Burn of Val Ayre",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.4080369,
+    "lon": -1.3354035
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11507994
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.1 km hike along a short stretch of the Burn of Val Ayre in the UK. Ideal for beginners, families, or anyone after a quick nature experience.",
+    "terrain_summary": "Very short, flat trail beside a shallow watercourse. Mostly grassy or compacted earth with occasional muddy patches after rain and a few small exposed roots near the path.",
+    "safety_notes": "Even short walks can be risky in changeable UK weather. Wear sturdy footwear with good grip and stay on the path, especially near the water. Check the forecast, carry a charged phone, and tell someone your plans. Be prepared for mud after rain, watch for slippery banks, and respect wildlife and private land access rules.",
+    "recommended_gear": [
+      "Sturdy walking shoes or ankle boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Map or offline map on phone",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Insect repellent (seasonal)",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "All year, with the best conditions typically from late spring to early autumn when daylight is longer and trails are drier. Winter conditions can be cold, wet, and windy.",
+    "seo": {
+      "title": "Burn of Val Ayre: Short Easy 0.1 km UK Hike",
+      "meta_description": "Explore Burn of Val Ayre, a tiny 0.1 km easy hike in the UK. Perfect for beginners and families seeking a quick, tranquil nature stroll along a shallow burn.",
+      "h1": "Burn of Val Ayre – Short Easy 0.1 km Hike in the UK"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19914907",
+  "slug": "tarn-hows-circular-walk-tarn-hows-and-coniston-19914907",
+  "name": "Tarn Hows circular walk, Tarn Hows and Coniston",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6,
+  "difficulty": "moderate",
+  "themes": [
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3872191,
+    "lon": -3.0384651
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19914907
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-2376117",
+  "slug": "south-west-coast-path-section-42-brixham-to-babbacombe-2376117",
+  "name": "South West Coast Path (Section 42: Brixham to Babbacombe)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 43.8,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.3961643,
+    "lon": -3.5129064
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2376117
+  }
+}

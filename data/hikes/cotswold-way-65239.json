@@ -1,0 +1,21 @@
+{
+  "id": "osm-65239",
+  "slug": "cotswold-way-65239",
+  "name": "Cotswold Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 289.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0507213,
+    "lon": -1.7809041
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 65239
+  }
+}

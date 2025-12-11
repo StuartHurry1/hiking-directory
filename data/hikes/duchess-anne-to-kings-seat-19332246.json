@@ -1,0 +1,21 @@
+{
+  "id": "osm-19332246",
+  "slug": "duchess-anne-to-kings-seat-19332246",
+  "name": "Duchess Anne to Kings Seat",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.5658259,
+    "lon": -3.5871712
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19332246
+  }
+}

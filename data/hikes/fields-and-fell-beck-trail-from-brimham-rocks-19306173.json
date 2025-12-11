@@ -1,0 +1,21 @@
+{
+  "id": "osm-19306173",
+  "slug": "fields-and-fell-beck-trail-from-brimham-rocks-19306173",
+  "name": "Fields and Fell Beck trail from Brimham Rocks",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.0763257,
+    "lon": -1.682598
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19306173
+  }
+}

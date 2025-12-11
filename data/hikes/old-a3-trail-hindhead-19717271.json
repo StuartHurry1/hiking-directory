@@ -1,0 +1,21 @@
+{
+  "id": "osm-19717271",
+  "slug": "old-a3-trail-hindhead-19717271",
+  "name": "Old A3 Trail, Hindhead",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1138107,
+    "lon": -0.7246618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19717271
+  }
+}

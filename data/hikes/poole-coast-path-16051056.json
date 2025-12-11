@@ -1,0 +1,23 @@
+{
+  "id": "osm-16051056",
+  "slug": "poole-coast-path-16051056",
+  "name": "Poole Coast Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.5,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6834026,
+    "lon": -1.9485841
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16051056
+  }
+}

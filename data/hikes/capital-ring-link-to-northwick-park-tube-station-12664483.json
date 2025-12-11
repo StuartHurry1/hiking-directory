@@ -1,0 +1,21 @@
+{
+  "id": "osm-12664483",
+  "slug": "capital-ring-link-to-northwick-park-tube-station-12664483",
+  "name": "Capital Ring link to Northwick Park tube station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.5781488,
+    "lon": -0.3182998
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12664483
+  }
+}

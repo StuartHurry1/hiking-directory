@@ -1,0 +1,21 @@
+{
+  "id": "osm-19361544",
+  "slug": "yellow-trail-19361544",
+  "name": "Yellow Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9295257,
+    "lon": 1.2037511
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19361544
+  }
+}

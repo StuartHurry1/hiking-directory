@@ -1,0 +1,42 @@
+{
+  "id": "osm-2418576",
+  "slug": "another-6-of-the-best-circular-walk-2418576",
+  "name": "Another 6 of the best Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0483518,
+    "lon": -1.302454
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2418576
+  },
+  "ai": {
+    "summary": "A gentle 1.1 km circular walk in the UK, part of the 'Another 6 of the best Circular Walk' series. This easy route is suitable for beginners and families, offering a pleasant, short ramble with light scenery and minimal ascent.",
+    "terrain_summary": "Mostly even surfaces with a mix of pavements, compact paths, and grassy trails. Some sections may be muddy after rain; watch for uneven ground and small steps near stile crossings.",
+    "safety_notes": "Check the weather before you go and wear sturdy shoes. Bring a lightweight layer and water. Stay on public rights of way, respect livestock and crops, and be mindful of other walkers. In winter, daylight hours are shorter and paths may be slippery.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Snack or energy bar",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline navigation on a smartphone",
+      "Small backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Year-round, but spring and summer provide the best conditions and scenery. In autumn the light is good and leaves can be lovely. In winter, plan for shorter daylight, potential mud or ice, and check for path closures.",
+    "seo": {
+      "title": "Another 6 of the best Circular Walk – Easy 1.1 km UK Circular Route",
+      "meta_description": "Explore a short, easy 1.1 km circular walk in the UK from the 'Another 6 of the best Circular Walk' collection. Ideal for beginners, families, and quick outdoor escapes.",
+      "h1": "Another 6 of the best Circular Walk – 1.1 km Easy Circular Route in the UK"
+    }
+  }
+}

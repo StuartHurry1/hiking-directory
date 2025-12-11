@@ -1,0 +1,23 @@
+{
+  "id": "osm-19283071",
+  "slug": "frogatt-curbar-and-white-edge-red-deer-circular-walk-longshaw-estate-19283071",
+  "name": "Frogatt, Curbar and White Edge Red Deer Circular Walk, Longshaw Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 31.3,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2689671,
+    "lon": -1.6079334
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283071
+  }
+}

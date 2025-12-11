@@ -1,0 +1,21 @@
+{
+  "id": "osm-1696989",
+  "slug": "drone-valley-way-1696989",
+  "name": "Drone Valley Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2828104,
+    "lon": -1.4145031
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1696989
+  }
+}

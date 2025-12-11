@@ -1,0 +1,21 @@
+{
+  "id": "osm-140533",
+  "slug": "st-peters-way-140533",
+  "name": "St Peter's Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 133.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7349614,
+    "lon": 0.9407414
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 140533
+  }
+}

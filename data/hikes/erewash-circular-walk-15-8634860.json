@@ -1,0 +1,21 @@
+{
+  "id": "osm-8634860",
+  "slug": "erewash-circular-walk-15-8634860",
+  "name": "Erewash Circular Walk 15",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.9425122,
+    "lon": -1.3315776
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 8634860
+  }
+}

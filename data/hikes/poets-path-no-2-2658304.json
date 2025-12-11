@@ -1,0 +1,21 @@
+{
+  "id": "osm-2658304",
+  "slug": "poets-path-no-2-2658304",
+  "name": "Poets' Path No 2",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 30.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.9881015,
+    "lon": -2.4468769
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2658304
+  }
+}

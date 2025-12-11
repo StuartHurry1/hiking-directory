@@ -1,0 +1,50 @@
+{
+  "id": "osm-1573819",
+  "slug": "bradford-millennium-way-1573819",
+  "name": "Bradford Millennium Way",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 139.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.9450942,
+    "lon": -1.9034076
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1573819
+  },
+  "ai": {
+    "summary": "The Bradford Millennium Way is a long-distance footpath in the United Kingdom, spanning approximately 139.8 km. The route traverses a mix of urban edges, canal towpaths, rural lanes and rolling countryside, offering a challenging trek with varied scenery and multiple town and village resupply points. It is classified as hard difficulty, suitable for experienced walkers with good fitness and navigation skills. The route rewards perseverance with diverse landscapes and cultural highlights around the Bradford area and surrounding countryside.",
+    "terrain_summary": "Expect a varied surface: urban pavements and cycle paths, canal towpaths, railway and disused railway lines, gravel lanes, compact stone tracks, grassy paths, and some rocky or muddy sections. Elevation changes include long gentle climbs and short steep ascents, with stiles, gates and occasional steps. Surface quality can degrade after rain; waterproof footwear is recommended. Navigation is straightforward in daylight, but some stretches are rural with limited waymarking and patchy mobile signal.",
+    "safety_notes": "Plan for weather variability and day length; carry maps and a compass or GPS. Stay hydrated and bring extra food for longer stages. Use sturdy footwear and consider trekking poles on uneven ground. Be prepared for remote stretches with limited phone signal; inform someone of your itinerary and expected timings. Watch for road crossings, livestock, and farm animals on rural sections. Take care on canal towpaths and busy urban sections; respect other users and secure valuables in towns.",
+    "recommended_gear": [
+      "Sturdy hiking boots or boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Breathable base layers and insulating layer",
+      "Backpack with rain cover",
+      "Water bottle or hydration reservoir",
+      "Map, compass and/or GPS device (with offline maps)",
+      "Phone power bank and weatherproof case",
+      "Snacks and high-energy foods",
+      "Personal first aid kit",
+      "Headtorch or flashlight",
+      "Emergency whistle and space blanket",
+      "Sunscreen, sunglasses and hat",
+      "Insect repellent",
+      "Trekking poles (optional)",
+      "Spare socks",
+      "Personal identification and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offer the most comfortable weather and daylight. The route can be attempted year-round with appropriate gear, but winter sections may be tougher due to shorter days and more exposed ground.",
+    "seo": {
+      "title": "Bradford Millennium Way: 140 km UK long-distance trail",
+      "meta_description": "Explore the Bradford Millennium Way, a challenging 139.8 km UK long-distance walk through urban and rural landscapes. Practical tips, terrain overview, safety reminders and gear.",
+      "h1": "Bradford Millennium Way: A 139.8 km UK Long-Distance Trail"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-19738755",
+  "slug": "woodland-red-squirrel-walk-brownsea-island-19738755",
+  "name": "Woodland Red Squirrel Walk, Brownsea Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.689509,
+    "lon": -1.9615923
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19738755
+  }
+}

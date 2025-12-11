@@ -1,0 +1,21 @@
+{
+  "id": "osm-18616073",
+  "slug": "revolution-walk-18616073",
+  "name": "Revolution Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4788451,
+    "lon": -1.9184686
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18616073
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-12642448",
+  "slug": "john-ogroats-trail-golspie-to-brora-12642448",
+  "name": "John O'Groats Trail (Golspie to Brora)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.9757342,
+    "lon": -3.9646642
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12642448
+  }
+}

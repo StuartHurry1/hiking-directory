@@ -1,0 +1,21 @@
+{
+  "id": "osm-2866086",
+  "slug": "loch-ard-sculpture-trail-2866086",
+  "name": "Loch Ard Sculpture Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.2,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 56.1784842,
+    "lon": -4.4204293
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2866086
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-7708430",
+  "slug": "the-crags-circular-path-7708430",
+  "name": "The Crags Circular Path",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 32.6,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.955878,
+    "lon": -4.521503
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 7708430
+  }
+}

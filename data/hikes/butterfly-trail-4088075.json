@@ -1,0 +1,45 @@
+{
+  "id": "osm-4088075",
+  "slug": "butterfly-trail-4088075",
+  "name": "Butterfly Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6536111,
+    "lon": -3.5968039
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 4088075
+  },
+  "ai": {
+    "summary": "Butterfly Trail is a 13.1 km moderate hike in the UK with varied terrain and scenic views. Suitable for walkers with some experience, it weaves through woodland paths, open fields, and gentle ascent sections.",
+    "terrain_summary": "Varied terrain consisting of forest tracks, grassy fields, and some uneven or muddy sections. Expect occasional gentle climbs and open viewpoints.",
+    "safety_notes": "Check the latest weather forecast before you go. Wear sturdy waterproof footwear and bring a waterproof layer. Carry a map and compass or GPS, a phone with battery backup, sufficient water and snacks, and a basic first aid kit. Stay on marked routes, tell someone your planned timing, and be prepared for reduced daylight in autumn/winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Waterproof jacket and breathable layers",
+      "Backpack with rain cover",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Phone with portable charger",
+      "Basic first aid kit",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Headlamp or flashlight (in case of late finish)",
+      "Whistle for emergencies",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offers the best conditions in the UK, with longer daylight hours and less persistent rain; be prepared for mud and showers year-round.",
+    "seo": {
+      "title": "Butterfly Trail – 13.1 km Moderate Hike in the UK",
+      "meta_description": "Discover the Butterfly Trail, a 13.1 km moderate hike in the UK. Varied terrain, practical safety tips, and gear recommendations for a great day out.",
+      "h1": "Butterfly Trail (13.1 km) – Moderate Hike in the UK"
+    }
+  }
+}

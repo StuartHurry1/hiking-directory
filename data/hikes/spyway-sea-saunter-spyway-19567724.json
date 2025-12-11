@@ -1,0 +1,21 @@
+{
+  "id": "osm-19567724",
+  "slug": "spyway-sea-saunter-spyway-19567724",
+  "name": "Spyway sea saunter, Spyway",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6047318,
+    "lon": -2.0050094
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19567724
+  }
+}

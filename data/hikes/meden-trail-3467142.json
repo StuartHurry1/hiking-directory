@@ -1,0 +1,21 @@
+{
+  "id": "osm-3467142",
+  "slug": "meden-trail-3467142",
+  "name": "Meden Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.1,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.177857,
+    "lon": -1.2415895
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 3467142
+  }
+}

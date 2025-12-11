@@ -1,0 +1,21 @@
+{
+  "id": "osm-18961680",
+  "slug": "hat-hill-to-levin-down-walk-drovers-estate-18961680",
+  "name": "Hat Hill to Levin Down walk, Drovers Estate",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.1,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9103732,
+    "lon": -0.7556618
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18961680
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osm-19666582",
+  "slug": "clifftop-walk-from-birling-gap-to-exceat-south-downs-east-19666582",
+  "name": "Clifftop Walk From Birling Gap to Exceat, South Downs East",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 22.4,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.7432023,
+    "lon": 0.2018647
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19666582
+  }
+}

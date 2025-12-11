@@ -1,0 +1,40 @@
+{
+  "id": "osm-17992668",
+  "slug": "beach-walk-17992668",
+  "name": "Beach Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 0.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 57.2536247,
+    "lon": -2.0411143
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 17992668
+  },
+  "ai": {
+    "summary": "Beach Walk is a very short, easy coastal stroll in the UK, totaling about 0.6 km. It offers flat terrain along a shoreline and is suitable for most ages and fitness levels.",
+    "terrain_summary": "Flat beach terrain with sand and occasional firm wet sand near the water. Expect softer sand higher up the shore and potential uneven sections near driftwood or rocks. Tides can affect the available path.",
+    "safety_notes": "Check tide times and plan around low tide to keep the path widest. Wear sturdy footwear to handle sand and any rocks. Be aware of waves and strong currents, especially near the waterline. Protect yourself from sun with sunscreen, hat, and water. Stay with others, and mind crowds on busy beaches. Accessibility may vary with sand depth and weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Light layer or jacket",
+      "Tide timetable or tide-aware app",
+      "Phone with emergency contacts and local map"
+    ],
+    "best_seasons": "Spring to autumn in mild, dry conditions; it can be enjoyed year-round with warmer clothing.",
+    "seo": {
+      "title": "Beach Walk – 0.6 km Easy UK Coastal Stroll",
+      "meta_description": "Enjoy a short and easy 0.6 km Beach Walk along a UK shoreline. Learn about terrain, safety, and gear for a quick, comfortable coastal stroll.",
+      "h1": "Beach Walk: 0.6 km Easy Coastal Stroll (UK)"
+    }
+  }
+}

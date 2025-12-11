@@ -1,0 +1,21 @@
+{
+  "id": "osm-12819037",
+  "slug": "wildwood-trail-12819037",
+  "name": "Wildwood Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.4,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.1987051,
+    "lon": -1.066633
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12819037
+  }
+}

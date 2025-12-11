@@ -1,0 +1,21 @@
+{
+  "id": "osm-19365528",
+  "slug": "melford-hall-to-lavenham-railway-walk-melford-hall-and-lavenham-guildhall-19365528",
+  "name": "Melford Hall to Lavenham Railway Walk, Melford Hall and Lavenham Guildhall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24.8,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0835567,
+    "lon": 0.7215834
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19365528
+  }
+}

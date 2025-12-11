@@ -1,0 +1,23 @@
+{
+  "id": "osm-15462127",
+  "slug": "king-charles-iii-england-coast-path-walney-island-15462127",
+  "name": "King Charles III England Coast Path: Walney Island",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 37.6,
+  "difficulty": "hard",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.1072008,
+    "lon": -3.2463477
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15462127
+  }
+}

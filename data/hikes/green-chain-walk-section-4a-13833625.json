@@ -1,0 +1,21 @@
+{
+  "id": "osm-13833625",
+  "slug": "green-chain-walk-section-4a-13833625",
+  "name": "Green Chain Walk section 4A",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 13.9,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4813241,
+    "lon": 0.0451038
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 13833625
+  }
+}

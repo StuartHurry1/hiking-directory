@@ -1,0 +1,21 @@
+{
+  "id": "osm-19129584",
+  "slug": "lydstep-cliffs-and-caverns-walk-stackpole-19129584",
+  "name": "Lydstep Cliffs and Caverns Walk, Stackpole",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.9,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.6459938,
+    "lon": -4.7646495
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19129584
+  }
+}

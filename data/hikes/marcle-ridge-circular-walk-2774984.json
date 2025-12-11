@@ -1,0 +1,23 @@
+{
+  "id": "osm-2774984",
+  "slug": "marcle-ridge-circular-walk-2774984",
+  "name": "Marcle Ridge Circular Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0161459,
+    "lon": -2.5394666
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2774984
+  }
+}

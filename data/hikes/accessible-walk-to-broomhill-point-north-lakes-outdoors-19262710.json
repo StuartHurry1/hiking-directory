@@ -1,0 +1,46 @@
+{
+  "id": "osm-19262710",
+  "slug": "accessible-walk-to-broomhill-point-north-lakes-outdoors-19262710",
+  "name": "Accessible walk to Broomhill Point, North Lakes Outdoors",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 9.2,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal",
+    "lakes"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.5921141,
+    "lon": -3.1360933
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19262710
+  },
+  "ai": {
+    "summary": "A 9.2 km moderate hike from North Lakes Outdoors to Broomhill Point, combining coastal and lakeside scenery. The route is accessible to most walkers with steady footing and a reasonable level of fitness.",
+    "terrain_summary": "Varied terrain includes coastal paths, lakeside trails, compact gravel and occasional boardwalks. Expect uneven ground, gentle gradients, and potential mud or slippery surfaces after rain or near the shoreline.",
+    "safety_notes": "Check tide times and weather forecast before starting; coastal sections can be affected by tides. Wear sturdy footwear with good grip and bring a lightweight waterproof layer. Stay on marked paths; watch for uneven ground, roots and loose gravel. Carry a map or GPS and ensure your phone is charged. Tell someone your plan and expected return time. Stay hydrated, carry snacks, and be prepared for sudden weather changes; in exposed sections, protect against wind chill and sun exposure.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Map or GPS",
+      "Mobile phone with emergency numbers",
+      "Snacks",
+      "Small first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for drier, more predictable conditions and longer daylight; summer offers the best visibility, while winter can be exposed with stronger winds and slip hazards.",
+    "seo": {
+      "title": "Accessible walk to Broomhill Point, UK – 9.2 km coastal-lakes hike",
+      "meta_description": "Explore the Accessible walk to Broomhill Point in the UK. A 9.2 km moderate hike through coastal and lakeside scenery with practical safety tips and gear.",
+      "h1": "Accessible walk to Broomhill Point, North Lakes Outdoors (UK)"
+    }
+  }
+}

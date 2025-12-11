@@ -1,0 +1,23 @@
+{
+  "id": "osm-11498083",
+  "slug": "trondra-hall-to-trondra-bridge-11498083",
+  "name": "Trondra Hall to Trondra Bridge",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.5,
+  "difficulty": "easy",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 60.1252568,
+    "lon": -1.2840496
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11498083
+  }
+}

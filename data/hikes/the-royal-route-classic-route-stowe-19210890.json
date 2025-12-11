@@ -1,0 +1,21 @@
+{
+  "id": "osm-19210890",
+  "slug": "the-royal-route-classic-route-stowe-19210890",
+  "name": "The Royal Route (Classic Route), Stowe",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.0284722,
+    "lon": -1.0166468
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19210890
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16146744",
+  "slug": "hoxa-head-16146744",
+  "name": "Hoxa Head",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.8222379,
+    "lon": -3.0275939
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16146744
+  }
+}

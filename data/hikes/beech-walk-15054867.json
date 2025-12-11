@@ -1,0 +1,41 @@
+{
+  "id": "osm-15054867",
+  "slug": "beech-walk-15054867",
+  "name": "Beech Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.3049947,
+    "lon": -1.1015099
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 15054867
+  },
+  "ai": {
+    "summary": "Beech Walk is a short, easy 2.6 km hike through beech woodland in the UK. The trail is gentle and well-marked, making it suitable for families and casual walkers seeking a quick nature stroll.",
+    "terrain_summary": "The route runs on a flat to gently undulating dirt and gravel path through beech trees. Expect occasional tree roots and some damp sections after rain; the trail is generally well-maintained and clearly waymarked.",
+    "safety_notes": "Always check the weather before you go; UK conditions can change quickly. Stick to the marked path, watch for exposed roots and slippery surfaces, and wear sturdy footwear. Bring a map or a charged phone, water, and a small first-aid kit. If walking with children or dogs, keep them close and under control. Let someone know your plans and remember daylight hours can be short in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Lightweight backpack",
+      "Map or offline navigation (or ensure phone has signal)",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically from spring to autumn when the trails are drier and the scenery is at its best. Winter visits are possible but can be muddy and visibility may be reduced in fog.",
+    "seo": {
+      "title": "Beech Walk - Easy 2.6 km Hike Through Beech Woodland in the UK",
+      "meta_description": "Explore Beech Walk: a short and easy 2.6 km hike in the UK through beech woodland. Find terrain details, safety tips, gear suggestions, and best seasons for this family-friendly stroll.",
+      "h1": "Beech Walk: An Easy 2.6 km Hike Through Beech Woodland in the UK"
+    }
+  }
+}

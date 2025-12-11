@@ -1,0 +1,21 @@
+{
+  "id": "osm-12833727",
+  "slug": "green-walk-12833727",
+  "name": "Green Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 7.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.7429953,
+    "lon": -0.5125263
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12833727
+  }
+}

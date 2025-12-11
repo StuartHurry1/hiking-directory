@@ -1,0 +1,21 @@
+{
+  "id": "osm-18667110",
+  "slug": "walk-tipton-heritage-trail-18667110",
+  "name": "Walk Tipton Heritage Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.7,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5292308,
+    "lon": -2.0676457
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18667110
+  }
+}

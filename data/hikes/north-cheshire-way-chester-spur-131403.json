@@ -1,0 +1,21 @@
+{
+  "id": "osm-131403",
+  "slug": "north-cheshire-way-chester-spur-131403",
+  "name": "North Cheshire Way (Chester Spur)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.2322408,
+    "lon": -2.9001198
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 131403
+  }
+}

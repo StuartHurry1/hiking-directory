@@ -1,0 +1,21 @@
+{
+  "id": "osm-19366869",
+  "slug": "family-trail-mottistone-19366869",
+  "name": "Family Trail, Mottistone",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.6476371,
+    "lon": -1.4341772
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19366869
+  }
+}

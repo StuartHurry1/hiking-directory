@@ -1,0 +1,43 @@
+{
+  "id": "osm-1702448",
+  "slug": "acw-circular-walk-11a-short-cut-on-c11-1702448",
+  "name": "ACW Circular Walk 11A (short-cut on C11)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 24,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4081166,
+    "lon": -1.3695446
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1702448
+  },
+  "ai": {
+    "summary": "A challenging 24 km circular hike in the UK, known as ACW Circular Walk 11A (short-cut on C11). The route weaves across countryside lanes, woodland tracks, and fields, demanding sturdy boots, steady navigation, and good stamina from experienced hikers.",
+    "terrain_summary": "Mixed terrain throughout: firm gravel and field paths, muddy trails after rain, occasional road sections, and several stiles. Expect gentle to moderate ascents with the potential for longer uphill stretches depending on the chosen shortcut and section of C11.",
+    "safety_notes": "Plan for 6–9 hours depending on pace and conditions. Start early in daylight and borrow a map/compass in addition to any GPS. Mobile signal can be patchy in rural areas—carry a fully charged phone and a backup navigation method. Wear sturdy waterproof boots and dress in layers with rain protection. Bring enough water and energy snacks, plus a small first aid kit and a whistle. Let someone know your route and expected finish time; be prepared for uneven surfaces, farm gates, and potentially livestock on farmland.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS) and knowledge to navigate",
+      "Headlamp or flashlight with extra batteries",
+      "Small first aid kit and blister care",
+      "Rain gear and sun protection (hat, sunscreen)",
+      "Mobile phone with emergency contacts and powerbank",
+      "Whistle and personal identification"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for daylight and milder weather; winter hiking is possible with extra caution and appropriate gear.",
+    "seo": {
+      "title": "ACW Circular Walk 11A (Short-cut on C11) – 24 km Hard Circular Hike in the UK",
+      "meta_description": "Discover the challenging 24 km ACW Circular Walk 11A (short-cut on C11) in the UK. This hard circular hike covers varied terrain across countryside lanes and woodlands, demanding good fitness and navigation.",
+      "h1": "ACW Circular Walk 11A (Short-cut on C11) – 24 km Hard Circular Hike in the UK"
+    }
+  }
+}

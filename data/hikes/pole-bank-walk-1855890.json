@@ -1,0 +1,21 @@
+{
+  "id": "osm-1855890",
+  "slug": "pole-bank-walk-1855890",
+  "name": "Pole Bank Walk",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 15.5,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.5525041,
+    "lon": -2.8556404
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1855890
+  }
+}

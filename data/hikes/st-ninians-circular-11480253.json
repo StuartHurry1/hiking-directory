@@ -1,0 +1,21 @@
+{
+  "id": "osm-11480253",
+  "slug": "st-ninians-circular-11480253",
+  "name": "St Ninians Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 11.6,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 59.9729852,
+    "lon": -1.3249345
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 11480253
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-18220972",
+  "slug": "the-wildlife-trail-18220972",
+  "name": "The Wildlife Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 14.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4912819,
+    "lon": 0.8479847
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 18220972
+  }
+}

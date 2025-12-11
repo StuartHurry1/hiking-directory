@@ -1,0 +1,23 @@
+{
+  "id": "osm-19058699",
+  "slug": "kendal-to-sizergh-along-the-river-kent-19058699",
+  "name": "Kendal to Sizergh along the River Kent",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 21.4,
+  "difficulty": "hard",
+  "themes": [
+    "ridges"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.2829218,
+    "lon": -2.7568604
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19058699
+  }
+}

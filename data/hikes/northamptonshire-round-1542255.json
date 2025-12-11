@@ -1,0 +1,21 @@
+{
+  "id": "osm-1542255",
+  "slug": "northamptonshire-round-1542255",
+  "name": "Northamptonshire Round",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 206.7,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.2239111,
+    "lon": -0.7547628
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 1542255
+  }
+}

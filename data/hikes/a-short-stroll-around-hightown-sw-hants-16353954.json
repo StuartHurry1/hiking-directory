@@ -1,0 +1,40 @@
+{
+  "id": "osm-16353954",
+  "slug": "a-short-stroll-around-hightown-sw-hants-16353954",
+  "name": "A Short Stroll Around Hightown, SW Hants",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 3.7,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.8463963,
+    "lon": -1.7494156
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16353954
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km circular stroll around Hightown in Southwest Hampshire, UK. This easy route suits families and casual walkers seeking a quick, low-effort outing.",
+    "terrain_summary": "Mostly well-surfaced paths with short sections of compact gravel and grassy verges. Gentle slopes and occasional uneven spots near edges.",
+    "safety_notes": "This is an easy walk, but always plan ahead: check weather, wear sturdy shoes, stay on marked paths, and be mindful of road crossings. Bring water, sun protection in warm conditions, and keep pets under control. In exposed sections, watch for wind and ensure children stay within sight.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Light waterproof jacket and an extra layer",
+      "Water bottle",
+      "Sunscreen, hat and sunglasses",
+      "Map, GPS device or charged phone",
+      "Light snack or energy bar"
+    ],
+    "best_seasons": "Spring and Summer",
+    "seo": {
+      "title": "A Short Stroll Around Hightown, SW Hants – 3.7 km Easy Walk (UK)",
+      "meta_description": "Enjoy a gentle 3.7 km circular walk around Hightown in Southwest Hampshire, UK. An easy, family-friendly route with accessible paths and scenic countryside.",
+      "h1": "A Short Stroll Around Hightown, SW Hants – 3.7 km Easy Walk"
+    }
+  }
+}

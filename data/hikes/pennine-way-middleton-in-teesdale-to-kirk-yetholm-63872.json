@@ -1,0 +1,21 @@
+{
+  "id": "osm-63872",
+  "slug": "pennine-way-middleton-in-teesdale-to-kirk-yetholm-63872",
+  "name": "Pennine Way (Middleton in Teesdale to Kirk Yetholm)",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 324.9,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 55.5460822,
+    "lon": -2.2740907
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 63872
+  }
+}

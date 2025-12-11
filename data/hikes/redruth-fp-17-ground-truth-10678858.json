@@ -1,0 +1,21 @@
+{
+  "id": "osm-10678858",
+  "slug": "redruth-fp-17-ground-truth-10678858",
+  "name": "Redruth FP 17 Ground Truth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.253634,
+    "lon": -5.2154559
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 10678858
+  }
+}

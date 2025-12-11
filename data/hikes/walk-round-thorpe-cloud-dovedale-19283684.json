@@ -1,0 +1,21 @@
+{
+  "id": "osm-19283684",
+  "slug": "walk-round-thorpe-cloud-dovedale-19283684",
+  "name": "Walk Round Thorpe Cloud, Dovedale",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 6.3,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 53.0556493,
+    "lon": -1.7827862
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19283684
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "osm-16162586",
+  "slug": "old-man-of-hoy-trail-16162586",
+  "name": "Old Man of Hoy Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.2,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 58.8732798,
+    "lon": -3.3860689
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 16162586
+  }
+}

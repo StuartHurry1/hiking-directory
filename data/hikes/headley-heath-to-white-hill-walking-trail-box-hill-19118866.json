@@ -1,0 +1,21 @@
+{
+  "id": "osm-19118866",
+  "slug": "headley-heath-to-white-hill-walking-trail-box-hill-19118866",
+  "name": "Headley Heath to White Hill Walking Trail, Box Hill",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 16.2,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.2705566,
+    "lon": -0.2744848
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19118866
+  }
+}

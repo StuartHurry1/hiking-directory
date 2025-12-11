@@ -1,0 +1,21 @@
+{
+  "id": "osm-6257265",
+  "slug": "loughbricklandwhyte-estate-boundary-trail-6257265",
+  "name": "Loughbrickland/Whyte Estate - Boundary Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.8,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 54.3209314,
+    "lon": -6.304606
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6257265
+  }
+}

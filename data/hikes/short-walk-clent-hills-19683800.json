@@ -1,0 +1,21 @@
+{
+  "id": "osm-19683800",
+  "slug": "short-walk-clent-hills-19683800",
+  "name": "Short Walk, Clent Hills",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 5.3,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4243068,
+    "lon": -2.0941184
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19683800
+  }
+}

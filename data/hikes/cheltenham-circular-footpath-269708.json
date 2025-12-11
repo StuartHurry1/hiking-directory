@@ -1,0 +1,21 @@
+{
+  "id": "osm-269708",
+  "slug": "cheltenham-circular-footpath-269708",
+  "name": "Cheltenham Circular Footpath",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 150.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.8663346,
+    "lon": -2.027816
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 269708
+  }
+}

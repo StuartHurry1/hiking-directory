@@ -1,0 +1,21 @@
+{
+  "id": "osm-6184772",
+  "slug": "tiverton-and-cullompton-circular-6184772",
+  "name": "Tiverton & Cullompton Circular",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 47.4,
+  "difficulty": "hard",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.9023528,
+    "lon": -3.4802369
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 6184772
+  }
+}

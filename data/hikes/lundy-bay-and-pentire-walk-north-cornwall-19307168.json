@@ -1,0 +1,23 @@
+{
+  "id": "osm-19307168",
+  "slug": "lundy-bay-and-pentire-walk-north-cornwall-19307168",
+  "name": "Lundy Bay and Pentire walk, North Cornwall",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 8.8,
+  "difficulty": "moderate",
+  "themes": [
+    "coastal"
+  ],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5791984,
+    "lon": -4.8932424
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19307168
+  }
+}

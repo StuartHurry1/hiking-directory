@@ -1,0 +1,21 @@
+{
+  "id": "osm-19747384",
+  "slug": "upper-arboretum-route-winkworth-19747384",
+  "name": "Upper Arboretum Route, Winkworth",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 2.6,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.1625975,
+    "lon": -0.5827177
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19747384
+  }
+}

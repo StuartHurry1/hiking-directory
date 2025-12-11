@@ -1,0 +1,21 @@
+{
+  "id": "osm-12663168",
+  "slug": "capital-ring-link-to-ravensbourne-station-12663168",
+  "name": "Capital Ring link to Ravensbourne station",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 1.5,
+  "difficulty": "easy",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 51.4142962,
+    "lon": -0.007954
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 12663168
+  }
+}

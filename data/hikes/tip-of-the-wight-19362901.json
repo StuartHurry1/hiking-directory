@@ -1,0 +1,21 @@
+{
+  "id": "osm-19362901",
+  "slug": "tip-of-the-wight-19362901",
+  "name": "Tip of the Wight",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 12.8,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 50.5805424,
+    "lon": -1.3029582
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 19362901
+  }
+}

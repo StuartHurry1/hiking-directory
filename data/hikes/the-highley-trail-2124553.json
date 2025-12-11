@@ -1,0 +1,21 @@
+{
+  "id": "osm-2124553",
+  "slug": "the-highley-trail-2124553",
+  "name": "The Highley Trail",
+  "region": "Unknown region",
+  "country": "UK",
+  "distanceKm": 10.5,
+  "difficulty": "moderate",
+  "themes": [],
+  "transport": {
+    "access_tags": []
+  },
+  "start": {
+    "lat": 52.4533054,
+    "lon": -2.3648474
+  },
+  "source": {
+    "type": "osm",
+    "osmId": 2124553
+  }
+}
