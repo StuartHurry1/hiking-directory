@@ -8,6 +8,10 @@ on:
         required: true
         default: "200"
 
+# Allow this workflow to push commits back to the repo
+permissions:
+  contents: write
+
 jobs:
   enrich:
     runs-on: ubuntu-latest
@@ -33,3 +37,12 @@ jobs:
 
       - name: Run enrichment script
         run: pnpm hikes:enrich
+
+      - name: Commit enriched hikes back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git status
+          git add data/hikes || echo "No hike changes to add"
+          git commit -m "Update enriched hikes [skip ci]" || echo "Nothing to commit"
+          git push
