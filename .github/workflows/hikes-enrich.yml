@@ -12,6 +12,7 @@ on:
         required: true
         default: "100"
 
+# Allow this workflow to push commits back to the repo
 permissions:
   contents: write
 
@@ -30,50 +31,28 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "pnpm"
 
       - name: Install pnpm
         run: npm install -g pnpm
 
-      - name: Show pnpm lockfile presence
-        run: |
-          ls -la
-          ls -la pnpm-lock.yaml || true
-
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
-      - name: Run enrichment script (with intermediate commits)
+      - name: Run enrichment script
         run: pnpm hikes:enrich
 
-      # Final safety commit (in case checkpoint isn't hit near the end)
-      - name: Final commit enriched hikes back to repo
+      # Final commit is still useful as a “last sweep”
+      - name: Commit enriched hikes back to repo
         run: |
-          set -e
-
-          git status
-
-          # stage changes (include CSV if you track it)
-          git add data/hikes || true
-          git add data/hike-enrichment-usage.csv || true
-
-          # commit only if there are staged changes
-          if git diff --cached --quiet; then
-            echo "Nothing to commit."
-            exit 0
-          fi
-
-          git commit -m "Update enriched hikes (final) [skip ci]"
-
-          # rebase then push to avoid non-fast-forward failures
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase
+          git status
+          git add data/hikes || echo "No hike changes to add"
+          git add data/hike-enrichment-usage.csv || echo "No CSV to add"
+          git commit -m "Update enriched hikes (final) [skip ci]" || echo "Nothing to commit"
           git push
