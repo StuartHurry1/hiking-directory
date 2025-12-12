@@ -7,13 +7,12 @@
 // This means you can run the script anytime, stop it anytime,
 // and it always continues where it left off.
 //
-// Adds optional checkpoint commits every N successful hikes (CI-friendly):
-// - Sets git identity inside the script
-// - Does a safe `git pull --rebase` before committing
-// - Checkpoint failures are NON-FATAL (enrichment continues)
+// Adds optional checkpoint commits every N successful hikes (CI-friendly).
+// - Configures git identity (local repo config) inside the script
+// - Safe `git pull --rebase` before checkpoint commit
+// - Non-fatal checkpoint failures (logs and continues)
 
 import 'dotenv/config';
-
 import fs from 'node:fs';
 import path from 'node:path';
 import OpenAI from 'openai';
@@ -41,10 +40,11 @@ const CSV_PATH = path.join(process.cwd(), 'data', 'hike-enrichment-usage.csv');
 
 function ensureCsvHeader() {
   if (!fs.existsSync(CSV_PATH)) {
+    fs.mkdirSync(path.dirname(CSV_PATH), { recursive: true });
     fs.writeFileSync(
       CSV_PATH,
       'slug,input_tokens,output_tokens,total_tokens,cost_usd,timestamp\n',
-      'utf8',
+      'utf8'
     );
   }
 }
@@ -55,42 +55,34 @@ function appendCsvRow(slug: string, input: number, output: number, cost: number)
   fs.appendFileSync(
     CSV_PATH,
     `${slug},${input},${output},${total},${cost.toFixed(6)},${timestamp}\n`,
-    'utf8',
+    'utf8'
   );
 }
 
 // ---------- Settings ----------
-function parsePositiveInt(raw: string | undefined, fallback: number) {
-  const n = raw ? Number(raw) : fallback;
-  return Number.isFinite(n) && n > 0 ? Math.floor(n) : fallback;
-}
-
-function parseNonNegativeInt(raw: string | undefined, fallback: number) {
-  const n = raw ? Number(raw) : fallback;
-  return Number.isFinite(n) && n >= 0 ? Math.floor(n) : fallback;
-}
-
 function getMaxPerRun() {
-  return parsePositiveInt(process.env.HIKES_ENRICH_MAX_PER_RUN, 20);
+  const raw = process.env.HIKES_ENRICH_MAX_PER_RUN;
+  const n = raw ? Number(raw) : 20;
+  return Number.isFinite(n) && n > 0 ? n : 20;
 }
 
 function getDelayMs() {
-  return parseNonNegativeInt(process.env.HIKES_ENRICH_DELAY_MS, 1000);
+  const raw = process.env.HIKES_ENRICH_DELAY_MS;
+  const n = raw ? Number(raw) : 1000;
+  return Number.isFinite(n) && n >= 0 ? n : 1000;
 }
 
-/**
- * Checkpoint commit every N successful hikes.
- * - If unset/invalid/<=0, checkpoints are disabled.
- */
 function getCheckpointEvery() {
   const raw = process.env.HIKES_ENRICH_CHECKPOINT_EVERY;
-  const n = raw ? Number(raw) : 0;
-  return Number.isFinite(n) && n > 0 ? Math.floor(n) : 0;
+  if (!raw) return 0; // 0 = disabled
+  const n = Number(raw);
+  return Number.isFinite(n) && n > 0 ? n : 0;
 }
 
 const MAX_PER_RUN = getMaxPerRun();
 const DELAY_MS = getDelayMs();
 const CHECKPOINT_EVERY = getCheckpointEvery();
+const IS_CI = process.env.GITHUB_ACTIONS === 'true' || process.env.CI === 'true';
 
 // ---------- Helpers ----------
 function readHikes() {
@@ -100,11 +92,7 @@ function readHikes() {
     process.exit(1);
   }
 
-  const files = fs
-    .readdirSync(dir)
-    .filter((f) => f.endsWith('.json'))
-    .sort((a, b) => a.localeCompare(b));
-
+  const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json'));
   const hikes = files.map((file) => {
     return JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')) as Hike;
   });
@@ -124,95 +112,84 @@ function shouldSkip(hike: Hike) {
   return !!(hike as any).ai;
 }
 
-// ---------- Git / Checkpointing ----------
-function hasGitRepo() {
-  return fs.existsSync(path.join(process.cwd(), '.git'));
+function runGit(cmd: string) {
+  return execSync(cmd, { stdio: 'pipe' }).toString('utf8').trim();
 }
 
-function execGit(cmd: string) {
-  return execSync(cmd, { stdio: 'pipe', encoding: 'utf8' }).trim();
+function logLine(msg: string) {
+  console.log(msg);
 }
 
-function safeExecGit(cmd: string): { ok: boolean; out?: string; err?: any } {
+function warnLine(msg: string) {
+  console.warn(msg);
+}
+
+// ---------- Git identity + checkpoint commit ----------
+function configureGitIdentityIfNeeded() {
+  // We only need this if we intend to checkpoint commit.
+  if (!IS_CI || CHECKPOINT_EVERY <= 0) return;
+
   try {
-    const out = execGit(cmd);
-    return { ok: true, out };
-  } catch (err) {
-    return { ok: false, err };
+    // Local-only config inside the repo (NOT global)
+    runGit(`git config user.name "github-actions[bot]"`);
+    runGit(`git config user.email "github-actions[bot]@users.noreply.github.com"`);
+  } catch (e: any) {
+    // Non-fatal; checkpoint will likely fail, but the run can still continue.
+    warnLine(`[checkpoint] Warning: failed to configure git identity: ${e?.message ?? e}`);
   }
 }
 
-/**
- * Configure identity for CI/local so git commits do not fail.
- * Non-fatal if it fails for any reason.
- */
-function ensureGitIdentity() {
-  // Prefer these if present, but default to GitHub Actions bot identity.
-  const name =
-    process.env.GIT_COMMIT_NAME ||
-    process.env.GITHUB_ACTOR ||
-    'github-actions[bot]';
+function tryCheckpointCommit(successCount: number) {
+  if (!IS_CI) return;
+  if (CHECKPOINT_EVERY <= 0) return;
+  if (successCount <= 0) return;
+  if (successCount % CHECKPOINT_EVERY !== 0) return;
 
-  const email =
-    process.env.GIT_COMMIT_EMAIL ||
-    'github-actions[bot]@users.noreply.github.com';
+  logLine(`\n📌 Checkpoint: attempting commit at ${successCount} successful enrichments...`);
 
-  safeExecGit(`git config user.name "${name}"`);
-  safeExecGit(`git config user.email "${email}"`);
-}
+  try {
+    // Rebase onto latest main to reduce push conflicts.
+    // If it fails (rare), we log and continue; final sweep step still exists in workflow.
+    try {
+      runGit(`git pull --rebase`);
+    } catch (e: any) {
+      warnLine(`[checkpoint] Warning: git pull --rebase failed: ${e?.message ?? e}`);
+      // Continue anyway; commit might still work, push might fail.
+    }
 
-function checkpointMessage(totalProcessed: number) {
-  return `Enrich hikes checkpoint: ${totalProcessed} processed [skip ci]`;
-}
+    // Stage updated files
+    try {
+      runGit(`git add data/hikes`);
+    } catch {
+      // ignore
+    }
+    try {
+      runGit(`git add data/hike-enrichment-usage.csv`);
+    } catch {
+      // ignore
+    }
 
-/**
- * Creates a checkpoint commit + push.
- * - Safe pull --rebase first
- * - Non-fatal on any failure (keeps enrichment running)
- */
-function commitCheckpoint(totalProcessed: number) {
-  if (!hasGitRepo()) {
-    console.log('  ⓘ Checkpoint skipped (no .git repo found).');
-    return;
+    // If nothing staged, skip commit
+    const status = runGit(`git status --porcelain`);
+    if (!status) {
+      logLine(`[checkpoint] Nothing to commit at ${successCount}.`);
+      return;
+    }
+
+    // Commit + push
+    // Note: keep message stable so you can track checkpoint commits in history.
+    runGit(`git commit -m "Enrich hikes checkpoint: ${successCount} processed [skip ci]"`);
+
+    try {
+      runGit(`git push`);
+      logLine(`✅ Checkpoint pushed: ${successCount}`);
+    } catch (e: any) {
+      warnLine(`[checkpoint] Warning: git push failed: ${e?.message ?? e}`);
+      // Non-fatal: enrichment results remain in the runner workspace, and final workflow step may still push.
+    }
+  } catch (e: any) {
+    warnLine(`[checkpoint] Non-fatal checkpoint failure: ${e?.message ?? e}`);
   }
-
-  console.log(`  📌 Checkpoint: attempting commit at ${totalProcessed} processed...`);
-
-  ensureGitIdentity();
-
-  // Keep local branch up to date (safe, non-fatal)
-  const pull = safeExecGit('git pull --rebase');
-  if (!pull.ok) {
-    console.log('  ⚠️  Checkpoint: git pull --rebase failed (continuing).');
-  }
-
-  // Stage changes (safe, non-fatal)
-  const addHikes = safeExecGit('git add data/hikes');
-  if (!addHikes.ok) {
-    console.log('  ⚠️  Checkpoint: could not stage data/hikes (continuing).');
-  }
-
-  const addCsv = safeExecGit('git add data/hike-enrichment-usage.csv');
-  if (!addCsv.ok) {
-    // CSV may be ignored locally or not present yet; not fatal
-  }
-
-  // Commit (if nothing to commit, keep going)
-  const msg = checkpointMessage(totalProcessed);
-  const commit = safeExecGit(`git commit -m "${msg}"`);
-  if (!commit.ok) {
-    console.log('  ⓘ Checkpoint: nothing to commit (or commit failed). Continuing.');
-    return;
-  }
-
-  // Push (non-fatal)
-  const push = safeExecGit('git push');
-  if (!push.ok) {
-    console.log('  ⚠️  Checkpoint: git push failed (continuing).');
-    return;
-  }
-
-  console.log('  ✅ Checkpoint commit pushed.');
 }
 
 // ---------- GPT-5 Nano Request ----------
@@ -236,7 +213,7 @@ Return ONLY valid JSON:
 }
 
 Hike details:
-Name: ${(hike as any).name}
+Name: ${hike.name}
 Region: ${(hike as any).region ?? 'Unknown'}
 Country: ${(hike as any).country ?? 'Unknown'}
 Distance (km): ${(hike as any).distanceKm ?? 'Unknown'}
@@ -257,7 +234,6 @@ Themes: ${themes.length ? themes.join(', ') : 'none'}
   if (!content) throw new Error('Empty response');
 
   const ai = JSON.parse(content);
-
   const usage = completion.usage ?? { prompt_tokens: 0, completion_tokens: 0 };
 
   return {
@@ -301,9 +277,11 @@ async function main() {
   console.log('=== Hiking Enrichment (GPT-5 Nano + Auto-Resume) ===');
   console.log(`Batch size: ${MAX_PER_RUN}`);
   console.log(`Delay: ${DELAY_MS}ms`);
-  console.log(`Checkpoint every: ${CHECKPOINT_EVERY > 0 ? CHECKPOINT_EVERY : 'disabled'}\n`);
+  console.log(`Checkpoint every: ${CHECKPOINT_EVERY || 'disabled'}`);
+  console.log(`CI mode: ${IS_CI ? 'true' : 'false'}\n`);
 
   ensureCsvHeader();
+  configureGitIdentityIfNeeded();
 
   const { hikes, dir } = readHikes();
 
@@ -326,42 +304,37 @@ async function main() {
   let totalOutput = 0;
   let processed = 0;
   let failed = 0;
-
-  // For checkpoints
-  let successfulSinceCheckpoint = 0;
+  let successes = 0;
 
   for (const hike of toProcess) {
-    console.log(`\n[${processed + 1}/${toProcess.length}] Enriching: ${(hike as any).slug}`);
+    console.log(`\n[${processed + 1}/${toProcess.length}] Enriching: ${hike.slug}`);
 
     try {
       const { ai, inputTokens, outputTokens } = await enrichWithRetry(hike);
 
       const cost = estimateCost(inputTokens, outputTokens);
 
-      // Save updated hike (adds ai)
-      saveHike(dir, { ...(hike as any), ai } as Hike);
+      // Save updated hike
+      saveHike(dir, { ...(hike as any), ai });
 
-      // CSV log
-      appendCsvRow((hike as any).slug, inputTokens, outputTokens, cost);
-
-      // Counters
+      // Update counters
       processed++;
+      successes++;
       totalInput += inputTokens;
       totalOutput += outputTokens;
 
-      successfulSinceCheckpoint++;
+      // CSV log
+      appendCsvRow(hike.slug, inputTokens, outputTokens, cost);
 
       console.log(`  ✔ Saved | in/out ${inputTokens}/${outputTokens} | cost $${cost.toFixed(6)}`);
 
-      // Checkpoint commit every N successful saves
-      if (CHECKPOINT_EVERY > 0 && successfulSinceCheckpoint >= CHECKPOINT_EVERY) {
-        commitCheckpoint(processed);
-        successfulSinceCheckpoint = 0;
-      }
-    } catch (err: any) {
+      // Optional checkpoint commit (non-fatal)
+      tryCheckpointCommit(successes);
+    } catch (e: any) {
+      processed++;
       failed++;
-      console.log(`  ✖ Failed: ${(hike as any).slug}`);
-      // keep going
+      console.log(`  ✖ Failed: ${hike.slug} (${e?.message ?? 'unknown error'})`);
+      // No checkpoint on failure
     }
 
     if (DELAY_MS > 0) await sleep(DELAY_MS);
@@ -371,10 +344,10 @@ async function main() {
 
   console.log('\n=== Batch Complete ===');
   console.log(`Processed: ${processed}`);
+  console.log(`Succeeded: ${successes}`);
   console.log(`Failed: ${failed}`);
-  console.log(`Remaining after this batch: ${remaining - processed}`);
-  console.log(`Batch input/output tokens: ${totalInput}/${totalOutput}`);
-  console.log(`Batch cost (est.): $${batchCost.toFixed(6)}`);
+  console.log(`Remaining after this batch: ${remaining - successes}`);
+  console.log(`Batch cost: $${batchCost.toFixed(6)}`);
   console.log(`CSV: ${CSV_PATH}`);
   console.log('=========================\n');
 
