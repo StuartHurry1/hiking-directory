@@ -14,8 +14,23 @@
 import 'dotenv/config';
 import fs from 'node:fs';
 import path from 'node:path';
+import { execSync } from 'node:child_process';
 import OpenAI from 'openai';
 import { Hike } from './hike-types';
+
+// ---------- Environment guards ----------
+function isGitHubActions(): boolean {
+  return process.env.GITHUB_ACTIONS === 'true';
+}
+
+function hasGit(): boolean {
+  try {
+    execSync('git --version', { stdio: 'ignore' });
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 // ---------- API Key Check ----------
 if (!process.env.OPENAI_API_KEY) {
@@ -63,20 +78,39 @@ function appendCsvRow(
 }
 
 // ---------- Settings ----------
-function getMaxPerRun() {
-  const raw = process.env.HIKES_ENRICH_MAX_PER_RUN;
-  const n = raw ? Number(raw) : 20;
-  return Number.isFinite(n) && n > 0 ? n : 20;
+function getNumberEnv(name: string, fallback: number) {
+  const raw = process.env[name];
+  const n = raw ? Number(raw) : fallback;
+  return Number.isFinite(n) && n > 0 ? n : fallback;
 }
 
-function getDelayMs() {
-  const raw = process.env.HIKES_ENRICH_DELAY_MS;
-  const n = raw ? Number(raw) : 1000;
-  return Number.isFinite(n) && n >= 0 ? n : 1000;
-}
+const MAX_PER_RUN = getNumberEnv('HIKES_ENRICH_MAX_PER_RUN', 20);
+const DELAY_MS = getNumberEnv('HIKES_ENRICH_DELAY_MS', 1000);
+const CHECKPOINT_EVERY = getNumberEnv('HIKES_ENRICH_CHECKPOINT_EVERY', 100);
 
-const MAX_PER_RUN = getMaxPerRun();
-const DELAY_MS = getDelayMs();
+// ---------- Git checkpointing ----------
+function commitCheckpoint(label: string) {
+  if (!isGitHubActions()) return;
+  if (!hasGit()) return;
+
+  try {
+    console.log(`\n📦 Checkpoint commit: ${label}`);
+
+    execSync('git status --porcelain', { stdio: 'inherit' });
+    execSync('git add data/hikes', { stdio: 'inherit' });
+    execSync(
+      `git commit -m "${label} [skip ci]"`,
+      { stdio: 'inherit' }
+    );
+
+    // Avoid conflicts if repo moved on
+    execSync('git pull --rebase', { stdio: 'inherit' });
+    execSync('git push', { stdio: 'inherit' });
+
+  } catch (err) {
+    console.error('⚠️ Checkpoint commit failed:', err);
+  }
+}
 
 // ---------- Helpers ----------
 function readHikes() {
@@ -87,12 +121,9 @@ function readHikes() {
   }
 
   const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json'));
-
-  const hikes = files.map((file) => {
-    return JSON.parse(
-      fs.readFileSync(path.join(dir, file), 'utf8')
-    ) as Hike;
-  });
+  const hikes = files.map((file) =>
+    JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')) as Hike
+  );
 
   return { hikes, dir };
 }
@@ -140,41 +171,28 @@ Country: ${hike.country ?? 'Unknown'}
 Distance (km): ${hike.distanceKm ?? 'Unknown'}
 Difficulty: ${hike.difficulty ?? 'Unknown'}
 Themes: ${themes.length ? themes.join(', ') : 'none'}
-  `.trim();
+`.trim();
 
-  try {
-    const completion = await openai.chat.completions.create({
-      model: "gpt-5-nano",
-      response_format: { type: "json_object" },
-      messages: [
-        {
-          role: "system",
-          content: "Output concise JSON ONLY. No markdown."
-        },
-        {
-          role: "user",
-          content: userPrompt
-        }
-      ]
-    });
+  const completion = await openai.chat.completions.create({
+    model: 'gpt-5-nano',
+    response_format: { type: 'json_object' },
+    messages: [
+      { role: 'system', content: 'Output concise JSON ONLY. No markdown.' },
+      { role: 'user', content: userPrompt }
+    ]
+  });
 
-    const content = completion.choices[0]?.message?.content;
-    if (!content) throw new Error("Empty response");
+  const content = completion.choices[0]?.message?.content;
+  if (!content) throw new Error('Empty response');
 
-    const ai = JSON.parse(content);
+  const ai = JSON.parse(content);
+  const usage = completion.usage ?? { prompt_tokens: 0, completion_tokens: 0 };
 
-    const usage = completion.usage ?? { prompt_tokens: 0, completion_tokens: 0 };
-
-    return {
-      ai,
-      inputTokens: usage.prompt_tokens ?? 0,
-      outputTokens: usage.completion_tokens ?? 0
-    };
-
-  } catch (err) {
-    console.error(`OpenAI error for hike ${hike.slug}:`, err.message);
-    throw err;
-  }
+  return {
+    ai,
+    inputTokens: usage.prompt_tokens ?? 0,
+    outputTokens: usage.completion_tokens ?? 0
+  };
 }
 
 // ---------- Retry Wrapper ----------
@@ -187,17 +205,7 @@ async function enrichWithRetry(hike: Hike, maxRetries = 2) {
     } catch (err: any) {
       attempt++;
 
-      const code = err?.code ?? err?.error?.code;
-
-      if (code === "insufficient_quota") {
-        console.error("\nQuota exceeded — stopping immediately.\n");
-        throw err;
-      }
-
-      if (attempt > maxRetries) {
-        console.error(`FAILED after ${attempt} attempts.`);
-        throw err;
-      }
+      if (attempt > maxRetries) throw err;
 
       const backoff = 2000 * attempt;
       console.log(`Retrying in ${backoff}ms…`);
@@ -206,35 +214,31 @@ async function enrichWithRetry(hike: Hike, maxRetries = 2) {
   }
 }
 
-// ---------- MAIN (AUTO-RESUME MODE) ----------
+// ---------- MAIN ----------
 async function main() {
-  console.log("=== Hiking Enrichment (GPT-5 Nano + Auto-Resume) ===");
+  console.log('=== Hiking Enrichment (GPT-5 Nano + Auto-Resume) ===');
   console.log(`Batch size: ${MAX_PER_RUN}`);
-  console.log(`Delay: ${DELAY_MS}ms\n`);
+  console.log(`Delay: ${DELAY_MS}ms`);
+  console.log(`Checkpoint every: ${CHECKPOINT_EVERY}`);
+  console.log(`Running in GitHub Actions: ${isGitHubActions()}\n`);
 
   ensureCsvHeader();
 
   const { hikes, dir } = readHikes();
-
   const pending = hikes.filter((h) => !shouldSkip(h));
-  const remaining = pending.length;
 
-  if (remaining === 0) {
-    console.log("All hikes already enriched.");
+  if (pending.length === 0) {
+    console.log('All hikes already enriched.');
     return;
   }
 
-  console.log(`Total hikes: ${hikes.length}`);
-  console.log(`Already enriched: ${hikes.length - remaining}`);
-  console.log(`Remaining: ${remaining}`);
-  console.log(`This run will process up to: ${MAX_PER_RUN}\n`);
-
   const toProcess = pending.slice(0, MAX_PER_RUN);
 
-  let totalInput = 0;
-  let totalOutput = 0;
   let processed = 0;
   let failed = 0;
+  let sinceCheckpoint = 0;
+  let totalInput = 0;
+  let totalOutput = 0;
 
   for (const hike of toProcess) {
     console.log(
@@ -242,50 +246,62 @@ async function main() {
     );
 
     try {
-      const { ai, inputTokens, outputTokens } = await enrichWithRetry(hike);
+      const { ai, inputTokens, outputTokens } =
+        await enrichWithRetry(hike);
 
-      const cost = estimateCost(inputTokens, outputTokens);
-
-      // Save updated hike
       saveHike(dir, { ...hike, ai });
 
-      // Update counters
+      const cost = estimateCost(inputTokens, outputTokens);
+      appendCsvRow(hike.slug, inputTokens, outputTokens, cost);
+
       processed++;
+      sinceCheckpoint++;
       totalInput += inputTokens;
       totalOutput += outputTokens;
 
-      // CSV log
-      appendCsvRow(hike.slug, inputTokens, outputTokens, cost);
-
       console.log(
-        `  ✔ Saved | in/out ${inputTokens}/${outputTokens} | cost $${cost.toFixed(
-          6
-        )}`
+        `✔ Saved | in/out ${inputTokens}/${outputTokens} | cost $${cost.toFixed(6)}`
       );
+
+      if (
+        isGitHubActions() &&
+        CHECKPOINT_EVERY > 0 &&
+        sinceCheckpoint >= CHECKPOINT_EVERY
+      ) {
+        commitCheckpoint(
+          `Enrich hikes checkpoint: ${processed} processed`
+        );
+        sinceCheckpoint = 0;
+      }
 
     } catch {
       failed++;
-      console.log(`  ✖ Failed: ${hike.slug}`);
+      console.log(`✖ Failed: ${hike.slug}`);
     }
 
     if (DELAY_MS > 0) await sleep(DELAY_MS);
   }
 
+  if (
+    isGitHubActions() &&
+    CHECKPOINT_EVERY > 0 &&
+    sinceCheckpoint > 0
+  ) {
+    commitCheckpoint(
+      `Enrich hikes checkpoint: ${processed} processed (final)`
+    );
+  }
+
   const batchCost = estimateCost(totalInput, totalOutput);
 
-  console.log("\n=== Batch Complete ===");
+  console.log('\n=== Batch Complete ===');
   console.log(`Processed: ${processed}`);
   console.log(`Failed: ${failed}`);
-  console.log(`Remaining after this batch: ${remaining - processed}`);
   console.log(`Batch cost: $${batchCost.toFixed(6)}`);
-  console.log(`CSV: ${CSV_PATH}`);
-  console.log("=========================\n");
-
-  console.log("Auto-resume is active.");
-  console.log("Run the script again anytime to continue where you left off.");
+  console.log('Auto-resume is active.');
 }
 
 main().catch((err) => {
-  console.error("FATAL ERROR:", err);
+  console.error('FATAL ERROR:', err);
   process.exit(1);
 });
