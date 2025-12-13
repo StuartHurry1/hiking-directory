@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 5994646
+  },
+  "ai": {
+    "summary": "A gentle 5.6 km hike along the Fossdyke Canal Towpath in the UK. The route is flat and easy, offering tranquil water views and a relaxing walk suitable for beginners and families.",
+    "terrain_summary": "Flat towpath along the canal with mostly compact gravel or earth surfaces. Generally level with minimal elevation change; expect occasional uneven patches near water edges and typical canal features such as gates or locks. Suitable for most weather conditions with proper footwear.",
+    "safety_notes": "Stay on the towpath and be mindful of cyclists sharing the route. Keep children away from the water’s edge and watch for slippery surfaces after rain. Check the weather and wear sturdy shoes. Bring water, sunscreen, and a light layer. If you encounter canal locks or gates, follow posted safety instructions and use care when crossing bridges. Inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS-enabled device",
+      "Small backpack for essentials",
+      "Basic first aid kit",
+      "Charged mobile phone"
+    ],
+    "best_seasons": "Spring to autumn, when daylight is longer and the weather is milder. The route can be enjoyed year-round with appropriate clothing.",
+    "seo": {
+      "title": "Fossdyke Canal Trail – Easy 5.6 km Canal Walk in the UK",
+      "meta_description": "Explore the Fossdyke Canal Trail: a flat, easy 5.6 km hike along a historic UK canal. Practical safety tips, terrain overview, and gear recommendations.",
+      "h1": "Fossdyke Canal Trail – Easy 5.6 km Canal Walk"
+    }
   }
 }

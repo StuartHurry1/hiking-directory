@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15480616
+  },
+  "ai": {
+    "summary": "Fosters Trail is a short, easy 2.6 km hike in the United Kingdom, ideal for beginners and families seeking a straightforward nature walk with gentle terrain and light elevation.",
+    "terrain_summary": "A well-maintained path, typically gravel or compacted earth, with occasional grassy sections. Expect gentle inclines and potential mud after rain. Footing is generally suitable for casual walkers, but good footwear is advised.",
+    "safety_notes": "Before you go, check local conditions and daylight hours. Wear sturdy, comfortable footwear and dress for changing UK weather. Bring water and a snack, stay on marked paths, and be mindful of uneven ground or low branches. Supervise children and have a plan for reduced visibility or sudden weather changes.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (lightweight jacket, hat, and gloves if needed)",
+      "Small backpack for essentials",
+      "Map or offline navigation and a charged phone",
+      "Sunscreen and sunglasses",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn; trails are usually drier and daylight is longer, but winter hiking is possible with proper waterproof gear and extra caution.",
+    "seo": {
+      "title": "Fosters Trail – 2.6 km Easy Hike in the UK",
+      "meta_description": "Discover Fosters Trail, a gentle 2.6 km hike in the United Kingdom. Easy terrain, family-friendly route, safety tips, and packing advice.",
+      "h1": "Fosters Trail: 2.6 km Easy Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2857119
+  },
+  "ai": {
+    "summary": "Footpath U52 is a short, easy 3.8 km hike in the UK suitable for beginners and families. The route follows a well-defined footpath with gentle gradients, offering a relaxing outdoor experience and potential scenic views depending on the location.",
+    "terrain_summary": "The trail is a clearly defined path, typically composed of compact earth or gravel. Expect occasional grassy or muddy sections after rain and gentle ascents or descents. The surface is generally firm and easy to navigate.",
+    "safety_notes": "Always wear sturdy footwear and suitable clothing. Check the weather and daylight hours before you go. Bring a map or GPS and a charged phone, plus water and a small first-aid kit. Stay on the marked path, watch your footing on muddy or uneven ground, and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light layer of clothing / waterproof jacket",
+      "Map or GPS device / smartphone with offline map",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Snacks",
+      "Phone charged",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn; generally most pleasant, but the walk is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Footpath U52 Walk | Easy 3.8 km Hike in the UK",
+      "meta_description": "Discover Footpath U52, an easy 3.8 km hike in the UK. Ideal for beginners and families, featuring a well-defined path and gentle terrain.",
+      "h1": "Footpath U52 - Easy 3.8 km UK Hike"
+    }
   }
 }

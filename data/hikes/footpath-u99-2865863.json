@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2865863
+  },
+  "ai": {
+    "summary": "Footpath U99 is a very short, easy hike in the UK, spanning about 0.4 km on a simple footpath. It’s suitable for beginners, families, and a quick outdoor stroll.",
+    "terrain_summary": "The route is typically flat to gently undulating with a well-maintained surface. Expect a mix of tarmac, compact gravel, or grassy sections; barriers or small steps may be present.",
+    "safety_notes": "Check local conditions before you go. Wear comfortable shoes, stay on the designated path, and keep an eye out for pedestrians and cyclists. Bring water, weather-appropriate clothing, and a charged phone. For very short walks, assess your fitness and the route conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Map or offline map on phone",
+      "Sunscreen and hat",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter visits are possible with proper footwear and weather gear.",
+    "seo": {
+      "title": "Footpath U99 – Easy 0.4 km Hike in the UK",
+      "meta_description": "Discover Footpath U99, a short and easy 0.4 km hike in the UK. Get terrain details, safety tips, best seasons, and gear recommendations.",
+      "h1": "Footpath U99: Easy 0.4 km Hike in the UK"
+    }
   }
 }

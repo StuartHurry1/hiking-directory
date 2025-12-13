@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2865516
+  },
+  "ai": {
+    "summary": "Footpath U62 is a short, easy 0.7 km hike in the UK. It follows a simple footpath suitable for beginners, with minimal elevation gain. The exact regional location is not specified.",
+    "terrain_summary": "Typically flat to gently level, along a maintained footpath. Expect compacted earth or gravel underfoot, with occasional grassy edges and possible mud after rain. Overall easy and suitable for most walkers.",
+    "safety_notes": "Always check the weather and daylight before you go. Wear sturdy, comfortable footwear and dress for the conditions. Stay on the marked path, watch for mud, and keep an eye out for other walkers or cyclists on shared sections. Bring water and a charged phone for emergencies. Note: the route's exact region is not specified, so use a map or GPS to confirm the starting point and route details.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layers, jacket)",
+      "Water bottle",
+      "Small backpack",
+      "Map or smartphone with offline maps",
+      "Sun protection (hat, sunscreen)",
+      "Light snack (optional)",
+      "Basic first-aid kit (optional)"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering the most pleasant conditions. Summer can be warm and dry; winter may be muddy or slick.",
+    "seo": {
+      "title": "Footpath U62 — 0.7 km Easy Walk in the UK",
+      "meta_description": "Discover Footpath U62, a short 0.7 km easy walk in the UK. Flat, beginner-friendly terrain with practical safety tips for a quick outdoor outing.",
+      "h1": "Footpath U62 — 0.7 km Easy Walk"
+    }
   }
 }

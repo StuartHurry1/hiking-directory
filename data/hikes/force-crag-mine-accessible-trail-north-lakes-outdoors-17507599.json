@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 17507599
+  },
+  "ai": {
+    "summary": "A 13.5 km moderate hike along the Force Crag Mine Accessible Trail in the Lake District (UK), offering lake views, woodland sections, and remnants of the historic mining site. The loop combines easy-established paths with gentle elevation changes, suitable for hikers with basic experience and footwear appropriate for mixed terrain.",
+    "terrain_summary": "Mixed terrain including surfaced tracks, gravel paths, and short boardwalk sections near the shore; occasional rocky or muddy patches and a steady, moderate ascent and descent. Expect some damp ground and variable footing after rain.",
+    "safety_notes": "Dress for changeable UK weather; wear sturdy hiking boots and bring a waterproof layer. Stay on marked paths, keep clear of mine shafts and ruins, and supervise children. Carry a map or GPS, enough water (1–2 liters), snacks, a small first aid kit, and a charged phone. Check local access notices and be prepared for boggy sections after rain; use trekking poles if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Waterproof and windproof jacket",
+      "Layered clothing for changing temperatures",
+      "Map and/or GPS device",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case of late return)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Phone with portable charger",
+      "Insect repellent",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offers the best weather and daylight; winter hikes are possible but require careful planning, shorter daylight hours and potentially icy or muddy conditions.",
+    "seo": {
+      "title": "Force Crag Mine Accessible Trail – 13.5 km Moderate Hike in the Lake District (UK)",
+      "meta_description": "Explore the Force Crag Mine Accessible Trail: a 13.5 km moderate hike in the Lake District of the UK, with lake views, woodland paths, and historic mine ruins. Includes safety tips and gear checklist.",
+      "h1": "Force Crag Mine Accessible Trail – 13.5 km Moderate Hike in the Lake District (UK)"
+    }
   }
 }

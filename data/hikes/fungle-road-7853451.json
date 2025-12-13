@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 7853451
+  },
+  "ai": {
+    "summary": "A challenging 21.9 km hike in the UK on Fungle Road. This hard route traverses mixed terrain and demands good fitness, navigation, and gear for a full day on the trail.",
+    "terrain_summary": "The route covers mixed UK terrain: rough footpaths, grassy sections, muddy tracks, minor road crossings, and occasional rocky or bridleway segments. Expect uneven surfaces, potential boggy patches after rain, stiles, and variable weather across exposed and sheltered sections.",
+    "safety_notes": "This is a long, strenuous day on often remote terrain. Check weather forecasts before you go and tell someone your planned route and ETA. Carry map and compass (or GPS), a fully charged phone with offline maps, and a means of navigation. Wear sturdy waterproof footwear and bring layered clothing, waterproofs, excess food and water. Be prepared for mud, boggy patches, and changing conditions; daylight hours vary seasonally in the UK. Be mindful of road crossings and roadside hazards along any sections that use minor roads.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good tread",
+      "Waterproof jacket and waterproof trousers",
+      "Warm layers and hat/gloves",
+      "Map and compass (or GPS device) and/or offline maps",
+      "Water bottle or hydration system (2–3 litres)",
+      "High-energy snacks and a small meal",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp or torch with spare batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Optional trekking poles",
+      "Phone with offline maps and emergency contacts"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) for longer daylight and generally drier conditions; winter hikes are possible with extra preparation and care.",
+    "seo": {
+      "title": "Fungle Road: 21.9 km Hard Hike in the UK",
+      "meta_description": "Plan and gear for the challenging 21.9 km Fungle Road hike in the UK. Learn about terrain, safety, and the best seasons for this demanding long-distance trail.",
+      "h1": "Fungle Road – 21.9 km Hard Hike in the UK"
+    }
   }
 }

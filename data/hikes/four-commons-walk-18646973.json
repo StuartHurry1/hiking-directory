@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18646973
+  },
+  "ai": {
+    "summary": "The Four Commons Walk is a 10.9 km moderate hike in the UK that circles rural commons, crossing hedgerows, fields and quiet lanes. With varied terrain and gentle elevation, it suits walkers with some experience and good footwear, offering open views and a peaceful rural landscape.",
+    "terrain_summary": "Expect a mix of grassy commons, compact dirt paths, short farm-track sections and occasional verge walking along quiet country lanes. Ground can be uneven and muddy after rain; hedges and fences may need occasional negotiating where rights of way pass through fields.",
+    "safety_notes": "Check weather before you go and be prepared for changeable UK conditions. Wear sturdy boots and bring waterproofs, extra layers and a hat. Carry a map or offline GPS, and a compass as a backup. Stay on public rights of way, keep an eye out for livestock and farm traffic on rural lanes, let someone know your plan, and carry water and snacks. In winter, daylight is shorter and conditions can be slippery; mobile signal may be patchy in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and trousers",
+      "Layered clothing for changing weather",
+      "Map and compass or offline GPS",
+      "Water bottle or hydration system",
+      "Energy snacks",
+      "Whistle",
+      "Basic first aid kit",
+      "Head torch or flashlight (seasonal)",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are most comfortable for this route in the UK; winter can be muddy and daylight is limited.",
+    "seo": {
+      "title": "Four Commons Walk – 10.9 km Moderate Hike in the UK",
+      "meta_description": "Explore the Four Commons Walk: a 10.9 km moderate UK hike across rural commons with varied terrain, practical safety guidance, and a gear checklist.",
+      "h1": "Four Commons Walk – A 10.9 km Moderate UK Hike"
+    }
   }
 }

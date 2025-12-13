@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1726760
+  },
+  "ai": {
+    "summary": "Forge Walk is a 10.6 km moderate hike in the UK, offering a mix of rural tracks, woodland paths, and open countryside.",
+    "terrain_summary": "The route combines well-defined tracks, grassy bridleways, and occasional gravel sections. Expect gentle elevation changes, possible muddy patches after rain, and scenic views across fields and wooded areas.",
+    "safety_notes": "Check weather and daylight before setting out. Wear sturdy footwear with good grip and stay on marked paths. Bring a map or GPS and know your route. Carry enough water and snacks, plus a layered waterproof jacket for changing conditions. Be mindful of livestock on rural sections, leave no trace, and carry a small first aid kit and whistle. In low visibility, turn back if you’re unsure.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system",
+      "Layered clothing and a waterproof jacket",
+      "Map and/or GPS device (and optional compass)",
+      "Snacks suitable for 2–3 hours",
+      "Headlamp or flashlight (for late finishes)",
+      "Sun protection (hat and sunscreen)",
+      "Small first aid kit and personal medications",
+      "Whistle",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring to autumn is ideal; the route is enjoyable in mild conditions, but it can be tackled year-round with appropriate gear.",
+    "seo": {
+      "title": "Forge Walk - 10.6 km Moderate Hike in the UK",
+      "meta_description": "Discover Forge Walk, a 10.6 km moderate hike in the UK. Terrain, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Forge Walk: 10.6 km Moderate Hike in the UK"
+    }
   }
 }

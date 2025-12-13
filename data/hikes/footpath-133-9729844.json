@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9729844
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km footpath hike in the UK, ideal for beginners, families, and a quick outdoor break. The route is on a gentle, well-maintained path with minimal elevation and relaxed pacing.",
+    "terrain_summary": "Primarily a flat or gently graded footpath, typically surfaced or well-trodden. Expect typical countryside terrain with occasional damp or muddy patches after rain; suitable for all fitness levels.",
+    "safety_notes": "Always check the weather and daylight hours before you go. Wear comfortable walking shoes and bring a light waterproof layer. Stay on the designated path, be mindful of other walkers, and keep a safe distance from any livestock. Carry water and a mobile phone for emergencies; in winter, watch for icy sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Small daypack",
+      "Phone with offline map or local directions",
+      "Light first aid kit",
+      "Sunscreen and hat (seasonal)"
+    ],
+    "best_seasons": "All year, though late spring to early autumn typically offer the most pleasant conditions in the UK. Be mindful of mud or icy patches in winter.",
+    "seo": {
+      "title": "Footpath 133: Easy 0.4 km UK Hike",
+      "meta_description": "Discover Footpath 133, a short and easy 0.4 km hike in the UK. Read about terrain, safety tips, gear, and the best seasons for this quick outdoor stroll.",
+      "h1": "Footpath 133 — Easy 0.4 km UK Hike"
+    }
   }
 }

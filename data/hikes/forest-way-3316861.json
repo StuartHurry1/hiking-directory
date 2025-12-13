@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3316861
+  },
+  "ai": {
+    "summary": "Forest Way is a challenging long-distance hike in the UK, spanning 133.5 km through forested terrain. The route is classified hard and typically takes about 6-9 days to complete at a steady pace. The trail offers immersive woodland scenery but weather and terrain can be demanding, so proper preparation is essential.",
+    "terrain_summary": "Mostly forest trails with mixed surfaces: well-defined paths, rooty sections, damp and muddy ground, occasional gentle ascents and descents. Expect uneven footing, potential boggy stretches, and limited open views in dense forest sections. Navigation is important in unknown regions.",
+    "safety_notes": "Weather in the UK can change rapidly even in summer. Plan for rain, cold, and wind; carry waterproofs, warm layers, and eye protection. Bring reliable navigation (map and compass or GPS) and a charged device. Tell someone your itinerary and expected finish time; consider a GPS tracking device. Stay on official trails, monitor trail conditions, and be prepared for limited cell service in forests. For a 133.5 km trek, pace yourself, take regular breaks, and know emergency contacts. Hydration and nutrition should be planned; daily mileage should be adjusted to conditions. Know your limits; if conditions deteriorate, be prepared to rest or cut the hike short and seek nearby resupply points.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing (base layer, fleece, insulating layer as needed)",
+      "Weather-appropriate hat and gloves",
+      "Navigation tools (map and compass or GPS, plus backup)",
+      "Headlamp with extra batteries",
+      "First-aid kit and personal medications",
+      "Emergency shelter or bivy sack",
+      "Water bottle or hydration system with water filter or purification tablets",
+      "High-energy snacks and meals",
+      "Trekking poles",
+      "Dry bag or waterproof cover for pack and electronics"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best conditions in the UK, but be prepared for rain and sudden weather changes year-round.",
+    "seo": {
+      "title": "Forest Way: 133.5 km Hard Hike in the UK",
+      "meta_description": "Plan your Forest Way adventure, a challenging 133.5 km long-distance hike through UK forests. Terrain, safety tips, gear recommendations, and best seasons explained.",
+      "h1": "Forest Way – 133.5 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 69760
+  },
+  "ai": {
+    "summary": "A challenging 70-kilometer trek along the Frome Valley in the UK intended for experienced hikers. The route combines riverside paths, farmland lanes, and varied terrain across multiple days, with scenic stretches and some strenuous sections requiring good navigation and fitness.",
+    "terrain_summary": "The hike features a mixed-terrain profile: canal towpaths, riverside trails, woodland tracks, grassy fields, and occasional stiles and gentle to moderate climbs. Surfaces range from compact gravel and dirt to muddy, uneven ground; weather can significantly affect footing and some sections may be exposed.",
+    "safety_notes": "Plan as a multi-day trek with appropriate rest stops. Check the weather forecast and flood risk for the Frome Valley. Wear sturdy waterproof boots and dress in layers. Carry navigation tools (map and compass) even if you have a GPS. Bring sufficient water and food, plus a way to purify water. Inform someone of your itinerary and expected return. Be prepared for limited phone signal in rural stretches and possible day-length changes in winter. Stay on official paths, watch for livestock, and have a plan for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate layers and a waterproof outer shell",
+      "Water bottle or hydration system with 2-3 liters capacity",
+      "Map and compass (and a GPS as backup)",
+      "Lightweight sleeping bag and insulation if camping or bivouacking",
+      "Compact tent or bivy (optional, depending on overnight plan)",
+      "First aid kit and basic repair tools",
+      "Headlamp with extra batteries",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle and reflective emergency blanket",
+      "Energy-dense snacks and meals; electrolyte powder",
+      "Phone with offline maps and a portable power bank",
+      "Water purification method (purifier tablets or filter)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March to October) for milder weather and longer daylight; autumn offers vibrant colours, while winter hiking can be demanding due to shorter days and wetter conditions.",
+    "seo": {
+      "title": "Frome Valley Walkway 70-km Hard Hike Guide | UK Trails",
+      "meta_description": "Explore the Frome Valley Walkway, a challenging 70-kilometer UK hike. Terrain overview, safety tips, gear list, and the best seasons for tackling this varied route.",
+      "h1": "Frome Valley Walkway: A 70-km Hard Hike in the UK"
+    }
   }
 }

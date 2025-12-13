@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 2865672
+  },
+  "ai": {
+    "summary": "Foothpath U65 is a short, easy hike in the UK, covering 0.4 km with minimal elevation. The route is straightforward and beginner-friendly, suitable for casual walkers and families.",
+    "terrain_summary": "Flat, well-maintained footpath with a smooth surface. Gentle terrain with no technical sections.",
+    "safety_notes": "As a short path, stay on the marked route, watch for uneven stones or roots, and check weather conditions. Bring basic essentials (water, weather-appropriate clothing) and carry a mobile phone for emergencies. Let someone know your plans if the area is unfamiliar.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate layer",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year, though conditions vary; spring and summer are usually pleasant, while autumn and winter can be wetter or colder.",
+    "seo": {
+      "title": "Foothpath U65 – Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore Foothpath U65, a short and easy 0.4 km hike in the UK. Perfect for beginners and families seeking a quick outdoor escape.",
+      "h1": "Foothpath U65: Easy 0.4 km Hike in the UK"
+    }
   }
 }

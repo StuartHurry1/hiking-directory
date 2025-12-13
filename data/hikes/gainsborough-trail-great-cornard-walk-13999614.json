@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13999614
+  },
+  "ai": {
+    "summary": "A very short, easy hike on the Gainsborough Trail near Great Cornard, UK. At only 0.3 km, it is suitable for all ages and is ideal for a quick leg-stretch or family stroll.",
+    "terrain_summary": "Flat to gentle terrain on a well-trodden path. Surfaces may include gravel, compacted earth or grass, with occasional small uneven spots.",
+    "safety_notes": "Stay on the marked path, supervise children, and watch for uneven ground or roots. Check the weather before you go, wear appropriate footwear, carry water and a charged phone, and be mindful of seasonal daylight. In urban or park settings, observe local guidelines and keep a safe distance from others.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small first-aid kit",
+      "Map or offline navigation on phone"
+    ],
+    "best_seasons": "Spring and autumn are ideal; the walk is suitable year-round with proper clothing and footwear.",
+    "seo": {
+      "title": "Gainsborough Trail Great Cornard Walk – Easy 0.3 km UK Hike",
+      "meta_description": "Explore the Gainsborough Trail Great Cornard Walk in the UK. An easy 0.3 km trail suitable for all ages with practical safety tips, terrain overview, and packing essentials.",
+      "h1": "Gainsborough Trail Great Cornard Walk"
+    }
   }
 }

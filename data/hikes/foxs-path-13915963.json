@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13915963
+  },
+  "ai": {
+    "summary": "Fox's Path is a short, easy 3.3 km hike in the UK designed for beginners. The route offers light countryside scenery with a gentle pace and minimal elevation, making it suitable for families and casual walkers.",
+    "terrain_summary": "Primarily level or gently rolling, the trail uses well-maintained paths with occasional grass, gravel, and muddy patches after rain. Expect mild ascents in some sections and gates or stiles at field boundaries.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear and weather-appropriate clothing; stay on marked paths; mind gates and livestock; carry water and a snack; carry a map and/or GPS and a fully charged phone; mobile signal can be patchy in rural areas; inform someone of your plans; be prepared for muddy or slippery sections in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and/or GPS device (or offline map on your phone)",
+      "Snack",
+      "Sun protection (sunscreen, hat) if sunny",
+      "Phone with emergency contacts and portable charger",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the route is accessible year-round with proper footwear and wet-weather gear, though winter conditions can be wetter and colder.",
+    "seo": {
+      "title": "Fox's Path - Easy 3.3 km Hike in the UK",
+      "meta_description": "Discover Fox's Path, a short and easy 3.3 km hike in the UK. Gentle terrain for beginners, practical safety tips, and the best seasons to visit.",
+      "h1": "Fox's Path - 3.3 km Easy Hike in the UK"
+    }
   }
 }

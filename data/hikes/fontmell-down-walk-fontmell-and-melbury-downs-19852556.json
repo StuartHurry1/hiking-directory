@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19852556
+  },
+  "ai": {
+    "summary": "A short, easy 1.8 km walk across Fontmell Down and the Fontmell and Melbury Downs in the UK. The route offers open hill scenery, gentle terrain and expansive views, ideal for beginners or a quick nature stroll.",
+    "terrain_summary": "Grassy, open chalk downland with mostly gentle to moderate uneven ground. Expect exposed paths, occasional rocky patches and gates. The route is typically on well-defined tracks and can be windy with limited shade along the ridge.",
+    "safety_notes": "- Check the weather before you go; conditions can change rapidly on open downs. - Wear sturdy footwear and bring a light waterproof layer. - Stay on marked paths, be cautious of uneven ground and potential drops at the edges. - Bring water, sun protection on sunny days, and a map or GPS; carry a basic first-aid kit and a charged phone. - Keep dogs under control and watch for livestock.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Layered clothing for changing conditions",
+      "Water bottle",
+      "Sunscreen and sun hat",
+      "Map or GPS device / fully charged phone",
+      "Small first-aid kit",
+      "Snacks",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically in spring and autumn when the ground is dry and views are clear.",
+    "seo": {
+      "title": "Fontmell Down Walk – Fontmell and Melbury Downs (1.8 km, Easy)",
+      "meta_description": "A short, easy 1.8 km walk across Fontmell Down and the Fontmell and Melbury Downs in the UK. Open chalk downs, gentle terrain, practical safety tips and gear.",
+      "h1": "Fontmell Down Walk on Fontmell and Melbury Downs"
+    }
   }
 }

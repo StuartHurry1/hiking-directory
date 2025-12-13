@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 15862203
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km hike in the UK along the Former Chiltern Way, suitable for beginners and families seeking a gentle countryside walk.",
+    "terrain_summary": "Gentle, well-defined footpaths with mostly flat terrain and occasional gentle inclines. Expect grassy sections and potential mud after rain.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy walking shoes. Bring water and a light waterproof layer. Stay on marked paths and watch for uneven ground, gates, and stiles. Carry a simple map or offline route in case of detours.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Hat and sunscreen (seasonal)",
+      "Map, guidebook, or offline route on your phone"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with proper clothing and planning.",
+    "seo": {
+      "title": "Former Chiltern Way 2.1 km Easy Hike in the UK",
+      "meta_description": "Discover the Former Chiltern Way, a short 2.1 km easy hike in the UK. Ideal for beginners with gentle terrain and countryside scenery.",
+      "h1": "Former Chiltern Way – Easy 2.1 km Hike in the UK"
+    }
   }
 }

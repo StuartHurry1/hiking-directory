@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 2960531
+  },
+  "ai": {
+    "summary": "Forest Way (Sussex) is a demanding long-distance hike in the United Kingdom, totaling 36.6 km. The route traverses woodland and rural countryside in Sussex, offering a mix of shaded forest paths, chalk tracks, and occasional open sections. The hike suits experienced walkers who can sustain a steady pace over a long day.",
+    "terrain_summary": "Expect a mix of forest trails, chalky tracks, and occasional muddy sections. The route involves rolling hills with several ascents and descents, and surfaces can be uneven with roots and loose stones. Weather and wet ground can make sections slick; some stretches are exposed to wind in open fields.",
+    "safety_notes": "This is a hard distance hike. Plan for a long day (and possibly more with delays). Carry a map and compass or a GPS device; do not rely solely on a phone signal in remote sections. Check the forecast and be prepared for rain, cold, and mud. Wear sturdy footwear with good grip and layered clothing. Stay on marked paths, respect farmland and private property, and close gates after passage. Tell someone your route and expected return. Bring a basic first aid kit, food, water (2-3 liters), a headlamp or torch, a whistle, and emergency shelter if overnighting.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing and layers (base layer, fleece, waterproof shell)",
+      "Water bottle or hydration system (2-3 liters)",
+      "High-energy snacks and a light meal",
+      "Map and compass or GPS device (fully charged)",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight first aid kit",
+      "Trekking poles",
+      "Rain jacket and rain pants",
+      "Hat, sunglasses, and sun protection",
+      "Emergency whistle and space blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are the best seasons for this hike; winter hiking is possible but more challenging due to shorter daylight, colder conditions, and wetter, muddier trails.",
+    "seo": {
+      "title": "Forest Way (Sussex) Hike – 36.6 km Hard Trail in the UK",
+      "meta_description": "Discover Forest Way (Sussex), a challenging 36.6 km hike in the UK. Learn about terrain, safety considerations, and essential gear to plan your trip.",
+      "h1": "Forest Way (Sussex) – 36.6 km Hard Hike in the UK"
+    }
   }
 }

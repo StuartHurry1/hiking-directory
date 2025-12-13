@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 93591
+  },
+  "ai": {
+    "summary": "A challenging 21.5 km hike along the Full walk - Witton Weavers Way in the UK. This hard route traverses varied countryside, combining rural lanes, fields, and woodland paths, and rewards the steady hiker with distant views and meaningful ascents.",
+    "terrain_summary": "Mixed terrain: rural lanes, grassy fields, stone and dirt tracks, and some tarmac. Expect stiles, uneven ground, and occasional steep sections. Can be muddy after rain and may involve crops or livestock at certain sections.",
+    "safety_notes": "Plan for 6–8 hours on foot. Check the weather and daylight hours before setting out; UK conditions can change quickly. Wear sturdy, waterproof boots and bring layered clothing. Stay on marked paths and heed any access restrictions. Carry a map or GPS, compass, sufficient water, snacks, a basic first aid kit, and a whistle for emergencies. Be aware of livestock, gate closures, and potential rural hazards; inform someone of your route and estimated return time.",
+    "recommended_gear": [
+      "Sturdy waterproof boots",
+      "Rucksack with 20–30 L capacity",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves)",
+      "Map and/or GPS device, compass",
+      "Water and high-energy snacks",
+      "Basic first aid kit",
+      "Whistle and fully charged phone",
+      "Sun protection (sunglasses, sunscreen)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October) is ideal due to daylight and generally favorable conditions; winter hikes are possible with careful planning and extra gear.",
+    "seo": {
+      "title": "Full walk - Witton Weavers Way (21.5 km, Hard) | UK Hiking Guide",
+      "meta_description": "Explore the Full walk of Witton Weavers Way, a 21.5 km challenging hike in the UK. Terrain, safety tips, recommended gear, and best seasons for this tough route.",
+      "h1": "Full walk – Witton Weavers Way (21.5 km, Hard)"
+    }
   }
 }

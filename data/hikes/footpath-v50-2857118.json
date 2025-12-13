@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2857118
+  },
+  "ai": {
+    "summary": "Footpath V50 is a very short, easy hike in the United Kingdom, measuring 0.5 km. It suits beginners and casual walkers seeking a quick outdoor experience without significant elevation or technical challenges.",
+    "terrain_summary": "The route is short and predominantly flat, on a well-maintained surface. Surface types may include compacted earth, gravel, or short sections of tarmac, with occasional roots or uneven patches.",
+    "safety_notes": "Check the weather before you go. Wear comfortable footwear and bring appropriate clothing. Stay on the named path and observe any closures. Be mindful of other walkers and cyclists. If accompanying children or pets, supervise them closely. Carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Water bottle",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Map or offline navigation on a phone",
+      "Small first-aid kit and whistle"
+    ],
+    "best_seasons": "Year-round in the UK; best conditions typically from late spring to early autumn.",
+    "seo": {
+      "title": "Footpath V50 – Easy 0.5 km Hike in the UK",
+      "meta_description": "Explore Footpath V50, a short and easy 0.5 km hike in the UK. Ideal for beginners and quick outdoor outings.",
+      "h1": "Footpath V50: Easy 0.5 km Hike in the UK"
+    }
   }
 }

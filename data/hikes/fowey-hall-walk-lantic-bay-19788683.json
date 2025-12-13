@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19788683
+  },
+  "ai": {
+    "summary": "A 14.7 km coastal hike around Fowey Hall and Lantic Bay in the UK, combining dramatic sea views, rugged cliff-top sections, and beach walks. Classified as moderate, it suits hikers with a reasonable level of fitness and an appreciation for varied coastal terrain.",
+    "terrain_summary": "Mixed coastal terrain: cliff-top paths with exposed sections, chalk and gravel tracks, and some beach walking. Expect uneven surfaces, rocky steps, and occasional mud, with gentle to moderate climbs and descents along the coastline.",
+    "safety_notes": "Check tide times before visiting Lantic Bay to avoid beach closures. Stay well back from cliff edges, as rock and soil can be unstable. Wear sturdy boots, dress in layers, and be prepared for wind and rain. Carry a map or GPS, a charged phone, water and snacks, a basic first aid kit, and let someone know your route. Mobile signal can be limited in remote stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Windproof and waterproof jacket",
+      "Layers for temperature changes",
+      "Water and high-energy snacks",
+      "Sun protection (hat, sunscreen)",
+      "Map, compass, or GPS device",
+      "Fully charged phone and power bank",
+      "Small first aid kit",
+      "Whistle and emergency blanket",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn offers the best conditions with milder weather and longer daylight. Winter hikes are possible but can be windy and wet; plan for shorter days and check tide/forecast.",
+    "seo": {
+      "title": "Fowey Hall Walk, Lantic Bay – 14.7 km Coastal Hike in the UK",
+      "meta_description": "Discover the 14.7 km Fowey Hall Walk along Lantic Bay in the UK. A moderate coastal hike featuring cliff-top views, beaches, and varied terrain for seasoned hikers.",
+      "h1": "Fowey Hall Walk, Lantic Bay – 14.7 km Coastal Hike"
+    }
   }
 }

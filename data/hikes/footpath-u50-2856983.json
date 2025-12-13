@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2856983
+  },
+  "ai": {
+    "summary": "Footpath U50 is a short, easy 4.8 km hike in the UK designed for beginners and casual walkers. The route follows a well-defined footpath with mild elevation changes and pleasant countryside or urban scenery along the way.",
+    "terrain_summary": "Predominantly easy terrain on a well-maintained footpath. Surface varies from compact gravel and tarmac to grassy sections, with occasional damp patches after rain and gentle, gradual slopes.",
+    "safety_notes": "Check the weather and daylight hours before you go. Stay on the marked path and be mindful of other users such as cyclists or horses. Wear sturdy footwear and dress in layers; bring a lightweight rain jacket for UK conditions. Carry a map or GPS, a charged phone, water, and some basic first aid. If walking with children or pets, keep them within sight and under control.",
+    "recommended_gear": [
+      "Water and snacks",
+      "Sturdy walking shoes or boots",
+      "Layered clothing and a lightweight rain jacket",
+      "Sun protection for sunny days",
+      "Map, GPS device, or a fully charged phone with offline map",
+      "Hat and gloves if cool",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn is ideal in the UK, but the trail is reachable year round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Footpath U50 - Easy 4.8 km Hike in the UK",
+      "meta_description": "Discover Footpath U50, an easy 4.8 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this walk.",
+      "h1": "Footpath U50 Easy 4.8 km Hike in the UK"
+    }
   }
 }

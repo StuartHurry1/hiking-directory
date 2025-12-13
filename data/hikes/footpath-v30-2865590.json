@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2865590
+  },
+  "ai": {
+    "summary": "Footpath V30 is a short, easy 1.2-kilometer hike in the UK. Designed for beginners and casual walkers, it offers a flat, straightforward route with minimal elevation and simple scenery.",
+    "terrain_summary": "Short, flat footpath. Typically well-maintained and even underfoot, suitable for walkers of all ages; some sections may be grassy or compact gravel depending on location.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Check local conditions before you go; although the route is short and easy, uneven ground or poor visibility can occur in rural areas. Stay on designated paths and watch for other pedestrians or cyclists. Bring a charged phone and let someone know your plans.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Mobile phone",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring through early autumn; avoid extreme winter conditions or icy surfaces.",
+    "seo": {
+      "title": "Footpath V30 – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore Footpath V30, an easy 1.2 km hike in the UK. Ideal for beginners with flat terrain and simple scenery. Plan your short, scenic walk today.",
+      "h1": "Footpath V30 – Easy 1.2 km Hike"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8769894
+  },
+  "ai": {
+    "summary": "A short, easy urban pedway walk in the United Kingdom along Fyefoot Lane pedway. The 0.5 km route is flat and paved, making it suitable for all ages and a quick, stress-free city stroll.",
+    "terrain_summary": "Flat, paved pedway with a smooth surface. Primarily urban scenery, with potential street crossings, shaded sections, and variable lighting depending on time of day and location.",
+    "safety_notes": "Urban trail safety: stay aware of other pedestrians and cyclists, follow pedestrian signals, and use lighting after dark. Check for any closures or construction along the route. Wear appropriate footwear and weather-appropriate clothing; carry a mobile phone and stay on designated paths in busy city areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers; rain jacket or umbrella)",
+      "Water bottle",
+      "Mobile phone with map and emergency contacts",
+      "Small backpack or daypack",
+      "Power bank for charging devices",
+      "High-visibility or reflective clothing for dawn/dusk",
+      "Light snack (optional)"
+    ],
+    "best_seasons": "Year-round in the UK; spring and summer offer the most comfortable conditions, but be prepared for rain in any season.",
+    "seo": {
+      "title": "Fyefoot Lane Pedway – Easy 0.5 km Urban Walk in the UK",
+      "meta_description": "Discover a quick 0.5 km pedway stroll along Fyefoot Lane in the UK. Flat, paved, urban terrain with practical safety tips, gear recommendations, and seasonal guidance.",
+      "h1": "Fyefoot Lane Pedway: Easy 0.5 km Urban Walk in the UK"
+    }
   }
 }

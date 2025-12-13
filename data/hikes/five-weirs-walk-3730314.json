@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 3730314
+  },
+  "ai": {
+    "summary": "A 10.8 km moderate riverside hike in the UK that traces a sequence of five weirs along the water. The route blends urban sections with tranquil riverside paths, offering varied scenery and a manageable challenge for most walkers.",
+    "terrain_summary": "Primarily surfaced paths and towpaths with some compact gravel, occasional steps, and gentle gradients. Expect possible muddy patches after rain and river edge dampness. Suitable for everyday footwear; consider a light rain jacket in unsettled weather.",
+    "safety_notes": "Check weather and river levels before you set out; stay on official paths and be mindful of cyclists on shared sections; watch for slippery edges near the water; supervise children and dogs; carry a basic map or offline navigation, a charged phone, and emergency contact information; bring appropriate layers and lighting if you might be out near dusk.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water and some snacks",
+      "Weather-appropriate clothing (layering; waterproof jacket)",
+      "Small backpack or waist pack",
+      "Waterproof cover for your bag",
+      "Map or offline navigation (or a charged smartphone with GPS)",
+      "Basic first-aid kit",
+      "Hat and sunscreen for sunny days",
+      "Torch or headlamp if finishing near dusk"
+    ],
+    "best_seasons": "All year, with spring and autumn offering particularly pleasant conditions and views. Summer can be busier; winter may be muddy or icy, so wear sturdy footwear and extra layer protection.",
+    "seo": {
+      "title": "Five Weirs Walk – 10.8 km Moderate Riverside Trail in the UK",
+      "meta_description": "Explore the Five Weirs Walk: a 10.8 km moderate riverside route in the UK. Enjoy varied scenery from urban stretches to tranquil riverbanks with practical safety tips and gear guidance.",
+      "h1": "Five Weirs Walk – 10.8 km Moderate Riverside Trail (UK)"
+    }
   }
 }

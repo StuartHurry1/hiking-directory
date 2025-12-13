@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2865670
+  },
+  "ai": {
+    "summary": "Footpath U77 is a very short, easy hike in the UK, totaling about 0.2 km. The route is suitable for all ages and fitness levels, making it ideal for a quick stroll, a family outing, or a short stretch between activities. The terrain is flat with minimal elevation change, and the path is well defined, typically along a tarmac or compact gravel surface.",
+    "terrain_summary": "Flat, well-defined footpath with little to no ascent. Surface is commonly tarmac or compact gravel; expect occasional damp patches after rain. Edges may be grassy or verge margins; watch footing in wet conditions.",
+    "safety_notes": "Always wear sturdy footwear and stay on the marked path. Even on short routes, be aware of uneven surfaces, cyclists, and other pedestrians. Check the weather before you go and dress accordingly. Keep children close and supervise dogs if allowed. Bring water, and have a charged phone for emergencies. If you have mobility needs, consider accessibility of the surface and any gates or steps along the way.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Sunscreen and a hat",
+      "Phone with map or GPS",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring, summer and early autumn are ideal; winter can be cold and often muddy.",
+    "seo": {
+      "title": "Footpath U77: Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore Footpath U77 in the UK—a short, easy 0.2 km hike. Learn terrain, safety tips, and the best seasons for this quick outdoor walk.",
+      "h1": "Footpath U77 – Easy 0.2 km Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9773858
+  },
+  "ai": {
+    "summary": "A gentle 4.4 km circular walk through Attingham Park’s parkland and woodland, designed for curious walkers who enjoy nature and a touch of fungi spotting. The easy terrain makes it suitable for families and casual hikers.",
+    "terrain_summary": "Mostly flat or gently undulating gravel and packed dirt paths. Some sections pass through woodland with tree roots and occasional muddy patches after rain. The route uses well maintained trails and is accessible for families, though strollers may find some uneven ground in shaded areas.",
+    "safety_notes": "- Stay on marked paths and respect wildlife and other park visitors. - Fungi can look appealing but many species are toxic; do not touch or eat wild mushrooms. - Check the weather forecast and daylight hours; wear sturdy shoes and bring a waterproof layer. - Be mindful of park rules, closures, and potential hazards. - Supervise children and dogs, keep dogs on a lead where required, and carry a map or offline navigation.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (jacket, hat, gloves as needed)",
+      "Water bottle",
+      "Small backpack for essentials",
+      "Map or offline navigation of Attingham Park",
+      "Insect repellent and sun protection (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn for comfortable walking and peak fungal activity; the park is enjoyable year round, with fungi most noticeable from late summer to autumn.",
+    "seo": {
+      "title": "Food and Fungi Walk at Attingham Park – Easy 4.4 km Family Trail in the UK",
+      "meta_description": "Discover a gentle 4.4 km loop through Attingham Park's parkland and woodlands. This easy, family-friendly route offers opportunities to spot fungi and enjoy nature, with practical safety and gear tips.",
+      "h1": "Food and Fungi Walk, Attingham Park – Easy 4.4 km"
+    }
   }
 }

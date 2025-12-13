@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 2865498
+  },
+  "ai": {
+    "summary": "Footpath V9 is a short, easy 0.4 km walk in the United Kingdom, suitable for beginners and families who want a quick outdoor experience. The route offers a gentle surface and minimal elevation.",
+    "terrain_summary": "Flat to gently graded footpath with a compact earth or gravel surface. Occasional grassy edges and a few damp patches after rain; expect minor mud in wet conditions. Generally accessible for casual walkers.",
+    "safety_notes": "This is a very short route, but basic safety still applies: wear sturdy footwear, watch for uneven surfaces, and check weather conditions before you go. If walking with children or on your own, carry a charged mobile phone and stay on clearly marked paths.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Hat and sunscreen (sunny days)",
+      "Mobile phone"
+    ],
+    "best_seasons": "All year round. Spring and summer are typically drier and easier for visibility, while autumn and winter require attention to wet or icy surfaces and shorter daylight hours.",
+    "seo": {
+      "title": "Footpath V9 — Easy 0.4 km UK Walk",
+      "meta_description": "Discover Footpath V9, a quick and easy 0.4 km walk in the United Kingdom. Practical terrain notes, safety tips, gear suggestions, and best seasons.",
+      "h1": "Footpath V9: Easy 0.4 km Walk in the UK"
+    }
   }
 }

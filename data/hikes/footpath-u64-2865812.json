@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2865812
+  },
+  "ai": {
+    "summary": "Footpath U64 is a short, easy 2 km hike in the UK. The route is suitable for beginners, families, and casual walkers seeking a quick outdoor stroll.",
+    "terrain_summary": "Mostly smooth, well-maintained footpath with gentle elevation. Expect flat or gently rolling sections; surface may be gravel, packed earth, or grass. Mud is possible after rain.",
+    "safety_notes": "Check weather forecast and daylight hours before starting. Wear sturdy, comfortable footwear and bring water. Stay on marked paths, mind uneven ground, especially at entrances and around any gate crossings. Be mindful of other walkers and cyclists on shared sections. If you have any medical conditions, carry a plan and know how to contact help. In remote areas, tell someone your route and estimated return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn; winter can be variable with mud and shorter daylight",
+    "seo": {
+      "title": "Footpath U64 – Easy 2 km Hike in the UK",
+      "meta_description": "Explore Footpath U64, a short and easy 2 km hike in the UK. This guide covers terrain, safety, and gear for a pleasant outdoor stroll.",
+      "h1": "Footpath U64: Easy 2 km UK Hike"
+    }
   }
 }

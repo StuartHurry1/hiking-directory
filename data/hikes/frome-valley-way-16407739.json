@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16407739
+  },
+  "ai": {
+    "summary": "Frome Valley Way is a demanding long-distance footpath in the UK, totaling 128.9 km. The route winds along river valleys, through farmland, woodlands, and occasional limestone escarpments. It rewards persistence with varied scenery and frequent changes in terrain. Designed for experienced hikers, the trek is typically spread over 5–7 days, with overnight stops in villages along the way.",
+    "terrain_summary": "Expect a mix of riverbank paths, grassy towpaths, muddy sections, rocky tracks, and gentle ascents to higher ground. Some sections may be overgrown or poorly marked; navigation skills are helpful. Weather can change quickly, so waterproof footwear and layered clothing are essential. Seasonal farming gates and occasional road crossings can affect pacing.",
+    "safety_notes": "This is a long-distance route with remote sections and variable weather. Plan days carefully, share your itinerary, and check local conditions. Carry a map and compass (or GPS) and know how to use them. Ensure adequate daylight for each day, bring a first-aid kit, emergency shelter, and sufficient water and food. Be mindful of fatigue, livestock, and wildlife; mobile coverage can be limited in rural stretches.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Weather-appropriate clothing layers (base layer, fleece, waterproof shell)",
+      "Rucksack or trekking backpack with waterproof cover",
+      "Map and compass (or GPS) and basic navigation skills",
+      "Water bottle or hydration system with 2–3 liters capacity",
+      "Portable water filter or purification tablets",
+      "Headlamp or torch with extra batteries",
+      "First-aid kit with blister care",
+      "Emergency shelter or bivy sack",
+      "Sleeping bag and compact sleeping mat (for multi-day treks)",
+      "Tent or bivvy for overnight stops (optional but recommended for extended trips)",
+      "High-energy snacks and light stove/equipment if camping"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best overall conditions for this route in the UK. Autumn can provide quieter trails and autumnal scenery but may bring cooler weather and more rain; winter trekking is possible with careful planning and experience.",
+    "seo": {
+      "title": "Frome Valley Way – 128.9 km UK Long-Distance Hike",
+      "meta_description": "Discover the Frome Valley Way, a challenging 128.9 km hike in the UK. Learn about terrain, safety tips, the best seasons, and gear recommendations for experienced hikers.",
+      "h1": "Frome Valley Way: A 128.9 km UK Long-Distance Hike"
+    }
   }
 }

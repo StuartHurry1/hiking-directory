@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 15965025
+  },
+  "ai": {
+    "summary": "Forest Walk is a 10.8 km moderate hike through UK forest trails. Expect shaded paths, gentle elevation, and peaceful woodland scenery suitable for walkers with comfortable footwear and a few hours to spare.",
+    "terrain_summary": "The route follows forest tracks with a mix of dirt and gravel surfaces. Expect occasional roots, gentle elevation changes, and potential muddy patches after rain. Trails are generally well-marked and suitable for a casual day out.",
+    "safety_notes": "Check local weather and daylight hours before starting. Wear sturdy footwear and bring layers. In UK forests be mindful of ticks, uneven ground, and seasonal hazards. Carry a map or GPS, a fully charged phone, water, snacks, and notify someone of your planned return. Avoid the forest after heavy rain if paths are flooded.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Lightweight rain jacket or shell",
+      "Map and compass or GPS-enabled device",
+      "Hat and sunscreen",
+      "Small personal first aid kit",
+      "Snacks or energy bars",
+      "Headlamp or flashlight (in case of delays)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn; the hike is comfortable in mild weather, though it can be done year-round with proper gear.",
+    "seo": {
+      "title": "Forest Walk - 10.8 km Moderate UK Forest Hike",
+      "meta_description": "Plan your Forest Walk: a 10.8 km moderate hike through UK forests. Discover terrain details, safety tips, gear lists, best seasons, and practical planning for a enjoyable woodland adventure.",
+      "h1": "Forest Walk: A 10.8 km Moderate UK Forest Hike"
+    }
   }
 }

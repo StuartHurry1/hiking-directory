@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 9853022
+  },
+  "ai": {
+    "summary": "A 9.8 km moderate ridge walk through Ashridge Estate in the UK, weaving woodland trails with rolling ridges and occasional viewpoints along the way.",
+    "terrain_summary": "Primarily forest paths and chalk ridge trails with mild elevation changes. Expect uneven footing, tree roots, leaf litter, and occasional exposed viewpoints. The route follows ridgelines for scenic views across the estate.",
+    "safety_notes": "Check weather and daylight before setting out. Wear sturdy footwear and stay on marked paths. Be mindful of uneven ground, tree roots, and slippery sections after rain. In wooded areas, watch for ticks and insects. Carry adequate water and snacks, a map or GPS, and a basic first-aid kit. Respect local access rules and be prepared for changes in conditions, especially in shoulder seasons.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water (1–2 litres) and snacks",
+      "Weather-appropriate clothing (layers) including a waterproof jacket",
+      "Map and compass or GPS device",
+      "Hat and sunscreen",
+      "Small first-aid kit",
+      "Walking poles (optional)",
+      "Phone with portable charger",
+      "Headlamp or flashlight (for unexpected delays)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October).",
+    "seo": {
+      "title": "Foresters' Walk, Ashridge Estate – 9.8 km Moderate Ridge Hike in the UK",
+      "meta_description": "Explore Foresters' Walk at Ashridge Estate. A 9.8 km moderate ridge hike through woodlands in the UK. Terrain details, safety tips, and gear recommendations.",
+      "h1": "Foresters' Walk, Ashridge Estate: 9.8 km Ridge Hike in the UK"
+    }
   }
 }

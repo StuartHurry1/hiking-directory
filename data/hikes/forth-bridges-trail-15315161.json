@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 15315161
+  },
+  "ai": {
+    "summary": "The Forth Bridges Trail is a demanding 23.3 km ridge hike in the UK. This hard route combines exposed ridgelines with uneven terrain and variable weather, demanding fitness, solid footing, and thorough preparation.",
+    "terrain_summary": "Rugged ridges with rocky, exposed sections, grassy uplands, and uneven footing. Expect scree, boggy patches, occasional stream crossings, and significant wind exposure near summits; conditions can change rapidly.",
+    "safety_notes": "Plan for variable weather and daylight. Bring a map and compass or GPS, and know the route. Wear sturdy boots, layer for warmth, and carry extra clothing and food. Start early to allow ample time, stay hydrated, and have a means to call for help. Tell someone your plan and expected return time. Stay on marked paths and beware slippery rocks after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and warm layers",
+      "Breathable base layers and waterproof pants",
+      "Hat and gloves for wind protection",
+      "Backpack with 20–30 L capacity",
+      "Water for 2–3 L and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency whistle and personal locator beacon (optional)",
+      "First aid kit suitable for remote hiking",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional but helpful on ridges)",
+      "Emergency shelter or space blanket",
+      "Extra socks"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for the best conditions in the UK. Be prepared for wind and rain year-round; winter hikes are more challenging and require advanced skills and gear.",
+    "seo": {
+      "title": "Forth Bridges Trail – 23.3 km Ridge Hike in the UK",
+      "meta_description": "Explore the challenging 23.3 km Forth Bridges Trail in the UK. Learn about the hard ridge terrain, safety tips, best seasons, and essential gear for this demanding hike.",
+      "h1": "Forth Bridges Trail: 23.3 km Ridge Hike in the UK"
+    }
   }
 }

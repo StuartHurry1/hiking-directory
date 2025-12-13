@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17065047
+  },
+  "ai": {
+    "summary": "A 7.6 km moderate hike along the Former Chiltern Way in the UK. The route offers a mix of fields, hedgerows and light woodland with gentle elevation changes, suited for hikers with some experience seeking a manageable day out.",
+    "terrain_summary": "Varied terrain including grassy field paths, country lanes, hedgerows and occasional woodland edges. Expect uneven footing, occasional stiles, and potential muddiness after rain.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear and weather-appropriate clothing. Stay on public rights of way, watch for livestock and dogs, and be mindful of road crossings. Carry a map or GPS, sufficient water and snacks, a basic first aid kit, and a charged mobile phone; mobile signal may be limited in some sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Waterproof/windproof jacket",
+      "Map and/or GPS or fully charged smartphone with offline map",
+      "Water and snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Mobile phone with charged battery",
+      "Lightweight emergency poncho"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal; winter walks are possible with proper gear and awareness of slippery conditions.",
+    "seo": {
+      "title": "Former Chiltern Way – 7.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the 7.6 km Former Chiltern Way in the UK. A moderate hike featuring varied terrain and countryside views. Includes safety tips, gear suggestions, and best seasons.",
+      "h1": "Former Chiltern Way – 7.6 km Moderate Hike (UK)"
+    }
   }
 }

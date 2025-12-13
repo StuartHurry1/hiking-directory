@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1795508
+  },
+  "ai": {
+    "summary": "A scenic 12.6 km moderate forest hike through the Forest of Mercia Way in the United Kingdom. The route weaves through shaded woodland with gentle elevation changes, offering a quiet day out in nature for hikers with some experience and solid footing.",
+    "terrain_summary": "Primarily woodland paths with uneven surfaces, exposed roots, and occasional muddy patches. The terrain is generally gentle, with a few short climbs and descents. Autumn leaf cover and damp conditions can reduce traction.",
+    "safety_notes": "Plan for UK weather and daylight: check the forecast, wear sturdy waterproof footwear, and carry appropriate clothing. Tell someone your route and expected return. Stay on marked trails, carry a map and compass or GPS, and have a charged phone. Bring water and snacks; be prepared for sudden changes in conditions. Watch for exposed roots and slippery mud, and check for ticks in long grass.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing (layers, including a waterproof jacket)",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device; fully charged phone",
+      "Water or electrolyte drink",
+      "Headlamp or flashlight (for late return or poor light conditions)",
+      "First aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Insect repellent",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–November) are ideal for comfortable hiking in the Forest of Mercia Way. Winter hiking is possible with adequate gear and shorter daylight; plan carefully and be prepared for mud and reduced visibility.",
+    "seo": {
+      "title": "Forest of Mercia Way – 12.6 km Moderate Forest Hike in the UK",
+      "meta_description": "Explore a 12.6 km moderate trail through the Forest of Mercia Way in the United Kingdom. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "Forest of Mercia Way: 12.6 km Moderate Forest Hike"
+    }
   }
 }

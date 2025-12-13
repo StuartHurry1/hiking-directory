@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10020659
+  },
+  "ai": {
+    "summary": "A gentle 1.7 km circular hike around Fleet Pond in the UK. The Red Route is flat and easy, making it suitable for beginners and families to enjoy wildlife, calm waters, and a peaceful woodland atmosphere.",
+    "terrain_summary": "Mostly flat, surfaced paths (gravel and tarmac) with a short boardwalk surrounding Fleet Pond. The route is mostly stroller-friendly, but expect occasional muddy patches after rain and a few roots where the path meets the woodland edge.",
+    "safety_notes": "- Wear sturdy footwear and weather-appropriate clothing. - Stay on marked paths and keep an eye out for wildlife. - In poor light or wet weather, paths can be slippery; carry a charged phone and a small light if hiking at dusk. - Check for any local access notices or seasonal restrictions at Fleet Pond Local Nature Reserve. - Bring water and sun protection in hot or sunny conditions.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water",
+      "Weather-appropriate clothing (e.g., waterproof jacket if rain)",
+      "Sunscreen and sunglasses",
+      "Hat for sun or warmth",
+      "Insect repellent (summer)",
+      "Map or offline navigation (optional)",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "Year-round; spring and autumn offer the best wildlife viewing and comfortable conditions.",
+    "seo": {
+      "title": "Fleet Pond Red Route: Easy 1.7 km Hike in the UK",
+      "meta_description": "Explore Fleet Pond Red Route, a gentle 1.7 km circular hike around Fleet Pond in the UK. Perfect for beginners and families, with flat trails, abundant wildlife, and tranquil waters.",
+      "h1": "Fleet Pond Red Route – Easy 1.7 km Walk"
+    }
   }
 }

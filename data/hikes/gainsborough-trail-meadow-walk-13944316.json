@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13944316
+  },
+  "ai": {
+    "summary": "A short, easy 2 km stroll along the Gainsborough Trail Meadow Walk, featuring open meadow scenery and gentle paths suitable for beginners and families.",
+    "terrain_summary": "Mostly flat, well-defined grass and gravel paths across meadows. Expect occasional muddy patches after rain; footwear with good grip is advised.",
+    "safety_notes": "Stay on marked paths where present and respect livestock. Check the local weather and daylight hours before starting. Wear sturdy footwear and bring water. In rural UK, gates may need to be closed behind you; keep dogs on a leash. If you encounter livestock or wildlife, give them space and pass slowly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light backpack",
+      "Map or offline maps on your phone",
+      "Sun protection (hat, sunscreen)",
+      "Snacks",
+      "Light rain jacket or poncho",
+      "First aid kit (compact)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring through Autumn is ideal for meadow views; winter visits are possible with proper footwear and daylight, but ground can be wet and conditions change quickly.",
+    "seo": {
+      "title": "Gainsborough Trail Meadow Walk – Easy 2 km UK Hike",
+      "meta_description": "Discover a gentle 2 km walk along the Gainsborough Trail Meadow Walk in the UK. Easy terrain, scenic meadows, safety tips, and gear recommendations for a relaxing day hike.",
+      "h1": "Gainsborough Trail Meadow Walk"
+    }
   }
 }

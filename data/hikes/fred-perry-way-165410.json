@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 165410
+  },
+  "ai": {
+    "summary": "Fred Perry Way is a challenging long-distance hike in the UK, spanning 91.9 km and rated hard. The route traverses varied landscapes and requires solid planning, endurance, and navigation. This guide covers what to expect, terrain, safety considerations, gear, and the best seasons to hike.",
+    "terrain_summary": "Expect mixed surfaces: tarmac and gravel tracks, muddy bridleways, grassy paths, and occasional rocky sections. Elevation gain varies with several sustained ascents and some exposed sections. The route may cross woodlands, open moorland, and watercourses, so weather, footwear, and waterproofing are important. Navigation skills and a map or GPS device are recommended due to variable and potentially remote sections.",
+    "safety_notes": "Plan for long days in potentially remote sections. Check the forecast and plan around daylight; tell someone your route and expected finish time. Carry full navigation tools (map and compass or GPS) and a fully charged phone with offline maps. Bring adequate water and high-energy food for multi-day trekking. Wear appropriate footwear and clothing, monitor weather changes, and have a plan for emergencies. In the UK, dial 999 for emergencies and notify local landowners where appropriate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Mid-layer fleece or insulating layer",
+      "Wide-brim hat and gloves (seasonal)",
+      "Map and compass (or GPS device) and a charged phone with offline maps",
+      "Hydration system for 2–3 liters plus snacks",
+      "Energy bars and meals for multi-day trekking",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and any personal medications",
+      "Lightweight emergency shelter or bivy bag",
+      "Whistle, sunscreen, and insect repellent",
+      "Trekking poles (optional but helpful)",
+      "Rain cover for your backpack"
+    ],
+    "best_seasons": "Spring through Autumn (roughly March–November) are best, with long days in summer and milder weather in spring and autumn; winter trekking is possible but more challenging due to short days and harsher conditions.",
+    "seo": {
+      "title": "Fred Perry Way – 91.9 km Hard-Difficulty UK Trek",
+      "meta_description": "Discover Fred Perry Way, a challenging 91.9 km hike in the UK. Learn about terrain, safety, essential gear, and the best seasons for this long-distance trek.",
+      "h1": "Fred Perry Way: 91.9 km Hard UK Trek"
+    }
   }
 }

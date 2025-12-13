@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19129515
+  },
+  "ai": {
+    "summary": "A 7.6 km coastal walk at Freshwater West near Stackpole in Pembrokeshire, Wales. This moderate route combines rugged headland cliffs, sandy dunes and potential wildlife sightings along the coast, with rewarding sea views throughout.",
+    "terrain_summary": "Mixed coastal terrain with firm paths, sandy dune sections, and uneven ground near cliff edges. The route is exposed in places; be prepared for wind and changing weather with gradual ascents and descents along the coastline.",
+    "safety_notes": "Check tide times and weather before starting. Stay well away from cliff edges; some sections are narrow and exposed. Weather can change quickly on the coast—dress in layers and carry waterproof gear. Keep children and pets under control. Bring a charged phone, map, basic first aid, sufficient water and snacks; in remote sections ensure a means of signaling for help.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing with a windproof/waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS device and a charged phone",
+      "Binoculars or camera (optional)",
+      "Small first aid kit",
+      "Snack or energy bars",
+      "Lightweight backpack",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and better wildlife viewing; winter can bring storms and rough seas, making some parts more hazardous.",
+    "seo": {
+      "title": "Freshwater West Wildlife Walk, Stackpole – 7.6 km Moderate Coastal Hike in Pembrokeshire, UK",
+      "meta_description": "Discover Freshwater West Wildlife Walk, a 7.6 km moderate coastal hike at Stackpole, Pembrokeshire. Enjoy coastal cliffs, dunes, and wildlife with practical tips and gear.",
+      "h1": "Freshwater West Wildlife Walk, Stackpole"
+    }
   }
 }

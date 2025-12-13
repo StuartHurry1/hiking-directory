@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2865673
+  },
+  "ai": {
+    "summary": "Footpath U81 is a very short, easy hike in the UK offering a quick dose of fresh air. At about 0.1 km, it’s a brief stroll suitable for families, beginners, or anyone short on time.",
+    "terrain_summary": "An entirely flat, well-trodden footpath. Surfaces can range from compact soil to gravel; generally smooth with minimal elevation gain, making it accessible to most walkers.",
+    "safety_notes": "Stay on the marked path. In urban or rural settings, be mindful of other users, cyclists, and potential road crossings. Check the weather before you go and wear appropriate footwear; even short walks can be uncomfortable in rain without protection.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layers",
+      "Sunscreen",
+      "Map or offline directions (optional)",
+      "Phone/camera for photos"
+    ],
+    "best_seasons": "Year-round; best in spring to autumn when the surface is dry and comfortable.",
+    "seo": {
+      "title": "Footpath U81 – Easy 0.1 km Walk in the UK",
+      "meta_description": "Explore Footpath U81, a tiny and easy 0.1 km hike in the UK. Ideal for a quick stroll, family outing, or beginner hikers seeking a short outdoor experience.",
+      "h1": "Footpath U81: Easy 0.1 km Walk in the UK"
+    }
   }
 }

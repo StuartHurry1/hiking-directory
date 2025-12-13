@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7760768
+  },
+  "ai": {
+    "summary": "The Forfar Path Circuit is an 8.6 km loop in the UK, rated moderate. It offers a varied surface with country lanes, grassy fields, and woodland sections, making for a balanced half-day hike suitable for walkers with moderate fitness.",
+    "terrain_summary": "The route blends compacted earth paths, gravel tracks, grassy field edges, and intermittent woodland footpaths. Expect rolling terrain with occasional steeper sections, uneven ground, and mud after rain. Navigation is straightforward, but bring a map or GPS as a precaution.",
+    "safety_notes": "Always check the weather and daylight hours before you go; UK conditions can change rapidly. Wear sturdy boots and bring waterproof layers. Stay on marked paths, respect livestock and crops, and carry a basic first-aid kit. Let someone know your plan, carry a charged mobile phone, and bring a light source if you might finish after dark in winter conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Water and snacks",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone",
+      "Sunscreen and hat",
+      "Lightweight head torch or flashlight",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; the route is generally pleasant with longer daylight. The hike can be attempted in Winter with extra precautions and appropriate gear.",
+    "seo": {
+      "title": "Forfar Path Circuit – 8.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the 8.6 km Forfar Path Circuit in the UK. A moderate, varied-terrain loop with countryside scenery and practical safety tips. Plan your hike with gear recommendations.",
+      "h1": "Forfar Path Circuit – 8.6 km Moderate Hike in the UK"
+    }
   }
 }

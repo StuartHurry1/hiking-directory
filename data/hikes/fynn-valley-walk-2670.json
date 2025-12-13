@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2670
+  },
+  "ai": {
+    "summary": "Fynn Valley Walk is a demanding 38.2 km hike in the UK, designed for experienced walkers seeking a long, varied day on the trails. The route traverses rural lanes, fields, and countryside, with potential mud and uneven terrain.",
+    "terrain_summary": "Expect a mix of rural footpaths, farm tracks, hedged lanes, and some road sections. Terrain ranges from grassy, muddy fields to compact gravel paths, with several stiles and gentle to moderate elevation changes. Weather and footing can be variable; sections may be wet after rain.",
+    "safety_notes": "Plan your route in advance and share your itinerary with someone. Carry a map and compass or a reliable GPS, and ensure your phone is charged. Check the weather forecast and daylight hours; start early to avoid finishing in darkness. Bring enough water and high-energy food. Be prepared for muddy or uneven surfaces, stiles, and potential road crossings; use caution around livestock and gates. Pack a basic first-aid kit, a whistle, and an emergency blanket. Know your bail-out points and have a plan to shorten the walk if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Backpack with at least 20-30L capacity",
+      "Water and high-energy snacks",
+      "Map (OS map) and compass or GPS",
+      "Headtorch or flashlight",
+      "First-aid kit",
+      "Whistle",
+      "Emergency bivy or space blanket",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (season dependent)",
+      "Mobile phone with offline maps",
+      "Walking poles (optional)",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring to autumn; ideal conditions typically March–October, with longer daylight and moderate temperatures. Winter walks are possible but require extra precautions for mud, reduced daylight, and variable weather.",
+    "seo": {
+      "title": "Fynn Valley Walk: 38.2 km Hard Hike in the UK",
+      "meta_description": "Discover the challenging 38.2 km Fynn Valley Walk in the UK. Practical safety tips, gear list, and best seasons for this long-distance hike.",
+      "h1": "Fynn Valley Walk: 38.2 km Hard Hike (UK)"
+    }
   }
 }

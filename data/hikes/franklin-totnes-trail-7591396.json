@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 7591396
+  },
+  "ai": {
+    "summary": "The Franklin Totnes Trail is a demanding 25.7 km hike in the United Kingdom, rated hard. Expect long distances, sustained climbs, and varied terrain that challenge endurance and navigation skills.",
+    "terrain_summary": "Terrain varies from wide grassy paths and field margins to woodland trails and rocky or muddy sections. Long ascents and descents with uneven footing are common, and weather can make sections slippery. Some parts may be exposed with limited markers, so good navigation and sturdy footwear are important.",
+    "safety_notes": "This is a hard, long-distance hike. Ensure adequate fitness and plan for a full day. Check weather and daylight hours; dress in layers with a waterproof outer layer. Carry a map or GPS and know your route; stay on marked paths where possible. Bring sufficient water (2–3 liters) and high-energy food; take regular breaks. Tell someone your planned route and expected return time. Pack a basic first aid kit, whistle, and emergency contact details. Be prepared for limited phone signal in remote sections and have a backup navigation plan. If conditions worsen or fatigue becomes unsafe, turn back or seek shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Water (2–3 liters) and high-energy snacks",
+      "Sun hat, sunglasses, and sunscreen",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency blanket or bivvy",
+      "Small first aid kit",
+      "Whistle",
+      "Trekking poles (optional but helpful for stability)",
+      "Fully charged phone with portable charger",
+      "Extra socks"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October).",
+    "seo": {
+      "title": "Franklin Totnes Trail – 25.7 km Hard Hike in the UK",
+      "meta_description": "Discover the Franklin Totnes Trail, a challenging 25.7 km hike in the United Kingdom. Read about terrain, safety tips, gear needs, and the best seasons for this demanding route.",
+      "h1": "Franklin Totnes Trail – 25.7 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1756397
+  },
+  "ai": {
+    "summary": "A demanding long-distance trail in northeast Scotland, the Formartine and Buchan Way covers roughly 208.4 km of varied terrain. The route traverses quiet rural lanes, farmland, woodland, peat heath, and coastal paths, offering exposed sections and long days of walking. Designed for experienced hikers with good navigation and endurance, the hike rewards with remote scenery, villages for resupply, and a true sense of solitude.",
+    "terrain_summary": "Expect a mix of firm gravel and quiet country lanes, short stretches of woodland, open moor/peat bog in places, farm tracks, and coastal segments. Elevation is generally gradual but there are some sustained long sections without shade or shelter. Weather can be highly variable; mud is common after rain, and wind is frequent along coastlines.",
+    "safety_notes": "Plan for long distances between services; signposting is generally good but a map/compass is essential. Weather in northeast Scotland can change rapidly; layer for warmth and rain, and protect against wind. Some remote stretches have limited phone reception; carry a charged device, a light emergency kit, and a planned route with check-ins. Ensure adequate daylight for daily targets and consider shorter day stages in winter.",
+    "recommended_gear": [
+      "Rigid or trail hiking boots with good ankle support",
+      "Waterproof and breathable jacket and pants",
+      "Mid-layer fleece or down jacket",
+      "Hat and gloves for cold mornings/evenings",
+      "Map and compass (and GPS as backup)",
+      "Fully charged smartphone with offline maps and power bank",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Water bottle or hydration reservoir plus water purification method",
+      "Snacks and high-energy foods; lightweight stove and mug if camping",
+      "Emergency blanket or bivy, whistle, multipurpose tool",
+      "Sunscreen, sunglasses, insect repellent"
+    ],
+    "best_seasons": "Spring through autumn (roughly April to October) offer the best weather and daylight in northeast Scotland. Early autumn brings crisp, clear days, while late spring may be wet; winter hikes are more challenging with reduced daylight and harsher conditions.",
+    "seo": {
+      "title": "Formartine and Buchan Way: 208.4 km Long-Distance Hike in Scotland",
+      "meta_description": "Plan a challenging through-hike on the Formartine and Buchan Way in Scotland. Learn about the 208.4 km route, terrain, safety tips, best seasons, and gear.",
+      "h1": "Formartine and Buchan Way – 208.4 km of Scottish Coastal-Highland Trail"
+    }
   }
 }

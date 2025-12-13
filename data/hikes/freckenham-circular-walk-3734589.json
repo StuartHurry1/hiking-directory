@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 3734589
+  },
+  "ai": {
+    "summary": "A gentle 5 km circular walk around Freckenham in the United Kingdom. This easy route follows rural lanes and fields, offering pleasant countryside scenery suitable for beginners and families.",
+    "terrain_summary": "Mostly flat to gently undulating rural lanes, grassy paths across fields, with occasional stiles and potentially muddy sections after rain.",
+    "safety_notes": "Check weather and daylight hours before you go; wear sturdy footwear and bring a light rain shell. Stay on public rights of way, watch for traffic on roads, and respect livestock. Keep dogs under control and on a short lead where required. Carry water, a map or GPS, a mobile phone, and a small first aid kit; let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light boots",
+      "Water and snacks",
+      "Weather-appropriate clothing and a light rain shell",
+      "Map or offline navigation (OS map or GPS)",
+      "Phone with emergency contact numbers",
+      "Small first aid kit",
+      "Hat and sunscreen in sunny weather",
+      "Pocket windbreaker or extra layer for changing conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the best scenery and daylight; the route can be enjoyed year-round with appropriate gear and caution in wet or icy conditions.",
+    "seo": {
+      "title": "Freckenham Circular Walk — 5 km Easy Hike in the UK",
+      "meta_description": "Discover the Freckenham Circular Walk, a 5 km easy route in the UK. Learn terrain details, safety tips, and packing suggestions for a pleasant countryside stroll.",
+      "h1": "Freckenham Circular Walk – 5 km Easy Hike in the UK"
+    }
   }
 }

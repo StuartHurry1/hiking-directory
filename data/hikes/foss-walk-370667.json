@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 370667
+  },
+  "ai": {
+    "summary": "Foss Walk is a challenging long-distance hike in the UK, spanning approximately 300.9 km. The route demands solid navigation, endurance, and time-management from experienced hikers, with varied terrain and multiple long days on trail.",
+    "terrain_summary": "The trail traverses a mix of country lanes, farm paths, woodland tracks, and occasional road sections. Expect muddy fields, grassy and rocky sections, boggy stretches, and modest elevation changes. Stiles and gates are common, and weather can alter footing, so good boots and waterproof layers are essential.",
+    "safety_notes": "This is a hard, multi-day trek. Plan thoroughly: map and route knowledge, weather checks, and a feasible itinerary with overnight stops. Tell someone your plan and expected times. Carry sufficient food and water, a means to purify water, and a reliable navigation device. Wear sturdy footwear, adjust clothing for changing conditions, and be prepared for fatigue, reduced daylight, and sudden weather shifts. Be cautious on road sections and ensure you have a plan for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weatherproof jacket and pants (breathable)",
+      "Insulating mid-layer",
+      "Moisture-wicking base layers",
+      "Backpack with 40-50L capacity",
+      "Water bottle or hydration bladder + water purification method",
+      "Map, compass, and/or GPS device; fully charged",
+      "Power bank and charging cables",
+      "First aid kit with blister care",
+      "Emergency bivvy or space blanket",
+      "Headlamp with spare batteries",
+      "Trekking poles",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Whistle, multi-tool, and lightweight tarp or poncho for shelter",
+      "Snack staples and high-energy foods"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May-September) for favorable daylight, milder weather, and better trail conditions.",
+    "seo": {
+      "title": "Foss Walk: 300.9 km Hard UK Long-Distance Trek",
+      "meta_description": "Plan the Foss Walk, a 300.9 km hard-distance hike across the UK. Explore terrain, safety tips, essential gear, and the best seasons for this challenging route.",
+      "h1": "Foss Walk — a challenging 300.9 km UK hike"
+    }
   }
 }

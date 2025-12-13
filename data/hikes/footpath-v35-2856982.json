@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2856982
+  },
+  "ai": {
+    "summary": "Footpath V35 is a short, easy 1.4 km route in the UK designed for a quick, low-effort stroll. Suitable for beginners and families seeking a gentle outdoor experience.",
+    "terrain_summary": "The route follows a level, well-maintained path with a mix of compacted gravel and smooth surface. After rain it can become muddy; occasional puddles and roots along the edges may appear.",
+    "safety_notes": "Stay on the designated path and be mindful of other path users. Wear supportive footwear with good grip. Check weather and daylight hours; bring a light layer and water if needed. Children should be supervised near any road crossings or junctions. If visibility is poor due to fog or rain, consider postponing.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (e.g., waterproof jacket)",
+      "Water bottle",
+      "Phone with emergency contacts",
+      "Small map or offline route (optional)",
+      "Light snack",
+      "Sunscreen and hat (summer)"
+    ],
+    "best_seasons": "Spring to Autumn; year-round with caution in wet or icy conditions.",
+    "seo": {
+      "title": "Footpath V35 – Easy 1.4 km Walk in the UK",
+      "meta_description": "Explore Footpath V35, an easy 1.4 km route in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to walk this short path.",
+      "h1": "Footpath V35 – Easy 1.4 km Walk in the UK"
+    }
   }
 }

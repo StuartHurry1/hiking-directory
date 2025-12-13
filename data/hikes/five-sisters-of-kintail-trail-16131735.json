@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 16131735
+  },
+  "ai": {
+    "summary": "The Five Sisters of Kintail Trail is a demanding 19.9 km ridge walk in the Scottish Highlands. It links five prominent summits along a rugged crest, offering expansive Highland views. The route is rewarding but challenging, requiring good fitness, solid navigation, and respect for exposed sections and rapidly changing weather.",
+    "terrain_summary": "Rugged alpine ridge with rocky scrambling and long ascents and descents. Expect exposed crests, loose scree, and potentially boggy ground between summits. Footing can be uneven and weather can quickly reduce visibility, making navigation essential.",
+    "safety_notes": "This hard, long hike demands careful preparation. Check forecast conditions and plan your day with ample daylight. Carry map and compass and know how to use them; avoid reliance on smartphones alone. Wear sturdy boots and dress in layers with windproof and waterproof outerwear. Bring sufficient food and water, plus a first aid kit, headlamp, and emergency shelter. Start early, hike with a partner if possible, and be prepared to turn back if weather deteriorates or visibility drops.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Insulating mid-layer (fleece or lightweight down)",
+      "Breathable base layers",
+      "Gloves and hat",
+      "Rugged hiking trousers",
+      "Backpack 20–30 L with waterproof cover",
+      "Map and compass (and knowledge to use them)",
+      "GPS or offline maps (optional)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency bivvy or space blanket",
+      "Water bottle or hydration system (2–3 L total, depending on duration and heat)",
+      "Energy snacks and meals",
+      "Sunscreen and sunglasses",
+      "Gaiters (optional)",
+      "Climbing helmet (optional for loose rock)"
+    ],
+    "best_seasons": "May–September generally offer the best weather and longest daylight, but conditions in the Scottish Highlands are highly changeable year-round.",
+    "seo": {
+      "title": "Five Sisters of Kintail Trail – Hard Ridge Hike in the Scottish Highlands",
+      "meta_description": "Tackle the 19.9 km Five Sisters of Kintail Trail, a challenging ridge hike in the Scottish Highlands. Get terrain details, safety tips, and gear recommendations.",
+      "h1": "Five Sisters of Kintail Trail: A Hard Ridge Hike in the Scottish Highlands"
+    }
   }
 }

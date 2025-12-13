@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8331831
+  },
+  "ai": {
+    "summary": "A short, easy 4.7 km walk along the Friends of the Peak District Boundary Walk route in the UK. Suitable for beginners and families, it offers gentle countryside scenery with mostly flat or mildly undulating terrain and minimal elevation gain.",
+    "terrain_summary": "Predominantly country footpaths and fields with grass, compacted dirt, and occasional gravel. Expect gates and stiles, some uneven sections, and potential muddy patches after rain. Some sections may run alongside hedgerows or light roads; watch for livestock and cyclists on shared paths.",
+    "safety_notes": "Even short walks in the UK can be affected by weather and uneven ground: check the forecast before you go, wear sturdy footwear, and bring a windproof or waterproof layer. Stay on marked paths, observe gates and livestock, and close gates behind you. Carry a map or offline navigation, a charged phone, water, and a small snack. Let someone know your plan and expected return time. In exposed countryside, navigation and visibility can be challenging; avoid walking after dark and seek shelter if sudden weather arrives.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing (rain jacket and layers)",
+      "Water bottle and light snacks",
+      "Map, guidebook, or offline GPS/app",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Phone with charged battery and emergency contacts",
+      "Pack with enough capacity for extra layers",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Year-round. Spring and summer are usually the most pleasant for visibility and comfort, autumn brings color, and winter hikes can be rewarding with proper clothing and caution for mud and wind.",
+    "seo": {
+      "title": "Friends of the Peak District Boundary Walk – Easy 4.7 km UK Hike",
+      "meta_description": "Explore a short, easy 4.7 km section of the Friends of the Peak District Boundary Walk in the UK. Perfect for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Friends of the Peak District Boundary Walk – 4.7 km (Easy)"
+    }
   }
 }

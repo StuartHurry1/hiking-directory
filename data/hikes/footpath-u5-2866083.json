@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 2866083
+  },
+  "ai": {
+    "summary": "Footpath U5 is a short and easy 0.9 km hike in the UK, suitable for beginners and casual walkers looking for a quick outdoor stroll.",
+    "terrain_summary": "The route follows a flat, well-marked path with firm footing. Expect occasional grass or gravel sections and gentle slopes; scenery is pleasant but minimal.",
+    "safety_notes": "Check the weather before you go. Wear sturdy footwear and bring water. Stay aware of other pedestrians and cyclists on shared sections. Use sun protection in warmer months and be prepared for mud in wet conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen / hat",
+      "Map or GPS (optional)"
+    ],
+    "best_seasons": "All-year round with appropriate clothing; spring and autumn are particularly pleasant, summer can be warm, and winter may be muddy.",
+    "seo": {
+      "title": "Footpath U5: Easy 0.9 km Hike in the UK",
+      "meta_description": "A concise guide to Footpath U5, an easy 0.9 km hike in the UK. Includes terrain, safety, gear, and best seasons.",
+      "h1": "Footpath U5 — Easy 0.9 km Hike in the UK"
+    }
   }
 }

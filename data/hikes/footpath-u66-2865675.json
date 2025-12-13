@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2865675
+  },
+  "ai": {
+    "summary": "Footpath U66 is a short, easy 1.5 km hike in the United Kingdom suitable for beginners and families. The route follows a well-defined footpath with gentle terrain and minimal elevation gain.",
+    "terrain_summary": "Mostly flat and well-maintained, with compacted soil or gravel surfaces. Some sections may have grass verges or damp patches after rain; good drainage helps keep feet comfortable most of the time.",
+    "safety_notes": "- Stay on the marked path and watch for uneven ground. - Check the weather before you go and be prepared for rain. - Wear sturdy, comfortable footwear with good grip. - Bring water and a light snack. - Daylight can be limited in winter; carry a small light if you’ll be out near dusk. - Be mindful of other walkers, cyclists, or livestock if present. - If you encounter livestock or gate etiquette, follow signs and close any gates behind you.",
+    "recommended_gear": [
+      "Comfortable walking shoes with good grip",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat for sunny days",
+      "Mobile phone with emergency contacts",
+      "Small snack",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal due to moderate weather; the hike is accessible year-round, but rain can make surfaces muddy and daylight is shorter in winter.",
+    "seo": {
+      "title": "Footpath U66 — Easy 1.5 km Hike in the UK",
+      "meta_description": "Discover Footpath U66, an easy 1.5 km hike in the UK. Ideal for beginners and families, with simple terrain and practical safety tips.",
+      "h1": "Footpath U66: Easy 1.5 km Hike in the UK"
+    }
   }
 }

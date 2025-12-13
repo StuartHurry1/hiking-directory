@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14999916
+  },
+  "ai": {
+    "summary": "A demanding 17.1 km hike along the Former Chiltern Way in the UK. Expect a mix of rolling chalk hills, woodland sections, and rural lanes with gates and occasional steep climbs, making for a strenuous day on varied terrain.",
+    "terrain_summary": "Diverse surfaces create a varied trek: firm country lanes, grassy hill paths, chalk tracks, and woodland trails. Moderate to uneven ground with some muddy patches, stiles, gates, and exposed sections where views over the countryside are best.",
+    "safety_notes": "Plan for 4–6 hours and check weather and daylight hours before starting. Wear sturdy boots with good grip and bring a map and compass (or GPS) even if the route is well marked. Stay on public paths, mind gates and livestock, and be prepared for mud after rain. Carry enough water and snacks, and let someone know your route and expected finish time. Have a charged phone and a basic first aid kit; take extra layers for cold or windy conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing in layers and a waterproof outer layer",
+      "Backpack with enough capacity for gear and provisions (around 20–30 L)",
+      "Water and high-energy snacks",
+      "Map and compass (or a GPS device) and a fully charged phone",
+      "Lightweight rain jacket and an extra warm layer",
+      "Sun protection (hat, sunglasses, sunscreen) and insect repellent",
+      "Basic first aid kit and a whistle",
+      "Head torch or flashlight (for late finishes or emergencies)",
+      "Walking poles (optional but helpful on exposed or muddy sections)"
+    ],
+    "best_seasons": "Spring (Mar–May) and Autumn (Sep–Nov) are ideal for the Former Chiltern Way, offering milder weather and good visibility. Summer can be doable with early starts and careful pacing, while Winter presents more mud, shorter daylight, and harsher conditions.",
+    "seo": {
+      "title": "Former Chiltern Way Hike – 17.1 km Hard Trail in the UK",
+      "meta_description": "Tackle the 17.1 km Former Chiltern Way in the UK. A hard hike across rolling chalk hills, woodlands and farmland. Practical safety tips and gear suggestions included.",
+      "h1": "Former Chiltern Way – 17.1 km Hard Hike in the UK"
+    }
   }
 }

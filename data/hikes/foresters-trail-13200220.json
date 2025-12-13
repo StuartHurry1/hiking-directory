@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13200220
+  },
+  "ai": {
+    "summary": "Foresters' Trail is a gentle 4.8 km hike in the UK, suitable for beginners and families. The route travels through woodland on well-maintained paths, offering a peaceful forest setting with light shade and occasional viewpoints.",
+    "terrain_summary": "Predominantly woodland paths with flat to gently rolling terrain. Expect a few roots and compact earth, and occasional damp patches after rain. The surface is generally easy for walkers of all ages.",
+    "safety_notes": "Plan for the weather and daylight hours. Wear sturdy walking shoes with good grip. Stay on marked paths, and keep an eye out for uneven ground and exposed roots. Bring water, a light layer, and a compact rain jacket. In forested areas, be mindful of wildlife and ticks. Let someone know your route and expected return time when hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Layered clothing",
+      "Light rain jacket",
+      "Map, guidebook, or GPS",
+      "Sun protection (hat and sunscreen)",
+      "Small first aid kit",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for dry trails and vibrant scenery. Winter can be muddier with shorter daylight hours, but the trail is still enjoyable in milder conditions.",
+    "seo": {
+      "title": "Foresters' Trail — Easy 4.8 km Woodland Hike in the UK",
+      "meta_description": "Discover Foresters' Trail, a gentle 4.8 km woodland hike in the UK. Easy terrain, perfect for beginners and families. Safety tips and recommended gear.",
+      "h1": "Foresters' Trail — Easy 4.8 km Woodland Hike in the UK"
+    }
   }
 }

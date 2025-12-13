@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2865592
+  },
+  "ai": {
+    "summary": "Footpath V36 is a short, easy 1.6 km walk in the UK designed for beginners and casual walkers. The route offers a straightforward, well-maintained path with gentle terrain, making it suitable for families and those seeking a brief outdoor outing.",
+    "terrain_summary": "The path is predominantly flat and solid underfoot, usually a gravel or compacted dirt surface with sections of grass verge. Expect occasional gentle inclines and potential muddy patches after rain; good footwear is recommended.",
+    "safety_notes": "Always check local weather and daylight hours before starting. Tell someone your plan and expected return. Wear sturdy, comfortable shoes and bring water. Stay on the official path, watch for other walkers, and keep pets under control. Be prepared for mud or uneven ground after rain and avoid the route in severe weather or flood conditions. Carry a map or offline navigation and know your limits.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Lightweight backpack",
+      "Map or offline navigation app",
+      "Sunscreen and hat",
+      "Rain jacket",
+      "Snack"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; suitable year-round with appropriate clothing and precautions.",
+    "seo": {
+      "title": "Footpath V36 – Easy 1.6 km UK Hike",
+      "meta_description": "Discover Footpath V36, an easy 1.6 km hike in the UK. Learn about terrain, safety tips, and gear for a short and enjoyable outdoor walk.",
+      "h1": "Footpath V36 – Easy 1.6 km UK Hike"
+    }
   }
 }

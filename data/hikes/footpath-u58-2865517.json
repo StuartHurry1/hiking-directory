@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2865517
+  },
+  "ai": {
+    "summary": "Footpath U58 is a short, easy 2.4 km hike in the UK designed for beginners and casual walkers, featuring a gentle route with light elevation and straightforward navigation.",
+    "terrain_summary": "The route is mostly flat or gently undulating, on a mix of grass, compact gravel, and earthen surfaces. Expect occasional muddy patches after rain and some uneven sections.",
+    "safety_notes": "Check the weather before you go and wear appropriate footwear. Stay on the marked path, watch for uneven ground, and be mindful of other walkers. Bring a charged phone for navigation, a map or offline route if possible, and plan for limited mobile coverage in rural areas. If hiking with others, let someone know your plan and estimated return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Layers for warmth",
+      "Hat and sunscreen",
+      "Map or offline navigation on mobile",
+      "Phone power bank"
+    ],
+    "best_seasons": "All year, with spring and summer offering the best daylight and dry conditions; in winter expect mud and cold weather, so adjust gear accordingly.",
+    "seo": {
+      "title": "Footpath U58 – 2.4 km Easy Hike in the UK",
+      "meta_description": "A concise guide to Footpath U58, a 2.4 km easy hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Footpath U58 – 2.4 km Easy Hike in the UK"
+    }
   }
 }

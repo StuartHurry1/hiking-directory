@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2858450
+  },
+  "ai": {
+    "summary": "Freshwater Way is a challenging 17.3-kilometer hike in the UK. The route combines varied terrain with significant elevation gain, demanding fitness and good navigation. It’s best tackled by experienced hikers prepared for changing conditions and potential boggy or rocky sections.",
+    "terrain_summary": "Expect mixed terrain: uneven forest tracks, rocky ascents, exposed path sections, and muddy, waterlogged ground. Potential stream crossings and steep gradients can require careful footing; roots and loose stone may be present. Weather near water features can be variable and damp.",
+    "safety_notes": "Check weather and daylight hours before starting. Wear sturdy waterproof boots and dress in layered, weather-appropriate clothing. Bring a map and compass (and a charged phone as backup). Carry sufficient water and high-energy snacks. Stay on marked trails where possible and be prepared for slippery, boggy conditions. Inform someone of your route and expected return time. Carry a small first aid kit and whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Breathable layers and extra warm clothing",
+      "Map, compass and/or GPS (offline access recommended)",
+      "Water bottle or hydration system and high-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "Small first aid kit",
+      "Whistle and emergency blanket",
+      "Rain cover or dry bag for belongings",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) often offers the best conditions and daylight in the UK; the hike is still doable outside this window with proper gear and extra caution in winter.",
+    "seo": {
+      "title": "Freshwater Way – 17.3 km Hard Hike in the UK",
+      "meta_description": "Explore Freshwater Way, a demanding 17.3 km hike in the UK. Get terrain insights, safety tips, essential gear, and the best seasons for this challenging route.",
+      "h1": "Freshwater Way: A 17.3 km Hard Hike in the UK"
+    }
   }
 }

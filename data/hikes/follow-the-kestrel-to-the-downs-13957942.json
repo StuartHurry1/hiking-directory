@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13957942
+  },
+  "ai": {
+    "summary": "A short, easy 2.8 km hike in the UK countryside titled 'Follow the kestrel to the Downs.' This beginner-friendly route offers gentle terrain, open views across the Downs, and the chance to spot kestrels and other birds along the way.",
+    "terrain_summary": "Grassy paths across open downs with gentle slopes; mostly well-defined trails, but expect uneven turf and occasional muddy patches after rain; some exposed sections where wind can be strong.",
+    "safety_notes": "Weather on the Downs can change rapidly; check the forecast and dress in layers. Wear sturdy, comfortable footwear suitable for uneven grass and mud. Stay on marked paths and away from cliff edges or steep drops. Be mindful of livestock or other hikers. Bring water, sun protection in sunny weather, and a charged phone; in remote sections consider sharing your plan. Have a map or GPS and know your turnaround point to avoid getting lost.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Sun protection (hat, sunscreen)",
+      "Binoculars or camera for kestrel viewing",
+      "Map or GPS device and compass (or offline map)",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Phone charged; emergency contact details"
+    ],
+    "best_seasons": "Spring to autumn for the best weather and wildlife viewing; can be done year-round, but rain, wind, and shorter daylight in winter may make it less pleasant.",
+    "seo": {
+      "title": "Follow the kestrel to the Downs - Easy 2.8 km Hike in the UK",
+      "meta_description": "Enjoy a short, easy 2.8 km hike in the UK countryside. Ideal for beginners and birdwatchers, with open downs, scenic views, and potential kestrel sightings.",
+      "h1": "Follow the kestrel to the Downs"
+    }
   }
 }

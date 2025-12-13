@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10020648
+  },
+  "ai": {
+    "summary": "An easy 3.4 km loop on Fleet Pond Yellow Route in the UK, suitable for families and casual walkers. Enjoy gentle paths, woodland scenery, and pond views around Fleet Pond.",
+    "terrain_summary": "Mostly surfaced gravel paths and short boardwalk sections around the pond. Some stretches may be muddy or uneven after rain; expect gentle inclines and flat, accessible terrain.",
+    "safety_notes": "Stick to marked paths; boardwalks and pond edges can be slippery when wet. Wear sturdy footwear and weather-appropriate clothing. Check the forecast and be prepared for sudden changes. Bring water, a small first aid kit, and tell someone your planned route. Supervise children and dogs (keep dogs on a lead where required) and yield to other walkers and cyclists on shared sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water and a small snack",
+      "Weather-appropriate clothing and rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent (seasonal)",
+      "Camera or binoculars for wildlife",
+      "Map or offline navigation (or a charged phone)"
+    ],
+    "best_seasons": "Spring through autumn; winter visits are possible but can be cold and muddy.",
+    "seo": {
+      "title": "Fleet Pond Yellow Route – 3.4 km Easy Hike in the UK",
+      "meta_description": "Discover the Fleet Pond Yellow Route, a 3.4 km easy hike in the UK with woodland trails, tranquil pond views, and family-friendly scenery. Practical safety tips included.",
+      "h1": "Fleet Pond Yellow Route – 3.4 km Easy Hike"
+    }
   }
 }
