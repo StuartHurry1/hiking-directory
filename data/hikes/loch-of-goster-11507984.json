@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 11507984
+  },
+  "ai": {
+    "summary": "A gentle 4.5 km loop around Loch of Goster in the UK, designed for easy day-hikes. The route follows well-maintained paths along the water, offering tranquil scenery and minimal elevation gain, making it ideal for beginners, families, and casual walkers.",
+    "terrain_summary": "Mostly flat, well-trodden paths along the loch shore. Expect a mix of gravel and turf with occasional damp or muddy patches; some sections may be close to the water's edge depending on water level.",
+    "safety_notes": "Weather in the UK can change quickly. Check the forecast before you go and dress in layers. Wear sturdy footwear and stay on marked paths. Be cautious on wet or uneven surfaces, particularly after rain. Keep children and pets under control near the water, and carry a map or device with charged battery; daylight hours shorten in winter.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Layers/fleece",
+      "Snack or energy bar",
+      "Map or GPS device",
+      "Phone with offline maps",
+      "Hat and sunscreen",
+      "Small backpack",
+      "Rain cover (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) typically offers the most pleasant conditions for this easy hike, though it can be done year-round with appropriate gear.",
+    "seo": {
+      "title": "Loch of Goster – Easy 4.5 km Hike in the UK",
+      "meta_description": "Explore a gentle 4.5 km circuit around Loch of Goster in the UK. This easy hike is suitable for beginners and families, offering scenic lochside views and accessible terrain.",
+      "h1": "Loch of Goster – Easy 4.5 km Hike in the UK"
+    }
   }
 }

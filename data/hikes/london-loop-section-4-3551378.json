@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3551378
+  },
+  "ai": {
+    "summary": "A challenging 19.3 km segment of the London LOOP, a long-distance trail encircling Greater London. This Section 4 hike blends urban paths, woodland trails, and rural countryside with undulating terrain and several steep sections that test endurance.",
+    "terrain_summary": "Undulating terrain with a mix of public footpaths, woodland trails, parkland, and occasional road stretches. Expect a combination of well-defined paths, mud after rain, and uneven surfaces that require careful footing; some sections may be rocky or root-strewn.",
+    "safety_notes": "Plan this as a long day out: check the weather, wear sturdy waterproof footwear, and bring a map and compass in addition to a charged phone. Tell someone your route and expected return time. Stay on marked paths, watch for busy road crossings, and be prepared for variable UK conditions, including rain and sudden changes in temperature. Carry sufficient water and snacks, and know where to shelter if necessary. In winter, daylight is limited; start early and consider backup options.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Backpack with 20–30 L capacity",
+      "Sufficient water and energy-rich snacks",
+      "Map and compass or offline GPS; fully charged phone as backup",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Whistle and emergency blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–October) offer milder weather and better trail conditions; summer can be hot and crowded, while winter requires extra precautions and daylight.",
+    "seo": {
+      "title": "London LOOP Section 4 – 19.3 km Hard Hike in the UK",
+      "meta_description": "Explore London LOOP Section 4, a 19.3 km hard hike around Greater London in the UK. Learn about terrain, safety tips, gear, and the best seasons for this long-distance route.",
+      "h1": "London LOOP Section 4 – 19.3 km Hard Hike (UK)"
+    }
   }
 }

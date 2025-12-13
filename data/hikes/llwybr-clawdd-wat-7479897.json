@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 7479897
+  },
+  "ai": {
+    "summary": "Llwybr Clawdd Wat is a long-distance UK hike tracing the historic Wat's Dyke earthwork. Spanning about 160.7 km, this hard route traverses rural farmland, hedged lanes, and occasional woodlands, with varied terrain and multiple days of trekking between settlements.",
+    "terrain_summary": "Terrain varies along the route: rural tracks and field boundaries, grassy paths, some stiles and gates, minor road crossings, wet and muddy sections after rain, and sections following the historic dyke line. Elevation changes range from flat sections to gentle undulations and occasional hills; expect exposed stretches in open countryside.",
+    "safety_notes": "This is a multi-day hike with long stretches between settlements. Plan carefully for weather and daylight: UK conditions can change rapidly. Carry a reliable map and compass (GPS as a backup), and know how to navigate. Pack waterproofs, warm layers, and sufficient food and water; stay hydrated and fueled. Inform someone of your itinerary, check access rights for camping, and carry a small first aid kit and emergency items. Be prepared for livestock, gates, and occasional road sections; weatherproof footwear is essential.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and rain trousers",
+      "Insulating mid-layer (fleece or equivalent)",
+      "Moisture-wicking base layers",
+      "Rucksack with 25–40 L capacity",
+      "Map and compass (GPS as backup)",
+      "Phone with offline maps and portable charger",
+      "Water containers (2–3 litres total) and water purification method",
+      "High-energy food and snacks for several days",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit including blister care",
+      "Emergency shelter or space blanket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn; in the UK this route is typically most comfortable from late spring to early autumn (roughly May–September).",
+    "seo": {
+      "title": "Llwybr Clawdd Wat: 160.7 km UK Hard-Distance Hike along Wat's Dyke",
+      "meta_description": "Discover Llwybr Clawdd Wat, a challenging 160.7 km hike in the UK. Explore terrain, safety tips, gear, and best seasons for this historic route along Wat's Dyke.",
+      "h1": "Llwybr Clawdd Wat: 160.7 km Hard-Distance Hike along Wat's Dyke"
+    }
   }
 }

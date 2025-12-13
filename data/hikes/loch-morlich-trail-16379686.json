@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16379686
+  },
+  "ai": {
+    "summary": "The Loch Morlich Trail is a 13.9 km moderate loop that circumnavigates Loch Morlich in the Scottish Highlands. The route combines pine forest paths, lakeside sections, and light elevation gain, delivering scenic views of the loch, surrounding Munros, and wildlife. Suitable for hikers with moderate fitness, the trail is popular in summer and shoulder seasons and can be enjoyed as a day trip from nearby towns in the Cairngorms National Park.",
+    "terrain_summary": "The terrain is mostly well-marked forest tracks and gravel paths with occasional stretches along the loch shore. Expect gentle climbs, uneven roots, damp ground, and possible muddy patches after rain. The trail may be exposed to wind along the water’s edge, so layering and waterproofs are advised.",
+    "safety_notes": "Check weather forecasts and daylight hours before you go. Wear sturdy waterproof hiking boots and dress in layers; Cairngorms weather can change rapidly. Stay on marked paths, carry a map and compass or GPS, and bring enough water and energy snacks. Be mindful of wildlife and other hikers, and let someone know your plans. In winter, be prepared for snow and ice; daylight is shorter.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Layers of clothing",
+      "Water bottle",
+      "Snacks",
+      "Map and compass or GPS",
+      "Hat and gloves (seasonal)",
+      "Whistle",
+      "First aid kit",
+      "Headlamp (if starting late)",
+      "Small backpack for gear",
+      "Sun protection (sunglasses, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn, when daylight and trail conditions are typically best. Summer offers the longest days and easier loch views; winter hikes require appropriate cold-weather gear and experience.",
+    "seo": {
+      "title": "Loch Morlich Trail – 13.9 km Moderate Hike in the Cairngorms, UK",
+      "meta_description": "Explore the 13.9 km Loch Morlich Trail in the Cairngorms National Park, Scotland. A moderate loop featuring forest paths, lochside scenery, and practical hiking tips for a safe and enjoyable day.",
+      "h1": "Loch Morlich Trail – A 13.9 km Moderate Loop in the Cairngorms, UK"
+    }
   }
 }

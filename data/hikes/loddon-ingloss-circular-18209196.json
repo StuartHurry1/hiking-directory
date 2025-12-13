@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18209196
+  },
+  "ai": {
+    "summary": "Loddon Ingloss Circular is a 12.9 km loop hike in the UK that combines countryside footpaths, grassy lanes, and occasional field edges. Classified as moderate, it suits hikers with steady fitness and a willingness to negotiate gentle elevation changes before returning to the start point.",
+    "terrain_summary": "Mostly rural paths with grassy sections, hedgerows, and occasional country lanes. Surfaces can be uneven and muddy after rain, with gates or stiles to pass. Views vary with the season, and exposure may occur on open sections.",
+    "safety_notes": "Always let someone know your planned route and expected return. Wear sturdy boots and bring weather-appropriate clothing. Check the forecast and daylight hours, as the walk can take several hours. Stay on public paths, watch for livestock in fields, and take care around gates and stiles.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass or GPS device",
+      "Phone with offline map and emergency contacts",
+      "Hat or cap and sun protection (on sunny days)",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal; Winter can be damp and darker, requiring careful planning.",
+    "seo": {
+      "title": "Loddon Ingloss Circular – 12.9 km Moderate UK Hike",
+      "meta_description": "Explore the Loddon Ingloss Circular, a 12.9 km moderate-length hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for this circular route.",
+      "h1": "Loddon Ingloss Circular – 12.9 km Moderate Hike in the UK"
+    }
   }
 }

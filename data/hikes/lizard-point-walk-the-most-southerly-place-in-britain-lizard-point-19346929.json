@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19346929
+  },
+  "ai": {
+    "summary": "A short, easy coastal walk from Lizard Point, Britain’s southernmost tip, covering about 2.5 km with sea views and rugged cliffs.",
+    "terrain_summary": "Predominantly well-maintained paths along the shoreline, with flat sections and a few gentle slopes. Surfaces include compact gravel, boardwalks, and occasional rocky patches near the cliff edge. Be cautious of mud after rain and windy conditions.",
+    "safety_notes": "Coastal paths can be exposed and slippery. Stay well back from cliff edges, particularly after rain or strong winds. Wear sturdy footwear and windproof clothing. Check tide times and weather before you go; avoid during storms. Keep children and dogs under close supervision and do not step on unstable rock or wet areas. Take a small amount of water; stay on designated paths.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Windproof/waterproof jacket",
+      "Layers for changing weather",
+      "Water and snacks",
+      "Sun protection (hat, sunscreen)",
+      "Phone or map",
+      "Small first aid item if desired",
+      "Light backpack"
+    ],
+    "best_seasons": "All year, with the best conditions typically from spring through autumn.",
+    "seo": {
+      "title": "Lizard Point Walk — 2.5 km Easy Coastal Walk to Britain’s Southernmost Point",
+      "meta_description": "Discover Lizard Point, Britain’s southernmost tip, on a 2.5 km easy coastal walk. Tips on terrain, safety, gear, and the best seasons.",
+      "h1": "Lizard Point Walk: 2.5 km Easy Coastal Trail to Britain's Southernmost Point"
+    }
   }
 }

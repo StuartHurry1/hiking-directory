@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5619922
+  },
+  "ai": {
+    "summary": "Little Ord Trail is a 7.5 km moderate hike in the United Kingdom, featuring a mix of grassy paths, woodland tracks, and riverbank sections. The route suits walkers with some experience and decent footwear, though conditions can be muddy and uneven after rain.",
+    "terrain_summary": "Terrain varies from well-trodden trails to muddy fields, with uneven ground, occasional rocky patches, and gentle to moderate ascent. Expect river crossings or damp stretches after rain; stiles and gates may be encountered.",
+    "safety_notes": "Weather in the UK can change quickly; wear sturdy boots and bring waterproof outerwear. Stay on marked paths, and check the forecast before setting out. Carry a map and compass or GPS, along with enough water and snacks. Bring a small first aid kit, a whistle, and a charged phone. Inform someone of your route and expected return time. Be prepared for muddy ground and potential boggy sections, especially after rain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, hat, gloves)",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Whistle and emergency blanket",
+      "Rain jacket or waterproof shell",
+      "Headlamp or flashlight (in case of delays)",
+      "Phone with offline maps and a fully charged battery",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn; can be done year-round, but winter tends to be wetter and more challenging.",
+    "seo": {
+      "title": "Little Ord Trail – 7.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 7.5 km Little Ord Trail in the UK. A moderate hike with varied terrain, practical safety tips, and essential gear for a day on the trail.",
+      "h1": "Little Ord Trail – 7.5 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2168278
+  },
+  "ai": {
+    "summary": "The Long Walk Route is a 10.8 km moderate hike in the UK that suits walkers with a reasonable fitness level. The trail combines gentle ascents with varied surfaces and offers countryside scenery along with potential hedgerows and rural landmarks. It's a flexible option for a half day walk with opportunities to tailor breaks to fit your pace.",
+    "terrain_summary": "The terrain includes grassy tracks, packed earth, and occasional muddy patches, with gentle climbs rather than steep ascents. Expect some stiles and uneven footing in places, and sections that may be exposed to wind or rain. The route is suitable for day hikers with basic navigation skills, and scenery can change with the weather.",
+    "safety_notes": "Weather in the UK can change quickly, so check forecasts before setting out. Carry a map and compass or an offline navigation app, and don't rely on mobile signal. Wear sturdy footwear and layered clothing, bring waterproof gear, and pack enough water and high energy snacks. Tell someone your planned route and return time, stay on marked paths, and have a plan for unexpected conditions. Carry a whistle and a small first aid kit for minor injuries.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Backpack with water and snacks",
+      "Map and compass or a GPS/navigation device",
+      "Water bottle or hydration system",
+      "Headwear and sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Whistle for emergencies",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) when daylight is longer and weather is milder; however the route can be hiked year-round with appropriate gear and caution for shorter daylight hours and wetter conditions in winter.",
+    "seo": {
+      "title": "Long Walk Route - 10.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the 10.8 km Long Walk Route in the UK. A moderate hike featuring varied terrain, practical safety tips, best seasons, and gear recommendations for hikers.",
+      "h1": "Long Walk Route - 10.8 km Moderate Hike in the UK"
+    }
   }
 }

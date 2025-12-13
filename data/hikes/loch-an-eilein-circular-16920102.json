@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16920102
+  },
+  "ai": {
+    "summary": "A very short, easy circular walk around Loch an Eilein in the UK. The loop is 0.1 km and is suitable for all ages, offering a quick, scenic lochside experience.",
+    "terrain_summary": "Flat, mostly easy terrain around the loch on compact paths with potential gravel or boardwalk sections. Footing is gentle and accessible for most walkers.",
+    "safety_notes": "- Check weather conditions before you go. - Wear sturdy, comfortable footwear. - Stay on marked paths and supervise children near the water. - Bring water, especially in warm weather. - Be cautious on damp surfaces, as paths near the loch can be slippery.",
+    "recommended_gear": [
+      "comfortable walking shoes",
+      "light rain jacket",
+      "water bottle",
+      "snack",
+      "phone or camera",
+      "sunscreen",
+      "hat (optional)"
+    ],
+    "best_seasons": "Spring to autumn for the best weather; suitable year-round with appropriate clothing",
+    "seo": {
+      "title": "Loch an Eilein Circular Walk – Easy 0.1 km Loop in the UK",
+      "meta_description": "Explore the Loch an Eilein Circular, a short and easy 0.1 km loop in the UK. Quick lochside stroll with scenic views, plus safety tips and gear.",
+      "h1": "Loch an Eilein Circular Walk"
+    }
   }
 }

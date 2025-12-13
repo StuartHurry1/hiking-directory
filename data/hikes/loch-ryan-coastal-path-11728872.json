@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 11728872
+  },
+  "ai": {
+    "summary": "The Loch Ryan Coastal Path is a demanding 25.7 km coastal hike along the southwest Scottish coast of the UK. The route loops around Loch Ryan, delivering expansive sea views, rugged shoreline, and a mix of terrain that requires good fitness and sturdy footwear. Plan as a long day hike or split into two shorter outings, with weather that can be highly variable even in summer.",
+    "terrain_summary": "A mix of rocky shoreline, pebbled beaches, grassy cliff-top paths, and well-trodden coastal trails. Expect exposed sections with strong winds, uneven ground, and occasional mud after rain. Some segments feature steep ascents or descents; footwear with solid grip is essential. Certain beaches or flats may require careful timing around tides.",
+    "safety_notes": "Check the forecast and tide/surf conditions before you go. Coastal winds can be sudden and strong; stay well inland from cliff edges and avoid narrow ledges in wet conditions. Start early to ensure daylight, and carry a map and compass even if you have a GPS. Bring enough water and high-energy food, a means to contact help, and a lightweight emergency layer. Mobile signal can be unreliable in remote sections—inform someone of your plan and expected return.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Windproof/waterproof jacket and warm layers",
+      "Hat, sunglasses and sunscreen",
+      "Water bottle or hydration system (at least 2 L)",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Whistle",
+      "First aid kit",
+      "Emergency bivy or lightweight space blanket",
+      "Trail-friendly weather pants or gaiters",
+      "Dry bag for electronics and valuables"
+    ],
+    "best_seasons": "Spring to autumn (typically April–October) for longer daylight and milder weather; summer often offers the best visibility but can be crowded, while shoulder seasons may bring stronger winds and more variable conditions.",
+    "seo": {
+      "title": "Loch Ryan Coastal Path – 25.7 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore the 25.7 km Loch Ryan Coastal Path in the UK. A demanding coastal trek along Scotland's southwest coast with dramatic seascapes, rugged terrain, and long daylight hours.",
+      "h1": "Loch Ryan Coastal Path – 25.7 km Coastal Hike"
+    }
   }
 }

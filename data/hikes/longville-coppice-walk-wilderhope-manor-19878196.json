@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19878196
+  },
+  "ai": {
+    "summary": "The Longville Coppice Walk near Wilderhope Manor is a short, easy 3 km woodland route in the UK. It traverses coppiced woods with gentle paths, making it suitable for families, beginners and casual strolls. Expect shaded forest, leaf litter and occasional roots or uneven ground along the way.",
+    "terrain_summary": "Terrain consists of well-defined woodland paths, grassy and compact earth surfaces, with some roots and gentle slopes. Footing is generally even but can be uneven after rain; there may be leaf litter and damp patches.",
+    "safety_notes": "Stay on marked paths; wear sturdy footwear; be mindful of uneven ground and tree roots; check the weather and dress accordingly; in damp conditions allow extra time due to slip risk; keep dogs on leash if required; check for ticks after woodland walks; supervise children closely.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Hat and sunscreen",
+      "Map or GPS device or smartphone with offline map",
+      "Small first aid kit",
+      "Snacks or energy bar"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions and scenery; the route is walkable year-round with appropriate footwear and weather gear.",
+    "seo": {
+      "title": "Longville Coppice Walk, Wilderhope Manor – Easy 3 km Woodland Trail in the UK",
+      "meta_description": "Discover an easy 3 km woodland stroll at Longville Coppice near Wilderhope Manor. Family-friendly, gentle terrain through coppice with seasonal scenery and easy footing.",
+      "h1": "Longville Coppice Walk, Wilderhope Manor – Easy 3 km Woodland Trail"
+    }
   }
 }

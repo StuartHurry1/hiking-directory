@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 17665971
+  },
+  "ai": {
+    "summary": "Stage 01 of the London to Walsingham long-distance route. A 41.9 km hard-day hike that starts near London and progresses toward Walsingham, featuring a mix of urban streets, rural lanes, and countryside tracks. The terrain is varied and challenging, suitable for experienced hikers.",
+    "terrain_summary": "The route combines urban pavements with rural hedgerows, field paths, and farm tracks. Expect uneven surfaces, occasional mud, stiles, and short ascents. Weather can change rapidly in the UK, so be prepared for wet conditions.",
+    "safety_notes": "This is a long-distance hike with significant distance and varying surfaces. Start early to ensure daylight, carry a map and compass or GPS, and follow the official paths. Be aware of road crossings, traffic, and fatigue. Bring sufficient water and snacks, have a plan for rest stops or bail-out points, and check the forecast. Mobile coverage may be limited in rural areas. If hiking solo, inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a weatherproof jacket",
+      "Fleece or insulating layer",
+      "Backpack with 20-30 L capacity",
+      "Water bottle and/or hydration system (2-3 L total)",
+      "Map, compass and/or GPS device",
+      "Phone with offline maps",
+      "Headlamp or flashlight",
+      "Basic first aid kit",
+      "Energy snacks and extra food",
+      "Emergency whistle",
+      "Sun protection (hat and sunscreen)",
+      "Rain gear and spare socks",
+      "Compact emergency blanket"
+    ],
+    "best_seasons": "Spring, summer, and early autumn (roughly March to October) are the best seasons for this route; winter hiking can be colder with shorter daylight hours and more challenging conditions.",
+    "seo": {
+      "title": "London to Walsingham – Stage 01: 41.9 km Hard Hike in the UK",
+      "meta_description": "Stage 01 of the London to Walsingham long-distance route covers 41.9 km of hard terrain across urban and rural UK landscapes. Learn about terrain, safety tips, gear, and the best seasons.",
+      "h1": "London to Walsingham – Stage 01 (41.9 km, Hard)"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16379684
+  },
+  "ai": {
+    "summary": "An easy 3.9 km hike in the UK countryside suitable for beginners and families. The route features gentle terrain and pleasant views, making it a relaxing walk with a light elevation gain.",
+    "terrain_summary": "Primarily well-maintained gravel and dirt paths with gentle undulations. Expect occasional muddy patches after rain and a few exposed roots; overall easy for most walkers.",
+    "safety_notes": "Check weather forecasts before you go, as UK conditions can change rapidly. Wear sturdy footwear and stay on marked paths. Bring a waterproof layer and an extra warm layer. Carry water and a small snack. Mobile reception can be limited; let someone know your plan and expected return time. Carry a map or offline navigation, and bring a head torch if you might be out near dusk. Allow 60–120 minutes for the hike.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Extra layer for warmth",
+      "Map or GPS / offline map",
+      "Snack or energy food",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Mobile phone (fully charged); consider offline navigation",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); summers offer longer daylight though weather can be unpredictable.",
+    "seo": {
+      "title": "Lodge Trail: Easy 3.9 km Hike in the UK",
+      "meta_description": "Discover Lodge Trail, an easy 3.9 km hike in the UK countryside. Gentle terrain, safety tips, and a gear checklist for a relaxed day outdoors.",
+      "h1": "Lodge Trail - 3.9 km Easy Hike in the UK"
+    }
   }
 }

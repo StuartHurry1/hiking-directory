@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 3551336
+  },
+  "ai": {
+    "summary": "London LOOP Section 3 is a 20-kilometre leg of the London LOOP that traverses outer London suburbs and nearby countryside. Rated hard due to the distance and mixed terrain, it demands good stamina and sure footing across urban paths, fields, and woodland sections.",
+    "terrain_summary": "The route mixes urban pavements, gravel trails, muddy fields, and gentle woodland paths. Expect paved city sections, occasional stairs, gentle to moderate climbs, uneven footing, and several road crossings. Weather can affect traction, so be prepared for muddy or slippery sections.",
+    "safety_notes": "Plan the hike for daylight hours; check for closures and permissions on the route. Wear sturdy footwear and weather-appropriate layers. Carry a map and a charged phone, plus a backup power source. Stay aware of traffic at road crossings, keep to rights of way, and respect private property. Carry plenty of water and snacks, a basic first aid kit, a light, and a whistle. In winter or after rain, paths can be very muddy or flooded; adjust plans accordingly.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Backpack with hydration",
+      "Water bottle or hydration pack",
+      "High-energy snacks",
+      "OS map or GPS device",
+      "Compass or offline navigation app",
+      "Extra clothing layers",
+      "Hat and gloves (seasonal)",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and insect repellent",
+      "Trekking poles (optional)",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for this 20 km hike, offering longer daylight and drier trails; winter hikes can be muddy, cold, and reduce visibility.",
+    "seo": {
+      "title": "London LOOP Section 3 – 20 km Hard Hike in the UK",
+      "meta_description": "Discover London LOOP Section 3, a 20-kilometre hard hike blending urban and countryside terrain on the outskirts of London. Tips on route, safety, and gear.",
+      "h1": "London LOOP Section 3: 20 km Hard Hike (UK)"
+    }
   }
 }

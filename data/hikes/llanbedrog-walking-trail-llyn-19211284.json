@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19211284
+  },
+  "ai": {
+    "summary": "An 8.1 km circular walk around Llanbedrog on the Llyn Peninsula, Wales. The route combines coastal paths with inland grassy tracks, offering coastal views, beach sections, and gentle climbs. Suitable for hikers with moderate fitness and a day-pack.",
+    "terrain_summary": "A mix of coastal paths, sandy or shingly beach sections, grassy fields, and occasional rocky or uneven ground. Mostly well-defined tracks with some soft ground after rain and short, gentle ascents. Sturdy footwear recommended.",
+    "safety_notes": "Check weather and tide conditions before beach sections; stay on marked paths, especially near cliffs. Wear sturdy, comfortable hiking boots and bring waterproof clothing. Carry water and snacks, a map or GPS, and a charged phone. Be mindful of livestock in fields and limited cell reception in remote stretches. Let someone know your planned return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Waterproof jacket and extra layers",
+      "Hat and sunscreen",
+      "Map, compass, or GPS device",
+      "Fully charged phone",
+      "Lightweight first aid kit"
+    ],
+    "best_seasons": "Spring to early autumn (April–October) for the best weather and daylight; summer can be busier.",
+    "seo": {
+      "title": "Llanbedrog Walking Trail, Llyn – 8.1 km Moderate Coastal Hike in the UK",
+      "meta_description": "Explore the Llanbedrog Walking Trail, an 8.1 km moderate hike on the Llyn Peninsula, Wales. Coastal scenery, varied terrain, and practical safety and gear tips for a great day out in the UK.",
+      "h1": "Llanbedrog Walking Trail, Llyn – 8.1 km Moderate Coastal Hike"
+    }
   }
 }

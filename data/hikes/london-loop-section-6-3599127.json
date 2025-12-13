@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3599127
+  },
+  "ai": {
+    "summary": "London LOOP Section 6 covers a 16.8 km stretch of the circular London LOOP trail in the UK. Classified as hard, the route combines both rural paths and occasional urban sections, with longer distances between checkpoints and notable elevation changes that test stamina and navigation skills. It is best undertaken by experienced hikers prepared for a strenuous day on foot.",
+    "terrain_summary": "Terrain varies from gravel tracks and grassy fields to leafy woodland trails and short road sections. Expect uneven footing, exposed stretches, and sections that can be muddy after rain. Elevation changes are progressive rather than steep peaks, with a mix of gentle climbs and longer descents.",
+    "safety_notes": "Carry a detailed map and/or GPS, and ensure your phone is charged. Check the forecast and daylight hours before starting; weather can change quickly. Let someone know your plan and expected return time. Wear sturdy waterproof footwear and bring weather-appropriate clothing, plus sufficient water and energy snacks. Be mindful of road crossings and other urban hazards on any street sections, and follow rights of way. Pack a small first aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof, breathable outer layer and an extra warm layer",
+      "A light, breathable base layer and appropriate socks",
+      "Backpack with enough capacity for water and snacks",
+      "Water (2–3 liters) and high-energy snacks",
+      "Orienteering tools: map and compass or GPS device",
+      "Fully charged phone; offline maps as backup",
+      "Headlamp or small flashlight (seasonal)",
+      "First aid kit and whistle",
+      "Sunscreen, sunglasses, and a hat",
+      "Trekking poles (optional)",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "All seasons; best conditions in spring (Mar–May) and autumn (Sep–Nov) for moderate temperatures and reliable daylight.",
+    "seo": {
+      "title": "London LOOP Section 6 – 16.8 km Hard Hike in the UK",
+      "meta_description": "Explore London LOOP Section 6, a 16.8 km hard hike through varied terrain with urban and rural sections in the UK. Safety tips, gear guide, and best seasons included.",
+      "h1": "London LOOP Section 6 — 16.8 km Hard Hike in the UK"
+    }
   }
 }

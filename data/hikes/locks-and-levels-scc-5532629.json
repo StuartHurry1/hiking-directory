@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5532629
+  },
+  "ai": {
+    "summary": "Locks and Levels (SCC) is a challenging 22.4 km hike in the United Kingdom. The route is rated hard and is best tackled by experienced hikers with solid endurance. Expect mixed terrain, potential gradients, and sections that may be muddy or uneven; the long distance requires careful planning for daylight and breaks.",
+    "terrain_summary": "The terrain is mixed, potentially including canal-side paths, grassy banks, woodland trails, and uneven or rocky sections. You may encounter flat towpaths if the route follows a canal, as well as short steep ascents or descents and muddy or slippery ground, especially in wet weather. Some portions may feature water features or locks depending on the exact alignment.",
+    "safety_notes": "Plan around weather conditions and daylight. Tell someone your route and expected return time. Carry a map or GPS and a reliable compass. Wear sturdy, grippy walking boots and dress in layers with a waterproof outer layer. Bring sufficient water and high-energy food, plus a basic first aid kit, whistle, and a charged phone. Be mindful of mud, slippery surfaces, and edgelines near water; navigate carefully in exposed or poorly lit sections and consider going with a group or guide if unfamiliar with long, hard hikes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing in layers",
+      "Waterproof jacket and pants",
+      "Backpack with 2–3 liters of water or a hydration system",
+      "High-energy snacks and a light meal for a long day",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Headlamp or flashlight with extra batteries",
+      "Basic first aid kit, including blister care",
+      "Emergency whistle and a space blanket or lightweight emergency layer"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Locks and Levels (SCC) – 22.4 km Hard Hike in the UK",
+      "meta_description": "Explore the 22.4 km Locks and Levels (SCC) hike in the UK. Get a terrain overview, safety tips, best seasons, and gear recommendations for this demanding long-distance trek.",
+      "h1": "Locks and Levels (SCC) – 22.4 km Hard Hike in the UK"
+    }
   }
 }

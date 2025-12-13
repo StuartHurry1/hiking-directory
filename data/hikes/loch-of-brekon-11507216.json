@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507216
+  },
+  "ai": {
+    "summary": "A short, easy lakeside hike around Loch of Brekon in the UK. At 1.1 km, the route is beginner friendly and offers calm waters and pleasant scenery.",
+    "terrain_summary": "Flat to gently undulating paths along the loch shore with well maintained trails. Expect some damp or muddy patches near the water and occasional exposed roots.",
+    "safety_notes": "Wear sturdy footwear and weather appropriate clothing. Stay on marked paths, be cautious near the water edge, supervise children and pets, and bring water. Check local conditions for fog or rain that can reduce visibility.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather appropriate clothing",
+      "Light rain jacket",
+      "Water bottle",
+      "Map or offline route",
+      "Phone or camera"
+    ],
+    "best_seasons": "Spring, Summer and Autumn",
+    "seo": {
+      "title": "Loch of Brekon Easy 1.1 km hike in the UK",
+      "meta_description": "Discover Loch of Brekon with a short and easy 1.1 km lakeside hike. Perfect for beginners and families, featuring flat terrain and scenic lochside views in the UK.",
+      "h1": "Loch of Brekon Easy 1.1 km Lakeside Hike"
+    }
   }
 }

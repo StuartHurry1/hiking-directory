@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3619364
+  },
+  "ai": {
+    "summary": "A challenging 24.4 km section of the London LOOP (Section 8) in the UK. This hard hike traverses a mix of urban streets, woodland trails, and canal paths, with a long walking distance and variable terrain. Suitable for experienced hikers who can handle fatigue, weather changes, and navigation.",
+    "terrain_summary": "The route blends canal towpaths, woodland trails, parks, and urban paths. Surfaces vary from compact pavements to muddy, uneven trails and include gates or stiles. Elevation changes are moderate to challenging over 24.4 km, with occasional road crossings and exposure to wind on open sections.",
+    "safety_notes": "Plan around daylight and weather; start early to avoid late darkness, especially in winter. Wear sturdy waterproof boots with solid grip and bring extra socks. Carry a map or GPS device and know how to stay on public rights of way. Bring enough water and high-energy snacks, and monitor fatigue and dehydration. Be prepared for mud, slippery surfaces, gates, and occasional road crossings. Inform someone of your plan and expected finish time. In an emergency in the UK, call 999 (or 112); keep a charged phone with emergency contacts. Respect local access rules and closures.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Water and high-energy snacks (2–3 liters and calories for a full day)",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves if cold)",
+      "Map, compass or GPS device; fully charged phone with offline mapping",
+      "Headlamp or flashlight (in case you finish after dark)",
+      "Lightweight rain cover for your backpack",
+      "First aid kit and blister care supplies",
+      "Sunscreen and sunglasses",
+      "Whistle and emergency contact information",
+      "Trekking poles (optional but helpful on uneven sections)"
+    ],
+    "best_seasons": "Spring to autumn; feasible year-round with daylight and weather preparedness.",
+    "seo": {
+      "title": "London LOOP Section 8 – 24.4 km Hard Hike in the UK",
+      "meta_description": "Explore London LOOP Section 8, a 24.4 km hard hike in the UK. Experience canal paths, woodlands, and urban sections with practical safety tips, gear lists, and planning advice.",
+      "h1": "London LOOP Section 8 – 24.4 km Hard Hike"
+    }
   }
 }

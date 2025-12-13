@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16411761
+  },
+  "ai": {
+    "summary": "The Loch A Choire Route is a demanding 21.6 km hike in the UK, suited to experienced walkers. It combines long distance with rugged, variable terrain and potential exposure, requiring solid navigation and thorough preparation. Expect a full-day trek with remote loch views and alpine-like scenery.",
+    "terrain_summary": "Terrain is rugged and varied: long stretches of rocky paths, sections of peat bog, and uneven ground underfoot; occasional exposed ridges and steep ascents/descents; footing can be slippery after rain. Conditions can change quickly, so good navigation and layered clothing are essential.",
+    "safety_notes": "This is a long, strenuous hike with uneven terrain and possible exposure. Navigation can be challenging in poor visibility; carry a map and compass and know the route. UK weather can change rapidly; bring multiple layers, a waterproof shell, and extra insulation. Slippery rocks, peat bogs, and steep ascents can increase the risk of slips; wear sturdy boots with good grip and consider trekking poles. Tell someone your plan and expected return time; carry a whistle and a fully charged phone; in remote sections consider a personal locator beacon.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Insulating layers (fleece or lightweight down)",
+      "Hat and gloves",
+      "Map and compass (and/or GPS device) with extra batteries",
+      "Water bottle or hydration system and enough water for the day (2–4 liters depending on conditions)",
+      "High-energy food for a full day",
+      "Trekking poles (optional but helpful)",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency whistle and space blanket or bivvy",
+      "Sunscreen and sunglasses",
+      "Phone with offline maps and a portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October). Summer provides longer daylight; shoulder seasons can be more variable with weather. Winter hikes in this area can be hazardous due to snow, ice, and reduced daylight.",
+    "seo": {
+      "title": "Loch A Choire Route – 21.6 km Hard Hike in the UK",
+      "meta_description": "Discover the Loch A Choire Route: a challenging 21.6 km hike in the UK with rugged terrain, exposed sections, and remote scenery. Get safety tips, gear lists, and best seasons for this full-day trek.",
+      "h1": "Loch A Choire Route – 21.6 km Hard Hike in the UK"
+    }
   }
 }

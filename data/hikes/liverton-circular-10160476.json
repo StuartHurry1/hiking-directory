@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 10160476
+  },
+  "ai": {
+    "summary": "Liverton Circular is a gentle 5.6 km circular hike in the UK, suitable for beginners and families. The route offers rural scenery and relaxed paths, returning to the starting point.",
+    "terrain_summary": "The trail uses a mix of well-marked footpaths and farm lanes with grassy sections. Expect some uneven ground, gentle gradients, and occasional mud after rain. Gates and stiles may be encountered, and surface conditions can vary with weather.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy footwear with good grip and bring a waterproof layer. Carry water and a small snack, a map or offline navigation, and a charged phone. Stay on the marked paths, be mindful of livestock and gates, and supervise children or dogs. Let someone know your plan and what time you expect to return.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Extra layers and hat/gloves as needed",
+      "Map or offline navigation (or fully charged phone)",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, sunglasses)",
+      "Whistle (for emergency)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with longer daylight and typically drier trails. The route can be done in winter with extra care for wet conditions and cold weather.",
+    "seo": {
+      "title": "Liverton Circular Walk – Easy 5.6 km Hike in the UK",
+      "meta_description": "Explore the Liverton Circular, an easy 5.6 km UK hike suitable for beginners and families. Practical safety tips, terrain overview, and gear recommendations.",
+      "h1": "Liverton Circular – Easy 5.6 km Hike in the UK"
+    }
   }
 }

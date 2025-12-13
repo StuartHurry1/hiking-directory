@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13131782
+  },
+  "ai": {
+    "summary": "Loch Indaal Way is a gentle 4.8 km coastal walk in the UK, offering easy terrain and scenic views over Loch Indaal. The route is suitable for most walkers, families, and beginners seeking a relaxed day out along the shoreline.",
+    "terrain_summary": "Mostly flat, along a shoreline path. Expect tarmac or compacted gravel with occasional grassy or muddy patches, and some windy open sections. Surface is generally stable, but can be slippery when wet.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on the marked path; watch for uneven or slippery sections after rain. Check tide and weather forecasts, as coastal winds can be strong. Bring water, snacks, sun protection, and a fully charged phone. Be mindful of other walkers and wildlife; in remote sections cell service may be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Windproof jacket",
+      "Light layers",
+      "Snacks",
+      "Sunscreen and hat",
+      "Map or GPS device/phone",
+      "Small backpack",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best weather and daylight, though be prepared for Scottish conditions year-round.",
+    "seo": {
+      "title": "Loch Indaal Way - Easy 4.8 km Coastal Walk in the UK",
+      "meta_description": "Explore Loch Indaal Way, a gentle 4.8 km coastal walk in the UK. Enjoy flat terrain, shoreline views, and accessible scenery suitable for beginners and families.",
+      "h1": "Loch Indaal Way - Easy 4.8 km Coastal Walk"
+    }
   }
 }

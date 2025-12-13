@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 281571
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km diversion off the London Loop in the United Kingdom. This gentle walk is suitable for most ages and provides a quick, scenic detour with a well-maintained path.",
+    "terrain_summary": "Primarily flat with a mix of paved and compact gravel surfaces. Expect occasional uneven spots or tree roots and gentle grades along the route.",
+    "safety_notes": "Carry water and wear sturdy footwear. Stay on the marked path and watch for other pedestrians and cyclists. Check the weather and daylight hours; UK conditions can be slippery when wet. If sharing with bikes, give way to faster users and supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small backpack for essentials",
+      "Map or offline GPS (optional)",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; walk is most comfortable in mild, dry weather, with wetter conditions in winter.",
+    "seo": {
+      "title": "London Loop Diversion — Easy 1.2 km Hike in the UK",
+      "meta_description": "Discover London Loop Diversion, a short 1.2 km easy hike in the UK. Practical safety tips, terrain overview, and gear recommendations for a family-friendly stroll.",
+      "h1": "London Loop Diversion: 1.2 km Easy Hike in the UK"
+    }
   }
 }

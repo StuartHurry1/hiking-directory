@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1227246
+  },
+  "ai": {
+    "summary": "A challenging 71.6 km hike along the Little Ouse Path in the United Kingdom. Designed for experienced long-distance walkers, it traverses varied countryside and navigation challenges over multiple days.",
+    "terrain_summary": "Expect a mix of towpath or riverbank paths, rural lanes, woodland tracks, and occasional grassy or muddy sections. The surface can be uneven and weather-dependent, with a few road crossings and potential waterlogged patches.",
+    "safety_notes": "Plan for long day segments or multiple days. Carry maps and a compass, tell someone your route and timings, and monitor weather. Wear sturdy boots, keep to official paths, stay hydrated, and be prepared for mud, fading light, and possible river crossings. In remote sections, have a lightweight emergency shelter and a means of communication. Check local permissions where needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof and windproof jacket",
+      "Insulating mid-layer",
+      "Backpack with 15–25 L capacity",
+      "Water bottle or hydration system",
+      "High-energy snacks and meals",
+      "Map and compass (and/or GPS with offline maps)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Emergency shelter or bivy sack",
+      "Whistle and multipurpose tool",
+      "Sun protection (hat, sunscreen)",
+      "Dry bag or waterproof stuff sacks",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring to autumn (March–October).",
+    "seo": {
+      "title": "Little Ouse Path: 71.6 km Hard UK Hike",
+      "meta_description": "Explore the Little Ouse Path, a 71.6 km challenging hike in the UK. Terrain, safety tips, gear recommendations, and best seasons for this long-distance trail.",
+      "h1": "Little Ouse Path – 71.6 km Hard-Distance UK Hike"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1891333
+  },
+  "ai": {
+    "summary": "The Llangollen History Trail is a challenging 15.5 km hike in the UK, following historic routes near Llangollen. The route blends rural lanes, old pathways, and scenic upland sections, demanding good fitness and navigation skills. Expect significant elevation changes, uneven surfaces, and some exposed viewpoints along the way.",
+    "terrain_summary": "The terrain is varied: rough farm and field paths, damp forest tracks, rocky or uneven stone sections, occasional steps and gates, and short stretches near rivers or canals. Long ascents and descents can be strenuous, and footing can be slippery after rain.",
+    "safety_notes": "Check weather forecasts and daylight hours before setting out. Wear sturdy waterproof hiking boots and dress in layers. Carry a map and compass or GPS, a charged phone as backup, and a whistle. Stay on marked paths, beware slippery stones after rain, and be prepared for sudden changes in weather. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof, breathable jacket and extra layer",
+      "Quick-drying clothing and hat/gloves as needed",
+      "Map and compass or GPS device",
+      "Water supply (at least 1 liter) and high-energy snacks",
+      "Small first-aid kit and blister care",
+      "Headlamp or small flashlight with extra batteries",
+      "Whistle for emergencies",
+      "Sun protection (sunscreen, sunglasses)",
+      "Phone power bank and charging cable"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–November) offer milder temperatures and lighter crowds. Summer provides longer daylight but can be busier; winter hiking is possible with caution due to mud, wind, and ice.",
+    "seo": {
+      "title": "Llangollen History Trail – 15.5 km Hard Hike in the UK",
+      "meta_description": "Tackle the 15.5 km Llangollen History Trail, a challenging UK hike featuring historic routes and varied terrain. Practical tips, best seasons, and gear to conquer this demanding route.",
+      "h1": "Llangollen History Trail"
+    }
   }
 }

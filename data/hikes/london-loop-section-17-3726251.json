@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3726251
+  },
+  "ai": {
+    "summary": "London LOOP Section 17 is a challenging 30.7 km segment of the London LOOP long-distance path in the UK. The route traverses a mix of rural countryside, woodland, and occasional canal or road sections, delivering varied terrain and steady elevation with the potential for uneven footing.",
+    "terrain_summary": "Expect a mix of grassy tracks, dirt trails, gravel paths, fences or stiles, and some asphalt sections. Ground can be muddy after rain, and sections may be exposed to wind. Navigation is usually straightforward on signposted routes, but brushy patches can reduce visibility.",
+    "safety_notes": "Plan for a long day on foot: check the forecast and daylight hours, tell someone your plan, and carry a fully charged phone and map. Bring enough water and food, wear sturdy boots, and dress in layered, weather-appropriate clothing. Be prepared for mud, uneven ground, and seasonal changes; share the path with other walkers and cyclists on shared sections; carry a small first aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered, weather-appropriate clothing",
+      "Waterproof jacket and pants",
+      "Daypack (20-35 L)",
+      "Water and high-energy snacks (2-3 L water)",
+      "Map, compass, and/or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "Basic first aid kit",
+      "Sunscreen, hat, and sunglasses",
+      "Trekking poles (optional)",
+      "Extra socks and a light insulating layer for emergencies"
+    ],
+    "best_seasons": "Spring to Autumn (Mar-Oct)",
+    "seo": {
+      "title": "London LOOP Section 17 – 30.7 km Hard Hike (UK)",
+      "meta_description": "Explore London LOOP Section 17, a 30.7 km hard hike in the UK. Mixed terrain, safety tips, and gear recommendations for long-distance walkers.",
+      "h1": "London LOOP Section 17 – 30.7 km Hard Walk"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 11506931
+  },
+  "ai": {
+    "summary": "A gentle 3.1 km hike around the Loch of Voe in the UK, ideal for beginners. The route offers coastal views, open skies, and a largely flat, grassy path with occasional rocky sections.",
+    "terrain_summary": "Flat to gently undulating coastal terrain. Mostly well-defined paths along the loch, with some grassy sections and small rocks; expect exposed winds and uneven ground near the shore.",
+    "safety_notes": "Check the weather and tide conditions before you go. Wear layered waterproof clothing and sturdy footwear. The route runs along the shore and can be exposed to wind; keep a safe distance from cliff edges and be cautious on wet, slippery sections. Bring water and snacks, and tell someone your plan.",
+    "recommended_gear": [
+      "Waterproof jacket and layered clothing",
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Map, compass, or offline GPS",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Emergency whistle",
+      "Lightweight rain pants (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) typically offers milder weather and longer daylight; the hike can be done in winter with appropriate gear.",
+    "seo": {
+      "title": "Loch of Voe – Easy 3.1 km Hike in the UK",
+      "meta_description": "Discover an easy 3.1 km hike at the Loch of Voe in the UK. Gentle coastal terrain, scenic views, safety tips, and gear for a short day walk.",
+      "h1": "Loch of Voe – Easy 3.1 km Hike"
+    }
   }
 }

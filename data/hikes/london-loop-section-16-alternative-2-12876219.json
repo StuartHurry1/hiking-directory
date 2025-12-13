@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12876219
+  },
+  "ai": {
+    "summary": "An easy 1.6 km segment of the London LOOP (Section 16 Alternative 2) in the UK, designed for a quick, family-friendly excursion. The route is short and mostly flat, offering a light outdoor experience without technical terrain.",
+    "terrain_summary": "Flat to gently undulating paths, largely well-maintained urban and park trails. Expect paved surfaces with occasional compact dirt or grass sections. Suitable for beginners and families.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Stay on marked paths and heed signs. Be mindful of other pedestrians and cyclists on shared sections. Bring a map or a charged phone with offline navigation. Carry water and a small snack. In the UK, dial 999 in emergencies. If possible, tell someone your plans and expected return time.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Lightweight rain jacket",
+      "Sun protection (sunscreen and hat) depending on season",
+      "Small backpack",
+      "Map or smartphone with offline map",
+      "Snacks",
+      "Portable phone charger"
+    ],
+    "best_seasons": "Spring to autumn; generally accessible year-round with caution in winter.",
+    "seo": {
+      "title": "London LOOP Section 16 Alternative 2 – 1.6 km Easy Hike in the UK",
+      "meta_description": "Discover a short, easy 1.6 km section of the London LOOP (Section 16 Alternative 2) in the UK. Flat terrain, family-friendly, with safety tips and recommended gear.",
+      "h1": "London LOOP: Section 16 Alternative 2 — 1.6 km Easy Hike"
+    }
   }
 }

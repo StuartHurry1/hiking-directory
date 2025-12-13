@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 14719942
+  },
+  "ai": {
+    "summary": "A gentle, easy 5.3 km hike around Shildon, UK, that blends visits to historic railway sites with accessible, family-friendly paths. Ideal for casual walkers seeking a light day out with a touch of local heritage.",
+    "terrain_summary": "Mostly flat to gently undulating with a mix of well-maintained pavements, park trails, and short street sections. Expect some urban sidewalks and potential uneven surfaces near heritage sites. Occasional shaded moments but some open, sunny stretches.",
+    "safety_notes": "Stay aware at road crossings and along busy urban sections. Wear sturdy footwear, bring water, and check the weather. Supervise children around railway-themed sites and respect private property near yards or museums. In wet conditions, paths can be slippery; plan extra time for navigation.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Phone or camera",
+      "Sun protection (hat, sunscreen)",
+      "Light backpack"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October)",
+    "seo": {
+      "title": "Locomotion & Historic Shildon – Easy 5.3 km Hike in the UK",
+      "meta_description": "Explore a gentle 5.3 km hike in the UK at Locomotion & Historic Shildon. An easy route blending flat paths with historic railway sites, suitable for families and casual walkers.",
+      "h1": "Locomotion & Historic Shildon – Easy 5.3 km Hike"
+    }
   }
 }

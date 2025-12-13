@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17737951
+  },
+  "ai": {
+    "summary": "A scenic 8.7 km circular hike around Loch Leven’s Larder in the UK. The route blends lakeside paths, gentle slopes, and open sections, offering wildlife viewing and countryside views without major technical challenges.",
+    "terrain_summary": "Predominantly well-maintained gravel and grassy paths with occasional boardwalks and a few tarmac stretches. Generally flat to gently undulating, with some muddy sections after rain and exposed winds along the water's edge.",
+    "safety_notes": "Check the forecast before you go and be prepared for wind and rain. Wear sturdy footwear and dress in layers; bring a waterproof layer. Route may cross farmland; keep dogs under control and respect livestock. Stay on marked paths, especially near the shoreline. Daylight can be limited in winter—carry a light source. Carry a map or offline GPS and a way to call for help in an emergency (dial 999 in the UK).",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Waterproof jacket and extra layers",
+      "Daypack with waterproof cover",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Hat and sunscreen (and sunglasses)",
+      "Map, compass, or offline GPS on your phone",
+      "Fully charged phone and emergency contact info",
+      "Small first-aid kit and whistle"
+    ],
+    "best_seasons": "Spring to autumn; summer offers longer daylight, while winter can be windy and muddy—dress accordingly and be prepared for quicker weather changes.",
+    "seo": {
+      "title": "Loch Leven’s Larder Circuit – 8.7 km Moderate Hike in the UK",
+      "meta_description": "Discover the Loch Leven’s Larder Circuit, an 8.7 km moderate circular hike in the UK. Learn about terrain, safety tips, best seasons, and gear to pack.",
+      "h1": "Loch Leven’s Larder Circuit – 8.7 km Moderate Hike"
+    }
   }
 }

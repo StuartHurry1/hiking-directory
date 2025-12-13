@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 11507539
+  },
+  "ai": {
+    "summary": "A short and easy 1.8 km loop around Loch of Houll in the UK. Flat, well-defined paths and gentle scenery make this hike ideal for beginners, families, and casual walkers seeking a quick outdoor outing by water.",
+    "terrain_summary": "Primarily flat, with grassy tracks and compacted dirt. Expect occasional damp patches after rain and a few uneven sections near the water's edge. Wear sturdy footwear and stay on the established path.",
+    "safety_notes": "Weather in the UK can change quickly. Check forecast before you go and dress in layers with a waterproof outer layer. Bring water and a snack. Stay on the marked path, supervise children near the water, and be cautious on wet or uneven ground. Inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Waterproof jacket",
+      "Extra warm layer",
+      "Water and a snack",
+      "Cap or hat and sunscreen",
+      "Small backpack",
+      "Map or offline GPS and a charged phone",
+      "Basic first-aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically April–October when paths are drier and daylight is longer.",
+    "seo": {
+      "title": "Loch of Houll – Easy 1.8 km Hike in the UK",
+      "meta_description": "Discover Loch of Houll on an easy 1.8 km loop. Flat terrain, water-side scenery, and a family-friendly walk suitable for beginners in the UK.",
+      "h1": "Loch of Houll – Easy 1.8 km Hike"
+    }
   }
 }

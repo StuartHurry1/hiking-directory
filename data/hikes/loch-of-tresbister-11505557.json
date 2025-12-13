@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11505557
+  },
+  "ai": {
+    "summary": "A brief, beginner-friendly 0.2 km circuit around Loch of Tresbister in the UK. This easy stroll suits families and casual walkers looking for a quick, scenic outing with minimal effort.",
+    "terrain_summary": "Mostly flat, short, well-defined paths around the loch. Expect grassy edges, light gravel in places, and occasional muddy patches after rain. The surface is generally easy underfoot, but care is advised near the water's edge.",
+    "safety_notes": "Weather in the UK can change quickly—check conditions before you go. Stay on the marked paths and keep a safe distance from the water's edge. Wear sturdy, waterproof footwear; a light waterproof layer is wise in case of rain. Carry water and a snack; a small map or offline navigation helps where signal is weak. Supervise children and be mindful of daylight hours, especially in winter. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light boots",
+      "Waterproof jacket",
+      "Small daypack",
+      "Water and a snack",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation (phone with offline maps)"
+    ],
+    "best_seasons": "Year-round, with the best conditions from late spring to early autumn.",
+    "seo": {
+      "title": "Loch of Tresbister – Easy 0.2 km Hike in the UK",
+      "meta_description": "Discover a quick, beginner-friendly 0.2 km stroll around Loch of Tresbister in the UK. An easy, scenic hike suited for families and casual walkers.",
+      "h1": "Loch of Tresbister – Easy 0.2 km Hike"
+    }
   }
 }

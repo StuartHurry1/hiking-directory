@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12120141
+  },
+  "ai": {
+    "summary": "The Long Riverside Trail is a gentle 3.3 km riverside walk in the UK, suitable for all ages and most fitness levels. The route follows near-water paths with occasional views of the river, offering an easy, relaxing outing with minimal elevation gain.",
+    "terrain_summary": "Flat to gently undulating riverside path. Paved or well-formed gravel sections in most parts, with some grassy verges. Occasional wet or muddy patches after rain.",
+    "safety_notes": "Stay on designated paths, keep children within arm's reach near the water, and be cautious on busy times when cyclists share the trail. Wear sturdy shoes, check weather forecast, bring a light layer and water, and carry a basic first aid kit. Insects near water can be bothersome; use repellent. If visibility is low, take extra care.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or offline navigation (optional)",
+      "Small first aid kit",
+      "Mobile phone with emergency numbers",
+      "Insect repellent (summer)"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round with proper gear",
+    "seo": {
+      "title": "Long Riverside Trail – Easy 3.3 km UK Riverside Walk",
+      "meta_description": "Explore the Long Riverside Trail, a flat and easy 3.3 km riverside walk in the UK. Discover scenic water views, practical safety tips, and gear recommendations for a relaxed day out.",
+      "h1": "Long Riverside Trail – Easy 3.3 km Riverside Walk in the UK"
+    }
   }
 }

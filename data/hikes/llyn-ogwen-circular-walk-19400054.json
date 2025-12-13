@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19400054
+  },
+  "ai": {
+    "summary": "A demanding 16.2 km circular hike around Llyn Ogwen in Snowdonia, North Wales. The route combines steady uplifts with rocky tracks and occasional short scrambles, delivering extensive mountain and lake views. It requires good fitness, navigation ability, and suitable gear, as conditions can change quickly in the mountains.",
+    "terrain_summary": "Rugged highland terrain with rocky paths, exposed sections, short scrambles, wet boggy patches, and long ascents/descents around Llyn Ogwen. Expect uneven footing, loose scree in places, and weather that can change footing and visibility.",
+    "safety_notes": "Check weather and inform someone of your plan. Wear sturdy boots and dress in layers; carry a map and compass (or GPS) and know how to use them. Bring sufficient water and high‑energy food, plus a warm, waterproof layer. Avoid the route in dense fog, high winds, or icy conditions. Be aware of rockfall and ensure safe footing near the water; start early to ensure daylight hours. This is a long, strenuous hike best tackled by experienced hikers.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing (base layers, fleece, waterproof shell, hat and gloves)",
+      "Map and compass (and/or GPS) with route knowledge",
+      "Water and high-energy snacks (or meals for the full 16.2 km)",
+      "First aid kit and emergency whistle",
+      "Headlamp or torch with spare batteries",
+      "Rucksack with rain cover",
+      "Sun protection (sunscreen, sunglasses)",
+      "Extra layers and warm shell for sudden weather changes",
+      "Trekking poles (optional but helpful on uneven ground)",
+      "Emergency blanket or bivvy sack"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offers the most reliable conditions, with longer daylight and drier trails. The hike remains challenging in these seasons; winter or very wet months require more gear and experience.",
+    "seo": {
+      "title": "Llyn Ogwen Circular Walk – 16.2 km Hard Hike in Snowdonia, UK",
+      "meta_description": "Explore the challenging Llyn Ogwen Circular Walk: a 16.2 km loop around Llyn Ogwen in Snowdonia, North Wales. Tips on terrain, safety, and gear for experienced hikers.",
+      "h1": "Llyn Ogwen Circular Walk – 16.2 km Hard Hike in Snowdonia"
+    }
   }
 }

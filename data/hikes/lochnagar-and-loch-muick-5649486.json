@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5649486
+  },
+  "ai": {
+    "summary": "An ambitious 33.2 km circuit in Scotland that links Lochnagar with Loch Muick. The hike traverses rugged ridgelines, lochside paths, and moorland, offering remote scenery and a true challenge for experienced hikers.",
+    "terrain_summary": "Expect a mix of rocky mountain paths, exposed ridges, peat bogs, heather moorland, and occasional stream crossings. The route includes steep ascents, long descents, and damp, uneven surfaces common in Scottish uplands. Navigation and weather can be decisive factors; daylight and visibility vary by season.",
+    "safety_notes": "This is a hard, long day on varied and sometimes technical terrain. Weather in the Highlands can change rapidly; check forecasts and be prepared for wind, rain, and cold even in summer. Navigation skills are essential; carry a map and compass (GPS is helpful but not reliable). Start early to ensure daylight; tell someone your plan. Bring sufficient water and high energy food; peat bogs and wet sections can be draining. Wear sturdy waterproof boots and consider trekking poles for stability. Some sections pass through private Balmoral Estate land—check access permissions and parking arrangements before you go. If conditions are poor or you are uncertain, turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable jacket",
+      "Insulating mid-layer (fleece or light down)",
+      "Map and compass (and/or GPS)",
+      "Headlamp with extra batteries",
+      "Water (2–3 liters) and high-energy snacks",
+      "Warm hat and gloves",
+      "Waterproof pants",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly May to September) for best weather and daylight; winter hiking is possible with advanced skills and equipment.",
+    "seo": {
+      "title": "Lochnagar & Loch Muick Hike – 33.2 km Hard Trek in Scotland",
+      "meta_description": "Take on a challenging 33.2 km circuit linking Lochnagar and Loch Muick in the Scottish Highlands. Rugged terrain, long distances, and dramatic mountain scenery.",
+      "h1": "Lochnagar & Loch Muick: 33.2 km Hard Hike in Scotland"
+    }
   }
 }

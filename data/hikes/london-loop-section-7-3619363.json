@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3619363
+  },
+  "ai": {
+    "summary": "London LOOP Section 7 is a 12.6 km segment of the London LOOP, offering a moderate hike through mixed urban and parkland scenery. This section blends paved paths with natural trails, suitable for walkers with some experience who enjoy a steady, undemanding pace and varied terrain.",
+    "terrain_summary": "Mixed terrain including compacted dirt paths, gravel tracks, sections of pavement, and parkland avenues. Some gentle rollers and short climbs; can be muddy after rain. Occasional road crossings and sections with moderate elevation changes.",
+    "safety_notes": "Check weather and daylight hours before starting. Stay on marked paths and be mindful of other users (cyclists, pedestrians). Carry a map or offline GPS, phone, and a charged battery. Wear sturdy footwear and dress for changing UK weather; bring a light rain jacket. Hydration and snacks are recommended for a ~4–5 hour hike. Inform someone of your plans if hiking solo. Be cautious at road crossings and in busy urban sections; watch for traffic and cyclists. Leave no trace and dispose of waste properly.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, breathable base layer, windproof outer layer)",
+      "Water and high-energy snacks",
+      "Map or offline GPS device",
+      "Fully charged mobile phone",
+      "Lightweight rain jacket",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Headlamp or flashlight (optional for early/late starts)",
+      "Compact backpack rain cover",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when trails are drier and daylight is longer; winter hikes are possible but may be muddy and weather-dependent.",
+    "seo": {
+      "title": "London LOOP Section 7 – 12.6 km Moderate Hike in the UK",
+      "meta_description": "Discover London LOOP Section 7, a 12.6 km moderate hike in the United Kingdom. Explore terrain, safety tips, gear, and the best seasons for this urban countryside trail.",
+      "h1": "London LOOP Section 7 – 12.6 km Moderate Hike"
+    }
   }
 }

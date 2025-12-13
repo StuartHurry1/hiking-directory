@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3134544
+  },
+  "ai": {
+    "summary": "A scenic 11.3 km moderate circuit around Loch of the Lowes in Scotland, offering woodland trails, water views and wildlife opportunities. The route includes mixed terrain with gentle rises and flat stretches, suitable for hikers with moderate fitness. Expect well-marked paths with occasional muddy sections, and sections that skirt the loch.",
+    "terrain_summary": "Primarily forest and lakeside trails with a mix of compact gravel, compacted earth and some boardwalks near the shoreline. Expect muddy patches after rain, exposed roots in woodland sections, and a moderate elevation profile with gentle climbs and descents.",
+    "safety_notes": "Check weather and daylight before setting out. Wear sturdy waterproof hiking boots and bring layers; the trail can be muddy and slippery after rain. Stay on marked paths, watch for wildlife and other users, and keep dogs under control in sensitive areas. Carry a map or GPS, sufficient water and snacks, and a whistle or means to signal for help. Mobile signal can be weak in remote parts of the route.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layers",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map or GPS device",
+      "Binoculars or camera for wildlife",
+      "Sun protection (sunscreen, hat)",
+      "Insect repellent",
+      "Lightweight backpack",
+      "Walking poles if desired"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Loch of the Lowes Path – 11.3 km Moderate Hike in Scotland",
+      "meta_description": "Discover the 11.3 km Loch of the Lowes Path, a moderate circuit through woodland and lakeside scenery in Scotland. Practical tips on terrain, safety and gear.",
+      "h1": "Loch of the Lowes Path – 11.3 km Moderate Hike in Scotland"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3548216
+  },
+  "ai": {
+    "summary": "The Loch Lomond and Cowal Way is a strenuous long-distance hiking route in the United Kingdom, extending about 181.7 km across Scotland from the shores of Loch Lomond into the Cowal peninsula. The trail combines lochside paths, forest tracks, open moorland, rocky hills, and occasional road sections, delivering remote scenery, wildlife, and multiple challenging ascents that demand solid fitness and preparation.",
+    "terrain_summary": "Expect a varied mix of lochside promenades, forest tracks, rough heather moorland, rocky ridges, and occasional minor road sections. Trails can be wet, uneven, and stony, with exposed sections and long ascents. Some parts are remote with limited services and unreliable mobile coverage, so navigation skills and ample provisions are essential.",
+    "safety_notes": "This is a hard, multi-day trek with remote segments. Plan carefully: carry a detailed map and compass (and know how to use them), check weather forecasts, and allow for shorter daylight hours in shoulder seasons. Bring sufficient food and water (and a method to purify water), a first-aid kit, emergency shelter, a whistle, and a means of communication. Inform someone of your itinerary and be prepared for sudden weather changes and limited services in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Thermal and moisture-wicking base layers plus mid-layer",
+      "Warm hat and gloves",
+      "Backpack with rain cover",
+      "Map and compass (and/or GPS with offline maps)",
+      "Headlamp with spare batteries",
+      "Water bottles or hydration system plus purification method",
+      "High-energy food and snacks",
+      "First-aid kit and any personal medications",
+      "Emergency shelter or bivvy bag",
+      "Whistle and a means of rescue/communication (e.g., mobile power bank or PLB)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) offers the best weather and daylight for this long trek; outside this window conditions can be harsher and services sparser.",
+    "seo": {
+      "title": "Loch Lomond and Cowal Way – 181.7 km Hard Hike in Scotland",
+      "meta_description": "Plan your expedition along the Loch Lomond and Cowal Way, a challenging 181.7 km trail in Scotland. Learn terrain, safety, gear, and best seasons for this remote UK long-distance hike.",
+      "h1": "Loch Lomond and Cowal Way — 181.7 km Hard Hike in Scotland"
+    }
   }
 }

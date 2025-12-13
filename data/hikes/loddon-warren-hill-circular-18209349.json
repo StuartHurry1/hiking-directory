@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18209349
+  },
+  "ai": {
+    "summary": "A 14.6 km circular hike around Warren Hill starting and finishing near Loddon in the UK. The route combines open fields, woodland and quiet country lanes, rated moderate for hikers with a steady pace and solid navigation.",
+    "terrain_summary": "Mixed terrain including rural tracks, grassy paths, farm lanes and some surfaced sections. Gentle ascents to Warren Hill with gates and stiles; surfaces can be uneven or muddy after rain; expect exposed spots and shaded woodland areas.",
+    "safety_notes": "Plan for UK weather and daylight hours; carry a map or GPS and inform someone of your plans and expected return. Wear sturdy boots, bring waterproofs and extra layers, carry water and snacks; respect livestock and gates/stiles; stay on public paths and exercise caution on uneven ground.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and extra layers",
+      "Map, compass or GPS device",
+      "Water and energy snacks",
+      "Hat and sun protection when sunny",
+      "Extra warm layer for cooler days",
+      "Small first aid kit",
+      "Headlamp or charged phone with battery bank",
+      "Whistle for safety",
+      "Phone charged with offline map or navigation app"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) is ideal; route can be doable in winter with appropriate clothing and daylight considerations.",
+    "seo": {
+      "title": "Loddon (Warren Hill) Circular Walk – 14.6 km Moderate UK Hike",
+      "meta_description": "Explore the Loddon (Warren Hill) Circular Walk: a 14.6 km moderate hike through fields, woodland and rural lanes in the UK. Tips on navigation, safety and gear.",
+      "h1": "Loddon (Warren Hill) Circular Walk"
+    }
   }
 }

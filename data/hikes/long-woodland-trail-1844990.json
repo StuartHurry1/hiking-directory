@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1844990
+  },
+  "ai": {
+    "summary": "Long Woodland Trail is a 14.6 km moderate hike in the UK that winds through mixed woodland with gentle elevation changes, offering a peaceful forest experience with steady progression.",
+    "terrain_summary": "Primarily well-marked woodland paths with tree roots and uneven footing. Expect soft earth, occasional mud, and short inclines. Footing can be slippery when wet; closed-toe shoes with good grip recommended. Terrain may vary by season and location within the UK.",
+    "safety_notes": "Check local weather before starting; UK conditions can change rapidly. Wear sturdy boots and bring waterproof clothing. Carry water and snacks, a map or GPS, and a charged phone. Stay on marked trails, watch for roots and slippery sections, and inform someone of your plans. Be mindful of ticks in forested areas and adjust pace to your fitness level.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing plus a waterproof jacket",
+      "Backpack with water and snacks",
+      "Map, compass, or GPS device",
+      "Phone and portable charger",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Optional trekking poles",
+      "First aid kit",
+      "Headlamp or flashlight (in case of late finish)",
+      "Extra layers and an emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn in the UK, with May–September typically offering the most favorable conditions; hikers should be prepared for rain year-round.",
+    "seo": {
+      "title": "Long Woodland Trail – 14.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the Long Woodland Trail, a 14.6 km moderate hike through UK woodlands. Get terrain details, essential safety tips, and gear recommendations to plan your trek.",
+      "h1": "Long Woodland Trail — 14.6 km moderate hike in the UK"
+    }
   }
 }

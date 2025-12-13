@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17737950
+  },
+  "ai": {
+    "summary": "A scenic 10.7 km moderate hike that weaves through rural farmland near Lochend Farm and the Scottish Gliding Centre, offering gentle gradients, open countryside views, and the chance to observe gliding activity from nearby facilities.",
+    "terrain_summary": "Predominantly farm tracks and quiet country lanes with some grassy paths. Gentle ascents and descents, occasional uneven surfaces, and possible mud after rain. Occasional proximity to operational areas at the gliding centre, so stay on marked paths and respect any restricted zones.",
+    "safety_notes": "Check weather and daylight hours before starting. Wear sturdy footwear and bring a waterproof layer. Stay on marked paths, watch for farm traffic and livestock, and be prepared for muddy sections. Be aware of gliding centre activity and respect restricted areas. Carry water and a small first-aid kit; let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (waterproof layer)",
+      "Map or offline route on a phone or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Gloves and extra layers for cooler days",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Lightweight rain shell"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October)",
+    "seo": {
+      "title": "Lochend Farm and Scottish Gliding Centre Hike – 10.7 km Moderate UK Trail",
+      "meta_description": "Discover a 10.7 km moderate hike at Lochend Farm and Scottish Gliding Centre in the UK. Rural farmland scenery, gentle gradients, and visible gliding activity along the route.",
+      "h1": "Lochend Farm & Scottish Gliding Centre Hike"
+    }
   }
 }

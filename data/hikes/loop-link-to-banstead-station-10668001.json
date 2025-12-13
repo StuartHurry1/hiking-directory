@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 10668001
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km loop starting and ending at Banstead Station in Surrey, UK. This beginner-friendly stroll blends parkland and light woodland for a quick outdoor break or a family-friendly outing.",
+    "terrain_summary": "Mostly flat, with a mix of paved paths and compact gravel. Gentle gradients through parkland and Banstead Woods, with some street crossings near the station. Shade along tree-lined sections.",
+    "safety_notes": "Be mindful of cyclists on shared paths; watch uneven pavements around park edges; stay on marked routes; supervise children and pets; check weather conditions before you go; carry water and a mobile phone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Phone or map for navigation",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "Year-round; spring and autumn offer pleasant weather and lighter crowds",
+    "seo": {
+      "title": "Banstead Station Loop — Easy 0.8 km Hike in Surrey, UK",
+      "meta_description": "Enjoy a quick, beginner-friendly 0.8 km loop starting and ending at Banstead Station. Ideal for families and new hikers exploring Surrey, UK.",
+      "h1": "Banstead Station Loop: Easy 0.8 km Hike"
+    }
   }
 }

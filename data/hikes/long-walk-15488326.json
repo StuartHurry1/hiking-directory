@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 15488326
+  },
+  "ai": {
+    "summary": "A moderate 12.2 km countryside hike in the UK suitable for hikers with some experience. The route combines tracks, fields and a few minor road sections, offering countryside views and a steady pace without extreme ascents.",
+    "terrain_summary": "Mixed terrain including public footpaths, farm tracks and occasional road crossings. Expect grassy and uneven footing, short ascents and descents, with potential mud after rain. Footwear with good grip and sturdy socks recommended.",
+    "safety_notes": "Check the weather forecast ahead of time; be prepared for changing conditions in the UK. carry a waterproof layer, map or GPS, and a charged phone. Let someone know your plan and expected finish time. Stay on public paths, respect livestock, and be cautious on exposed sections when winds are strong or visibility is poor.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing suitable for variable UK weather",
+      "Waterproof outer shell and windproof layer",
+      "Hat and gloves if cold",
+      "Map and/or GPS device or fully charged phone with offline maps",
+      "Whistle and basic first aid kit",
+      "Water (1–2 liters) and high-energy snacks",
+      "Sun protection (sunscreen, sunglasses)",
+      "Headlamp or flashlight (for potential late finish)",
+      "Compact rain cover or dry bag for essentials"
+    ],
+    "best_seasons": "Spring to autumn for the most comfortable conditions in the UK; can be done year-round with appropriate gear, noting that winter conditions may involve mud, ice or shorter daylight hours.",
+    "seo": {
+      "title": "Long Walk 12.2 km – Moderate UK Hike",
+      "meta_description": "Discover a 12.2 km moderate hike in the UK. This guide covers terrain, safety tips, gear recommendations and the best seasons to enjoy a countryside walk labeled Long Walk.",
+      "h1": "Long Walk – 12.2 km Moderate UK Hike"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3685850
+  },
+  "ai": {
+    "summary": "London LOOP Section 11 is a 15.5 km hard hike in the UK. This section of the London LOOP combines urban roadside sections with woodland trails and rural paths, offering a strenuous route that tests stamina and navigation. Expect uneven surfaces, variable terrain, and occasional mud, suitable for experienced hikers with good footwear and route-finding skills.",
+    "terrain_summary": "A varied mix of surfaces: urban footpaths, forest tracks, hedged lanes and field edges. Expect uneven ground, mud in wetter seasons, gate and stile crossings, and some short steep sections requiring careful footing.",
+    "safety_notes": "Plan for UK weather and short daylight hours; carry map, compass or a GPS device and don't rely on phone signal in wooded areas. Wear sturdy footwear and be prepared for mud, uneven ground, and possible slips. Take care at road crossings and near livestock; respect private property and gates. Inform someone of your route and expected finish time; carry identification and a small first-aid kit and emergency whistle. Start early in winter and carry a light source if there is any chance of fading light.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Daypack with at least 20-30L capacity",
+      "Water and high-energy snacks",
+      "Map, compass or GPS; fully charged phone",
+      "Headlamp or flashlight",
+      "Headwear and sunscreen",
+      "First aid kit (blister care)",
+      "Walking poles (optional)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October); winter can be muddy and more challenging.",
+    "seo": {
+      "title": "London LOOP Section 11 – 15.5 km Hard Hike in the UK",
+      "meta_description": "Explore Section 11 of the London LOOP in the United Kingdom. A 15.5 km hard hike with mixed terrain, urban and rural paths, and elevation. Practical tips, safety advice, and gear.",
+      "h1": "London LOOP Section 11 – 15.5 km Hard Hike"
+    }
   }
 }

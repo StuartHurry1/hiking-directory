@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17738274
+  },
+  "ai": {
+    "summary": "Stage 03 of the London to Walsingham route covers approximately 78 km in the UK countryside. This hard segment traverses rural lanes, hedgerows, and farmland as you progress toward Walsingham. Expect long stretches between towns, variable weather, and demanding terrain.",
+    "terrain_summary": "Predominantly rural terrain: quiet country lanes, field margins, and occasional woodlands. Surfaces vary from paved roads to muddy tracks; hedgerows can narrow paths; some gentle elevation changes and potential marshy patches after rain. Navigation is generally straightforward on the waymarked route, but a map and compass are recommended.",
+    "safety_notes": "Plan for long days and variable weather. The route passes through sparsely populated areas with limited services, so carry enough water and food, and start early. Weather can change quickly; waterproof clothing and layers are essential. Wear sturdy boots and watch for mud and uneven ground. Keep to rights of way, be mindful of traffic on rural roads, and have a navigation method (map/compass or GPS). Inform someone of your itinerary and expected finish time. In case of emergencies, carry a charged phone and a lightweight emergency shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support and waterproofing",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Daypack with hydration system or water bottles",
+      "Map and compass (and/or GPS device) with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and any personal medications",
+      "High-energy snacks and enough water (2–3 liters) for the day",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency blanket or bivvy sack",
+      "Whistle and a charged mobile phone with a portable charger",
+      "Lightweight emergency shelter or poncho for sudden changes",
+      "Insect repellent and optional trekking poles"
+    ],
+    "best_seasons": "April-October",
+    "seo": {
+      "title": "London to Walsingham - Stage 03 | 78 km Hard Hike in the UK",
+      "meta_description": "Explore Stage 03 of the London to Walsingham route in the UK. A challenging 78 km hike through rural countryside with terrain notes, safety tips, and gear recommendations.",
+      "h1": "London to Walsingham - Stage 03"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 59286
+  },
+  "ai": {
+    "summary": "A short, easy 3.3 km hike in the UK, suitable for beginners, following a gentle, well-marked trail with low elevation and scenic rural views.",
+    "terrain_summary": "Mostly compact gravel and grassy footpaths with gentle rises. Expect some muddy patches after rain and possible sections along quiet country lanes.",
+    "safety_notes": "Always check the weather forecast and daylight hours before you go. Wear sturdy footwear with good grip and moisture protection. Stay on marked paths; be cautious on muddy sections and after rain. Watch for cyclists, riders, and livestock on rural routes. Bring sufficient water and a light snack; carry a map or offline navigation and a charged phone. Tell someone your planned route and estimated return time. In winter, be prepared for cold, wind, and limited daylight.",
+    "recommended_gear": [
+      "Hiking shoes or boots with good grip",
+      "Water and a snack",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or offline navigation (or a fully charged phone with offline map)",
+      "Small first-aid kit",
+      "Phone with emergency contacts and flashlight",
+      "Lightweight rain shell",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to Autumn (winter hiking possible with proper gear)",
+    "seo": {
+      "title": "Longster Trail (alternative) – 3.3 km Easy UK Hike",
+      "meta_description": "Explore the Longster Trail (alternative), a 3.3 km easy hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to hike.",
+      "h1": "Longster Trail (alternative) – 3.3 km Easy UK Hike"
+    }
   }
 }

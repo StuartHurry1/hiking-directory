@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3685851
+  },
+  "ai": {
+    "summary": "London LOOP (Section 12) is a 10.2 km moderate hike in the UK along the London LOOP. This section blends parkland, riverside trails, and occasional urban stretches, offering a steady pace and light elevation gain suitable for a day walk.",
+    "terrain_summary": "This section features a mix of paved paths, gravel tracks, and some uneven or grassy sections, with gentle elevation changes and occasional steps or slopes.",
+    "safety_notes": "Plan for daylight hours and check the forecast. Wear sturdy footwear and bring weather-appropriate clothing. Stay hydrated and carry water and snacks. Be aware of road crossings in urban sections and follow pedestrian signs. Carry a map or GPS, and keep a mobile phone charged; signal can be patchy in some parts. If possible hike with a companion. Pack a lightweight rain jacket, sun protection, a small first aid kit, a whistle, and a compact emergency blanket. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (layering)",
+      "Water bottle or hydration system",
+      "Map, GPS device, or reference app",
+      "Snacks or energy bars",
+      "Light rain jacket or wind shell",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Whistle and emergency blanket",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring, Summer, and Early Autumn",
+    "seo": {
+      "title": "London LOOP Section 12 – 10.2 km Moderate Hike in the UK",
+      "meta_description": "Explore London LOOP Section 12, a 10.2 km moderate hike through parkland, riverside trails, and urban sections in the UK. Suitable for a day walk with varied terrain.",
+      "h1": "London LOOP Section 12: 10.2 km Moderate Hike in the UK"
+    }
   }
 }

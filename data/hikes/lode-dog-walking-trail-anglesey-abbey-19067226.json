@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19067226
+  },
+  "ai": {
+    "summary": "A 6.7 km dog-friendly circuit around Anglesey Abbey, offering moderate terrain and scenic parkland in the UK. Suitable for hikers with dogs.",
+    "terrain_summary": "Mostly well-marked trails with a mix of grassy paths, soft earth, and occasional gravel sections. Some sections may be muddy after rain; expect gentle hills and level stretches around the estate grounds.",
+    "safety_notes": "Keep dogs on a leash where required and clean up after them. Bring water, monitor for signs of heat or fatigue, and watch for other visitors on shared paths. Check weather and footing before starting; wear sturdy footwear as trails can be muddy, especially after rain. Follow all park rules and respect wildlife and garden areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Dog leash (and harness) and collar with ID",
+      "Water for you and your dog",
+      "Collapsible dog bowl",
+      "Poop bags",
+      "Light rain jacket and sun protection",
+      "Map or smartphone with offline map and charger",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring and autumn are ideal; summer is fine but can be busier; winter can be muddy and chilly.",
+    "seo": {
+      "title": "Lode Dog-Walking Trail at Anglesey Abbey | 6.7 km Moderate Loop (UK)",
+      "meta_description": "Discover the 6.7 km Lode Dog-Walking Trail around Anglesey Abbey in the UK. A moderate, dog-friendly route through estate grounds with practical safety tips and gear.",
+      "h1": "Lode Dog-Walking Trail at Anglesey Abbey"
+    }
   }
 }

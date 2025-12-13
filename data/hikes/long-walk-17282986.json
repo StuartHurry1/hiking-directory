@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 17282986
+  },
+  "ai": {
+    "summary": "Long Walk is a 14.5 km moderately challenging hike in the UK. The route offers a steady pace, varying terrain, and scenic views, suitable for hikers with a comfortable fitness level and a willingness to navigate mixed paths and occasional gradients.",
+    "terrain_summary": "The trail features a mix of grassy paths, gentle grassy slopes, woodland edges, and some gravel or compacted soil sections. Expect occasional mud after rain and short ascents or descents; footing is generally good but can be uneven in places.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Wear sturdy waterproof footwear and dress in layers. Bring a map or GPS, a fully charged phone, and a small first aid kit. Inform someone of your planned route and expected return time. Be prepared for mud, uneven ground, and variable UK weather; carry rain protection and sun protection as appropriate. Stay on official paths and watch for road crossings and livestock if near farmland.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Waterproof and breathable jacket",
+      "Layered clothing (base layer, fleece, hat)",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Phone with power bank",
+      "Sun protection (sunscreen, sunglasses)",
+      "Whistle",
+      "Headlamp or flashlight (optional)",
+      "Insect repellent if needed"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder, drier conditions, but the hike can be tackled year-round with appropriate gear and caution for shorter daylight hours in winter.",
+    "seo": {
+      "title": "Long Walk | 14.5 km Moderate Hike in the UK",
+      "meta_description": "Explore a 14.5 km moderate hike in the UK. Get terrain details, safety tips, best seasons, and gear recommendations for Long Walk.",
+      "h1": "Long Walk"
+    }
   }
 }

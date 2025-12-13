@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4004181
+  },
+  "ai": {
+    "summary": "Llanberis Path is the longest non-technical route to Snowdon's summit in Snowdonia, Wales. It follows a wide, well-maintained path from Llanberis to the top, covering roughly 6 km to the summit. The ascent is steady and accessible for many hikers, but it is a long, exposed climb that requires good fitness and preparation.",
+    "terrain_summary": "Long broad gravel and stone path with a steady incline. Generally well maintained, with sections of loose gravel and some steps. As you near the summit, the terrain becomes rockier and windier; weather can create muddy patches and reduced visibility.",
+    "safety_notes": "Weather on Snowdon can change rapidly; carry layered clothing and a waterproof jacket; start early and allow plenty of time; this is a long, steady ascent (roughly 6 km one way) with around 900 to 1000 meters of elevation gain. The path is non-technical but remote near the summit; watch for loose gravel and windy, icy conditions in poor weather. In winter or when conditions are uncertain, consider crampons and an ice axe and do not travel alone after dark. Always carry a map and compass or a GPS device, keep your phone charged, and tell someone your planned route and return time.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Warm layers and moisture-wicking base layer",
+      "Insulating jacket and a waterproof shell",
+      "Sturdy hiking boots with good grip",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) typically offer the best conditions with longer days and clearer views. Winter ascents are possible for experienced hikers with appropriate winter gear such as crampons and an ice axe, but weather can be severe, daylight is limited, and route knowledge is essential.",
+    "seo": {
+      "title": "Llanberis Path: Snowdon's Longest and Easiest Route in Snowdonia, UK",
+      "meta_description": "Plan your hike on Llanberis Path, Snowdon's longest yet non-technical route to the summit in Snowdonia, Wales. Learn about distance, terrain, safety tips, gear, and best seasons.",
+      "h1": "Llanberis Path — Snowdon's Longest Easy Route"
+    }
   }
 }

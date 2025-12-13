@@ -19,5 +19,35 @@
   "source": {
     "type": "osm",
     "osmId": 1820886
+  },
+  "ai": {
+    "summary": "The Llŷn Coastal Path is a demanding 311.1 km coastal traverse around the Llŷn Peninsula in Wales, UK. Expect long stretches of cliff-top paths, sandy beaches, tidal estuaries, and expansive sea views. The route crosses remote headlands and small coastal settlements, requiring good fitness, navigation, and preparedness for changeable weather.",
+    "terrain_summary": "Predominantly exposed coastal terrain with a mix of rugged cliff paths, rocky tracks, beach sections, and occasional farmland lanes. Surface quality ranges from firm tracks to eroded paths and soft sand; expect uneven footing, gusty winds, and sections where careful footing is needed near cliff edges. Tidal conditions can affect parts of the route, so plan beach crossings around tides.",
+    "safety_notes": "Check tide tables and weather forecasts before beach or estuary crossings. The coast is exposed and weather can change rapidly—layer your clothing, bring a waterproof shell and a warm layer, and wear sturdy, grippy boots. Many sections are remote with limited mobile coverage; carry a charged phone, a power bank, and a map/compass. Plan accommodation or campsites ahead and tell someone your route and expected timings. Carry enough water and high-energy food for longer stretches, and consider a light first aid kit and blister care. In emergencies, use a whistle and know local emergency numbers; be prepared to alter plans if seas, storms, or waves make sections unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weatherproof jacket and layered clothing (base layer, fleece, insulating layer)",
+      "Waterproof pants and quick-drying clothing",
+      "Warm hat and gloves",
+      "Sun hat or cap and sunglasses",
+      "Trekking poles",
+      "Map and compass or dedicated GPS device (with offline maps)",
+      "Fully charged phone with offline maps and a power bank",
+      "Water bottle or hydration system (2–3 litres per day, depending on conditions)",
+      "High-energy food and snacks",
+      "Small first aid kit (blister care, antiseptic, plasters)",
+      "Emergency whistle",
+      "Headlamp or flashlight with spare batteries",
+      "Lightweight dry bags or waterproof stuff sacks",
+      "Multi-tool or knife",
+      "Tide tables or coastal navigation knowledge",
+      "Thermal blanket or bivy sack (for emergencies)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers milder conditions and longer days, but the coast can still be windy and wet; be prepared for changeable weather year‑round.",
+    "seo": {
+      "title": "Llŷn Coastal Path: A 311 km Welsh Coastal Trek",
+      "meta_description": "Explore the Llŷn Coastal Path, a challenging 311.1 km hike along the Welsh coast. Learn about terrain, safety, and gear for this hard coastal route.",
+      "h1": "Llŷn Coastal Path: A 311 km Coastal Challenge in Wales"
+    }
   }
 }

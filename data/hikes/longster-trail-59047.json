@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 59047
+  },
+  "ai": {
+    "summary": "Longster Trail is a demanding 27.8 km hike in the UK, designed to test endurance and navigation. The route is classified as hard and runs through varied countryside in an unknown region, so thorough planning and sensible pacing are essential.",
+    "terrain_summary": "Expect varied terrain including long ascents, rocky or uneven paths, grassy moorland, and potential boggy or muddy sections. Open country can offer wide views but navigation may be challenging, and weather in the UK can change rapidly.",
+    "safety_notes": "Difficulty is high; plan for a full day on the trail. Check the weather, daylight hours, and local conditions before setting out. Carry a map and compass (or GPS with a charged device), a fully charged phone as a backup, and a whistle for emergencies. Tell someone your planned route and ETA. Stay hydrated and fueled; pace yourself to avoid fatigue. Wear sturdy boots and layers; boots with good grip help on rocky or wet ground. Be mindful of changing weather and potential sensation of hypothermia or heat in exposed sections. Respect land access rules and leave-no-trace principles.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weatherproof jacket and warm layers",
+      "Rucksack with hydration (water + electrolytes)",
+      "Map and compass (or reliable GPS) and a backup navigation method",
+      "Headtorch with extra batteries",
+      "Food for the day (energy-dense snacks and lunch)",
+      "Emergency whistle and small first-aid kit",
+      "Space blanket or emergency shelter",
+      "Extra socks, hat, and gloves as needed",
+      "Rain cover for backpack",
+      "Trekking poles (optional but helpful on rough terrain)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offers the best conditions for the Longster Trail. Winter hiking is possible but requires extra precautions such as shorter daylight windows and more severe weather.",
+    "seo": {
+      "title": "Longster Trail: 27.8 km Hard Hike in the UK",
+      "meta_description": "Discover the Longster Trail, a challenging 27.8 km hike in the UK. Learn about terrain, safety tips, and essential gear to plan your hard day on the trail.",
+      "h1": "Longster Trail — 27.8 km Hard Hike in the UK"
+    }
   }
 }

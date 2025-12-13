@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11505717
+  },
+  "ai": {
+    "summary": "A short and easy 3 km hike around Loch of Hellister in the UK. This leisurely outing follows gentle paths along the loch shoreline, offering tranquil views, potential wildlife, and a quick outdoor escape suitable for families and beginners.",
+    "terrain_summary": "Mostly well-defined paths and grassy tracks with flat to gently undulating terrain. Expect occasional muddy patches, especially after rain, and some rocky sections near the shoreline.",
+    "safety_notes": "Always check the weather and daylight hours. Wear sturdy, waterproof footwear suitable for uneven ground. Stay on marked trails and watch for wet or muddy patches. Bring water, snacks, sun protection, and a small first aid kit. In remote areas mobile signal may be limited—inform someone of your plan. Have a map or offline navigation if you plan to explore uncertain sections. Be cautious near the loch edge, as the ground can be slippery.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Map or offline navigation device",
+      "Phone with emergency contact info",
+      "Light rain cover or packable rain gear"
+    ],
+    "best_seasons": "Spring to Autumn, though it can be enjoyed year-round with proper gear",
+    "seo": {
+      "title": "Loch of Hellister – Easy 3 km Hike in the UK",
+      "meta_description": "Discover a short, easy 3 km hike around Loch of Hellister in the UK. Gentle terrain, scenic loch views, safety tips and a practical packing list.",
+      "h1": "Loch of Hellister – Easy 3 km Hike in the UK"
+    }
   }
 }

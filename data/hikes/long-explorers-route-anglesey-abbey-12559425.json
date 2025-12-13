@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 12559425
+  },
+  "ai": {
+    "summary": "A 6.6 km moderate ridge hike near Anglesey Abbey in the UK, offering exposed ridge sections, woodland trails, and varied terrain suitable for hikers looking for a steady day out.",
+    "terrain_summary": "Ridge and woodland paths with occasional exposed sections. Mixed surfaces include compact gravel, dirt trails, and grassy ridges; expect some uneven footing and gentle elevation changes.",
+    "safety_notes": "Conditions can change quickly on exposed ridge sections. Wear sturdy footwear, stay on marked paths, and carry layers for wind and rain. Bring plenty of water, a map or GPS, and a charged phone. Inform someone of your route; check local guidelines and weather before setting out.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Waterproof/windproof jacket and extra layers",
+      "Map and compass or GPS device",
+      "Hat, sunglasses, and sunscreen",
+      "Small first aid kit",
+      "Phone with offline maps and a backup power source",
+      "Whistle and lightweight emergency blanket"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; conditions are typically milder and daylight longer, though wind can be brisk on exposed ridges.",
+    "seo": {
+      "title": "Long Explorer's Route at Anglesey Abbey – 6.6 km Ridge Hike in the UK",
+      "meta_description": "Explore the Long Explorer's Route at Anglesey Abbey. A 6.6 km moderate ridge hike in the UK with terrain details, safety tips, and gear suggestions.",
+      "h1": "Long Explorer's Route at Anglesey Abbey"
+    }
   }
 }

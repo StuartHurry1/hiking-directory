@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9787869
+  },
+  "ai": {
+    "summary": "Lizard rarirty walk is a short, easy 2.3 km hike in the United Kingdom. With minimal elevation and straightforward paths, it’s suitable for most ages and abilities, offering a relaxed outdoor experience without any specific themes.",
+    "terrain_summary": "A short, easy trail with well-marked paths. Surfaces are typically compact or grassy, with occasional uneven ground and possible muddy patches. Footwear should be sturdy to handle uneven or damp sections.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths and watch for uneven or muddy sections. Keep children and pets under close supervision. Bring water and a light snack. Let someone know your planned route and expected return time. Be mindful of other trail users and rural hazards such as livestock or cyclists.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water",
+      "Weather-appropriate clothing",
+      "Lightweight weatherproof jacket",
+      "Map, guidebook, or a phone with offline map",
+      "Snack or energy bar",
+      "Sun protection (hat and sunscreen)",
+      "Small first aid kit",
+      "Phone and basic emergency items"
+    ],
+    "best_seasons": "All year round (with weather-appropriate clothing and footwear)",
+    "seo": {
+      "title": "Lizard rarirty walk - Easy 2.3 km hike in the UK",
+      "meta_description": "Discover Lizard rarirty walk, a short and easy 2.3 km hike in the UK suitable for all ages. Learn about terrain, safety tips, and recommended gear.",
+      "h1": "Lizard rarirty walk"
+    }
   }
 }

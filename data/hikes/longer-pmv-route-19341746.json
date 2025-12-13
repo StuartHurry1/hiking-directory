@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19341746
+  },
+  "ai": {
+    "summary": "An approximately 12.7 km moderate hike along the Longer PMV Route in the UK. The route traverses mixed terrain, including grassy paths, woodland lanes, and rural tracks, with gentle elevation and occasional viewpoints. Suitable for hikers with intermediate fitness seeking a varied day on trail.",
+    "terrain_summary": "Mixed terrain with grassy paths, gravel tracks, and woodland sections. Expect gentle climbs, uneven ground, and some exposed stretches. After rain, sections may be muddy or boggy; you may encounter gates and livestock in farmland sections, and distant views where the route opens up.",
+    "safety_notes": "Weather in the UK can change quickly; check a reliable forecast before setting out and be prepared for rain. Wear sturdy, waterproof hiking boots and bring a waterproof jacket. Stay on marked paths and carry a map and compass or GPS. Bring enough water and snacks for a half-day hike (roughly 4–5 hours). Plan for daylight differences; shorter days in winter mean earlier starts. Let someone know your route and expected return time; hiking with a companion is safer, especially in remote sections. Be mindful of livestock and farm gates; close gates behind you. After rain, some sections may be muddy or boggy; consider gaiters and trekking poles.",
+    "recommended_gear": [
+      "Waterproof hiking jacket",
+      "Sturdy hiking boots",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Extra warm layers (fleece, hat, gloves)",
+      "Water (at least 1–2 litres) and high-energy snacks",
+      "Emergency whistle",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Rain pants or gaiters",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October). Mild temperatures and longer daylight make the best conditions; winter hikes are possible with proper gear and precautions.",
+    "seo": {
+      "title": "Longer PMV Route Hiking Guide – 12.7 km Moderate Trail in the UK",
+      "meta_description": "Discover the Longer PMV Route, a 12.7 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for hiking this route.",
+      "h1": "Longer PMV Route: 12.7 km Moderate Hike in the UK"
+    }
   }
 }

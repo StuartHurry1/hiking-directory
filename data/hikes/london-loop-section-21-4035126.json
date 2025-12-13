@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4035126
+  },
+  "ai": {
+    "summary": "London LOOP (Section 21) is a 19.5 km section of the London LOOP long-distance path in the United Kingdom. This hard-rated route traverses mixed terrain including urban segments, woodland trails, and rural footpaths, with elevation gain and several road crossings. Suitable for experienced walkers with good navigation and stamina.",
+    "terrain_summary": "The route combines woodland tracks, grassy paths, and occasional surfaced lanes. Expect uneven footing in forest sections, occasional mud after rain, short steep ascents/descents, and some exposed sections. Potential for busy road crossings where the path leaves and re-enters urban areas.",
+    "safety_notes": "Plan for variable UK weather, daylight hours, and possible crowds in urban stretches. Stay on official path, watch for traffic at road crossings, and bookmark easy bailout points. Bring a map or GPS, know the route, and inform someone of your plans. In remote sections, mobile coverage may be patchy; carry a fully charged phone and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map or GPS device with offline access",
+      "Weather-appropriate layers and waterproof outer shell",
+      "Hat and sunglasses for sun protection",
+      "Small first aid kit and emergency whistle",
+      "Headlamp or flashlight",
+      "Snacks or energy bars",
+      "Mobile phone with emergency contacts",
+      "Light rain cover or packable waterproofs"
+    ],
+    "best_seasons": "Spring to autumn (March–October) for better daylight and moderate weather; be prepared for cold or wet conditions in shoulder seasons.",
+    "seo": {
+      "title": "London LOOP Section 21 Hiking Guide - 19.5 km Hard Walk in UK",
+      "meta_description": "Discover London LOOP Section 21: a 19.5 km hard hike through mixed terrain in the UK. Explore terrain, safety tips, gear and best seasons for this challenging segment.",
+      "h1": "London LOOP Section 21 – 19.5 km Hard Hike in the UK"
+    }
   }
 }

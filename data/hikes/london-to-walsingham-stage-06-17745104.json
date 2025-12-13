@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17745104
+  },
+  "ai": {
+    "summary": "Stage 06 of the London to Walsingham route is a hard 81.1 km trek across UK countryside. The stage tests endurance with a long distance over varied terrain, including rural lanes, hedgerows, and farm tracks, requiring solid navigation and planning.",
+    "terrain_summary": "Expect predominantly rural terrain: a mix of grassy paths, compacted earth, gravel farm tracks, and occasional stony sections. Hedgerows and fields may require careful navigation; weather can change conditions to mud and slick surfaces. There may be elevation changes and long stretches without settlements, so route planning is essential.",
+    "safety_notes": "Prepare for a long, demanding day. Start early to maximize daylight and avoid fatigue. Check the weather forecast and be ready for rain, wind, or cold. Carry a current map and compass or a reliable GPS with offline maps; keep your phone charged and share your planned route with someone. Bring enough water (2–3 L) and high-energy food, plus a basic first aid kit and blister care. Be aware of road traffic on shared rights-of-way and stick to appropriate paths. If conditions are unsafe or you cannot maintain pace, consider splitting the stage into shorter sections and turning back to safety.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and insulating layer",
+      "Wide-brim hat or cap and gloves (seasonal)",
+      "Backpack with rain cover (20–35 L) and comfortable fit",
+      "2–3 liters of water or a hydration system; electrolyte packets",
+      "High-energy snacks and meals for the day",
+      "Map and compass (or GPS with offline maps); fully charged devices",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit with blister care and personal medications",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional but helpful for long distances)",
+      "Sun protection (sunscreen and sunglasses)"
+    ],
+    "best_seasons": "Spring through autumn (April–October) for milder weather and longer daylight; winter hiking is possible with extra planning but carries higher risk due to shorter days and increased mud.",
+    "seo": {
+      "title": "London to Walsingham – Stage 06 (81.1 km) – Hard Hike in the UK",
+      "meta_description": "Stage 06 of the London to Walsingham route covers 81.1 km in the UK. This hard stage traverses rural countryside with hedgerows and farm tracks. Learn terrain, safety, and gear to plan your trek.",
+      "h1": "London to Walsingham – Stage 06 (81.1 km)"
+    }
   }
 }

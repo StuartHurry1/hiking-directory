@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11002028
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km heritage trail through Lochgelly in the UK, designed for easy walking and accessible to families. The route follows mostly flat, well-surfaced paths with light urban sections, highlighting local history and points of interest along the way.",
+    "terrain_summary": "Mostly flat to gently undulating urban pavements, compact gravel paths, and towpath-style sections. Some areas may have uneven paving and curb edges. Suitable for strollers on most parts; check for seasonal mud after rain.",
+    "safety_notes": "- Wear sturdy footwear and weather-appropriate clothing. - Be mindful of street crossings and busy intersections; use marked crossings. - Watch for cyclists on shared paths and other pedestrians. - In UK weather, conditions can change quickly; bring waterproofs and sun protection as needed. - Keep children close and supervise at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Layered clothing for varying weather (hat and gloves if cold)",
+      "Sunscreen and sunglasses (summer months)",
+      "Map or offline navigation app",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "All year, with the most pleasant conditions typically from late spring to early autumn.",
+    "seo": {
+      "title": "Lochgelly Heritage Trail - Easy 3.7 km Walk in Lochgelly, UK",
+      "meta_description": "Discover the Lochgelly Heritage Trail, a gentle 3.7 km loop in the UK. Perfect for families and casual walkers, featuring flat terrain and local history highlights.",
+      "h1": "Lochgelly Heritage Trail: Easy 3.7 km Walk"
+    }
   }
 }

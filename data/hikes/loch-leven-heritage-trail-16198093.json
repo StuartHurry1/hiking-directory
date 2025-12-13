@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16198093
+  },
+  "ai": {
+    "summary": "The Loch Leven Heritage Trail is a long-distance lochside circuit in the United Kingdom. At about 43.6 km, the route offers scenic views of Loch Leven, abundant birdlife, and several historic points of interest along a largely continuous path. Classified as hard due to its length, it suits experienced hikers seeking a full-day or multi-day challenge with steady, mostly flat terrain.",
+    "terrain_summary": "Predominantly surfaced paths and cycle routes around Loch Leven with some gravel surfaces, boardwalk sections, and occasional rural roads. The trail is mostly flat or gently undulating, but the long distance makes it tough; expect mud after rain and occasional uneven footing near access points. Open exposures to wind and varying water levels can affect footing.",
+    "safety_notes": "Check weather forecasts; Scotland’s weather is changeable and can be harsh. Start early to maximize daylight and carry a map or GPS. Tell someone your plan and expected return. The trail is shared with cyclists in some sections; stay visible and pass with care. Bring sufficient water and snacks to cover the distance, monitor fatigue, and consider splitting the hike if needed. In remote stretches, ensure your phone is charged and know emergency numbers.",
+    "recommended_gear": [
+      "Good waterproof hiking boots with ankle support",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Hat and gloves for cooler days",
+      "Water bottle or hydration system with at least 2–3 liters capacity",
+      "High-energy snacks and a light meal for longer sections",
+      "Map, compass, or GPS device; fully charged",
+      "Phone with offline maps and emergency numbers",
+      "Small first aid kit and blister care",
+      "Sun protection (sunscreen, sunglasses) and a cap",
+      "Lightweight trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) are generally the best seasons for this hike, offering longer daylight hours and milder conditions, but be prepared for rain and wind in any season.",
+    "seo": {
+      "title": "Loch Leven Heritage Trail – 43.6 km UK Long-Distance Hike",
+      "meta_description": "Discover the Loch Leven Heritage Trail, a 43.6 km lochside circuit in Scotland, UK. A challenging, scenic route with birdlife, historic sites, and mostly flat paths for experienced hikers.",
+      "h1": "Loch Leven Heritage Trail: 43.6 km Lochside Hike in the UK"
+    }
   }
 }

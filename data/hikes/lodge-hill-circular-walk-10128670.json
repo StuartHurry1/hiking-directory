@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 10128670
+  },
+  "ai": {
+    "summary": "Lodge Hill Circular Walk is a 6.5 km loop in the UK offering a moderate hike through mixed scenery of hedgerows, woodlands, and open countryside. The route forms a gentle circuit with a few ascents and descents, suitable for walkers with intermediate fitness who enjoy varied terrain and countryside views.",
+    "terrain_summary": "The route combines grassy tracks, compact woodland paths, and occasional stiles. Expect a mix of exposed open sections and shaded woodland with some muddy patches after rain. The surface can be uneven in places, with gentle gradients and short climbs that contribute to the moderate difficulty.",
+    "safety_notes": "Bring appropriate footwear with good grip and check local conditions before setting out. Carry a map or GPS, a fully charged phone, and weather-appropriate clothing. Stay on path, be mindful of livestock and farm gateways, and watch for mud after rain. Let someone know your plans and bring a small first aid kit; carry water and snacks. Dogs should be controlled where livestock are present and on leash where required.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Trail map or GPS device",
+      "Lightweight waterproof jacket",
+      "Snacks or energy bars",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Headlamp or flashlight (optional)",
+      "Walking poles (optional)",
+      "Camera or smartphone for views"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the best conditions with milder weather and longer daylight. Hikes in winter are possible but can be muddy and exposed; check conditions and plan accordingly.",
+    "seo": {
+      "title": "Lodge Hill Circular Walk – 6.5 km Moderate Hike in the UK",
+      "meta_description": "Discover Lodge Hill Circular Walk, a 6.5 km loop in the UK for moderate hikers. Enjoy varied terrain, woodlands, and countryside views on this scenic circular trail.",
+      "h1": "Lodge Hill Circular Walk"
+    }
   }
 }

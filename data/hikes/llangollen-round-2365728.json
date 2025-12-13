@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2365728
+  },
+  "ai": {
+    "summary": "An easy 3.8 km circular hike in the UK around Llangollen, suitable for most ages. The route features flat to gently rolling paths and offers pleasant countryside views.",
+    "terrain_summary": "Primarily well-marked paths with mostly flat terrain, occasional gentle inclines, and some gravel or grassy sections. Expect possible mud after rain and be mindful of other hikers and cyclists on shared sections.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Check the forecast as UK weather can change quickly. Bring water and a small snack. Stay on marked paths and watch for cyclists on shared routes. Keep dogs under control where required. Tell someone your plan and expected return time. Carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Hat and sunscreen",
+      "Snack or energy bar",
+      "Lightweight map or offline route on phone",
+      "Small first aid kit",
+      "Phone and portable charger"
+    ],
+    "best_seasons": "Spring to autumn; typically mild weather and longer daylight hours, though the route can be enjoyed in winter with proper gear.",
+    "seo": {
+      "title": "Llangollen Round - Easy 3.8 km Hike in the UK",
+      "meta_description": "Explore the Llangollen Round, an easy 3.8 km circular hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to walk this scenic route.",
+      "h1": "Llangollen Round: Easy 3.8 km Hike in the UK"
+    }
   }
 }
