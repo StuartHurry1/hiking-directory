@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11277537
+  },
+  "ai": {
+    "summary": "Cross Walk is a short, easy 1.8 km hike in the UK designed for beginners and families seeking a relaxed outdoor stroll. The route offers gentle terrain and light scenery with minimal elevation change.",
+    "terrain_summary": "Flat to gently undulating trail along a well-maintained path. Expect a mix of compact gravel, grassy sections, and occasional muddy patches after rain. Sturdy footwear recommended.",
+    "safety_notes": "Check the weather and daylight hours before you go. Stay on marked paths and supervise children. Carry a charged phone, basic first aid kit, and sufficient water. Let someone know your plans and expected return time. In winter, paths can be slippery; consider trekking poles for extra stability.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Light rain jacket",
+      "Water bottle (1-2 litres)",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS / fully charged phone",
+      "Small first aid kit",
+      "Light snack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for milder and drier conditions. Feasible in winter with appropriate clothing, but conditions can be challenging.",
+    "seo": {
+      "title": "Cross Walk Hike (1.8 km) — Easy UK Trail Guide",
+      "meta_description": "Explore Cross Walk, an easy 1.8 km hike in the UK. Find terrain details, safety tips, best seasons, and what to bring for a relaxed day outdoors.",
+      "h1": "Cross Walk: Easy 1.8 km UK Hike"
+    }
   }
 }

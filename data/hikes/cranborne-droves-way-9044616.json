@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 9044616
+  },
+  "ai": {
+    "summary": "Cranborne Droves Way is a challenging 126.2 km ridge focused hike that traverses the Cranborne Chase area in the United Kingdom. The route blends exposed ridgelines, chalk downland, woodlands and farm tracks, typically completed over several days by experienced walkers. Expect long distances, varied terrain and elevation changes on a remote trail with some sections offering limited services.",
+    "terrain_summary": "Primarily ridge and downs with exposed open sections and sheltered woodlands. Expect uneven paths, chalk soil that can be slippery when wet, gates and fences, occasional farm tracks and streams. Navigation on open ridges is important as waymarking can be intermittent in places. Multi-day distances mean you may cover long stretches without services.",
+    "safety_notes": "This is a hard multi-day hike with potentially remote sections. Plan carefully and tell someone your route and timings. Carry a map and compass and know how to use them; do not rely solely on phones as signal may be patchy. Check weather and daylight hours and be prepared for cold winds and sudden rain. Pack sufficient food and water and know where water sources are. Wear sturdy waterproof boots and appropriate layers; bring a waterproof shell. Be prepared for livestock gates and fences and follow local access rules. In case of emergency, carry a personal locator beacon or whistle and know emergency numbers.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and insulating layers",
+      "Daypack with rain cover",
+      "Water bottles or hydration bladder plus a means to purify water",
+      "Map and compass (GPS optional as backup)",
+      "Sleeping bag and bivvy or tent plus lightweight sleeping mat for multi-day sections",
+      "Headlamp with extra batteries",
+      "First aid kit tailored for wilderness trekking",
+      "High energy food and snacks for multi-day mileage",
+      "Trekking poles",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Emergency signaling device such as a whistle or personal locator beacon"
+    ],
+    "best_seasons": "Late spring to autumn, roughly April to October, when daylight is longer and conditions are more favorable; be prepared for rapid weather changes year round.",
+    "seo": {
+      "title": "Cranborne Droves Way — 126.2 km Ridge Trail in the UK",
+      "meta_description": "Discover Cranborne Droves Way, a demanding 126.2 km ridge-focused hiking route in the UK. Get an overview of the terrain, safety tips, best seasons and gear essentials for this long-distance hike.",
+      "h1": "Cranborne Droves Way 126.2 km Ridge Trail in the UK"
+    }
   }
 }

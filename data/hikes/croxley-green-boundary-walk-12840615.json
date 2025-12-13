@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12840615
+  },
+  "ai": {
+    "summary": "The Croxley Green Boundary Walk is a 20.6 km circular hike around Croxley Green in the UK. This hard route combines canal towpaths, woodland trails, and open fields, offering a strenuous challenge for experienced hikers with varied terrain and several gates and stiles along the way.",
+    "terrain_summary": "Varied terrain including canal towpaths (gravel or paved), woodland paths, muddy field edges, and grassy sections. Expect uneven footing, occasional short ascents, and several gates or stiles. Weather can affect footing, so conditions can be slippery after rain.",
+    "safety_notes": "This is a hard, long hike with potential uneven footing and variable weather. Check the forecast before setting out. Carry plenty of water and snacks, and wear sturdy, waterproof footwear. Navigate with a map or GPS, and stay on established paths; be aware of private land boundaries and road crossings. In winter, daylight is limited and ground can be very wet or icy, so plan accordingly. Share your plan with someone, carry a charged phone, a basic first-aid kit, and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Extra layers and a waterproof jacket",
+      "Hat and gloves for cooler weather",
+      "Small first-aid kit, whistle and basic emergency items",
+      "Headlamp or flashlight with spare batteries",
+      "Phone with offline maps and emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight is longer and conditions are generally more favorable; winter walks are possible but require extra caution due to shorter daylight and wetter ground.",
+    "seo": {
+      "title": "Croxley Green Boundary Walk – 20.6 km Hard Hike in the UK",
+      "meta_description": "Discover the 20.6 km Croxley Green Boundary Walk in the UK. A challenging circuit featuring canal towpaths, woodlands, and open fields. Practical tips, terrain notes, and essential gear.",
+      "h1": "Croxley Green Boundary Walk (20.6 km)"
+    }
   }
 }

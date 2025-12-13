@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 15482418
+  },
+  "ai": {
+    "summary": "Cumran Lane is a short, easy 3.2 km hike in the UK, suitable for families and casual walkers. The route follows a quiet rural lane with gentle elevation and scenic countryside views.",
+    "terrain_summary": "Primarily a well-maintained lane with occasional grassy verges. Mostly flat with gentle rises. Typically dry if weather is good, but can be muddy after rain. Be mindful of road traffic on the lane and gates where livestock may cross.",
+    "safety_notes": "This is a short, easy route along a rural UK lane. Wear sturdy footwear and weather-appropriate clothing. Be aware of vehicles on the lane and give way to farm traffic and livestock. Check the forecast and avoid heavy rain or ice. Bring water and a small first aid kit. Stay on the path, respect private property, and supervise children and dogs. If visibility is poor, carry a phone and light.",
+    "recommended_gear": [
+      "Comfortable, sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Water bottle (at least 500 ml)",
+      "Sun protection (hat and sunscreen)",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Phone with offline map or GPS",
+      "Lightweight map of the area (optional)",
+      "Whistle (for safety)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn; summers can be busier and winters may be muddy or slippery.",
+    "seo": {
+      "title": "Cumran Lane – Easy 3.2 km UK Hike",
+      "meta_description": "Discover Cumran Lane, an easy 3.2 km hike in the UK. This short, family-friendly route offers gentle terrain, rural views, and simple navigation for casual walkers.",
+      "h1": "Cumran Lane: Easy 3.2 km UK Hike"
+    }
   }
 }

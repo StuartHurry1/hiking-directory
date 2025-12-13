@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 15480617
+  },
+  "ai": {
+    "summary": "Crabapple Trail is a short, easy 3.8 km hike in the UK, suitable for families and casual walkers. The route follows a well-marked path with gentle gradients, offering pleasant countryside scenery and a relaxed pace.",
+    "terrain_summary": "Predominantly easy, well-marked footpath with gentle gradients. Expect occasional exposed tree roots, a short grassy section, and possible mud after rain.",
+    "safety_notes": "Weather in the UK can change quickly; check the forecast before you go. Wear sturdy walking shoes and bring a lightweight waterproof layer. Stay on the marked trail, and keep hydrated with water and energy snacks. Inform someone of your plans, carry a small first aid kit, and have a map or offline GPS. If walking with children, supervise closely. Be mindful of wildlife and other trail users, and plan for reduced daylight in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Layered clothing and a lightweight waterproof jacket",
+      "Sun protection (sunscreen, hat) in sunny weather",
+      "Map or offline GPS and/or a compass",
+      "Small first aid kit",
+      "Snacks",
+      "Phone with emergency contacts and a charged battery"
+    ],
+    "best_seasons": "Spring and Autumn (roughly March–May and September–November) are ideal for comfortable temperatures and good visibility. Summer is suitable but can be busier; winter hiking is possible with proper gear and daylight considerations.",
+    "seo": {
+      "title": "Crabapple Trail – Easy 3.8 km Hike in the UK",
+      "meta_description": "Discover Crabapple Trail, an easy 3.8 km hike in the UK suitable for families and casual walkers. Learn about the terrain, safety tips, best seasons, and gear.",
+      "h1": "Crabapple Trail: Easy 3.8 km Hike in the UK"
+    }
   }
 }

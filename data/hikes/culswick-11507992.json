@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507992
+  },
+  "ai": {
+    "summary": "Culswick is a very short, easy coastal walk in the UK, covering about 0.9 km. The route offers sea views along a gentle path with accessible terrain, suitable for most casual hikers.",
+    "terrain_summary": "Short coastal trail with grassy and occasional rocky sections. Generally flat but can be uneven and muddy after rain. Expect sea spray and exposed sections; stay on the path and keep away from cliff edges in windy conditions.",
+    "safety_notes": "Weather in coastal UK can change rapidly. Check the forecast before you go. Winds near the shore can be strong and gusty; keep children and dogs under control. Stay on the marked path and avoid cliff edges; be mindful of tides if the route uses near-water sections. Bring suitable clothing, a charged phone, and enough water. If conditions feel unsafe, turn back.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Small daypack",
+      "Map or smartphone with offline maps",
+      "Hat and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn are generally best for this walk due to milder weather; it can be done year-round with proper clothing and daylight.",
+    "seo": {
+      "title": "Culswick: Easy 0.9 km Coastal Hike in the UK",
+      "meta_description": "Explore the easy 0.9 km Culswick coastal hike in the UK. Short, accessible trail with sea views, practical tips, gear suggestions, and safety notes.",
+      "h1": "Culswick Easy Coastal Hike (0.9 km)"
+    }
   }
 }

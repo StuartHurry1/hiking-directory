@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4499076
+  },
+  "ai": {
+    "summary": "Crib Goch is a short ridge scramble in the UK, about 1.8 km in length. Despite the modest distance, the route is exposed with knife-edge sections and scrambling on rocky cresting, rewarding careful footing and good weather.",
+    "terrain_summary": "Rugged rocky ridge with exposed crest, uneven surface, and several knife-edge sections. Some parts require hands-on scrambling; there are significant drop-offs on either side. Weather, wind, and visibility greatly affect difficulty, and rock can be loose in places.",
+    "safety_notes": "Conditions can change rapidly; always check the forecast and avoid the route in strong winds, heavy rain, or ice. The route has exposed, knife-edge sections and requires good footing and attention to footing; wearing a helmet is recommended. Keep to the crest, maintain spacing within your group, and turn back if unsure. In poor visibility or winter conditions, the route becomes technical and should only be attempted with appropriate experience or a guide. Do not rely on GPS alone; carry map and compass, and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Helmet for scrambling on exposed sections",
+      "Weather-appropriate clothing (waterproof jacket and trousers, insulating layer)",
+      "Map and compass (GPS as backup)",
+      "Whistle and a fully charged mobile phone",
+      "Food and water for the trip",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Sunscreen, sunglasses, and a hat",
+      "Gloves for grip and warmth",
+      "Rope and harness (for experienced scramblers or guided routes)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for drier and more predictable conditions; winter conditions bring ice, high winds, and increased technical risk requiring specialized equipment and experience.",
+    "seo": {
+      "title": "Crib Goch Hike Guide | Short Exposed Ridge Scramble in the UK",
+      "meta_description": "Discover Crib Goch, a short 1.8 km exposed ridge scramble in the UK. Practical safety tips, gear recommendations, best seasons, and route notes for hikers.",
+      "h1": "Crib Goch: Short Exposed Ridge Scramble in the UK"
+    }
   }
 }

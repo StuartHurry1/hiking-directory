@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 8148367
+  },
+  "ai": {
+    "summary": "Dales Way - Harrogate Link Path is a challenging long-distance hike in the UK, roughly 49.8 km in length. The route is suited for experienced walkers who can plan multi-day trips, with varied terrain and potential elevation changes.",
+    "terrain_summary": "Expect a mix of grassy trails, stony paths, field margins, and occasional road sections. The terrain can be uneven with modest to moderate elevation gains; conditions may be wet underfoot, particularly after rain.",
+    "safety_notes": "Plan the trip with realistic daily distances, carry weather-appropriate gear, and inform someone of your itinerary. Stay on marked paths, monitor weather, and be prepared for sudden changes. Carry navigation tools, a fully charged phone with offline maps, and a first aid kit. Start early to maximize daylight; have an emergency shelter or warm layers in case of delays; hydrate regularly and manage energy with regular breaks. Be aware of remote sections where help may be far away, and avoid hiking alone in poor visibility.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing (base layer, insulating layer, waterproof shell)",
+      "Daypack with rain cover",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "Navigation tools (map, compass, or GPS)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle",
+      "Lightweight emergency shelter or space blanket",
+      "Multi-tool or knife",
+      "Extra socks and layers",
+      "Gloves and hat for cooler conditions",
+      "Phone or device with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) are generally best for this hike due to longer daylight and more favorable weather; be prepared for changeable UK conditions at any time of year.",
+    "seo": {
+      "title": "Dales Way - Harrogate Link Path: 49.8 km UK Long-Distance Hike",
+      "meta_description": "Discover the Dales Way - Harrogate Link Path, a tough ~50 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this challenging route.",
+      "h1": "Dales Way - Harrogate Link Path"
+    }
   }
 }

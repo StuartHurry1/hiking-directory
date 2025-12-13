@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 13168949
+  },
+  "ai": {
+    "summary": "A 9.9 km moderate forest hike in Crocknagrally Forest, UK. The route follows shaded trails with gentle ascents and variable terrain, suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Forest trails with uneven footing, exposed roots, and occasional muddy patches. Mostly shaded, with some open sections and gentle climbs; surface may range from compact gravel to soft earth.",
+    "safety_notes": "Wear sturdy boots and layered clothing, check weather, bring enough water and snacks, carry navigation tools and a charged phone, stay on marked paths, inform someone of your plan, watch for ticks and brambles, adjust pace for conditions, be prepared for reduced daylight in late seasons, respect wildlife and Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Rain jacket or waterproof shell",
+      "Map or offline GPS",
+      "Fully charged mobile phone",
+      "Snacks or energy bars",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Small first aid kit",
+      "Blister care items",
+      "Backpack to carry gear",
+      "Headlamp or flashlight (short hikes)"
+    ],
+    "best_seasons": "Spring to Autumn; winter hikes are possible with proper gear and daylight considerations.",
+    "seo": {
+      "title": "Crocknagrally Forest Hike – 9.9 km Moderate Trail in the UK",
+      "meta_description": "Explore Crocknagrally Forest on a 9.9 km moderate hike in the UK. Learn terrain features, safety tips, and essential gear for a safe forest trek.",
+      "h1": "Crocknagrally Forest Hike (9.9 km)"
+    }
   }
 }

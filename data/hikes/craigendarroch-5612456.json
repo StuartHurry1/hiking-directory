@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 5612456
+  },
+  "ai": {
+    "summary": "Craigendarroch is a short and easy hike in the UK, about 4.6 km round trip. The route follows grassy paths with a steady incline to the summit, offering open views on clear days. It is suitable for beginners and families seeking a gentle countryside walk with a rewarding panorama.",
+    "terrain_summary": "Mostly grassy and earthy tracks with a consistent ascent. Expect some uneven ground and a few rocky patches near the summit. After rain, sections can be muddy and slippery; good footwear is important. Views expand across Deeside and surrounding hills when skies are clear.",
+    "safety_notes": "Check the forecast before you go; weather can change quickly in upland areas. Stay on marked paths, watch footing on uneven ground, and be cautious in exposed sections. Bring appropriate clothing and an extra layer for wind chill, even on milder days. Mobile reception may be limited in remote parts, so carry a map and know your route.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks",
+      "Windproof jacket and extra layers",
+      "Map and compass or GPS device",
+      "Phone with portable battery pack",
+      "Sunscreen, sunglasses, and hat",
+      "Light rain shell / packable waterproof",
+      "Headlamp or flashlight (for early/late starts)"
+    ],
+    "best_seasons": "Late spring to autumn (roughly May to October) when the weather is generally milder and daylight is longer. Winter hikes can be more challenging due to snow, ice, and reduced visibility.",
+    "seo": {
+      "title": "Craigendarroch Hike – Easy 4.6 km Trail in the UK",
+      "meta_description": "Discover the easy 4.6 km Craigendarroch hike in the UK. Gentle ascent, grassy paths, and rewarding views. Includes safety tips and gear suggestions.",
+      "h1": "Craigendarroch – Easy 4.6 km Hike in the UK"
+    }
   }
 }

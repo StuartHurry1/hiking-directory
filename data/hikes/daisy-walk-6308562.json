@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 6308562
+  },
+  "ai": {
+    "summary": "Daisy Walk is a tiny, easy stroll in the UK. At 0.2 km, it offers a gentle introduction to walking and is suitable for most ages and fitness levels.",
+    "terrain_summary": "A flat, well-maintained route, typically on pavement or compact gravel. The short distance makes it a level, easy walk with minimal elevation.",
+    "safety_notes": "Check the forecast before you go and wear comfortable shoes. This is a short walk, but slopes, uneven patches, rain, or crowded areas can present risks. Keep children and pets under supervision, stay on the path, and carry contact information and a phone. In winter, daylight hours are shorter and surfaces can be slick.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight rain jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Phone or map for safety"
+    ],
+    "best_seasons": "Year-round in the UK; the conditions are typically most pleasant from late spring to early autumn.",
+    "seo": {
+      "title": "Daisy Walk — Easy 0.2 km Short Walk in the UK",
+      "meta_description": "Discover Daisy Walk, a tiny 0.2 km easy route in the UK. Perfect for beginners, families, and quick outings.",
+      "h1": "Daisy Walk: Easy 0.2 km Short Walk in the UK"
+    }
   }
 }

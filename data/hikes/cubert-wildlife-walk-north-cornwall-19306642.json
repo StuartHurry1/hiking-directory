@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19306642
+  },
+  "ai": {
+    "summary": "A scenic 13.3 km coastal hike near Cubert in North Cornwall, UK. This moderate route explores rugged cliffs, grassy downs, and wildlife-rich watercourses, offering sea views and opportunities to spot coastal birds and other wildlife along a varied trail.",
+    "terrain_summary": "The terrain combines coastal paths, grass tracks, and occasional stony or muddy sections. Expect uneven footing near cliff edges, with some gentle ascents and descents. Winds can be strong along the shore, and weather can change rapidly.",
+    "safety_notes": "Check tide times and avoid cliff-edge trails in high winds or wet conditions. Stay on marked paths, keep children and dogs under control, and watch for loose rocks and slippery ground. Pack adequate clothing, sufficient water, and a mobile phone for emergencies. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket, windproof layer)",
+      "Wide-brim hat and sunscreen",
+      "Water and energy-rich snacks",
+      "Map and compass or a reliable GPS device",
+      "Mobile phone with emergency contacts",
+      "Small first aid kit",
+      "Optional trekking poles for stability"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October), with the best conditions typically May–September.",
+    "seo": {
+      "title": "Cubert Wildlife Walk, North Cornwall – Coastal Hike (UK)",
+      "meta_description": "Explore the 13.3 km Cubert Wildlife Walk in North Cornwall, UK. A moderate coastal hike offering wildlife viewing, cliffs, and sea views.",
+      "h1": "Cubert Wildlife Walk – North Cornwall Coastal Hike"
+    }
   }
 }

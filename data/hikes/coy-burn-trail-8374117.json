@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8374117
+  },
+  "ai": {
+    "summary": "Coy Burn Trail is a short, easy 5.6 km hike in the UK that follows a pleasant burn (stream) through relatively gentle countryside. The route is suitable for beginners and families, with mostly flat to gently undulating terrain and scenic views along the water.",
+    "terrain_summary": "The trail uses well-defined footpaths and grassy paths. Expect occasional muddy patches after rain, short sections of gravel or compact soil, and a few boardwalk or stony crossings near the burn. There may be gentle gradients but no technical scrambling.",
+    "safety_notes": "Always check local weather before you go; UK conditions can change quickly. Wear waterproof footwear and a weather-appropriate layer, as paths near water can be muddy and chilly. Stay on marked trails, watch for uneven sections, and be mindful of livestock or cyclists on shared paths. Bring a map or GPS, a charged phone, and enough water and snacks. If you encounter crossings near water, take care with wet surfaces and avoid risky crossings.",
+    "recommended_gear": [
+      "Comfortable waterproof hiking shoes",
+      "Weather-appropriate clothing (windproof jacket, moisture-wicking layers)",
+      "Water bottle and snacks",
+      "Map, compass or GPS device",
+      "Charged phone and portable power bank",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Light windbreaker or extra layer for chilly days"
+    ],
+    "best_seasons": "Spring to autumn are generally best for dry conditions and good views; winter visits are possible but often wetter and muddier.",
+    "seo": {
+      "title": "Coy Burn Trail – Easy 5.6 km Hike in the UK",
+      "meta_description": "Explore Coy Burn Trail, an easy 5.6 km hike in the UK. Learn about the route, terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Coy Burn Trail: Easy 5.6 km Hike in the UK"
+    }
   }
 }

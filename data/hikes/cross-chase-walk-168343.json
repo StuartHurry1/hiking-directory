@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 168343
+  },
+  "ai": {
+    "summary": "Cross Chase Walk is a short, easy 1.7 km route in the UK, suitable for beginners and families. The route features a gentle surface and minimal elevation gain, making it ideal for a relaxed outdoor outing.",
+    "terrain_summary": "The walk follows well-maintained footpaths with short stretches of compact gravel. Expect flat to very gentle gradients; after rain some sections may be muddy.",
+    "safety_notes": "Always check the weather and daylight hours before you go. Wear sturdy footwear and bring waterproof clothing if rain is likely. Stay on marked paths, keep kids and dogs under control, and carry a map or GPS and a charged phone. Bring water and light snacks, and have a basic first aid kit. In winter be mindful of ice and shortened daylight.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Snack or energy bar",
+      "Map or offline map on phone",
+      "Fully charged phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Year-round, with the most enjoyable conditions in late spring to early autumn.",
+    "seo": {
+      "title": "Cross Chase Walk - Easy 1.7 km Hike in the UK",
+      "meta_description": "Explore Cross Chase Walk, a short and easy 1.7 km hike in the UK. Learn about terrain, safety, best seasons, and gear for a relaxed outdoor experience.",
+      "h1": "Cross Chase Walk: Easy 1.7 km Hike in the UK"
+    }
   }
 }

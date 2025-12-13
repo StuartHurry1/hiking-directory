@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 9424099
+  },
+  "ai": {
+    "summary": "Cuddy's Corse is a challenging long-distance hike in the UK, spanning 30.4 km and rated hard. It’s best undertaken by experienced hikers seeking a demanding day or multi-day trek, with varied terrain and sustained elevation.",
+    "terrain_summary": "The route traverses a mix of established paths, rough moorland, rocky sections, and possible boggy ground. Expect steep ascents and descents, uneven footing, and remote stretches where navigation skills are important. UK weather can be changeable, so be prepared for exposed sections and variable conditions.",
+    "safety_notes": "Check weather and daylight hours before starting; UK conditions can change rapidly. Carry a map and compass and know how to use them; ensure your phone is charged with offline maps as a backup. Inform someone of your planned route and ETA. Bring sufficient water and high-energy food for the distance; plan for rest breaks. Wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Be prepared for boggy ground, uneven footing, and possible navigation challenges; stay on marked paths when possible. Pack a first aid kit, whistle, headlamp, and an emergency shelter or space blanket; know basic first aid and what to do if you get lost.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable layer clothing + insulation",
+      "Waterproof jacket and pants",
+      "Backpack with rain cover",
+      "Water and high-energy food for a full day",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (hat, sunscreen)",
+      "Emergency bivy or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are generally the best times in the UK, though weather remains variable; start early to maximize daylight.",
+    "seo": {
+      "title": "Cuddy's Corse – 30.4 km Hard Hike in the UK",
+      "meta_description": "A guide to Cuddy's Corse, a 30.4 km hard hike in the UK. Learn about terrain, safety considerations, gear, and the best seasons for this challenging long-distance route.",
+      "h1": "Cuddy's Corse: 30.4 km Hard Hike in the UK"
+    }
   }
 }

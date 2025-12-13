@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19763992
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the historic Cross Borders Drove Road from Traquair to Hawick in the Scottish Borders. At 63.2 km, it is rated hard and is typically tackled as a multi-day trek by experienced hikers, though a well-prepared day hike is possible for very fit walkers. The route offers remote upland scenery, border-country history, and a mix of road, track, and rural paths.",
+    "terrain_summary": "Primarily a drove road with mixed surfaces: sealed road in places, compacted track, and muddy sections. Expect rolling countryside, occasional longer ascents, and remote stretches with limited facilities. Navigation and planning are important in poor weather or when signage is sparse.",
+    "safety_notes": "Plan thoroughly for a long trek and consider splitting the route into two days. Carry a map and compass or GPS, and know your start and end points. Weather in the Scottish Borders can change rapidly; bring appropriate clothing and emergency shelter. Water and food may be scarce along the route, so carry enough supplies. Wear sturdy boots, use sun protection in warm weather, and carry a basic first-aid kit and a whistle. Inform someone of your itinerary and expected times, and be mindful of road traffic on open sections and livestock movements.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, insulating layer, and a waterproof outer shell)",
+      "Rucksack (20–40 L) with waterproof cover",
+      "Water supply and high-energy snacks (and a means to purify water if needed)",
+      "Map and compass or GPS device (plus fully charged backup battery)",
+      "Headlamp or flashlight with extra batteries",
+      "Weather protection: hat, gloves, and waterproof jacket and pants",
+      "Basic first aid kit and personal medications",
+      "Emergency blanket or bivy sack",
+      "Mobile phone with portable charger and offline mapping",
+      "Trekking poles (optional but helpful on long distances)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) are best, offering longer days and more favorable weather. Summer can be busy and dry, while winter seasons bring shorter daylight, more exposure, and higher risk of muddy or icy conditions.",
+    "seo": {
+      "title": "Cross Borders Drove Road (Traquair to Hawick) – 63.2 km Hard Hike in the Scottish Borders, UK",
+      "meta_description": "Plan a 63.2 km hard hike along the Cross Borders Drove Road from Traquair to Hawick in the Scottish Borders. Remote scenery, historic drove roads, and challenging terrain ideal for experienced hikers.",
+      "h1": "Cross Borders Drove Road: Traquair to Hawick Hike"
+    }
   }
 }

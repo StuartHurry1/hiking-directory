@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 1603791
+  },
+  "ai": {
+    "summary": "The Cumbria Coastal Way is a demanding long-distance coastal route along the UK’s Cumbria coast, spanning about 491 km. It combines rugged cliff paths, beach sections, and exposed coastal moorland with frequent sea views and variable weather.",
+    "terrain_summary": "Expect sections of steep, rocky cliff trails, eroding paths, beach and tidal shores, wet grassy moors, stony shorelines, and some road crossings. Navigation can be tricky in fog or rough seas; several parts are exposed to wind and rain.",
+    "safety_notes": "Check tide times for sections that cross beaches or require river/estuary crossings. UK coastal weather can be severe and change rapidly—bring adequate clothing and a waterproof layer. Wear sturdy boots with good grip; stay away from unstable cliff edges and wet rocks after rain. Carry a map and compass (or GPS), plus a charged phone, power bank, and a means for signaling emergencies. Plan for limited services along the route and arrange accommodation or camping in advance. Inform someone of your plan and expected timings.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and waterproof trousers",
+      "Warm layers (fleece or insulated layer)",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS device) and/or offline maps",
+      "Phone with power bank and emergency contact information",
+      "Headlamp or flashlight with extra batteries",
+      "Basic first aid kit",
+      "Whistle and emergency blanket",
+      "Rain cover or pack liner"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are ideal, offering longer daylight and generally milder conditions, though wind and rain can occur year-round.",
+    "seo": {
+      "title": "Cumbria Coastal Way: A 491 km Hard Coastal Trek in the UK",
+      "meta_description": "Plan your adventure on the Cumbria Coastal Way, a challenging 491 km coastal route along the UK’s Cumbria coast. Practical safety tips and gear for rugged shoreline hiking.",
+      "h1": "Cumbria Coastal Way – 491 km of UK Coastal Hiking (Hard)"
+    }
   }
 }

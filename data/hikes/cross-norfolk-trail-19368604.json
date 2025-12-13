@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 19368604
+  },
+  "ai": {
+    "summary": "Cross-Norfolk Trail is a long-distance hike covering 306.5 km across UK countryside. Classified as hard, it traverses varied terrain and demands good fitness, planning, and navigation. The route offers diverse scenery, from farmland and river corridors to marshland and occasional coastal edges, with multiple staging points and potential weather changes.",
+    "terrain_summary": "Expect a mix of rural lanes, hedgerows, fields, marshes, riverbanks, and woodland. Sections may be boggy after rain, with long flat stretches and gentle ascents. Navigation aids are helpful in remote areas, and weather can change quickly, especially near coastlines.",
+    "safety_notes": "Plan thoroughly before starting: obtain up-to-date maps and navigation tools; check weather forecasts and tide timings if coastal sections are involved; inform someone of your itinerary and expected return; carry sufficient water (3–4 L) and high-energy food; wear sturdy waterproof boots and layered clothing; bring a first aid kit, whistle, and emergency shelter; stay on marked paths where possible; be prepared for mud, exposure, and delays; be mindful of wildlife and livestock; have back-up plans for shortened days if weather turns poor.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Map and compass or GPS",
+      "Water bottle or hydration system (3–4 L total)",
+      "Snacks and high-energy food",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency shelter or bivvy bag",
+      "Hat and gloves for cold",
+      "Sunscreen and insect repellent",
+      "Trekking poles (optional)",
+      "Whistle and multipurpose tool",
+      "Charged phone with offline maps",
+      "Spare batteries/power bank",
+      "Rain pants",
+      "Basic gear repair kit"
+    ],
+    "best_seasons": "May to September (late spring through early autumn) generally offers the best weather and daylight; hiking is possible year-round with proper planning for mud, cold, and coastal winds.",
+    "seo": {
+      "title": "Cross-Norfolk Trail — 306.5 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore the 306.5 km Cross-Norfolk Trail in the United Kingdom. A challenging long-distance hike through varied countryside with practical safety tips and gear recommendations.",
+      "h1": "Cross-Norfolk Trail: 306.5 km Hard-Distance Hike in the UK"
+    }
   }
 }

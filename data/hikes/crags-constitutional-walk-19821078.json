@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19821078
+  },
+  "ai": {
+    "summary": "The Crags Constitutional Walk is a 6.2 km moderate hike in the United Kingdom. The route combines rocky crags with rolling countryside, offering a balanced day on the trail. Suitable for hikers with some experience; expect uneven surfaces, gentle climbs, and potential muddy sections. Check local conditions and be prepared for exposure near crags.",
+    "terrain_summary": "Variable terrain with rocky paths and grassy trails, uneven footing, loose gravel, and occasional steps or stile. Some sections may be steep or narrow near crags, and mud is common after rain. The route includes a mix of gentle and moderate ascents and descents.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Always check the forecast and be prepared for sudden changes in wind or rain when near exposed crags. Stay on marked paths, heed signs, and watch for loose rocks. Bring a map or offline GPS, a charged phone, and let someone know your plan and expected return time. Carry water and snacks, a basic first aid kit, sun protection in sunny weather, and a light source if you might be out near dusk.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (waterproof jacket and warm layer)",
+      "Water bottle or hydration system",
+      "Map and/or offline GPS",
+      "Phone with portable charger",
+      "Small daypack",
+      "Snacks or energy bars",
+      "Basic first aid kit",
+      "Hat and sunscreen",
+      "Headlamp or flashlight (if evenings are possible)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are typically best for this walk, when paths are drier and daylight is longer. After wet periods or in winter, conditions can be more challenging and exposed.",
+    "seo": {
+      "title": "Crags Constitutional Walk – 6.2 km Moderate Hike in the UK",
+      "meta_description": "Explore Crags Constitutional Walk, a 6.2 km moderate hike in the United Kingdom. Learn about terrain, safety tips, and gear for a rewarding day on the trail.",
+      "h1": "Crags Constitutional Walk"
+    }
   }
 }

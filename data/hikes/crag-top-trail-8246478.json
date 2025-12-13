@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8246478
+  },
+  "ai": {
+    "summary": "Crag Top Trail is a short, easy 3.4 km hike in the UK designed for beginners and families. The route combines grassy footpaths with occasional rocky sections and mild elevation, delivering pleasant views with light exertion.",
+    "terrain_summary": "The trail generally follows a well-defined path. Expect a mix of smooth grassy sections, compacted earth, and short, uneven rocky patches near exposed crags. Elevation gain is mild, with a few gentle rises and optional viewpoints along the way. The surface can be slippery when wet, so sturdy footwear is advised.",
+    "safety_notes": "- Check weather and daylight hours before you go. - Stay on the marked path; rocky sections can be unstable. - Wear sturdy, waterproof footwear. - Bring water and snacks. - In the UK, weather can change quickly; carry a lightweight layer. - If conditions are poor or visibility is low, postpone the hike. - Inform someone of your plans or hike with a partner.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Layers for changing weather",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline navigation app",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Snacks"
+    ],
+    "best_seasons": "All year, with the best conditions typically in spring through autumn; in winter be prepared for colder weather and shorter daylight hours.",
+    "seo": {
+      "title": "Crag Top Trail – Easy 3.4 km Hike in the UK",
+      "meta_description": "Plan your Crag Top Trail hike in the UK. An easy 3.4 km route with gentle terrain, safety tips, gear recommendations, and best seasons for hiking.",
+      "h1": "Crag Top Trail – Easy 3.4 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 10383474
+  },
+  "ai": {
+    "summary": "Crowan FP 57 Ground truth is a very short, easy hike in the UK, about 0.5 km. It’s ideal for beginners, families, and a quick outdoor stroll. The route is straightforward with minimal elevation and clear wayfinding.",
+    "terrain_summary": "Flat, well-marked path with a smooth surface and gentle grades. Minimal technical terrain, suitable for most walkers including those with strollers on accessible segments where permitted.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy, comfortable footwear. Stay on the designated path and respect any livestock or wildlife. Bring water, a charged phone, and a light layer; use reflective gear if walking at dusk or in low visibility conditions.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Weather-appropriate layer",
+      "Sun protection (hat and sunscreen)",
+      "Phone with GPS or map"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the hike is achievable year-round in mild weather.",
+    "seo": {
+      "title": "Crowan FP 57 Ground truth – Easy 0.5 km Hike in the UK",
+      "meta_description": "Discover Crowan FP 57 Ground truth, a short and easy 0.5 km hike in the UK. Perfect for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Crowan FP 57 Ground truth – 0.5 km Easy Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10383473
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km hike in the United Kingdom suitable for beginners and families, offering gentle terrain and light scenery.",
+    "terrain_summary": "Predominantly gentle footpaths and grassy tracks with occasional compact surfaces. Expect well-defined paths, wet conditions possible, and uneven ground in places.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Wear sturdy, comfortable footwear and bring waterproof layers. Carry water and a small snack. Stay on marked paths, heed any signs, and be mindful of other users. Let someone know your plans and have a means of contact in case of emergency.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots with good grip",
+      "Water bottle and light snacks",
+      "Breathable waterproof jacket",
+      "Lightweight backpack",
+      "Map or offline GPS on a phone",
+      "Hat and sun protection (on sunny days)",
+      "Fully charged phone and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the most comfortable conditions; can be done year-round with proper gear and daylight.",
+    "seo": {
+      "title": "Crowan BR 56 Ground Turth – Easy 1.2 km UK Hike",
+      "meta_description": "Explore Crowan BR 56 Ground Turth, an easy 1.2 km hike in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this short countryside walk.",
+      "h1": "Crowan BR 56 Ground Turth — Easy 1.2 km UK Hike"
+    }
   }
 }

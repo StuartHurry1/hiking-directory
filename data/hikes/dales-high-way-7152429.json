@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 7152429
+  },
+  "ai": {
+    "summary": "An epic, hard-distance trek across the UK’s upland and dale country. The Dales High Way covers about 530.6 km with persistent elevation gains, remote sections, and varied terrain, demanding solid planning, navigation, and multi-day stamina.",
+    "terrain_summary": "Varied terrain including rolling dales, moorland, limestone country, farm lanes, and exposed ridgelines. Expect rocky paths, wet tracks, long ascents, and occasional river crossings. Remote stretches with limited services; good navigation and reliable gear essential.",
+    "safety_notes": "Prepare for a hard, multi-day trek: check weather forecasts, carry maps and compass (and/or GPS with extra batteries), and have a plan for times of poor visibility. Carry ample water and food, a means to treat water, and an emergency shelter. Inform someone of your itinerary, carry a charged phone with offline maps and a power bank, and wear appropriate clothing and footwear. Be mindful of fatigue, weather changes, and remote sections with limited help.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and waterproof pants",
+      "Layered clothing (base layer, mid-layer, insulating layer)",
+      "Topographic map and compass (and/or GPS with extra batteries)",
+      "Headlamp with spare batteries",
+      "Trekking poles",
+      "Water bottle or hydration system (2–3 liters) with water treatment options",
+      "Emergency shelter or bivvy bag",
+      "First aid kit for multi-day hikes",
+      "High-energy food and snacks; meal planning supplies",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Whistle and multi-tool",
+      "Insulated blanket or liner for emergencies",
+      "Waterproof backpack cover",
+      "Phone with offline maps and portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best conditions with longer days; plan for frequent rain and variable weather; winter hiking is possible for experienced trekkers with cold-weather gear and shorter days.",
+    "seo": {
+      "title": "Dales High Way – UK Long-Distance Hike (530.6 km, Hard)",
+      "meta_description": "Plan your Dales High Way trek: a hard, 530.6 km long-distance route in the UK. Terrain overview, safety notes, gear recommendations, best seasons, and planning essentials.",
+      "h1": "Dales High Way: UK Long-Distance Hike (530.6 km, Hard)"
+    }
   }
 }

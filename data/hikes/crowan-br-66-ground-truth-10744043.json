@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10744043
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km hike in the UK suitable for families and casual walkers. The route follows gentle, well-marked paths through a rural setting, with minimal elevation and pleasant, accessible terrain.",
+    "terrain_summary": "Mostly flat, well-maintained paths with occasional grassy or compacted-earth sections. Expect light mud after rain, occasional gates or stiles, and minimal elevation change.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear, bring a light waterproof layer and enough water. Stay on the marked path, watch for livestock or farm crossings, and carry a charged phone. Let someone know your plans and check in when you return.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle (1–2 liters)",
+      "Light waterproof jacket and warm layer",
+      "Hat and sunscreen for sunny days",
+      "Map, compass or offline GPS; fully charged phone",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–September) offer milder weather and longer daylight. Winter can be wet and muddy with shorter daylight hours.",
+    "seo": {
+      "title": "Crowan BR 66 Ground Truth – Easy 1.7 km UK Hike",
+      "meta_description": "Discover the easy 1.7 km Crowan BR 66 Ground Truth trail in the UK. Flat terrain, family-friendly pathway, practical safety tips and gear recommendations.",
+      "h1": "Crowan BR 66 Ground Truth – Easy 1.7 km UK Hike"
+    }
   }
 }

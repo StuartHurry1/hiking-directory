@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13335426
+  },
+  "ai": {
+    "summary": "A short, easy 1.3 km hike in the UK. The route (Crowan BR 142) offers a gentle walk suitable for beginners and families, with minimal elevation and well-marked paths.",
+    "terrain_summary": "Gentle, well-defined paths with easy footing. Typically flat with occasional uneven sections; conditions may vary with weather, so be prepared for mud or damp ground.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear, bring a waterproof layer, and carry water. Stay on marked paths, mind other walkers, and plan for shorter daylight hours in winter. If traveling with children or mobility concerns, assess suitability in advance.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or trainers",
+      "Light rain jacket or waterproof shell",
+      "Sun protection (hat, sunscreen)",
+      "Light snack",
+      "Map, GPS device, or fully charged phone",
+      "Small first aid kit (blister care, basic supplies)",
+      "Layered clothing for changing conditions"
+    ],
+    "best_seasons": "All year, with the most comfortable conditions in late spring to early autumn. Be prepared for cooler, wetter weather outside of the summer months.",
+    "seo": {
+      "title": "Crowan BR 142 - 1.3 km Easy Hike in the UK",
+      "meta_description": "Explore a short, easy 1.3 km hike along Crowan BR 142 in the United Kingdom. Ideal for beginners and families. Includes safety tips and gear suggestions.",
+      "h1": "Crowan BR 142 – 1.3 km Easy Hike in the UK"
+    }
   }
 }

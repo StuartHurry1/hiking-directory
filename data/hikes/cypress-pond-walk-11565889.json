@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11565889
+  },
+  "ai": {
+    "summary": "Cypress Pond Walk is a 6.4 km moderate hike in the UK, offering a pleasant loop with pondside scenery, gentle woodland paths, and a mix of surfaces suitable for most hikers.",
+    "terrain_summary": "The route features a mix of well-maintained gravel paths, compact forest tracks, and sections of soft ground near the pond. Expect some gentle elevation changes and a few slippery patches after rain; footwear with good grip is recommended.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy hiking boots and bring a waterproof layer. Stay on marked paths, keep an eye out for slippery pond edges, and carry water and a small first aid kit. If cycling or other trail users share the route, give way and remain aware. In remote UK areas, carry a charged phone and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or offline GPS",
+      "Sun protection (hat, sunscreen)",
+      "Mobile phone",
+      "Small first aid kit",
+      "Snack"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions with longer daylight and drier trails; summer is busy but generally fine, while winter can be muddy and visibility may be reduced.",
+    "seo": {
+      "title": "Cypress Pond Walk – 6.4 km Moderate Hike in the UK",
+      "meta_description": "Explore Cypress Pond Walk, a 6.4 km moderate hike in the United Kingdom. Enjoy pondside scenery, mixed terrain, and practical safety tips for a great day out.",
+      "h1": "Cypress Pond Walk: A 6.4 km Moderate UK Hike"
+    }
   }
 }

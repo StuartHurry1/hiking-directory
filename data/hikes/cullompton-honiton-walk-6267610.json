@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 6267610
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along a point-to-point route from Cullompton to Honiton, totaling 90.1 km. The trail traverses rural UK countryside with hedgerows, farmland and occasional minor roads, requiring good navigation and fitness. Expect undulating terrain and variable weather; suitable for experienced hikers comfortable with long distances.",
+    "terrain_summary": "Primarily rural countryside with a mix of undulating fields, hedgerows, woodlands and occasional road sections. Expect uneven footpaths, stiles, intermittent boggy areas after rain, and some exposed stretches. Navigation is generally straightforward on markers, but carry map/compass for reliability in less-tracked sections.",
+    "safety_notes": "This is a hard, long-distance hike. Plan for multi-day trips or long days with adequate daylight. Bring navigation tools (map/compass or GPS), a fully charged phone, and a plan for the route. Check weather and daylight hours, as UK conditions can change rapidly. Carry sufficient food and water, a first aid kit, a whistle, an emergency blanket, and an extra layer. Tell someone your plan and expected return. Wear sturdy boots and be cautious at road crossings and gates.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Insulating mid-layer (fleece or equivalent)",
+      "Hat and gloves (season dependent)",
+      "Map and compass or GPS device with charged backup",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system (2–3 litres)",
+      "High-energy foods and snacks",
+      "Small first aid kit",
+      "Whistle and emergency blanket or bivy",
+      "Headlamp or flashlight with spare batteries",
+      "Sunscreen and sunglasses",
+      "Extra socks and basic repair kit"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); deeper winter not recommended due to shorter daylight and harder conditions.",
+    "seo": {
+      "title": "Cullompton Honiton Walk – 90.1 km Hard-Distance Hike in the UK",
+      "meta_description": "Discover the 90.1 km Cullompton Honiton Walk, a demanding long-distance route across rural UK countryside. Learn about terrain, safety, best seasons, and essential gear.",
+      "h1": "Cullompton Honiton Walk – 90.1 km, a hard long-distance route in the UK"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 9797245
+  },
+  "ai": {
+    "summary": "A challenging 25.5 km circuit that links Craflwyn, Hafod y Llan and Llyn Dinas in the UK. The route combines steep climbs, rugged trails, and a mix of woodlands, moorland and lakes, demanding solid navigation skills and good stamina from experienced hikers.",
+    "terrain_summary": "Expect mixed terrain: steep ascents and descents, rocky and muddy sections, forest tracks, and exposed moorland near Llyn Dinas. Some steps and uneven surfaces require careful footing; weather can change quickly in the UK, so be prepared.",
+    "safety_notes": "This is a long, strenuous hike. Carry a detailed map and compass (or GPS), and know how to use them. Check the forecast and avoid exposed sections in high winds or heavy rain. Wear sturdy boots, bring sufficient water and food, and have a plan for rest breaks. Tell someone your route and expected return time. Carry a whistle, a first aid kit, and a charged phone with offline maps.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate layers (base layer, fleece, waterproof jacket and waterproof pants)",
+      "Backpack with rain cover",
+      "Water and high-energy snacks (2–3 L water; electrolyte drinks)",
+      "Map and compass; GPS device or offline map on phone",
+      "Fully charged phone and portable power bank",
+      "First aid kit",
+      "Headlamp or flashlight (with extra batteries)",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle",
+      "Trekking poles (optional but helpful)",
+      "Extra warm layer for colder conditions"
+    ],
+    "best_seasons": "Spring to Autumn. Winter conditions can be severe and slippery; plan accordingly.",
+    "seo": {
+      "title": "Craflwyn, Hafod y Llan and Llyn Dinas Walk – 25.5 km Hard Hike in the UK",
+      "meta_description": "Challenge yourself with a 25.5 km hike through Craflwyn, Hafod y Llan and Llyn Dinas in the UK. Steep ascents, rugged trails, and diverse scenery.",
+      "h1": "Craflwyn, Hafod y Llan and Llyn Dinas Walk"
+    }
   }
 }

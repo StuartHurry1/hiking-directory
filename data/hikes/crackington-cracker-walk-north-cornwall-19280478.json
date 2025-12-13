@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19280478
+  },
+  "ai": {
+    "summary": "An arduous coastal circuit in North Cornwall covering about 19 km along exposed cliff paths and beaches, offering dramatic sea cliffs, sweeping viewpoints, and rugged countryside around Crackington Harbour.",
+    "terrain_summary": "Rugged coastal terrain with cliff-top lanes, stony paths, muddy sections after rain, and a mix of long ascents and descents. Expect uneven ground, exposed cliff edges, occasional rocky steps, and some grassy tracks; conditions can be affected by tides and weather.",
+    "safety_notes": "Hard 19 km hike with potential long duration; plan for 6–8 hours. Wear sturdy boots and stay alert for uneven ground and cliff edges. Check tide times if route involves beach sections. Cornwall weather is changeable—carry a waterproof layer and wind protection. Carry map and compass or GPS, keep mobile phone charged, and inform someone of your route and ETA. Bring ample water and snacks, a basic first aid kit, and consider a whistle and lightweight emergency gear in case of delay or injury.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and a waterproof jacket/trousers",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Sun protection (hat, sunscreen)",
+      "Warm layers for wind chill",
+      "First-aid kit",
+      "Whistle",
+      "Headtorch with spare batteries",
+      "Mobile phone with portable charger",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (March–October) are ideal due to milder weather and longer daylight; winter hiking is possible but involves stronger winds, rough seas, and shorter daylight hours.",
+    "seo": {
+      "title": "Crackington Cracker Walk: A Hard 19 km Coastal Trek in North Cornwall",
+      "meta_description": "Tackle a challenging 19 km coastal hike in North Cornwall's Crackington area. Rugged cliffs, dramatic sea views, and remote paths. Gear tips, safety notes, and season guidance.",
+      "h1": "Crackington Cracker Walk – North Cornwall Coastal Challenge"
+    }
   }
 }

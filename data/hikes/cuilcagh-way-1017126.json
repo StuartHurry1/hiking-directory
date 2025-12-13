@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1017126
+  },
+  "ai": {
+    "summary": "A challenging 61.2 km hike around the Cuilcagh area in the UK, typically undertaken as a multi-day trek. The route features varied terrain—from forest trails to upland moor, rocky ridges, and limestone pavements—requiring good fitness, solid navigation, and weather readiness.",
+    "terrain_summary": "Expect a mix of woodland paths, open moorland, boggy sections, rocky steps, limestone pavements, and occasional boardwalks. Terrain can be uneven and wet; you may encounter gates, stiles, water crossings, and exposed ridgelines.",
+    "safety_notes": "Plan for a multi-day trek (route length suggests 2–4 days depending on pace). Weather in this region can change rapidly, bringing wind, rain, and cold conditions even in summer. Stay on waymarked paths where possible and carry a detailed map and compass as primary navigation tools (GPS as backup). Start early to maximize daylight and share your itinerary with someone. Prepare for boggy ground and mud, wear waterproof boots and layered clothing, and bring a first aid kit, emergency gear, and sufficient food and water. Have a means of communication and consider satellite messaging in remote sections. Respect private land boundaries and local access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Layered clothing (base layer, mid layer, outer shell)",
+      "Backpack with 20-40 L capacity",
+      "Water and a way to purify or filter",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Trekking poles (optional but helpful)",
+      "First aid kit and emergency whistle",
+      "Emergency shelter or bivy bag",
+      "High-energy snacks and meals",
+      "Sun protection (hat, sunscreen)",
+      "Mobile phone with offline maps and portable charger",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) generally offers the best weather and longer daylight for this long hike; shoulder seasons can also be workable but expect mud, wind, and rapidly changing conditions.",
+    "seo": {
+      "title": "Cuilcagh Way – 61.2 km Hard Hike in the UK",
+      "meta_description": "Plan your 61.2 km Cuilcagh Way trek. Get a concise terrain overview, safety tips, essential gear, best seasons, and practical planning advice for this challenging UK route.",
+      "h1": "Cuilcagh Way: 61.2 km Hard Hike in the UK"
+    }
   }
 }

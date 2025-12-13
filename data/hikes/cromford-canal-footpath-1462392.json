@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1462392
+  },
+  "ai": {
+    "summary": "The Cromford Canal Footpath is a long-distance hike along the historic Cromford Canal in the UK, totaling 49.1 km. The route mostly follows a flat canal towpath, but the distance makes it a serious undertaking. Expect variable surfaces, occasional mud after rain, and gate or bridge crossings. The hike offers industrial heritage scenery and tranquil waterway views, but it requires careful planning, sufficient daylight, and proper supplies.",
+    "terrain_summary": "Predominantly a canal towpath with a hard-packed surface. Mostly flat with occasional uneven patches, muddy sections after rain, and occasional gates or railings. Some parts run beside open water with exposed banks, so weather and wind can be factors on longer stretches.",
+    "safety_notes": "Treat this as a long-day trek or multi-day undertaking. Plan your start time to ensure daylight throughout. Tell someone your route and expected finish. Carry sufficient water and snacks; suitable water sources may be limited along the canal. Wear sturdy waterproof boots and dress in layers. The towpath can be slippery when wet, and canal edges can pose a drowning hazard, so stay away from the edge near locks. Mobile signal may be patchy in rural sections; carry a map and compass or GPS device. Check the forecast for rain and flood risk, and have a plan to turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Daypack with water bladder or bottles",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water and high-energy snacks",
+      "Basic first aid kit",
+      "Headlamp or small torch",
+      "Sun protection: sunscreen, hat",
+      "Insect repellent",
+      "Lightweight emergency shelter or space blanket",
+      "Lightweight rain pants or gaiters",
+      "Trekking poles (optional)",
+      "Cash or card and identification"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers longer daylight and milder conditions; winter hikes are possible but often muddy, cold, and with shorter daylight.",
+    "seo": {
+      "title": "Cromford Canal Footpath – 49.1 km Hard Hike in the UK",
+      "meta_description": "Discover the Cromford Canal Footpath, a 49.1 km hard-distance hike along a historic UK canal towpath. Terrain overview, safety tips, gear suggestions, and best seasons.",
+      "h1": "Cromford Canal Footpath – 49.1 km Hard Hike in the UK"
+    }
   }
 }

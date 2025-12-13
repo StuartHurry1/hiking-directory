@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17366844
+  },
+  "ai": {
+    "summary": "Cuckoo Lane is a short, easy walk in the UK. At about 1.9 km, it offers a gentle circuit through rural scenery with hedgerows, grassy paths, and occasional gates. The route is ideal for a relaxed morning or afternoon stroll.",
+    "terrain_summary": "Flat to gently undulating country paths, grass and compact trails, may become muddy after rain. Expect gates, stiles, and occasional roadside sections. Limited shade in open sections.",
+    "safety_notes": "Check the weather before you go. Wear sturdy footwear and dress in layers. Stay on marked paths, watch for gates and stiles, and be mindful of livestock. Carry a phone with emergency numbers, a small first aid kit, and water. If walking near roads, stay alert and keep children and dogs under control. In low light, carry a light and wear high-visibility clothing.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and a small snack",
+      "Light rain jacket",
+      "Sun protection (sunscreen, hat)",
+      "Map, compass or GPS-enabled device",
+      "Small first aid kit",
+      "Phone and portable charger",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn; walkable year-round with proper clothing and daylight considerations.",
+    "seo": {
+      "title": "Cuckoo Lane Hike – Easy 1.9 km in the UK",
+      "meta_description": "Explore the easy 1.9 km Cuckoo Lane hike in the UK. A gentle rural circuit suitable for beginners, with terrain notes, safety tips, and gear recommendations.",
+      "h1": "Cuckoo Lane: Easy 1.9 km UK Hike"
+    }
   }
 }

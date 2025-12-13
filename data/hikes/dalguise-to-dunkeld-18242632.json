@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 18242632
+  },
+  "ai": {
+    "summary": "A challenging 22.8 km hike from Dalguise to Dunkeld in Scotland. The route weaves through forested trails, river valleys, and exposed upland sections, featuring significant elevation and long daylight hours. Best suited for experienced hikers with solid navigation and fitness; plan for a full-day outing.",
+    "terrain_summary": "Mixed terrain including woodland paths, grassy tracks, occasional boggy patches, and rocky or uneven ground. Expect steep ascents and descents in places, with some remote sections and limited waypoints. Weather can be changeable, so be prepared for exposure in higher parts.",
+    "safety_notes": "Check the local forecast before setting out and allow extra time for delays. Carry a map and compass (and know how to use them), plus a GPS or offline maps. Tell someone your route and expected return. Wear waterproof outer layers and bring warm clothing; carry enough water and high-energy food. Pack a first aid kit, whistle, head torch, emergency blanket, and a means to contact help; cell reception may be limited in remote areas. In severe weather or if you’re unsure of conditions, consider turning back.",
+    "recommended_gear": [
+      "Durable hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Insulating layer (fleece or down)",
+      "Waterproof pants or shell pants",
+      "Moisture-wicking base layers",
+      "Backpack with rain cover",
+      "Map and compass (and GPS if available)",
+      "Headlamp with extra batteries",
+      "Adequate water (2–3 liters) and high-energy snacks",
+      "First aid kit",
+      "Emergency whistle",
+      "Multitool or knife",
+      "Sunscreen, hat, and sunglasses",
+      "Gloves and extra socks",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (approximately April to October) offers longer daylight and generally better weather. Winter hiking is possible but more demanding due to shorter days, colder temperatures, and higher risk of ice and storms.",
+    "seo": {
+      "title": "Dalguise to Dunkeld: 22.8 km Hard Hike in Scotland",
+      "meta_description": "Explore the Dalguise to Dunkeld hike in Scotland. A 22.8 km challenging route through Perthshire’s forests and uplands with practical safety tips and gear.",
+      "h1": "Dalguise to Dunkeld: 22.8 km Hard Hike in Scotland"
+    }
   }
 }

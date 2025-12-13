@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11480261
+  },
+  "ai": {
+    "summary": "The Cunningsburgh Circular is a 6.2 km circular hike in the UK, starting and ending near Cunningsburgh. The route travels grassy moorland and rugged coastal paths with sea views, returning to the start. It is rated moderate due to uneven ground and exposed sections. Allow 2–3 hours at a comfortable pace.",
+    "terrain_summary": "Mix of grassy tracks, damp moorland, rocky outcrops, and short sections of coastal path. Ground can be uneven with tussocks and occasional boggy patches; fences and stiles may be encountered. Winds from the coast are common and weather can change rapidly, so good footwear and windproof layers are recommended.",
+    "safety_notes": "Check local weather and tide conditions before you go. The coast can be exposed and seas may be rough. Wear sturdy footwear, bring waterproof clothing, and carry extra layers. Stay on marked paths, inform someone of your plans, and carry a map or offline navigation. Bring sufficient water and snacks, a basic first aid kit, a whistle, and a charged phone for emergencies. In reduced visibility, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and waterproof pants",
+      "Warm layers (fleece or sweater)",
+      "Hat and gloves",
+      "Water and snacks",
+      "Map or offline navigation app plus compass",
+      "Charged mobile phone",
+      "Small first-aid kit",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Pack cover or waterproof bag",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May to September for milder, drier conditions; the hike is doable year-round with appropriate clothing, but winter winds and shorter daylight hours increase risk.",
+    "seo": {
+      "title": "Cunningsburgh Circular Hike – 6.2 km Moderate Coastal Walk in Shetland, UK",
+      "meta_description": "Discover the Cunningsburgh Circular, a 6.2 km moderate coastal hike in Shetland, UK. Enjoy grassy moorland, rugged coastline, and sea views with practical safety and gear tips.",
+      "h1": "Cunningsburgh Circular – 6.2 km Moderate Coastal Walk in Shetland, UK"
+    }
   }
 }

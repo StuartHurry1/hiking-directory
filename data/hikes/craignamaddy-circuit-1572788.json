@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1572788
+  },
+  "ai": {
+    "summary": "The Craignamaddy Circuit is a challenging 32.3 km circular hike in the UK. As a hard route, it traverses varied, exposed terrain over a full day of walking, with multiple ascents and long stretches of moorland and rocky ground. Expect remote sections, changing weather, and a need for solid navigation and fitness.",
+    "terrain_summary": "A long-distance circuit with mixed terrain: open moorland, rocky footing, potential boggy sections, and uneven gradients. The route includes exposed stretches where weather can impact visibility and footing; plan for a full day of walking with minimal shelter in places.",
+    "safety_notes": "Carry a current map and compass (or a GPS device) and know how to navigate. Check weather forecasts and be prepared for sudden changes. Start early to maximize daylight and keep a steady pace to avoid exhaustion. Tell someone your planned route and timings. Stay hydrated, bring sufficient food, and carry a waterproof layer and warm clothing. In remote areas, be aware of navigation hazards, sudden bog, loose rocks, and exposure; carry a whistle and a basic first-aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Insulating layer",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline map",
+      "Water and high-energy snacks",
+      "Emergency bivvy or space blanket",
+      "First aid kit",
+      "Trekking poles (optional)",
+      "Headtorch with spare batteries"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) generally offers the best conditions and daylight. Summer provides long days, but weather can still be variable; winter hiking on this route is best avoided by those without alpine hiking experience.",
+    "seo": {
+      "title": "Craignamaddy Circuit Hiking Guide | 32.3 km Hard Walk in the UK",
+      "meta_description": "Plan your Craignamaddy Circuit hike in the UK. A 32.3 km hard circuit featuring mixed terrain, exposure, and rugged moorland. Safety tips, gear list, and best seasons included.",
+      "h1": "Craignamaddy Circuit – 32.3 km Hard Hike in the UK"
+    }
   }
 }

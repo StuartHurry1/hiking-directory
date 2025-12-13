@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19763990
+  },
+  "ai": {
+    "summary": "A challenging 18 km hike along the historic Cross Borders Drove Road from Harperrig to West Linton in the UK. The route combines open moorland, rough drove tracks, and quiet country lanes, with long sections away from shelter and several steep or uneven stretches. Suitable for experienced hikers with good navigation and fitness, and variable weather.",
+    "terrain_summary": "Rough drove road and grassy tracks, with rocky and uneven sections, occasional road walking, marshy or wet ground, and exposed open country. Expect long distances between suitable landmarks or shelter and some ascent/descent.",
+    "safety_notes": "This is a hard, long route with variable ground underfoot and potential navigation challenges in exposed country. Check weather and daylight, as conditions can change quickly in the UK. Wear sturdy boots, bring waterproofs, and carry map and compass as GPS may fail. Let someone know your planned route and expected return. Be mindful of traffic on road sections and livestock crossings. Carry sufficient water and snacks, plus a basic first aid kit and a means to call for help. Mobile signal may be poor in remote stretches; carry a charged phone and power bank.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Map and compass (backup GPS)",
+      "Sufficient water and high-energy snacks",
+      "Warm layers and hat/gloves",
+      "Basic first aid kit",
+      "Headtorch or flashlight with spare batteries",
+      "Emergency whistle",
+      "Mobile phone with power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to October) typically offers the best conditions with longer daylight and drier tracks; outside this window, colder, wetter, and windier weather can make the route significantly more challenging.",
+    "seo": {
+      "title": "Cross Borders Drove Road Walk: Harperrig to West Linton – 18 km Hard Hike",
+      "meta_description": "A detailed guide to the 18 km Cross Borders Drove Road hike from Harperrig to West Linton in the UK. Learn about terrain, safety, gear, and the best seasons for this challenging route.",
+      "h1": "Cross Borders Drove Road: Harperrig to West Linton – 18 km Hard Hike"
+    }
   }
 }

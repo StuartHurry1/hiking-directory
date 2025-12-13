@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 289337
+  },
+  "ai": {
+    "summary": "The Cuckoo Way is a challenging long-distance hike in the UK, covering about 112 km. Classified as hard, it suits experienced trekkers prepared for multi-day trekking, varied terrain, and changing weather.",
+    "terrain_summary": "Terrain is varied: rural paths, farmland edges, woodland trails, and sections of moorland or exposed ground. Expect uphill climbs, uneven surfaces, gates and stiles, and occasional muddy or rocky stretches. Some segments are lightly waymarked, so good navigation is important.",
+    "safety_notes": "Plan a multi-day itinerary with overnight stops or permitted camping. Check the forecast and be prepared for rapid weather changes common in the UK. Carry a map and compass (and know how to use them) or a reliable GPS. Inform someone of your route and expected return. Pack enough food and water; consider water treatment for natural sources. Wear sturdy boots, dress in layers, and carry a waterproof outer layer. Bring a first aid kit, whistle, and emergency shelter. Stay on official rights of way, respect farmland and livestock, and follow the Countryside Code. Be prepared for mud, boggy ground, and wind on exposed sections; adjust plans if safety is compromised.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof breathable jacket and pants",
+      "Insulating layer (fleece or down)",
+      "Hat and gloves",
+      "Backpack with rain cover",
+      "Map and compass (plus GPS as backup) and the know-how to use them",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Water bottle or hydration system (2–3 liters total) and water treatment option",
+      "High-energy food and snacks",
+      "Lightweight shelter (tent or bivy) and sleeping bag if camping",
+      "Emergency blanket",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Spare batteries and portable charger",
+      "Personal ID and emergency contact information"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) is typically best in the UK, offering longer daylight and generally drier trails. Be prepared for damp conditions and shorter days outside this window.",
+    "seo": {
+      "title": "Cuckoo Way – 112 km Hard UK Hike",
+      "meta_description": "Discover the Cuckoo Way, a challenging 112 km long-distance hike in the UK. Get terrain details, safety tips, gear recommendations, and best seasons for planning this trek.",
+      "h1": "Cuckoo Way: 112 km Hard-Distance Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16127520
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Creag Mèagaidh Trail in the UK, spanning about 34.5 km. This hard route requires endurance, solid navigation, and sturdy footwear, with varied terrain and significant elevation changes that can take a full day or more depending on pace.",
+    "terrain_summary": "Expect a mix of rocky ascent paths, open moorland, boggy sections, and forest tracks. The trail can be exposed at higher elevations, with frequent changes in footing and potentially wet, muddy stretches. Navigation and map-reading are important, as the route may cross uncertain or unmarked sections in places.",
+    "safety_notes": "This is a hard 34.5 km hike in the UK. Plan for a long day or overnight trek. Check weather forecasts; conditions can change rapidly. Bring a detailed map and compass (GPS as backup). Stay on the marked route where possible; in uncertain sections, slow down and reassess. Inform someone of your plan and expected finish time. Start early to allow daylight. Carry enough water and food, and have extra layers and waterproof clothing. Wear sturdy boots with ankle support. Be aware of fatigue and turn back if signs of hypothermia, dehydration, or injury appear. In remote areas, consider carrying a lightweight emergency bivy and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and warm layers",
+      "Breathable base and mid layers, spare socks",
+      "Map and compass (GPS as backup)",
+      "Fully charged mobile device with offline maps",
+      "Hydration system or ample water (2–3 liters or more)",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle",
+      "First aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Emergency bivy or space blanket",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight hours are longer and weather is milder. Winter hikes on this route are more challenging due to snow, ice, and reduced daylight.",
+    "seo": {
+      "title": "Creag Mèagaidh Trail – 34.5 km Hard Hike in the UK",
+      "meta_description": "Explore the Creag Mèagaidh Trail, a demanding 34.5 km hike in the UK. Get safety tips, gear recommendations, and best seasons for this challenging route.",
+      "h1": "Creag Mèagaidh Trail – 34.5 km Hard Hike"
+    }
   }
 }

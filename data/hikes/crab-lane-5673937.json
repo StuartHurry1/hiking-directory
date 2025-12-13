@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 5673937
+  },
+  "ai": {
+    "summary": "Crab Lane is a short, easy 3 km hike in the UK suitable for beginners. The route typically features gentle terrain and minimal elevation gain, making it a relaxed choice for a daytime outdoor stroll. The exact regional setting is not specified.",
+    "terrain_summary": "Expect flat or gently rolling paths, likely a mix of gravel tracks, grassy lanes, and possibly mud after rain. The region is unknown, so terrain can vary; bring suitable footwear and be prepared for changing conditions.",
+    "safety_notes": "Check the weather forecast before starting; UK conditions can change quickly. Wear sturdy footwear, stay on marked paths, and be mindful of mud or puddles. If the path is shared with cyclists or horse riders, give way and stay to the side. Carry a phone or map, tell someone your plan, and bring water and a small first-aid item for minor injuries.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof shell if rain is forecast)",
+      "Map or offline navigation (or fully charged phone with GPS)",
+      "Snack or light meal",
+      "Hat and sunscreen (sunny days)",
+      "Small first aid kit",
+      "Light rain protection (packable poncho or rain jacket)"
+    ],
+    "best_seasons": "All year round with proper gear; spring and summer offer the driest, most comfortable conditions, while autumn can be pleasant though wetter and muddier.",
+    "seo": {
+      "title": "Crab Lane Hike – 3km Easy Walk in the UK",
+      "meta_description": "Discover Crab Lane, a gentle 3 km hike in the UK. Easy terrain, practical safety tips, gear recommendations, and the best seasons to go.",
+      "h1": "Crab Lane: A 3 km Easy Hike in the UK"
+    }
   }
 }

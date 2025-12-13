@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507991
+  },
+  "ai": {
+    "summary": "A short, easy 1 km hike in the UK featuring Cure Water and Stubba Water. Ideal for beginners, families, and anyone seeking a quick, river-side stroll with gentle terrain.",
+    "terrain_summary": "Mostly flat to gently rolling paths along watercourses, with grassy sections, occasional boardwalks, and potential muddy patches after rain. Expect exposed roots and damp edges near the water.",
+    "safety_notes": "- Stay on marked trails and be cautious of slippery surfaces near the water. - Check weather and flood warnings; rivers can rise quickly. - Wear sturdy footwear with good grip. - Keep children and dogs close; supervise near banks. - Bring water, a small first-aid kit, and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or waterproof boots",
+      "Light rain jacket or layer appropriate for the season",
+      "Water bottle and small snack",
+      "Map or offline GPS access",
+      "Hat and sunscreen (seasonal)",
+      "Phone with emergency contacts and a basic first-aid kit"
+    ],
+    "best_seasons": "Spring and autumn for milder weather and pleasant scenery; the hike is doable year-round with appropriate gear and daylight.",
+    "seo": {
+      "title": "Cure Water & Stubba Water: Easy 1 km Hike in the UK",
+      "meta_description": "Discover a short, easy 1 km hike in the UK along Cure Water and Stubba Water. Terrain overview, safety tips, and gear recommendations.",
+      "h1": "Cure Water & Stubba Water — Easy 1 km Hike in the UK"
+    }
   }
 }

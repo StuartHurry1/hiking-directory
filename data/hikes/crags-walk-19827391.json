@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19827391
+  },
+  "ai": {
+    "summary": "Crags Walk is a short, easy 3.4 km hike in the UK with region unspecified. It offers gentle terrain and distant crag views, making it suitable for beginners and families seeking a relaxed day outdoors.",
+    "terrain_summary": "Predominantly gentle, well-marked paths with some rocky sections near crags. Expect grassy and compact earth trails; mud can occur after rain; footing can be uneven in places.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear and appropriate clothing; stay on the marked path and away from cliff edges; keep children close; carry water and a light layer; allow extra time for slower pace; be prepared for sudden changes in UK conditions.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing and a light waterproof jacket",
+      "Map or GPS device, or offline navigation",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Phone with emergency numbers and local guidance"
+    ],
+    "best_seasons": "All year round with proper gear; spring and autumn often offer the best conditions and views.",
+    "seo": {
+      "title": "Crags Walk - Easy 3.4 km Hike in the UK",
+      "meta_description": "Explore Crags Walk, a short 3.4 km easy hike in the UK. Learn about terrain, safety tips, best seasons, and gear for a family-friendly outdoor escape.",
+      "h1": "Crags Walk: Easy 3.4 km Hike in the UK"
+    }
   }
 }

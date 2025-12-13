@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 29302
+  },
+  "ai": {
+    "summary": "The Dales Way is a challenging long-distance trek across northern England, roughly 320 km in length, weaving from the doorstep of the Yorkshire Dales through wild river valleys toward the Lake District. It rewards trekkers with remote landscapes, dramatic scenery, and a demanding pace that tests stamina over multiple days.",
+    "terrain_summary": "Expect a mix of gently rolling dales, limestone paths, and persistent ascents: riverbanks, moorland heather, and occasional road and village sections. The trail alternates between smooth paths, rocky sections, and boggy stretches, with long gradual climbs and some steep ascents. Weather can change rapidly, making waterproof footwear and layered clothing essential.",
+    "safety_notes": "Plan for multi day navigation in a remote environment: carry a map and compass (and know how to use them), have a planned itinerary and emergency contacts, book lodging or plan permitted wild camping, monitor weather forecasts, carry sufficient water and food, wear sturdy boots, avoid crossing flooded streams, and be prepared for limited phone reception in upland sections.",
+    "recommended_gear": [
+      "Waterproof/breathable jacket",
+      "Waterproof trousers",
+      "Sturdy hiking boots with good grip",
+      "Trekking poles",
+      "Map and compass (or GPS)",
+      "Personal first aid kit",
+      "Headlamp with spare batteries",
+      "Warm layers (fleece or down)",
+      "Hat and gloves (seasonal)",
+      "Backpack with rain cover",
+      "Water bottle or hydration system + water purification",
+      "Nutrient-dense snacks",
+      "Emergency bivy or lightweight sleeping bag",
+      "Sun protection: sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) is ideal for daylight and typically better weather, though conditions can be wet and muddy. Winter hiking is possible for experienced walkers with proper alpine gear and careful planning.",
+    "seo": {
+      "title": "Dales Way: A 320 km UK Long-Distance Hike through the Dales",
+      "meta_description": "Explore the Dales Way, a challenging 320 km long-distance trek across the Yorkshire Dales to the Lake District in the UK. Learn about terrain, safety, best seasons, and gear.",
+      "h1": "Dales Way – A 320 km UK Long-Distance Hike through the Dales"
+    }
   }
 }

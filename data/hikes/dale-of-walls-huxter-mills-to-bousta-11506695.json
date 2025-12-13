@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 11506695
+  },
+  "ai": {
+    "summary": "A challenging, long-distance coastal hike from Dale of Walls to Bousta in the UK. Spanning 29.2 km, the route combines exposed sea views with rugged terrain and varied footing, demanding stamina and careful navigation.",
+    "terrain_summary": "Coastal paths with a mix of rocky sections, grassy tracks, beach access, and boggy moorland. Expect uneven footing, potential tidal considerations, and exposed winds; elevation changes are variable across the route.",
+    "safety_notes": "Plan as a full-day hike (typically 9–12 hours). Check tide times and any tidal restrictions for beach sections. Weather in the UK can change rapidly—dress in layers and carry a waterproof shell. Wear sturdy, grippy hiking boots and bring a map and compass or GPS, plus a fully charged phone and a power bank. Carry ample water and high-energy food; consider an emergency shelter or space blanket. Inform someone of your route and expected finish time. Bring a whistle, basic first aid kit, sun protection, and trekking poles if helpful.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Waterproof trousers",
+      "Insulating layer (fleece or equivalent)",
+      "Sturdy hiking boots with good grip",
+      "Extra socks",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and meals",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Sun protection (sunscreen, sunglasses)",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)",
+      "Whistle"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) is generally best for milder weather and longer daylight; experienced hikers may attempt other seasons with extra preparation.",
+    "seo": {
+      "title": "Dale of Walls to Bousta – 29.2 km Hard Coastal Hike in the UK",
+      "meta_description": "Take on a 29.2 km hard coastal hike from Dale of Walls to Bousta in the UK. Explore rugged terrain, expansive sea views, and practical safety tips for long-distance treks.",
+      "h1": "Dale of Walls to Bousta – 29.2 km Hard Coastal Hike"
+    }
   }
 }

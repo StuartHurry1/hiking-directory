@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11480061
+  },
+  "ai": {
+    "summary": "A gentle 5 km easy hike from Croft Museum to Pool of Virkie in the United Kingdom. The route follows coastal paths with a mix of pavement, grass, and occasional gravel, offering scenic views of the coastline and wetlands. Suitable for families and casual walkers.",
+    "terrain_summary": "Flat to gently undulating coastal trail. Mostly well-maintained paths with some grass verges and a few gravel sections. Expect soft ground near the shoreline and occasional boardwalks. Tidal areas can affect certain sections; check local tide times and weather before setting out.",
+    "safety_notes": "Be cautious near the water's edge, especially at high tides. Weather along the coast can change quickly; bring a light rain jacket. Wear sturdy walking shoes and bring a water bottle and snack. Keep children within sight and follow any local signs. If sharing paths with cyclists, stay to the side and communicate your intentions. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunglasses",
+      "Map or GPS device",
+      "Phone with offline map",
+      "Small snack",
+      "Sunscreen"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Croft Museum to Pool of Virkie: 5 km Easy Coastal Hike in the UK",
+      "meta_description": "Explore a 5 km easy coastal route from Croft Museum to Pool of Virkie in the United Kingdom. Learn about terrain, safety tips, and gear for a comfortable coastal walk.",
+      "h1": "Croft Museum to Pool of Virkie – 5 km Easy Coastal Hike"
+    }
   }
 }

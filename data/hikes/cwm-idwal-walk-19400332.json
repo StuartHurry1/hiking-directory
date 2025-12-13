@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19400332
+  },
+  "ai": {
+    "summary": "The Cwm Idwal Walk is a popular 6.3 km circuit through the glacial valley around Llyn Idwal, in Snowdonia. The route uses a mix of well-made paths and rocky sections, with a moderate elevation gain and views of dramatic cliffs and surrounding peaks. It suits walkers who want a scenic, varied hike without technical scrambling.",
+    "terrain_summary": "The trail begins near Llyn Idwal and circles the cwm via a combination of surfaced paths, sections of gravel track, and uneven rocky ground. Expect damp or muddy patches after rain, short steep steps in places, and occasional exposure near the shoreline and higher valley sides. Good footwear and waterproof gear are advised.",
+    "safety_notes": "Weather in Snowdonia can change rapidly; even in summer. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, avoid cliff edges, and beware loose rock on exposed sections. Bring a map or GPS, carry water and snacks, and tell someone your planned route and return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Water and snacks",
+      "Map or GPS device",
+      "Light first aid kit",
+      "Hat and sun protection",
+      "Head torch (in case of late finish)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this walk; summer offers the best daylight and generally drier conditions, while winter visits can be challenging due to cold, ice and limited daylight.",
+    "seo": {
+      "title": "Cwm Idwal Walk – 6.3 km Moderate Hike in Snowdonia, UK",
+      "meta_description": "Explore the Cwm Idwal Walk, a 6.3 km moderate circuit through the glacial valley of Llyn Idwal in Snowdonia. Learn about the terrain, safety tips, gear, and the best seasons for this popular UK hike.",
+      "h1": "Cwm Idwal Walk"
+    }
   }
 }

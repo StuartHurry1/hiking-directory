@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 13221073
+  },
+  "ai": {
+    "summary": "Crockbrack Way is a demanding long-distance hike in the United Kingdom, spanning 28.6 km with challenging terrain. It is suited for experienced hikers prepared for variable weather and rugged sections.",
+    "terrain_summary": "The route features varied terrain typical of UK long-distance trails: mixed farmland and woodland, rough tracks, moorland and rocky segments. Expect uneven ground, possible mud, gates and stiles, short steep sections, and navigation may be required in less obvious ways.",
+    "safety_notes": "This hard 28.6 km route should be treated as a full-day or multi-day undertaking. Check the forecast, wear sturdy waterproof footwear and dress in layers. Carry a map and compass (or a GPS), a charged phone as a backup, plenty of water and energy-rich snacks, a first aid kit, headlamp, and a whistle. Tell someone your plan and time estimates; know your exit points and have a plan for changing conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof rain jacket and over-trousers",
+      "Insulating mid-layer and hat/gloves",
+      "Map and compass or GPS device",
+      "Water and high-energy food",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle and basic first aid kit",
+      "Sun protection and sunglasses",
+      "Mobile phone with offline maps and power bank",
+      "Lightweight dry sack or rain cover for valuables",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are generally best for Crockbrack Way, offering longer daylight and drier conditions. Be prepared for sudden weather changes, mud, and variable temperatures. Winter hiking is possible only for experienced hikers with appropriate gear.",
+    "seo": {
+      "title": "Crockbrack Way – 28.6 km Hard UK Hike",
+      "meta_description": "Plan Crockbrack Way, a 28.6 km hard hike in the UK. Learn about the terrain, safety tips, essential gear, and the best seasons for this challenging trail.",
+      "h1": "Crockbrack Way: A 28.6 km Hard UK Trail"
+    }
   }
 }

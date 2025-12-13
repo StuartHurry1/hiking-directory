@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18051803
+  },
+  "ai": {
+    "summary": "Crazy Trail is a 6 km moderate hike in the UK. The route combines grassy paths with gentle ascents and occasional firmer footing, making it suitable for hikers with some experience.",
+    "terrain_summary": "The terrain is a mix of grassy tracks, compact dirt, some exposed rocky sections, and short stair-like steps. Expect occasional mud after rain and uneven ground.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy boots with good grip and bring weather-appropriate clothing. Carry a map and compass or GPS, stay on marked paths, and be cautious on wet or rocky sections. Inform someone of your plan, bring water and snacks, and have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Lightweight waterproof jacket",
+      "Map and compass or GPS device",
+      "Small first-aid kit",
+      "Headlamp or flashlight",
+      "Fully charged phone and emergency contact info"
+    ],
+    "best_seasons": "Spring to Autumn (April–October), with caution and preparedness for variable UK weather",
+    "seo": {
+      "title": "Crazy Trail – 6 km Moderate Hike in the UK",
+      "meta_description": "Explore Crazy Trail, a 6 km moderate hike in the UK. Get terrain details, safety tips, best season to hike, and gear recommendations.",
+      "h1": "Crazy Trail – 6 km Moderate Hike in the UK"
+    }
   }
 }

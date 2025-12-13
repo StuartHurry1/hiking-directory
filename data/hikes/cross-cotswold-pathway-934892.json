@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 934892
+  },
+  "ai": {
+    "summary": "Cross Cotswold Pathway is a challenging long distance trail in the UK, covering 80.5 km. It is best suited for experienced hikers who can plan for multiple days and varying conditions. The route combines country lanes, footpaths, and rural terrain with significant elevation and occasional remote sections.",
+    "terrain_summary": "The route traverses rolling countryside, hedgerows, rural lanes, and signposted footpaths. Expect grassy and stony tracks, occasional tarmac, and uneven surfaces. Elevation gain is substantial and weather can be changeable. Navigation relies on waymarks and maps, and some sections may be remote with limited facilities.",
+    "safety_notes": "Plan for long days and variable UK weather. Carry sufficient water and food, wear sturdy waterproof boots, and bring extra layers. Use a map or GPS device for navigation, plus a compass as backup. Inform someone of your plan and expected return. Be prepared for gates and livestock, mud and boggy sections after rain, and possible road crossing hazards. In case of emergency dial 999 in the UK.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Thermal and weather layers",
+      "Water and water purification method",
+      "High energy food and snacks",
+      "Map, compass and or GPS device",
+      "Headlamp with extra batteries",
+      "Lightweight emergency shelter or space blanket",
+      "First aid kit and blister care",
+      "Sunscreen and sun hat",
+      "Insect repellent",
+      "Rain shell and warm outer layer",
+      "Trekking poles if desired"
+    ],
+    "best_seasons": "Spring and autumn offer mild temperatures and fewer crowds. Summer can be workable but expect heat and longer days; winter hiking is possible but weather and daylight are limiting factors.",
+    "seo": {
+      "title": "Cross Cotswold Pathway 80.5 km Guide | Long Distance UK Trek",
+      "meta_description": "Plan your Cross Cotswold Pathway hike. An 80.5 km challenging UK route with terrain notes, safety tips, gear lists, and best seasons for the journey.",
+      "h1": "Cross Cotswold Pathway 80.5 km Long Distance Trail"
+    }
   }
 }

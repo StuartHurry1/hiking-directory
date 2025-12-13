@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5623220
+  },
+  "ai": {
+    "summary": "Craigivar Red Trail is a gentle 5.1 km hike in the UK, suitable for most walkers. The route offers easy, mostly flat to gently rolling terrain with woodland scenery, making it a great choice for families or casual hikers.",
+    "terrain_summary": "The trail features a mix of compact gravel paths and well-trodden earth trails, with occasional grass sections and gentle slopes. Expect shaded woodland, open grassy areas, and potential damp patches after rain. The surface is generally easy, but watch for uneven roots, loose stones, and mud after wet weather.",
+    "safety_notes": "Please follow standard hiking safety: wear sturdy footwear, check the forecast, and bring water. Stay on marked paths, watch your footing on uneven sections, and avoid steep or flooded areas after rain. Keep dogs under control, carry a small first aid kit, let someone know your plan, and ensure your phone is charged in case of emergencies, noting that coverage can be limited on some sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered, with a waterproof jacket)",
+      "Backpack with essentials",
+      "Sun protection (sunscreen, hat)",
+      "Map, guidebook, or GPS-enabled device",
+      "Phone charged with offline maps",
+      "Snacks",
+      "Small first aid kit",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn are ideal; summer offers good visibility, while winter hiking is possible in dry conditions with extra caution.",
+    "seo": {
+      "title": "Craigivar Red Trail – Easy 5.1 km Hike in the UK",
+      "meta_description": "Discover the easy 5.1 km Craigivar Red Trail in the UK. A gentle, family-friendly hike with woodland scenery, simple terrain, and accessible routes for casual walkers.",
+      "h1": "Craigivar Red Trail"
+    }
   }
 }

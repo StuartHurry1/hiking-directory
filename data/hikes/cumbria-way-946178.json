@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 946178
+  },
+  "ai": {
+    "summary": "The Cumbria Way is a demanding long-distance hike in the UK, roughly 291 km in length. It threads through varied Cumbria landscapes, from river valleys and farmland to exposed fells and high moorland, demanding solid navigation, endurance, and careful trip planning. The route is typically completed in multiple stages with several remote stretches where services are limited, so hikers should be prepared for long days on rough terrain and variable weather.",
+    "terrain_summary": "Expect a mix of well-graded tracks, historic drove roads, and rough upland paths. You’ll cross river and boggy moorland, negotiate rocky ascents, and traverse exposed ridgelines. Elevation gain accumulates over the distance, and weather can change quickly, especially on higher fells. Navigation can be challenging in fog; be mindful of seasonal closures and farmland traffic.",
+    "safety_notes": "Plan each day with realistic distances and overnight stops; carry a reliable map and compass (and know how to use them) or a GPS device; check weather forecasts and be prepared for sudden changes; ensure you have enough daylight; inform someone of your itinerary; have a plan for water sources and water treatment; keep to rights of way and respect farmland; be aware of remote stretches with limited phone reception; carry a basic first aid kit, emergency blanket, whistle, and knowledge of emergency procedures; in winter conditions, consider shorter day segments or postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Warm layers (fleece or lightweight down)",
+      "Weatherproof shell jacket and pants",
+      "Hat, gloves, and extra socks",
+      "Comfortable daypack with rain cover",
+      "Topographic map (OS Explorer) and compass or GPS",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Water bottle or hydration system + water treatment method",
+      "Trekking poles",
+      "Lightweight tent or bivy sack, sleeping bag, and sleeping mat (for camping) or arrange accommodation",
+      "High-energy snacks and meals",
+      "Sunscreen, sunglasses, and lip balm",
+      "Whistle and multitool",
+      "Cash and/or cards for remote accommodations and emergencies"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September)",
+    "seo": {
+      "title": "Cumbria Way - 291 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan your Cumbria Way journey—a challenging 291 km long-distance trek through the UK’s countryside. Practical guide, terrain, safety tips, gear, and best seasons.",
+      "h1": "Cumbria Way – 291 km Hard-Distance Hike in the UK"
+    }
   }
 }

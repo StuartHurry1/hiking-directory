@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 17696422
+  },
+  "ai": {
+    "summary": "The Dales Way Link is a challenging 51.2 km long-distance hike in the UK that crosses varied countryside near the Dales. Expect rolling farmland, moorland, streams and occasional ascents as you follow public paths and field margins. Because of the distance and elevation, most hikers complete it as a multi-day trek or a strenuous long day.",
+    "terrain_summary": "Trail types range from grassy farmland paths and stone steps to upland moorland and occasional road sections. Some sections can be wet or boggy after rain, and parts may be exposed on higher ground. Navigation is generally straightforward on waymarked routes, but a map and compass are advisable in case of detours.",
+    "safety_notes": "Plan for variable UK weather and a long day or multi-day hike. Tell someone your route and estimated return. Carry a map and compass and know how to use them. Wear sturdy boots and layered clothing, and be prepared for wind, rain, and sun. Stay hydrated, carry enough food, and have a means to signal for help (whistle). Watch for cattle and livestock; close gates behind you. In remote sections, mobile signal may be limited—carry a backup contact method and a small emergency kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Insulating mid-layer",
+      "Hat and gloves",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone and portable power bank",
+      "Water bottle or hydration system + water purification method",
+      "High-energy food and snacks",
+      "Emergency bivy or thermal blanket",
+      "First-aid kit and personal medications",
+      "Headlamp with extra batteries",
+      "Whistle and sunscreen/sunglasses",
+      "Trekking poles (optional)",
+      "Pack rain cover"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) generally offers the best combination of daylight and drier weather, though UK conditions can be unpredictable at any time.",
+    "seo": {
+      "title": "Dales Way Link – 51.2 km Hard UK Hike",
+      "meta_description": "Discover the Dales Way Link, a challenging 51.2 km hike in the UK. Learn terrain, safety tips, best seasons, and essential gear for this long-distance trail.",
+      "h1": "Dales Way Link: 51.2 km Hard Hike in the UK"
+    }
   }
 }

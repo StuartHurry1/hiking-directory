@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2186279
+  },
+  "ai": {
+    "summary": "Daffodil Way is a 22.6 km hard hike in the UK that threads through varied countryside. The route combines country lanes, grassy fields, muddy tracks, and occasional steep sections, with gates and stiles to negotiate. It rewards persistent walkers with open views and seasonal blooms when flowers are in season. This is a demanding trek that requires solid navigation and preparation for changing weather.",
+    "terrain_summary": "Terrain is mixed: smooth gravel tracks, narrow paths across fields, muddy sections after rain, and short steep ascents and descents. Expect uneven footing, occasional wet grass, and several cattle grids or stiles. The distance makes fatigue a factor, so pace yourself and plan for breaks.",
+    "safety_notes": "Plan for variable UK weather; bring waterproofs and extra layers; wear sturdy boots; carry map and compass or GPS; keep to rights of way; watch for livestock and gate swings; start with a full water bottle; let someone know your route and expected return time; if visibility is low or a storm is forecast, consider postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weather-appropriate clothing in layers (breathable base layer, insulating mid-layer, waterproof outer layer)",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device; fully charged",
+      "Headlamp or flashlight (with extra batteries)",
+      "Walking poles (optional but helpful on long, exposed sections)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "First aid kit & emergency whistle"
+    ],
+    "best_seasons": "Spring (March–April) is ideal for flowering displays and softer ground; late spring to early summer offers longer daylight, while autumn can provide cooler temperatures and quieter trails. Winter conditions can be challenging with reduced daylight.",
+    "seo": {
+      "title": "Daffodil Way: 22.6 km Hard Hike in the UK",
+      "meta_description": "Explore Daffodil Way, a challenging 22.6 km hike in the UK featuring mixed terrain, long distances, and seasonal blooms. Safety tips, gear lists, and best seasons included.",
+      "h1": "Daffodil Way — 22.6 km Hard Hike in the UK"
+    }
   }
 }

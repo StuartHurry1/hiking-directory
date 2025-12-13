@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 236878
+  },
+  "ai": {
+    "summary": "A demanding 59.7 km long-distance hike in the UK following a scenic river corridor. The Cray Riverway is best attempted by experienced trekkers, either as a multi-day route or a long, strenuous single day. Expect varied terrain, riverbank paths, ascents, and stretches of mud or uneven footing. Careful planning for weather, daylight, and navigation is essential.",
+    "terrain_summary": "Terrain varies from grassy riverbanks and woodland trails to muddy tracks and rocky sections. Expect uneven footing, stiles, occasional boardwalks, and boggy patches after rain. Some sections may be poorly signposted; a map and compass or GPS is recommended.",
+    "safety_notes": "Plan for a long or multi-day trek: ensure training, hydration, and regular breaks. UK weather can change quickly; waterproof layers and warm clothing are essential. Riverbank sections can be slippery and cold; wear sturdy boots with good grip and ankle support. Navigation can be challenging where signs are sparse; carry a map and compass or GPS and know how to use them. Start early to maximize daylight, especially in autumn and winter, and inform someone of your itinerary. In an emergency, call 999 (or 112) and provide your location. Pack a compact first aid kit, blister care, a whistle, and emergency shelter. Practice Leave No Trace and respect wildlife and other users.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Water and high-energy snacks (plan for 2–3 liters of water and extra food)",
+      "Weather-appropriate clothing layers and a waterproof jacket",
+      "Map and compass or GPS device (and knowledge of how to use them)",
+      "Headlamp or flashlight with extra batteries",
+      "Small first aid kit and blister care supplies",
+      "Whistle and multi-tool",
+      "Dry bag or waterproof cover for valuables",
+      "Emergency blanket or bivy sack",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen, hat, and sunglasses",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers better weather, longer daylight, and easier navigation. Winter hiking is possible but more challenging due to mud, cold, and shorter days.",
+    "seo": {
+      "title": "Cray Riverway: 59.7 km Hard-Difficulty Hike in the UK",
+      "meta_description": "Plan your Cray Riverway adventure: a challenging 59.7 km hike through UK countryside. Learn terrain, safety considerations, and gear for this long-distance trek.",
+      "h1": "Cray Riverway: A 59.7 km hard-difficulty hike in the UK"
+    }
   }
 }

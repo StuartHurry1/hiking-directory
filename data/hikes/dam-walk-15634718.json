@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15634718
+  },
+  "ai": {
+    "summary": "Dam Walk is a short, easy 1 km hike in the UK offering a gentle stroll along a dam. The route is flat and suitable for beginners, families, and casual walkers looking for a quick outdoor experience.",
+    "terrain_summary": "Flat, well-maintained surfaces along the dam, typically tarmac or compact gravel. Expect occasional damp patches after rain and minimal elevation change; some sections may have steps near spillways.",
+    "safety_notes": "Weather and water awareness: wear sturdy footwear; stay on the marked path; keep children close and away from edge barriers; be careful on wet or uneven surfaces; check for closures or access restrictions before you go; carry a charged phone; in an emergency in the UK dial 999.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat or cap",
+      "Phone with offline map or GPS",
+      "Small snack (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer the best conditions; the hike is feasible year-round, but winter can be cold, windy, and more slippery.",
+    "seo": {
+      "title": "Dam Walk – Easy 1 km Hike in the UK",
+      "meta_description": "Explore Dam Walk, a short and easy 1 km route in the UK. Perfect for beginners and families, with safety tips and gear recommendations.",
+      "h1": "Dam Walk – Easy 1 km Hike in the UK"
+    }
   }
 }

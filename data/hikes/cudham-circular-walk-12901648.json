@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 12901648
+  },
+  "ai": {
+    "summary": "A challenging 21-kilometer circular hike around Cudham, featuring ridge sections and exposed ground in the UK. The loop starts and ends at the same point, demanding stamina, navigation, and careful footing on uneven terrain.",
+    "terrain_summary": "Mainly ridge paths with exposed sections, uneven grassy and rocky footing, and occasional boggy patches. Expect long ascents and descents with open moorland and hedged markers.",
+    "safety_notes": "This is a strenuous, remote-feeling hike with long distances between landmarks. Navigation on ridges can be tricky; carry a map and compass and know how to use them. The weather in the UK can change rapidly—plan for wind, rain, and cold, even in summer. Start early to ensure daylight, and tell someone your planned route. Bring sufficient water and food, and have a plan for returning to the start if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good grip",
+      "Layered clothing (base layer, insulating layer) and a waterproof outer shell",
+      "Water and high-energy snacks (plan for 2–3 liters, depending on conditions)",
+      "Map and compass (or GPS) with knowledge to use them",
+      "Protective waterproof jacket and trousers",
+      "Hat and gloves for cold or windy conditions",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Headlamp or torch with spare batteries",
+      "Mobile phone with power bank (for emergencies)",
+      "Sunscreen and sunglasses",
+      "Walking poles (optional but helpful on rough ridges)"
+    ],
+    "best_seasons": "Late spring to early autumn typically offers the best conditions for this 21 km ridge walk. The route can be tackled in winter with proper preparation, but expect shorter daylight, stronger winds, and more mud and exposed sections.",
+    "seo": {
+      "title": "Cudham Circular Walk — 21 km Ridge Hike in the UK",
+      "meta_description": "Explore the Cudham Circular Walk, a challenging 21-kilometer ridge hike in the UK. Practical safety tips, gear suggestions, and best seasons.",
+      "h1": "Cudham Circular Walk — 21 km Ridge Hike in the UK"
+    }
   }
 }

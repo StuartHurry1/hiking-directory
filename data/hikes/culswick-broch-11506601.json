@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11506601
+  },
+  "ai": {
+    "summary": "A short, easy 2.3 km hike to Culswick Broch, an Iron Age broch along the rural coast of the UK. The route is simple and suitable for most walkers, combining coastal scenery with a touch of history.",
+    "terrain_summary": "The hike follows a mostly gentle coastal path and grassy farm tracks. Ground can be uneven, with occasional rocky or boggy patches near the broch and some exposed sections with sea wind. Expect gates or stiles and livestock on farmland.",
+    "safety_notes": "This is a coastal, exposed environment. Take care on windy days and near cliff edges. Wear sturdy footwear and suitable clothing; check weather and tides before starting. Keep to marked paths, close gates, and supervise children or dogs. Bring a map or GPS and a means of communication; in remote areas, mobile reception may be limited.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing with layers and a waterproof jacket",
+      "Water and a small snack",
+      "Map, compass, or GPS device",
+      "Fully charged phone and emergency contact details",
+      "Light backpack for essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly May–September) for milder conditions and longer daylight; the hike is doable year-round with proper clothing for colder, windier weather.",
+    "seo": {
+      "title": "Culswick Broch: Easy 2.3 km Coastal Hike in the UK",
+      "meta_description": "Explore Culswick Broch on an easy 2.3 km coastal hike. Practical safety tips, gear list, best seasons, and terrain overview for a short UK walk.",
+      "h1": "Culswick Broch – Easy 2.3 km Coastal Hike"
+    }
   }
 }

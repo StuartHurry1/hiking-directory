@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18124252
+  },
+  "ai": {
+    "summary": "Craigmonie Trail is a short and easy woodland circuit in the Scottish Highlands near Inverness. Spanning about 2.1 km, it offers a gentle stroll through mixed woodland with light elevation and pleasant views over the surrounding landscape, suitable for beginners and families.",
+    "terrain_summary": "The route follows gravel and dirt forest tracks with mostly even surfaces. Expect occasional steps, tree roots, and muddy patches after rain. The elevation gain is gentle, with light ascents and descents, making it accessible for most walkers.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Be mindful of uneven ground, tree roots, and mud, especially after rain. Check the weather forecast, bring a waterproof layer, and carry a charged phone. Inform someone of your plans if walking alone and note that winter conditions can include ice.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Water and snacks",
+      "Layered clothing plus a waterproof jacket",
+      "Map or offline navigation on a phone",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Insect repellent (summer)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Year round, with spring to autumn offering the best dry conditions and clearer views",
+    "seo": {
+      "title": "Craigmonie Trail - Easy 2.1 km Woodland Walk in the Scottish Highlands",
+      "meta_description": "Discover the easy 2.1 km Craigmonie Trail in the UK. A family friendly woodland circuit with gentle gradients, scenic views, safety tips and gear recommendations.",
+      "h1": "Craigmonie Trail: Easy 2.1 km Woodland Walk"
+    }
   }
 }

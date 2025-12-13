@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 11507590
+  },
+  "ai": {
+    "summary": "A coastal 7.6 km hike from Cullivoe to Basta Voe in the UK. The route follows shoreline paths with moderate elevation changes and offers expansive sea views. Suitable for hikers with some experience due to exposed sections and variable coastal weather.",
+    "terrain_summary": "Primarily coastal paths with grassy sea cliffs and occasional rocky sections. Expect uneven footing, wet or slippery surfaces after rain, and wind exposed stretches along the shore. Some stretches may involve farm tracks or boardwalks.",
+    "safety_notes": "Check the local weather forecast and wind speeds before departure. Be aware of tide times if the route runs close to the shoreline. Do not approach unstable cliffs or exposed edges. Wear sturdy waterproof footwear and dress in layers. Bring a map or GPS, fully charged phone, water and snacks, and a small first aid kit. Carry an emergency whistle and inform someone of your plans and expected return. Be prepared for sudden changes in light and temperature in exposed coastal environments.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and warm layers",
+      "Water and energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone and possibly offline maps",
+      "Lightweight hat and gloves for chills",
+      "Sunscreen and sunglasses",
+      "Emergency whistle and first aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Extra waterproof layer or trousers"
+    ],
+    "best_seasons": "Primarily spring through autumn (roughly March to November). Summer provides longer daylight and calmer conditions, but coastal winds can remain strong. Shoulder seasons can be windy and changeable, so check forecasts.",
+    "seo": {
+      "title": "Cullivoe to Basta Voe Coastal Hike 7.6 km – Moderate UK Trail",
+      "meta_description": "Discover a 7.6 km moderate coastal hike from Cullivoe to Basta Voe in the UK. Practical guidance on terrain, safety, gear, and the best seasons.",
+      "h1": "Cullivoe to Basta Voe Coastal Hike 7.6 km"
+    }
   }
 }
