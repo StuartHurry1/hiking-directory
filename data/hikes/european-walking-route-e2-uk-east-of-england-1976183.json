@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 1976183
+  },
+  "ai": {
+    "summary": "A challenging long-distance section of the European E2 route through the UK's East of England, covering about 213 km. Expect a mix of flat fenland, river valleys, woodlands, farmland, and several lakes. The route passes through rural villages and market towns, demanding solid stamina, navigation skills, and careful planning.",
+    "terrain_summary": "Mostly flat to gently rolling fenland and river-valley terrain, with sections on canal towpaths, farm tracks, woodland trails, and marshy ground. Expect long flat stretches, potential mud, flood risk after rain, and occasional road or village sections. Signage can vary, so carrying a map and compass is advised.",
+    "safety_notes": "Plan sections between services carefully, as rural East of England can have sparse amenities. Weather can be changeable; carry layered clothing and waterproofs. Navigation can be tricky in featureless fenland, so bring a map and compass (and a charged GPS as backup). Be aware of potential floods, mud, and ticks in long grass; carry a first aid kit and blister care. Stay hydrated; carry enough water and know water sources. Be mindful of traffic on country lanes and ensure high-visibility clothing if walking near dusk. Let someone know your itinerary and check daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and trousers",
+      "Layered clothing for variable weather",
+      "Rucksack with rain cover",
+      "Map, compass, and/or GPS with charged power bank",
+      "Water bottle or hydration bladder (2–3 L)",
+      "High-energy snacks and a light meal plan",
+      "First aid kit and blister care",
+      "Headlamp or small torch with spare batteries",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Emergency whistle and reflective gear",
+      "Basic waterproof dry bags for electronics",
+      "Personal ID and emergency contact card"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September).",
+    "seo": {
+      "title": "E2 European Walking Route in the UK: East of England (213 km) – Lakes & Fenland Trek",
+      "meta_description": "Discover the E2 European walking route through the UK’s East of England. A hard 213 km trek across fenland, lakes, and river valleys with safety tips and gear recommendations.",
+      "h1": "European Walking Route E2 — East of England (UK) 213 km"
+    }
   }
 }

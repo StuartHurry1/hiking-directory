@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1836464
+  },
+  "ai": {
+    "summary": "Exe Valley Way is a demanding long-distance hike that traces the valley of the River Exe across the UK. At 675.2 km, it is a strenuous route designed for experienced trekkers seeking a substantial wilderness challenge.",
+    "terrain_summary": "The route combines quiet country lanes, farm tracks, woodlands and some exposed hillside sections. Expect varied surfaces, frequent ascents and descents, river crossings, and potentially wet and muddy conditions. Navigation is straightforward in parts but can require map reading in more remote sections.",
+    "safety_notes": "This is a hard trek. Plan for multi-day walking, inform someone of your itinerary, and check the weather forecast. Carry navigation tools (map and compass, and optionally a GPS), a reliable light source, enough water and energy-rich food, and appropriate clothing for rain and cold. Some sections have limited mobile reception and remote terrain; consider hiking with a partner or arranging a support plan. Be mindful of livestock on farmland and respect local access rules. Ensure you have daylight to complete each day and carry a lightweight emergency shelter or space blanket.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weatherproof jacket and trousers (Gore-Tex or equivalent)",
+      "Breathable base layers and mid-layer for temperature changes",
+      "Map and compass (plus optional GPS device)",
+      "Backpack with rain cover",
+      "Water bottles or hydration bladder (2-3 L capacity)",
+      "High-energy food and snacks",
+      "First aid kit for long-distance hikes",
+      "Headlamp or torch with spare batteries",
+      "Emergency bivy sack or lightweight sleeping bag",
+      "Whistle and multipurpose tool",
+      "Sunscreen and hat",
+      "Emergency beacon or phone with offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) offer the best conditions with longer daylight and milder weather. Winter sections are more challenging and require advanced skills and equipment.",
+    "seo": {
+      "title": "Exe Valley Way: UK 675.2 km Hard Long-Distance Trail",
+      "meta_description": "Plan your expedition on the Exe Valley Way, a 675.2 km hard long-distance hike in the UK. Explore terrain, safety notes, and essential gear for experienced walkers.",
+      "h1": "Exe Valley Way – 675.2 km Hard Long-Distance Trail"
+    }
   }
 }

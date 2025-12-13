@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8507213
+  },
+  "ai": {
+    "summary": "The Firecrest Trail is a 7 km moderate hike in the UK, offering a balanced route through woodland and open terrain. Suitable for hikers with some experience and reasonable fitness, it features varied scenery and a steady pace.",
+    "terrain_summary": "Mixed terrain including well-defined paths, woodland tracks, and some uneven or rocky sections with exposed roots. Moderate elevation gain and surfaces that can be slippery when wet.",
+    "safety_notes": "Check the local forecast before you go and be prepared for sudden weather changes. Wear sturdy boots and bring layers, a waterproof layer, and sufficient water. Stay on marked paths, carry a map or GPS, and inform someone of your planned route and return time. In fog or low visibility, move slowly and avoid exposed areas. Be mindful of daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Backpack with water and snacks",
+      "Map or GPS device",
+      "Fully charged phone with emergency contacts",
+      "First aid kit",
+      "Sun protection (hat, sunscreen) or sunglasses",
+      "Headlamp or flashlight (in case of late return)",
+      "Trail map or compass"
+    ],
+    "best_seasons": "Spring through autumn",
+    "seo": {
+      "title": "Firecrest Trail – 7 km Moderate Hike in the UK",
+      "meta_description": "Explore the Firecrest Trail in the UK: a 7 km moderate hike with varied terrain, safety tips, gear lists, and seasonal guidance.",
+      "h1": "Firecrest Trail: 7 km Moderate Hike in the UK"
+    }
   }
 }

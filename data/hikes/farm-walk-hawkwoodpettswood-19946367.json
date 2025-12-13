@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19946367
+  },
+  "ai": {
+    "summary": "A gentle 5.8 km circuit through farmland and woodlands near Hawkwood and Petts Wood in the United Kingdom. Suitable for families and casual walkers seeking easy terrain and countryside views.",
+    "terrain_summary": "Mix of farm tracks, grassy paths and woodland trails with gentle gradients. Expect some stiles and gates along the route and seasonal mud after rain.",
+    "safety_notes": "Wear sturdy footwear and watch for uneven ground, mud and slippery leaves after rain. Keep to public rights of way, close gates, and be mindful of livestock. Keep dogs under control and on leads where required. Check weather and daylight hours, carry a map and a charged phone; watch for ticks in longer grass during warmer months.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather appropriate clothing",
+      "Water bottle and snacks",
+      "Map or GPS device",
+      "Light waterproof jacket",
+      "Sun protection and a hat"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Farm Walk, Hawkwood/PettsWood – Easy 5.8 km Hike in the UK",
+      "meta_description": "Explore a gentle 5.8 km farm walk near Hawkwood and Petts Wood in the United Kingdom. Easy terrain suitable for families with farmland and woodland scenery.",
+      "h1": "Farm Walk, Hawkwood/PettsWood – Easy 5.8 km Hike"
+    }
   }
 }

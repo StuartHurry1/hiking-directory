@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8634859
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km circular walk in the UK called Erewash Circular Walk 13. It offers a gentle, stroller- and beginner-friendly route suitable for a relaxed outing, families, and casual walkers seeking a quick scenic stroll.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with a mix of tarmac, compacted gravel, and occasional grassy sections. Expect occasional curb crossings and potential damp patches after rain.",
+    "safety_notes": "- Check forecast and daylight; - Wear sturdy shoes; - Stay on designated paths; - Be mindful of other users (cyclists and joggers) on shared sections; - Bring water and basic first aid; - In rural areas, carry a mobile phone and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat (seasonal)",
+      "Phone with emergency contacts",
+      "Map or offline navigation app"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions, but the short distance makes it doable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Erewash Circular Walk 13 - Easy 1.7 km Loop in the UK",
+      "meta_description": "Discover the easy 1.7 km Erewash Circular Walk 13 in the UK. A flat, beginner-friendly loop ideal for families and casual hikers, with practical safety tips and gear.",
+      "h1": "Erewash Circular Walk 13: Easy 1.7 km Loop"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19033830
+  },
+  "ai": {
+    "summary": "The Ferndown, Stour and Forest Trail is a short, easy 3.6 km walk in the United Kingdom suitable for most walkers. The route typically explores woodland areas near Ferndown with views of fields and river landscapes, making it a relaxing option for beginners and families.",
+    "terrain_summary": "The terrain consists of quiet country paths, compacted dirt and gravel tracks, some grassy sections, and occasional muddy patches after rain. Elevation is gentle with light slopes, and footing is generally stable for standard walking shoes.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check local conditions before you go, as roads and paths can be muddy after rain. Bring a map or phone with a GPS, stay on marked paths, supervise children around water features if present, and carry water and a small first-aid kit. Inform someone of your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Weather-appropriate clothing and layerable outerwear",
+      "Water and a snack",
+      "Map or smartphone with offline maps",
+      "Light rain jacket or waterproof layer",
+      "Hat, sunscreen and insect repellent if needed",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offer the most comfortable conditions, but the trail can be enjoyed year-round with suitable clothing and footwear.",
+    "seo": {
+      "title": "Ferndown, Stour and Forest Trail — Easy 3.6 km UK Walk",
+      "meta_description": "Explore the Ferndown, Stour and Forest Trail, a gentle 3.6 km route in the UK. Find hiking details, terrain, safety tips, gear, and best seasons for this easy woodland walk.",
+      "h1": "Ferndown, Stour and Forest Trail — 3.6 km Easy Walk in the UK"
+    }
   }
 }

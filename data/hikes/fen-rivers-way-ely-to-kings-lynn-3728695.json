@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3728695
+  },
+  "ai": {
+    "summary": "The Fen Rivers Way from Ely to King's Lynn is a 62.7 km long-distance hike across the Norfolk and Cambridgeshire Fens. The route follows rivers and fenland lanes from Ely, weaving through flat, open farmland, wet meadows and reed beds, with occasional boardwalks and village stretches. It is considered hard because of the distance, long exposed stretches, muddy or flooded sections after rain, and the need to navigate across featureless fenland with limited services.",
+    "terrain_summary": "Primarily flat fenland terrain with long stretches of open track, riverbanks, and reed beds. Expect muddy fields, soft tracks after rain, occasional boardwalks, dikes, and water crossings. Some sections run along quiet country lanes with few amenities and variable signage; wind can be strong on exposed stretches near water.",
+    "safety_notes": "Plan for multi-day trekking with reliable navigation because services are sparse. Check weather and moisture conditions; wear sturdy waterproof boots and bring waterproof clothing. Carry a map, compass or GPS, a charged phone and portable charger. Pack enough water and energy, plus a basic first aid kit. Be prepared for mud, floods, and necessary detours; inform someone of your route; watch for livestock and farm traffic on rural lanes; daylight hours vary by season.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and waterproof trousers",
+      "Warm layers and a hat",
+      "Backpack with a dry bag",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Sunscreen and sunglasses",
+      "Insect repellent and tick protection",
+      "Emergency whistle and thermal blanket",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer longer daylight and more stable weather, but be prepared for mud and variable conditions; winter hiking is possible but often very wet and challenging.",
+    "seo": {
+      "title": "Fen Rivers Way: Ely to King's Lynn (62.7 km) – Hike Guide",
+      "meta_description": "Plan a challenging 62.7 km hike along the Fen Rivers Way from Ely to King's Lynn in the UK. Learn about terrain, safety, gear, and best seasons.",
+      "h1": "Fen Rivers Way (Ely to King's Lynn) – 62.7 km Fenland Hike"
+    }
   }
 }

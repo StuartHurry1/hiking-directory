@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9236024
+  },
+  "ai": {
+    "summary": "A very short, easy circular walk in the UK, covering 0.2 km. Ideal for a quick stroll, families with small children, or anyone seeking a simple, low-effort outing.",
+    "terrain_summary": "Predominantly flat and paved, with smooth sidewalks and minor uneven spots. Mostly urban or park paths, suitable for most mobility levels.",
+    "safety_notes": "Urban path: watch for cyclists and other pedestrians on shared sections. Cross roads safely at designated crossings. Check weather and keep to the official route. Supervise children and keep valuables secure.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Phone with emergency contacts",
+      "Small map or offline directions",
+      "Sunscreen and hat for sunny days",
+      "Pocket umbrella or light rain jacket"
+    ],
+    "best_seasons": "All year, with the most pleasant conditions in spring and summer; winter walks are possible but can be chilly and wet.",
+    "seo": {
+      "title": "Erewash Circular Walk 20 — Short Easy 0.2 km Circular Trail in the UK",
+      "meta_description": "Explore the Erewash Circular Walk 20, a tiny 0.2 km easy circular route in the UK. A perfect quick stroll for families or solo walkers seeking a low-effort outing.",
+      "h1": "Erewash Circular Walk 20: Easy 0.2 km Circular Trail in the UK"
+    }
   }
 }

@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 4073636
+  },
+  "ai": {
+    "summary": "A 74.7 km segment of the European walking route E2 West through South West England. This long-distance trek combines lakeside scenery with moorland, river valleys, woodland paths, and some coastal sections. It is a challenging route requiring good navigation, stamina, and preparation for variable weather conditions. Suitable for experienced hikers seeking a remote, lakes-themed journey along established waypoints.",
+    "terrain_summary": "Varied terrain including damp moorland tracks, grassy lakeside footpaths, river crossings, woodland trails, and occasional coastal headlands. Expect uneven footing, boggy patches, and several climbs with exposed sections. Navigation can be challenging in remote stretches; stay on the route markers where present and carry a map/compass.",
+    "safety_notes": "Weather in South West England can shift quickly; carry layers, a reliable waterproof shell, and waterproof pants. Coastal and riverside segments may involve spray and tide-related access issues—check tides and plan accordingly. Some parts are remote with limited mobile signal; carry a map, compass, and inform someone of your plans. Plan for long days, stay hydrated and fueled, and know your exit points. Protect yourself from sun and insects, and practice Leave No Trace in fragile environments.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and waterproof pants",
+      "Insulating mid-layer (fleece or similar)",
+      "Hat and gloves",
+      "Map and compass (GPS optional)",
+      "Water bottle or hydration system + water purification",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp with extra batteries",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Dry bags or pack liner",
+      "Sun protection (sunscreen and sunglasses)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October), with the best conditions typically in May–June and September.",
+    "seo": {
+      "title": "European Walking Route E2 West in South West England (UK) – 74.7 km Hard Lakes Trail",
+      "meta_description": "Explore the challenging 74.7 km E2 West route through South West England. Lakes, moorlands, and coast meet in a demanding trek for experienced hikers. Plan with gear and safety tips.",
+      "h1": "E2 West – South West England (74.7 km, Hard, Lakes)"
+    }
   }
 }

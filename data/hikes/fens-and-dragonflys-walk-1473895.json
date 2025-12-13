@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1473895
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km walk through fenland wetlands in the UK. The route is flat, family-friendly, and offers frequent chances to spot dragonflies and other wildlife along water channels and reed beds.",
+    "terrain_summary": "Primarily flat, well-defined paths with a mix of compact gravel and dirt. Expect soft, muddy ground after rain and occasional boardwalk sections across wetland areas. Some open, exposed stretches can be windy near open water.",
+    "safety_notes": "- Check the weather before you go; fenland routes can flood after heavy rain. - Wear sturdy waterproof footwear with good grip. - Stay on marked paths to protect fragile habitats and avoid deep mud. - Bring a map or offline navigation and tell someone your plan. - Carry water and snacks; bring a small first aid kit. - Use sun protection in open sections and insect repellent during dragonfly season. - Be mindful of wildlife and supervise children near water channels.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Water bottle",
+      "Snacks",
+      "Small first aid kit",
+      "Map, compass or fully charged phone with offline map",
+      "Spare socks",
+      "Compact backpack to carry essentials"
+    ],
+    "best_seasons": "Spring through autumn (approximately March–October) for best wildlife and dragonfly activity; the walk is doable year-round with appropriate gear.",
+    "seo": {
+      "title": "Fens & Dragonflies Walk — Easy 2.1 km Hike in the UK",
+      "meta_description": "Explore a short, flat 2.1 km hike through fenland wetlands in the UK. Learn about the terrain, safety tips, and gear to enjoy dragonflies and wildlife along the way.",
+      "h1": "Fens & Dragonflies Walk"
+    }
   }
 }

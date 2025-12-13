@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8720298
+  },
+  "ai": {
+    "summary": "A gentle 4.1 km circular walk in the UK suitable for beginners and families. The route offers easy paths with scenic views around local parks and waterways, making it a quick yet enjoyable outing.",
+    "terrain_summary": "Predominantly flat and well-maintained paths. Expect a mix of gravel, tarmac, and grassy sections; weather can make some parts muddy.",
+    "safety_notes": "Carry a map or offline map, tell someone your planned route and estimated return time, and stick to the marked paths. Wear sturdy footwear, bring water, sun protection in good weather, and a light layer for cooler conditions. Be cautious near any waterways and watch for changes in weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map or offline map on phone",
+      "Snack and sunscreen",
+      "Hat for sun",
+      "Phone with emergency contact details and flashlight",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Erewash Circular Walk 6 – 4.1 km Easy Hike in the UK",
+      "meta_description": "Discover the 4.1 km Erewash Circular Walk 6 in the UK. An easy, beginner-friendly route with flat terrain and scenic views, ideal for families.",
+      "h1": "Erewash Circular Walk 6 – 4.1 km Easy Hike"
+    }
   }
 }

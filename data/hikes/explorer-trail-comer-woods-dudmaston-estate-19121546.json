@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19121546
+  },
+  "ai": {
+    "summary": "Explorer Trail is a 7.4 km moderate hike through Comer Woods on the Dudmaston Estate in the UK. The route combines tranquil woodland paths with occasional open sections, making it suitable for walkers with some experience and decent fitness.",
+    "terrain_summary": "The trail features mixed woodland terrain: well-maintained forest tracks, short grassy stretches, and occasional roots or small rocks underfoot. Expect gentle climbs and descents with footing that can become slippery in wet conditions.",
+    "safety_notes": "Before hiking, check the weather forecast and wear sturdy footwear. Stay on marked paths, and carry a map or GPS, a charged phone, and a whistle for emergencies. Bring appropriate clothing layers and rain protection. If hiking alone, inform someone of your plans and expected return time. Be mindful of changing daylight hours in winter and wildlife in the woods.",
+    "recommended_gear": [
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sturdy hiking boots or shoes",
+      "Map and compass or GPS device",
+      "Fully charged phone (with offline maps) and a backup battery",
+      "Whistle",
+      "First aid kit",
+      "Snacks or energy bars",
+      "Hat and sunglasses, sunscreen",
+      "Headlamp or flashlight",
+      "Lightweight rain cover or poncho",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for the best trail conditions and daylight; summer often provides good visibility, while winter hikes are possible with caution and appropriate equipment.",
+    "seo": {
+      "title": "Explorer Trail, Comer Woods (Dudmaston Estate) – 7.4 km Moderate Hike in the UK",
+      "meta_description": "Plan a 7.4 km moderate hike on the Explorer Trail through Comer Woods at Dudmaston Estate in the UK. Learn about terrain, safety tips, and essential gear for a comfortable woodland walk.",
+      "h1": "Explorer Trail, Comer Woods (Dudmaston Estate) – 7.4 km Moderate Hike"
+    }
   }
 }

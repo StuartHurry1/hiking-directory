@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17794641
+  },
+  "ai": {
+    "summary": "The Felmingham Circular Walk is a 20 km loop in the United Kingdom designed for experienced hikers. It features varied countryside with long ascents, exposed sections and a mix of grassy paths, tracking sections and woodland, making it a demanding full-day trek. Expect significant elevation gain and variable conditions, so solid navigation and fitness are essential.",
+    "terrain_summary": "The route combines grassy field paths, muddy trods, stony tracks and woodland lanes. Expect stiles and gates, hedgerows, occasional marshy ground and several short steep climbs. Surface quality varies with weather, so trail conditions can range from firm to slippery.",
+    "safety_notes": "Plan for a full-day hike with enough daylight. Carry a map and compass or GPS, and know how to use them. Wear sturdy waterproof boots and dress in layers; check the forecast for wind and rain. Bring sufficient water and high-energy snacks, a basic first aid kit, whistle, and protection from the sun. Start early, tell someone your route, and be prepared for exposed sections and livestock in fields. Navigation can be challenging in unknown regions; consider a companion or pacing yourself.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket and trousers)",
+      "Map and compass (or GPS device) and knowledge of navigation",
+      "Water and high-energy snacks",
+      "Small first aid kit and basic emergency gear",
+      "Whistle and mobile phone (with offline maps where possible)",
+      "Sun protection (hat, sunscreen)",
+      "Headlamp or flashlight with spare batteries",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer longer daylight hours and drier trails; winter hikes are possible with extra caution, more mud and shorter daylight.",
+    "seo": {
+      "title": "Felmingham Circular Walk – 20 km Hard Hike in the UK",
+      "meta_description": "Tackle the Felmingham Circular Walk, a 20 km challenging circuit in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this demanding hike.",
+      "h1": "Felmingham Circular Walk"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19938609
+  },
+  "ai": {
+    "summary": "A gentle 3.4 km circular hike around Etherley Farm near Leith Hill. The easy route weaves farmland tracks with woodland sections, offering straightforward terrain and the potential for scenic views on a clear day.",
+    "terrain_summary": "Mostly easy, flat to gently rolling farmland paths with short woodland sections. Expect occasional uneven ground and muddy patches after rain. Gate and stile crossings may be required; footwear with good grip is recommended.",
+    "safety_notes": "This is a short, easy countryside walk in the UK. Check weather and daylight before setting out. Wear sturdy footwear for uneven ground, and bring waterproof layers in wet conditions. Stay on marked paths, be mindful of livestock in fields, and watch for exposed wind on higher sections. Carry a charged phone and let someone know your route.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle and snacks",
+      "Map or offline GPS and compass",
+      "Sun protection (hat, sunscreen)",
+      "Small first-aid kit",
+      "Phone with emergency numbers and portable charger",
+      "Backpack to carry gear"
+    ],
+    "best_seasons": "Spring to autumn; winter visits are possible with warm clothing and waterproofs.",
+    "seo": {
+      "title": "Etherley Farm Loop, Leith Hill – Easy 3.4 km UK Hike",
+      "meta_description": "Explore the Etherley Farm Loop near Leith Hill in the UK. This easy 3.4 km hike combines farmland tracks with woodland, offering straightforward terrain and scenic views.",
+      "h1": "Etherley Farm Loop, Leith Hill – Easy 3.4 km Hike"
+    }
   }
 }

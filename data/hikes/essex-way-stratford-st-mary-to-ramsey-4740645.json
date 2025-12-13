@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 4740645
+  },
+  "ai": {
+    "summary": "A 48.2 km long, hard section of the Essex Way, running from Stratford St Mary to Ramsey in the UK. The route traverses broad Essex countryside—quiet lanes, farmland, river valleys, and small villages—making for a demanding long-distance hike that may be completed in one very long day or split across multiple days with overnight stops. It rewards persistent walkers with pastoral scenery, wildlife and a sense of rural solitude.",
+    "terrain_summary": "Expect a mix of surfaces: well-defined footpaths, field margins, occasional woodland tracks, and rural roads. The terrain is mostly flat to gently rolling, but the cumulative distance makes it strenuous. Be prepared for mud after rain, stiles and gates, and navigational attention in open paddocks or farm tracks. Scenic highlights may include riverbank sections and views across the surrounding countryside near Stratford St Mary.",
+    "safety_notes": "Weather in the UK can change quickly; check forecasts before setting out. The hike is long and physically demanding—plan for rests, water, and nutrition. Navigation is generally straightforward on waymarked routes, but carry a map and compass as a backup (GPS optional). Footing can be uneven and muddy; wear sturdy waterproof boots. Be mindful of livestock, gates and stile crossings; close gates behind you. Carry a light source if walking near dusk and have a plan for shelter or accommodation if weather turns bad. Inform someone of your itinerary, carry a charged mobile phone, but do not rely on signal in all areas. Respect private land and practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Layered clothing (base layer, mid layer, outer shell)",
+      "Hat and gloves (seasonal)",
+      "Map and compass (GPS optional)",
+      "Fully charged phone with offline maps",
+      "Water bottles or hydration system (at least 2 L total)",
+      "High-energy snacks and meals (plus a light meal if multi-day)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Sunscreen and sunglasses",
+      "Insect repellent (seasonal)",
+      "Trekking poles (optional)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offers milder weather and longer daylight, making long distances more manageable. Summer provides the best weather windows, while autumn brings pleasant scenery but potential mud after rain and shorter days. Winter hiking is possible but often more challenging due to cold, wind and mud.",
+    "seo": {
+      "title": "Essex Way: Stratford St Mary to Ramsey – 48.2 km Hard Trek in the UK",
+      "meta_description": "Explore the 48.2 km Essex Way section from Stratford St Mary to Ramsey in the UK. This hard-distance hike combines rural lanes, farmland, and riverbank scenery with practical safety tips and gear suggestions.",
+      "h1": "Essex Way: Stratford St Mary to Ramsey (48.2 km, Hard)"
+    }
   }
 }

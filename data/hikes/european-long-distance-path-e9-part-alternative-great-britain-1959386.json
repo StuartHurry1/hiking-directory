@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1959386
+  },
+  "ai": {
+    "summary": "The European long distance path E9 - part alternative Great Britain is a challenging, long-distance hike in the UK covering roughly 1506.6 km. The route traverses coastlines, upland areas, hills and towns, demanding high stamina, solid navigation skills, and careful planning from experienced hikers.",
+    "terrain_summary": "Varied UK terrain including coastal cliffs and beaches, boggy moorland, rolling fells, forests, farmland lanes, riverside paths, and occasional urban sections. Elevation gains are substantial in places, and weather can be highly changeable with wet, muddy conditions common, especially in upland and coastal segments.",
+    "safety_notes": "Plan for long days and variable weather. Wear proper layered clothing and a waterproof outer layer; carry navigation tools (map, compass, GPS) and know how to use them. Some sections have remote terrain with limited phone signal; carry an emergency plan and communication method. Check local access rights, path conditions, and tide schedules on coastal sections. Stay hydrated, bring reliable water treatment, sufficient food, and a means to shelter in bad weather. Practice Leave No Trace and be mindful of livestock and wildlife. Have an emergency contact plan and know when to cut the route for safety.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing plus a waterproof outer layer",
+      "Backpack (40–60L) with rain cover",
+      "Lightweight tent or bivy, sleeping bag (3-season), sleeping mat",
+      "Water purification method (filter, tablets, or similar) and extra water containers",
+      "Map, compass, and GPS device; keep a relevant route guide handy",
+      "Headlamp with extra batteries",
+      "First aid kit tailored for long-distance trekking",
+      "Emergency shelter or space blanket",
+      "Multi-tool, firestarter, and whistle",
+      "Trekking poles",
+      "Mobile power bank and charging cable",
+      "ID, insurance details, and emergency contacts",
+      "Small repair kit (duct tape, zip ties, spare parts)"
+    ],
+    "best_seasons": "May–September offers the best combination of daylight and more stable weather; spring and autumn can be rewarding but weather is more variable; winter hiking is possible only with appropriate technical gear and planning.",
+    "seo": {
+      "title": "European long distance path E9 – UK segment (Great Britain) | 1506.6 km of hard-distance hiking",
+      "meta_description": "Explore the UK portion of the European long distance path E9 (part alternative Great Britain). A demanding 1506.6 km trek across coast, moorland, hills, and towns. Planning, terrain, and safety tips included.",
+      "h1": "European long distance path E9 — UK segment (Great Britain)"
+    }
   }
 }

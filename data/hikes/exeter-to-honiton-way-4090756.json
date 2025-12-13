@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4090756
+  },
+  "ai": {
+    "summary": "A challenging 132.8 km long-distance hike from Exeter to Honiton in Devon, UK. The route traverses rural Devon countryside along a mix of lanes, public footpaths and bridleways, with several steep sections and long days on the trail.",
+    "terrain_summary": "The terrain is varied: quiet country lanes, well-used public footpaths, woodland tracks, hedged fields and occasional rocky or stony sections. Expect gentle to moderate climbs, with some longer ascents and rougher trails in upland or woodland edge areas.",
+    "safety_notes": "This is a long, hard hike requiring multi-day planning. Plan for multiple days with overnight stops; carry a detailed map and compass (GPS is helpful but not a substitute). Check weather and daylight hours; Devon weather can be changeable. Wear sturdy hiking boots, bring layered clothing, waterproofs, sun protection. Stay hydrated and carry enough food; have high-energy snacks. Inform someone of your route and expected finish; carry a whistle and basic first aid kit. Stay on waymarked paths; be prepared for remote sections with limited mobile signal. Take care on steep descents and on rough or wet surfaces; allow extra time for fatigue.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system (at least 2–3 litres capacity)",
+      "Map, compass, and/or GPS device; fully charged",
+      "Layered clothing and a waterproof, windproof outer shell",
+      "Hat and gloves for variable weather",
+      "Rain gear and emergency warmth layer",
+      "Sun protection (sunscreen, sunglasses)",
+      "Snack and high-energy foods; portable meal if multi-day",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care",
+      "Whistle, multi-tool, and emergency blanket",
+      "Mobile phone with power bank"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); summer offers longer daylight, but expect rain and variable conditions.",
+    "seo": {
+      "title": "Exeter to Honiton Way - 132.8 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore the Exeter to Honiton Way, a challenging 132.8 km trail through Devon, UK. Route overview, terrain, safety tips, gear recommendations and best seasons.",
+      "h1": "Exeter to Honiton Way: 132.8 km Hard Hike in the UK"
+    }
   }
 }

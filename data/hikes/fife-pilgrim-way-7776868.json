@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 7776868
+  },
+  "ai": {
+    "summary": "The Fife Pilgrim Way is a long-distance hiking route in the UK covering about 290.7 km. It traverses a mix of rural Fife countryside, coastal paths, and historic landscapes, offering a demanding trek that rewards experienced hikers with varied scenery and a sense of historical connection along Scotland's eastern edge.",
+    "terrain_summary": "Expect a mix of quiet country lanes, grassy tracks, farm paths, coastal cliffs, and moorland in places. The route includes long flat sections and some steep or uneven climbs, with occasional road walking and exposed coastal stretches. Weather can be changeable, so be prepared for mud after rain and strong winds on the headlands. Navigation is generally straightforward, but some parts may be poorly marked in fog.",
+    "safety_notes": "This is a long and varied route, so thorough planning is essential. Check weather, daylight hours, and potential closures; plan daily distances and accommodation or resupply points. Carry a current map and compass or GPS, and know how to use them. Wear sturdy boots and dress in layers with waterproof outerwear. Pack enough food and water for each leg, plus a small first aid kit and a basic emergency plan. Tell someone your itinerary and expected return times. In coastal or exposed sections, be aware of wind and weather changes, and adjust plans if conditions worsen. Respect farmland and local access rules; close gates behind you.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and waterproof pants",
+      "Insulated layer and a warm hat/gloves for cold weather",
+      "Rucksack ~20–30 L capacity",
+      "Water bottle or hydration system (2–3 L total)",
+      "Map and compass or GPS device",
+      "Whistle and basic first aid kit",
+      "Food and high-energy snacks for multi-day segments",
+      "Headlamp or small flashlight",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Lightweight rainCover for backpack",
+      "Mobile phone with offline maps and emergency numbers"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September).",
+    "seo": {
+      "title": "Fife Pilgrim Way: 290.7 km UK Long-Distance Hike",
+      "meta_description": "Plan your trek along the Fife Pilgrim Way in the UK. A hard 290.7 km route across rural Fife with coastal and inland terrain, safety tips, gear lists, and seasonal guidance.",
+      "h1": "Fife Pilgrim Way – 290.7 km Challenge Across Fife, UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 15739830
+  },
+  "ai": {
+    "summary": "A gentle 5.2 km hike in the UK that follows woodland trails through Fishpool Valley. The route is easy and suitable for beginners and families, offering tranquil scenery and a relaxed pace.",
+    "terrain_summary": "Mostly well-maintained woodland paths with gentle gradients. Expect compact gravel, packed dirt, and some roots or damp sections, especially after rain. Trees provide shade and a cool environment, but muddy patches can occur in wetter seasons.",
+    "safety_notes": "- Wear sturdy footwear with good grip. - Check local conditions and avoid during severe weather. - Stay on marked paths and follow posted closures. - Bring a light waterproof layer and sufficient water. - Watch for uneven surfaces, roots, and slippery leaves; give wildlife space. - Let someone know your plans and carry a charged phone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layers) and a waterproof jacket",
+      "Water bottle",
+      "Snacks",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS device / offline map",
+      "Small first-aid kit",
+      "Lightweight backpack",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for comfortable conditions; year-round hiking is possible, but winter can be wetter and colder.",
+    "seo": {
+      "title": "Fishpool Valley Walk — Easy 5.2 km Hike in the UK",
+      "meta_description": "Explore the easy 5.2 km Fishpool Valley walk in the UK. A family-friendly woodland hike with gentle slopes, tranquil scenery, and practical safety tips.",
+      "h1": "Fishpool Valley Walk — Easy 5.2 km Hike in the UK"
+    }
   }
 }

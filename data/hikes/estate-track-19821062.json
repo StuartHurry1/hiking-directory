@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19821062
+  },
+  "ai": {
+    "summary": "Estate Track is a 7.5 km moderate hike in the UK that follows a former estate route. It offers mixed terrain, occasional gate crossings, and scenic countryside views, suitable for walkers with some experience and good weather.",
+    "terrain_summary": "Expect a mix of compact estate roads, gravel paths, and muddy woodland tracks. Surfaces can be uneven and slippery after rain, with gentle to moderate climbs and several gate crossings.",
+    "safety_notes": "Check the weather and daylight hours; wear sturdy waterproof boots; carry a map, compass or GPS, and keep a charged phone; stay on marked paths and close gates after passing through; be aware of livestock near gates and heed any closures; bring water and snacks; dress for changing conditions and consider sun protection; inform someone of your planned route and expected return time.",
+    "recommended_gear": [
+      "Waterproof and windproof jacket",
+      "Sturdy hiking boots",
+      "Backpack with water and snacks",
+      "Map, compass or GPS device",
+      "Fully charged phone (with offline maps)",
+      "Hat and sunscreen",
+      "Lightweight rain cover or extra layers",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October), with optimal conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Estate Track Hike in the UK – 7.5 km Moderate Trail",
+      "meta_description": "Explore Estate Track, a 7.5 km moderate hike in the UK. Learn about terrain, safety tips, and gear to enjoy this scenic trail.",
+      "h1": "Estate Track: 7.5 km Moderate Hike in the UK"
+    }
   }
 }

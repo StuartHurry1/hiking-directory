@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13051258
+  },
+  "ai": {
+    "summary": "Fir Trail is a moderate-length woodland hike in the United Kingdom. This listing notes the route as 11.2 km, though it is commonly marketed as a 5 km trail. The path includes gentle gradients, uneven footing, and occasional muddy sections, making it suitable for hikers with some experience and good navigation.",
+    "terrain_summary": "Forest track with roots, grassy clearings, and occasional mud. Mostly well-defined trails, but visibility can be limited in dense sections. Elevation gain is gradual with short ascents; footing can be uneven and slippery when wet.",
+    "safety_notes": "Plan for UK weather variability. Carry waterproof clothing and extra layers; stay on marked paths; tell someone your route and expected return time. Bring a map and compass or GPS, and ensure your phone is charged. Be cautious of mud, roots, and slippery surfaces, and watch for livestock or wildlife in rural sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and extra layers",
+      "Water bottle or hydration system (2 L or more)",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone and power bank",
+      "Snack/energy bars",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Lightweight rain shell or packable poncho",
+      "Headlamp or flashlight"
+    ],
+    "best_seasons": "Spring to autumn in the UK; summer offers longer daylight and generally drier days but can include sudden rain; winter hiking is possible with extra caution due to mud and reduced daylight.",
+    "seo": {
+      "title": "Fir Trail: 11.2 km Moderate Woodland Hike in the UK",
+      "meta_description": "Explore Fir Trail, a moderate 11.2 km woodland hike in the United Kingdom. Find terrain details, safety tips, and gear recommendations for a day on the trail.",
+      "h1": "Fir Trail – 11.2 km Moderate Woodland Hike in the UK"
+    }
   }
 }

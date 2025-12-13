@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 6207605
+  },
+  "ai": {
+    "summary": "An easy 3.6 km woodland loop in the UK, suitable for families and casual walkers. A flat, well-marked trail through mixed woodland with tranquil scenery and occasional muddy patches after rain.",
+    "terrain_summary": "Flat to gently rolling forest path. Mostly packed dirt with some exposed roots and occasional muddy patches, especially after rain.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy, waterproof footwear and dress in layers. Carry a map or device with offline maps and a charged phone. Stay on marked paths and tell someone your planned route and return time. Bring water and a small snack. Be mindful of ticks and insects in woodland; check after your walk. Take care in busy periods as other walkers or cyclists may use the same trail.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Map or offline maps on a device",
+      "Fully charged mobile phone",
+      "Small first-aid kit",
+      "Sunscreen and hat (seasonally)",
+      "Insect repellent",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best weather and scenery, though the trail is walkable year-round with appropriate gear for winter conditions.",
+    "seo": {
+      "title": "Feshie Woodland Trail – Easy 3.6 km Forest Walk in the UK",
+      "meta_description": "Discover the 3.6 km easy Feshie Woodland Trail in the UK. Family-friendly forest path with flat terrain, wildlife, and peaceful woodland scenery.",
+      "h1": "Feshie Woodland Trail – Easy 3.6 km Forest Walk"
+    }
   }
 }

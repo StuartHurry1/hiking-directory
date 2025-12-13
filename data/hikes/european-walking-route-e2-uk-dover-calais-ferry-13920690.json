@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13920690
+  },
+  "ai": {
+    "summary": "A hard coastal section of the European walking route E2 in the UK, spanning 49 km around the Dover area. The route includes a Channel ferry crossing from Dover to Calais, which is not walked. Expect exposed cliff paths, headlands, and variable tides; plan multi-day trekking with careful weather and ferry timing.",
+    "terrain_summary": "Coastal terrain with clifftop paths, chalk cliffs, shingle beaches, and occasional road sections. Expect exposed winds, uneven footing, and possible slippery surfaces near the shore; navigation relies on maps and markers along the coast.",
+    "safety_notes": "Check ferry schedules and book in advance for the Dover–Calais crossing; the Channel crossing is by ferry and not part of the hike. Monitor tide times, weather, and wind forecasts; coastal paths can be exposed and slippery, especially after rain. Wear sturdy footwear, carry a charged phone and map, and inform someone of your plan and expected return. In case of poor conditions, be prepared to shorten or pause the hike and seek shelter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof, windproof jacket and insulating layer",
+      "Rucksack with waterproof cover",
+      "Map, compass, or GPS device",
+      "Water bottle or hydration bladder (2–3 L) and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Whistle, emergency blanket or bivy, and personal identification",
+      "Sun protection (hat, sunscreen) and a phone charger"
+    ],
+    "best_seasons": "May–September for the best weather and daylight; shoulder seasons (April, October) can be workable with caution due to variable conditions.",
+    "seo": {
+      "title": "E2 UK Dover to Calais: 49 km Coastal Trek on the European Walking Route",
+      "meta_description": "Plan a challenging 49 km segment of the E2 in the UK near Dover, including the Dover–Calais ferry crossing. Practical gear, safety tips, and best seasons for the hike.",
+      "h1": "E2 UK Dover to Calais Coastal Trek (49 km)"
+    }
   }
 }

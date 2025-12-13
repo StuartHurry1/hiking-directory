@@ -17,5 +17,38 @@
   "source": {
     "type": "osm",
     "osmId": 1959466
+  },
+  "ai": {
+    "summary": "A strenuous long-distance hike tracing an Isle of Wight-focused alternative to the European long-distance path E9. At 181.4 km (about 113 miles), it traverses coastal cliff paths, chalk downs, woodlands, and rural lanes with regular elevation changes and exposed sections.",
+    "terrain_summary": "Primarily coastal and upland terrain: cliff-top paths along the southern coast, chalk downs, hedged lanes, woodlands, and beach stretches. Expect frequent elevation changes, rugged sections, tidal crossings, and varying surface conditions from tarmac to grassy tracks.",
+    "safety_notes": "Weather can change rapidly; cliff edges and erosion present hazards. Stay on marked paths, pay attention to tides on coastal sections, and carry a map and compass in addition to a GPS. Mobile signal may be patchy in rural areas. Plan for daylight hours, partner where possible, and arrange accommodations or overnighting in advance. Bring sufficient food and water and know your limits to avoid dehydration or exhaustion.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece or mid-layer)",
+      "Base layers",
+      "Daypack (40–50 L)",
+      "Water bottle and water treatment (filter or purification tablets)",
+      "High-energy food and snacks",
+      "Map and compass (GPS as backup)",
+      "First aid kit with blister care",
+      "Emergency bivy or space blanket",
+      "Headlamp with extra batteries",
+      "Whistle",
+      "Multi-tool or knife",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Dry bags or pack liner",
+      "Towel and swimsuit (optional for beach swims)",
+      "Weather-appropriate gloves and hat",
+      "Trekking poles",
+      "Tent or tarp for overnighting (optional, depending on plan)"
+    ],
+    "best_seasons": "March to October for the most favorable conditions; shoulder seasons can be windy and damp, while winter hiking is more challenging due to storms and shorter daylight.",
+    "seo": {
+      "title": "European Walking Route E9 – Isle of Wight Alternative (UK) | 181.4 km Challenge",
+      "meta_description": "Tackle the hard 181.4 km Isle of Wight alternative to the European E9 route. Coastal cliffs, downs, and rural trails across the UK—plan your trek today.",
+      "h1": "European Walking Route E9 – Isle of Wight Alternative (UK)"
+    }
   }
 }

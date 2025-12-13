@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 8735173
+  },
+  "ai": {
+    "summary": "A short, easy 3 km circular walk in the UK, suitable for beginners and families. This route is part of the Erewash Circular Walk series and offers a gentle circuit with level paths and light scenery.",
+    "terrain_summary": "Mostly flat with a mix of paved paths, compact gravel, and grassy sections. Some surfaces may be uneven or slightly muddy after rain; sensible footwear is recommended.",
+    "safety_notes": "Stay on marked paths and be mindful of other walkers and cyclists on shared sections. Check weather and daylight conditions before starting. Carry a map or GPS, bring a light layer for changeable conditions, and keep dogs under control where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Light layers for warmth",
+      "Map or offline route guidance"
+    ],
+    "best_seasons": "Spring to autumn offer the most comfortable conditions; the walk can be done in milder winter weather with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Erewash Circular Walk 11 – Easy 3 km UK Circular Walk",
+      "meta_description": "Discover Erewash Circular Walk 11, an easy 3 km loop in the UK. Perfect for families and beginners, featuring flat terrain, simple paths, and gentle scenery.",
+      "h1": "Erewash Circular Walk 11 – Easy 3 km Circular Walk"
+    }
   }
 }

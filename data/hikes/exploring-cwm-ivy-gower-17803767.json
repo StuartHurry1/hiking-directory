@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17803767
+  },
+  "ai": {
+    "summary": "An easy 5.8 km hike along the Cwm Ivy route on the Gower Peninsula. The walk is suitable for families and casual walkers, with gentle gradients, grassy tracks, and rewarding coastal views for most of the route.",
+    "terrain_summary": "Mainly grassy paths and woodland trails with occasional muddy patches after rain. Gentle ascents and flat sections characterize the route; expect uneven ground in places and some exposed, open sections with sea views.",
+    "safety_notes": "Check weather and tide times before you go; wear sturdy footwear and stay on marked paths. The coastal terrain can be windy and slippery when wet. Bring waterproofs and water, watch for livestock and dogs in fields, and carry a map or GPS. Let someone know your planned route and expected return time; be prepared for sudden UK weather changes.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Layered clothing and a weatherproof jacket",
+      "Water bottle",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Map or offline GPS",
+      "Sunscreen and sunglasses",
+      "Phone and portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best balance of milder weather and coastal views; summers can be busier, while winters are windy and wetter.",
+    "seo": {
+      "title": "Exploring Cwm Ivy, Gower – Easy 5.8 km Hike in the UK",
+      "meta_description": "Discover the easy 5.8 km hike Exploring Cwm Ivy on the Gower Peninsula, UK. Gentle grassy tracks, woodland paths, and coastal scenery make this family-friendly route ideal for a relaxed day outdoors.",
+      "h1": "Exploring Cwm Ivy, Gower – Easy 5.8 km Hike"
+    }
   }
 }

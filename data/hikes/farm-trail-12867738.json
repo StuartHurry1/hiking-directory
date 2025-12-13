@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12867738
+  },
+  "ai": {
+    "summary": "Farm Trail is a short, easy 2.8 km hike in the UK. It’s suitable for beginners and families, offering gentle terrain and rural farmland scenery with straightforward navigation.",
+    "terrain_summary": "The route runs along farm paths, compacted earth, and grassy sections. Expect occasional muddy patches after rain and gates or stiles to pass through; sturdy footwear with good grip is recommended.",
+    "safety_notes": "Always check access rights and property signs and stay on public paths. Be mindful of livestock and gates, and close gates behind you. Weather can change quickly; bring extra layers, water, and a snack. Wear sturdy shoes with good grip and carry a map or GPS. If you bring a dog, keep it under control and clean up after it where required. Plan for shorter daylight in winter and start early.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Light snack",
+      "Sun protection (hat, sunscreen)",
+      "Map or GPS / smartphone with offline map",
+      "Light rain jacket"
+    ],
+    "best_seasons": "All year, with spring to autumn generally more pleasant; in winter be prepared for mud and reduced daylight.",
+    "seo": {
+      "title": "Farm Trail – Easy 2.8 km hike in the UK",
+      "meta_description": "Explore Farm Trail, an easy 2.8 km hike in the UK. Simple terrain, rural scenery, practical safety tips, and gear recommendations for a short outdoor stroll.",
+      "h1": "Farm Trail – Easy 2.8 km Hike in the UK"
+    }
   }
 }

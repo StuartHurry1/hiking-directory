@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 6084662
+  },
+  "ai": {
+    "summary": "A short, easy 5.1 km hike along the Exeter Woollen Trail in the UK. The route is suitable for beginners and families, offering largely flat paths with light urban scenery and a touch of local woollen heritage.",
+    "terrain_summary": "Mostly flat, well-maintained paths with some pavement or gravel. Occasional uneven surfaces near heritage sites or at edges of wooded sections; expect gentle gradients rather than steep climbs.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy footwear and bring a light waterproof layer. Stay on marked paths, watch for cyclists on shared routes, and be mindful of road crossings. Carry a map or GPS, have a charged phone, and keep valuables secure.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or shell",
+      "Map or offline GPS app",
+      "Sunscreen and hat",
+      "Snacks",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn for pleasant weather and good visibility; doable year-round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Exeter Woollen Trail – 5.1 km Easy Hike in the UK",
+      "meta_description": "Explore the Exeter Woollen Trail, a 5.1 km easy hike in the UK. Ideal for beginners and families, featuring flat paths, light scenery, and a glimpse of woollen heritage.",
+      "h1": "Exeter Woollen Trail (5.1 km) – Easy UK Hike"
+    }
   }
 }

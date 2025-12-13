@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 18165793
+  },
+  "ai": {
+    "summary": "Fallows Trail is a demanding 37.2 km hike in the UK, classified as hard. It traverses a mix of rural paths and remote sections, requiring solid fitness, navigation skills, and thorough preparation to complete in a day or as a multi-day trek.",
+    "terrain_summary": "The route combines long stretches of undulating footpaths, stony tracks, grassy climbs, hedged lanes, and occasional mud. Expect uneven footing, exposed sections, and moments of rough ground where navigation or footing matters. Surface quality varies with weather and season; some sections may be overgrown or poorly marked.",
+    "safety_notes": "Prepare for a long, hard trek. Plan for a day-long or multi-day outing. Check weather forecasts and daylight hours; UK weather is changeable. Carry a detailed map and compass in addition to a GPS device. Inform someone of your plans and expected return. Carry ample water and high-energy food; allow extra for delays. Wear sturdy footwear with good grip and carry a rain jacket, insulating layers, and sun protection. Be prepared for navigation in remote sections where cell service may be unreliable. If you’re unsure of your fitness or conditions, consider breaking the hike into stages or turning back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good traction",
+      "Rucksack (20–30 L) with a waterproof cover",
+      "Water: at least 2–3 litres plus electrolyte drinks",
+      "Weather-appropriate clothing (waterproof jacket, insulating layer, hat, gloves)",
+      "Map and compass (and/or GPS with offline maps)",
+      "Phone with emergency contacts and offline maps",
+      "Headlamp or small torch",
+      "First-aid kit",
+      "Energy-rich snacks and meals for a long day",
+      "Whistle for emergencies",
+      "Emergency bivy or space blanket",
+      "Sun protection (sunscreen, sunglasses)",
+      "Walking poles (optional but helpful on rough terrain)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) are ideal for the Fallows Trail in the UK. Longer daylight hours and generally drier conditions improve safety and pace. Autumn offers quieter trails but expect mud and leaf litter; winter hikes are more challenging due to cold, wind, and reduced daylight.",
+    "seo": {
+      "title": "Fallows Trail – 37.2 km Hard Hike in the UK",
+      "meta_description": "Discover Fallows Trail, a challenging 37.2 km hike in the UK. Learn about terrain, safety, and gear to help you plan a successful long-distance trek.",
+      "h1": "Fallows Trail: UK 37.2 km Hard Hike"
+    }
   }
 }

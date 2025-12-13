@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11479747
+  },
+  "ai": {
+    "summary": "The Fair Isle Circular is a 14.2 km loop in the UK of moderate difficulty. It blends coastal paths with grassy and rocky sections, rewarding hikers with sea views, wildlife opportunities, and a satisfying day out. Expect varied terrain, some elevation, and potentially strong winds; plan for a full day and good navigation.",
+    "terrain_summary": "Terrain varies from coastal footpaths and grassy leads to short rocky climbs. Expect uneven footing, muddy patches after rain, and exposed sections with open Atlantic views. Weather can shift quickly; protective footwear and layers are essential.",
+    "safety_notes": "Always check the forecast and tide times if the route runs near the shoreline. Stay on marked paths, keep a safe distance from cliff edges, and avoid loose rocks. Carry a map and compass (or a GPS), and know how to use them. Tell someone your plan and ETA. Bring enough water and food, light rain protection, and extra layers; in UK conditions, carry a means to call for help and use 999 in emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof outer layer (jacket and pants)",
+      "Warm layers (fleece or sweater)",
+      "Windproof hat and gloves",
+      "Backpack with water and energy snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps and spare battery",
+      "Headlamp or flashlight",
+      "Personal first aid kit",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Space blanket or insulating layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer milder weather and longer daylight for this coastal loop. However, wind and rain can occur any time of year on the coast, so always check the forecast and be prepared for fast-changing conditions.",
+    "seo": {
+      "title": "Fair Isle Circular Hike – 14.2 km Moderate Coastal Loop (UK)",
+      "meta_description": "Discover the Fair Isle Circular, a 14.2 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear to enjoy this coastal loop.",
+      "h1": "Fair Isle Circular Hike"
+    }
   }
 }

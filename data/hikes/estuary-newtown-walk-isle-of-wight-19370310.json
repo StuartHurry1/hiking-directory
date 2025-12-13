@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19370310
+  },
+  "ai": {
+    "summary": "Estuary Newtown Walk is an 11 km circuit around the tidal Newtown Estuary on the Isle of Wight, UK. The route offers flat, scenic coastal paths, potential wildlife viewing, and views across the water, suitable for walkers with moderate fitness and comfortable footwear.",
+    "terrain_summary": "Mostly flat coastal paths with some boardwalk sections. Expect gravel and compact earth near the estuary, occasional soft mud at low tracks, and a few wooden crossings. The surface can be uneven and slick when wet, and tidal areas may have puddles at certain times.",
+    "safety_notes": "Check tide times before setting off; parts of the route can flood at high tide or become muddy near the estuary. Wear sturdy, waterproof footwear and bring layers. Stay on marked paths, be mindful of cyclists on shared routes, and bring water. In coastal weather, the wind can be strong; carry a phone or map and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Lightweight waterproof jacket and layered clothing",
+      "Water and some snacks",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Map, compass or fully charged phone with offline map",
+      "Small first-aid kit",
+      "Insect repellent (seasonal)",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring through autumn; year-round but best in late spring and early autumn for wildlife and milder weather.",
+    "seo": {
+      "title": "Estuary Newtown Walk – 11 km Coastal Hike on the Isle of Wight, UK",
+      "meta_description": "Discover the 11 km Estuary Newtown Walk on the Isle of Wight. A moderate coastal hike with flat paths, tidal estuary views, and great birdwatching opportunities. Tide and gear tips included.",
+      "h1": "Estuary Newtown Walk (Isle of Wight) – 11 km Moderate Coastal Hike"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19366869
+  },
+  "ai": {
+    "summary": "A short, family-friendly 1.8 km stroll on the Family Trail at Mottistone. This easy route follows a well-maintained path with gentle gradients, making it suitable for children and casual walkers while offering pleasant countryside views.",
+    "terrain_summary": "Flat to gently undulating footpath along a well-kept trail. Expect grassy verges, occasional gravel sections, and some compact paths. Sun and shade balance varies along the route.",
+    "safety_notes": "Wear sturdy walking shoes and check the weather before you go. Keep to the marked path, watch for uneven surfaces or loose stones, and carry a small water bottle. Bring a light layer in case of cooler conditions; if coastal winds pick up, have a windproof layer handy.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer or waterproof jacket",
+      "Sunscreen and hat",
+      "Phone or map",
+      "Snack for the trail"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal; winter visits are possible but can be windy and muddy.",
+    "seo": {
+      "title": "Family Trail, Mottistone – Easy 1.8 km hike in the UK",
+      "meta_description": "Explore the Family Trail at Mottistone, a gentle 1.8 km walk suitable for families. Easy, well-maintained paths with countryside views in the UK.",
+      "h1": "Family Trail, Mottistone – Easy 1.8 km hike"
+    }
   }
 }

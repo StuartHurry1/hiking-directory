@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 2054248
+  },
+  "ai": {
+    "summary": "Firecrest Trail is a 14.3 km hike in the UK with a moderate difficulty. The exact region is unspecified, but the route offers a mix of hedgerows, woodland, and open moorland with varied terrain and rewarding views. Suitable for hikers with moderate experience seeking a day-long outing.",
+    "terrain_summary": "The trail features a mix of well-defined paths, grassy lanes, and occasional stone steps. Expect uneven ground, short rocky or muddy sections, and a few moderate ascents. Some portions may be exposed, and footing can be tricky after rain.",
+    "safety_notes": "UK weather can change rapidly. Dress in layers and bring a waterproof jacket and trousers. Wear sturdy, grippy footwear. Stay on marked paths and carry a map and compass or GPS. Inform someone of your plan and expected return. Bring sufficient water and snacks, and be prepared for longer times if you stop for photos. In winter, conditions can be snowy or icy; consider postponing if weather is poor. Be cautious of livestock in rural areas and rely on a charged phone as a backup.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Layered clothing (base layer, fleece, hat, gloves)",
+      "Backpack with water or hydration system",
+      "Map and compass (and/or GPS device)",
+      "Fully charged phone (with offline map as backup)",
+      "Food and high-energy snacks",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency blanket or bivy sack",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are generally ideal, with longer daylight and milder conditions. Summer offers more daylight but can be variable; autumn provides pleasant weather and scenery. Winter hiking is possible only with appropriate gear and experience.",
+    "seo": {
+      "title": "Firecrest Trail – 14.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the 14.3 km Firecrest Trail in the UK. A moderate hike with varied terrain, safety tips, and a packing list to help you plan your outing.",
+      "h1": "Firecrest Trail: 14.3 km Moderate Hike in the UK"
+    }
   }
 }

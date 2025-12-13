@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 3446928
+  },
+  "ai": {
+    "summary": "A short, easy circular hike around the Erewash area in the UK. At 2.2 km, it’s suitable for families and casual walkers, with gentle terrain and minimal ascent.",
+    "terrain_summary": "Mostly flat or gently rolling paths, combining grassy tracks and a few paved sections. Expect occasional puddles after rain; suitable for all-weather footwear.",
+    "safety_notes": "This is a short route with minimal elevation, but still follow safety basics. Stay on established paths; watch for other pedestrians and cyclists on shared sections; be mindful of road crossings; check weather and daylight hours; bring water and a light layer.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate layer (waterproof jacket if rain is expected)",
+      "Small backpack",
+      "Map or offline navigation (or fully charged phone with GPS)",
+      "Sun protection (sunscreen, hat)",
+      "Snack or energy bar",
+      "Phone/power bank"
+    ],
+    "best_seasons": "All year, with the best conditions typically in spring to autumn.",
+    "seo": {
+      "title": "Erewash Circular Route 4 (2.2 km) – Easy Hike in the UK",
+      "meta_description": "Explore Erewash Circular Route 4, an easy 2.2 km hike in the UK. Perfect for families and casual walkers; terrain, safety tips, and best seasons.",
+      "h1": "Erewash Circular Route 4 – 2.2 km Easy Walk in the UK"
+    }
   }
 }

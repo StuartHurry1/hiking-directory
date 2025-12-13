@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 14594959
+  },
+  "ai": {
+    "summary": "The Eynort Loop is a 16.7 km hard hike in the UK, combining rugged coastal moorland, rocky ascents, and long stretches of uneven terrain. It rewards with open sea views but demands good fitness, navigation, and preparation.",
+    "terrain_summary": "Rugged and varied: rocky paths, grassy uplands, boggy patches, and exposed ridgelines. Expect steep ascents and descents, uneven footing, and wind exposure on exposed sections. Trails can be muddy after rain; waterproof boots and solid traction are essential.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. The route includes exposed sections and coastal elements, so navigation can be challenging in poor visibility; carry a map and compass or GPS, and know your escape routes. Be aware of tides and cliff edges if the path runs along the coast. Start early to ensure a safe return in daylight. Share your plan with someone, bring enough water and food, and carry a basic first aid kit and a means to signal for help.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather appropriate clothing including a waterproof windproof shell and layered insulation",
+      "Backpack with 20–30 L capacity",
+      "Water 2–3 L per person",
+      "High energy snacks and a meal if needed",
+      "Map and compass (or GPS) and fully charged devices",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and an emergency shelter or space blanket",
+      "Whistle and personal locator beacon (optional)",
+      "Trekking poles (optional but helpful on rough descents)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Eynort Loop Hike — 16.7 km Hard UK Route",
+      "meta_description": "Tackle the Eynort Loop, a 16.7 km hard hike in the United Kingdom. Rugged coastal moorland, dramatic views, and technical terrain require preparation and navigation.",
+      "h1": "Eynort Loop Hike"
+    }
   }
 }

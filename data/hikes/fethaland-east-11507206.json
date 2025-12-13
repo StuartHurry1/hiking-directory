@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 11507206
+  },
+  "ai": {
+    "summary": "Fethaland East is a hard 32.4 km hike in the UK, combining rugged coastal paths with exposed moorland. It is suited to experienced walkers and can demand solid navigation, weather preparedness, and long daylight hours. Expect substantial elevation changes, long sections with little shelter, and variable conditions.",
+    "terrain_summary": "The route traverses coastal cliff and ridge paths, rough grass moorland, and rocky sections. Ground is uneven with boggy patches, especially after rain. Winds are often strong along the coast, and some sections are exposed and scrambling-like, though not technical climbing. Total elevation gain is variable depending on route choice.",
+    "safety_notes": "Check tide times and weather before setting out; stay well back from cliff edges and avoid exposed ridges in strong winds. Carry a map and compass as navigation aids (GPS can fail in remote areas). Do not rely on mobile signal. Start with ample daylight; carry a plan for weather changes, extra food and water, and a means of communication or emergency beacon. Inform someone of your itinerary and expected return.",
+    "recommended_gear": [
+      "Water (at least 2–3 liters) and high-energy snacks",
+      "Waterproof jacket and pants (breathable, windproof)",
+      "Sturdy waterproof hiking boots with good grip",
+      "Backpack (20–30 L) with secure closure",
+      "Map and compass (GPS as backup); fully charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care essentials",
+      "Emergency foil blanket or bivy sack",
+      "Extra warm layers (fleece/insulation) and a hat/gloves",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) typically offers the best conditions in the UK, though weather remains changeable. Winter hikes are more challenging and require advance experience.",
+    "seo": {
+      "title": "Fethaland East: 32.4 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore Fethaland East, a demanding 32.4 km hike featuring rugged coastal and moorland terrain in the UK. Get route overview, safety tips, and gear recommendations.",
+      "h1": "Fethaland East: 32.4 km Hard Coastal Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 272308
+  },
+  "ai": {
+    "summary": "The Exeter Green Circle is a challenging 45.4 km circular hike around Exeter, UK, looping through countryside, woodland and along minor roads. Expect undulating terrain and a full day on foot. The route visits a mix of fields, hedgerows and rural scenery, demanding stamina and good navigation.",
+    "terrain_summary": "A varied long-distance route with mostly undulating terrain, a mix of stony paths, muddy fields, country lanes and woodland tracks. Expect occasional gate stiles, short road sections and some exposed sections. Ground conditions can be boggy after rain.",
+    "safety_notes": "Plan for a long day of walking with sufficient food and water. Take a map and compass or a GPS device; don't rely on mobile signal in remote sections. Wear sturdy waterproof boots and dress in layers. Check weather forecast, watch for sudden changes, especially in higher or exposed sections. Let someone know your route and expected return time. Be mindful of livestock, farm gates, and local access rules. Carry a whistle and basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and warm layers",
+      "Rucksack with 1–2 liters of water + snacks",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Emergency whistle",
+      "First aid kit",
+      "Headtorch and spare batteries",
+      "Extra socks",
+      "Camera or phone for photos",
+      "Lightweight insulating layers",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for better weather and daylight; can be done in winter with preparation and shorter daylight.",
+    "seo": {
+      "title": "Exeter Green Circle – 45.4 km Hard Circular Hike in the UK",
+      "meta_description": "Explore the Exeter Green Circle, a 45.4 km hard circular hike in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this long-distance route.",
+      "h1": "Exeter Green Circle – 45.4 km Hard Circular Hike"
+    }
   }
 }

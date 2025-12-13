@@ -19,5 +19,24 @@
   "source": {
     "type": "osm",
     "osmId": 19914869
+  },
+  "ai": {
+    "summary": "A gentle 3.5 km circular heritage trail around Fell Foot, offering easy lakeside scenery and a glimpse into local heritage. Suitable for families and casual walkers, with flat or gently sloped paths and scenic views over the lake.",
+    "terrain_summary": "Mostly flat to gently undulating paths along the lakeshore, with a mix of compacted gravel, boardwalk sections and a few grassy stretches. Expect well-maintained routes around historic sites and open grassland.",
+    "safety_notes": "Stay on marked paths; be aware of other pedestrians and cyclists on shared routes. Check the weather forecast and wear sturdy footwear. Carry water, sun protection in warm months, and supervise children near the water's edge.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Camera or smartphone",
+      "Map or offline route guide"
+    ],
+    "best_seasons": "Spring to autumn; year-round with cooler, rainier conditions and muddier trails in winter.",
+    "seo": {
+      "title": "Fell Foot Circular Heritage Trail – Easy Lakeside Walk in the UK",
+      "meta_description": "Explore Fell Foot’s 3.5 km circular heritage trail. An easy, family-friendly lakeside walk with heritage highlights and scenic views around Fell Foot, UK.",
+      "h1": "Fell Foot Circular Heritage Trail: Easy Lakeside Walk"
+    }
   }
 }

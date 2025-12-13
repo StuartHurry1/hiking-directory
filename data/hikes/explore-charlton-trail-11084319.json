@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11084319
+  },
+  "ai": {
+    "summary": "Explore Charlton Trail is an 8.3 km moderate hike in the UK, offering a steady pace with scenic views and well-marked paths. Suitable for hikers with a reasonable level of fitness and comfortable footwear.",
+    "terrain_summary": "Mixed terrain including well-marked trails, gentle ascents, grassy paths, and occasional uneven rocky sections. Expect muddy sections after rain and potential wind exposure in open areas.",
+    "safety_notes": "Check the weather forecast before you go and dress in layers. Wear sturdy hiking boots and bring a waterproof layer. Stay on marked trails, watch your footing on uneven ground, and beware of muddy sections. Carry a map or GPS, a fully charged phone, enough water, snacks, and a basic first aid kit. Let someone know your planned route and ETA. In low light, carry a headlamp or flashlight and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (1–2 L) and snacks",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map or GPS device (and compass as backup)",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle for emergencies",
+      "Sunscreen and hat",
+      "Light rain jacket and an extra layer",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October); bring layers and be prepared for changeable UK weather year-round.",
+    "seo": {
+      "title": "Explore Charlton Trail – 8.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the 8.3 km Explore Charlton Trail in the United Kingdom. A moderate hike with mixed terrain, ideal for a scenic day trip.",
+      "h1": "Explore Charlton Trail – 8.3 km Moderate Hike in the UK"
+    }
   }
 }

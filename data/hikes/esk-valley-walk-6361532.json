@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 6361532
+  },
+  "ai": {
+    "summary": "Esk Valley Walk is a challenging long-distance hike in the UK. Spanning 314.5 km and rated hard, the route traverses a mix of rural farmland, river valleys, woodlands, and occasional upland segments, demanding solid stamina, navigation skills, and careful trip planning. The exact regional context within the UK is unspecified.",
+    "terrain_summary": "Expect diverse terrain: riverside paths and farmland, woodland trails, rolling hills and intermittent upland sections. The route includes steep ascents, uneven surfaces, and exposed sections where weather can change quickly.",
+    "safety_notes": "This is a long, multi-day trek in the UK; plan accommodations or camping along the way. Check weather forecasts and daylight hours. Wear sturdy boots and layered clothing. Carry a map and compass (and/or a reliable GPS), plus a charged phone with a power bank. Bring sufficient water and high-energy food; inform someone of your itinerary. Be prepared for remote sections with limited services, and carry a whistle, first aid kit, and an emergency shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Layered clothing and extra base layers",
+      "Backpack with rain cover",
+      "Hydration system (water bottles or hydration bladder) and high-energy snacks",
+      "Map and compass (or GPS device)",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and any personal medications",
+      "Emergency shelter or bivvy bag",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Hat and gloves",
+      "Trekking poles",
+      "Mobile phone with portable charger",
+      "Lightweight tent or bivvy for occasional camping"
+    ],
+    "best_seasons": "Spring to autumn; generally March to October, though weather in the UK can be changeable.",
+    "seo": {
+      "title": "Esk Valley Walk - 314.5 km UK Long-Distance Hike",
+      "meta_description": "Discover Esk Valley Walk, a hard 314.5 km multi-day trek across the UK. Practical tips on terrain, safety, gear and planning for this challenging route.",
+      "h1": "Esk Valley Walk: A 314.5 km UK Long-Distance Trek"
+    }
   }
 }

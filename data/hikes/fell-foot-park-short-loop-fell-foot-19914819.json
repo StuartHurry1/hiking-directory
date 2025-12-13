@@ -19,5 +19,24 @@
   "source": {
     "type": "osm",
     "osmId": 19914819
+  },
+  "ai": {
+    "summary": "A gentle, 1.9 km lakeside loop at Fell Foot Park in the UK. The easy, family-friendly route follows well-maintained paths around the lake, offering scenic views and opportunities to spot wildlife along the water's edge.",
+    "terrain_summary": "Mostly flat with a mix of compact gravel and paved surfaces. Some grassy or lawned sections near the lake shore; overall accessible for most walkers and suitable for wheelchairs on well-maintained paths.",
+    "safety_notes": "Stay on marked paths and supervise children near the water. The lake edge can be slippery when wet. The route is shared with cyclists and near boating activity, so pass with care. UK weather can change quickly—bring a layer and waterproofs. For accessibility, surfaces are generally flat, but occasional uneven or damp patches may occur.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate layers (including waterproof jacket)",
+      "Sun protection (hat and sunscreen)",
+      "Small first aid kit",
+      "Smartphone or map with park information"
+    ],
+    "best_seasons": "Spring to Autumn (year-round possible, but best with milder weather and longer daylight)",
+    "seo": {
+      "title": "Fell Foot Park Short Loop – Easy 1.9 km Lakeside Walk in the UK",
+      "meta_description": "Discover Fell Foot Park Short Loop, a gentle 1.9 km lakeside circuit perfect for families and beginners. Enjoy flat paths, scenic lake views, and relaxing parkland.",
+      "h1": "Fell Foot Park Short Loop: Easy 1.9 km Lakeside Walk"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11506930
+  },
+  "ai": {
+    "summary": "The Firth Circular is a gentle 3.1 km loop in the UK, suitable for beginners and families seeking a short, scenic outing with mostly flat terrain and well-maintained paths.",
+    "terrain_summary": "A mostly well-trodden path with grass and earth surfaces, occasional gravel, and a few gentle rises. Expect muddy sections after rain and varying exposure to sun and shade.",
+    "safety_notes": "Plan for changeable UK weather and bring appropriate gear. Wear sturdy waterproof footwear and a waterproof layer, plus sun protection as needed. Stay on marked paths, mind uneven ground, gates or stiles, and watch for slippery sections after rain. If near coastal areas, check tides and local guidance. Keep children and dogs under control, and let someone know your planned return time. Mobile coverage may be limited in rural sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Sun protection and a hat",
+      "Snack or energy bar",
+      "Map or offline GPS",
+      "Basic first aid kit",
+      "Phone with charged battery"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Firth Circular Walk – 3.1 km Easy Hike in the UK",
+      "meta_description": "Explore the Firth Circular, a 3.1 km easy walk in the UK. Ideal for beginners and families, featuring gentle terrain and scenic views along a simple loop.",
+      "h1": "Firth Circular Walk 3.1 km Easy Hike"
+    }
   }
 }

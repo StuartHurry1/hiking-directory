@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13125939
+  },
+  "ai": {
+    "summary": "A short, easy forest riverside walk in the UK on the Fardross Forest River Trail. At just 0.8 km, it offers a relaxed outing suitable for families and casual walkers, with gentle scenery along a river through forest.",
+    "terrain_summary": "Flat to gently undulating forest track along the riverbank. Surfaces are primarily packed earth and gravel, with occasional wooden boardwalk sections near the water.",
+    "safety_notes": "This is a short, easy trail, but always follow standard safety practices: wear sturdy footwear, watch for uneven ground and tree roots, and avoid slippery surfaces after rain. Stay on marked paths, keep children within arm’s reach near water, check weather and dress accordingly, carry water, and use insect repellent in summer. Be mindful of ticks in wooded areas and know how to respond if wildlife is encountered.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Small first aid kit",
+      "Insect repellent",
+      "Map or GPS device",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn for mild weather and comfortable conditions; the trail can be enjoyed year-round, but be prepared for cold or wet conditions in winter.",
+    "seo": {
+      "title": "Fardross Forest River Trail – Easy 0.8 km Forest Walk in the UK",
+      "meta_description": "Explore the 0.8 km Fardross Forest River Trail in the UK. An easy, family-friendly forest walk along a river with flat terrain, practical safety tips, gear suggestions, and best seasons.",
+      "h1": "Fardross Forest River Trail – Easy 0.8 km UK Forest Walk"
+    }
   }
 }

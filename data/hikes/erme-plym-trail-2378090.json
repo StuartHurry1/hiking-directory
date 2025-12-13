@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 2378090
+  },
+  "ai": {
+    "summary": "The Erme-Plym Trail is a challenging long-distance hike in the United Kingdom, spanning about 48.6 km. The route links the Erme estuary area with the Plym area, traversing a mix of coastal paths, riverbanks, wooded lanes, and open moorland with several steep or uneven sections. Expect undulating terrain and a hard overall difficulty suitable for fit hikers seeking a multi-day trek.",
+    "terrain_summary": "The trail traverses mixed terrain, including coastal paths, riverbanks, woodland trails, and exposed moorland. Surfaces range from compact tracks to rocky outcrops and muddy moorland, with several ascents and descents. Weather and tides can affect footing, so navigation awareness and sturdy footwear are essential.",
+    "safety_notes": "This is a hard-to-very-hard route by distance with potential long days in changeable UK weather. Plan ahead: check tide times for coastal sections, bring a map and compass, and carry a fully charged phone as backup. Tell someone your itinerary and expected finish. Pack adequate food and water, expect mud, and be prepared for sudden weather changes and limited daylight.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (base layer, insulating layer, and waterproof shell)",
+      "Backpack with rain cover",
+      "Water (at least 2 L) and high-energy snacks",
+      "Map and compass (GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Emergency whistle and space blanket",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Trekking poles (optional)",
+      "Mobile phone with offline maps and a portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions for this route; winter trekking is possible for experienced hikers with extra planning and daylight considerations.",
+    "seo": {
+      "title": "Erme-Plym Trail – 48.6 km Hard UK Hike",
+      "meta_description": "Plan your Erme-Plym Trail trek in the United Kingdom. A 48.6 km hard-distance route with coastal, riverbank, and moorland terrain. Safety tips, gear list, and best seasons.",
+      "h1": "Erme-Plym Trail – 48.6 km (Hard) Hiking Route"
+    }
   }
 }

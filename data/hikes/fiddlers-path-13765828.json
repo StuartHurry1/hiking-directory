@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 13765828
+  },
+  "ai": {
+    "summary": "Fiddler's Path is a demanding 23.9 km hike in the UK, rated hard, featuring varied terrain and remote sections that culminate in rewarding viewpoints and a sense of accomplishment for experienced hikers.",
+    "terrain_summary": "The route covers mixed terrain including grassy moorland, peat bogs, rocky ascents, and forest trails. Expect uneven footing, mud, water crossings, and exposed sections with significant elevation gain. Weather can change quickly, so be prepared for both wet and windy conditions and potential quick changes in trail conditions.",
+    "safety_notes": "Plan for long daylight hours and variable weather. Carry a map and compass (and a GPS as backup), stay on marked paths, and inform someone of your planned itinerary. Wear sturdy waterproof footwear and bring waterproof clothing, warm layers, and a hat. Pack a headlamp, first-aid kit, emergency shelter, and a whistle. Stay hydrated, manage fatigue, and be prepared to turn back if conditions deteriorate. Leave-no-trace and be mindful of wildlife; if coastal sections exist, be aware of tides and seasonal hazards.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Thermal layers or fleece for warmth",
+      "Hat and gloves (seasonal)",
+      "Map and compass (and a GPS or offline navigation device)",
+      "Fully charged smartphone with offline maps",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy snacks and emergency food",
+      "Headlamp or compact flashlight with extra batteries",
+      "First-aid kit and blister care",
+      "Emergency bivvy or compact space blanket",
+      "Whistle and optional personal locator beacon",
+      " trekking poles",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Lightweight dry bag for electronics",
+      "Personal ID and any medical information"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for longer daylight and generally better conditions; autumn offers good scenery but weather is more variable and trails may be damp.",
+    "seo": {
+      "title": "Fiddler's Path – 23.9 km Hard Hike in the UK",
+      "meta_description": "Plan your Fiddler's Path hike in the UK. A challenging 23.9 km trail with remote sections, rugged terrain, safety tips, and essential gear.",
+      "h1": "Fiddler's Path: A 23.9 km Hard Hike in the UK"
+    }
   }
 }

@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 1976229
+  },
+  "ai": {
+    "summary": "A challenging segment of the European walking route E2 across the South East of England, covering roughly 424 km. This route blends coastal paths, rolling downs, woodlands, reservoirs and lakes, with a demanding profile that tests stamina, navigation and planning.",
+    "terrain_summary": "Varied terrain including chalk downs, forests, river and lake shores, and reservoirs. Expect long days with occasional road crossings and moderate climbs; scenery ranges from open heath to wooded areas with several lake viewpoints.",
+    "safety_notes": "Navigation is essential; carry up-to-date maps and know the route. Weather in South East England can change rapidly—be prepared for rain, wind, or heat. Remote stretches have limited services; plan water, food and lodging in advance. Exercise care on coastal and road sections; watch for traffic. Seasonal hazards include fog, flooding after heavy rain, and icy patches in winter; carry an emergency contact method.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Rain gear (jacket and pants)",
+      "Map and compass (GPS as backup)",
+      "Water supply (hydration system or 2–3 liters; consider purification options)",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Navigation device (GPS or offline maps on phone)",
+      "Trekking poles",
+      "Energy-rich food and snacks",
+      "Emergency shelter or bivy bag",
+      "Sunscreen and insect repellent",
+      "Whistle and basic multitool"
+    ],
+    "best_seasons": "Best from spring to autumn (roughly March to October). Spring and early summer offer milder weather and wildlife interest; autumn provides scenery changes but conditioning should account for variable conditions. Winter hiking is more challenging due to rain, wind and shorter daylight hours; some segments may have limited services.",
+    "seo": {
+      "title": "E2 West – South East England: European Walking Route Guide (UK)",
+      "meta_description": "Plan your hike on the E2 West section through South East England. About 424 km of challenging terrain with lakes, downs, and reservoirs. Safety tips, gear list, and best seasons.",
+      "h1": "European Walking Route E2 West – South East England (UK)"
+    }
   }
 }

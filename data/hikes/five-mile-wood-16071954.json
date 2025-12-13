@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16071954
+  },
+  "ai": {
+    "summary": "Five Mile Wood is a 9.6 km moderate woodland hike in the UK. The route traverses forest tracks with gentle elevation, suitable for most walkers with proper footwear. Terrain is varied but generally steady, with some muddy patches after rain.",
+    "terrain_summary": "Forest paths with compact soil, exposed roots, and occasional damp patches. Mixed surfaces include level sections and short gentle climbs. Expect shade along most of the route and potential puddles in wet conditions.",
+    "safety_notes": "Check the weather and daylight hours before you go. Wear sturdy, waterproof footwear and clothing suitable for changing conditions. Stay on marked paths, carry a map or navigation device, and bring water and a small first aid kit. Be mindful of other hikers and wildlife; carry a light if hiking near dusk or in poor visibility.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Map and compass or GPS device",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Headlamp or flashlight (for early/late hikes)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn; year-round hiking is possible, with mud more likely in wetter months.",
+    "seo": {
+      "title": "Five Mile Wood – 9.6 km Moderate Woodland Hike in the UK",
+      "meta_description": "Explore a 9.6 km moderate woodland hike through Five Mile Wood in the UK. Discover terrain details, safety tips, best seasons, and essential gear.",
+      "h1": "Five Mile Wood: 9.6 km Moderate Woodland Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16711181
+  },
+  "ai": {
+    "summary": "Estate Trail in Crom is an 11.4 km moderately challenging hike through UK rural estate grounds. The route combines steady walking with occasional gentle ascents and flat stretches, making it suitable for hikers with moderate experience seeking a varied day on foot.",
+    "terrain_summary": "The trail largely follows well-trodden estate paths and field tracks. Expect a mix of grass, compact paths, and a few uneven sections; mud is common after rain and some short, unpaved segments may appear.",
+    "safety_notes": "Check the forecast before you go and avoid severe weather. Wear sturdy footwear and bring layers and a waterproof as conditions can change. Stay on marked paths, be mindful of livestock and farm gates, and let someone know your route. Bring a map or GPS, a charged phone, and sufficient water and snacks. Daylight hours vary in UK regions.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water and a way to carry it (2 L per person)",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Hat and sunscreen",
+      "Map and compass or GPS device",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Mobile phone with full battery and power bank"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy with shorter daylight.",
+    "seo": {
+      "title": "Estate Trail Crom – 11.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the 11.4 km Estate Trail in Crom, UK. A moderate day hike across estate paths with practical safety tips, gear suggestions, and seasonality.",
+      "h1": "Estate Trail Crom: 11.4 km Moderate Hike"
+    }
   }
 }

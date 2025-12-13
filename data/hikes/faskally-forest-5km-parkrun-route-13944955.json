@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13944955
+  },
+  "ai": {
+    "summary": "A moderate 7 km forest running route through Faskally Forest in the United Kingdom. The loop follows shaded trails with gentle undulations, providing a scenic woodland setting and a steady workout for runners seeking a peaceful parkland experience.",
+    "terrain_summary": "Forest trails with a mix of compact dirt and gravel surfaces; occasional exposed roots and damp patches after rain; generally gentle gradients with a few short elevations.",
+    "safety_notes": "Check weather and daylight; forest trails can be affected by mud and fallen branches. Wear sturdy, closed-toe shoes with good grip and watch for roots and uneven ground. Stay on marked trails and avoid detours. Carry water and a light layer for changing conditions; bring a small first-aid kit and a whistle. Inform someone of your plan and expected return. Be mindful of other hikers and wildlife; use sunscreen and insect repellent in season.",
+    "recommended_gear": [
+      "Sturdy running shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen",
+      "Insect repellent",
+      "Trail map or GPS device",
+      "Small first-aid kit",
+      "Snacks"
+    ],
+    "best_seasons": "Year-round; best in spring and autumn when temperatures are mild and trails are drier; winter runs are possible with appropriate gear and daylight.",
+    "seo": {
+      "title": "Faskally Forest 7km ParkRun Route – Moderate UK Forest Run",
+      "meta_description": "Explore the Faskally Forest ParkRun route in the UK. A 7 km moderate forest trail through shaded paths with gentle terrain—ideal for runners seeking scenery, steady pace, and woodland atmosphere.",
+      "h1": "Faskally Forest 7km ParkRun Route"
+    }
   }
 }

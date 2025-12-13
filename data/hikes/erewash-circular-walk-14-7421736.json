@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 7421736
+  },
+  "ai": {
+    "summary": "A 12.7 km circular hike in the UK, the Erewash Circular Walk 14 follows mixed terrain around an unnamed region. The route is rated moderate and is suitable for hikers with some experience. Expect a combination of field paths, canal towpaths, and woodland sections with modest elevation changes.",
+    "terrain_summary": "The trail combines hard-packed footpaths, grassy fields, and a canal towpath. Surface quality varies from compact soil to muddy patches after rain. Expect some short rises, multiple stiles and gates, and occasional rough footing at field edges. Wildlife and crops can influence footing and shade throughout the year.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear and dress in layers with a waterproof outer layer. Stay on marked paths, and be prepared for gates and stiles. Keep an eye on livestock, watch for slippery sections after rain, and carry a map or GPS, a charged phone, and basic first aid. Tell someone your planned route and estimated return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Map or GPS device (and compass)",
+      "Phone with portable charger",
+      "Small first aid kit",
+      "Hat and sunscreen",
+      "Lightweight rain pants or gaiters",
+      "Headlamp (for early/late walks)"
+    ],
+    "best_seasons": "Spring to autumn (approximately March to October) are ideal for this hike due to milder weather and longer daylight; winter walks are possible but can be wet and dark.",
+    "seo": {
+      "title": "Erewash Circular Walk 14 – 12.7 km Moderate UK Hike",
+      "meta_description": "Explore the 12.7 km Erewash Circular Walk 14 in the UK. A moderate hike across mixed terrain including fields, canal towpaths, and woodlands with safety tips and essential gear.",
+      "h1": "Erewash Circular Walk 14"
+    }
   }
 }

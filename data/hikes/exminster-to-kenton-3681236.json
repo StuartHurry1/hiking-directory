@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 3681236
+  },
+  "ai": {
+    "summary": "A challenging 22.3 km day hike from Exminster to Kenton in the UK, designed for experienced walkers. The route features mixed terrain, steady elevation, and potential mud, delivering a demanding but rewarding long-distance trek.",
+    "terrain_summary": "Mixed surfaces across the route: well-worn paths, grassy lanes, occasional muddy sections after rain, and short rocky or stony ascents. Expect long flats with steady climbs, exposed segments in higher ground, and variable conditions depending on weather. Navigation is straightforward, but footing and visibility can change with wet or windy weather.",
+    "safety_notes": "This is a long, strenuous hike. Plan for a full day and possible inclement weather. Tell someone your route and expected return time. Wear sturdy boots and bring waterproof clothing. Carry ample water and high-energy snacks, plus a map and compass or GPS. Be prepared for mud, wind, and changing conditions; consider turning back if conditions deteriorate or daylight fades. In winter, start early due to shorter daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing and a waterproof/windproof outer shell",
+      "Water and high-energy snacks (plus a small meal for the day)",
+      "Map and compass (or GPS) and a fully charged phone as backup",
+      "Lightweight pack cover or rainproof bag for gear",
+      "Headlamp or torch with spare batteries",
+      "First aid kit and any personal medications",
+      "Whistle and emergency blanket",
+      "Sun protection (hat and sunscreen) for sunny conditions"
+    ],
+    "best_seasons": "Spring to Autumn (roughly April to October) offer the best daylight and generally milder conditions, though weather remains variable. Winter hikes are possible with extra preparation and shorter daylight.",
+    "seo": {
+      "title": "Exminster to Kenton – 22.3 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 22.3 km hike from Exminster to Kenton in the UK. Learn about terrain, safety tips, and gear recommendations for this demanding long-distance route.",
+      "h1": "Exminster to Kenton: 22.3 km Hard Hike in the UK"
+    }
   }
 }

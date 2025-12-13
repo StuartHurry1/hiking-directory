@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1577585
+  },
+  "ai": {
+    "summary": "Fir Trail is a hard 24.9 km hike in the UK with significant elevation gain and varied terrain. It is suited to experienced hikers who are comfortable with long distances and navigation in exposed conditions.",
+    "terrain_summary": "Expect a mix of forest paths, rocky sections, and muddy ground. The route involves sustained climbs, uneven surfaces, and occasional exposed viewpoints, with weather that can change rapidly in the UK.",
+    "safety_notes": "This is a demanding route. Plan for long hours on trail; check the forecast and start early. Carry navigation tools and know how to use them, and tell someone your planned route and ETA. Pack extra food, water, and warmth, and be prepared for sudden weather changes and reduced daylight in winter. If conditions are poor or visibility is low, consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks (2–3 L water per person, plus extras in hot weather)",
+      "Map and compass or GPS device",
+      "Weather-appropriate clothing (waterproof jacket, insulating layers, hat and gloves as needed)",
+      "Emergency blanket or bivvy and a whistle",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care and personal medications",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency shelter or space blanket",
+      "Energy and hydration management (electrolytes, snacks)"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) generally offers longer daylight and more stable weather, though UK conditions can still be variable and weather can change rapidly.",
+    "seo": {
+      "title": "Fir Trail — 24.9 km Hard Hike in the UK",
+      "meta_description": "Discover Fir Trail, a challenging 24.9 km hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for this demanding trek.",
+      "h1": "Fir Trail: A 24.9 km Hard Hike in the UK"
+    }
   }
 }

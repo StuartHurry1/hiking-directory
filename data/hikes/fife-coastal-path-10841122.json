@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 10841122
+  },
+  "ai": {
+    "summary": "Fife Coastal Path is a long-distance coastal hike in the UK, covering 403.7 km along the Fife coast and rated hard. The route traverses rugged sea cliffs, beaches, and small coastal towns, requiring strong stamina, weather preparedness, and solid navigation to handle exposed sections and varied terrain.",
+    "terrain_summary": "Primarily coastal terrain with cliff-top paths, shingle and sandy beaches, dunes, and occasional pavement or minor road sections. Expect uneven, wet, and slippery surfaces, strong winds, and sea spray. Elevation changes are cumulative and can be demanding on exposed headlands and along the shoreline.",
+    "safety_notes": "Weather in coastal UK can be unpredictable—dress in layers, carry a waterproof and windproof shell, and plan for rapid changes. Monitor tides where applicable and be prepared for remote sections with limited mobile coverage. Use proper navigation tools (map/compass or GPS), inform someone of your itinerary, stay hydrated, carry a basic first aid kit, and have a plan for daylight hours and emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and insulating layer",
+      "Hat, gloves, and extra socks",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "Small first aid kit and emergency whistle",
+      "Headlamp or flashlight with spare batteries",
+      "Sun protection (sunscreen, sunglasses)",
+      "Windproof layer and rain cover for your pack",
+      "Trekking poles (optional but helpful on uneven sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for milder weather and longer daylight",
+    "seo": {
+      "title": "Fife Coastal Path: A 403.7 km Coastal Hike in the UK",
+      "meta_description": "Discover the Fife Coastal Path, a hard 403.7 km coastal long-distance hike along the UK coast. Practical safety notes, terrain overview, and gear recommendations for this challenging trek.",
+      "h1": "Fife Coastal Path: A 403.7 km Hard Coastal Trek in the UK"
+    }
   }
 }

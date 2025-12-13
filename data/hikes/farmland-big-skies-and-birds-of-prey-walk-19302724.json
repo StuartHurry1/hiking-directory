@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19302724
+  },
+  "ai": {
+    "summary": "A challenging 20.7 km rural hike through UK farmland and countryside, offering expansive skies and potential sightings of birds of prey. The route blends long, exposed stretches with sheltered sections, demanding good fitness and careful navigation in variable weather.",
+    "terrain_summary": "Terrain ranges from well-trodden farm tracks and public footpaths to muddy field margins; expect gates and stiles to cross, occasional road crossings, and long open sections with wind exposure. Footing can be uneven and slippery after rain.",
+    "safety_notes": "Check weather and daylight hours before starting; watch for livestock and farm vehicles on shared routes; wear sturdy boots and waterproof clothing; carry water and energy-rich snacks; bring a map and compass or GPS; stay on public paths and be prepared for sudden changes in weather and wind on open sections; use sun protection when sunny; inform someone of your planned route and estimated return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves)",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp or flashlight",
+      "Sun protection (sunscreen, sunglasses)",
+      "Insect repellent (seasonal)",
+      "Lightweight rain shell (packable)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers the best conditions with longer daylight; winters are often windy, wet and muddy with more limited visibility.",
+    "seo": {
+      "title": "Farmland, Big Skies and Birds of Prey Walk – 20.7 km Hard Hike in the UK",
+      "meta_description": "A challenging 20.7 km rural hike across UK farmland, featuring expansive skies and potential birds of prey. Practical gear, safety tips, and route notes included.",
+      "h1": "Farmland, Big Skies and Birds of Prey Walk"
+    }
   }
 }

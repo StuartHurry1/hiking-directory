@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 7785295
+  },
+  "ai": {
+    "summary": "Fairy Knoll Walk is a short, easy 0.9 km stroll in the UK, suitable for families and casual walkers. It offers a gentle route around a small knoll with pleasant countryside views.",
+    "terrain_summary": "Mostly flat to gently rolling paths of grass and compact dirt. Occasional gravel patches and a few uneven spots near the knoll; footing is generally easy, but damp conditions can be muddy.",
+    "safety_notes": "Stay on marked paths and keep an eye on children. Check local weather before you go and bring waterproofs in case of rain. Wear sturdy footwear, bring water, and allow extra time for a relaxed pace. If conditions are poor or visibility is low, consider postponing.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing (layered, with a waterproof jacket)",
+      "Water bottle",
+      "Light snack",
+      "Phone or map, and a basic first-aid kit"
+    ],
+    "best_seasons": "All year, with spring to autumn offering the most comfortable weather and scenery. Winter visits are possible with proper footwear and precautions.",
+    "seo": {
+      "title": "Fairy Knoll Walk - Easy 0.9 km UK hike",
+      "meta_description": "Discover Fairy Knoll Walk, a gentle 0.9 km hike in the UK. An easy, family-friendly stroll offering scenic views around a small knoll, with tips on safety and gear.",
+      "h1": "Fairy Knoll Walk"
+    }
   }
 }

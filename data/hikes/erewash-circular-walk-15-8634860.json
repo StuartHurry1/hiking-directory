@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 8634860
+  },
+  "ai": {
+    "summary": "A challenging 22.5 km circular hike in the United Kingdom, Erewash Circular Walk 15 tests endurance with long distances and varied rural terrain. Suitable for experienced hikers with good navigation and time to spare; expect several hours of walking and elevation changes.",
+    "terrain_summary": "Expect varied rural terrain: grassy fields, dirt and mud tracks, occasional stiles and gates, and some short road sections. Ground can be uneven and wet after rain; plan for elevation gain over the route.",
+    "safety_notes": "Check weather and daylight conditions before setting out; carry a map or GPS and know the route; wear sturdy waterproof footwear and appropriate layers; bring sufficient water and high-energy snacks; tell someone your planned start time and route; be aware of livestock and farm traffic on public rights of way; daylight is shorter in winter and conditions can be icy or muddy; if conditions deteriorate, consider turning back or seeking shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and warm layers",
+      "Waterproof trousers",
+      "Hat and gloves (as needed for season)",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "Mobile phone with power bank",
+      "Personal first aid kit",
+      "Whistle for emergency signaling",
+      "Headlamp or flashlight (for early/late finishes)",
+      "Sunscreen and sunglasses",
+      "Emergency shelter or space blanket (optional but recommended)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October). Summer offers longest daylight; winter hikes are possible with extra caution due to reduced daylight and more mud or ice.",
+    "seo": {
+      "title": "Erewash Circular Walk 15 – 22.5 km Hard Hike in the UK",
+      "meta_description": "Discover the Erewash Circular Walk 15, a challenging 22.5 km circuit in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this hard hike.",
+      "h1": "Erewash Circular Walk 15 – 22.5 km Hard Hike"
+    }
   }
 }

@@ -20,5 +20,29 @@
   "source": {
     "type": "osm",
     "osmId": 19258346
+  },
+  "ai": {
+    "summary": "An engaging 9.3 km coastal ridge hike on the Isle of Wight, following the Fine Fortifications Trail between Bembridge and Culver Downs. The route blends chalk-down landscapes, dramatic sea views, and hints of historical fortifications, offering a moderate challenge for hikers with steady footing and a taste for coastal scenery.",
+    "terrain_summary": "Primarily exposed chalk paths along rolling ridges with moderate ascents and descents. Expect dry, grassy sections, compact earth, and occasional steps. The trail runs near cliff edges in places, with uneven footing and potential mud after rain. Coastal winds are common on exposed sections; bring sun and wind protection.",
+    "safety_notes": "Wear sturdy boots and stay on marked trails; keep a safe distance from cliff edges, especially in windy conditions. Weather can change quickly along the coast—bring layered clothing, a waterproof shell, and sun protection. Stay hydrated and carry a basic first aid kit and a map or GPS. Dogs should be leashed near cliff edges. Check for erosion and be cautious of loose chalk underfoot; if near beaches, be mindful of tides when extending your route.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing (base layer, fleece, windproof shell)",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Lightweight rain jacket",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Mobile phone with charged battery",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn is ideal for this coastal ridge hike. Summer offers long daylight and clear sea views; winter can be windy with mud and slippery chalk.",
+    "seo": {
+      "title": "Fine Fortifications Trail: Bembridge & Culver Downs, Isle of Wight – Coastal Ridge Hike",
+      "meta_description": "Discover the 9.3 km Fine Fortifications Trail between Bembridge and Culver Downs on the Isle of Wight. A moderate coastal ridge hike with sea views, chalk landscapes, and historic fortifications.",
+      "h1": "Fine Fortifications Trail: Bembridge & Culver Downs"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8369767
+  },
+  "ai": {
+    "summary": "The Exeter City Wall Trail is a 5 km easy circular walk around Exeter's historic city walls in the United Kingdom. Following well-maintained routes, the trail offers views of medieval gates, the River Exe, and Exeter Cathedral, making it suitable for families and casual walkers who want a gentle urban-historic experience.",
+    "terrain_summary": "Mostly flat and well-maintained paths; occasional cobbles and gentle slopes. Sections on pavements, compact gravel, and some grass areas; overall easy underfoot.",
+    "safety_notes": "Carry water and wear sturdy footwear. Stay on marked paths, watch for other pedestrians and cyclists, and be cautious on cobbles and near wall edges. Check local weather and any closures before you go, and bring a light layer for cooler UK conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate layers (jacket or fleece)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Lightweight daypack",
+      "Map or offline navigation (optional)",
+      "Fully charged mobile phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the best weather and daylight; visits in winter are possible but may be shorter due to shorter days.",
+    "seo": {
+      "title": "Exeter City Wall Trail - Easy 5 km Walk in Exeter, UK",
+      "meta_description": "Explore the Exeter City Wall Trail, a gentle 5 km route around Exeter's historic city walls. Easy terrain, city views, and medieval sights in the UK.",
+      "h1": "Exeter City Wall Trail"
+    }
   }
 }

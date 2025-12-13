@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13443413
+  },
+  "ai": {
+    "summary": "The Farm Circuit is a short, easy loop in the UK countryside, about 0.9 km in length. Suitable for families and casual walkers, it follows gentle farm tracks and grassy paths with countryside views.",
+    "terrain_summary": "Mostly flat to gently undulating grassy paths and farm tracks. Expect occasional uneven ground, soft turf after rain, and possibly gates or stiles. Footing is generally good but can be slippery when wet.",
+    "safety_notes": "Respect farm signs and livestock; keep dogs under control or leashed where required. Stay on public paths, close gates behind you, and watch for farm equipment. Weather can change quickly in the countryside—wear appropriate clothing and sturdy footwear, carry water, and have a phone or map with you. Cell service may be limited in rural areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight waterproof layer",
+      "Water and snacks",
+      "Hat and sunscreen",
+      "Map or offline route (or fully charged phone)",
+      "Small backpack",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal; winter visits can be muddy and less comfortable.",
+    "seo": {
+      "title": "Farm Circuit Walk — Easy 0.9 km UK Countryside Loop",
+      "meta_description": "Explore the Farm Circuit, a gentle 0.9 km hike in the UK countryside. Easy terrain, family-friendly route with practical safety tips and gear.",
+      "h1": "Farm Circuit Walk — Easy 0.9 km UK Countryside Loop"
+    }
   }
 }

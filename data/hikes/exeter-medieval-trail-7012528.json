@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7012528
+  },
+  "ai": {
+    "summary": "A compact, easy 4.9 km loop through the Exeter area that highlights medieval landmarks and historic streets. The route is suitable for families and casual walkers, with gentle gradients and plenty of benches and views along the way.",
+    "terrain_summary": "Typically flat to gently rolling, combining paved urban streets with short gravel and grass sections. Expect some uneven historic surfaces and potential muddy patches after rain, especially near river sections.",
+    "safety_notes": "Watch for street crossings and busy pedestrian areas. Wear sturdy walking shoes and bring a light waterproof layer. Some sections use uneven historic surfaces; take care near river paths and exposed edges. In wet weather paths can be slippery; avoid if heavy rain. Keep valuables secure and stay on marked routes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Light layers for changing weather",
+      "Sun protection (hat, sunscreen)",
+      "Camera or smartphone for photos",
+      "Map or offline navigation (optional)",
+      "Small snack"
+    ],
+    "best_seasons": "Spring to autumn: mild temperatures and more daylight; can be done year-round with appropriate layering.",
+    "seo": {
+      "title": "Exeter Medieval Trail — Easy 4.9 km Historic Walk in the UK",
+      "meta_description": "Explore the Exeter Medieval Trail, a 4.9 km easy hike through medieval landmarks and charming streets in the UK. Perfect for families and casual walkers.",
+      "h1": "Exeter Medieval Trail – Easy 4.9 km Historic Walk"
+    }
   }
 }

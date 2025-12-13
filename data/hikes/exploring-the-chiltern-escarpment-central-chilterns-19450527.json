@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19450527
+  },
+  "ai": {
+    "summary": "A challenging 36.7 km circuit along the Chiltern Escarpment in the Central Chilterns region of the UK. This long-distance route combines chalk ridge sections, woodland paths, hedgerows and scenic hilltop views. Suitable for experienced hikers with solid fitness; plan for a long day or two moderate days depending on pace and breaks.",
+    "terrain_summary": "Includes chalk escarpment ridges, long ascents and descents, grassy tracks, woodland trails, uneven surfaces, gates and stiles, with some wet or muddy sections after rain. Expect exposed ridges with open views and sheltered forest paths.",
+    "safety_notes": "This is a hard, long-distance hike with significant elevation change in parts. Check weather forecasts and daylight hours; navigation is important in mixed terrain. Carry map and compass or GPS, keep to waymarked paths, and let someone know your planned route and timing. Bring sufficient food and water, wear sturdy boots, and prepare for changing conditions on the escarpment.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket",
+      "Insulating layer (fleece or similar)",
+      "Backpack (20–30 L) with rain cover",
+      "Water and/or electrolyte drinks (2–3 litres total)",
+      "High-energy snacks and lunch",
+      "Map and compass (or GPS device) and fully charged phone",
+      "Headtorch or flashlight (in case of late finishes)",
+      "First aid kit and whistle",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Extra socks, gloves, and a light rain layer",
+      "Emergency bivvy or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October); expect most pleasant conditions during late spring and early autumn, while winter hikes can be cold, windy and dark with higher risk.",
+    "seo": {
+      "title": "Exploring the Chiltern Escarpment: A 36.7 km Hard Hike in the Central Chilterns, UK",
+      "meta_description": "Discover a 36.7 km hard hike along the Chiltern Escarpment in the Central Chilterns, UK. Terrain, safety tips, gear recommendations, and the best seasons for this challenging long-distance route.",
+      "h1": "Chiltern Escarpment Hike: 36.7 km Challenge in the Central Chilterns, UK"
+    }
   }
 }

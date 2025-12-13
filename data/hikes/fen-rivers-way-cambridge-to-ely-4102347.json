@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 4102347
+  },
+  "ai": {
+    "summary": "The Fen Rivers Way (Cambridge to Ely) is a challenging long‑distance hike in Cambridgeshire, England, totaling about 55.9 km. The route follows fenland river corridors from Cambridge to Ely, offering open fen scenery, reed beds, and flat, exposed terrain. It suits experienced walkers who can handle long days, mud in wet conditions, and occasional navigational stretches. Because much of the path runs through remote fenland, plan for overnight stops or comfortably long days and check flood conditions before you go.",
+    "terrain_summary": "Predominantly flat fenland terrain along the River Cam and River Great Ouse, with long towpaths, gravel farm tracks, and occasional boardwalks. Expect open sections across reeds and marsh, with some soft, muddy patches after rain. There are short ascents along higher ridges of drier ground, but overall elevation gain is modest. Rural road crossings and farmland paths add variety and occasional navigation challenges; be prepared for limited services in remote stretches.",
+    "safety_notes": "Travel in remote fenland can mean long gaps between services and patchy mobile reception. Check weather and flood warnings before you go; ground can be very muddy or waterlogged after rain. Carry a map and compass or GPS, and know how to navigate open fenland. Dress for wind and rain, and bring extra layers and sun protection for open exposure. Carry enough water and high‑energy snacks for long segments, watch for cattle and farm gates, and use care crossing dykes and roadways. If undertaking as a multi‑day hike, arrange accommodations in advance and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and trousers",
+      "Fleece or mid‑layer for warmth",
+      "Wide‑brimmed hat and sunglasses",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system (2–3 liters total)",
+      "Energy snacks and a light meal for longer days",
+      "Headtorch or small flashlight",
+      "Emergency bivy or space blanket",
+      "Basic first aid kit",
+      "Walking poles (optional but helpful)",
+      "Spare socks and a small towel",
+      "Whistle and multi‑tool",
+      "Sunscreen"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best for the Fen Rivers Way, offering longer daylight, drier conditions, and clearer views of fenland scenery. Winter travel is possible but more exposed, muddy, and weather‑dependent; plan for shorter days and potential flood closures.",
+    "seo": {
+      "title": "Fen Rivers Way Cambridge to Ely: 56 km Fenland Trek",
+      "meta_description": "Plan a 55.9 km hike from Cambridge to Ely along the Fen Rivers Way in Cambridgeshire, UK. Terrain, safety tips, gear, and best seasons.",
+      "h1": "Fen Rivers Way: Cambridge to Ely Hiking Guide"
+    }
   }
 }
