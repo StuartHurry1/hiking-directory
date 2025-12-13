@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 3586270
+  },
+  "ai": {
+    "summary": "John Muir Link is a hard, long-distance hike in the United Kingdom, covering about 40.5 km. The route weaves through diverse landscapes and elevation gains, offering remote sections and expansive views. It is best suited for experienced hikers who can handle variable weather and challenging terrain.",
+    "terrain_summary": "The trail traverses a mix of well-made paths, exposed ridgelines, heathland, forest tracks, and occasional boggy ground. Expect significant elevation gain, rough footing, and potentially slippery surfaces after rain. Navigation may rely on trail markings and map reading in exposed segments.",
+    "safety_notes": "This is a strenuous itinerary. Check the forecast; in the UK weather can change quickly. Plan for daylight hours, carry navigation tools (map and compass) even if you have a GPS. Tell someone your route and estimated finish time. Pack enough water and calories, a waterproof layer, and a warm mid-layer. Carry a basic first aid kit, whistle, and emergency shelter. Be prepared for boggy sections and uneven footing; consider trekking poles for stability. If conditions are unsafe, turn back and do not attempt remote sections alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and breathable outer layer (jacket and trousers)",
+      "Warm clothing (fleece, hat, gloves)",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "High-energy food and snacks",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Headlamp with extra batteries",
+      "Small first aid kit",
+      "Whistle",
+      "Emergency bivy or space blanket",
+      "Trekking poles",
+      "Sunscreen and sunglasses",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October), with May through September offering the best conditions; winter hiking requires additional preparation and experience.",
+    "seo": {
+      "title": "John Muir Link – 40.5 km Hard Hike in the UK",
+      "meta_description": "Plan your ascent of John Muir Link, a demanding 40.5 km hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "John Muir Link – 40.5 km Hard Hike in the UK"
+    }
   }
 }

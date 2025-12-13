@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 1620336
+  },
+  "ai": {
+    "summary": "A gentle 5.2 km nature walk around Killyfole Lough in the United Kingdom. Easy terrain makes it suitable for families and casual walkers, with tranquil water views and opportunities to spot birds and other wildlife.",
+    "terrain_summary": "Mostly flat and well-marked paths surrounding the lough. The route features gravel trails and some boardwalk sections by the shore. Expect occasional muddy patches after rain; footwear with good grip is recommended.",
+    "safety_notes": "Stay on marked trails and keep a safe distance from the water’s edge, especially with children and pets. Check the weather before you go; wet conditions can make parts slippery. Bring water, inform someone of your plans, and carry a charged phone. Respect wildlife and local regulations.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing in layers",
+      "Water bottle and light snacks",
+      "Small backpack for essentials",
+      "Map or offline maps on your phone",
+      "Insect repellent",
+      "Sun protection (hat and sunscreen)",
+      "Light rain jacket or windbreaker",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Killyfole Lough Nature Walk – 5.2 km Easy Loop in the UK",
+      "meta_description": "Explore the easy 5.2 km Killyfole Lough Nature Walk in the United Kingdom. Flat terrain, lakeside scenery, wildlife viewing, and practical safety tips for a relaxed day out.",
+      "h1": "Killyfole Lough Nature Walk – 5.2 km Easy Loop"
+    }
   }
 }

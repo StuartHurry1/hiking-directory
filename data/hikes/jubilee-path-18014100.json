@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18014100
+  },
+  "ai": {
+    "summary": "Jubilee Path is an 8.3 km moderate hike in the United Kingdom, featuring a varied route through fields, woodland, and country lanes. The trail suits hikers with some experience and a steady pace, offering a mix of scenic views and gentle climbs.",
+    "terrain_summary": "The terrain combines grassy fields, gravel and grassy tracks, and some muddy forest paths. Expect uneven surfaces, occasional ruts, and mild elevation changes. Conditions can be damp after rain; waterproof boots and layers are advised.",
+    "safety_notes": "Check the weather forecast before you set out and be prepared for changing UK conditions. Wear sturdy boots and dress in layers with a waterproof outer layer. Stay on marked paths, watch for mud and livestock in fields, and take care crossing gates or stiles. Bring a map or GPS, but don't rely on phone signal in remote sections. Carry enough water and snacks, inform someone of your plan, and carry a small first aid kit and whistle. If walking with dogs, keep them under control and be mindful of other walkers and livestock. Shorter daylight in winter means plan accordingly.",
+    "recommended_gear": [
+      "Water bottle",
+      "Map and compass or GPS",
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Layered clothing for changing conditions",
+      "Snack/energy foods",
+      "Basic first aid kit",
+      "Whistle",
+      "Headlamp or flashlight (for short daylight periods)",
+      "Mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October); the route can be hiked year-round with proper gear, but summer and autumn offer the best daylight and weather.",
+    "seo": {
+      "title": "Jubilee Path — 8.3 km Moderate Hike in the UK",
+      "meta_description": "Explore Jubilee Path, an 8.3 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to hike.",
+      "h1": "Jubilee Path – 8.3 km Moderate Hike in the UK"
+    }
   }
 }

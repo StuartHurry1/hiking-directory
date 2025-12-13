@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1876787
+  },
+  "ai": {
+    "summary": "Kett's Country Walk is a challenging long-distance hike in the UK, covering 49.2 km. It features varied countryside and sustained effort, with fields, hedgerows, woodlands, and occasional road sections. Designed for experienced hikers, the route is typically undertaken over multiple parts or days depending on pace.",
+    "terrain_summary": "The route combines firm tracks, grassy paths, muddy sections in wet weather, stiles, gates, and hedgerows with gentle to moderate elevation changes. Surfaces vary by section, so sturdy boots with good grip and preparedness for uneven ground are essential. Navigation may rely on waymarkers, local maps, and a compass.",
+    "safety_notes": "UK weather can be unpredictable; check forecasts and daylight hours before starting. Carry a detailed map and compass as backups to devices. Share your itinerary with someone and plan for potential overnight stops if completing in multiple days. Stay hydrated and carry sufficient food. Be mindful of livestock, gates, and farm tracks; close gates behind you. Watch footing on uneven ground, be cautious near road sections, and keep left on public rights of way. If conditions deteriorate or you encounter an emergency, seek shelter and contact emergency services if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing with a layered system (base, mid, outer layers)",
+      "Waterproof shell jacket and waterproof pants",
+      "Warm hat and gloves",
+      "Backpack with 20-30 L capacity",
+      "Water bottle or reservoir (2-3 L total)",
+      "High-energy food and snacks",
+      "Map and compass (GPS optional as backup)",
+      "Fully charged phone and portable power bank",
+      "Lightweight first-aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) are best for this lengthy, exposed walk in the UK; summer offers longer daylight, while spring and autumn provide milder temperatures and fewer crowds.",
+    "seo": {
+      "title": "Kett's Country Walk — 49.2 km Hard Hike in the UK",
+      "meta_description": "Plan your adventure on Kett's Country Walk, a challenging 49.2 km trail in the UK. Learn terrain, safety tips, gear, and the best seasons for this long-distance hike.",
+      "h1": "Kett's Country Walk: 49.2 km Hard Hike in the UK"
+    }
   }
 }

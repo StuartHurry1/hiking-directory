@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 17248088
+  },
+  "ai": {
+    "summary": "A demanding long-distance coastal hike along the England Coast Path from Aust to Brean Down. At 111.6 km, the route combines rugged cliff-top trails, beaches and headlands between the Severn Estuary and the Somerset coast. Expect persistent exposure to wind, steep ascents and variable weather.",
+    "terrain_summary": "Coastal cliff paths with exposed ridges, grassy dunes, and occasional beach sections. Terrain is uneven and eroded in places, with steep descents and ascents between headlands. Weather can amplify hazards such as spray, rain and strong gusts; navigation is straightforward but use a map or GPS on remote sections.",
+    "safety_notes": "Plan for rapidly changing coastal weather, including strong winds and rain. Expect long sections with limited services and poor mobile reception; tell someone your route and timings. Stay well back from cliff edges, beware loose rocks and sea spray. Carry sufficient water, food, a reliable map/gps, and a lightweight emergency kit. Wear sturdy waterproof boots and layered clothing; check tide times if any sections require beach traverses.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Insulated and moisture-wicking layers",
+      "Sturdy waterproof hiking boots",
+      "Wide-brimmed hat or cap",
+      "Sunglasses and sunscreen",
+      "Map, compass, and/or GPS device",
+      "Fully charged mobile phone with offline maps",
+      "Water container with at least 2–3 liters capacity",
+      "High-energy foods and snacks",
+      "Lightweight emergency shelter or space blanket",
+      "Headlamp or flashlight with extra batteries",
+      "Personal first aid kit",
+      "Whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) for milder weather and longer daylight; shoulder seasons can be wet and windy, so plan around weather and sea conditions.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Aust to Brean Down — Hike Guide",
+      "meta_description": "Discover the 111.6 km coastal hike from Aust to Brean Down on the King Charles III England Coast Path. Hard terrain, exposed cliffs, safety tips, gear recommendations, and best season.",
+      "h1": "Aust to Brean Down — King Charles III England Coast Path Hike"
+    }
   }
 }

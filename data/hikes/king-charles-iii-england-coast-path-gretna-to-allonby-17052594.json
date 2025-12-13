@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 17052594
+  },
+  "ai": {
+    "summary": "A challenging 100.2 km section of the King Charles III England Coast Path from Gretna to Allonby, offering rugged coastal scenery, long distances, and exposed headlands. The route traverses beach, cliff-top trails, and tidal flats along the Cumbria and Solway coast, demanding solid navigation and fitness from experienced hikers.",
+    "terrain_summary": "Predominantly coastal trail with a mix of cliff-top paths, pebbled beaches, tidal flats, boardwalks, and farm tracks. Expect uneven surfaces, exposed winds, and occasional mud; some stretches may have eroded edges or require careful footing near the shore. Navigation relies on marked paths and map reading over long sections with limited services.",
+    "safety_notes": "Plan around tides and weather: check local tide tables and avoid crossing low beaches at high tide. Wear sturdy boots and stay on the official path where marked. Carry a detailed map or GPS, plus a compass and a charged phone for emergencies. Expect remote sections with limited mobile coverage; carry sufficient water, food, and a basic first aid kit. Inform someone of your itinerary and expected finish time. Take extra care on cliff edges and slippery surfaces during wet or windy conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof jacket",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy snacks and meals",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency whistle",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to October) offers the best daylight and drier conditions for coastal trekking; prepare for variable weather and shorter daylight in shoulder seasons.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Gretna to Allonby — 100.2 km Coastal Hike",
+      "meta_description": "Explore the hard 100.2 km Gretna to Allonby section of the England Coast Path. Coastal scenery, rugged terrain, safety tips, gear checklist, and best seasons for planning.",
+      "h1": "King Charles III England Coast Path: Gretna to Allonby"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 7888683
+  },
+  "ai": {
+    "summary": "A challenging 25.1 km long-distance hike in the UK, Kilbo Path combines varied terrain and remote sections. It’s best suited for experienced hikers with strong navigation and endurance, as the route includes exposed ground, steep ascents, and potential boggy stretches.",
+    "terrain_summary": "Mixed terrain: forest tracks, grassy moorland, rocky footing, and occasional stream crossings. Footing can be uneven and slippery when wet; expect boggy sections and sudden changes in elevation. Some stretches may be exposed to wind and rain.",
+    "safety_notes": "Long, demanding day hike: plan 8–10 hours and be prepared to turn back. Weather in the UK can change rapidly; carry waterproofs and warm layers. Navigation is essential in remote sections—bring a detailed map and compass or GPS device. Inform someone of your route and estimated return time. Carry a whistle, fully charged phone as backup, and emergency shelter if visibility drops. Wear sturdy boots with ankle support and bring extra socks. Carry ample water and energy-rich food; know your limits and retreat if symptoms of exhaustion or hypothermia appear.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Map, compass, and/or GPS device",
+      "Layered clothing plus a waterproof and windproof outer shell",
+      "Backpack with 2–3 liters of water capacity and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Fully charged phone with offline maps",
+      "Extra socks, gloves, and a warm hat",
+      "Walking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to autumn (April–September) with longer daylight; winter hikes require careful planning and experience.",
+    "seo": {
+      "title": "Kilbo Path — 25.1 km Hard Hike in the UK",
+      "meta_description": "Explore Kilbo Path, a demanding 25.1 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for this rugged trek.",
+      "h1": "Kilbo Path: 25.1 km Hard Hike in the UK"
+    }
   }
 }

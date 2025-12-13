@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1067946
+  },
+  "ai": {
+    "summary": "Jubilee Way (Leicestershire) is a demanding long-distance hike totaling about 96.4 km. Designed for experienced walkers, the route traverses rural countryside, small villages, and hedged lanes in the UK. Expect rolling farmland, woodlands, occasional ascents, and variable trail surfaces. The hike is typically undertaken as a multi-day trek with careful planning for navigation and accommodations.",
+    "terrain_summary": "Primarily rural countryside: fields, footpaths, and minor roads; mixture of hard-packed trails, grassy paths, stiles, and occasional pavement; hedgerows and wet-ground sections after rain; some muddy stretches.",
+    "safety_notes": "Plan for a multi-day trek with realistic daily distances; check local weather and daylight hours; carry map and compass or reliable GPS, plus fully charged devices. Wear sturdy hiking boots and dress in layers. Stay on public rights of way, respect private property, and carry a small first-aid kit. Hydration, nutrition, and a plan for emergency communication are essential. Inform someone of your itinerary and expected return.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate layers (waterproof jacket, insulating layer)",
+      "Backpack with at least 20–30 L capacity",
+      "Water bottles or hydration system (at least 2–3 L total)",
+      "Map and compass or GPS device; fully charged",
+      "Headlamp or flashlight with spare batteries",
+      "First-aid kit and blister care",
+      "Snack/meal supplies and electrolytes",
+      "Emergency whistle and reflective emergency blanket",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Mobile phone with offline maps and a power bank",
+      "Dry bag or waterproof cover for gear"
+    ],
+    "best_seasons": "Late spring to early autumn (April–October) for longer daylight and drier conditions; can be attempted year-round with extra planning for shorter daylight, wetter ground, and more challenging conditions.",
+    "seo": {
+      "title": "Jubilee Way (Leicestershire) – 96.4 km UK Long-Distance Hike",
+      "meta_description": "Discover Jubilee Way in Leicestershire, a challenging 96.4 km long-distance trail in the UK. Get terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Jubilee Way (Leicestershire): 96.4 km Long-Distance Trail"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 12642448
+  },
+  "ai": {
+    "summary": "The John O'Groats Trail segment from Golspie to Brora covers approximately 11.2 km along the Scottish coast, offering coastal views, moorland terrain and a moderate route that suits hikers with some experience. The route rewards with seascapes and a manageable distance for a half-day hike.",
+    "terrain_summary": "Coastal track on grassy and earthy footing, with occasional rocky sections, gentle climbs and uneven ground. Expect exposed shores, damp or boggy patches after rain, and some stiles or gates. Footing can be rough near the coast; watch for uneven slabs and slippery surfaces after rain.",
+    "safety_notes": "Check tide times and weather forecasts before you start, as some coastal sections may be exposed to waves or reach low-lying beaches. Wear sturdy footwear with good grip and bring weather-appropriate clothing. Carry a map and compass (or GPS), a charged phone, and a basic first aid kit. Tell someone your plan and expected return. Stay on marked paths, beware of cliff edges, and be cautious of livestock and gates. Carry sufficient water and a small snack for energy.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Layered clothing (base layer, fleece or sweater)",
+      "Backpack with rain cover",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Phone with offline map, fully charged",
+      "Basic first aid kit",
+      "Sunscreen, hat and sunglasses",
+      "Whistle and emergency blanket",
+      "Headlamp or small flashlight"
+    ],
+    "best_seasons": "Spring to Autumn (May–September)",
+    "seo": {
+      "title": "John O'Groats Trail: Golspie to Brora – 11.2 km Moderate Coastal Hike",
+      "meta_description": "Explore the 11.2 km Golspie to Brora section of the John O'Groats Trail in the UK. Learn terrain, safety tips, gear and the best seasons for this moderate coastal hike.",
+      "h1": "John O'Groats Trail: Golspie to Brora (11.2 km) – Moderate Coastal Hike"
+    }
   }
 }

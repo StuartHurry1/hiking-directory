@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 13678910
+  },
+  "ai": {
+    "summary": "A challenging 178.1 km segment of the King Charles III England Coast Path from Grain to Woolwich. The route traces a varied coastline, from tidal estuaries and marshes to shingle beaches and cliff-top trails, passing through small coastal towns and ending at the Thames estuary near Woolwich. It's a long-distance coastal trek with exposed weather, changing terrain, and numerous opportunities for scenic views, wildlife, and historic shoreline landscapes.",
+    "terrain_summary": "Expect a mix of coastal terrain: mud and wet boggy sections along estuaries, firm tracks over shingle beaches and boardwalks, grassy cliff-top paths with intermittent steps, dune systems, and urban waterfront promenades as you near Woolwich. Some stretches are exposed to wind and spray; navigation is straightforward but can be challenging in tidal zones and during high tides, so check tide times and seek safe routes around flooded sections.",
+    "safety_notes": "Plan with tides in mind: avoid estuary crossings at high tide and follow official paths. Wear sturdy waterproof boots and layered clothing; carry extra clothing, water, snacks, and a means to navigate (map/GPS). Share your itinerary, carry a charged phone or emergency beacon, and know where to get help in towns along the way. Be prepared for sudden weather changes, strong coastal winds, and crowded sections near towns. Wildlife and ticks in grassy areas; be mindful of traffic when crossing urban promenades and road sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and insulating layer",
+      "Moisture-wicking base layers",
+      "Hat, sunglasses, and sun protection",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy snacks and meals for long days",
+      "Map and compass or GPS device",
+      "Headlamp or small flashlight",
+      "First-aid kit and personal medications",
+      "Whistle and emergency blanket",
+      "Waterproof bags or dry sacks for electronics",
+      "Trail gaiters (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers milder conditions, longer daylight, and better visibility for navigation. Summer provides the most predictable weather but can be crowded in towns; autumn can bring wind and rain with shorter daylight. Winter trekking is possible in exposed sections but significantly more challenging and often less safe.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Grain to Woolwich – 178.1 km Coastal Trek",
+      "meta_description": "Explore the 178.1 km Grain to Woolwich segment of the King Charles III England Coast Path. A detailed overview of terrain, safety tips, gear lists, and best seasons for this demanding coastal hike.",
+      "h1": "King Charles III England Coast Path: Grain to Woolwich"
+    }
   }
 }

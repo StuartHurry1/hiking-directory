@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16455374
+  },
+  "ai": {
+    "summary": "Jubilee Path is a gentle 3.5 km walk in the UK, designed for all ages and fitness levels. The route offers easy terrain and straightforward navigation, making it ideal for a family or casual stroll.",
+    "terrain_summary": "Predominantly flat with well-maintained surfaces. Expect a mix of tarmac, compacted gravel, and light earth paths; minimal elevation gain and few steps.",
+    "safety_notes": "Stay on marked paths and respect private property. Check the weather and dress accordingly. Wear sturdy footwear, carry water, and bring a lightweight layer. Inform someone of your plans if walking alone, and keep pets under control where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline navigation",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year round; spring and autumn offer pleasant views and moderate temperatures, while summer provides longer daylight and winter walks are feasible with warmer clothing.",
+    "seo": {
+      "title": "Jubilee Path: Easy 3.5 km UK Walk",
+      "meta_description": "Explore Jubilee Path, a simple 3.5 km hike in the UK. Easy terrain, safety tips, gear recommendations, and best seasons for the route.",
+      "h1": "Jubilee Path – Easy 3.5 km Walk in the UK"
+    }
   }
 }

@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 19213489
+  },
+  "ai": {
+    "summary": "A demanding 31.5 km ridge-style hike around Kinder Scout in the Peak District, commemorating the 1932 Mass Trespass. Expect long ascents, boggy moorland, exposed ridges and rapidly changing UK weather.",
+    "terrain_summary": "Rugged upland ground with exposed ridgelines, peat bogs, scree, and rough tracks. Navigation relies on map and compass; sections can be scrambling on rock and crossing fences. Conditions are variable and can be boggy and wet.",
+    "safety_notes": "This route traverses exposed moorland with unpredictable weather and long distance. Wear sturdy waterproof boots and windproof layer. Carry map, compass, and fully charged phone. Plan for 9–12 hours; start early in winter and check forecasts. Inform someone of your route and estimated finish time. Stay on marked paths where possible, avoid deep bogs, and be prepared for sudden changes in visibility. In fog or storms, turn back; have emergency shelter and a whistle for signaling. Respect access rights and walk responsibly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and trousers",
+      "Warm layers (fleece or down)",
+      "Gloves and hat",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone and power bank",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a small meal",
+      "First aid kit and blister care",
+      "Emergency blanket or bivvy",
+      "Whistle and headlamp with extra batteries",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers better visibility and drier conditions; outside this window, expect harsher weather and shorter daylight—plan accordingly.",
+    "seo": {
+      "title": "Kinder Scout Mass Trespass Walk – 31.5 km Ridge Challenge in the Peak District (UK)",
+      "meta_description": "Plan a demanding 31.5 km ridge walk around Kinder Scout in the Peak District. Get safety tips, gear lists, and season recommendations for this historic UK ridge hike.",
+      "h1": "Kinder Scout Mass Trespass Walk, High Peak – 31.5 km Ridge Challenge"
+    }
   }
 }

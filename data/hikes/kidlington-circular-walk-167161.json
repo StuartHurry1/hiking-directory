@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 167161
+  },
+  "ai": {
+    "summary": "The Kidlington Circular Walk is a challenging 17.5 km circuit in the UK. Expect varied terrain including canal towpaths, fields, and woodland tracks, with several gates and occasional gentle ascents. It’s a long day out that rewards persistence with countryside views and a satisfying finish back at the start.",
+    "terrain_summary": "The route blends flat canal paths with more uneven countryside sections. Be prepared for mud after rain; footing can be uneven on fields and woodlands, and some stretches may require careful footing and navigation.",
+    "safety_notes": "Start early and allow a full day to complete. Check weather forecasts, wear appropriate clothing, and stay on marked paths. Bring a map or GPS, water, snacks, and a basic first aid kit. Watch for livestock on farmland, gates, and potential mud; inform someone of your plan and expected return time; know how to contact local emergency services if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and warm layers",
+      "Water and high-energy snacks",
+      "Map and/or GPS device",
+      "First aid kit",
+      "Hat, sunglasses, and sunscreen",
+      "Headlamp or flashlight",
+      "Whistle",
+      "Spare socks",
+      "Rain pants",
+      "Waterproof backpack cover",
+      "Mobile phone with offline maps",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for longer daylight and drier conditions; winter hikes are possible with proper gear and shorter daylight.",
+    "seo": {
+      "title": "Kidlington Circular Walk – 17.5 km challenging hike in the UK",
+      "meta_description": "Explore the Kidlington Circular Walk, a demanding 17.5 km circuit in the UK. Learn about terrain, safety tips, and gear for this hard-rated route.",
+      "h1": "Kidlington Circular Walk (17.5 km) – a challenging UK hike"
+    }
   }
 }

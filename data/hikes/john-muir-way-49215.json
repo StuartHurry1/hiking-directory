@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 49215
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike across the UK, the John Muir Way spans approximately 441.5 km. It weaves through varied landscapes, from coastal paths to rolling countryside, requiring solid planning, endurance, and reliable navigation.",
+    "terrain_summary": "The route traverses coastlines, farmland, woodland, and upland sections. Expect boardwalks, muddy trails, gravel tracks, road interruptions, and occasional steep ascents. Surface conditions vary with weather and season, so be prepared for slippery or uneven ground.",
+    "safety_notes": "Plan for variable weather and long remote sections. Carry up-to-date maps or a GPS, share your itinerary, and check-in regularly. Wear sturdy waterproof boots, dress in layers, and stay hydrated with adequate food. Allow extra time for difficult sections and weather delays, and bring an emergency plan and shelter option for unexpected nights.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and over-trousers",
+      "Moisture-wicking base layers and a warm mid-layer",
+      "Backpack with 20–40 L capacity and rain cover",
+      "Water supply (2–3 liters) plus electrolyte drinks",
+      "Map, compass, and a GPS device as backup",
+      "Headtorch with extra batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insulating hat and gloves for colder sections",
+      "Weather-appropriate layers and a thin fleece",
+      "First aid kit tailored for trekking",
+      "Emergency whistle and multi-tool",
+      "Energy-dense snacks and meals for multi-day segments",
+      "Trekking poles (optional but helpful)",
+      "Emergency blanket or bivy sack",
+      "Mobile phone power bank and solar charger (where possible)"
+    ],
+    "best_seasons": "April to October typically offers longer daylight and milder conditions, but rain and wind can appear any time in the UK, so be prepared for rapidly changing weather.",
+    "seo": {
+      "title": "John Muir Way – 441.5 km UK Long-Distance Trail",
+      "meta_description": "Plan and prepare for the strenuous 441.5 km John Muir Way in the UK. This guide covers terrain, safety, best seasons, and essential gear for trekkers.",
+      "h1": "John Muir Way – 441.5 km Long-Distance Trail in the UK"
+    }
   }
 }

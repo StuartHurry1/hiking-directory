@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17716590
+  },
+  "ai": {
+    "summary": "Hard 32.6 km coastal hike from Keiss to John O'Groats in the UK. The route combines exposed sea cliffs, moorland tracks, and occasional beach sections, demanding good fitness, navigation, and weather preparation. Suitable for experienced hikers and capable with a full day or multi-day plan.",
+    "terrain_summary": "Primarily coastal and moorland terrain with exposed cliff tops, rough paths, peat bogs, and occasional rocky steps. Footing can be uneven and muddy, with strong winds from the sea. Expect sections along beaches or tidal flats; some areas have limited shade and variable visibility.",
+    "safety_notes": "Scottish coastal weather can be unpredictable. Wear sturdy boots and waterproof layers; carry warm clothing. Navigation skills are essential; bring a map and compass (GPS as backup). Check tide times if you encounter beach sections. Start early to maximise daylight and inform someone of your route and expected return. In remote sections, cell reception may be poor; carry a whistle, emergency blanket, basic first aid kit, and sufficient food and water.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof and windproof jacket plus insulating layer",
+      "Rucksack with rain cover",
+      "Map and compass (GPS backup)",
+      "Water bottle or hydration system and high-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency bivy or space blanket",
+      "First aid kit and blister care",
+      "Hat, gloves, and sun protection",
+      "Whistle and multi-tool"
+    ],
+    "best_seasons": "May to September (late spring to early autumn) is generally best, offering longer daylight and more favorable conditions, though coastal Scotland can still be windy and wet.",
+    "seo": {
+      "title": "John O'Groats Trail – Keiss to John O'Groats (32.6 km) Hard Coastal Hike",
+      "meta_description": "Plan your 32.6 km hike on the John O'Groats Trail from Keiss to John O'Groats in the UK. A challenging coastal route with rugged terrain, safety tips, and gear recommendations.",
+      "h1": "John O'Groats Trail: Keiss to John O'Groats"
+    }
   }
 }

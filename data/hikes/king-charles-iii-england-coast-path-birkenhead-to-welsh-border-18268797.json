@@ -19,5 +19,35 @@
   "source": {
     "type": "osm",
     "osmId": 18268797
+  },
+  "ai": {
+    "summary": "A 129.2 km hard coastal trek along the King Charles III England Coast Path from Birkenhead on the Wirral to the Welsh border. This demanding multi-day hike exposes walkers to rugged cliffs, tidal sections, and variable weather, weaving along exposed coastlines with sweeping sea views, headlands, and remote stretches.",
+    "terrain_summary": "Expect a mix of cliff-top pathways, exposed ridgelines, long coastal stretches, tidal beaches, mud, and varying footing. Terrain ranges from firm sea-washed tracks to rocky ascents and wooden boardwalks; some sections can be slippery and weather conditions may reduce visibility.",
+    "safety_notes": "This is a long-distance, hard coastal route with rapidly changing weather. Plan days carefully and check tide tables for sections that cross beaches. Sections can be exposed with steep drops and slippery surfaces. Navigation skills are important in remote stretches where phone signal may be limited. Carry ample water and food, wear appropriate clothing, and bring a map, compass or GPS. Inform someone of your itinerary, be mindful of coastal erosion and rockfalls, and consider seasonal wind and rain when scheduling the trek.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Breathable base layers and an insulated mid-layer",
+      "Sturdy waterproof hiking boots with good grip",
+      "Trekking poles",
+      "Navigation tools: map, compass and/or GPS",
+      "Fully charged phone with offline maps and a power bank",
+      "Lightweight tent or bivy and sleeping bag suitable for the season",
+      "Headtorch with extra batteries",
+      "Water bottles or hydration system (2–3 liters total)",
+      "High-energy foods and snacks",
+      "First-aid kit and basic repair kit",
+      "Dry bags or waterproof sacks for gear",
+      "Sunscreen, sunglasses and a wide-brimmed hat",
+      "Warm hat and gloves for cooler coastal winds",
+      "Spare socks and a small rain cover for the pack",
+      "Emergency whistle and personal ID",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offers the best daylight and milder conditions; autumn can provide quieter trails in shoulder months.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Birkenhead to Welsh Border – 129.2 km Coastal Trek",
+      "meta_description": "Explore the challenging 129.2 km Birkenhead to Welsh Border section of the King Charles III England Coast Path. Hard coastal terrain, rugged scenery, practical gear and safety tips.",
+      "h1": "Birkenhead to Welsh Border – King Charles III England Coast Path (129.2 km, Hard)"
+    }
   }
 }

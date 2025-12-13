@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 18290602
+  },
+  "ai": {
+    "summary": "A challenging 19 km coastal traverse on the John O'Groats Trail from Dunbeath to Lybster. The route blends rugged coastline, open moorland, and intermittent farm trails. It is exposed, remote, and physically demanding, suited to experienced hikers with solid navigation skills.",
+    "terrain_summary": "Expect a mix of rocky shoreline, grassy paths, peat bogs, and occasional farm lanes. Surfaces can be uneven, wet, and muddy, with exposed ridges and potential slips on slick rocks. Sea spray and strong winds are common; some sections may be eroded or require careful footing.",
+    "safety_notes": "This is a remote, exposed coastal route with limited services. Check weather and tide conditions; bring navigation tools (map and compass) even if using a GPS. Inform someone of your plan, carry extra clothing, food, and water, and be prepared for rapid changes in conditions. Slippery surfaces, boggy patches, and uneven ground require careful footing. Mobile reception may be unreliable in remote parts.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof jacket and pants (weatherproof shell)",
+      "Insulating layers (fleece or down)",
+      "Warm hat and gloves",
+      "Map and compass (and/or GPS with offline maps)",
+      "Water supply and high-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and emergency shelter/space blanket",
+      "Sun protection (sunscreen and sunglasses)",
+      "Walking poles (optional but helpful)",
+      "Whistle for emergencies",
+      "Mobile phone with offline maps and backup battery"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best balance of daylight and weather for this exposed coastal hike; winter conditions are harsh and not recommended for most hikers.",
+    "seo": {
+      "title": "John O'Groats Trail – Dunbeath to Lybster (19 km) | Hard Coastal Hike in the UK",
+      "meta_description": "Explore the 19 km Dunbeath to Lybster section of the John O'Groats Trail. A hard, exposed coastal hike through remote UK terrain with safety tips, gear lists, and best-season advice.",
+      "h1": "John O'Groats Trail: Dunbeath to Lybster (19 km)"
+    }
   }
 }

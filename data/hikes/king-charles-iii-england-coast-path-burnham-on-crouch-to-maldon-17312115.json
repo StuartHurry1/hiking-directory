@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 17312115
+  },
+  "ai": {
+    "summary": "A hard coastal trek along the England Coast Path from Burnham-on-Crouch to Maldon in Essex, covering about 146.6 km. Expect long, exposed sections above estuary marshes, mudflats at low tide, and a mix of promenades and coastal trails with variable footing and weather.",
+    "terrain_summary": "Coastal terrain with estuary marshes, mudflats, and stretches of shingle or soft sand; promenade paths merge with uneven natural trails. Frequent wind exposure and variable footing, plus occasional muddy or slippery sections.",
+    "safety_notes": "Check tide times for estuary sections, as some paths may be cut off at high tide; be prepared for rapid weather changes on the coast; wear sturdy, waterproof footwear and dress in layers; carry a map, compass or GPS, and a charged mobile device with offline maps; stay away from cliff edges and unstable ground; hike with a partner or inform someone of your plans; carry enough water and snacks; signal coverage may be patchy in marshes.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and waterproof trousers",
+      "Layered clothing (fleece or wool mid-layer)",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water bottle or hydration system and high-energy snacks",
+      "First aid kit",
+      "Sunscreen, hat, and sunglasses",
+      "Insect repellent",
+      "Headlamp or small flashlight with extra batteries",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Emergency blanket or lightweight bivy"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best weather and daylight for this coastal route; winter hiking is possible but more challenging due to storms, mud, and shorter days.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Burnham-on-Crouch to Maldon – 146.6 km Hard Coastal Trek",
+      "meta_description": "A 146.6 km hard coastal hike along the England Coast Path from Burnham-on-Crouch to Maldon in Essex, with estuaries, mudflats and wind-swept scenery.",
+      "h1": "King Charles III England Coast Path: Burnham-on-Crouch to Maldon"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 50749
+  },
+  "ai": {
+    "summary": "KCC Centenary Walk is a gentle 3.5 km circuit in the United Kingdom designed for easy footing and relaxed pacing. Suitable for beginners and families, it offers a light stroll with minimal elevation, accessibility-friendly paths, and pleasant surroundings.",
+    "terrain_summary": "The trail uses a mix of well-maintained gravel paths, compact tarmac sections, and grassy verges. Expect smooth surfaces with occasional roots or uneven patches. Some sections may have gentle slopes but overall level terrain and clear waymarking.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and bring a waterproof layer. Stay on the official path, watch for cyclists and other pedestrians, and keep children and dogs under control. Carry water, a charged phone, and a basic first aid kit. Check local maps or guides for any closures before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat, SPF)",
+      "Layered clothing",
+      "Small first aid kit",
+      "Map or offline GPS",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions from spring to early autumn; be prepared for rain at any time in the UK.",
+    "seo": {
+      "title": "KCC Centenary Walk — 3.5 km Easy Hike in the UK",
+      "meta_description": "Explore the KCC Centenary Walk, a gentle 3.5 km trail in the UK. This easy hike is suitable for beginners, with practical safety tips, terrain details, and gear suggestions.",
+      "h1": "KCC Centenary Walk — 3.5 km Easy Hike in the UK"
+    }
   }
 }

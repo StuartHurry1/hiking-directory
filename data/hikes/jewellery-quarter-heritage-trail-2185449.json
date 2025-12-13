@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2185449
+  },
+  "ai": {
+    "summary": "The Jewellery Quarter Heritage Trail is a 6.2 km urban hike through the historic Jewellery Quarter area in the UK. This moderate route explores streets, landmarks and architecture that tell the district's story of jewellery making and industrial heritage, suitable for walkers with some stamina and a leisurely pace.",
+    "terrain_summary": "Primarily urban pavement with sections of smooth roads and some cobbled streets. Expect flat to gentle gradients, with occasional uneven surfaces and curb steps when accessing historical sites. The route runs through busy pedestrian areas and can be affected by traffic, crowds and construction.",
+    "safety_notes": "Stay aware of traffic at road crossings and busy streets. Watch for uneven pavements and cobbles, especially in older parts of the Quarter. Be mindful of pedestrians and cyclists in shared spaces. Keep valuables secure and check opening hours for any sites you plan to visit. If walking after dark, use well-lit routes and stay in populated areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket or umbrella",
+      "Phone with offline map or route guide",
+      "Small backpack or daypack",
+      "Hat and sunscreen (summer)"
+    ],
+    "best_seasons": "March to October, with the best conditions in late spring and early autumn",
+    "seo": {
+      "title": "Jewellery Quarter Heritage Trail - 6.2 km Urban Walk in the UK",
+      "meta_description": "Explore the Jewellery Quarter with a 6.2 km heritage trail. Moderate, urban paths through Birmingham's historic jewellery district, plus safety tips and gear.",
+      "h1": "Jewellery Quarter Heritage Trail"
+    }
   }
 }

@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 17253877
+  },
+  "ai": {
+    "summary": "A challenging coastal trek covering 85.5 km along the England Coast Path from Gosport to Portsmouth. This hard route hugs the Solent shoreline, weaving along estuaries, salt marshes, shingle beaches, and harbour promenades. Expect long days, variable coastal weather, and opportunities to explore naval heritage and historic forts along the way. Suitable for experienced hikers who can plan multiple days with careful tide-aware planning.",
+    "terrain_summary": "Primarily coastal paths and seawalls with sections along marsh edges, shingle beaches and boardwalks. The route is mostly flat to gently undulating, with occasional short rises near headlands. Expect mud and tidal flats at low tide, wind-exposed stretches, and frequent transitions between coastal trails and urban harbour promenades. Wildlife-rich salt marshes near Langstone Harbour and Hayling Island dunes are common features. Some segments run along busy promenades or quiet backroads, so navigation with a map or GPS is helpful in less obvious stretches.",
+    "safety_notes": "Check tide times and plan around tidal windows; some coastal sections can be inaccessible at high tide. Weather can be changeable and windy; bring waterproofs, warm layers, and sun protection. The route includes long, exposed sections and busy urban stretches; stay alert for traffic and crowds. Wear sturdy footwear; expect mud, slippery rocks, and uneven surfaces. Carry a map or GPS, a charged phone, and a portable power bank; have a plan for accommodation or transport in Portsmouth. In salt marsh areas, stay on designated paths to protect wildlife and avoid boggy ground. Let someone know your itinerary and expected finish times; carry emergency contact information.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and layered clothing",
+      "Hat, sunglasses, and sunscreen",
+      "Map or GPS device (or offline map on phone)",
+      "Water bottle (2–3 L) and high-energy snacks",
+      "Small first-aid kit",
+      "Whistle and emergency blanket",
+      "Headlamp with extra batteries",
+      "Mobile power bank",
+      "Dry bags or waterproof pouch for electronics",
+      "Trekking poles (optional)",
+      "Cash and card for harbour towns and amenities",
+      "Insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately April to October) for longer daylight and milder weather; can be done outside this window with careful planning but conditions may be harsher in winter.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Gosport to Portsmouth – 85.5 km Coastal Hike",
+      "meta_description": "Explore the 85.5 km Gosport to Portsmouth section of the King Charles III England Coast Path. Detailed terrain, safety, gear recommendations, best seasons, and practical tips for this hard coastal hike.",
+      "h1": "King Charles III England Coast Path: Gosport to Portsmouth"
+    }
   }
 }

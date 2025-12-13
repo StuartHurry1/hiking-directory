@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 12769750
+  },
+  "ai": {
+    "summary": "This section of the John O'Groats Trail covers 19.1 km from Helmsdale to Berriedale in the UK. Rated hard, it follows a rugged coastal route with exposed stretches, uneven terrain, and occasional farm tracks. It rewards hikers with dramatic sea cliffs and remote moorland scenery, best suited to those with solid fitness and good navigation skills.",
+    "terrain_summary": "Rugged coastal terrain along northeast Scotland. Expect uneven footing, exposed rocky paths, heather moorland, and sections along cliff edges. Some parts may be boggy after rain; navigation relies on markers and map knowledge. The route combines coastal paths with occasional road detours and intermittent markers, with elevation gains and occasional scrambling.",
+    "safety_notes": "Weather on this coastal section can be extreme and changeable; always check the forecast before setting out. Wear sturdy waterproof boots and layer clothing for wind and rain. Carry a map and compass or a GPS device, and keep a fully charged phone. Plan for limited mobile coverage in remote stretches and tell someone your route and expected return. Bring enough water and high energy snacks; be prepared for long gaps between services. Stay clear of cliff edges in wet or windy conditions and be cautious on slippery rocks. If crossing beaches or tidal flats, check tide times and avoid exposed sections at high tide. Respect farmland and wildlife; keep dogs under control. In an emergency, dial 999 or 112.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and warm layers",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks and a small energy bar supply",
+      "Small first aid kit and blister care items",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight emergency shelter or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) are typically best for this coastal segment, offering longer daylight and relatively milder conditions, but expect wind, rain, and rapidly changing weather.",
+    "seo": {
+      "title": "John O'Groats Trail: Helmsdale to Berriedale (19.1 km) – Hard Coastal Hike in Scotland",
+      "meta_description": "Explore a challenging 19.1 km segment of the John O'Groats Trail from Helmsdale to Berriedale in Scotland. Rugged coastal terrain, practical safety tips, and gear recommendations for a hard hike along the UK’s north coast.",
+      "h1": "John O'Groats Trail: Helmsdale to Berriedale (19.1 km)"
+    }
   }
 }

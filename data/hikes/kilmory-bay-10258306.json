@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 10258306
+  },
+  "ai": {
+    "summary": "Kilmory Bay is a coastal hike in the UK covering 12.2 km with moderate difficulty. The trail offers sea views, seabird life, and rugged shorelines. Expect exposed sections and uneven surfaces; suitable for hikers with moderate fitness.",
+    "terrain_summary": "The route follows coastal tracks: cliff-top paths, rocky shoreline, and grassy tracks. Ground is uneven with loose stones, mud after rain, and some steep ascents/descents. Watch tide-dependent sections; some parts may be slippery near inundated rocks.",
+    "safety_notes": "Check tides and weather before starting; stay on marked paths and maintain a safe distance from cliff edges; be prepared for sudden changes in wind and rain; wear sturdy footwear with good grip; carry a map, compass or GPS and a charged phone; inform someone of your plan and expected return time; bring water and snacks; carry a small first aid kit and whistle; in low light, be prepared for earlier darkness.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Map, compass or GPS device",
+      "Fully charged mobile phone",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Sunscreen and hat",
+      "Head torch or flashlight (for low light)",
+      "Lightweight rain cover or dry bag",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; winter hikes are possible but can be stormy and hazardous.",
+    "seo": {
+      "title": "Kilmory Bay Hike – 12.2 km Moderate Coastal Trail in the UK",
+      "meta_description": "Plan a 12.2 km moderate coastal hike at Kilmory Bay in the UK. Learn about terrain, safety tips, best season, and gear.",
+      "h1": "Kilmory Bay Coastal Hike"
+    }
   }
 }

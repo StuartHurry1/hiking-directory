@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 19058699
+  },
+  "ai": {
+    "summary": "A demanding 21.4 km hike from Kendal to Sizergh along the River Kent. The route blends riverside paths with ridge sections, delivering varied terrain, steady elevation, and rewarding countryside views. Expect a hard day of walking with potential exposure to wind on the ridgelines.",
+    "terrain_summary": "The walk begins on riverbank trails beside the River Kent, then transitions to rough tracks and rocky ridges. Expect uneven footing, stony surfaces, and occasional boggy patches, with short ascents and long undulating stretches. Ridge sections can be exposed in bad weather, so navigation and weather awareness are essential.",
+    "safety_notes": "This is a long and strenuous hike with exposed ridge sections. Check the weather forecast before departure; UK weather can change quickly and wind can be strong on exposed ridges. Wear sturdy, waterproof boots and layered clothing; bring a waterproof jacket/pants. Carry a map and compass (or GPS) and know how to use them; don't rely solely on phone navigation. Start early to allow 6–8 hours or more for the 21.4 km, with extra time for rests. Stay to marked routes; be cautious near the river after rain, as banks can be unstable and crossings may be unsafe. Inform someone of your plan and expected return time; carry a small first aid kit, whistle, and emergency shelter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weatherproof jacket and pants",
+      "Warm layers (fleece or down), hat, and gloves",
+      "Map and compass (or GPS) with the route loaded",
+      "Water and high-energy snacks (2–3 litres of water per person recommended)",
+      "Headlamp or flashlight with spare batteries",
+      "Small first aid kit and emergency whistle",
+      "Emergency shelter or bivvy bag",
+      "Rucksack with a proper fit",
+      "Walking poles (optional but helpful on uneven sections)",
+      "Phone with offline maps and a charged battery pack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is typically best for daylight and drier conditions, though the hike can be done in other seasons with careful planning and gear.",
+    "seo": {
+      "title": "Kendal to Sizergh via the River Kent – 21.4 km Ridge Hike (UK)",
+      "meta_description": "Explore a challenging 21.4 km hike from Kendal to Sizergh along the River Kent. This hard ridge route features varied terrain, exposed sections, and stunning countryside.",
+      "h1": "Kendal to Sizergh along the River Kent – 21.4 km Ridge Hike"
+    }
   }
 }

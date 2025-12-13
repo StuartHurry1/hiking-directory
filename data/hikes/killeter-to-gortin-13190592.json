@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 13190592
+  },
+  "ai": {
+    "summary": "A challenging 53.7 km hike from Killeter to Gortin in Northern Ireland, UK. Designed for experienced walkers, this route traverses Tyrone countryside with rolling farmland, quiet lanes, and short upland sections near the Sperrin foothills. Expect mixed terrain and long distances that may require more than one day depending on pace.",
+    "terrain_summary": "The route features a mix of asphalt lanes, farm tracks, grassy field edges, occasional gravel paths, and short sections of upland moor. Expect boggy patches after rain and gentle to moderate elevation changes as you pass through the Sperrin foothills.",
+    "safety_notes": "This is a long, demanding route with variable weather. Carry navigation tools (map and compass, or GPS) and inform someone of your plan. Weather in Northern Ireland can change quickly, so bring layers, waterproofs, and a hat. Wear sturdy boots and be prepared for uneven or boggy ground. Plan for traffic at road crossings and carry enough water and high-energy food. Keep to daylight hours as sections may be remote with limited mobile coverage. In winter, anticipate ice, fog, and reduced visibility; consider delaying the hike to safer conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Breathable base layers plus insulating layer",
+      "Hat and gloves",
+      "Backpack (40–60 L) with rain cover",
+      "Water bottle or hydration system (2–3 L total)",
+      "High-energy snacks and meals",
+      "Map and compass (or GPS) and know how to use them",
+      "Fully charged phone with offline map as backup",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency bivy or insulating layer",
+      "Sunscreen and sunglasses",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful on uneven ground)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for longer daylight and more favorable trail conditions. Be prepared for variable weather year-round in Northern Ireland; avoid particularly adverse winter conditions if unsure.",
+    "seo": {
+      "title": "Killeter to Gortin Hike – 53.7 km Hard Route in Northern Ireland, UK",
+      "meta_description": "Plan a challenging 53.7 km hike from Killeter to Gortin in County Tyrone, Northern Ireland. Learn about terrain, safety tips, gear, and the best seasons for this demanding route.",
+      "h1": "Killeter to Gortin Hike (53.7 km) – Hard Route in Northern Ireland"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 12637731
+  },
+  "ai": {
+    "summary": "This 41.5 km segment of the John O'Groats Trail runs from Dornoch to Golspie in the Scottish Highlands, offering a hard coastal hike with varied terrain and long daylight hours in the warmer months. It's best tackled by experienced hikers who are comfortable with remote coastal paths, unpredictable weather, and significant elevation changes across multiple days.",
+    "terrain_summary": "Expect exposed coastal paths, sandy beaches and pebbly shores, boggy moorland, grassy terraces, and occasional rocky steps. Footing ranges from firm to slippery, with muddy stretches after rain and wind-blasted sections along cliff edges. Some parts are remote with limited services or resupply points; sections may require careful navigation and route-finding.",
+    "safety_notes": "- Check forecast and tide times before starting. - The route is exposed to wind and weather; dress in layers and carry waterproofs. - Bring a map, compass, or GPS and know how to use them; some sections are not well marked. - Inform someone of your plan and estimated return; phone reception can be patchy in remote areas. - Carry enough food and water for the day or multiple days if planning overnight. - Be prepared for boggy ground, uneven footing, and coastal erosion; turn back if weather or conditions worsen. - Pack a small first-aid kit, emergency whistle, space blanket, and basic repair gear for gear failures.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and moisture-wicking base layers",
+      "Waterproof jacket and waterproof pants",
+      "Warm hat and gloves (seasonal)",
+      "Map, compass, and/or GPS device",
+      "Fully charged mobile phone with offline maps",
+      "Water and high-energy snacks (2 L water and electrolytes)",
+      "Small first-aid kit",
+      "Emergency whistle and space blanket",
+      "Headlamp with spare batteries"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) offers the best mix of daylight and weather, though coastal Scotland can be windy and changeable year-round; plan for shorter days or harsher conditions in autumn and winter.",
+    "seo": {
+      "title": "John O'Groats Trail: Dornoch to Golspie — 41.5 km Hard Coastal Hike (UK)",
+      "meta_description": "Guide to hiking the 41.5 km Dornoch to Golspie section of the John O'Groats Trail in the UK. Terrain overview, safety tips, and gear for experienced hikers.",
+      "h1": "John O'Groats Trail: Dornoch to Golspie — 41.5 km, Hard"
+    }
   }
 }

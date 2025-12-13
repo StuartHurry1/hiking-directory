@@ -19,5 +19,36 @@
   "source": {
     "type": "osm",
     "osmId": 11488440
+  },
+  "ai": {
+    "summary": "The King Charles III England Coast Path is a demanding long-distance coastal hike in the United Kingdom, totaling about 271.4 km along the England Coast Path. It traverses rugged cliffs, sandy coves and exposed headlands with frequently changing weather, making multi-day planning essential.",
+    "terrain_summary": "Primarily coastal trail with cliff-line paths, surf-washed sections, mud, rocky slabs and occasional beaches. Expect exposed ridges, uneven footing, and variable terrain that can be slippery when wet. Navigation is important in remote sections; tides and sea spray can affect portions of the route.",
+    "safety_notes": "Distance and isolation: the route is long and may require multi-day trekking with long stretches between towns. Plan for weather variability, strong coastal winds, and rapidly changing conditions. Check tide times for any low-lying sections, carry a detailed map and a GPS device, and inform someone of your plan. Wear sturdy boots with good grip, stay back from cliff edges, and have emergency gear and a contingency plan.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof shell jacket and waterproof overpants",
+      "Insulating layer (fleece or lightweight down)",
+      "Moisture-wicking base layers",
+      "Trekking poles",
+      "Wide-brim hat and gloves",
+      "Headlamp with extra batteries",
+      "Map and compass and/or GPS device",
+      "Fully charged phone with offline maps",
+      "Power bank and charging cable",
+      "Water bottles or hydration system plus water treatment (filters or purification tablets)",
+      "High-energy snacks and meals; lightweight stove if planning to cook",
+      "Emergency bivvy or lightweight shelter",
+      "First aid kit with blister care",
+      "Sunscreen and sunglasses",
+      "Dry bags or waterproof stuff sacks",
+      "Gaiters to keep mud and spray out of boots",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for milder weather and longer daylight; coastal UK conditions can still be windy and wet, so always check local forecasts and tide charts before starting any coastal segment.",
+    "seo": {
+      "title": "King Charles III England Coast Path — 271.4 km Coastal Trek in the UK",
+      "meta_description": "Discover the King Charles III England Coast Path, a hard 271.4 km coastal hike in the UK. Learn about terrain, safety, gear, and best seasons for this iconic coastal trek.",
+      "h1": "King Charles III England Coast Path — UK Coastal Hiking Adventure"
+    }
   }
 }

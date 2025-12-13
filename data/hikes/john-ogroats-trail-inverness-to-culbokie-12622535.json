@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 12622535
+  },
+  "ai": {
+    "summary": "A challenging 52.7 km coastal hike along the Inverness to Culbokie segment of the John O'Groats Trail in the UK. The route combines rugged shoreline paths, inland tracks, and some road walking, with significant elevation in places. It is best undertaken as a multi-day trip with careful planning, navigation, and contingency options.",
+    "terrain_summary": "Rugged coastal terrain with cliff tops, shingle beaches, marshy flats, and forested sections. Expect a mix of grass and dirt tracks, rocky outcrops, occasional road sections, and exposed coastline. Navigation is essential in remote stretches; weather can change rapidly.",
+    "safety_notes": "This is a remote route with limited services. Plan for few resupply points; check tide times for coastal segments. Carry a map and compass (or GPS) and know how to use them. Start early to maximize daylight, tell someone your plan, and carry a fully charged phone as a backup. Dress for wind and rain; watch footing on wet rocks; be prepared for fatigue on long days.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Waterproof jacket and waterproof pants (shell layer)",
+      "Layered clothing (base layer, fleece or insulating layer)",
+      "Hat and gloves for wind protection",
+      "Maps and a compass or GPS device with offline maps",
+      "Fully charged mobile phone and a portable charger",
+      "Personal first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system and high-energy snacks",
+      "Emergency blanket or bivy sack",
+      "Whistle for signaling",
+      "Sun protection: sunglasses and sunscreen",
+      "Insect repellent",
+      "Trekking poles (optional)",
+      "Rain cover for your backpack"
+    ],
+    "best_seasons": "April–October offers the best weather conditions and longer daylight in Scotland; however, weather can be highly changeable year-round, so be prepared for sudden storms at any time.",
+    "seo": {
+      "title": "John O'Groats Trail: Inverness to Culbokie – 52.7 km Hard Hike in Scotland",
+      "meta_description": "Tackle the 52.7 km hard hike from Inverness to Culbokie along the John O'Groats Trail in Scotland. Remote coastal scenery, rugged terrain, and essential safety tips.",
+      "h1": "John O'Groats Trail — Inverness to Culbokie"
+    }
   }
 }

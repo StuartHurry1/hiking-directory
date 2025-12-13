@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12789722
+  },
+  "ai": {
+    "summary": "A strenuous 16.7 km circuit along the Jubilee Walkway's Western Loop in the UK, blending urban streets with parks and riverfront sections. The route is demanding due to distance and mixed surfaces, with occasional hills and steps.",
+    "terrain_summary": "Primarily urban pavement with occasional gravel paths and steps. Expect mixed surfaces, frequent curb crossings, and some gradients. Crowded sections are possible in peak hours and near popular landmarks.",
+    "safety_notes": "Plan for daylight hours; use navigation to stay on route. Be aware of traffic at crossings and crowds on busy sections. Weather can change quickly in the UK, so wear appropriate footwear and clothing. Carry identification, a map or offline navigation, a charged phone, and a basic first aid kit. Inform someone of your planned finish time.",
+    "recommended_gear": [
+      "Sturdy, comfortable hiking shoes or boots",
+      "Weather-appropriate clothing in layers (including a waterproof jacket)",
+      "Backpack with at least 20–30 liters capacity",
+      "Water bottle and high-energy snacks",
+      "Map or offline navigation app on a phone; portable power bank",
+      "Sun protection (hat, sunscreen) in sunny conditions",
+      "Light rain cover and/or gloves and hat for cooler days",
+      "Basic first aid kit and personal medications",
+      "Headlamp or small flashlight for late finish"
+    ],
+    "best_seasons": "Spring to autumn for comfortable conditions and longer daylight; feasible year-round but winter conditions may be cold, wet, and surfaces slippery.",
+    "seo": {
+      "title": "Jubilee Walkway Western Loop – 16.7 km Hard Hike in the UK",
+      "meta_description": "Discover the Jubilee Walkway Western Loop, a challenging 16.7 km hike through urban spaces and green areas in the UK. Terrain overview, safety tips, and essential gear.",
+      "h1": "Jubilee Walkway Western Loop – 16.7 km Hard Hike in the UK"
+    }
   }
 }

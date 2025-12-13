@@ -17,5 +17,36 @@
   "source": {
     "type": "osm",
     "osmId": 12629183
+  },
+  "ai": {
+    "summary": "The John O'Groats Trail segment from Culbokie to Alness is a demanding 28.2 km hike through Scotland’s far north. It combines exposed coast, peat moorland, forest tracks, and occasional road sections, delivering remote scenery and a real test for experienced hikers.",
+    "terrain_summary": "Expect a varied mix: coastal paths with sea spray and wind, wide peat bogs and tussocky ground, rocky steps and uneven trails, forest tracks, and short road stints. Elevation is rolling with long climbs in places; navigation can be tricky in mist; footing can be wet and muddy, especially after rain.",
+    "safety_notes": "Plan for a full-day hike and check the weather in advance; conditions on the north coast can change rapidly. The route includes remote sections with limited services, so carry a map and compass, know the route, and tell someone your plans. Wear sturdy waterproof footwear and use layered clothing to cope with wind and cold. Bring enough water and high-energy snacks; have a backup plan for getting back if the weather worsens. In winter, ice and deep mud increase risk; avoid if forecasts are poor. Stay aware of traffic on road sections and consider going with a companion.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Insulating layers (fleece or down)",
+      "Sturdy waterproof hiking boots",
+      "Gaiters",
+      "Map and compass (with OS map) and a GPS device or offline maps",
+      "Fully charged phone and portable power bank",
+      "Headlamp with extra batteries",
+      "Emergency whistle",
+      "First aid kit with blister care",
+      "Water bottle or hydration bladder (2–3 liters total)",
+      "High-energy snacks and a light meal",
+      "Warm hat, gloves, and sun hat",
+      "Sunglasses and sunscreen",
+      "Insect repellent (seasonal)",
+      "Emergency shelter (space blanket or bivvy)",
+      "Dry bags or zip-locks for electronics",
+      "Personal identification and emergency contact info",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) when days are longest and conditions are more stable. Autumn can be very scenic but weather can be variable; winter hiking adds significant risk due to ice, deep mud, and shorter daylight.",
+    "seo": {
+      "title": "John O'Groats Trail: Culbokie to Alness — 28.2 km Hard Hike in the UK",
+      "meta_description": "Explore the Culbokie to Alness section of the John O'Groats Trail. A demanding 28.2 km trek in Scotland's Highlands with coastal, moorland, and forest terrain. Safety tips, gear guide, and best seasons.",
+      "h1": "John O'Groats Trail — Culbokie to Alness (28.2 km, Hard)"
+    }
   }
 }

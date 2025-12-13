@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 4515473
+  },
+  "ai": {
+    "summary": "A challenging long-distance coastal trek along the England Coast Path from Brean Down to Minehead in the UK. Covering about 200.3 km, this hard route features dramatic sea cliffs, headlands, beaches, and moorland scenery. Expect varied terrain, exposed sections, and unpredictable coastal weather, suitable for experienced hikers seeking a demanding coastal journey.",
+    "terrain_summary": "The route follows cliff-top paths, chalk downs, rocky coastal sections, beaches, and moorland approaches. Expect steep ascents and descents, uneven surfaces, exposed cliff edges, and occasional road walking. Weather can be windy and changeable, with tides affecting some sections, especially near beaches and exposed headlands.",
+    "safety_notes": "Plan for a long, demanding hike with potentially rapidly changing coastal weather. Key tips: check wind and tide conditions, avoid cliff edges in high winds or wet conditions, carry a waterproof and insulated layering system, bring map and compass (or offline GPS), ensure sufficient daylight, carry ample water and high-energy food, inform someone of your itinerary, and be aware of patchy mobile reception in remote Exmoor areas. Have a first aid kit, emergency signaling device, and a plan for emergencies along the coast.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Layered clothing plus a waterproof/windproof outer layer",
+      "Rucksack with rain cover",
+      "Sufficient water and high-energy snacks for long days",
+      "Map and compass (or GPS with offline maps)",
+      "Headlamp with spare batteries",
+      "First aid kit and basic repair tools",
+      "Emergency signaling device (mobile with coverage and optional personal locator beacon)",
+      "Sun protection: sunscreen, sunglasses, and hat",
+      "Trekking poles (optional but helpful on exposed or uneven sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) is generally best, but coastal conditions can be windy and wet year-round. Plan for longer daylight and more reliable weather in late spring through early autumn.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Brean Down to Minehead - Coastal Hiking Guide",
+      "meta_description": "Explore the England Coast Path segment from Brean Down to Minehead, a 200.3 km hard coastal trek with cliffs, beaches, and moorland. Includes safety tips, gear lists, and best seasons for hikers.",
+      "h1": "King Charles III England Coast Path: Brean Down to Minehead"
+    }
   }
 }

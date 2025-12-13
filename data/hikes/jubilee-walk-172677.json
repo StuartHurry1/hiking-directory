@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 172677
+  },
+  "ai": {
+    "summary": "Jubilee Walk is a short, easy 1.9 km hike in the UK suitable for families and casual walkers. The route offers gentle terrain, light elevation, and pleasant scenery.",
+    "terrain_summary": "Mostly flat to gently rolling paths with a mix of well-maintained footpaths, gravel sections, and occasional paved segments. The surface is suitable for most footwear.",
+    "safety_notes": "- Check local weather before you go and be prepared for sudden UK weather changes. - Wear sturdy footwear and weather-appropriate clothing. - Stay on marked paths and respect any closures. - Bring water, a snack, and a lightweight waterproof layer. - Let someone know your plans and expected return. - Be mindful of other walkers and dogs; keep valuables secure. - Carry a charged phone and a simple map in remote sections.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Light backpack",
+      "Map or offline navigation (phone with a charger)",
+      "Sunscreen and hat in sunny conditions",
+      "Emergency contact information"
+    ],
+    "best_seasons": "Spring to autumn; can be hiked year-round with appropriate weather precautions.",
+    "seo": {
+      "title": "Jubilee Walk – Easy 1.9 km Hike in the UK",
+      "meta_description": "Explore Jubilee Walk, a short and easy 1.9 km hike in the UK. Get terrain, safety tips, best seasons, and gear recommendations for a comfortable stroll.",
+      "h1": "Jubilee Walk — Easy 1.9 km Hike in the UK"
+    }
   }
 }

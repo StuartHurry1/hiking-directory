@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 12629670
+  },
+  "ai": {
+    "summary": "A challenging 32.1 km hike along the John O'Groats Trail from Alness to Tain in the UK. The route blends rugged coastal paths, peat moorland, and marshy ground with exposed sections and limited services. Best suited to experienced hikers with solid navigation skills, good fitness, and readiness for variable weather and terrain.",
+    "terrain_summary": "Expect a mix of exposed coastal track, boggy moorland, peat paths, uneven rocky sections, and intermittent wooden boardwalks. Some stretches can be muddy or waterlogged; crossing streams or wet fields may be necessary. Terrain is variable with long coastal flats punctuated by short rises, and navigation can be challenging in remote areas where signage is sparse and weather can reduce visibility.",
+    "safety_notes": "This is a remote, long-distance coastal route in the UK. Weather can change rapidly and wind exposure is common. Start early to maximize daylight and carry suitable navigation tools (map and compass or GPS). Wear sturdy waterproof boots and dress in layers; bring a warm layer, hat, and gloves. Inform someone of your plan and expected return. Pack enough water and high-energy food, a basic first aid kit, and an emergency shelter or bivy. Be prepared for boggy ground and potential river or stream crossings; if conditions become unsafe, turn back or seek shelter.\nIf coastal sections intersect tidal areas, check tide times and plan accordingly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Gaiters to keep mud and water out of boots",
+      "Breathable waterproof jacket and waterproof pants",
+      "Insulating mid-layer (fleece or lightweight down)",
+      "Warm hat and gloves",
+      "Headlamp with extra batteries",
+      "Map and compass (or full GPS device) and a means to navigate",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "High-energy snacks and some caloric balance for the day",
+      "Small first aid kit and emergency blanket or bivy",
+      "Whistle for signaling",
+      "Lightweight emergency shelter or space blanket",
+      "Sun protection (sunscreen, sunglasses)",
+      "Insect repellent and a small knife or multitool",
+      "Dry bags or waterproof stuff sacks for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is ideal, with the most reliable daylight and milder conditions. Summer offers the longest days but can be cooler and wetter; winter hiking is possible but not recommended for beginners due to short days, severe weather, and boggy ground.",
+    "seo": {
+      "title": "John O'Groats Trail (Alness to Tain) – 32.1 km Hard Hike in the UK",
+      "meta_description": "Plan your 32.1 km hike on the John O'Groats Trail segment from Alness to Tain. Discover rugged coastal scenery, boggy moorland, and practical safety and gear tips for this challenging UK trek.",
+      "h1": "John O'Groats Trail (Alness to Tain) – 32.1 km"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12697459
+  },
+  "ai": {
+    "summary": "The John O'Groats Trail segment from Brora to Helmsdale is a demanding coastal hike in the United Kingdom, covering 40.7 km along rugged North Sea shores. Expect long, exposed sections, variable weather, and significant elevation changes. This leg of the trail suits prepared hikers who can split the route over one or more days with careful planning.",
+    "terrain_summary": "Rugged coastal terrain featuring cliff and headland paths, peat moorland, rocky stretches, and sandy beaches. Expect uneven footing, boggy patches after rain, and strong winds from the sea. Navigation can be challenging in bad weather, and some sections may require detours to maintain safety.",
+    "safety_notes": "High difficulty hike on exposed coastline. Plan for unpredictable weather, strong winds, and limited daylight in winter. Always carry a map, compass, and/or GPS; tell someone your route and timings; bring sufficient water and food; wear sturdy boots; check tide and weather forecasts; have a means of communication and a small emergency kit; be prepared to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof/windproof outer shell",
+      "Map and compass (or GPS device) with backup power",
+      "Backpack with rain cover",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system with water purification option",
+      "High-energy snacks and a light meal",
+      "Small first aid kit and blister care items",
+      "Sunscreen and sunglasses (with hat)"
+    ],
+    "best_seasons": "May to September are generally the best seasons for this coastal stretch due to longer daylight and more stable weather. Shoulder seasons (April/October) can be rewarding but weather remains variable; winter hiking is not recommended for most hikers due to short days and harsh conditions.",
+    "seo": {
+      "title": "John O'Groats Trail: Brora to Helmsdale – 40.7 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore the hard 40.7 km John O'Groats Trail segment from Brora to Helmsdale. Coastal terrain, remote sections, and practical safety and gear guidance for UK hikers.",
+      "h1": "John O'Groats Trail: Brora to Helmsdale (40.7 km, Hard)"
+    }
   }
 }

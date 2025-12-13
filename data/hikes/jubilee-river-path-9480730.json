@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9480730
+  },
+  "ai": {
+    "summary": "An 11.1 km moderate hike along the Jubilee River in the UK. This riverside route blends flat, easy-going sections with gentle embankment climbs, offering tranquil water views, birds, and seasonal wildlife. Ideal for a half-day outing with varied weather and footing.",
+    "terrain_summary": "Predominantly well-maintained riverside paths with long flat stretches. Occasional gravel or compacted earth sections. Some muddy patches after rain and short steeper ramps near access points. Watch for inundation after heavy rain and be mindful of other trail users on shared sections.",
+    "safety_notes": "Wear sturdy footwear and bring a weather-appropriate layer. Check river levels and forecast before setting out. Stay on marked paths, watch for boggy or slippery sections, and allow extra time in wet conditions. Keep dogs under control, be mindful of cyclists on shared sections, and carry a map or GPS, a charged phone, a small first-aid kit, water, and snacks.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Snacks",
+      "Map, guidebook or offline map",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Lightweight backpack",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn for best conditions; winter hiking is possible with extra care due to mud and cold, but may be less pleasant.",
+    "seo": {
+      "title": "Jubilee River Path – 11.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the Jubilee River Path, an 11.1 km moderate hike along the Jubilee River in the UK. Flat riverside terrain, safety tips, gear checklist, and best seasons.",
+      "h1": "Jubilee River Path: 11.1 km Moderate Riverside Hike"
+    }
   }
 }

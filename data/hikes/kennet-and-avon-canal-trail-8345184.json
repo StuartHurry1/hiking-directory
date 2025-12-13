@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 8345184
+  },
+  "ai": {
+    "summary": "The Kennet and Avon Canal Trail is a long-distance walking route in the United Kingdom that follows the Kennet and Avon Canal for about 343.9 km. The route travels along canal towpaths, past historic locks, and through rural landscapes, with villages and market towns dotted along the way. Classified as hard due to the sustained distance and pace required, the trail combines flat terrain with occasional lock work, varying surface conditions, and exposure to seasonal weather.",
+    "terrain_summary": "Primarily flat towpath walking beside the canal, with occasional lock approaches, bridges, and road crossings. Surfaces range from packed earth and gravel to paved sections; conditions can be muddy after rain. Expect open fields, shaded canal banks, and occasional exposed sections with wind or sun.",
+    "safety_notes": "Plan for multi-day hiking with adequate resupply points; carry sufficient water for remote stretches. Check lock operations and towpath closures before setting out. Share the path with cyclists and boats, and watch for low bridges and wet surfaces after rain. Wear sturdy boots, bring weather-appropriate clothing, and have a light, charged phone and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and over-trousers",
+      "Insulating layer and breathable base layers",
+      "Backpack with waterproof cover",
+      "Detailed map, compass or GPS with offline backup",
+      "Water bottle or hydration system (2–3 L)",
+      "Lightweight tent or bivvy gear if planning to camp",
+      "First aid kit and blister care",
+      "Headlamp with spare batteries",
+      "Snacks, energy bars, and electrolyte powder",
+      "Mobile phone with power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and canal-side facilities are more available. Summer offers extended days for longer stages; autumn brings quieter towpaths and fall scenery. Winter hiking is possible but can be cold, with higher wind and variable conditions.",
+    "seo": {
+      "title": "Kennet and Avon Canal Trail – 343.9 km UK Hard-Distance Canal Hike",
+      "meta_description": "Discover the Kennet and Avon Canal Trail, a 343.9 km long-distance hike across the UK. Get terrain, safety, gear tips, and best seasons for this challenging canal route.",
+      "h1": "Kennet and Avon Canal Trail: 343.9 km UK Long-Distance Walk"
+    }
   }
 }

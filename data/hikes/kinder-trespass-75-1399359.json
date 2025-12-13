@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1399359
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate hike in the UK with varied terrain and gentle elevation. The route combines grassy tracks, rocky sections, and open moorland with rewarding views, suitable for walkers with some experience.",
+    "terrain_summary": "Mixed terrain including well-defined paths, exposed rocky stretches, damp/muddy patches and uneven ground. Expect grass, gravel, and potential boggy areas, plus wind on higher ground.",
+    "safety_notes": "Check the weather forecast before you go; UK conditions on moorland can change rapidly. Wear sturdy waterproof hiking boots and dress in layers; bring a waterproof jacket. Carry a map and compass or offline GPS; don't rely solely on a phone. Tell someone your planned route and expected return time. Stay on marked paths; be careful on wet rock and muddy patches. Carry enough water and snacks; bring a small first aid kit. Be prepared for wind and cold at elevation and daylight hours; consider a headlamp if finishing near dusk. Mobile coverage may be limited on open moorland; have a plan for emergencies. Turn back if visibility drops or weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and warm layers",
+      "Backpack with water and snacks",
+      "Map and compass or offline GPS",
+      "Mobile phone with portable charger",
+      "Small first aid kit",
+      "Hat and gloves",
+      "Whistle for emergencies",
+      "Headlamp or flashlight",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October)",
+    "seo": {
+      "title": "Kinder Trespass 75: 6.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Kinder Trespass 75, a 6.3 km moderate hike in the UK. Learn terrain details, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Kinder Trespass 75: 6.3 km Moderate Hike in the UK"
+    }
   }
 }

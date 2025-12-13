@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17294104
+  },
+  "ai": {
+    "summary": "A gentle 5 km hike from Killerton to Sprydon in the UK. The route is easy and accessible for most walkers, with mostly level terrain and only light elevation changes, making it suitable for beginners, families, and casual hikers.",
+    "terrain_summary": "Predominantly well-maintained grassy paths and gravel tracks. Some sections are compacted dirt. Expect a few muddy patches after rain and occasional exposed roots near the trail edges. Overall, the walk is straightforward with gentle gradients.",
+    "safety_notes": "Plan for typical UK weather: wear sturdy waterproof footwear and bring layered clothing. Stay on marked paths, watch for muddy sections and cattle or sheep on rural trails. Carry water and a snack, and bring a map, compass or GPS. Have a phone charged and inform someone of your route and expected return time. Be mindful of daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Snack or energy bars",
+      "Map, compass or GPS",
+      "Phone with charged battery",
+      "Lightweight rain cover or extra socks"
+    ],
+    "best_seasons": "All year, with spring and autumn offering particularly pleasant conditions.",
+    "seo": {
+      "title": "Killerton to Sprydon: 5km Easy Hike in the UK",
+      "meta_description": "A gentle 5 km hike from Killerton to Sprydon in the UK. Easy terrain, scenic countryside, and practical safety tips.",
+      "h1": "Killerton to Sprydon – 5km Easy Hike"
+    }
   }
 }

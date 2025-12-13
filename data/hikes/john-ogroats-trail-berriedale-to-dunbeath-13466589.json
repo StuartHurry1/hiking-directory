@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 13466589
+  },
+  "ai": {
+    "summary": "A coastal 12.9 km section of the John O'Groats Trail from Berriedale to Dunbeath in the UK. This moderate hike offers rugged cliffs, grassy moorland, and sweeping sea views along the northeast Scottish coast, with varying terrain and occasional exposed stretches.",
+    "terrain_summary": "Coastal route with mixed terrain: grassy tracks, rocky footing, some boggy patches, and sections along cliff edges. Expect exposed stretches and intermittent sea spray. Ground can be slippery in wet weather; navigation is straightforward but map reading helps in less marked areas.",
+    "safety_notes": "Coastal exposure with rapidly changing weather and strong winds. Tidal risks may affect access in parts of the route; stay on marked paths and keep a safe distance from cliff edges. Wear sturdy boots, bring a map or GPS, and carry extra clothing, water, and food. Let someone know your plan and estimated return time; start early in poorer daylight seasons. Use sun protection in sunny conditions and be cautious of remote road traffic.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Sturdy hiking boots",
+      "Map and compass or GPS device",
+      "Fully charged phone (with offline maps)",
+      "Water and high-energy snacks",
+      "Extra layers (fleece, hoodie, hat, gloves)",
+      "Emergency whistle",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Sun protection (sunscreen, sunglasses)",
+      "Lightweight trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather, longer daylight, and better trail conditions. Winter hikes are possible but come with higher risks from storms, flooding, and reduced visibility.",
+    "seo": {
+      "title": "John O'Groats Trail: Berriedale to Dunbeath (12.9 km) | Moderate Coastal Hike",
+      "meta_description": "Explore a 12.9 km coastal section of the John O'Groats Trail from Berriedale to Dunbeath. Moderate terrain, stunning sea views, practical safety tips and gear guidance.",
+      "h1": "John O'Groats Trail — Berriedale to Dunbeath (12.9 km)"
+    }
   }
 }

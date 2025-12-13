@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12890344
+  },
+  "ai": {
+    "summary": "A 7.2 km moderate urban walk called Jubilee Walkway (City Loop) that loops through city streets, parks, and riverside paths in the UK.",
+    "terrain_summary": "Primarily paved sidewalks and urban paths. Some gravel sections and stair steps may occur. Expect frequent street crossings, mostly flat to gently rolling terrain, and potential crowds on weekends.",
+    "safety_notes": "Stay on marked routes and cross streets at signalized crossings. Be aware of cyclists and pedestrians in busy city areas. Daylight is variable; bring a light jacket and water. Wear sturdy, comfortable shoes and watch for uneven surfaces or steps, especially after rain. Have a plan for weather changes and carry a phone for navigation.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle or hydration pack",
+      "Light rain jacket",
+      "Map or offline route app",
+      "Sunscreen and hat",
+      "Phone with GPS and emergency contacts",
+      "Light backpack or small daypack"
+    ],
+    "best_seasons": "Year-round in the UK; however, spring to autumn offer the most comfortable conditions and daylight; be prepared for rain and sudden changes in weather.",
+    "seo": {
+      "title": "Jubilee Walkway (City Loop) – 7.2 km Urban Walk in the UK",
+      "meta_description": "Discover Jubilee Walkway (City Loop), a 7.2 km moderate urban hike through UK city streets and riverside paths. Terrain insights, safety tips, best seasons, and gear.",
+      "h1": "Jubilee Walkway (City Loop) – 7.2 km Urban Walk in the UK"
+    }
   }
 }

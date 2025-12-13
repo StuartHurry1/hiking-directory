@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 4638682
+  },
+  "ai": {
+    "summary": "A demanding ridge-to-ridge traverse from Kidsgrove to Stoke Ridgeway in the UK. At 52.6 km, it rewards with dramatic ridge scenery but requires high fitness, good navigation, and experience with exposed, backcountry terrain.",
+    "terrain_summary": "Ridge-and-moors terrain with open, exposed sections. Expect rough, uneven paths, rocky outcrops, and possible boggy ground. Wind can be strong on exposed ridgelines; navigation aids like a map and compass are essential as waymarks can be sparse in sections.",
+    "safety_notes": "Hard, long-distance route with significant elevation gain and exposed sections; plan for weather changes on ridges. Carry and know how to use a map and compass (GPS as backup). Stay on official paths; watch for rough terrain, bogs, and cattle. Start early to ensure daylight; tell someone your plan and expected return. Bring sufficient food and water, a first-aid kit, extra clothing, a waterproof layer, and emergency shelter. Wear sturdy boots and pack a headtorch; in UK emergencies call 999. Check access rights and local advisories before setting out.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with solid ankle support",
+      "Weatherproof jacket and insulated layers",
+      "Waterproof overtrousers",
+      "Warm hat and gloves",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Daypack 20–30 L",
+      "2–3 liters of water with a means to treat additional water",
+      "High-energy snacks and meals",
+      "Emergency shelter or bivvy bag",
+      "First-aid kit",
+      "Whistle and signaling device",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and longer daylight, making the route more feasible. Winter crossings are possible only for very experienced hikers with appropriate gear and careful planning.",
+    "seo": {
+      "title": "Kidsgrove to Stoke Ridgeway – Hard UK Ridge Traverse (52.6 km)",
+      "meta_description": "Plan a challenging ridge traverse from Kidsgrove to Stoke Ridgeway in the UK. 52.6 km of exposed ridge terrain, safety tips, gear, and best seasons.",
+      "h1": "Kidsgrove to Stoke Ridgeway Ridge Traverse"
+    }
   }
 }

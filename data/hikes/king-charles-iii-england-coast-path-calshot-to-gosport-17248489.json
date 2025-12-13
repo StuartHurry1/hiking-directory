@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 17248489
+  },
+  "ai": {
+    "summary": "A challenging 61.7 km section of the England Coast Path following the Hampshire coast from Calshot to Gosport. This hard coastal hike features sea views across the Solent, exposed headlands, shingle beaches, and cliff-top trails with variable footing and weather. Plan for multiple days, consider tides, and prepare for strong coastal winds.",
+    "terrain_summary": "Primarily coastal path along mixed surfaces including chalk headlands, shingle beaches, and occasional boardwalks. Expect uneven footing, exposed sections, possible cliff edges, and tidal influences near the water. Long stretches with limited resupply opportunities; navigation and staying on official paths are important.",
+    "safety_notes": "Check tide times and weather forecasts before setting out; some sections may be inaccessible at high tide. Carry a map, compass or GPS, and a fully charged phone with offline maps. Be prepared for strong winds, sun exposure, and cold water. Wear sturdy footwear and layered clothing; inform someone of your itinerary; have a plan for breaks and accommodation if needed. In an emergency, dial 999. Coastal erosion and changing conditions can affect footing; stay away from unstable edges.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good grip",
+      "Layered clothing (base layer, mid-layer, and waterproof outer layer)",
+      "Waterproof trousers",
+      "Windproof hat and sun protection (hat, sunglasses, sunscreen)",
+      "Weatherproof backpack with rain cover",
+      "Hydration system or 2–3 liters of water",
+      "High-energy snacks and a means of carrying extra food",
+      "Map, compass, and/or GPS device; fully charged phone with offline maps",
+      "Portable power bank and spare batteries",
+      "First aid kit (including blister care)",
+      "Whistle and compact emergency blanket",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Personal identification and share itinerary with someone",
+      "Lightweight emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the most reliable daylight and milder conditions for a multi-day coastal hike; winter hikes are possible but require careful planning for storms, shorter days, and harsher coastal conditions.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Calshot to Gosport – 61.7 km Hard Coastal Hike",
+      "meta_description": "Explore the 61.7 km Calshot to Gosport section of the King Charles III England Coast Path. A hard coastal hike with sea views, challenging terrain, and practical gear and safety tips.",
+      "h1": "King Charles III England Coast Path: Calshot to Gosport"
+    }
   }
 }

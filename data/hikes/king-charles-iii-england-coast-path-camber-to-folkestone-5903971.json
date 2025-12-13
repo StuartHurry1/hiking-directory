@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 5903971
+  },
+  "ai": {
+    "summary": "A demanding 65 km section of the England Coast Path from Camber to Folkestone in Kent, UK. This coastal trek combines exposed cliff-top trails, shingle beaches, salt marshes, and seaside towns. Expect long days on uneven footing, exposure to wind and sun, and changes in weather; plan for multiple days and possible overnight stops. The route delivers dramatic sea views, chalk cliffs, and diverse habitats along a rugged coastline.",
+    "terrain_summary": "The terrain is a mix of cliff-top paths with occasional steep steps, chalk or limestone escarpments, boardwalks over marshes, and shingle or sandy beaches. Footing can be uneven and slippery when wet; tidal and weather conditions may close sections. Expect long, exposed sections with sea spray and strong winds, as well as gentler stretches through towns and harbour areas. Distances between amenities can be long, so plan water and food accordingly.",
+    "safety_notes": "Check tide times and weather forecasts before each stage; some beach sections depend on tides and may be impassable at high tide. Stay away from cliff edges, especially in wet or windy conditions; coastal erosion can alter paths. The coastline has remote stretches with limited mobile service—carry a map, compass, and a charged device; let someone know your itinerary and expected return. Carry sufficient water, sun protection, and emergency gear; be prepared for sudden temperature changes and strong winds.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket with a warm layer",
+      "Breathable base layers and extra socks",
+      "Wide-brim hat and sunglasses",
+      "Lightweight, weather-resistant daypack with rain cover",
+      "Hydration system (water bottles or bladder) and extra water",
+      "High-energy snacks and a small meal for longer stretches",
+      "Topographic map and compass or GPS device",
+      "Fully charged phone with offline maps and portable charger",
+      "Personal first aid kit",
+      "Trekking poles",
+      "Sunscreen and lip balm"
+    ],
+    "best_seasons": "April to October is typically the most comfortable window for this 65 km coastal hike, offering longer daylight and more stable conditions. Winter and early spring can bring storms, high winds, and rough seas that increase risk.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Camber to Folkestone – 65 km Coastal Trek",
+      "meta_description": "Explore the 65 km Camber to Folkestone segment of the King Charles III England Coast Path. A hard, coastal hike along Kent's cliffs, beaches, and marshes with safety tips and gear recommendations.",
+      "h1": "King Charles III England Coast Path: Camber to Folkestone (65 km, hard)"
+    }
   }
 }

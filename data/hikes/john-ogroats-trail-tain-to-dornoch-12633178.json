@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 12633178
+  },
+  "ai": {
+    "summary": "The John O'Groats Trail from Tain to Dornoch is a demanding coastal hike in the UK, covering about 21.6 km along rugged northern Scottish coastline. Starting near Tain and finishing in Dornoch, the route tests endurance with rocky paths, exposed sections, and variable terrain. Suitable for experienced hikers prepared for long days and changeable weather.",
+    "terrain_summary": "Coastal trail along the northern Scottish coastline between Tain and Dornoch. Exposed cliffs and rock-strewn paths, boggy or beach sections, uneven ground, occasional road walks, and moderate ascents. Weather and tidal influences can affect footing and accessibility.",
+    "safety_notes": "This is a hard, exposed coastal route with rapidly changing weather. Always check forecast and tide times; some beach sections may be impassable at high tide. Navigation should rely on a map, compass, or GPS, as markers can be sparse in remote stretches. Start early to ensure daylight; carry extra food and water, and inform someone of your planned route and expected finish time. Wear sturdy footwear, bring waterproof layers, and be prepared for wind, cold, and rain. In remote areas, cell-service may be limited.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing with multiple layers",
+      "Waterproof jacket and pants",
+      "Warm hat and gloves",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Emergency bivvy or space blanket",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "High-energy snacks and 2–3 liters of water",
+      "Whistle for signaling",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers milder weather, longer daylight, and better trail accessibility. Spring can bring wet conditions, while autumn may be windy and variable.",
+    "seo": {
+      "title": "John O'Groats Trail (Tain to Dornoch) – 21.6 km Hard Coastal Hike",
+      "meta_description": "Discover the John O'Groats Trail from Tain to Dornoch: a 21.6 km hard coastal hike in Scotland. Explore terrain, safety tips, essential gear, and the best seasons.",
+      "h1": "John O'Groats Trail: Tain to Dornoch"
+    }
   }
 }

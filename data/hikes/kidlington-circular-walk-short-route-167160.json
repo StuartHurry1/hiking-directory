@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 167160
+  },
+  "ai": {
+    "summary": "A gentle 4.1 km circular walk in Kidlington, UK. This easy route is suitable for families and beginners, following well-signed paths through village streets and surrounding countryside to complete a complete loop back to the start.",
+    "terrain_summary": "Mostly flat with a mix of pavements, grassy verges, country lanes and occasional farm tracks. Expect some gates or stiles and a few shorter road sections; conditions can be muddy after rain.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Follow public rights of way and observe road safety on any sections with traffic. Bring water, sun protection in fine weather, and a map or device with offline navigation. Keep to paths and respect livestock; supervise children and dogs.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection",
+      "Map or smartphone with offline map",
+      "Small first-aid kit",
+      "Snacks",
+      "Light rain jacket",
+      "Leash for dog if applicable"
+    ],
+    "best_seasons": "Spring to Autumn are ideal for this easy loop, though it is walkable year round; plan for mud and shorter daylight in winter.",
+    "seo": {
+      "title": "Kidlington Circular Walk (Short Route) – 4.1 km Easy Walk in the UK",
+      "meta_description": "Explore a gentle 4.1 km circular walk in Kidlington, UK. Easy terrain, flat paths through village streets and countryside, perfect for families and beginner hikers.",
+      "h1": "Kidlington Circular Walk (Short Route) – 4.1 km Easy Route"
+    }
   }
 }

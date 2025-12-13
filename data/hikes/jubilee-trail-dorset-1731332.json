@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1731332
+  },
+  "ai": {
+    "summary": "The Jubilee Trail (Dorset) is a remarkable long-distance hike in the United Kingdom, stretching about 861.9 km. Classified as hard, it traverses varied Dorset landscapes, offering coastal, chalk-down, and rural sections that test endurance, navigation, and planning.",
+    "terrain_summary": "Primarily rural and coastal terrain through Dorset, with long stretches of undulating footpaths, chalk downs, woodlands, hedgerows, and occasional road crossings. Expect a mix of exposed shorelines, muddy lanes after rain, and occasional steep ascents.",
+    "safety_notes": "Plan multi-day segments with realistic daily distances, check weather forecasts, and carry navigation tools (map and compass) in addition to a GPS device. Inform someone of your itinerary, carry sufficient water and food, pack a headlamp and warm clothing for changes in weather, be mindful of livestock and tidal conditions on coastal sections, and practice Leave No Trace to protect fragile ecosystems.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered, weather-appropriate clothing",
+      "Waterproof jacket and trousers",
+      "Daypack with rain cover",
+      "Water (2–3 liters) and water purification options",
+      "High-energy food and snacks",
+      "Map and compass; GPS device as backup",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit",
+      "Emergency whistle and thermal emergency blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately April–October) is generally best, when daylight is longer and conditions are more favorable, though weather in the UK can be changeable year-round.",
+    "seo": {
+      "title": "Jubilee Trail (Dorset) – 861.9 km Hard-Difficulty Hiking Trail in the UK",
+      "meta_description": "Explore the Jubilee Trail (Dorset), a challenging 861.9 km long-distance hike in the UK. Get terrain insights, safety tips, and gear recommendations for hikers.",
+      "h1": "Jubilee Trail (Dorset) – UK Long-Distance Hiking Route (861.9 km)"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507985
+  },
+  "ai": {
+    "summary": "Kaliness is an easy, beginner-friendly hike in the United Kingdom. The route is listed as 0 km, indicating a very short or starting-point stroll suitable for a quick outdoor escape. It emphasizes gentle terrain and accessible viewing or resting spots.",
+    "terrain_summary": "Mostly flat or gently graded surfaces, making it suitable for all ages. Expect short, non-technical paths, possible grass or compacted earth, with minimal elevation gain and well-marked routes.",
+    "safety_notes": "- Check weather forecasts and daylight hours for the UK. - Wear appropriate footwear and weather-appropriate clothing. - Stay on marked paths and carry a means of navigation and emergency contact. - Be mindful of others in popular areas and supervise children or pets. - If near roads, stay alert and keep a safe distance from traffic.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Phone with local maps",
+      "Small first-aid kit (optional)"
+    ],
+    "best_seasons": "Year-round in the UK, with especially comfortable conditions in spring and autumn. Summer offers longer daylight and warmth; winter requires warmer clothing and careful footing.",
+    "seo": {
+      "title": "Kaliness Hike | Easy Short Walk in the UK",
+      "meta_description": "Explore Kaliness, an easy beginner-friendly hike in the United Kingdom. A short, gentle stroll with practical safety tips and gear for a relaxed outdoor experience.",
+      "h1": "Kaliness Easy Short Walk in the UK"
+    }
   }
 }

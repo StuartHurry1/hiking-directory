@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 9923936
+  },
+  "ai": {
+    "summary": "Kearney coastal walk is a 7.1 km coastal hike in the UK with moderate difficulty. It offers sea views, rugged coastline, and coastal scenery; typical duration is about 2.5–3 hours. The route features varying terrain, including cliff-top sections, exposed viewpoints, and opportunities to spot seabirds.",
+    "terrain_summary": "Coastal path with mixed surfaces: some smooth, some uneven ground and short steeper sections. Expect rocky patches, steps near cliffs, potential mud after rain, and wind exposure along open shores. Parts may be narrow or close to the edge in places.",
+    "safety_notes": "Stay on marked trails and heed warning signs. Keep away from cliff edges, especially with children or dogs. Check tide times if parts of the route run along the shoreline. Weather can change quickly on the coast—dress in layers and bring waterproofs. Wear sturdy footwear with good grip, carry water and a small snack, and have a basic first-aid kit. Inform someone of your plans and estimated return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Water and snacks",
+      "Hat, sunglasses, and sun cream",
+      "Map, compass, or offline GPS",
+      "Small first-aid kit",
+      "Phone with portable charger",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer milder weather and better visibility; winter can be windy and wet with shorter daylight.",
+    "seo": {
+      "title": "Kearney Coastal Walk – 7.1 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover the Kearney coastal walk, a 7.1 km moderate coastal hike in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this seaside trail.",
+      "h1": "Kearney Coastal Walk: A 7.1 km Coastal Hike in the UK"
+    }
   }
 }

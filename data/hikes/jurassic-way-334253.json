@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 334253
+  },
+  "ai": {
+    "summary": "Jurassic Way is a challenging long-distance hike totaling 262.2 km in the UK. The route traverses diverse terrain and tests endurance, navigation, and planning across multiple days. Expect varied landscapes, significant elevation changes, and remote sections requiring careful preparation.",
+    "terrain_summary": "Expect a mix of rolling uplands, heath and moorland, woodlands, river valleys, and occasional exposed ridges. Long ascents and descents, uneven footing, mud, and variable weather are common. Some sections may be remote with limited services, so plan for potential self-sufficiency.",
+    "safety_notes": "Jurassic Way is a multi-day, strenuous trek. Plan for long stretches between resupply or accommodations; check weather forecasts as UK conditions can change rapidly. Navigation expertise is essential even on established paths; carry a detailed map, compass, and a GPS backup. Start and finish times depend on daylight and weather, so have a contingency plan for leaving the trail. Inform a trusted contact of your itinerary. Be mindful of tides and coastal hazards if near-shore sections, and respect land access rules, private lands, and wildlife. Pack sufficient food and water, and carry an emergency kit and basic first-aid supplies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing system (base layer, fleece/insulation, waterproof outer shell)",
+      "Rucksack or expedition backpack (40–50 L)",
+      "Water bottles or hydration reservoir plus water purification method",
+      "Map, compass, and GPS backup",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency shelter or lightweight tent/bivvy",
+      "Sufficient food and snacks for multiple days",
+      "Weather-appropriate gear (hat, gloves, sun protection)",
+      "Trekking poles (optional but recommended)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and longer daylight. A winter attempt is possible for experienced hikers with advanced cold-weather gear and contingency plans for limited daylight and harsher conditions.",
+    "seo": {
+      "title": "Jurassic Way: 262.2 km Hard Hike in the UK",
+      "meta_description": "Explore Jurassic Way, a demanding 262.2 km trek across the UK. Get route overview, terrain insights, safety tips, best seasons, and essential gear to plan your adventure.",
+      "h1": "Jurassic Way – 262.2 km Hard Hike in the UK"
+    }
   }
 }

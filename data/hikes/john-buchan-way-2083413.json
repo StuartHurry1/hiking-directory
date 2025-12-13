@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 2083413
+  },
+  "ai": {
+    "summary": "The John Buchan Way is a challenging 83-kilometre long-distance trail in the United Kingdom, intended for experienced hikers. The route offers varied scenery across farmland, woodlands, and open countryside, with gentle to steep sections and several longer days of walking. Given its length and elevation, it is best planned as multiple days or long-day hikes by well-prepared hikers.",
+    "terrain_summary": "The trail comprises a mix of well-marked footpaths, farm tracks, muddy woodland paths, and rocky or stony segments. Expect rolling upland sections, gradual ascents, short ascents to ridges, damp patches, and occasional river crossings. Terrain can be uneven and weather-dependent; waterproof footwear and layers are advised.",
+    "safety_notes": "Plan for multi-day or staged hikes and check weather and daylight hours. Carry a map and compass or GPS and have a route plan with a backup. UK conditions can change quickly; be prepared for rain, cold, and heat. Some sections are remote with limited mobile coverage; carry a whistle and a means to summon help. Bring enough water and food, know refill points, and pace yourself to avoid fatigue. Tell someone your itinerary, avoid solo hiking in severe weather, and practice Leave No Trace. Carry a small first aid kit, emergency shelter, and a means to call for help if necessary.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Warm layers and a weather-appropriate system",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "Map and compass or GPS",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Food and high-energy snacks",
+      "Emergency bivy or space blanket",
+      "Hat and gloves",
+      "Sunscreen and sunglasses",
+      "Trekking poles",
+      "Whistle",
+      "Mobile phone with offline maps",
+      "Dry bags or trash bags to keep gear dry"
+    ],
+    "best_seasons": "May–September are typically the best for longer days and more stable weather. Shoulder seasons (April and October) can be good with fewer crowds but require readiness for changeable conditions; winter trekking is possible only for experienced hikers with advanced planning.",
+    "seo": {
+      "title": "John Buchan Way: 83 km UK Long-Distance Trail for Experienced Hikers",
+      "meta_description": "Discover the John Buchan Way, a hard 83 km UK hiking route. Learn about terrain, safety, gear, and the best seasons for tackling this challenging long-distance trail.",
+      "h1": "John Buchan Way – 83 km Long-Distance Hike"
+    }
   }
 }

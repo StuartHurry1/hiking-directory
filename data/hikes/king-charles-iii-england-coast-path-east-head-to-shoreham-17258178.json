@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 17258178
+  },
+  "ai": {
+    "summary": "An epic coastal traverse along the England Coast Path from East Head to Shoreham, covering about 162.5 km in the UK. This hard, exposed route follows varied shorelines and demands good endurance, navigation, and careful planning for multi-day exposure to wind, tides, and weather.",
+    "terrain_summary": "The hike traverses shingle beaches, dune systems, grassy cliff paths, and chalk coastal sections. Expect uneven footing, soft sand, exposed ridges, tidal mudflats in places, frequent wind and spray, and limited shelter on some stretches. Navigation is important as coastal markers can be sparse in remote segments.",
+    "safety_notes": "Plan around tides and weather; some sections can be cut off by rising tides or rough seas. Stay aware of wind exposure on exposed promontories. Mobile coverage is limited in remote areas, so carry a map and compass in addition to GPS. Allow for longer daylight hours in favorable seasons and have backup cash and a first aid kit. Respect private land boundaries and local access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable clothing with a waterproof outer layer",
+      "Water and high-energy snacks",
+      "Wide-brimmed hat, sunglasses, and sunscreen",
+      "Map, compass, and/or GPS device",
+      "Dry bag or waterproof map case",
+      "Headlamp or flashlight with extra batteries",
+      "Compact first aid kit and emergency whistle",
+      "Fleece or mid-layer and thermal base layers",
+      "Lightweight trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best mix of daylight, milder weather, and safer sea conditions. Winter crossings are more challenging due to storms, high winds, and erosion risk.",
+    "seo": {
+      "title": "King Charles III England Coast Path: East Head to Shoreham — 162.5 km Coastal Trek",
+      "meta_description": "A challenging 162.5 km coastal hike along the England Coast Path from East Head to Shoreham in the UK. Coastal scenery, varied terrain, and practical planning tips for a hard coastal trek.",
+      "h1": "King Charles III England Coast Path: East Head to Shoreham"
+    }
   }
 }

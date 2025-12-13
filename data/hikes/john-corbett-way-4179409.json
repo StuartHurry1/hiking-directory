@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 4179409
+  },
+  "ai": {
+    "summary": "John Corbett Way is a challenging 25.3 km hike in the UK designed for experienced hikers. The route traverses varied terrain with long ascents and exposed sections, demanding good navigation and fitness.",
+    "terrain_summary": "Expect a mix of well-marked paths, rough trails, boggy ground, rocky sections, and several ascents/descents. Some segments may include gates or stiles and occasional road crossings. Weather in the UK can be unpredictable, so footing can be slippery.",
+    "safety_notes": "The hike is strenuous and weather can change quickly; carry a map, compass and a fully charged phone. Tell someone your planned route and expected return time. Watch for mud, flooding, and poor visibility; daylight hours vary by season. In remote sections, have extra layers and emergency shelter; be prepared to turn back in adverse conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and over-trousers",
+      "Thermal base layers and mid-layer fleece",
+      "Hat and gloves (seasonal)",
+      "Daypack with rain cover",
+      "Water (2–3 liters) and high-energy snacks",
+      "Map and compass; optional GPS device",
+      "Fully charged phone with offline maps; power bank",
+      "First aid kit and any personal medications",
+      "Headlamp or trekking lantern with extra batteries",
+      "Whistle and emergency shelter or bivy sack",
+      "Trekking poles for stability",
+      "Sunscreen and sunglasses; insect repellent",
+      "Lightweight microfiber towel if needed"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) offers the best weather and daylight for a 25.3 km hard hike in the UK; winter hiking is possible with extra precautions and shorter daylight.",
+    "seo": {
+      "title": "John Corbett Way – 25.3 km Hard Hike in the UK",
+      "meta_description": "Discover John Corbett Way, a demanding 25.3 km hike in the UK. Read the route overview, terrain notes, safety tips, best seasons, and gear recommendations.",
+      "h1": "John Corbett Way: A 25.3 km Hard Hike in the UK"
+    }
   }
 }

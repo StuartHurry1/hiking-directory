@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 8555
+  },
+  "ai": {
+    "summary": "A challenging 41.9 km long-distance walk in the UK commemorating the Kent County Council Centenary. The route combines countryside paths, quiet lanes and occasional urban segments, offering a demanding trek for experienced hikers who enjoy varied scenery. Depending on pace and stops, it may be completed in a long day or split across multiple days.",
+    "terrain_summary": "Expect mixed terrain: grassy fields, dirt and gravel paths, muddy sections after rain, pavement in towns, and short road stretches. The route includes stiles, gates and some uneven surfaces; elevation is rolling rather than steep, but long distances demand endurance. Check for closures on footpaths.",
+    "safety_notes": "Plan for a long hike and monitor weather; carry navigation tools and know the route; start early to maximize daylight; wear sturdy footwear and adequate clothing; stay hydrated and fueled; be prepared for changes in conditions, especially in exposed sections; carry a basic first-aid kit and a whistle for emergencies; respect private land and farm tracks, and follow local access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes with good grip",
+      "Waterproof jacket and layered clothing",
+      "Backpack with 1–2 liters of water or hydration system",
+      "High-energy snacks and a light meal for longer legs",
+      "Map and compass or GPS device; charged mobile device as backup",
+      "Fully charged phone and offline maps",
+      "Headtorch or flashlight with extra batteries",
+      "First-aid kit and emergency whistle",
+      "Sunscreen, hat and sunglasses",
+      "Insect repellent and a spare layer for wind protection",
+      "Trekking poles (optional but helpful for long distances)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal for this distance in the UK, offering longer daylight and typically better weather. Winter hiking is possible but requires additional planning for shorter days, mud, and possible ice.",
+    "seo": {
+      "title": "Kent County Council Centenary Walk – 41.9 km UK Long-Distance Trail",
+      "meta_description": "Tackle the Kent County Council Centenary Walk, a 41.9 km hard hike in the UK. Mixed terrain, planning tips, safety advice and gear for experienced walkers.",
+      "h1": "Kent County Council Centenary Walk"
+    }
   }
 }

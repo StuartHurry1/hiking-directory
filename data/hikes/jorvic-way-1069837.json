@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1069837
+  },
+  "ai": {
+    "summary": "Jorvic Way is an epic 361.5 km hard-distance hike in the United Kingdom, designed for experienced trekkers seeking a challenging multi‑day route across varied landscapes.",
+    "terrain_summary": "Trail terrain ranges from exposed moorland and rolling countryside to woodland tracks and gentle ascents. Expect long days, potential boggy sections after rain, uneven footing, and navigational challenges in remote sections.",
+    "safety_notes": "Prepare for variable UK weather and long daily stages. Plan an itinerary with backup days, inform someone of your route, and carry a map or GPS, compass, and a means to communicate. Stay hydrated, carry sufficient food, and have a lightweight emergency kit and suitable clothing for rapid weather changes. Check local advisories and trail conditions before starting.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and insulating layers",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Trekking poles",
+      "First aid kit and personal medications",
+      "Headlamp with extra batteries",
+      "Thermal layers, hat, and gloves",
+      "Water bottle or hydration bladder with water purification method",
+      "High-energy food and snacks",
+      "Emergency shelter such as bivy sack or space blanket",
+      "Phone with offline maps and portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (April–September) generally offers the best conditions for a 361.5 km hike in the UK.",
+    "seo": {
+      "title": "Jorvic Way: 361.5 km Hard Hike in the UK",
+      "meta_description": "Explore the Jorvic Way, a 361.5 km hard-distance trail in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding route.",
+      "h1": "Jorvic Way – a 361.5 km hard hike in the UK"
+    }
   }
 }

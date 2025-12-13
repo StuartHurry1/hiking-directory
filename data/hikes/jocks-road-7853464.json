@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 7853464
+  },
+  "ai": {
+    "summary": "Jock's Road is a demanding 32-kilometer hike in the United Kingdom, offering a remote, continuous trekking experience with substantial elevation gain. Intended for experienced hikers, it challenges stamina, navigation, and weather resilience, and can take a full day or longer depending on pace and conditions.",
+    "terrain_summary": "Terrain is varied and can be technical in places: woodland tracks, open moorland, rocky sections, boggy ground, and occasional stream crossings. Expect uneven footing, long sections of exposed weather, and potential detours for navigation or fatigue. Steep ascents and descended long grades are common, and remote stretches may have limited cell coverage.",
+    "safety_notes": "Plan for a long, isolated day; inform someone of your route and expected finish. Check the forecast; UK weather can change quickly, especially on open moorland. Carry OS map and compass (and/or a GPS device) and do not rely solely on a phone. Wear sturdy waterproof boots and bring extra layers and waterproofs. Bring enough food and water (2–3 liters depending on conditions) and a water treatment option if needed. Pack an emergency shelter or bivvy, a first aid kit, and a whistle. Have a headtorch with spare batteries; consider a power bank for devices. In winter or wet conditions, the route may be impassable; be prepared to turn back.",
+    "recommended_gear": [
+      "Map and compass (OS, plus a route plan) and a GPS device as backup",
+      "Waterproof jacket and waterproof pants with insulating layer",
+      "Sturdy waterproof hiking boots and extra socks",
+      "Warm hat and gloves",
+      "Trekking poles (optional but helpful for long ascents/descents)",
+      "Sufficient water (2–3 liters) and high-energy food",
+      "Emergency shelter or bivvy bag and space blanket",
+      "Basic first aid kit and blister care",
+      "Headlamp with spare batteries",
+      "Whistle and a small multi-tool",
+      "Phone with offline maps and a portable power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) typically offers the best conditions for this route in the UK, with longer daylight hours. Always verify the forecast and be prepared for sudden changes in weather.",
+    "seo": {
+      "title": "Jock's Road: 32km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 32km trek on Jock's Road in the UK. Explore terrain, safety tips, gear lists, and the best seasons for this demanding long-distance hike.",
+      "h1": "Jock's Road — 32km Hard Hike in the UK"
+    }
   }
 }

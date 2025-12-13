@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13827419
+  },
+  "ai": {
+    "summary": "Jubilee Greenway (Section 3) is a 14.9 km moderate-footpath segment of the Jubilee Greenway in the UK. This section traverses a mix of urban streets, parks, and canal-side paths, offering a pleasant blend of city scenery and green space. Suitable for hikers with basic fitness, it can be completed in a half to a full day depending on pace and stops. Public transport links nearby make it easy to start and finish.",
+    "terrain_summary": "Mostly flat with a mix of paved city pavements, compact gravel paths, and some occasional boardwalk sections along green corridors. Expect some street crossings, steps in parks, and benches for rest.",
+    "safety_notes": "Stay aware of traffic at street crossings, especially in busy urban sections. Keep valuables secure and watch for cyclists on shared paths. Stay hydrated, wear weather-appropriate layers, and plan for daylight hours in winter. Use well-lit access points and carry a map or GPS.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate layers (light rain jacket)",
+      "Small backpack",
+      "Map or offline route app",
+      "Sun protection (sunscreen, hat)",
+      "Portable power bank"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; the route is accessible year-round but daylight and weather affect enjoyment in winter.",
+    "seo": {
+      "title": "Jubilee Greenway Section 3 – 14.9 km Moderate Hike in the UK",
+      "meta_description": "Explore Jubilee Greenway Section 3, a 14.9 km moderate urban hike featuring parks, streets, and canal paths in the UK. Practical route overview, terrain, safety tips, and gear.",
+      "h1": "Jubilee Greenway: Section 3 – 14.9 km Moderate Hike"
+    }
   }
 }

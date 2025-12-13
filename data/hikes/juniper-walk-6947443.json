@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 6947443
+  },
+  "ai": {
+    "summary": "Juniper Walk is a short, easy 1.1 km hike in the UK, ideal for families and new hikers. The trail offers a gentle introduction to woodland paths with juniper-inspired scenery and a well-maintained route that stays close to level ground for most of the way.",
+    "terrain_summary": "The route is a short, mostly flat walk along well-maintained paths in light woodland. Expect a mix of compact trails and grassy sections, with some gentle inclines, occasional uneven footing, and a few exposed roots or stones.",
+    "safety_notes": "Check the forecast before you go, as UK weather can change quickly. Wear sturdy, comfortable footwear and bring clothing layers plus a waterproof layer. Bring water, sun protection in sunny spells, and stay on marked paths. Start and finish with daylight when possible and supervise children closely near woodland edges.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and a small snack",
+      "Light rain jacket or waterproof layer",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring to Autumn (April–October) in the UK; mild conditions and longer daylight make for easier hiking, though the walk is suitable year-round with proper gear.",
+    "seo": {
+      "title": "Juniper Walk - Easy 1.1 km UK Woodland Hike",
+      "meta_description": "A short, easy 1.1 km hike in the UK through juniper woodland. Perfect for beginners and families seeking a gentle stroll on well-maintained paths.",
+      "h1": "Juniper Walk"
+    }
   }
 }

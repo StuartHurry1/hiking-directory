@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17761894
+  },
+  "ai": {
+    "summary": "Juniper Path is a short, easy 0.6 km hike in the UK suitable for beginners and families. The trail provides a gentle stroll through a juniper-influenced landscape with minimal elevation and tranquil surroundings.",
+    "terrain_summary": "Mostly flat to gently undulating dirt or compacted gravel path. Generally smooth, with occasional uneven spots and possible mud after rain. Some sections may be shaded by overhanging vegetation; watch for exposed roots near the trail edges.",
+    "safety_notes": "Check the weather forecast before you go, as UK conditions can change rapidly. Wear sturdy, non-slip footwear and stay on the marked path. Be prepared for mud after rain, and take care on damp or uneven sections. Keep an eye out for low branches, use sunscreen in sunny conditions, and carry water and a small first aid kit.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Snack",
+      "Hat and sunscreen",
+      "Map or offline GPS",
+      "Phone with emergency contact information",
+      "Small first aid kit (optional)",
+      "Extra layer for warmth",
+      "Lightweight rain cover for your bag (optional)"
+    ],
+    "best_seasons": "Spring to Autumn typically offer the most pleasant conditions; visits in winter are possible with appropriate clothing and footwear but expect mud, shorter daylight, and potentially slippery surfaces.",
+    "seo": {
+      "title": "Juniper Path – Easy 0.6 km Hike in the UK",
+      "meta_description": "Discover Juniper Path, a short and easy 0.6 km hike in the UK. Ideal for beginners and families seeking a gentle nature stroll with light terrain.",
+      "h1": "Juniper Path – Easy 0.6 km Hike in the UK"
+    }
   }
 }

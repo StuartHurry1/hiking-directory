@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 15088585
+  },
+  "ai": {
+    "summary": "A scenic 8.5 km ridge walk along Wenlock Edge in the UK, following the Jenny Wind Walk route. This moderate trek threads along limestone escarpments with panoramic views across the Shropshire countryside, offering wind-swept edges, exposed sections and rolling farmland.",
+    "terrain_summary": "Ridge path on Wenlock Edge with limestone pavement and uneven, rocky sections. Expect exposed grassy gradients, short ascents and descents, and some eroded or loose sections near the edge. Footing can be uneven; weather can impact grip.",
+    "safety_notes": "Check the forecast for high winds or rain. Stay on marked paths and away from cliff edges. Keep dogs under control. Map and compass or a GPS device recommended. Bring extra layers, water and snacks. Some sections may be exposed; take care in wet or icy conditions.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Water bottle or hydration system",
+      "Map and compass (or GPS device)",
+      "Sunscreen and a hat",
+      "Extra layers (fleece/jacket)",
+      "Snacks or energy bars",
+      "Head torch (in case of delays)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when the weather is milder and views are clearer; winter walks possible but can be challenging due to wind and wet conditions.",
+    "seo": {
+      "title": "Jenny Wind Walk on Wenlock Edge – 8.5 km Ridge Walk in the UK",
+      "meta_description": "Explore the 8.5 km Jenny Wind Walk along Wenlock Edge. A moderate ridge walk in the UK offering limestone scenery, panoramic views, and wind-swept edges. Practical safety tips and gear.",
+      "h1": "Jenny Wind Walk, Wenlock Edge: A Moderate Ridge Walk in the UK"
+    }
   }
 }

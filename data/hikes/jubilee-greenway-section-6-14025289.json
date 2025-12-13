@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14025289
+  },
+  "ai": {
+    "summary": "Jubilee Greenway (section 6) is a hard, 22.8 km hike in the United Kingdom that travels through urban areas, parkland, and canal towpaths as part of the Jubilee Greenway network. It requires stamina and navigation on a mix of surfaces and occasional gentle elevation changes.",
+    "terrain_summary": "Mixed terrain featuring urban streets, parkland, canal towpaths, and occasional rural patches. Expect paved surfaces, gravel or dirt trails, patches of mud after rain, and some stairs or gentle ascents. Sections may be exposed to weather and busy intersections.",
+    "safety_notes": "This is a long, hard trek with mixed terrain. Be prepared for urban road crossings, canal towpaths, and variable weather. Carry a map or GPS and a fully charged phone. Stay on designated paths and obey local signs. Plan for breaks to stay hydrated and fueled; carry enough water and snacks. Watch for traffic at road crossings, and be mindful of crowds in urban sections. After rain, paths can be muddy or flooded; wear waterproof footwear. Daylight hours vary—plan to finish before dark and consider a head torch as a backup.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Backpack with water (2–3 liters) and high-energy snacks",
+      "Map, compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Small first aid kit",
+      "Lightweight headlamp or flashlight",
+      "Sunscreen, sunglasses, and hat",
+      "Whistle and emergency blanket",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Spring and autumn (April–June and September–October) are best; a dry summer is possible, but winter conditions and limited daylight make it less suitable.",
+    "seo": {
+      "title": "Jubilee Greenway Section 6 — 22.8 km Hard Hike in the UK",
+      "meta_description": "Discover Jubilee Greenway Section 6, a challenging 22.8 km hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Jubilee Greenway Section 6 (22.8 km, Hard)"
+    }
   }
 }

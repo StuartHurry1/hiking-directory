@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19211321
+  },
+  "ai": {
+    "summary": "An arduous 28.9 km circular hike around Kinder Scout in the Peak District, starting and finishing in the High Peak area. The route mixes exposed moorland, limestone pavement, and rugged tracks with substantial elevation gain, offering remote scenery and a true test for experienced hikers.",
+    "terrain_summary": "Exposed moorland and plateau paths with uneven, often rocky surfaces. Limestone pavement sections, heather moorland, and boggy patches after rain, plus several steep ascents and descents. Expect strong winds and limited shelter on the high ground.",
+    "safety_notes": "Check the forecast and daylight hours before setting out. Navigation is essential in open moorland—carry a map and compass (or GPS) and know how to use them. Stay on marked paths to protect fragile terrain and avoid erosion. Inform someone of your planned route and timings. Carry enough water and high-energy food, and wear sturdy boots. Be prepared for sudden weather changes; mobile reception can be unreliable in remote sections. In an emergency, raise a whistle and seek shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and insulating layer",
+      "Hat and gloves",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "First aid kit",
+      "Whistle",
+      "Headtorch with spare batteries",
+      "Emergency blanket or bivy sack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October). In winter, conditions can be severe and route is suited to very experienced hikers with proper equipment.",
+    "seo": {
+      "title": "Kinder Scout Circular Walk, High Peak (28.9 km) – Hard UK Trek",
+      "meta_description": "Conquer the 28.9 km Kinder Scout Circular Walk in the Peak District. A hard, exposed hike over moorland and limestone pavements with dramatic scenery. Plan your gear and best season for this demanding UK route.",
+      "h1": "Kinder Scout Circular Walk (28.9 km) – High Peak, UK"
+    }
   }
 }

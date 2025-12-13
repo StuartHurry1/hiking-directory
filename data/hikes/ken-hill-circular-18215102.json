@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 18215102
+  },
+  "ai": {
+    "summary": "A roughly 8.6 km circular route around Ken Hill in the UK. Rated moderate, it combines fields, tracks and gentle hills, suitable for walkers with intermediate fitness seeking rural scenery.",
+    "terrain_summary": "The hike combines grassy lanes, loose-surfaced tracks and short stony sections with gentle to moderate elevation. Conditions vary with weather: expect muddiness after rain, gates and occasional stiles, and uneven footing in places. Open sections offer views of the surrounding countryside.",
+    "safety_notes": "Check the forecast and plan for changing UK weather. Wear sturdy footwear and dress in layers with a waterproof outer layer. Stay on marked paths, close gates behind you, and watch for livestock. Carry a map or GPS, a charged mobile phone, water and snacks. Tell someone your route and expected return time; be aware that mobile signal can be limited in rural areas.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Snacks",
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Extra layers (fleece or jumper)",
+      "Hat and sunglasses",
+      "Map and compass or GPS",
+      "Mobile phone with emergency numbers",
+      "Small first aid kit",
+      "Backpack",
+      "Trekking poles (optional)",
+      "Gaiters (optional)"
+    ],
+    "best_seasons": "Spring to Autumn; walkable year-round with proper clothing and footing care.",
+    "seo": {
+      "title": "Ken Hill Circular Walk – 8.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the Ken Hill Circular, an 8.6 km moderate hike in the UK. Mixed terrain, rolling hills, and rural scenery—perfect for walkers with intermediate fitness.",
+      "h1": "Ken Hill Circular Walk"
+    }
   }
 }

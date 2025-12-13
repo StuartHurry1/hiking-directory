@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2402054
+  },
+  "ai": {
+    "summary": "The Kelvin Walkway is a demanding 24.4 km long-distance route in the UK that traverses urban streets, riverside paths, and woodland trails. Rated hard, it suits experienced hikers with good endurance and navigation skills who want a substantial single-day challenge or a multi-day trek with breaks along the way.",
+    "terrain_summary": "Flat riverside pavements and boardwalks mix with woodland trails and occasional steep stairs. Expect sections of uneven ground, mud after rain, and some road crossings. Surface quality varies from smooth paths to natural forest trails; footwear should be sturdy and grippy.",
+    "safety_notes": "Plan for a lengthy route and variable weather. Bring ample water and high-energy snacks, a map or GPS, a fully charged phone, a light layer and waterproofs, a basic first aid kit, and a whistle. Stay aware of traffic at crossings, check daylight hours, and be prepared for remote sections with limited mobile coverage. Let someone know your route and expected finish time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate multi-layer clothing",
+      "Waterproof jacket and trousers",
+      "Backpack with hydration or water bottles",
+      "Map and/or GPS device",
+      "Headtorch or flashlight",
+      "Sun protection (hat, sunscreen)",
+      "Snacks and energy bars",
+      "First aid kit",
+      "Whistle and emergency contact card",
+      "Phone with offline maps",
+      "Compact rain cover for gear"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Kelvin Walkway – 24.4 km Hard Hike in the UK",
+      "meta_description": "Explore Kelvin Walkway: a challenging 24.4 km hike in the UK featuring urban riverside paths, woodland trails, and mixed terrain. Ideal for experienced hikers seeking a long-distance day or multi-day trek.",
+      "h1": "Kelvin Walkway – 24.4 km Hard Hike in the UK"
+    }
   }
 }

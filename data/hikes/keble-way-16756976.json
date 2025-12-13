@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 16756976
+  },
+  "ai": {
+    "summary": "Keble Way is a challenging long-distance hike totaling 84 kilometers in the United Kingdom. The route traverses varied countryside and rural paths, demanding sustained endurance, solid navigation, and careful pacing, whether completed as a multi-day trek or long single-day segments.",
+    "terrain_summary": "Expect a mix of quiet country lanes, farmland tracks, moorland paths, woodland trails, and occasional rocky or muddy sections. Terrain can be rolling to hilly with exposed upland areas, so good footwear and weather protection are essential; UK weather can change quickly across the route.",
+    "safety_notes": "Plan for multi-day trekking or strenuous day hikes. Check weather forecasts and daylight hours before starting; UK conditions can be unpredictable. Navigation: carry a detailed map and compass and know how to use them; don't rely solely on mobile devices. Share your itinerary with someone and have an emergency plan. Water and food: carry enough water for several hours and have high-energy food; know water sources and consider purification if needed. Foot care: break in boots, carry blister care, and pace yourself to prevent injuries. Weather and daylight: be prepared for rain, wind, cold, or heat; adjust plans accordingly. Emergency gear: carry a whistle, headlamp, space blanket, and a compact first aid kit; know how to call for help (999 in the UK). Leave-no-trace and livestock considerations: respect gates, fences, and farm animals; carry out all rubbish.",
+    "recommended_gear": [
+      "Sturdy, well-broken-in hiking boots or trail shoes",
+      "Weather-appropriate layers (base layer, insulating layer, waterproof shell)",
+      "Lightweight daypack with 20–40 L capacity",
+      "Water bottle or hydration system (2–3 L total)",
+      "Map and compass (or GPS) and knowledge to use them",
+      "Fully charged phone with offline maps (backup navigation)",
+      "Headlamp with spare batteries",
+      "Personal first aid kit (blister care included)",
+      "Emergency whistle",
+      "Space blanket or lightweight bivvy",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Rain cover or dry bag for gear",
+      "Trekking poles",
+      "Extra socks and basic repair items (duct tape, multitool)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are typically the most favorable in the UK, but hikers should be prepared for rapidly changing weather and shorter daylight in shoulder seasons.",
+    "seo": {
+      "title": "Keble Way – 84 km Hard UK Long-Distance Hike",
+      "meta_description": "Explore Keble Way, an 84-km challenging hike in the United Kingdom. Learn about terrain, safety, gear, and the best seasons for this demanding route.",
+      "h1": "Keble Way: 84 km Hard Long-Distance Hike in the UK"
+    }
   }
 }

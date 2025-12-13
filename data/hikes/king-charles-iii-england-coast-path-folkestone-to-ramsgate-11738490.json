@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 11738490
+  },
+  "ai": {
+    "summary": "A demanding long-distance coastal trek along the Kent coast on the England Coast Path, linking Folkestone to Ramsgate. The 113.7 km route traverses cliff-tops, chalk escarpments, beaches and rural lanes, with seawinds and changing tides. Rated hard, it’s best broken into stages with careful planning, maps, and adequate time to rest in coastal towns along the way.",
+    "terrain_summary": "Expect a varied mix of exposed cliff-top paths, chalk sea cliffs, shingle beaches, and occasional road and field sections. The terrain can be uneven, with steep ascents and descents, slippery surfaces after rain, and strong coastal winds. Some stretches follow narrow ledges above the sea; path conditions and accessibility may vary with seasons and erosion.",
+    "safety_notes": "Check tide times and warnings for any beach or low-tide routes. The route runs along exposed coastal headlands and cliff tops with drop-offs; weather can change rapidly, bringing cold winds, rain, or sea spray. Bring a detailed map or GPS, a charged phone, and a means of communication; carry sufficient water and snacks; inform someone of your plans and expected finish times. Have appropriate footwear, dress in layers, and be prepared for limited services in remote sections; consider breaking into shorter day segments if conditions are poor.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Breathable layering system (base layer, insulating layer, windproof/waterproof shell)",
+      "Waterproof, windproof jacket",
+      "Wide-brim hat and sunglasses",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks and a light meal for longer days",
+      "Map and compass or GPS device; fully charged",
+      "Phone with offline maps and power bank",
+      "Small first aid kit with blister care",
+      "Emergency foil blanket or bivvy bag",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Headlamp or small torch",
+      "Whistle for emergencies",
+      "Dry bag or waterproof pack cover"
+    ],
+    "best_seasons": "May to September generally offer milder weather and longer daylight for long coastal days; spring can be beautiful with blooms, while autumn can be quieter but weather can be variable. Winter hikes are more challenging due to storms, tides, shorter days, and higher risk; plan accordingly.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Folkestone to Ramsgate – Kent Coastal Hike",
+      "meta_description": "Explore the challenging 113.7 km King Charles III England Coast Path segment from Folkestone to Ramsgate. A hard coastal trek across Kent's cliff tops, beaches and villages with practical safety and gear tips.",
+      "h1": "King Charles III England Coast Path: Folkestone to Ramsgate (Folkestone–Ramsgate)"
+    }
   }
 }

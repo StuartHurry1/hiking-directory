@@ -19,5 +19,36 @@
   "source": {
     "type": "osm",
     "osmId": 17245344
+  },
+  "ai": {
+    "summary": "A demanding long-distance coastal trek along the King Charles III England Coast Path from Cleveleys to Liverpool, covering about 143.5 km. Expect exposed sea winds, variable terrain, and a mix of coastal paths, beaches, and urban sections. Proper planning for multiple days is essential.",
+    "terrain_summary": "Predominantly coastal terrain with a mix of cliff-top paths, promenades, pebble beaches, and boardwalks. Surfaces vary from compact tracks to uneven trails; footing can be slippery after rain. The route includes flat coastal flats and occasional climbs when traversing headlands and sea cliffs, with some urban sections near towns.",
+    "safety_notes": "This is a hard, long hike with exposure to wind and weather. Check tide times and any beach sections that may affect the route. Have a navigation plan; offline maps or GPS are recommended. Tell someone your itinerary and expected return. Carry ample water, food, a charged phone, and a means to call for help. Wear sturdy waterproof footwear and be prepared for sudden weather changes. In fog, heavy rain, or storms, seek shelter and avoid exposed promontories.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable, moisture-wicking clothing layers",
+      "Weatherproof shell jacket and pants",
+      "Insulating mid-layer (fleece or similar)",
+      "Hat and sunglasses",
+      "Sunscreen and lip balm",
+      "Map and/or GPS device with offline maps",
+      "Compass or route-tracking app",
+      "Fully charged phone with emergency numbers",
+      "Portable power bank",
+      "Lightweight backpack with rain cover",
+      "First aid kit and blister care items",
+      "Emergency blanket or bivy sack",
+      "Whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles (optional but helpful)",
+      "Water bottle or hydration bladder (2–3 litres capacity depending on the day)",
+      "Energy snacks and lightweight food for multi-day segments"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) generally offers the best weather, daylight, and sea conditions for this coastal route. Winter hiking is possible but not advised for beginners due to exposure and tide risks.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Cleveleys to Liverpool – 143.5 km Coastal Hike",
+      "meta_description": "Explore a challenging 143.5 km segment of the King Charles III England Coast Path from Cleveleys to Liverpool. A rugged, exposed coastal route with sea views and town sections.",
+      "h1": "King Charles III England Coast Path: Cleveleys to Liverpool (143.5 km)"
+    }
   }
 }

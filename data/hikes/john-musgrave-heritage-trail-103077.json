@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 103077
+  },
+  "ai": {
+    "summary": "The John Musgrave Heritage Trail is a demanding long-distance walk in the United Kingdom, spanning 504.9 km and presenting a hard challenge for experienced hikers. The route traverses varied landscapes and historic sites, demanding careful planning and strong endurance.",
+    "terrain_summary": "Expect a mix of rural lanes, moorland tracks, forest paths, and occasional urban sections. Elevation gains and uneven footing are common, with potential boggy sections after rain and exposed highs depending on the route sections. Navigation is important across countryside and lesser-traveled paths.",
+    "safety_notes": "This is a strenuous trek requiring solid fitness, navigation skills, and advance planning. Carry an up-to-date map and compass or GPS, inform someone of your itinerary, and check UK weather forecasts. In remote sections be prepared for limited mobile reception, sudden weather changes, and long stretches without services. Stay hydrated, pace yourself, and consider acclimatisation and rest days for a route of this length.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with ankle support",
+      "Waterproof jacket and layers",
+      "Map, compass, and/or GPS device",
+      "Headlamp or flashlight",
+      "Emergency shelter or bivvy bag",
+      "First-aid kit",
+      "Sufficient food and water with backup supplies",
+      "Hat, gloves, and sun protection",
+      "Water filter or purification method",
+      "Whistle and multi-tool",
+      "Mobile power bank and weatherproof bag",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer better daylight and drier conditions, but weather in the UK can be highly variable; plan for rain and wind.",
+    "seo": {
+      "title": "John Musgrave Heritage Trail – 504.9 km Hard UK Long-Distance Hike",
+      "meta_description": "Discover the John Musgrave Heritage Trail, a challenging 504.9 km long-distance hike in the UK. Planning tips, terrain overview, safety notes, and gear recommendations.",
+      "h1": "John Musgrave Heritage Trail"
+    }
   }
 }
