@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14354924
+  },
+  "ai": {
+    "summary": "A short, easy 1.9 km walk in the UK suitable for beginners and families. The route features gentle terrain and a relaxed pace, making it an accessible introduction to outdoor walking.",
+    "terrain_summary": "Mostly flat to gently undulating paths with smooth surfaces; occasional gravel or compact dirt sections; some shaded stretches.",
+    "safety_notes": "Generally suitable for most ages and fitness levels. Wear sturdy footwear and weather-appropriate clothing. Check the forecast and daylight hours before you go. Stay on marked paths and carry a map or GPS. Be mindful of other walkers and leave no trace. In an emergency, call your local emergency number (UK: 999).",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light layers and a waterproof jacket",
+      "Hat and sunscreen",
+      "Phone with offline map",
+      "Small daypack for essentials",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn; winter visits are possible with proper clothing and shorter daylight hours.",
+    "seo": {
+      "title": "Impey Walk – Easy 1.9 km Hike in the UK",
+      "meta_description": "Impey Walk is an easy 1.9 km hike in the UK, ideal for beginners and families. Enjoy gentle terrain, a short route, and accessible scenery.",
+      "h1": "Impey Walk – Easy 1.9 km Hike in the UK"
+    }
   }
 }

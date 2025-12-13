@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 15536562
+  },
+  "ai": {
+    "summary": "The Holme Valley Circular Walk is a demanding long-distance loop in the UK, extending about 99.9 km. Designed for experienced trekkers, the route climbs and descends through countryside around the Holme Valley, weaving through fields, woodlands and villages. It rewards persistence with varied scenery but requires careful planning for multi-day trips.",
+    "terrain_summary": "Expect a diverse mix of grassy moorland, hedged footpaths, stone trails, fields with gates and stiles, river and stream crossings, plus forest tracks. Surfaced sections can be muddy after rain and uneven underfoot. Significant elevation changes and exposure to wind make waterproof clothing and sturdy footwear essential. Navigation benefits from a map and compass; some parts may be poorly marked.",
+    "safety_notes": "Plan for multiple days, or realistic long days with early starts. Always tell someone your route and expected return. Carry a detailed map, compass, and backup navigation device; have a fully charged phone as a backup. Pack enough water and high-energy food; know where to refill. Wear waterproof clothing, sturdy boots, and layers for temperature changes. Bring a basic first aid kit, emergency shelter, fire safety knowledge, and know local weather patterns and daylight hours. Be mindful of livestock, crops, and private land access rules; follow Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Layered clothing plus a waterproof/windproof jacket",
+      "Backpack with rain cover and enough capacity for multi-day trips",
+      "Map and compass (and a GPS as backup)",
+      "Headlamp or torch with extra batteries",
+      "Sufficient water and high-energy food",
+      "First aid kit",
+      "Emergency shelter or bivvy bag",
+      "Sunscreen, sunglasses, and a hat",
+      "Trekking poles (optional but helpful)",
+      "Mobile phone with power bank",
+      "Survival blanket or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is generally best for this hike, offering longer daylight and a more stable weather window in the UK. Aim for drier months when possible (May to July), but be prepared for rain year‑round.",
+    "seo": {
+      "title": "Holme Valley Circular Walk – 99.9 km Hard-Distance Trail in the UK",
+      "meta_description": "Explore the Holme Valley Circular Walk, a challenging near-100 km loop in the UK. Get route notes, terrain insights, safety tips, best seasons, and gear recommendations for this hard circular hike.",
+      "h1": "Holme Valley Circular Walk: A 99.9 km Hard-Distance Circular Trail in the UK"
+    }
   }
 }

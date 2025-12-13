@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1197953
+  },
+  "ai": {
+    "summary": "HOOP - Hitchin Outer Orbital Path is a challenging 19.3 km circular hike around the Hitchin area in the UK. The route combines rural fields, woodlands, and hedgerows, with varied terrain and several gates and stiles. Distance and elevation make this a demanding outing that benefits from good navigation and solid footwear.",
+    "terrain_summary": "Varied terrain including compact paths, muddy sections in wet weather, grassy tracks, farm lanes, and uneven ground. Frequent gates and stiles require careful footing; some sections may be exposed to wind and weather.",
+    "safety_notes": "Carry a map and compass or a reliable GPS. Check weather forecasts as conditions can change quickly. Expect gates, stiles, and road crossings; be mindful of traffic when crossing or walking near roads. Stay on permissive paths and watch for livestock. Ensure adequate daylight for the distance and wear appropriate clothing for wet or cold conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and extra insulating layer",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "First aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Sun protection (sunscreen, sunglasses) and a hat",
+      "Mobile phone charged for emergencies"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; Winter hikes are possible but can be wet, dark, and more challenging.",
+    "seo": {
+      "title": "HOOP – Hitchin Outer Orbital Path (19.3 km, Hard) | UK Hike Guide",
+      "meta_description": "Discover HOOP, the Hitchin Outer Orbital Path. A 19.3 km hard circular hike through fields, woods, and hedgerows in the UK. Plan your route and gear with our quick guide.",
+      "h1": "HOOP – Hitchin Outer Orbital Path (19.3 km, Hard)"
+    }
   }
 }

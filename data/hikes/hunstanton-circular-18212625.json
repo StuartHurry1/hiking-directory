@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 18212625
+  },
+  "ai": {
+    "summary": "A 10.3 km circular coastal walk starting and finishing in Hunstanton, Norfolk (UK). This moderate route threads along cliff-top paths, open shoreline, and grassy trails, offering sea views, estuary wetlands, and a mix of seaside scenery.",
+    "terrain_summary": "Mostly coastal footpaths with sections of chalk/flint surface, grassy field edges, and occasional wooden boardwalks. Some beach stretches may be sandy or uneven; expect exposed sections along clifftops and variable surfaces.",
+    "safety_notes": "Coastal weather can change quickly. Stay well back from cliff edges, especially after rainfall. Wear sturdy footwear and bring waterproofs. Check tide times before beach sections. Carry water, sun protection, a map or device, and a small first-aid kit. Keep dogs under control where required. Be prepared for wind on open sections.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Weather-appropriate clothing (layering)",
+      "Water bottle",
+      "Map or GPS device",
+      "Sun protection (sunscreen, hat)",
+      "Light rain jacket",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Whistle",
+      "Phone with offline map",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offer milder weather and clearer coastal views; winter walks are possible but can be windy and with shorter daylight.",
+    "seo": {
+      "title": "Hunstanton Circular Walk — 10.3 km Coastal Hike in Norfolk, UK",
+      "meta_description": "Discover the Hunstanton Circular, a 10.3 km moderate coastal hike in Norfolk, UK. Explore cliff-top paths, beaches, and wetlands with practical safety tips and gear recommendations.",
+      "h1": "Hunstanton Circular Walk (10.3 km)"
+    }
   }
 }

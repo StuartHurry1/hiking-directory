@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3514189
+  },
+  "ai": {
+    "summary": "Ivanhoe Way is a hard, long-distance route in the UK that covers about 116.9 km. The path traverses a mix of countryside, hedgerows and minor road sections, demanding good fitness, navigation skills and careful planning across multiple days.",
+    "terrain_summary": "Expect varied terrain typical of UK long-distance trails: woodland and field paths, rural lanes and occasional road sections, with variable surfaces and elevation gains. Weather and footing can change quickly, so be prepared for a range of conditions.",
+    "safety_notes": "Plan thoroughly before you start: check the forecast and daylight hours, map your route, and share your itinerary with someone. Carry a detailed map and compass in addition to a GPS device, and know how to navigate if devices fail. Bring enough water and food for each day, estimate realistic daily distances, and pace yourself to avoid exhaustion. Start early to maximize daylight, stay on official paths, and know where to seek help if needed. Have a plan for shelter or emergency stops in bad weather.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, mid-layer, waterproof outer shell)",
+      "Backpack with rain cover",
+      "Map and compass (plus GPS as backup)",
+      "Headlamp with extra batteries",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "First aid kit and blister care",
+      "Emergency whistle and mobile phone with power bank",
+      "Sun protection and insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) for more favourable weather and daylight; winter hiking requires extra preparation and shorter days.",
+    "seo": {
+      "title": "Ivanhoe Way – 116.9 km UK Long-Distance Trail",
+      "meta_description": "Discover Ivanhoe Way, a hard 116.9 km long-distance trail in the UK. Learn about the terrain, safety considerations, and gear for a multi-day trek.",
+      "h1": "Ivanhoe Way: 116.9 km UK Long-Distance Trail"
+    }
   }
 }

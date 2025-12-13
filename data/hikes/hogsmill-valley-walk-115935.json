@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 115935
+  },
+  "ai": {
+    "summary": "A challenging, long-distance hike along the Hogsmill Valley in the UK. At 34.5 km with a hard difficulty, it rewards experienced hikers with varied terrain and river valley scenery, demanding stamina and solid navigation.",
+    "terrain_summary": "The route combines riverbank paths, woodland trails, open fields, and occasional road sections. Expect uneven surfaces, muddy stretches after rain, stiles and gates, and some short ascents and descents. The full 34.5 km distance requires planning for rest stops and hydration.",
+    "safety_notes": "Plan for 34.5 km of hard hiking: start early to maximize daylight; check weather forecasts; wear sturdy boots and layered clothing; carry map and compass (and/or GPS), a charged phone with offline maps, and a reliable power bank; bring sufficient water (2-3 L) and high-energy food; watch for muddy sections and livestock gates; follow waymarked routes where present; inform someone of your plans and expected return; carry a basic first aid kit and emergency whistle; consider trekking poles for stability; in cold or windy conditions, protect extremities.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (base layer, fleece, waterproof shell)",
+      "Waterproof jacket and pants",
+      "Hat and gloves (seasonal)",
+      "Backpack with 15-25 L capacity",
+      "Water and high-energy snacks (2-3 L water, plus snacks)",
+      "Map and compass (and/or GPS device)",
+      "Fully charged phone and power bank",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Trekking poles (optional)",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Emergency whistle",
+      "Space blanket or emergency bivvy",
+      "Extra socks"
+    ],
+    "best_seasons": "Spring and autumn are ideal for Hogsmill Valley Walk; summer is possible with long daylight but heat and sun exposure require extra caution; winter hikes are more challenging and generally not recommended for most hikers.",
+    "seo": {
+      "title": "Hogsmill Valley Walk – 34.5 km hard hike in the UK",
+      "meta_description": "Discover the Hogsmill Valley Walk, a 34.5 km hard-distance hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to tackle this challenging route.",
+      "h1": "Hogsmill Valley Walk: A 34.5 km hard hike in the UK"
+    }
   }
 }

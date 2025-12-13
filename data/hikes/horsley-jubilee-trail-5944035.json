@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5944035
+  },
+  "ai": {
+    "summary": "The Horsley Jubilee Trail is a challenging 20.7 km hike in the United Kingdom, best suited for experienced walkers seeking a strenuous day on mixed countryside terrain.",
+    "terrain_summary": "The route traverses a mix of rural lanes, field paths, and occasional grassy or stony sections. Expect uneven footing, hedgerows, and some short ascents and descents. Weather can make tracks muddy or slippery, especially after rain, so sturdy boots and a waterproof layer are advised.",
+    "safety_notes": "Plan for a long day: carry a map and compass (and know how to use them), check local weather, and start with plenty of daylight. The trail runs through rural areas with variable mobile reception and can be exposed in places. Watch for livestock on byways, uneven ground, and potential boggy sections after rain. Carry sufficient water and snacks, a basic first aid kit, a whistle, and a light source if there is any chance of low light.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass (or GPS) and knowledge to use them",
+      "Headlamp or flashlight with extra batteries",
+      "Hat and sunscreen for sun exposure",
+      "First aid kit and multitool",
+      "Whistle for emergencies",
+      "Light rain pants and gloves (optional for cold weather)",
+      "Mobile phone with offline maps and emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for milder weather and longer daylight; winter hikes are possible but require stronger prep and fitness.",
+    "seo": {
+      "title": "Horsley Jubilee Trail — 20.7 km Hard Hike in the UK",
+      "meta_description": "Discover the Horsley Jubilee Trail, a demanding 20.7 km hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons for this challenging trek.",
+      "h1": "Horsley Jubilee Trail — 20.7 km Hard Hike in the UK"
+    }
   }
 }

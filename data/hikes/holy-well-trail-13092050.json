@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13092050
+  },
+  "ai": {
+    "summary": "Holy Well Trail is a short, easy 1.2 km hike in the UK, suitable for beginners and families. The route leads to a historic holy well and offers quiet countryside and light woodland scenery.",
+    "terrain_summary": "Primarily well-maintained paths with a mix of grassy sections and shade from trees. Expect occasional muddy patches after rain and a few uneven spots near the well; the surface is typically smooth but can be slippery when wet.",
+    "safety_notes": "Plan for variable UK weather; wear sturdy, waterproof footwear and bring layers. Stay on marked paths and watch for mud, puddles, and uneven ground. Be mindful of livestock and low-hanging branches. Carry a map or offline GPS, a charged phone, and tell someone your route and expected return. The hike is short but weather can change quickly, especially in exposed areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Small daypack",
+      "Water and a snack",
+      "Map or offline GPS",
+      "Phone with charged battery",
+      "Hat and sunscreen for sunny conditions"
+    ],
+    "best_seasons": "Spring to autumn when trails are drier and more comfortable; the route can be enjoyed year-round, but winter conditions may bring mud, slush, and reduced daylight.",
+    "seo": {
+      "title": "Holy Well Trail – Easy 1.2 km Hike in the UK",
+      "meta_description": "Discover the Holy Well Trail, a short and easy 1.2 km hike in the UK. Ideal for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Holy Well Trail: Easy 1.2 km Hike in the UK"
+    }
   }
 }

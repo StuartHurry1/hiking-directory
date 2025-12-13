@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19881634
+  },
+  "ai": {
+    "summary": "A gentle 3.8 km circular walk called the House Route at Tyntesfield in the UK. The route traverses the historic estate with easy terrain, making it suitable for families and casual walkers, typically taking about 1 to 1.5 hours.",
+    "terrain_summary": "Mostly easy terrain with flat to gentle slopes. Paths are a mix of surfaced gravel, compacted dirt, and grassy sections. Expect some uneven patches and occasional steps near the house, with shade in parts and open views in others within the historic grounds.",
+    "safety_notes": "Check Brought up opening times and any seasonal restrictions for the Tyntesfield estate before you go. Stay on marked paths and respect private areas. Weather can make surfaces slippery, so wear sturdy footwear. Carry water and sun protection in dry weather, and be prepared for colder, damp conditions in autumn/winter. Keep dogs on a leash where required and be mindful of other visitors. Mobile reception may be limited in parts of the estate.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather appropriate clothing (jacket when needed)",
+      "Sunscreen and hat for sunny days",
+      "Lightweight backpack",
+      "Map or offline navigation app",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "All year; spring and autumn offer particularly pleasant scenery and comfortable temperatures.",
+    "seo": {
+      "title": "House Route, Tyntesfield – Easy 3.8 km Walk in the UK",
+      "meta_description": "Explore the House Route at Tyntesfield, a 3.8 km easy walk in the UK. Gentle terrain, historic grounds, practical safety tips, and gear recommendations for a pleasant day.",
+      "h1": "House Route at Tyntesfield – Easy 3.8 km Walk"
+    }
   }
 }

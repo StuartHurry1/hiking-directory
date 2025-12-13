@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11796539
+  },
+  "ai": {
+    "summary": "A short, easy 0.6 km hike that offers a quick outdoor experience in the UK. Suitable for beginners or a casual stroll with minimal elevation and time commitment.",
+    "terrain_summary": "Mostly flat, with a well-defined path. Surface may include paved sections, compacted gravel, and occasional grassy patches; gentle slopes possible along the route.",
+    "safety_notes": "Great for daylight strolls; check weather and daylight hours. Wear sturdy footwear, bring a light layer and water, and keep to the marked path. Be mindful of uneven ground, and watch for other walkers, cyclists, or riders on shared sections. Have a means to navigate if you’re in an unfamiliar area.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof layer",
+      "Hat and sunscreen (sunny days)",
+      "Map or smartphone with offline map",
+      "Light snack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for comfortable temperatures; can be done year-round with appropriate clothing and daylight.",
+    "seo": {
+      "title": "Illogan BR 28: Easy 0.6 km Hike in the UK",
+      "meta_description": "Explore Illogan BR 28, a short 0.6 km easy hike in the UK. Quick, beginner-friendly walk with practical safety tips and gear.",
+      "h1": "Illogan BR 28 — Easy 0.6 km Hike in the UK"
+    }
   }
 }

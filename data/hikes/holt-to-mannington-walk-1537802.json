@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1537802
+  },
+  "ai": {
+    "summary": "The Holt to Mannington Walk is a strenuous long-distance hike in the UK, covering 66.3 km from Holt to Mannington. This hard route traverses varied countryside and requires stamina, careful planning, and good navigation. Expect long days, changing weather, and opportunities to enjoy rural scenery.",
+    "terrain_summary": "The route features mixed terrain typical of rural UK countryside: quiet lanes, hedged fields, woodland passages, farm tracks, and potentially uneven or stony paths. Elevation changes can be substantial in places, with short steep sections and long flat stretches; navigation relies on map and route signage in parts.",
+    "safety_notes": "This is a multi-day, strenuous hike. Check weather forecasts, daylight hours, and tide information if any coastal segments. Carry a map and compass (or reliable GPS), and keep to public rights of way. Plan rest breaks and overnight stops, inform someone of your itinerary, and carry emergency essentials including a first aid kit, whistle, and a charged phone. Wear sturdy footwear, bring layers and rain protection, stay hydrated, and be prepared for rapidly changing UK weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof and windproof jacket",
+      "Warm layers and moisture-wicking clothing",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottles or hydration system",
+      "High-energy food and snacks",
+      "Personal first aid kit",
+      "Emergency shelter or space blanket",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen and sunglasses",
+      "Hat and gloves",
+      "Whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October).",
+    "seo": {
+      "title": "Holt to Mannington Walk – 66.3 km Hard UK Hike",
+      "meta_description": "Explore the 66.3 km Holt to Mannington Walk in the UK. A hard, long-distance hike with varied terrain, safety tips, and essential gear.",
+      "h1": "Holt to Mannington Walk (66.3 km) – UK Hard-Distance Trek"
+    }
   }
 }

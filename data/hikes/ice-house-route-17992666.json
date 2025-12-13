@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 17992666
+  },
+  "ai": {
+    "summary": "The Ice House Route is a 4 km easy hike in the UK, suitable for beginners and families. It follows a straightforward, well-defined path with gentle grade, offering pleasant countryside scenery and a relaxed day on foot.",
+    "terrain_summary": "Mostly clear, well-marked paths with grassy sections and some mud. Occasional small rocky steps and uneven ground can appear, and surfaces may be slick in wet or icy conditions. Be prepared for changing footing and limited shade in parts.",
+    "safety_notes": "Plan for variable UK weather: check the forecast and daylight hours; tell someone your route and expected return. Wear sturdy waterproof boots and dress in layers; bring a map or GPS, water, snacks, and a basic first aid kit. Stay on established paths, watch for mud and slick patches, and use traction devices in icy conditions. Respect livestock and other trail users.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Warm layers",
+      "Hat and gloves",
+      "Map and compass or GPS",
+      "Water and snacks",
+      "Headlamp or flashlight",
+      "Small first aid kit",
+      "Emergency blanket",
+      "Trekking poles (optional)",
+      "Traction devices (in winter)"
+    ],
+    "best_seasons": "Spring to autumn; winter can be hazardous due to ice, cold fronts and shorter daylight hours.",
+    "seo": {
+      "title": "Ice House Route – 4 km Easy Hike in the UK",
+      "meta_description": "Explore the Ice House Route, a 4 km easy UK hike suitable for beginners. Learn about terrain, safety, best seasons, and gear for a smooth day on the trail.",
+      "h1": "Ice House Route: 4 km Easy Hike in the UK"
+    }
   }
 }

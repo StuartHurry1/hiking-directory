@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1536493
+  },
+  "ai": {
+    "summary": "Isaac's Tea Trail is a hard 124.6 km long-distance hike in the UK. The route threads through rural countryside, passing quiet lanes, fields, and woodlands, with a playful tea-themed motif along the way. It is designed for experienced hikers seeking a demanding multi-day trek with varied terrain and rewarding views.",
+    "terrain_summary": "Terrain is diverse and demanding, featuring long stretches of grassy bridleways, muddy farm paths, rocky sections, and occasional road segments. Expect uneven footing, frequent elevation changes, and weather-driven conditions. Navigation benefits from a map and compass or reliable GPS, as wayfinding markers may be sparse in some areas.",
+    "safety_notes": "Plan the hike as a multi-day route with overnight stops; check local weather forecasts and be prepared for rain. Wear water-resistant footwear and carry extra clothing for wind and cold. Respect private land, stick to public rights of way, and carry a means to signal for help. Share your itinerary with someone, keep to daylight hours, and have a plan for shorter days if conditions worsen. Stay hydrated, monitor fatigue, and adjust pace accordingly. Know local emergency numbers and follow safety guidelines for remote trails.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Warm layers (fleece or down jacket) for chilly mornings/evenings",
+      "Moisture-wicking base layers",
+      "Backpack with rain cover (20–40 L depending on trip length)",
+      "Hydration system or water bottles (2–3 L total)",
+      "Trail snacks and energy foods",
+      "Navigation tools (map and compass) or a reliable GPS device",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care supplies",
+      "Emergency blanket or bivy sack",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Phone with power bank and offline maps",
+      "Lightweight sleeping system or bivvy if camping; insulating mat",
+      "Repair kit and duct tape for quick fixes"
+    ],
+    "best_seasons": "Spring to autumn are the best seasons for Isaac's Tea Trail. Ideal months are typically April–June and September–October for milder weather and longer daylight. Winter hiking is possible with proper gear but comes with higher weather risk and shorter days.",
+    "seo": {
+      "title": "Isaac's Tea Trail: A 124.6 km UK Hard-Distance Hike",
+      "meta_description": "Plan your trek on Isaac's Tea Trail, a demanding 124.6 km route across the UK countryside. Get practical tips, a gear checklist, best seasons, and safety notes for experienced hikers.",
+      "h1": "Isaac's Tea Trail: 124.6 km UK Hard-Distance Hiking Experience"
+    }
   }
 }

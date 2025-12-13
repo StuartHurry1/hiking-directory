@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 19853783
+  },
+  "ai": {
+    "summary": "A 14.2 km moderate ridge walk starting near Benthall Hall in the UK, featuring wooded sections, open ridge paths, and views over the surrounding countryside and the Ironbridge Gorge. Suitable for hikers with moderate fitness who enjoy elevation and scenery.",
+    "terrain_summary": "Combination of ridge and woodland trails with uneven ground, rocky or roots sections, and several gates or stile crossings. Expect some exposed sections on higher ridges and muddy conditions after rain.",
+    "safety_notes": "Weather can change quickly on ridges; wear appropriate layers and waterproofs. Stay on marked paths, keep to the center of narrow sections, and watch footing on uneven ground. Bring a map or GPS, carry sufficient water and snacks, inform someone of your plans, and have a plan for daylight limitations.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and mid-layer",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Water and high-energy snacks",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "First-aid kit",
+      "Extra warm layer for cooler conditions",
+      "Walking poles (optional)",
+      "Emergency whistle",
+      "Headlamp or flashlight (for late finishes or low light)"
+    ],
+    "best_seasons": "Late spring to early autumn offer the best conditions and daylight. The hike can be done in winter with extra caution and proper gear for mud and cold temperatures.",
+    "seo": {
+      "title": "Ironbridge Walk, Benthall Hall – 14.2 km Ridge Hike in the UK",
+      "meta_description": "Explore the Ironbridge Walk from Benthall Hall, a 14.2 km moderate ridge hike in the UK. Enjoy woodland trails, ridge views, and scenery around the Ironbridge Gorge.",
+      "h1": "Ironbridge Walk, Benthall Hall Ridge Hike"
+    }
   }
 }

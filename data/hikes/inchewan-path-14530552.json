@@ -17,5 +17,37 @@
   "source": {
     "type": "osm",
     "osmId": 14530552
+  },
+  "ai": {
+    "summary": "Inchewan Path is a challenging 21 km hike in the UK that rewards experienced walkers with a long, varied route. The landscape is likely to include mixed terrain and potential exposure, so solid navigation and endurance are essential.",
+    "terrain_summary": "Expect a mix of forest tracks, grassy ridges, rocky sections, and muddy byways. Footing can be uneven and weathered surfaces slippery after rain. Depending on the region, you may encounter boggy ground, stream crossings, and modest ascents and descents along the way.",
+    "safety_notes": "Check the forecast before you go; UK weather can change rapidly. Carry a detailed map and compass in addition to any electronic device, and don't rely on mobile coverage. Start early to ensure daylight, stay on marked paths, and tell someone your plan. Bring sufficient water and food, wear appropriate clothing, and carry a basic first-aid kit. In remote sections, consider a whistle and an emergency blanket.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weatherproof jacket",
+      "Insulating layer",
+      "Moisture-wicking base layers",
+      "Hat and gloves",
+      "Map and compass",
+      "GPS device or offline maps",
+      "Fully charged phone",
+      "Water bottles or hydration system",
+      "Water purification method",
+      "High-energy snacks",
+      "Small first aid kit",
+      "Trekking poles (optional)",
+      "Headlamp or flashlight",
+      "Emergency bivvy or space blanket",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Whistle",
+      "Emergency shelter or tarp"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October), with weather variability and potential rain; plan for changing conditions.",
+    "seo": {
+      "title": "Inchewan Path: A 21 km Hard Hike in the UK",
+      "meta_description": "Plan your 21 km challenge on the Inchewan Path in the UK. Learn about terrain, safety tips, gear lists, and the best seasons for this demanding hike.",
+      "h1": "Inchewan Path – 21 km Hard Hike in the UK"
+    }
   }
 }

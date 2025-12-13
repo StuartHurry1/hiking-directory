@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16666746
+  },
+  "ai": {
+    "summary": "Horningsea and Clayhithe River Walk is a long-distance riverside trek in the UK, spanning 20.7 km. The route follows riverbanks and fenland tracks between Horningsea and Clayhithe, with flat terrain punctuated by fields, occasional stiles, and short road sections. It is rated hard due to the distance, potential mud, and exposed open stretches along the water, making it best suited for experienced walkers with solid stamina and navigation skills.",
+    "terrain_summary": "Expect a mix of riverbank paths, grassy tracks, muddy sections, and farm/gravel tracks. The route runs across flat fenland terrain with occasional gentle rises; surfaces range from compact paths to soft, waterlogged ground after rain. Some sections may include stiles and gates. Be mindful of seasonal flooding and any tidal effects if parts of the route run near estuary edges.",
+    "safety_notes": "Check tide times and weather forecast before setting out, as parts of the river corridor can flood or become muddy. Wear sturdy waterproof boots and appropriate layered clothing. Carry a map, compass or GPS, and a fully charged phone with offline maps. Tell someone your plan and expected return time. Stay on public rights of way, be aware of livestock and cyclists on shared paths, and plan for limited mobile signal in remote stretches. Bring water, snacks, a small first aid kit, a whistle, and a light source if you may be out after dusk.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-resistant jacket and warm layers",
+      "Water bottle and snacks",
+      "Map, compass, or GPS device",
+      "Mobile phone with offline map",
+      "Hat, sunglasses, and sunscreen",
+      "Pony or rain poncho",
+      "Small first aid kit",
+      "Headlamp or flashlight (for late return or low light)",
+      "Optional trekking poles",
+      "Backpack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (March–October).",
+    "seo": {
+      "title": "Horningsea and Clayhithe River Walk – 20.7 km Hard Hike in the UK",
+      "meta_description": "Discover a challenging 20.7 km riverside route from Horningsea to Clayhithe in the UK. Flat fenland paths, muddy riverbanks, and open views demand good fitness and navigation.",
+      "h1": "Horningsea and Clayhithe River Walk (20.7 km, Hard)"
+    }
   }
 }

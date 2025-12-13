@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 421004
+  },
+  "ai": {
+    "summary": "A gentle 5.6 km loop in the UK offering a family-friendly, easy hike through parkland and woodland with light views of the surroundings and opportunities to observe local wildlife.",
+    "terrain_summary": "Mostly flat with gentle grades. Surfaces are a mix of compacted gravel and packed dirt. Some sections may be uneven due to tree roots or moisture, particularly after rain.",
+    "safety_notes": "Easy hike suitable for most walkers, but weather in the UK can change quickly. Wear sturdy footwear, bring water, and check local conditions. Paths may be shared with cyclists; keep to marked routes, supervise children and dogs, and respect wildlife. If conditions are wet or icy, consider postponing.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (layers; include waterproof jacket)",
+      "Small backpack",
+      "Map or offline GPS (or a fully charged phone with maps)",
+      "Sunscreen, hat, and sunglasses for sunny days",
+      "Camera or binoculars for wildlife spotting"
+    ],
+    "best_seasons": "Year-round, with the most comfortable conditions from spring to autumn.",
+    "seo": {
+      "title": "Hinksey Heights Nature Trail — Easy 5.6 km Hike in the UK",
+      "meta_description": "Explore the easy 5.6 km Hinksey Heights Nature Trail in the UK. Flat, family-friendly paths through parkland and woodland with wildlife, plus safety tips and gear suggestions.",
+      "h1": "Hinksey Heights Nature Trail: Easy 5.6 km Hike in the UK"
+    }
   }
 }

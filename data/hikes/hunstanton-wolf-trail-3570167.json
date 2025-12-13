@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 3570167
+  },
+  "ai": {
+    "summary": "A short, easy 1 km coastal walk on the Hunstanton Wolf Trail in the UK. Suitable for families and casual walkers seeking a quick, scenic outing along the coast.",
+    "terrain_summary": "Primarily flat, well-maintained coastal path with firm surfaces (paved/gravel). Expect occasional uneven or muddy patches after rain; some sections may be narrow near vegetation or close to the coastal edge.",
+    "safety_notes": "Stay on marked paths and away from unstable cliff edges. Check local tide times and weather conditions before you go. Wear sturdy footwear, bring layered clothing, and carry water. In poor visibility, time your walk to daylight hours. Keep children and pets within sight and be mindful of other walkers.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Lightweight rain jacket or windbreaker",
+      "Hat and sunscreen for sun protection",
+      "Map or offline GPS (or fully charged smartphone)",
+      "Small first-aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and summer when daylight is longer and weather is milder.",
+    "seo": {
+      "title": "Hunstanton Wolf Trail – Easy 1 km Coastal Hike in the UK",
+      "meta_description": "Discover the Hunstanton Wolf Trail, a short 1 km easy hike along the UK coast. Learn about terrain, safety tips, and gear for a quick, scenic coastal walk.",
+      "h1": "Hunstanton Wolf Trail: Easy 1 km Coastal Walk"
+    }
   }
 }

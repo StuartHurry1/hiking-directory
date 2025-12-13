@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8473256
+  },
+  "ai": {
+    "summary": "A scenic 8.1 km moderate hike along the Hucking Estate Landscape Trail in the United Kingdom. The route traverses open countryside with mixed terrain, gentle elevation changes, and offers pleasant views for walkers with some experience.",
+    "terrain_summary": "Mix of well-defined paths, grassy tracks, and occasional muddy sections. Expect uneven ground near hedgerows and exposed spots; some stony stretches and short ascents/descents. Overall elevation gain is moderate, suitable for hikers with intermediate fitness.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear sturdy footwear with good grip and bring layers; waterproof clothing for rain. Stay on marked paths, be mindful of livestock and cyclists on shared routes, and carry a map or GPS. Bring sufficient water and snacks, a basic first aid kit, and a means to contact others in case of emergency. Let someone know your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Hat and sunscreen",
+      "Map, compass or GPS device",
+      "Phone with offline maps",
+      "Small first-aid kit",
+      "Headlamp or flashlight (for low-light options)",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Hucking Estate Landscape Trail — 8.1 km Moderate Hike in the UK",
+      "meta_description": "Discover the 8.1 km Hucking Estate Landscape Trail in the United Kingdom. A moderate route with open countryside views, practical safety tips, and gear recommendations for a day hike.",
+      "h1": "Hucking Estate Landscape Trail — 8.1 km Moderate Hike in the UK"
+    }
   }
 }

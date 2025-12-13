@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 18186800
+  },
+  "ai": {
+    "summary": "Holkham Circular is a demanding 19.1 km coastal hike in the UK that combines sandy beaches, dune trails, and marsh-edge paths. The route offers expansive sea views and wildlife but requires good stamina and favorable weather, with exposure to wind and changing tides. Plan for several hours and check tide times before starting.",
+    "terrain_summary": "A varied coastal terrain: long stretches on solid beach sections (with soft sand at times), shingle and chalk paths, wooden boardwalks through dunes, and wooded or marsh-edge trails. Expect uneven surfaces, dunes to climb, and potential mud after rain; some sections are exposed to wind with limited shelter.",
+    "safety_notes": "Check local tide tables and seasonal access notes for the beach sections. Do not attempt to traverse the route if the tide will cut off your return. Carry a map or GPS and a compass, and stay on marked paths. Wear sturdy waterproof footwear, dress for wind and rain, and bring enough water and snacks. Be mindful of weather changes and wildlife; keep dogs under control where required.",
+    "recommended_gear": [
+      "Waterproof jacket and extra layers",
+      "Sturdy hiking boots with good grip",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "First aid kit and whistle",
+      "Headlamp or portable charger for emergencies",
+      "Dry bag or protective cases for valuables",
+      "Tide timetable or tide app for beach sections"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–Sept) for the best weather and daylight. Winters can be windy and muddy with higher storm risk and limited daylight.",
+    "seo": {
+      "title": "Holkham Circular: 19.1 km Coastal Hike in the UK | Hard Difficulty",
+      "meta_description": "Explore the Holkham Circular, a 19.1 km hard coastal hike in the UK. Learn about terrain, safety, best seasons, and gear for this coastal trail.",
+      "h1": "Holkham Circular — 19.1 km Coastal Hike (Hard)"
+    }
   }
 }

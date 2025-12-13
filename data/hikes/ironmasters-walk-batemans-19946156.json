@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19946156
+  },
+  "ai": {
+    "summary": "Ironmaster's Walk at Batemans offers a gentle 5.2 km hike in the UK. The route combines woodland paths with open fields, delivering quiet countryside scenery and easy terrain suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-marked paths and grassy trails with occasional compact dirt sections. Expect gentle gradients and short ascents; some sections may be uneven near gates and stiles. After rain, parts of the route can be muddy.",
+    "safety_notes": "Carry a layer for sudden weather changes and sturdy footwear. Check daylight hours and any temporary path closures. Stay on marked paths, close gates behind you, and watch for livestock in field sections. Keep dogs under control and be mindful of other walkers. Have a map or offline navigation; mobile signal can be limited in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and some snacks",
+      "Light rain jacket and extra layer",
+      "Hat and sunscreen in sunny months",
+      "Map, compass or offline GPS",
+      "Phone with emergency contacts saved",
+      "Small backpack to carry gear",
+      "Optional: binoculars or camera"
+    ],
+    "best_seasons": "All-year round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Ironmaster's Walk, Batemans – Easy 5.2km Hike in the UK",
+      "meta_description": "Discover Ironmaster's Walk near Batemans. A gentle 5.2 km hike in the UK suitable for families, featuring woodland trails, open fields and countryside views.",
+      "h1": "Ironmaster's Walk, Batemans – Easy 5.2 km Hike"
+    }
   }
 }

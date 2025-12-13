@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 18035647
+  },
+  "ai": {
+    "summary": "A brisk, challenging 17.2 km hike along the Historic Dilston Trail in the UK. This hard-rated route weaves through varied terrain and historic sites, offering a substantial day out for experienced hikers.",
+    "terrain_summary": "Expect a mix of steep ascents, rocky sections, grassy paths, woodland tracks, and occasional stream crossings. Ground can be uneven and slippery in wet weather; navigation is straightforward but visibility may be reduced in fog or rain.",
+    "safety_notes": "This is a hard route requiring good fitness and preparation. Weather in the UK can change rapidly, so carry waterproofs and extra clothing. Wear sturdy boots with good grip and watch for uneven, loose, or slippery ground. Bring a map, compass or GPS, and a fully charged phone; inform someone of your plans and expected return. Carry sufficient water, snacks, and a basic first aid kit; be aware of ticks in grassy or woodland areas and treat clothing accordingly. If visibility is poor or you are unsure of the route, turn back or seek shelter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and insulating layers",
+      "Hat and gloves (season dependent)",
+      "Water bottle or hydration system",
+      "Energy snacks and a light meal",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle for emergencies",
+      "Lightweight emergency shelter or foil blanket (optional)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers the best conditions with longer daylight and drier weather; winter hikes can be rewarding but require extra caution due to cold, ice, and reduced daylight.",
+    "seo": {
+      "title": "Historic Dilston Trail – 17.2 km Hard Hike in the UK",
+      "meta_description": "Discover the Historic Dilston Trail, a 17.2 km hard hike in the UK. Get terrain insights, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Historic Dilston Trail: 17.2 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9706112
+  },
+  "ai": {
+    "summary": "A gentle 3 km loop along the Itchen Valley Woodland Nature Trail in the UK. Easy and family-friendly, with shaded woodland, creekside spots, and light to no elevation gain.",
+    "terrain_summary": "Mostly flat to gently undulating paths of packed earth and gravel. Some sections may be muddy after rain; watch for tree roots and uneven surfaces. Trail is generally well-maintained with clear markers.",
+    "safety_notes": "Stay on marked paths. Check weather and daylight before starting. Wear sturdy footwear and bring a waterproof layer. Bring water, sun protection in sunny conditions, and insect repellent. Supervise children; be mindful of wildlife and avoid disturbing habitats. Watch for mud after rain and be prepared for uneven terrain; check for ticks when in woodland areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Small backpack for essentials",
+      "Phone or camera for photos"
+    ],
+    "best_seasons": "Spring to autumn for the best conditions; winters can be muddy and days are shorter.",
+    "seo": {
+      "title": "Itchen Valley Woodland Nature Trail – Easy 3 km Hike in the UK",
+      "meta_description": "Explore a gentle 3 km hike on the Itchen Valley Woodland Nature Trail in the UK. An easy, family-friendly route through shaded woodland with serene scenery.",
+      "h1": "Itchen Valley Woodland Nature Trail – Easy 3 km Hike"
+    }
   }
 }

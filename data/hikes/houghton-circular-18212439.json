@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18212439
+  },
+  "ai": {
+    "summary": "A 13.7 km circular hike in the UK, classed as moderate, looping through a mix of countryside paths, fields and gentle woodland. The route provides steady mileage with manageable gradients and varying scenery.",
+    "terrain_summary": "Surface varies from compact country lanes and gravel tracks to grassy field paths and muddy forest trails. Expect uneven ground, occasional stiles and gates, and some damp sections in bad weather; waterproof footwear is recommended.",
+    "safety_notes": "Check local conditions before you go; wear sturdy boots and bring weather-appropriate clothing. Carry a map or GPS, sufficient water and snacks, and a basic first aid kit. Tell someone your route and expected return time; be mindful of livestock on countryside paths and keep dogs under control where required. In low light or poor visibility, carry a light.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Waterproof jacket and layered clothing",
+      "Backpack with water and snacks",
+      "Map or GPS device (and fully charged phone with offline maps)",
+      "Small first aid kit",
+      "Hat, sunscreen and extra layers",
+      "Emergency whistle",
+      "Headtorch or flashlight (for early/late starts)",
+      "Trekking poles (optional)",
+      "Extra socks"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hike due to milder weather and better trail conditions; it is still feasible in winter with careful planning for mud, daylight, and cold.",
+    "seo": {
+      "title": "Houghton Circular Walk – 13.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the Houghton Circular, a 13.7 km moderate UK hike with varied terrain, practical safety tips, gear ideas, and seasonal guidance.",
+      "h1": "Houghton Circular Walk – 13.7 km Moderate Hike in the UK"
+    }
   }
 }

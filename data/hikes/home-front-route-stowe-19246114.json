@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19246114
+  },
+  "ai": {
+    "summary": "A ~11 km loop near Stowe in the UK, offering a moderate day hike along a mix of grassy fields, woodland paths and gentle ascents with views over the surrounding countryside. The terrain is generally well-marked but can be muddy after rain, so sturdy footwear is recommended.",
+    "terrain_summary": "Mostly clear footpaths through parkland and mixed woodland, with occasional short ascents and uneven/trail surfaces. Expect grassy verges, stiles, gates, and some uneven, muddy sections after rain. Some exposed sections may have open views; combine road crossings with farm and field paths.",
+    "safety_notes": "Check the weather and daylight hours before you go; UK weather can change quickly. Stay on marked paths, watch for livestock and gate closures, and be prepared for muddy sections. Wear sturdy footwear and bring a map or offline navigation, a charged phone, and a small first aid kit. Inform someone of your plans and be mindful of farm traffic on rural sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks",
+      "Weatherproof jacket and warm layers",
+      "Hat and gloves (seasonal)",
+      "Map and compass or offline navigation app",
+      "Phone with emergency numbers and power bank",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Lightweight rain cover or packable rain gear",
+      "Headlamp or flashlight (in case you’re out near dusk)"
+    ],
+    "best_seasons": "Spring to autumn typically offer the best conditions, with longer daylight and drier trails. In winter, be prepared for cold, wet, and icy conditions and reduced visibility.",
+    "seo": {
+      "title": "Home Front Route, Stowe – 11 km Moderate Hike in the UK",
+      "meta_description": "Explore the 11-km Home Front Route near Stowe, UK. A moderate day hike through parkland and woodland with scenic views, practical safety tips, and gear recommendations.",
+      "h1": "Home Front Route, Stowe: 11 km Moderate Hike in the UK"
+    }
   }
 }

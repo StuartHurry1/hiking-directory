@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 37308
+  },
+  "ai": {
+    "summary": "A challenging 104.5 km trek along the Itchen Way in the United Kingdom. The route traverses river valleys, farmland, and woodland, with steady to steep sections that demand stamina and good navigation. Best suited for experienced hikers with solid preparation and route-finding skills.",
+    "terrain_summary": "Expect a varied mix of terrain: flat riverside paths, hedged field tracks, wooded shortcuts, and occasional road crossings. Surfaces range from compact gravel and dirt to muddy, uneven ground. There are multiple stiles, gentle to moderate ascents, and a few steeper sections; conditions can be exposed to wind and rain.",
+    "safety_notes": "Plan for long distances in changeable UK weather. Carry a detailed map and compass in addition to a GPS device or offline maps on a phone. Tell someone your planned route and estimated finish time. Bring enough water and high-energy food; stay hydrated. Wear sturdy waterproof footwear and dress in layers; pack a waterproof shell and spare warm layers. Include a first aid kit, whistle, and emergency blanket. Be mindful of livestock, private land, and rights of way; follow gate etiquette and road safety at crossings. If reaching estuary or tide-affected areas, check local timings and access. Consider hiking with a partner or group and share your plan with others.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket and pants)",
+      "Backpack with capacity for daily supplies",
+      "Map (OS map) and compass (or GPS with offline maps)",
+      "Water bottle or hydration system with electrolytes",
+      "High-energy snacks and meals",
+      "First aid kit and any personal medications",
+      "Headlamp or small flashlight with extra batteries",
+      "Whistle and emergency blanket or bivvy",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Insect repellent",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) are generally best for weather, daylight, and trail conditions; winter hiking is possible with extra precautions.",
+    "seo": {
+      "title": "Itchen Way – 104.5 km Hard Hike in the UK",
+      "meta_description": "Explore the Itchen Way, a 104.5 km hard-distance hike in the UK. This guide covers terrain, safety tips, gear, and the best seasons for tackling the route along the River Itchen.",
+      "h1": "Itchen Way – 104.5 km Hard Hike in the UK"
+    }
   }
 }

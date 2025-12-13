@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 23406
+  },
+  "ai": {
+    "summary": "The Icknield Way Path is a challenging long-distance hike across the UK, covering about 569.3 km. Designed for experienced walkers, it traverses varied countryside and rural landscapes, with frequent changes in terrain and wayfinding. This guide outlines what to expect, safety considerations, gear, and the best time to tackle the route.",
+    "terrain_summary": "Expect a mix of farmland tracks, bridleways, footpaths, hedge-lined lanes, chalk downland, woodlands and occasional road sections. Terrain can range from dry, firm paths to muddy fields after rain. Some sections are exposed on open uplands; gates and stiles are common. Distances between resupply points can be long, so plan for self-sufficiency over remote stretches.",
+    "safety_notes": "Plan your route in advance, tell someone your itinerary, and check weather forecasts. The UK climate can be changeable; carry waterproof clothing and warm layers. Wear sturdy boots with good ankle support, bring a map and compass (and know how to use them), and carry a GPS as backup. Carry sufficient water and food, plus a means to purify water. Be mindful of livestock and gates, and take care crossing roads in rural sections. Have a spare light, first aid kit, blister care, and a means to signal for help. In case of emergencies, know local emergency numbers (112/999 in the UK).",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Warm layers (fleece or equivalent) and hat/gloves for cool weather",
+      "Daypack (20–40 L) with rain cover",
+      "Water bottle or hydration system (2-3 L total capacity)",
+      "Water purification method (filters, purification tablets) or ample extra water",
+      "Map, compass, and GPS device with charged batteries",
+      "Headlamp with spare batteries",
+      "First-aid kit and blister treatment",
+      "Multitool or knife",
+      "Emergency shelter or bivvy bag",
+      "Whistle and personal locator beacon (recommended)",
+      "High-energy food and snacks for long stretches",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen, sunglasses, and insect repellent"
+    ],
+    "best_seasons": "Spring to autumn; ideally May to September for drier conditions and longer daylight. Shoulder seasons can work with careful planning, but winter sections are more challenging due to weather and daylight.",
+    "seo": {
+      "title": "Icknield Way Path – 569.3 km UK Hike Guide",
+      "meta_description": "Plan and prepare for the Icknield Way Path in the UK. This 569.3 km hard hike covers varied terrain, safety tips, gear lists, and best seasons.",
+      "h1": "Icknield Way Path: 569.3 km UK Hiking Guide"
+    }
   }
 }

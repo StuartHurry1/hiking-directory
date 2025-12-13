@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 280043
+  },
+  "ai": {
+    "summary": "The Houghall Discovery Trail is a 6.3 km moderate hike in the UK that traverses mixed terrain near the Houghall area. The route suits hikers with intermediate fitness and an interest in woodland scenery, offering shaded paths, gentle climbs, and opportunities to observe local flora along the way.",
+    "terrain_summary": "Terrain combines surfaced gravel and compact dirt tracks with short, uneven sections featuring tree roots. Expect gentle climbs, shaded woodland, occasional open viewpoints, and muddy patches after rain.",
+    "safety_notes": "Before setting out, check the weather and daylight hours. Wear sturdy hiking boots and prepare for mud. Carry a map or GPS and a charged phone. Tell someone your plan and estimated return. Stay on marked paths, give way to others, and watch for cyclists. Bring extra layers and water.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map or offline navigation",
+      "Snacks",
+      "Small first aid kit",
+      "Hat and sunscreen",
+      "Walking poles (optional)",
+      "Phone with charged battery or power bank"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this trail in the UK, offering milder weather and better visibility. Winter visits are possible with proper gear and shorter daylight.",
+    "seo": {
+      "title": "Houghall Discovery Trail – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.3 km Houghall Discovery Trail in the UK. A moderate hike with varied terrain, practical safety tips, gear lists, and seasonal notes.",
+      "h1": "Houghall Discovery Trail: 6.3 km Moderate Hike in the UK"
+    }
   }
 }

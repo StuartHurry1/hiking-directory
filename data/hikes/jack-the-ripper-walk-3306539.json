@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3306539
+  },
+  "ai": {
+    "summary": "An 8.9 km urban heritage walk in the United Kingdom tracing streets associated with the Jack the Ripper lore. The route is of moderate difficulty and offers historical context along city sidewalks.",
+    "terrain_summary": "Primarily paved urban streets with occasional cobbles; mostly flat with some gentle inclines and frequent curb crossings.",
+    "safety_notes": "Urban environment: follow pedestrian rules, stay on well-lit streets if walking in the evening, keep valuables secure, and be aware of traffic at crossings. The route passes through busy areas; consider starting in daylight. For solo walkers, share your plan with someone and carry a phone with emergency numbers. Weather can change; bring rain gear.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers; rain jacket if rain is likely)",
+      "Water bottle",
+      "Small backpack or daypack",
+      "Map or offline navigation app",
+      "Phone charger or power bank",
+      "Sunscreen and hat (for sunny days)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Jack The Ripper Walk – 8.9 km Urban Heritage Walk in the UK",
+      "meta_description": "Experience an 8.9 km urban heritage walk in the UK inspired by the Jack the Ripper era. Moderate difficulty, historical context, and city views.",
+      "h1": "Jack The Ripper Walk"
+    }
   }
 }

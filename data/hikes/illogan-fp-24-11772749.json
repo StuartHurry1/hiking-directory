@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 11772749
+  },
+  "ai": {
+    "summary": "A short, easy 1-kilometer hike along the Illogan FP 24 footpath in the UK, suitable for beginners. The route provides a gentle walk with minimal elevation and light scenery.",
+    "terrain_summary": "Mostly flat, well-defined path with occasional muddy patches after rain; some sections may be narrow and require careful footing.",
+    "safety_notes": "Stay on marked paths at all times. Wear sturdy waterproof footwear and bring a light rain jacket. Check the day’s weather and daylight hours before setting out. Carry water and a small first-aid kit. Be aware of other walkers and local riders, and respect landowner access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Map or offline GPS",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "All year, with spring and autumn offering mild weather and pleasant scenery. Summer can be warm but sunny; winter may bring mud and reduced daylight.",
+    "seo": {
+      "title": "Illogan FP 24 – Easy 1 km UK Hike",
+      "meta_description": "Discover Illogan FP 24, an easy 1 km hike in the UK. Learn safety tips, gear recommendations, and the best seasons for this short footpath.",
+      "h1": "Illogan FP 24 – Easy 1 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 13221096
+  },
+  "ai": {
+    "summary": "HUDY’S WAY is a 16.6 km hard hike in the United Kingdom, offering a demanding challenge with varied terrain and significant distance. Suited for experienced hikers with good fitness and navigation skills.",
+    "terrain_summary": "Expect a mix of rough grassy uplands, rocky paths, muddy sections, and potentially exposed moorland. The route may include steep ascents and long stretches with limited shelter, making navigation and sturdy footwear essential.",
+    "safety_notes": "Plan for changing weather; UK conditions can be unpredictable. Carry a map and compass as primary navigation tools, with a GPS as backup. Start early to ensure daylight; inform someone of your route and timings. Wear sturdy boots, bring adequate clothing layers, and pack sufficient water and high-energy snacks. Have a first aid kit, whistle, emergency blanket, and a means to signal for help. Be prepared for fatigue and potential trail detours or boggy sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Breathable layers and extra mid-layers",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "Hat and gloves",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks",
+      "First aid kit",
+      "Emergency bivvy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)",
+      "Waterproof backpack cover"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (best in dry, mild conditions)",
+    "seo": {
+      "title": "HUDY’S WAY – 16.6 km Hard Hike in the UK",
+      "meta_description": "Discover HUDY’S WAY, a challenging 16.6 km hike in the United Kingdom. Get terrain details, safety tips, gear recommendations, and the ideal seasons to tackle this demanding route.",
+      "h1": "HUDY’S WAY: 16.6 km Hard Hike in the UK"
+    }
   }
 }

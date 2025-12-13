@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19895169
+  },
+  "ai": {
+    "summary": "An ambitious, hard-difficulty hike covering 35.1 km around Huntingdon and Godmanchester with Houghton Mill nearby. The route weaves along canal towpaths, quiet rural lanes, farmland tracks, and occasional woodland. Expect long distances, varied surfaces, some shade gaps, and potential mud after rain. Suitable for experienced hikers with solid stamina and good navigation.",
+    "terrain_summary": "Terrain is varied: long stretches of flat canal towpaths, compact gravel and dirt farm tracks, muddy fields after rain, and short sections on rural roads. Elevation changes are moderate but can be uneven; conditions depend on weather. Some sections may have limited signposting, so carry a map and compass.",
+    "safety_notes": "Plan for a full-day hike (roughly 8–12 hours). Check weather and daylight; river and field paths can be slippery when wet. Wear sturdy boots and a waterproof layer; bring extra warm layers. Carry map and GPS or compass, plus a fully charged phone and a power bank. Take enough water (2–3 liters) and energy-rich snacks. Inform someone of your planned route. Watch for traffic on rural sections; stay on public rights of way. Be prepared for mud and uneven ground; trekking poles can help. In flood risk seasons, some paths may be closed or impassable.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes with good grip",
+      "Waterproof and windproof outer layer",
+      "Insulating layers and a hat/gloves for colder weather",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Hydration system or water bottles (2–3 liters total)",
+      "High-energy snacks and a light meal for the day",
+      "Map and compass or GPS with offline maps",
+      "Fully charged phone and portable charger",
+      "Headlamp or flashlight with spare batteries",
+      "Lightweight trekking poles (optional)",
+      "Small first aid kit and emergency essentials",
+      "Dry bag or waterproof cover for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) for longer daylight and generally drier trails; summers offer longer days but hotter conditions; shoulder seasons can be muddier and more variable—check forecasts before departure.",
+    "seo": {
+      "title": "Huntingdon and Godmanchester Walk (Houghton Mill) – 35.1 km Hard UK Hike",
+      "meta_description": "Plan a challenging 35.1 km hike around Huntingdon and Godmanchester with Houghton Mill. Canal towpaths, rural lanes, safety tips, gear lists, and best seasons.",
+      "h1": "Huntingdon and Godmanchester Walk: Houghton Mill 35.1 km (Hard)"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3134561
+  },
+  "ai": {
+    "summary": "Inver Path is a 12.9 km moderate hike in the UK that winds through a mix of woodland tracks, open grassy areas, and occasional rocky sections. It offers a steady pace with an undulating profile, suitable for hikers with some experience and a reasonable level of fitness. Plan for roughly 3–4 hours, depending on pace and conditions.",
+    "terrain_summary": "The route combines well-marked forest paths, grassy fields, and intermittent rocky or muddy segments. Elevation change is moderate, with surface quality varying with weather. Expect some boggy patches after rain; waterproof footwear and adaptable layering are advised.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear sturdy, waterproof boots and dress in layers to cope with UK conditions. Stay on marked trails, be cautious on muddy or rocky sections, and carry a map or GPS. Bring enough water and snacks, and inform someone of your planned route and expected return time. Mobile signal may be limited in remote parts, so navigation skills and a backup plan are important, especially in winter when daylight is shorter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Moisture-wicking base layers and insulating mid-layer",
+      "Waterproof and windproof jacket",
+      "Comfortable hiking socks",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline map",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Small first-aid kit",
+      "Headlamp or flashlight (for potential late return)",
+      "Hat and gloves (seasonal)",
+      "Rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are the best seasons for Inver Path, offering longer daylight and milder conditions. Winter hikes can be rewarding but require extra preparation and careful planning.",
+    "seo": {
+      "title": "Inver Path – 12.9 km Moderate Hike in the UK",
+      "meta_description": "Plan your Inver Path hike: a 12.9 km moderate trail in the UK with mixed terrain, practical safety tips, a gear checklist, and guidance on the best seasons.",
+      "h1": "Inver Path: 12.9 km Moderate Hike in the UK"
+    }
   }
 }

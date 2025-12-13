@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16749963
+  },
+  "ai": {
+    "summary": "Huw Tom's Walk is a 13.2 km moderate hike in the UK that traverses countryside lanes and mixed terrain. The route offers varied scenery with hedgerows, farmland, and some woodland, making it suitable for hikers with moderate fitness and a sense of adventure. Expect uneven ground, sections of mud after rain, and occasional ascents and descents, with most of the route well marked on local signs.",
+    "terrain_summary": "The hike relies on rural footpaths and country lanes, with a mix of grassy trails, compact gravel, and occasional tarmac. Ground conditions can be muddy in wet weather, and stiles or gate crossings may be required. Elevation changes are moderate, with short climbs and descents that keep the effort steady.",
+    "safety_notes": "Check the weather forecast before departure and dress for changing conditions. Wear sturdy, waterproof hiking boots and bring extra layers. Carry a map or GPS device and a fully charged phone; stay on waymarked routes. Pack sufficient water and snacks, and be prepared for mud, wet fields, and uneven ground. Watch for livestock and traffic on country lanes, take care crossing stiles, and let someone know your planned route and timings.",
+    "recommended_gear": [
+      "Waterproof jacket or shell",
+      "Sturdy hiking boots with good ankle support",
+      "Backpack with water and snacks",
+      "Map, compass, or GPS device",
+      "Hydration (at least 1–2 liters of water)",
+      "Extra layers (fleece, hat, gloves as needed)",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Headlamp or flashlight (for low-light conditions or emergencies)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are generally suitable for this hike in the UK, with longer daylight in spring and summer. Plan for wetter conditions in winter and shorter daylight hours.",
+    "seo": {
+      "title": "Huw Tom's Walk – 13.2 km Moderate UK Hike",
+      "meta_description": "Discover Huw Tom's Walk, a 13.2 km moderate hike in the UK. Learn about terrain, safety tips, and what to pack for a countryside day on the trail.",
+      "h1": "Huw Tom's Walk – 13.2 km Moderate UK Hike"
+    }
   }
 }

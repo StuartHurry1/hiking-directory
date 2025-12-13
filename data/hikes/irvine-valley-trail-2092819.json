@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 2092819
+  },
+  "ai": {
+    "summary": "Irvine Valley Trail is a long-distance, hard-rated hike in the UK, spanning approximately 52.2 km. The route tests endurance with sustained climbs, varied terrain, and potential weather exposure. It suits experienced hikers with solid navigation and thorough planning, often best done as either a multi-day trek or a lengthy day hike with support.",
+    "terrain_summary": "The route traverses a mix of country lanes, forest tracks, moorland stretches, and rocky sections. Expect muddy paths after rain, uneven footing, exposed ridges, and possible stream crossings. Significant elevation gain and frequent changes in terrain demand careful footing and good stamina.",
+    "safety_notes": "Plan for rapidly changing UK weather, short daylight hours in winter, and potential navigation challenges. Carry a detailed map and compass, a charged phone with offline maps, and a means to contact/route friends. Start early, tell someone your plan, and pace yourself to avoid fatigue. Pack sufficient water and food, waterproof clothing, and a basic first-aid kit; trekking poles can help on rough or steep sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and breathable jacket",
+      "Insulating layers, hat and gloves",
+      "Map and compass or GPS device",
+      "Water bottles or hydration system (2–3 liters)",
+      "High-energy snacks and meals",
+      "Small first-aid kit and emergency blanket",
+      "Whistle and a torch/headlamp with spare batteries",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen, sunglasses, and headwear for sun protection",
+      "Phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions in the UK. Winter hiking is possible but challenging due to weather, daylight limits, and route hazards.",
+    "seo": {
+      "title": "Irvine Valley Trail - 52.2 km Hard Hike in the UK",
+      "meta_description": "Discover Irvine Valley Trail, a 52.2 km hard-distance hike in the UK. Explore terrain, safety tips, best seasons, and gear to prepare.",
+      "h1": "Irvine Valley Trail: UK 52.2 km Hard Hike"
+    }
   }
 }

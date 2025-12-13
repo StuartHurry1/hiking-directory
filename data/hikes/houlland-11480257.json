@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11480257
+  },
+  "ai": {
+    "summary": "Houlland is a tiny, easy 0.2 km hike in the UK. The trail offers a quick outdoor escape with a flat, well-maintained path suitable for beginners and families.",
+    "terrain_summary": "Short, easy route along a flat path. Surface is typically compact gravel or pavement; expect occasional uneven spots or mud after rain. Minimal elevation gain.",
+    "safety_notes": "Stay on marked paths. Weather in the UK can change quickly—bring a light layer. Wear sturdy shoes with good grip. Be mindful of other walkers, roots, and slippery surfaces when wet. If near water, watch edges and supervise children or pets. Carry a charged phone and know your approximate return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Phone with map or offline directions",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small personal first aid kit"
+    ],
+    "best_seasons": "All year; spring and summer offer comfortable conditions, autumn provides pleasant scenery, winter can be chilly and conditions may vary—check the day’s weather and daylight.",
+    "seo": {
+      "title": "Houlland Hike (UK) – Easy 0.2 km Trail Guide",
+      "meta_description": "Discover Houlland, a short and easy 0.2 km hike in the UK. Learn about the terrain, safety tips, best seasons, and what gear to bring.",
+      "h1": "Houlland: Easy 0.2 km Hike in the UK"
+    }
   }
 }

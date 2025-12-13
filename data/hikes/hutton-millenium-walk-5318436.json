@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5318436
+  },
+  "ai": {
+    "summary": "A demanding 22.2 km hike in the UK designed for experienced walkers. Expect mixed terrain, long ascents, and exposed sections; solid fitness and navigation are essential.",
+    "terrain_summary": "The route mixes rural lanes, grassy fields, and uneven tracks with occasional forested or rocky sections. Mud is common after rain; expect several steep ascents and descents, stiles or gates, and exposed stretches that can be windy.",
+    "safety_notes": "Check forecast and daylight; start early to avoid darkness. Wear sturdy boots and weather-appropriate clothing; be prepared for mud, wind, or rain. Carry a map, compass and/or GPS; know your route. Bring enough water and snacks; plan for 4–6 hours or more. Tell someone your route and expected return time; carry a charged phone as backup. Be cautious on exposed sections and near edge drops; watch for livestock and gates. Respect land access rules and any closures; carry a torch for navigation in low light if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layering, waterproof/windproof outer layer)",
+      "Map and compass and/or GPS device",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency whistle",
+      "First aid kit",
+      "Phone with portable charger or power bank",
+      "Extra warm layers (gloves, hat) depending on season",
+      "Lightweight emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer days; winter hikes are more challenging with shorter daylight and more mud or ice.",
+    "seo": {
+      "title": "Hutton Millenium Walk – 22.2 km Hard Hike in the UK",
+      "meta_description": "Tackle the 22.2 km Hutton Millenium Walk in the UK. A hard route with varied terrain, long ascents, and exposed sections. Prepare with proper gear and safety tips.",
+      "h1": "Hutton Millenium Walk — 22.2 km Hard Hike in the UK"
+    }
   }
 }

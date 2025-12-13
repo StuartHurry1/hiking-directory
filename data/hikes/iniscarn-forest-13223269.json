@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13223269
+  },
+  "ai": {
+    "summary": "An easy 4.8 km forest hike in Iniscarn Forest, UK. This beginner-friendly route travels through shaded woodland with gentle terrain, offering a peaceful nature experience and chances to spot local flora and wildlife.",
+    "terrain_summary": "Mostly flat forest trails with some gentle dips; expect uneven ground, exposed tree roots, and occasional muddy patches after rain. Surfaces are packed earth and leaf litter, often shaded and damp.",
+    "safety_notes": "Plan ahead: check weather and daylight; wear sturdy waterproof boots and dress in layers. Stay on marked paths and follow posted signs. Bring a map or offline GPS, a fully charged phone, and a small first-aid kit. Carry water and a snack, know your limits, and turn back if tired. Tell someone your plan and estimated return time. Be mindful of wildlife and seasonal hazards; keep pets on a leash if required. If conditions are wet or foggy, move slowly to avoid slipping.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a lightweight rain jacket",
+      "Water bottle and a small snack",
+      "Map or offline GPS and a fully charged phone",
+      "Small first-aid kit",
+      "Whistle",
+      "Headlamp or flashlight (for late return)",
+      "Sun protection (hat and sunscreen)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "All year, but the most comfortable conditions are spring to autumn (roughly March–October). Summers can be drier and brighter; winters may be shorter, colder, and muddier.",
+    "seo": {
+      "title": "Iniscarn Forest Hike (UK) – Easy 4.8 km Forest Trail",
+      "meta_description": "Discover an easy 4.8 km hike through Iniscarn Forest in the UK. Ideal for beginners and families, with shaded paths, gentle terrain, and peaceful woodland scenery.",
+      "h1": "Iniscarn Forest Hike (UK) – Easy 4.8 km Forest Trail"
+    }
   }
 }

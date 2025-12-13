@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9683132
+  },
+  "ai": {
+    "summary": "Isbourne Way is a very short, easy hike in the UK, spanning about 0.1 km. It’s a quick, accessible nature stroll suitable for beginners, families, or anyone looking for a brief outdoor break.",
+    "terrain_summary": "Flat to gently rolling footpath with compacted earth or gravel. Usually well-maintained, with grassy margins; can be muddy after rain.",
+    "safety_notes": "Despite the short distance, stay aware of weather conditions, as UK weather can change quickly. Wear sturdy shoes with good grip. Stay on the marked path and watch for uneven surfaces or roots. Keep an eye out for other walkers, cyclists, and pets. Bring a lightweight rain jacket and sun protection. For children and pets, supervise closely and keep them within sight. Carry a charged phone and emergency contact details.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Phone with map or GPS",
+      "Small backpack for essentials",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Year-round in the UK; spring and autumn usually offer the best conditions, while summer is fine for a short stroll but can be busy, and winter may be muddy or icy.",
+    "seo": {
+      "title": "Isbourne Way: Easy 0.1 km Hike in the UK",
+      "meta_description": "A concise guide to Isbourne Way, a 0.1 km easy hike in the UK. Learn about terrain, safety tips, best seasons, and what to bring.",
+      "h1": "Isbourne Way — Easy 0.1 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19039392
+  },
+  "ai": {
+    "summary": "A challenging 18.6 km hike in the Yorkshire Dales' Upper Wharfdale, linking Horse Head Moor with Deepdale. The route combines long ascents, exposed moorland, and remote sections, demanding good fitness, navigation, and weather preparedness for a hard day out.",
+    "terrain_summary": "Expect rough moorland, grassy ascents, and uneven paths. The walk includes open moor with boggy patches, stony tracks, and several gate or fence crossings. Winds can be strong on exposed ridges; navigation and route-finding are important in mist or poor light.",
+    "safety_notes": "Check a reliable forecast before you go and be prepared for sudden weather changes. Wear sturdy boots and waterproofs, carry a map and compass (and a fully charged phone as a backup), and tell someone your plan. Start early to ensure daylight, stay on established paths where possible, and be cautious on wet, boggy ground and exposed ridges. The route is strenuous and not recommended for beginners.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and over-trousers; warm layers",
+      "Map and compass (and GPS/device as backup); fully charged phone",
+      "Water for the full duration (2–3 liters) and high-energy snacks",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "First aid kit and emergency blanket or bivy",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle and possibly trekking poles for stability",
+      "Gaiters (optional) for boggy sections"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September), when the weather is more predictable and daylight longer.",
+    "seo": {
+      "title": "Horse Head Moor and Deepdale Walk – Upper Wharfdale, Yorkshire Dales (18.6 km, Hard)",
+      "meta_description": "Take on the 18.6 km hard hike from Horse Head Moor to Deepdale in Upper Wharfdale, Yorkshire Dales. Exposed moorland, long ascents, and rugged trails require fitness and proper gear.",
+      "h1": "Horse Head Moor and Deepdale Walk, Upper Wharfdale (18.6 km, Hard)"
+    }
   }
 }

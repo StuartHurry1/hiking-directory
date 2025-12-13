@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 8473255
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km hike on the Hucking Estate Blue Route in the UK. Suitable for beginners and families, with gentle terrain and minimal elevation.",
+    "terrain_summary": "Mostly well-maintained estate paths with grassy sections, light gravel, and gentle inclines. Expect occasional uneven spots and seasonal mud, especially after rain.",
+    "safety_notes": "Check the weather forecast; wear sturdy footwear and dress in layers. Stay on marked paths; close gates behind you and be mindful of livestock. Bring a map or fully charged phone, and keep dogs on a leash where required. Plan to finish before dark.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or boots",
+      "Light layers and waterproof jacket",
+      "Hat and sunscreen",
+      "Map or fully charged phone with offline map",
+      "Snack"
+    ],
+    "best_seasons": "Spring and autumn are ideal due to mild weather; summer can be pleasant but busier; winter visits may be muddy with shorter daylight.",
+    "seo": {
+      "title": "Hucking Estate Blue Route – 1.7 km Easy Hike in the UK",
+      "meta_description": "Explore the Hucking Estate Blue Route in the UK. A short, easy 1.7 km hike suitable for beginners and families, with gentle terrain and scenic surroundings.",
+      "h1": "Hucking Estate Blue Route – 1.7 km Easy Hike"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18168535
+  },
+  "ai": {
+    "summary": "Honing Lock Circular is a 12.7 km moderate hike in the UK that follows canal towpaths, rural lanes, and fields around Honing Lock. The route offers varied scenery and a steady pace suitable for most hikers.",
+    "terrain_summary": "Primarily flat canal towpath with portions of grassy fields and farm lanes. Expect some muddy patches, gates or stile crossings, and occasional exposed footing. Navigation is straightforward, but a map or GPS is helpful.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing; stay on designated paths, especially along towpaths where cyclists may pass; watch for muddy sections; be cautious around locks and gates; carry water and a basic first-aid kit; carry a map or GPS and ensure your phone is charged.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or GPS device",
+      "Sun protection (hat and sunscreen)",
+      "Phone with offline map or mapping app"
+    ],
+    "best_seasons": "Spring through autumn; winter can be challenging due to mud, reduced daylight, and maintenance gaps",
+    "seo": {
+      "title": "Honing Lock Circular – 12.7 km Moderate UK Hike",
+      "meta_description": "Explore the Honing Lock Circular, a 12.7 km moderate hike in the UK featuring canal towpaths, rural lanes, and varied terrain. Practical safety tips and gear included.",
+      "h1": "Honing Lock Circular – 12.7 km Moderate UK Walk"
+    }
   }
 }

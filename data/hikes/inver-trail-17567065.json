@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17567065
+  },
+  "ai": {
+    "summary": "Inver Trail is an easy 1.1 km stroll in the UK, suitable for families and casual walkers. The route offers a gentle, well-defined path with light elevation and scenic surroundings, ideal for a short outdoor outing any time of the year.",
+    "terrain_summary": "The trail follows a mostly flat, well-maintained path with gravel and compact soil. Expect occasional gentle gradients and compact surfaced sections. Footing is generally even, making it suitable for strollers and beginners, with some damp sections after rain.",
+    "safety_notes": "Wear sturdy walking shoes and bring a lightweight rain jacket. Check the weather and daylight hours before you go. Stay on marked paths, watch for slippery sections after rain, and keep a reasonable pace. Have a way to contact someone if you are exploring alone; carry a basic map or device with offline access. Keep an eye on children and pets at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Hat and sunscreen (summer)",
+      "Map or offline GPS",
+      "Small snack",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "All year, with milder conditions in late spring to early autumn; summer offers longer daylight, while winter can be muddy and quickly darkens.",
+    "seo": {
+      "title": "Inver Trail – Easy 1.1 km Walk in the UK",
+      "meta_description": "Discover Inver Trail, a short and easy 1.1 km hike in the UK. Learn about the terrain, safety tips, best seasons, and what to bring for a family-friendly outdoor escape.",
+      "h1": "Inver Trail: Easy 1.1 km Walk in the UK"
+    }
   }
 }

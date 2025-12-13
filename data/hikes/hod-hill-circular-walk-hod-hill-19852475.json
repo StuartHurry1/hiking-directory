@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19852475
+  },
+  "ai": {
+    "summary": "A short, easy circular hike around Hod Hill in the UK, covering about 3.9 km. The route is suitable for beginners and families, with gentle terrain and pleasant views from the hilltop.",
+    "terrain_summary": "Mostly well-defined paths and grassy tracks, with some uneven sections and gentle ascents. Surface may be muddy after rain; expect open country lanes and farm access paths.",
+    "safety_notes": "Wear sturdy footwear suitable for uneven ground. Check weather and daylight; bring waterproofs in wetter seasons. Respect farmland and livestock; close gates behind you. Stay on official paths and be mindful of other walkers. Take a map or device, carry water, and have a plan for emergencies. In the UK, dial 999 for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproofs)",
+      "Water and snacks",
+      "Map or GPS device (or offline maps on phone)",
+      "Phone with charged battery",
+      "Sun protection (hat, sunscreen) or warm clothing for wind",
+      "Light rain jacket",
+      "Small backpack",
+      "Basic first aid kit",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (roughly March–October) are ideal, with longer daylight and milder conditions; winter can be muddy and chilly.",
+    "seo": {
+      "title": "Hod Hill Circular Walk – 3.9 km Easy Hike in the UK",
+      "meta_description": "Discover Hod Hill on a gentle 3.9 km circular route in the UK. An easy walk suitable for beginners and families, with scenic views and straightforward terrain.",
+      "h1": "Hod Hill Circular Walk"
+    }
   }
 }

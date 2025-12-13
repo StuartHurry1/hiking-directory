@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16146744
+  },
+  "ai": {
+    "summary": "A short, easy coastal hike of about 2.7 km along the Hoxa Head coast in the UK. The route offers open seascapes, exposed viewpoints, and a relatively gentle profile suitable for casual walkers.",
+    "terrain_summary": "Mostly coastal paths with a mix of grassy sections and uneven rocky footing. Expect exposed winds, short rocky steps, and potential mud after rain. Some sections may be narrow near cliff edges; stay on marked paths.",
+    "safety_notes": "Coastal weather can be changeable; check the forecast before you go. Stay well back from cliff edges, watch for unstable ground after rain, and be mindful of tides if the vicinity is near the shoreline. Wear appropriate footwear and layers, keep your phone charged, and tell someone your plans. If conditions look unsafe, turn back.",
+    "recommended_gear": [
+      "Water bottle",
+      "Layered clothing",
+      "Sturdy walking shoes or boots",
+      "Windproof/waterproof jacket",
+      "Hat and sunglasses",
+      "Map and compass or GPS",
+      "Phone with offline map",
+      "Light snack",
+      "First aid kit",
+      "Whistle",
+      "Sun protection"
+    ],
+    "best_seasons": "Spring to autumn are ideal for crowds and clearer weather, though you can hike year-round with appropriate preparation.",
+    "seo": {
+      "title": "Hoxa Head Hike – Easy 2.7 km Coastal Walk in the UK",
+      "meta_description": "Explore the easy 2.7 km Hoxa Head coastal hike in the UK. Find terrain details, safety tips, and gear recommendations for a breezy, scenic coastal walk.",
+      "h1": "Hoxa Head – Easy 2.7 km Coastal Hike"
+    }
   }
 }

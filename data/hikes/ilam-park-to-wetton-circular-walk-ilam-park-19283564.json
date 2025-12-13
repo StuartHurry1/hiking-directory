@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19283564
+  },
+  "ai": {
+    "summary": "A demanding 49-kilometre circular hike starting at Ilam Park and returning via Wetton, featuring mixed countryside, fields, woodlands, and limestone dales. Suited to experienced hikers comfortable with long distances and variable weather; expect rolling climbs, stony paths, and muddy sections.",
+    "terrain_summary": "Varied terrain including farm tracks, grassy paths, muddy woodland trails, and occasional steep ascents and descents. Expect stiles, gates, and some exposed sections; footing can be uneven and damp after rain; long sections involve miles of countryside walking with limited cover.",
+    "safety_notes": "Plan as a long day out and inform someone of your route and timings; check the forecast and be prepared for sudden weather changes; bring a detailed map and navigation tools, plus a charged phone as a backup; carry enough water and high-energy food; stay aware of livestock, farm traffic, and gate etiquette; stay on marked paths and respect private land; in remote stretches cell coverage may be limited; allow extra time for difficult sections and contingencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing plus waterproof outer shell",
+      "Backpack (20–30 L) with rain cover",
+      "Water and high-energy snacks (2–3 litres recommended)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and a power bank",
+      "First aid kit and blister care",
+      "Headlamp or flashlight with spare batteries",
+      "Sun protection: sunglasses, sunscreen, hat",
+      "Extra warm layers and windproof layer",
+      "Rain pants and gloves",
+      "Walking poles (optional)",
+      "Emergency shelter or space blanket",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October), though weather can change quickly in the UK.",
+    "seo": {
+      "title": "Ilam Park to Wetton Circular Walk – 49 km Hard Hike in the UK",
+      "meta_description": "Explore the Ilam Park to Wetton Circular Walk, a challenging 49 km route through countryside with varied terrain. Practical safety tips and gear recommendations for a long-distance hike.",
+      "h1": "Ilam Park to Wetton Circular Walk – 49 km Hard Hike"
+    }
   }
 }

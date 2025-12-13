@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 2202816
+  },
+  "ai": {
+    "summary": "A gentle 3.5 km forest loop in the UK suitable for all ages, featuring easy terrain, shaded paths and a peaceful woodland setting. Ideal for families, casual walkers and those seeking a relaxed outdoor experience.",
+    "terrain_summary": "Flat to gently undulating forest track with well-maintained paths. Some sections may be uneven or muddy after rain; watch for tree roots and low branches.",
+    "safety_notes": "Prepare for variable UK weather. Wear sturdy, waterproof footwear and dress in layers. The paths are forest trails with occasional roots; watch your step, especially after rain. Stay on marked paths, keep an eye out for others, and bring a map or phone GPS. Check for any local access notices. Be aware of ticks and insects; avoid tall grass in summer. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket and layers",
+      "Map / GPS or fully charged phone",
+      "Snack or small picnic (optional)",
+      "Insect repellent and sunscreen"
+    ],
+    "best_seasons": "All year, with the most comfortable conditions in spring and summer.",
+    "seo": {
+      "title": "Inchree Forest Walk – Easy 3.5 km Forest Trail in the UK",
+      "meta_description": "Enjoy a gentle 3.5 km forest stroll at Inchree Forest. Flat, family-friendly paths through shaded woodland, suitable for all ages. Plan your UK woodland walk today.",
+      "h1": "Inchree Forest Walk – Easy 3.5 km Family Trail"
+    }
   }
 }

@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 374890
+  },
+  "ai": {
+    "summary": "A challenging coastal circuit around Anglesey, Wales, UK, spanning 395.5 km along cliffs, beaches, and tidal estuaries. The route demands stamina, navigation skill, and careful planning due to exposed weather, remote sections, and variable terrain.",
+    "terrain_summary": "Diverse coastal terrain including steep cliff paths, shingle beaches, tidal flats, boardwalks, moorland stretches, and occasional road or farm-track sections. Expect uneven footing, salt spray, and rapidly changing conditions.",
+    "safety_notes": "This is a remote, high-exposure trek. Weather can change quickly with strong winds, fog, and rain; tides can alter routes or require detours. Plan for daylight hours, check tide tables, and carry navigation tools. Notify someone of your itinerary. Bring a whistle, first aid kit, emergency shelter, sufficient water and calories, and a fully charged phone as a backup. Be mindful of cliff edges and erosion; some sections may be closed after storms.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing for temperature changes (base layer, fleece, hat, gloves)",
+      "Sun protection: wide-brim hat or cap and sunglasses",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks and a compact meal",
+      "Map and compass (or GPS) and navigation knowledge",
+      "Phone with offline maps and emergency contacts",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency shelter or bivy sack",
+      "Lightweight trekking poles (optional)",
+      "First aid kit and blister care",
+      "Sunscreen and lip balm",
+      "Insect repellent",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Late spring to early autumn (April–October) when daylight is longer and weather is generally more stable. Winter hiking is possible but conditions can be severe, with higher risk of storms, flooding, and closures.",
+    "seo": {
+      "title": "Isle of Anglesey Coastal Path – 395.5 km Coastal Trek in the UK",
+      "meta_description": "Discover the Isle of Anglesey Coastal Path, a demanding 395.5 km hike around Anglesey, Wales. Learn about terrain, safety tips, gear, and the best seasons for this coastal adventure.",
+      "h1": "Isle of Anglesey Coastal Path"
+    }
   }
 }

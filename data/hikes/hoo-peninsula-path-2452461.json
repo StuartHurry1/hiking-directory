@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2452461
+  },
+  "ai": {
+    "summary": "The Hoo Peninsula Path is a long-distance, hard-rated hike in the United Kingdom, spanning 102.6 km along the Hoo Peninsula. The route weaves coastal marshes, grassy flatlands, tidal edges, and rural lanes, demanding good endurance, navigation, and weather preparedness. Given its length, most hikers split it over multiple days and plan around tides and daylight.",
+    "terrain_summary": "Expect a mix of coastal marshland, salt flats, muddy tracks, grassy fields, and occasional paved sections. Ground can be soft and waterlogged after rain; wind exposure and sun can affect conditions. Navigation is generally straightforward but tidal areas or restricted zones may require detours.",
+    "safety_notes": "Plan around tide tables and access restrictions on the peninsula. The route is long and physically demanding; ensure adequate training, pacing, and rest. Carry sufficient water and food, waterproof clothing, and a reliable map or GPS. Wear sturdy waterproof boots; check weather forecasts; carry a first aid kit and a means to signal for help. Let someone know your itinerary and expected finish time. Be aware of livestock, wildlife reserves, and restricted areas; be prepared for sudden weather changes and limited daylight in autumn/winter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base, mid, outer)",
+      "Waterproof jacket and trousers",
+      "Warm hat and gloves (seasonal)",
+      "2–3 liters of water per day or hydration system",
+      "High-energy snacks and a meal for longer days",
+      "Map, compass, and/or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight first aid kit",
+      "Emergency whistle and space-blanket or bivvy",
+      "Dry bag or waterproof cover for valuables"
+    ],
+    "best_seasons": "Spring to Autumn (March–October). Winter hiking is possible but challenging due to mud, wind, and shorter days.",
+    "seo": {
+      "title": "Hoo Peninsula Path – 102.6 km Hard Hike in the UK",
+      "meta_description": "Discover the Hoo Peninsula Path, a challenging 102.6 km long-distance hike in the UK. Learn about terrain, safety, best seasons, and gear.",
+      "h1": "Hoo Peninsula Path: 102.6 km Hard Hike in the UK"
+    }
   }
 }

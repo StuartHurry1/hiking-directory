@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17992669
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km hike along a gentle trail in the UK, suitable for beginners and families.",
+    "terrain_summary": "Mostly flat or gently rolling terrain along a well-maintained footpath. The route combines compact gravel with grassy sections and can be muddy after rain.",
+    "safety_notes": "This is a short, easy walk. Wear sturdy footwear and check the forecast before you go. Be mindful of horse traffic on Horse Route and yield to riders when encountered. Stay on marked paths, respect signs and livestock, and keep dogs on a leash where required. Carry water and a layer for changing weather conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen / hat",
+      "Phone with offline map or trail app",
+      "Dog leash (where required)"
+    ],
+    "best_seasons": "Spring, summer, and autumn are ideal; winter hiking is possible with appropriate gear and daylight considerations.",
+    "seo": {
+      "title": "Horse Route – Easy 0.8 km hike in the UK",
+      "meta_description": "Discover the Horse Route, a short and easy 0.8 km hike in the UK. Ideal for beginners and families, with flat terrain and simple, well-marked paths.",
+      "h1": "Horse Route – Easy 0.8 km hike in the UK"
+    }
   }
 }

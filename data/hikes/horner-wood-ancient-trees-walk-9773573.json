@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9773573
+  },
+  "ai": {
+    "summary": "A gentle 3.9 km stroll through Horner Wood, an ancient woodland in the UK, offering a peaceful encounter with centuries-old trees. The route is easy and suitable for most walkers, including families, with opportunities to observe wildlife and seasonal foliage.",
+    "terrain_summary": "Mostly flat, well-maintained woodland paths with some tree roots and occasional muddy patches in wet weather. The surface is a mix of packed earth and gravel; some sections may be rougher and less accessible for strollers or wheelchairs.",
+    "safety_notes": "Stay on marked paths to protect the ancient trees and avoid getting lost. Wear sturdy footwear and be mindful of uneven ground and exposed roots. Check local conditions before you go, carry water, and be prepared for rain. Watch for local wildlife and insects, and respect any posted access guidelines.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (waterproof jacket, hat, sunscreen)",
+      "Map or offline route guidance / fully charged phone",
+      "Insect repellent and sun protection",
+      "Small first aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (approximately March–October) for the best colours and daylight; visits in winter can be atmospheric but may be muddier.",
+    "seo": {
+      "title": "Horner Wood Ancient Trees Walk – 3.9 km Easy UK Woodland Trail",
+      "meta_description": "Explore the Horner Wood ancient trees walk, a 3.9 km easy hike through historic woodland in the UK. Plan a family-friendly day out with practical tips, gear recommendations, and seasonality.",
+      "h1": "Horner Wood Ancient Trees Walk – Easy 3.9 km Woodland Trail"
+    }
   }
 }

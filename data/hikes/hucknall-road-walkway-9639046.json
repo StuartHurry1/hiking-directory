@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9639046
+  },
+  "ai": {
+    "summary": "A 10.8 km moderate urban-to-suburban walk along Hucknall Road in the United Kingdom. The route combines pavement with short green spaces and parkland sections, mostly flat with gentle, negligible elevation changes. Suitable for walkers with a decent baseline fitness who enjoy city outskirts and mixed scenery.",
+    "terrain_summary": "Primarily paved surfaces along a busy road, with short stretches of compact gravel paths and occasional grassy verges. Expect curb crossings, occasional step-ups, and brief detours into parks or footpaths. Overall elevation gain is minimal, with a flat to gently undulating profile typical of urban routes.",
+    "safety_notes": "Walk during daylight or well-lit hours; stay alert at traffic crossings and share the path with cyclists and other pedestrians; wear visible clothing and use a reflective layer in low light; check weather and potential roadworks; stay hydrated and carry a mobile phone for emergencies; if using public transit, mind crowds near stations and bus stops.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layered, with a light jacket)",
+      "Small daypack",
+      "Map or offline navigation app",
+      "Portable phone charger",
+      "High-visibility or reflective gear"
+    ],
+    "best_seasons": "Spring to autumn is ideal for comfortable temperatures and daylight, though the route can be walked year-round with appropriate weather gear.",
+    "seo": {
+      "title": "Hucknall Road Walkway: 10.8 km Moderate Urban Walk in the UK",
+      "meta_description": "Discover Hucknall Road Walkway, a 10.8 km moderate urban walk in the United Kingdom. Flat surfaces, city and green spaces, practical safety tips, and gear recommendations.",
+      "h1": "Hucknall Road Walkway: 10.8 km Moderate UK Walk"
+    }
   }
 }

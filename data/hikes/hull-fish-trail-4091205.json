@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4091205
+  },
+  "ai": {
+    "summary": "Hull Fish Trail is a 6.2 km moderate hike in the UK offering varied terrain and countryside scenery. The route is suitable for hikers with some experience seeking a relaxed day outdoors, with gentle elevation changes and opportunities to observe local wildlife.",
+    "terrain_summary": "The trail comprises well-maintained paths, grassy sections, and occasional muddy patches. Expect gentle climbs and descents, hedgerows, open fields, and sections near water features that may be damp. Sturdy footwear and waterproof layers are recommended.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy waterproof footwear and a windproof jacket. Bring a map or GPS and a charged phone; some parts may lack signage. Carry water and snacks, a basic first aid kit, and a light source if you may be out after dark. Inform someone of your plans, keep dogs under control, and watch for farm gates and livestock.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map and compass or GPS",
+      "Layered clothing (fleece or sweater)",
+      "Hat and sunscreen",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions, but be prepared for variable UK weather year-round.",
+    "seo": {
+      "title": "Hull Fish Trail – 6.2 km Moderate Hike in the UK",
+      "meta_description": "Discover Hull Fish Trail, a 6.2 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear to bring.",
+      "h1": "Hull Fish Trail – 6.2 km Moderate Hike in the UK"
+    }
   }
 }

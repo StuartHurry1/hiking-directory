@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15841622
+  },
+  "ai": {
+    "summary": "Hip Road is a very short, easy hike in the UK designed for beginners and casual walkers. The route covers only 0.2 km, making it a quick outdoor excursion.",
+    "terrain_summary": "Mostly flat, with a smooth, well-maintained path and minimal elevation gain.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on the marked path and be mindful of other pedestrians. Let someone know your plans and estimated return time. Bring a small water bottle and a mobile phone; check local conditions before you go.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light jacket or layerable clothing",
+      "Water bottle",
+      "Phone with local map or GPS",
+      "Sunscreen and hat (sun exposure)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring through Autumn; year-round hiking with weather awareness.",
+    "seo": {
+      "title": "Hip Road — Short Easy Hike in the UK",
+      "meta_description": "Discover Hip Road, a quick 0.2 km easy hike in the UK. Perfect for beginners and a fast outdoor escape.",
+      "h1": "Hip Road: A Short Easy Hike in the UK"
+    }
   }
 }

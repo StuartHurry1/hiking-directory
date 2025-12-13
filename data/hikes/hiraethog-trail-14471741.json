@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 14471741
+  },
+  "ai": {
+    "summary": "The Hiraethog Trail is a demanding long-distance hike in the UK, covering about 149.5 km. It traverses varied terrain and requires solid fitness, navigation, and careful planning.",
+    "terrain_summary": "Expect a mix of surfaces: forest tracks, open moorland, and possibly rocky sections, plus occasional road or gravel paths. Terrain can be uneven, boggy after rain, and exposed on higher ground. Navigation is important in areas with limited waymarking.",
+    "safety_notes": "This is a long, hard-distance hike. Plan for multiple days and check weather and daylight hours. Carry navigation tools (map, compass, and GPS as backup). Tell someone your itinerary. Bring sufficient food and water with backups, and have warm clothing, waterproofs, and emergency shelter. Be prepared for boggy sections, variable conditions, limited services, and the potential for fatigue or hypothermia. Hike with a partner if possible.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Layered clothing for changing conditions",
+      "Map and compass (and a GPS device as backup)",
+      "Fully charged phone with offline maps and a power bank",
+      "Sufficient food and a reliable water supply (or water treatment option)",
+      "First aid kit",
+      "Emergency shelter or bivy sack",
+      "Headlamp with spare batteries",
+      "Whistle and basic multi-tool",
+      "Sunscreen, sunglasses, and a hat"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best conditions; the route can be undertaken year-round with proper gear, but winter conditions increase risk.",
+    "seo": {
+      "title": "Hiraethog Trail – 149.5 km Hard-Difficulty Hike in the UK",
+      "meta_description": "Plan your journey on the Hiraethog Trail, a 149.5 km challenging hike in the UK. Explore terrain, safety tips, gear recommendations, and ideal seasons.",
+      "h1": "Hiraethog Trail – 149.5 km Hard Hike in the UK"
+    }
   }
 }

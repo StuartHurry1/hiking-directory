@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17494069
+  },
+  "ai": {
+    "summary": "A 13.5 km circular hike around Hoe Rough, featuring rough terrain, open moorland and countryside views. Moderate in difficulty, suitable for hikers with some experience and good boot grip.",
+    "terrain_summary": "Rough, uneven paths with potential boggy moorland sections; exposed open terrain in higher areas; stiles or gate crossings and some rocky footing. Navigation remains straightforward but visibility can reduce it.",
+    "safety_notes": "Weather in the UK can change quickly; check the forecast before you start. Wear sturdy waterproof boots and appropriate clothing. Carry a map and compass or GPS, plus a fully charged phone. Stay on marked paths, watch for mud and cattle gates, and inform someone of your planned return. Bring water, snacks, and a basic first aid kit. In exposed sections be prepared for wind and cold.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and layers",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone (and power bank)",
+      "Lightweight rain jacket and hat",
+      "First aid kit and whistle",
+      "Sun protection (sunscreen, sunglasses) if sunny",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn; the route can be done year-round with proper gear, but winter conditions may make it more challenging.",
+    "seo": {
+      "title": "Hoe via Hoe Rough Circular Walk – 13.5 km Moderate UK Hiking Route",
+      "meta_description": "Explore the Hoe via Hoe Rough Circular Walk, a 13.5 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this trail.",
+      "h1": "Hoe via Hoe Rough Circular Walk"
+    }
   }
 }

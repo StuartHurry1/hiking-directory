@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11796537
+  },
+  "ai": {
+    "summary": "Illogan FP 5 is a short, easy 1.1 km hike in the UK. The route is suitable for beginners and families, following a level footpath with gentle terrain and minimal ascent.",
+    "terrain_summary": "A short, easy footpath of approximately 1.1 km. Mostly smooth, well-maintained surfaces with gentle inclines. Expect occasional grassy or muddy patches after rain and a few gates or stiles along the way.",
+    "safety_notes": "Check the forecast and daylight hours before starting. Wear sturdy footwear and bring water. Stay on the designated path, mind gates and stiles, and be aware of livestock in fields. In wet conditions the path can be muddy and slippery; watch for muddy patches after rain. If crossing country lanes, observe traffic and keep children close.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Layers for warmth",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Snack (optional)"
+    ],
+    "best_seasons": "Spring to autumn; feasible in winter with proper footwear and daylight.",
+    "seo": {
+      "title": "Illogan FP 5 – Easy 1.1 km UK Hike",
+      "meta_description": "Explore Illogan FP 5, an easy 1.1 km hike in the UK. Ideal for beginners and families, with a gentle, well-maintained footpath and minimal ascent.",
+      "h1": "Illogan FP 5: Easy 1.1 km UK Hike"
+    }
   }
 }

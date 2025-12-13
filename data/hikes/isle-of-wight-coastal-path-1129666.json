@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 1129666
+  },
+  "ai": {
+    "summary": "A challenging coastal circuit around the Isle of Wight spanning 267.3 km, featuring rugged cliffs, sandy beaches, and exposed headlands. The hard-difficulty route demands substantial stamina, solid navigation, and tolerance for variable UK sea weather, rewarding you with dramatic sea views and diverse coastline across the island.",
+    "terrain_summary": "Primarily coastal path terrain with cliff-top routes, shingle and sand beaches, grassy tracks, and occasional road sections. Expect uneven surfaces, strong winds, and elevation changes along sea cliffs; mud after rain; some sections may require careful footing or tide-aware planning.",
+    "safety_notes": "Plan multi-day legs with appropriate rest; check up-to-date weather and sea state forecasts and tides before each leg. Carry reliable navigation tools, a fully charged phone, and a means of power; notify someone of your itinerary; wear waterproof clothing and sturdy footwear; stay hydrated, snack regularly, and have a small first aid kit and whistle. Be cautious near cliff edges, slippery surfaces, and changing coastal conditions; avoid restricted or erosion-prone areas and adjust plans for daylight and seasonal hazards.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and waterproof pants",
+      "Layered clothing for variable conditions (base layer, fleece, insulated layer)",
+      "Sun protection: wide-brimmed hat, sunglasses, sunscreen",
+      "Warm gloves and a beanie for cooler days",
+      "Topographic map and compass or offline GPS device",
+      "Fully charged mobile phone with emergency numbers and a power bank",
+      "Water bottles or hydration reservoir; water purification options",
+      "High-energy snacks and meals for long days",
+      "First aid kit and blister care supplies",
+      "Whistle, emergency bivvy or space blanket",
+      "Trekking poles (optional) and a headlamp with extra batteries",
+      "Dry bags or pack liner to protect gear from sea spray"
+    ],
+    "best_seasons": "May–September offers the best weather and daylight for this long coastal trek. Shoulder seasons (April or October) can be rewarding with fewer crowds but require preparedness for wind and rain. Winter trekking is challenging and generally not recommended for most hikers.",
+    "seo": {
+      "title": "Isle of Wight Coastal Path — 267.3 km Hard Coastal Trek in the UK",
+      "meta_description": "Plan your hike on the Isle of Wight Coastal Path, a 267.3 km hard coastal route around the island. Tips on weather, safety, gear, and best seasons.",
+      "h1": "Isle of Wight Coastal Path — 267.3 km Hard Coastal Trek (UK)"
+    }
   }
 }

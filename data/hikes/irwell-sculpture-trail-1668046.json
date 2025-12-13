@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1668046
+  },
+  "ai": {
+    "summary": "The Irwell Sculpture Trail is a 132.5 km long-distance hike in the United Kingdom that follows the River Irwell through a mix of urban streets, historic industrial landscapes, and scenic riverside countryside. Classified as a hard route, it offers intermittent sculpture installations and varied terrain that challenge multi-day trekkers, with sections across towns and rural banks requiring careful planning and versatile footwear.",
+    "terrain_summary": "Mixed terrain including paved city paths, canal/river towpaths, grassy trails, woodland footpaths, and occasional roads. Expect urban sections with traffic, muddy or uneven surfaces after rain, and gentle to moderate elevation changes. Long riverfront stretches may have limited amenities; navigation relies on waypoints and river corridor signage.",
+    "safety_notes": "Plan for multi-day hiking with appropriate daylight. Check weather forecasts and local conditions, as UK weather can be unpredictable. Stay on marked paths, be mindful of busy road crossings and industrial areas, and carry navigation tools. Inform someone of your itinerary and have a plan to shorten or exit via public transport if needed. Pack layers for varying temperatures and rain, bring sufficient water and food, and have a basic first aid kit and emergency plan.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, mid layer, waterproof outer layer)",
+      "Backpack with rain cover (25–35 L recommended)",
+      "Water bottle or hydration system (minimum 2 L)",
+      "High-energy snacks and meals for long days",
+      "Map and compass or GPS device, plus a charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Personal first aid kit and blister care supplies",
+      "Emergency whistle and reflective safety gear",
+      "Sunscreen, sunglasses, and a hat",
+      "Lightweight waterproof pants and jacket for rain protection",
+      "Plastic bags or dry sacks to keep valuables dry"
+    ],
+    "best_seasons": "Spring to early autumn (roughly April to September) offers the best daylight and temperate conditions for a long-distance hike; the route is doable year-round with careful planning for shorter daylight hours and potential winter weather.",
+    "seo": {
+      "title": "Irwell Sculpture Trail – 132.5 km UK Hiking Guide (Hard Difficulty)",
+      "meta_description": "Plan your trek on the Irwell Sculpture Trail, a 132.5 km hard-distance hike across the UK. Learn about terrain, safety tips, gear, and optimal seasons for this challenging river-side route.",
+      "h1": "Irwell Sculpture Trail: A 132.5 km UK Hiking Challenge"
+    }
   }
 }

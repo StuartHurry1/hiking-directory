@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 8388741
+  },
+  "ai": {
+    "summary": "The Ingleton Waterfalls Trail is a 9.5 km moderate hike in the United Kingdom that winds along the River Doe, passing multiple cascading waterfalls near Ingleton. The route combines forest paths, boardwalks, and stair sections, rewarding hikers with dramatic cascades, pools, and varied scenery. Plan 3–4 hours depending on pace and breaks.",
+    "terrain_summary": "Expect a mix of well-maintained paths, wooden boardwalks, and stone steps. Terrain includes some muddy or uneven sections, gentle ascents and descents, exposed rock near the falls, and occasional slippery surfaces after rain. The route is generally well-marked but can be busy in peak times.",
+    "safety_notes": "Wear sturdy waterproof hiking boots with good grip. After rain the paths and rocks can be very slippery, especially on boardwalks and near waterfalls; stay on marked trails and keep a safe distance from edges. Check weather before you go; be prepared for rapid UK weather changes. Bring a waterproof layer, plenty of water and snacks, and a basic first aid kit. If you’re with children or dogs, supervise closely around drops and wet areas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Backpack with rain cover",
+      "Water bottle and snacks",
+      "Map or offline GPS / fully charged phone",
+      "Small first aid kit and personal essentials",
+      "Sunscreen, hat, and sunglasses (seasonal)",
+      "Insect repellent",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn offer lush scenery and good water flow, while summer gives longer daylight; winter can be very muddy and slippery, so check conditions and be prepared for cold, wet weather.",
+    "seo": {
+      "title": "Ingleton Waterfalls Trail – 9.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the Ingleton Waterfalls Trail, a 9.5 km moderate hike featuring a series of waterfalls, boardwalks, and forest scenery in the UK. Practical safety tips, gear guidance, and best seasons.",
+      "h1": "Ingleton Waterfalls Trail – 9.5 km Moderate UK Hike"
+    }
   }
 }

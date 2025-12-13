@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17139108
+  },
+  "ai": {
+    "summary": "Holme Valley Riverside Way is a short, easy riverside walk in the UK, ideal for a quick scenic stroll along the Holme Valley's riverbanks. The 2 km route is flat and suitable for beginners, families, and casual walkers.",
+    "terrain_summary": "Flat, well-maintained riverside path with occasional gravel sections. Mostly gentle gradients, potential damp patches near the water. Scenic woodland and grassy banks with views of the river; some sections may be exposed to sun.",
+    "safety_notes": "Stay on the designated path, watch for uneven ground near the water, and be cautious after rain when surfaces can be slippery. Keep an eye on children and pets, and check local weather. Wear sturdy, waterproof footwear and bring water. In rural UK, phone signal may be patchy in places; carry a fully charged device and a map.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunscreen",
+      "Mobile phone with emergency numbers",
+      "Light snack",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Spring to early autumn typically offers pleasant weather for a riverside stroll; summer is common but can be busy; winter walks are possible but may be exposed and muddy.",
+    "seo": {
+      "title": "Holme Valley Riverside Way - Easy 2 km Riverside Walk in the UK",
+      "meta_description": "Discover the 2 km easy Riverside Way along the Holme Valley in the UK. A flat, family-friendly route perfect for a quick, scenic stroll.",
+      "h1": "Holme Valley Riverside Way — Easy 2 km Riverside Walk in the UK"
+    }
   }
 }

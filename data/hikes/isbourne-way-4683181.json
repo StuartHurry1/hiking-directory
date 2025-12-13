@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 4683181
+  },
+  "ai": {
+    "summary": "Isbourne Way is a gentle 5.1 km hike in the UK, designed for walkers seeking a relaxed outing with light scenery and easy terrain.",
+    "terrain_summary": "The route follows well-maintained paths with mostly flat or gentle gradients. Expect a mix of grassy tracks, compact gravel, and occasional uneven sections. In rainy conditions, some segments can be muddy, and there may be stiles or gates to pass through.",
+    "safety_notes": "Check the weather before you go and bring appropriate clothing. Wear sturdy footwear and carry water. Stay on the marked path, observe gates and livestock if present, and let someone know your plan for the day. Bring a map or offline navigation and a basic first aid kit. Be mindful of changing daylight hours, especially in winter.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Map or offline navigation (or GPS)",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight backpack",
+      "Whistle and phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and early autumn. In winter, daylight is shorter and weather can be harsher, so plan accordingly.",
+    "seo": {
+      "title": "Isbourne Way — Easy 5.1 km Hike in the UK",
+      "meta_description": "Discover Isbourne Way, an easy 5.1 km hike in the UK. Practical tips on terrain, safety, and gear for a relaxed day out.",
+      "h1": "Isbourne Way: An Easy 5.1 km Hike in the UK"
+    }
   }
 }

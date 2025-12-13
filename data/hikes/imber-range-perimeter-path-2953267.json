@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2953267
+  },
+  "ai": {
+    "summary": "A challenging 113.5 km loop around the Imber Range perimeter in the UK. The route traverses moorland and farmland and runs adjacent to a Ministry of Defence training area where access can be restricted on short notice.",
+    "terrain_summary": "Rugged mix of chalky tracks, moorland, and long, open sections with uneven ground. Expect tussocky grass, boggy patches after rain, and sections near perimeters or through pastures. Navigation is essential as some paths are unmarked and access can change with MoD schedules.",
+    "safety_notes": "Imber Range access is controlled by the MoD and may be restricted or closed without warning. Before attempting this route, verify official open days and obtain any required permissions. Stay on permitted paths, observe all signs, and avoid restricted zones. Carry a detailed map and compass (GPS as backup). Plan for remote stretches with long daylight gaps; carry ample water and food. Inform someone of your itinerary and expected finish time. Be prepared for sudden weather changes, wind exposure, and difficult footing. If access is denied, do not proceed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers and hat",
+      "Map and compass (and GPS)",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy food and snacks",
+      "Headlamp with spare batteries",
+      "First aid kit",
+      "Emergency shelter (foil bivvy or ultralight tent)",
+      "Whistle",
+      "Sun protection (sunscreen and sunglasses)",
+      "Mobile phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and official access is more likely; winter conditions and MoD schedules can limit or block the route.",
+    "seo": {
+      "title": "Imber Range Perimeter Path – 113.5 km Hard Hike in the UK",
+      "meta_description": "Discover the Imber Range Perimeter Path, a demanding 113.5 km circuit in the UK. Learn about access, terrain, safety considerations, and gear for this hard-distance hike.",
+      "h1": "Imber Range Perimeter Path – 113.5 km Hard Hike (UK)"
+    }
   }
 }

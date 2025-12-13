@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19034427
+  },
+  "ai": {
+    "summary": "A gentle 5.3 km forest walk suitable for families and casual walkers. The trail runs through Hudswell Woods in the UK, offering a peaceful woodland experience with easy terrain and shaded paths.",
+    "terrain_summary": "Mostly well-maintained woodland paths with gentle inclines and occasional exposed roots. Expect shaded sections, soft dirt, and a tranquil forest setting.",
+    "safety_notes": "General safety: wear sturdy footwear and weather-appropriate clothing; stay on marked paths and watch for uneven ground or roots. Check the forecast, carry water, and bring sun protection in warm months. In winter, be prepared for mud and colder conditions. Keep dogs on a leash where required, inform someone of your route, and ensure your phone is charged; mobile signal may be limited in deeper woods.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light layers and a rain jacket",
+      "Map or offline navigation (or a charged phone with offline maps)",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Whistle and emergency contact information",
+      "Phone with a fully charged battery",
+      "Backpack"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with warmer clothing and careful footing in winter.",
+    "seo": {
+      "title": "Hudswell Woods Trail – Easy 5.3 km Forest Walk in the UK",
+      "meta_description": "Explore Hudswell Woods Trail, an easy 5.3 km hike in the UK. Flat to gently rolling woodland paths, family-friendly and suitable for beginners. Safety tips and gear included.",
+      "h1": "Hudswell Woods Trail – Easy 5.3 km Forest Walk"
+    }
   }
 }

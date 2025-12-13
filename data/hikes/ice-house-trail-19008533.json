@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19008533
+  },
+  "ai": {
+    "summary": "Ice House Trail is a short, easy 2.5 km hike in the UK. The route is beginner-friendly and typically follows a well-marked path with gentle gradients, suitable for families and casual walkers.",
+    "terrain_summary": "Expect mostly well-maintained paths with compacted earth or gravel. Some sections may be muddy after rain and there can be roots or small uneven patches. Depending on the area, there may be shaded forest paths and open sections with occasional viewpoints.",
+    "safety_notes": "Check current weather and daylight hours before you go, as UK conditions can change quickly. Wear sturdy footwear with good grip and dress in layers. Stay on marked trails; keep children and pets under control. Bring water and a light snack, and carry a small first aid kit. Let someone know your plans and expected return time, and be mindful of slippery leaves or icy patches in colder months.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water and a snack",
+      "Layered clothing plus a lightweight rain jacket",
+      "Map, GPS, or a fully charged phone with offline maps",
+      "Sun protection (sunscreen, hat) as appropriate",
+      "Small first aid kit",
+      "Whistle and ID",
+      "Compact backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) in the UK are generally best for dry and daylight conditions; winter hiking is possible but conditions can be harsher and muddier.",
+    "seo": {
+      "title": "Ice House Trail – Easy 2.5 km Hike in the UK",
+      "meta_description": "Discover Ice House Trail, a short and easy 2.5 km hike in the UK. Learn about the terrain, safety tips, gear recommendations, and the best seasons for this walk.",
+      "h1": "Ice House Trail – Easy 2.5 km Walk in the UK"
+    }
   }
 }

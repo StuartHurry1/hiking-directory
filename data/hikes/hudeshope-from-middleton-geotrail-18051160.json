@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18051160
+  },
+  "ai": {
+    "summary": "A demanding 16.4 km hike along the Hudeshope route from Middleton Geotrail, combining remote moorland, rocky tracks and significant elevation gain. Suitable for experienced hikers prepared for variable weather and rough terrain, with rewarding views and geological features along the way.",
+    "terrain_summary": "Rugged moorland with rough paths and rocky sections, potential boggy patches after rain, gates and stiles, and occasional farm lanes. Expect muddy footing in wet conditions and some exposed sections; navigation relies on waymarks and a map.",
+    "safety_notes": "Plan for a 16.4 km route with good fitness. Weather on UK moorlands can change rapidly; check forecast and wind chill. Mobile signal is often unreliable in remote sections. Tell someone your route and estimated return time. Carry a map and compass and know how to use them (GPS as backup). Wear sturdy waterproof boots and bring waterproofs and warm layers. Pack enough water and energy-rich snacks, a first aid kit, a whistle, head torch with spare batteries, and sunscreen. Be cautious of boggy ground, livestock gates, and exposure on ridges; consider early starts in winter to maximize daylight.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing plus a waterproof jacket and trousers",
+      "Hat and gloves for wind and cold",
+      "Map and compass (GPS as backup)",
+      "Whistle and a small first aid kit",
+      "Water and high-energy snacks (carry 2–3 liters of water in warm weather)",
+      "Head torch with spare batteries",
+      "Sunscreen and sunglasses",
+      "Walking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to Autumn (April–September); winter conditions can be severe with ice, snow and limited daylight",
+    "seo": {
+      "title": "Hudeshope from Middleton Geotrail – 16.4 km Hard Hike in the UK",
+      "meta_description": "Explore the 16.4 km Hudeshope route from Middleton Geotrail in the UK. A hard hike across rugged moorland with elevation and remote scenery. Prepare with the right gear and safety checks.",
+      "h1": "Hudeshope from Middleton Geotrail"
+    }
   }
 }

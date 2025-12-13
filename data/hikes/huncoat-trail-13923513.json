@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13923513
+  },
+  "ai": {
+    "summary": "Huncoat Trail is a long-distance UK hike spanning 34.9 km with a hard difficulty level. The route traverses a mix of rural terrain and useful tracks, demanding stamina and solid navigation from experienced walkers.",
+    "terrain_summary": "The trail features mixed terrain: firm bridleways and farm tracks, grassy field paths, hedgerows, occasional muddy or rocky sections, and quiet country lanes. Elevation varies with gentle to steep segments, and some exposed areas may be affected by weather. Expect a full-day trek and plan for route-finding across fields and woodlands.",
+    "safety_notes": "Plan for a long day (or overnight if needed) and start early to maximize daylight. Check weather forecasts and be prepared for sudden changes. Wear sturdy waterproof boots and dress in layers; carry a map, compass or GPS, and a charged phone. Stay on marked paths, respect private land boundaries, and inform someone of your route and ETA. Bring enough water, high-energy snacks, a basic first-aid kit, a whistle, and emergency warmth.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weather-appropriate layered clothing (base layer, insulating layer, and a waterproof outer shell)",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Water and high-energy snacks",
+      "Basic first-aid kit including blister care",
+      "Whistle and emergency blanket",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Phone with offline maps and a portable power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best for this hike in the UK, offering longer daylight and milder conditions. Winter hikes are possible but present higher risks from cold, ice, and reduced visibility.",
+    "seo": {
+      "title": "Huncoat Trail: 34.9 km Hard Hike in the UK",
+      "meta_description": "Explore the Huncoat Trail, a 34.9 km challenging hike in the UK. Learn about terrain, safety tips, best seasons, and gear for this long-distance trail.",
+      "h1": "Huncoat Trail – 34.9 km Hard Hike (UK)"
+    }
   }
 }

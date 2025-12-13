@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 2667176
+  },
+  "ai": {
+    "summary": "Hylands Lower Estate Walk is a gentle 4 km circuit in the United Kingdom, designed for easy walking and casual exploration of estate grounds. The route follows flat, well-maintained paths with scenic views and minimal elevation, making it suitable for families and beginners.",
+    "terrain_summary": "Predominantly flat, well-trodden footpaths with occasional gravel sections and a few gentle inclines. Expect manicured lawns, tree-lined avenues, and open estate vistas.",
+    "safety_notes": "Stick to marked paths, mind uneven ground near historic features, and bring water. Check weather conditions before you go; in winter, paths can be slippery. Supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light snack",
+      "A lightweight waterproof jacket",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "All year, with especially pleasant conditions in spring and autumn; plan for UK weather and shorter daylight in winter.",
+    "seo": {
+      "title": "Hylands Lower Estate Walk – 4 km Easy Trail in the UK",
+      "meta_description": "Discover Hylands Lower Estate Walk, a gentle 4 km easy hike in the United Kingdom. Flat paths, scenic estate grounds, ideal for families and casual walkers.",
+      "h1": "Hylands Lower Estate Walk (4 km) – Easy UK Trail"
+    }
   }
 }
