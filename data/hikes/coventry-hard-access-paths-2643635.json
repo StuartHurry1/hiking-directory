@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2643635
+  },
+  "ai": {
+    "summary": "A demanding 30.2 km hike in the United Kingdom on Coventry Hard Access Paths. The route combines long stretches of exposed, hard-to-navigate paths with uneven terrain and frequent gates, suitable only for experienced hikers prepared for variable weather and significant distance.",
+    "terrain_summary": "Mixed terrain including rough surfaced paths, muddy sections, uneven stones, and occasional woodland/trail segments. Expect gates and stiles, some road crossings, and variable footing underfoot.",
+    "safety_notes": "Prepare for a long, hard-distance hike. Check the forecast and daylight hours. Carry navigation tools (map and compass or GPS), a fully charged phone as backup, and inform someone of your plan. Bring sufficient water and high-energy snacks. Wear sturdy boots with good ankle support and dress in layers to adapt to UK weather. Be mindful of fatigue, seasonal changes, and potentially remote sections with limited cell signal. Have a plan for shorter sections if weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Water supply (2-3 litres) and electrolytes",
+      "Weather-appropriate clothing (layers, waterproof shell, hat)",
+      "Map, compass, or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "High-energy snacks or meals",
+      "Whistle for emergency signaling",
+      "Emergency blanket or bivy sack",
+      "Phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) for daylight and milder weather; winter hikes are possible with extra preparation and shorter routes.",
+    "seo": {
+      "title": "Coventry Hard Access Paths – 30.2 km hard hike in the UK",
+      "meta_description": "Explore Coventry Hard Access Paths, a 30.2 km challenging hike in the UK. Get terrain, safety tips, gear guidance, and best seasons.",
+      "h1": "Coventry Hard Access Paths (30.2 km) – UK hard hike"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19153124
+  },
+  "ai": {
+    "summary": "A short, easy 4.4 km estuary walk along the Covington route in the Fowey estuary, Cornwall, UK. The flat, scenic coastal path offers water views, marshlands and accessible terrain suitable for most abilities, with variations near mud flats at tidal times.",
+    "terrain_summary": "Flat and well-maintained paths along the estuary, featuring compacted earth, gravel and occasional wooden boardwalks. Some sections may be soft or muddy near high tide and marsh edges; surfaces can be uneven, and exposed areas can be windy and wet.",
+    "safety_notes": "Check tide times before you go; estuary edges can flood and mud can be slippery. Wear sturdy waterproof footwear and bring a waterproof layer. Be prepared for changeable coastal weather; carry water, sun protection in summer, and a small first aid kit. Stay on marked paths, watch for cyclists on shared routes, and let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Weather-appropriate clothing with a waterproof jacket",
+      "Water and lightweight snacks",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Map or offline navigation (GPS on your phone)",
+      "Small backpack with essentials",
+      "First aid kit and basic emergency supplies",
+      "Tide-aware navigation (tide chart or offline map)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with proper gear.",
+    "seo": {
+      "title": "Covington Walk in the Fowey Estuary, Cornwall – Easy 4.4 km Coastal Trail",
+      "meta_description": "Explore the Covington walk along the Fowey estuary in Cornwall, UK. An easy 4.4 km coastal route with flat paths, tidal scenery, safety tips and practical packing list.",
+      "h1": "Covington Walk in the Fowey Estuary, Cornwall (4.4 km, Easy)"
+    }
   }
 }

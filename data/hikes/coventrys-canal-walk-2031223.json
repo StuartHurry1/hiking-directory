@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2031223
+  },
+  "ai": {
+    "summary": "Coventry's Canal Walk is a 10.3 km moderate-intensity stroll along the Coventry Canal in the United Kingdom. The route follows a flat towpath with frequent canal views, suitable for walkers of most fitness levels who enjoy steady scenery and a relaxed pace.",
+    "terrain_summary": "Primarily flat towpath with asphalt or compacted gravel surfaces. Expect occasional uneven patches after rain, possible muddy sections, and shared space with cyclists and boat traffic. Scenic water views, locks, and bridges punctuate the route.",
+    "safety_notes": "Watch for cyclists on busy towpaths, especially on weekends. Stay on the designated path near the canal edge and be cautious around edge drops and locks. Weather can make surfaces slippery, so wear appropriate footwear. Carry a charged mobile phone and inform someone of your plans if walking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight map or offline route guide",
+      "Fully charged mobile phone and optional power bank",
+      "Small first aid kit",
+      "Compact rain poncho or umbrella",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal for Coventry's Canal Walk; it is walkable year-round with proper clothing and footwear for colder or wetter conditions.",
+    "seo": {
+      "title": "Coventry's Canal Walk – 10.3 km Moderate Canal Towpath Hike in the UK",
+      "meta_description": "Explore Coventry's Canal Walk: a 10.3 km moderate hike along the Coventry Canal in the UK. Flat towpath, canal scenery, safety tips, gear, and best seasons.",
+      "h1": "Coventry's Canal Walk (10.3 km)"
+    }
   }
 }

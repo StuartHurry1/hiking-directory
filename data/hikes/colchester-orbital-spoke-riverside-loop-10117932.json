@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10117932
+  },
+  "ai": {
+    "summary": "A gentle 3.9 km circular Riverside Loop in Colchester, offering an easy walk along the river with family-friendly terrain and pleasant views.",
+    "terrain_summary": "Mostly flat, well-worn paths—gravel, compact dirt, and some riverside boardwalk sections. Expect occasional mud after rain and uneven footing near grassy edges.",
+    "safety_notes": "This is a light, public-path route. Stay on designated paths, be mindful of cyclists and other walkers, watch for wet or muddy sections after rain, and monitor weather conditions. Bring water and a light layer; dogs should be kept under control and on a leash where required. If navigating at dusk, carry a light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Snack",
+      "Phone with offline map",
+      "Hat and sunscreen",
+      "Extra layer for chill",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "All year, with best conditions in spring through autumn when daylight is longer and surfaces are drier. In winter, allow extra time and wear appropriate waterproof clothing.",
+    "seo": {
+      "title": "Colchester Orbital Spoke (Riverside Loop) — Easy 3.9 km Riverside Walk in Colchester, UK",
+      "meta_description": "Explore Colchester Orbital Spoke (Riverside Loop): a 3.9 km easy hike along Colchester's riverside in the UK. Flat terrain, family-friendly and suitable for casual walkers.",
+      "h1": "Colchester Orbital Spoke (Riverside Loop) – Easy 3.9 km Riverside Walk"
+    }
   }
 }

@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 2101311
+  },
+  "ai": {
+    "summary": "The Coleridge Way is a challenging long-distance hike in the United Kingdom, covering approximately 279.1 km. This trek is built for experienced walkers who relish ridge routes and remote landscapes. Expect substantial elevation gains, variable weather, and long days on exposed terrain as you traverse ridges and moorland across the route.",
+    "terrain_summary": "Primarily ridge-and-moor terrain with exposed upland sections, rocky paths, boggy stretches, and occasional woodland. Elevation changes are notable, and weather can shift rapidly, making navigation and solid footwear crucial. The route emphasizes ridges, with some sections remote and sparsely surfaced.",
+    "safety_notes": "Plan for multi-day travel with adequate navigation skills (maps and compass or GPS). Weather can be unpredictable; carry layers, waterproofs, and sun protection. Start early to maximize daylight. Stay updated on weather forecasts, inform someone of your itinerary, and be prepared for sudden changes in trail conditions. In remote sections, a means of emergency communication and a first-aid kit are recommended. Follow Leave No Trace principles and be mindful of fast-running streams and potentially tricky footing after rain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and insulating layers",
+      "Map and compass (or GPS) with route knowledge",
+      "Hydration system (water bottles or bladder) and extra water supply",
+      "High-energy food and snacks for long days",
+      "Headlamp with spare batteries",
+      "First aid kit with blister care",
+      "Ridge-appropriate trekking poles",
+      "Emergency whistle and reflective gear",
+      "Bivvy bag or lightweight tent and warm sleeping bag for multi-day trips",
+      "Sunscreen, sunglasses, and hat",
+      "Gloves and extra socks",
+      "Repair kit (duct tape, spare laces)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) typically offers the best conditions and daylight for a long ridge-line hike. July–September often provides the most reliable weather and longer days; autumn can be scenic but wetter and windier. Winter travel is possible but considerably more demanding and requires advanced mountaineering readiness.",
+    "seo": {
+      "title": "Coleridge Way: A 279.1 km Ridge-Driven UK Trek | Hard Difficulty",
+      "meta_description": "Plan your Coleridge Way hike: a 279.1 km hard route across UK ridges. Terrain overview, safety tips, gear suggestions, and best seasons for this challenging long-distance path.",
+      "h1": "Coleridge Way – A demanding ridge-based long-distance hike in the UK"
+    }
   }
 }

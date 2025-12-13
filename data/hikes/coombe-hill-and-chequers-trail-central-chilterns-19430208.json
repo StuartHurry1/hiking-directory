@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19430208
+  },
+  "ai": {
+    "summary": "A strenuous 20.2 km circuit in the Central Chilterns, linking Coombe Hill's famous summit with the Chequers estate. Expect rolling chalk hills, woodlands, hedgerows, and long pastoral viewpoints. Suitable for experienced hikers seeking a challenging day in UK countryside.",
+    "terrain_summary": "Mixed terrain including chalk paths, gravel tracks, woodland trails, and field edges. Expect undulating climbs and descents, occasional stiles, uneven ground, and possible mud after rain. Some exposed hilltop sections offer wide, panoramic views.",
+    "safety_notes": "Check access around Chequers estate and respect private property boundaries. Weather can change quickly in the Chilterns; carry appropriate clothing. Wear sturdy boots and bring a map or GPS. Stay hydrated and carry extra snacks. Mobile reception may be limited; let someone know your route and expected finish time. Keep dogs on leads where required and be mindful of other walkers and road crossings.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof/windproof jacket and an insulating layer",
+      "Hat, gloves, and extra layers for cooler weather",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a light meal",
+      "Map and compass or GPS device (and/or offline map)",
+      "Fully charged phone and a portable charger",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Small first aid kit and any personal medications",
+      "Emergency whistle",
+      "Headlamp or small flashlight with spare batteries",
+      "Rucksack or daypack to carry gear"
+    ],
+    "best_seasons": "Spring through autumn are ideal for views and drier ground. The hike is doable year-round, but winter conditions require extra care due to shorter daylight, wind exposure, and potential mud or ice.",
+    "seo": {
+      "title": "Coombe Hill and Chequers Trail – 20.2 km Hard Hike in the Central Chilterns, UK",
+      "meta_description": "Tackle the 20.2 km Coombe Hill and Chequers Trail in the Central Chilterns, UK. A challenging day of hill climbs, panoramic views, and countryside scenery with safety tips and recommended gear.",
+      "h1": "Coombe Hill and Chequers Trail"
+    }
   }
 }

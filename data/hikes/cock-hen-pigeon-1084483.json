@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1084483
+  },
+  "ai": {
+    "summary": "A demanding 29.7 km hike in the United Kingdom, named Cock, Hen and Pigeon. The route is classified as hard and requires a high level of fitness, navigation skill, and preparation for long day lengths and varied terrain.",
+    "terrain_summary": "Expect a mix of grassy slopes, rocky outcrops, boggy moorland, and farm tracks. Sections can be exposed with occasional steep ascents and descents, and navigation may be challenging in poor visibility.",
+    "safety_notes": "Plan and share your route before starting; carry a map and compass and know how to use them; check weather forecasts as UK conditions change quickly. Start early to maximize daylight; pace yourself and take regular breaks. Carry sufficient water (2–3 liters) and high-energy snacks; bring a light layer and a waterproof jacket. Wear sturdy, waterproof boots with good ankle support; carry a first aid kit, a whistle, and a charged phone with a power bank. Stay on marked paths, be cautious of boggy ground and exposed sections, and be mindful of cattle on rural stretches. In poor visibility, turn back or seek shelter before conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable, waterproof outer layer (jacket and overpants) and an insulating mid-layer",
+      "Moisture-wicking base layers and a warm mid-layer",
+      "Map and compass (with GPX backup) and a charged GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Backpack with rain cover and enough capacity for a full day's gear",
+      "Water bottles or a hydration system (2–3 liters total) and portable water filter if needed",
+      "High-energy food and snacks plus a lunch for the day",
+      "First aid kit tailored for hikers",
+      "Trekking poles for stability and knee support",
+      "Sun protection (sunscreen, sunglasses, and a hat) and a light pair of gloves if cold"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers the most reliable conditions in the UK for this hike; winter hikes are possible but require extra preparation and experience.",
+    "seo": {
+      "title": "Cock, Hen and Pigeon Hike – 29.7 km Hard Trail in the UK",
+      "meta_description": "Explore the challenging 29.7 km Cock, Hen and Pigeon hike in the UK. Learn about the terrain, safety considerations, gear essentials, and the best seasons for this hard trek.",
+      "h1": "Cock, Hen and Pigeon Hike – 29.7 km (Hard) in the UK"
+    }
   }
 }

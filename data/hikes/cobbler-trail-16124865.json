@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16124865
+  },
+  "ai": {
+    "summary": "Cobbler Trail is a moderate-length hike in the UK, covering 8.4 km with varied terrain and a steady pace. Suitable for hikers with some experience.",
+    "terrain_summary": "The route combines well-trodden paths through woodland with grassy slopes and rocky sections; footing can be uneven, with short ascents and descents. Weather can change rapidly, so be prepared.",
+    "safety_notes": "Check weather and daylight conditions before you go. Wear sturdy boots with good grip and stay on marked paths. Bring a map and/or GPS, compass, and a fully charged phone. Carry adequate water and snacks, plus a lightweight rain shell and extra layers. Tell someone your plan and expected return time; don't hike alone if possible. Be mindful of wildlife and seasonal closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate layers and waterproof outer shell",
+      "Water and high-energy snacks",
+      "Map and/or GPS device; compass",
+      "Lightweight rain gear and sun protection (hat, sunscreen)",
+      "First aid kit and blister care",
+      "Whistle for emergencies",
+      "Headlamp or flashlight (for low-light conditions)",
+      "Mobile phone with offline maps and a portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer the best conditions in the UK. Hikes outside this window are possible but require extra caution for weather and shorter daylight.",
+    "seo": {
+      "title": "Cobbler Trail – 8.4 km Moderate Hike in the UK",
+      "meta_description": "Discover Cobbler Trail, an 8.4 km moderate hike in the UK. Varied terrain, practical gear tips, and safety notes to help you plan your trip.",
+      "h1": "Cobbler Trail: 8.4 km Moderate Hike in the UK"
+    }
   }
 }

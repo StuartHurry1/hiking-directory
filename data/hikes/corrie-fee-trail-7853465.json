@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 7853465
+  },
+  "ai": {
+    "summary": "A gentle 3.2 km return hike to Corrie Fee, offering classic UK upland scenery with moorland, rocky outcrops and wide views. Its easy rating makes it suitable for beginners and families seeking a short, scenic walk in the UK.",
+    "terrain_summary": "Predominantly a well-defined footpath with occasional uneven stones. Expect boggy patches after rain and some exposed rock near the corrie edge. The surface is typically firm but can be muddy; sturdy boots are recommended.",
+    "safety_notes": "Weather in UK uplands can change quickly. Check forecasts before you go, stay on marked paths, and be prepared for rain and sudden cold. Carry sufficient water and snacks, and inform someone of your plans. Be mindful of boggy ground and keep away from cliff edges; in winter, assess avalanche/ice risk and consider postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and over-trousers",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Extra layers (fleece or warm mid-layer)",
+      "Hat and gloves",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Insect repellent (seasonal)",
+      "Head torch (in case of delays)",
+      "Lightweight rain cover for your backpack"
+    ],
+    "best_seasons": "Late spring to autumn (roughly May to September) when the trails are drier and views clearer; winter conditions can be challenging and may require snow/ice gear.",
+    "seo": {
+      "title": "Corrie Fee Trail – Easy 3.2 km Hike in the UK Highlands",
+      "meta_description": "Discover Corrie Fee Trail, a short and easy 3.2 km hike in the UK Highlands. Learn about terrain, safety tips, best seasons, and essential gear for a safe, scenic upland walk.",
+      "h1": "Corrie Fee Trail: Easy 3.2 km Hike in the UK Highlands"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19366871
+  },
+  "ai": {
+    "summary": "A challenging 15.9 km hike along rugged coastal terrain on the Isle of Wight, featuring exposed cliff top sections, chalk downland, and long sea views. The route combines steady ascents with steep descents and uneven surfaces, demanding good fitness and navigation.",
+    "terrain_summary": "Coastal path with chalk downland inland. Expect uneven footing, exposed cliff edges, rocky and muddy sections, and some steep climbs and descents. Winds can be strong along the coast and weather can change rapidly.",
+    "safety_notes": "Plan for 4–5 hours of hiking. Stay away from cliff edges, especially after rain. Check tide times and avoid coastal sections that are flooded or slippery at high tide. Wear sturdy boots, bring layers, waterproofs, water, and a small first-aid kit. Carry a map, compass or GPS, fully charged phone, and inform someone of your route and expected return. Start early in winter daylight hours.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered moisture-wicking clothing",
+      "Windproof and waterproof jacket",
+      "Hat and gloves if cold",
+      "Water bottle or hydration system (2–3 liters)",
+      "Energy snacks",
+      "Navigation tools (map and compass or GPS)",
+      "Headlamp or small torch",
+      "Sunscreen and sunglasses",
+      "First-aid kit",
+      "Whistle",
+      "Lightweight emergency blanket",
+      "Light rain cover for backpack",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) when daylight is longer and weather is milder; summer offers best visibility but can be busier and hotter.",
+    "seo": {
+      "title": "Compton Trail, Isle of Wight – 15.9 km Hard Coastal Hike",
+      "meta_description": "Explore the 15.9 km Compton Trail on the Isle of Wight. A hard coastal hike with rugged terrain, cliff edges, and stunning sea views. Gear tips, safety notes, and best seasons.",
+      "h1": "Compton Trail, Isle of Wight: 15.9 km Hard Coastal Hike"
+    }
   }
 }

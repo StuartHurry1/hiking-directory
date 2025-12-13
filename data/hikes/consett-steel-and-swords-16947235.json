@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16947235
+  },
+  "ai": {
+    "summary": "A challenging 21-km day hike in the UK, intertwining industrial heritage with rugged countryside near Consett. Expect steep ascents, rough terrain, and exposed sections that test fitness and nav skills.",
+    "terrain_summary": "Mix of compact country paths, woodland trails, exposed moorland, rocky ascents, and sections near former industrial sites. Surface can be uneven with gradients and occasional boggy patches after rain. Navigation can be tricky in open countryside; weather can shift quickly.",
+    "safety_notes": "This is a hard 21-km route with steep sections and uneven ground. Check the forecast and be prepared for sudden changes in weather; wear layers and carry waterproofs. Bring a map and compass; a GPS device is useful but don’t rely on it alone. Start early to ensure daylight and tell someone your planned route and return time. Wear sturdy boots, carry a first aid kit, whistle, and emergency layer. Be aware of exposed winds on higher ground and stay on marked paths; watch for livestock. In an emergency, dial 999 or 112. Carry water and snacks to maintain energy.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Rucksack (20–30 L) with waist strap",
+      "Water and high-energy snacks (2–3 L water recommended)",
+      "Layered clothing plus a waterproof and windproof outer shell",
+      "Map and compass (GPS as backup)",
+      "Headwear and gloves for exposed sections",
+      "First aid kit",
+      "Whistle",
+      "Emergency blanket or bivvy bag",
+      "Headlamp or flashlight with extra batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional)",
+      "Power bank for devices"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for this route due to longer daylight and drier trails. Summer offers longer daylight but can be hot; late autumn provides cooler conditions. Winter hiking is possible for experienced hikers with proper gear, but conditions can be severe and some sections may be impassable.",
+    "seo": {
+      "title": "Consett Steel and Swords – 21 km Hard Hike in the UK",
+      "meta_description": "Tackle a demanding 21-km hike through industrial heritage near Consett, UK. Learn terrain, safety, and gear for this challenging route.",
+      "h1": "Consett Steel and Swords: 21 km Hard Hike"
+    }
   }
 }

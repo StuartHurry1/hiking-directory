@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9726946
+  },
+  "ai": {
+    "summary": "Cornish Hill Trail is a 6.6 km moderate hike in the United Kingdom. The route combines rolling hills, woodland paths, and open viewpoints, making it a solid half-day outing suitable for hikers with some experience. Expect a mix of surfaced lanes and uneven terrain with occasional ascents and descents.",
+    "terrain_summary": "Terrain varies from well-made paths in open fields to narrower woodland tracks. Surfaces may be grassy, muddy, rocky, or uneven with roots. Elevation changes are gentle to moderate, with some short steeper sections. Sturdy boots and good footing are recommended.",
+    "safety_notes": "Weather in the UK can change quickly; check the forecast before you go. Wear sturdy boots and dress in layers. Bring water and snacks, plus a map or GPS and a fully charged phone. Carry a small first aid kit and a whistle. Stay on marked paths, let someone know your plan, and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Water and snacks",
+      "Waterproof/windproof jacket",
+      "Extra layers (fleece or warm layer)",
+      "Map or GPS device and a fully charged phone",
+      "Hat and sunscreen for sunny days",
+      "Small first aid kit",
+      "Whistle and emergency contact info",
+      "Lightweight rain pants (optional)",
+      "Headlamp or flashlight (for late return risks)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer the best conditions in the UK, though the trail can be hiked in winter with proper gear and daylight.",
+    "seo": {
+      "title": "Cornish Hill Trail - 6.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the Cornish Hill Trail, a 6.6 km moderate hike in the UK. Learn about terrain, safety tips, and gear to plan your day on this mixed-terrain route.",
+      "h1": "Cornish Hill Trail – 6.6 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18169285
+  },
+  "ai": {
+    "summary": "Cordite Way is a short, easy 0.9 km hike in the UK designed for a quick outdoor escape. With a gentle route and minimal elevation, it’s suitable for families, beginners, and walkers looking for a brief outdoor stretch.",
+    "terrain_summary": "The route follows a flat, well-maintained path with a mix of tarmac and compact gravel. Expect smooth surfaces with occasional grassy patches and a few small steps; overall easy and accessible for most walkers.",
+    "safety_notes": "Check weather conditions and daylight hours before you go. Wear sturdy, comfortable footwear and bring a lightweight layer in case of rain. Stay on the marked path and be mindful of pedestrians and any road crossings. Keep dogs under control and on a lead where required. Carry water and a basic mobile phone; consider a simple map or offline navigation in case signal is weak.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Small backpack",
+      "Sunscreen",
+      "Hat",
+      "Phone with emergency contacts",
+      "Map or offline maps app",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in late spring and summer",
+    "seo": {
+      "title": "Cordite Way — 0.9 km Easy Hike in the UK",
+      "meta_description": "Plan a quick 0.9 km hike on Cordite Way in the UK. This easy trail guide covers terrain, safety tips, best seasons, and gear.",
+      "h1": "Cordite Way: Easy 0.9 km Hike in the UK"
+    }
   }
 }

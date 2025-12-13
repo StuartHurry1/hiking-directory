@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 11505564
+  },
+  "ai": {
+    "summary": "Coastal Walk is an 8.7 km moderate coastal hike in the UK, offering sea views, varied shore terrain, and opportunities to spot wildlife. The route showcases a mix of grassy cliffs, rocky sections, and boardwalks, with changing weather and sea spray creating a dynamic coastal experience.",
+    "terrain_summary": "Expect exposed coastal paths with a mix of grassy clifftops, rocky footing, mud in damp weather, and occasional stairs or boardwalk sections. Some areas near the shoreline can be slippery when wet and windswept; maintain caution near cliff edges and stay on marked paths.",
+    "safety_notes": "Check tide times and coastal conditions before starting; parts of the route may be affected by high tide. Wear sturdy, grippy footwear and bring a waterproof/windproof layer. Be prepared for sudden weather changes, strong winds, and sea spray. Keep a safe distance from cliff edges, follow waymarkers, and carry a map or offline navigation. Let someone know your plan and expected return time. Carry water, snacks, a basic first aid kit, sun protection in sunny conditions, and a phone charged for emergencies (dial 999 in the UK if needed).",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and windproof layer",
+      "Warm layer (fleece or insulating layer)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Map, compass, or offline navigation app",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Lightweight backpack",
+      "Trekking poles (optional)",
+      "Headlamp or flashlight (in case of dusk)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to November) offer milder weather and clearer sea views; summer provides good conditions but can be busy; autumn can be windy and misty; winter coastal conditions can be harsher and more challenging.",
+    "seo": {
+      "title": "Coastal Walk - 8.7 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover an 8.7 km moderate coastal hike in the UK. Explore terrain, safety tips, gear recommendations, and the best seasons for Coastal Walk.",
+      "h1": "Coastal Walk"
+    }
   }
 }

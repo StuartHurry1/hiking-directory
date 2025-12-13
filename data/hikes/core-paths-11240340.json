@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 11240340
+  },
+  "ai": {
+    "summary": "Core Paths is a demanding long-distance trek in the United Kingdom, covering 647.2 km with a hard difficulty. The route threads through a mosaic of landscapes, from upland moor and forest to rugged coastline and tranquil rivers, offering remote scenery, historical routes, and frequent navigation challenges.",
+    "terrain_summary": "The terrain is diverse: exposed moorlands and peat bogs with long grass and uneven footing; rocky coastal cliffs and sea-washed paths; dense woodlands; river valleys; farmland and rolling hills. Expect substantial elevation changes, isolated sections with limited services, and sections where waterproof kit and sturdy boots are essential. Navigation can be challenging in remote stretches, so reliable maps and compasses are recommended.",
+    "safety_notes": "Core Paths traverses remote and variable UK terrain. Weather in the UK can change quickly, even in summer; plan for multi-season conditions and short daylight in winter. Always carry a detailed itinerary and a means to contact help; share your plan with someone and check-in when possible. Bring navigation tools (map, compass, and a GPS backup), a well-fitted backpack, and enough food and water for several days between resupply points. Have an emergency shelter, first aid kit, and a lightweight repair kit. Stay aware of wildlife, risk of slips on wet surfaces, and the potential for mobile coverage gaps. Know your limits and be prepared to bail out if weather or fatigue becomes unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof boots with ankle support",
+      "Layered clothing (base, mid, outer) and a waterproof shell",
+      "Rucksack of adequate capacity (60–75 L) with a rain cover",
+      "Navigation: map and compass; optionally a GPS device",
+      "Headlamp with extra batteries",
+      "Emergency shelter or bivvy bag",
+      "Water purification (filters or tablets) and at least 2–3 L of water capacity",
+      "High-energy food and lightweight stove or solid fuel with fuel",
+      "First aid kit tailored for wilderness use",
+      "Spare clothing, hat, gloves, sun protection",
+      "Repair kit (duct tape, needle and thread, spare laces)",
+      "Multipurpose tools and a whistle",
+      "Tarp or ultralight tent pegs for emergency shelter"
+    ],
+    "best_seasons": "Spring through autumn (roughly May to September) generally provides the best weather for a 647.2 km trek, with longer days and more reliable conditions. Autumn can be stunning but days shorten and weather can turn, while winter adds significant risk and requires advanced skills. Always check local forecasts before starting sections.",
+    "seo": {
+      "title": "Core Paths: A 647.2 km UK Hard-Distance Hike",
+      "meta_description": "Discover Core Paths, a challenging 647.2 km hike across the United Kingdom. Learn terrain variety, safety guidance, gear checklist, and best seasons for this demanding trek.",
+      "h1": "Core Paths: A 647.2 km Hard UK Long-Distance Trek"
+    }
   }
 }

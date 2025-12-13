@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 15853969
+  },
+  "ai": {
+    "summary": "Corry Wood Trail is a short, easy woodland circuit in the United Kingdom, covering 3.3 km. The trail travels along well-marked paths through Corry Wood and is suitable for families and casual walkers. Expect shaded forest scenery, gentle gradients, and a relaxed pace.",
+    "terrain_summary": "The route follows well-defined forest paths that are generally firm underfoot. Expect mostly flat terrain with occasional gentle inclines, and some sections may be damp or uneven due to weather or seasonal leaf litter. Tree roots or small steps may be encountered in places.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Stay on marked paths, and let someone know your route. Bring a map or a charged phone, and be prepared for muddy or slippery surfaces after rain. Keep dogs under control and pack out all waste. Practice Leave No Trace and be mindful of wildlife and other trail users.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Water and snacks",
+      "Light waterproof jacket and extra layer",
+      "Map or offline navigation device/phone with GPS",
+      "Small backpack",
+      "Basic first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Whistle and emergency contact information"
+    ],
+    "best_seasons": "Year-round, with spring to autumn typically offering the most comfortable conditions and daylight; winter visits are fine with waterproof gear and warm layers.",
+    "seo": {
+      "title": "Corry Wood Trail – Easy 3.3 km Woodland Walk in the UK",
+      "meta_description": "Discover Corry Wood Trail, an easy 3.3 km woodland circuit in the UK. Family-friendly paths, safety tips, and gear recommendations for a relaxed day outdoors.",
+      "h1": "Corry Wood Trail – Easy 3.3 km Woodland Walk (UK)"
+    }
   }
 }

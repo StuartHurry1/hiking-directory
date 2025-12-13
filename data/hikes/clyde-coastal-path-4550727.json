@@ -19,5 +19,34 @@
   "source": {
     "type": "osm",
     "osmId": 4550727
+  },
+  "ai": {
+    "summary": "The Clyde Coastal Path is a challenging 56.1 km coastal trek in the UK following rugged shoreline along the Clyde coast. With exposed cliffs, tidal sections and a mix of beaches and woodland, it suits experienced hikers and typically split into multi-day stages with careful planning.",
+    "terrain_summary": "Expect a varied coastal route: exposed cliff paths, rocky shores, long beaches, and occasional woodland. Surfaces can be uneven and muddy, with strong winds off the sea. Tidal sections may limit access at high tide and some routes can be subject to erosion, so navigation and timing are important.",
+    "safety_notes": "Plan for a multi-day hike if possible; always check tide times and seasonal closures for coastal sections. Weather can change rapidly in the UK; carry waterproofs, insulating layers and sun protection. Bring map and compass as backups to GPS, plus a fully charged phone and power bank. Carry enough water and food, a first-aid kit, a whistle, and a lightweight emergency blanket. Inform someone of your route and expected return. In remote sections, call 999 in emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Waterproof and windproof jacket and pants",
+      "Insulating layer (fleece or down)",
+      "Hat and gloves (seasonal)",
+      "Backpack with a rain cover",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and meals",
+      "Map and compass; backup GPS device or offline maps",
+      "Fully charged mobile phone and portable power bank",
+      "Head torch or flashlight with extra batteries",
+      "First-aid kit with blister care",
+      "Whistle and emergency blanket or bivy",
+      "Tide timetable or tide app",
+      "Sunscreen and sunglasses",
+      "Dry bags or waterproof pouches for electronics",
+      "Lightweight trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer the best weather and daylight for the Clyde Coastal Path; consider shoulder months (April or October) for quieter trails and cooler conditions.",
+    "seo": {
+      "title": "Clyde Coastal Path – 56.1 km Coastal Trek in the UK",
+      "meta_description": "Plan your Clyde Coastal Path adventure: a challenging 56.1 km coastal hike in the UK. Find terrain details, safety tips, best seasons, and essential gear.",
+      "h1": "Clyde Coastal Path: A 56.1 km UK Coastal Trek"
+    }
   }
 }

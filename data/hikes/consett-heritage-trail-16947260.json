@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16947260
+  },
+  "ai": {
+    "summary": "The Consett Heritage Trail is an 11 km moderate-length hike in the UK, looping through Consett and surrounding areas to reveal local industrial heritage and varied landscapes. Suitable for walkers with baseline fitness, the route combines urban streets, park paths, and countryside tracks without relying on any single thematic focus.",
+    "terrain_summary": "The trail mixes urban pavements, compacted gravel paths, and country lanes. Expect gentle to moderate gradients, some uneven surfaces, and occasional steps. Surfaces can become muddy after rain and vary between town streets, park paths, and rural tracks.",
+    "safety_notes": "Follow standard hiking safety: check the forecast, wear sturdy footwear, and stay on marked paths. Be mindful of road traffic on urban sections, carry enough water and snacks, and have a map or GPS. Winter and after rain can make surfaces slippery; daylight hours vary, so plan accordingly. Let someone know your route and estimated return time.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Lightweight waterproof jacket",
+      "Map or offline GPS/device",
+      "Mobile phone with emergency numbers",
+      "Small first aid kit",
+      "Sunscreen and hat (for sunny days)",
+      "Head torch (for low light/returning dusk)",
+      "Lightweight backpack",
+      "Optional walking poles"
+    ],
+    "best_seasons": "Spring to Autumn; can be done year-round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Consett Heritage Trail – 11 km Moderate Hike in the UK",
+      "meta_description": "Discover the Consett Heritage Trail, an 11 km moderate hike in the UK. Practical route overview, terrain, safety tips, and gear for a comfortable journey.",
+      "h1": "Consett Heritage Trail – 11km Moderate Hike in the UK"
+    }
   }
 }

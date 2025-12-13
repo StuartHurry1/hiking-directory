@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 65239
+  },
+  "ai": {
+    "summary": "The Cotswold Way is a challenging long-distance trail in southwest England, spanning about 289.4 km from Bath to Chipping Campden. The route traverses rolling limestone hills, farmland, ancient woodlands, and picturesque villages, with sweeping views from the Cotswold escarpment. Expect sustained climbs, uneven surfaces, and variable weather; the hike typically takes multiple days to complete depending on pace. This route suits experienced hikers seeking a classic English countryside trek with traditional market towns and inns along the way.",
+    "terrain_summary": "Terrain is varied: chalk and gravel tracks, field edges, and quiet bridleways with frequent ascents and descents. Expect muddy sections after rain and rocky patches near escarpments. The path is mostly well-marked but some stretches are remote; services are mainly in towns such as Bath, Bradford-on-Avon, and Chipping Campden, so plan accordingly. Scenic viewpoints occur along high ground and through rolling countryside between settlements.",
+    "safety_notes": "Weather in the UK can change quickly; carry layers and a waterproof shell. Distances between services can be long—plan water, food, and accommodation in advance. Navigation is important—have a map and compass in addition to any electronic device. Start early to ensure daylight for long days, and bring a headlamp as a precaution. Wear sturdy boots and be mindful of uneven, muddy, and rocky sections; respect private lands and farm gates, and be cautious when road crossings and rural traffic are present.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing and waterproofs",
+      "Daypack (20–30 L) with rain cover",
+      "Water bottles or hydration system (2 L total or more)",
+      "Map and compass (and/or GPS device)",
+      "Headlamp with extra batteries",
+      "First-aid kit",
+      "Snacks and high-energy food",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Lightweight emergency blanket or bivvy",
+      "Whistle for emergencies",
+      "Trekking poles (optional)",
+      "Insect repellent",
+      "Extra layers for warmth"
+    ],
+    "best_seasons": "Spring (April–June) and autumn (September–October) offer milder temperatures and fewer crowds; summer provides longer daylight but can be busier; winter hiking is possible for experienced trekkers with appropriate gear.",
+    "seo": {
+      "title": "Cotswold Way Hike Guide – 289.4 km of England’s Countryside",
+      "meta_description": "Plan your Cotswold Way adventure across England’s rolling hills. This guide covers route overview, terrain, safety tips, gear lists, and the best seasons for hiking the 289.4 km trail from Bath to Chipping Campden.",
+      "h1": "Cotswold Way: Comprehensive Hiking Guide"
+    }
   }
 }

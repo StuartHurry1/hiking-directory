@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2170215
+  },
+  "ai": {
+    "summary": "Coilhallan Wood is an 11.6km moderately challenging hike through tranquil UK woodland. The route follows well-marked forest tracks with gentle elevation, offering shaded canopies, seasonal scenery, and opportunities for birdwatching and quiet reflection.",
+    "terrain_summary": "Terrain consists of shaded forest paths with a mix of packed dirt, gravel, and occasional boardwalk. Expect some exposed roots and a few short ascents; footing is generally stable but can be muddy after rain. Elevation gain is gradual, with a few gentle hills rather than steep climbs.",
+    "safety_notes": "Plan for variable UK weather and shorter daylight hours in autumn and winter. Wear sturdy waterproof footwear and a weather-appropriate jacket. Stay on marked trails, watch for slippery roots and mud, and be mindful of ticks in woodland. Carry a map or GPS, a charged phone, plenty of water, and a small first aid kit. Let someone know your route and expected return time; carry a whistle for emergencies; check local advisories for trail closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Layered clothing",
+      "Map or offline GPS",
+      "Water and snacks",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Headlamp or flashlight (for dusk returning)"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy and days are shorter.",
+    "seo": {
+      "title": "Coilhallan Wood Hike: 11.6 km Moderate Woodland Trail in the UK",
+      "meta_description": "Discover Coilhallan Wood, an 11.6 km moderate hike through UK woodland. Practical tips, gear list, best seasons, and safety notes for a pleasant day out.",
+      "h1": "Coilhallan Wood Hike"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16088950
+  },
+  "ai": {
+    "summary": "The Colne Valley Circular Walk is a demanding 27.1 km loop in the United Kingdom that traverses canal towpaths, rural lanes, riverbanks, and open fields. Designed for experienced hikers, it combines varied terrain and multiple ascents, with potential boggy sections and stony paths. Plan for a full-day hike (roughly 7–9 hours) and carry navigation tools and weather-appropriate gear.",
+    "terrain_summary": "Terrain varies along the route: canal towpaths (flat but can be busy), firm farm tracks, muddy fields after rain, grassy verges, rocky stiles, and occasional road crossings. Expect uneven surfaces, exposed sections, and gaps between waypoints. Navigation is important as signage can be sparse in places; carrying a map or GPS is advised.",
+    "safety_notes": "Distance and duration: 27.1 km can take 7–9 hours depending on pace and breaks. Weather: UK conditions vary; check forecast and be prepared for rain. Footwear: sturdy, waterproof boots with good grip. Clothing: dress in layers and carry a waterproof layer. Navigation: bring a map and compass or a GPS device; have a backup plan if paths are blocked. Hydration and food: bring 2–3 liters of water and high-energy snacks. Daylight: longer summer days; shorter winter daylight requires an earlier start. Mobile signal: may be patchy in rural sections; do not rely on phone for navigation. Safety: carry a small first aid kit and whistle; be mindful of livestock and gates; watch for cyclists on canal towpaths; cross roads and driveways with care.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing layers (base layer, fleece, waterproof shell)",
+      "Waterproof jacket and pants",
+      "Hat and gloves (seasonal)",
+      "Map and compass (or GPS device)",
+      "Fully charged phone; offline map as backup",
+      "Hydration: 2–3 liters of water",
+      "High-energy snacks + a light meal",
+      "Small first aid kit (blister care, antiseptic)",
+      "Headlamp or flashlight (with extra batteries)",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) for longer daylight and milder weather; winter hikes are more challenging due to mud and reduced daylight.",
+    "seo": {
+      "title": "Colne Valley Circular Walk — 27.1 km Hard UK Hike",
+      "meta_description": "Explore the hard Colne Valley Circular Walk in the UK. A 27.1 km loop across canal towpaths, rural tracks, and riverbanks. Includes safety tips and gear guidance for experienced hikers.",
+      "h1": "Colne Valley Circular Walk (27.1 km, Hard)"
+    }
   }
 }

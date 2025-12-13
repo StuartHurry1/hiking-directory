@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 177583
+  },
+  "ai": {
+    "summary": "The Clyde Walkway is a challenging 193.1 km route tracing the River Clyde across a mix of urban paths, riverside trails, and rural countryside in the UK. Expect long days of walking with varied surfaces, changing weather, and meaningful elevation gains along the way.",
+    "terrain_summary": "Terrain varies from paved urban sections to muddy riverbank paths and rocky tracks. Expect uneven surfaces, occasional steps, and exposed stretches. Weather can make surfaces slick, and river crossings may require caution.",
+    "safety_notes": "This is a hard-distance hike in the UK with variable weather and terrain. Plan multi-day or long-day sections, check forecast, and tailor to your fitness. Carry a map or offline navigation, a charged phone, and a charger. Wear sturdy footwear and weather-appropriate clothing, bring water and snacks, and have a basic first-aid kit. Inform someone of your route and timings. Be cautious on riverbank sections and be prepared for limited daylight in winter. Pack a lightweight emergency layer and know your limits.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Breathable base layers and an extra warm layer",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system (at least 2 liters)",
+      "High-energy snacks and lightweight food",
+      "First aid kit",
+      "Headlamp with extra batteries",
+      "Emergency blanket or bivvy sack",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) for more predictable weather and longer daylight; winter hikes are possible with proper preparation but carry higher risk.",
+    "seo": {
+      "title": "Clyde Walkway: 193.1 km UK Long-Distance Hike",
+      "meta_description": "Plan a hard 193.1 km trek along the Clyde Walkway in the UK. Learn about terrain, safety, gear, and the best seasons for this challenging route.",
+      "h1": "Clyde Walkway: 193.1 km UK Long-Distance Hike"
+    }
   }
 }

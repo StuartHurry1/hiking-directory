@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12252252
+  },
+  "ai": {
+    "summary": "A short, easy 0.6 km countryside stroll in the UK. This gentle route provides a peaceful escape from urban life and is suitable for beginners, families, and casual walkers.",
+    "terrain_summary": "Terrain is mostly flat with a mix of paved paths and compacted dirt. Expect well-maintained footpaths, occasional grassy sections, and minor uneven patches. The walk is suitable for all footwear, but sturdy shoes are recommended in wet conditions. Some sections may run along rural lanes with light traffic.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Check the forecast for wind, rain, or icy conditions. Stay on marked paths; be aware of cyclists, pedestrians, and rural vehicles. Keep children and pets under supervision. Bring water, especially in warm weather, and allow extra time in wet or muddy conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate outer layer (jacket or jumper)",
+      "Sun protection (hat and sunscreen)",
+      "Phone with charged battery and offline map",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "All year round; best in spring and autumn for milder conditions.",
+    "seo": {
+      "title": "Corridors to the Countryside — 0.6 km Easy UK Walk",
+      "meta_description": "Enjoy a short, easy 0.6 km stroll in the UK countryside. A perfect starter hike for families and beginners seeking a peaceful escape.",
+      "h1": "Corridors to the Countryside: Easy 0.6 km UK Walk"
+    }
   }
 }

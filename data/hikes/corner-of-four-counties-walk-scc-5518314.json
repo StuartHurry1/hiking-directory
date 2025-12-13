@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 5518314
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike, the Corner of Four Counties walk (SCC) covers 21.8 km in the UK and threads through diverse countryside around county borders. It’s suited to experienced walkers seeking a strenuous day with varied terrain and scenic views.",
+    "terrain_summary": "Expect a mix of hedged field paths, country lanes, occasional ascents and descents, and some road sections. Footing can be uneven and muddy after rain, with stiles, gates, and cattle grazing areas. The route includes rolling hills and exposed sections, so weather can change rapidly.",
+    "safety_notes": "This is a hard route requiring good navigation and fitness. Print or download a map and plan your timing. Do not rely on phone signals in all areas. Wear sturdy hiking boots and weather-appropriate clothing. Carry sufficient water and snacks, plus a basic first aid kit. Watch for livestock and road crossings; use high-visibility clothing on busier sections. Tell someone your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with full battery and offline maps",
+      "Headwear and sun protection",
+      "First aid kit",
+      "Lightweight emergency shelter or space blanket",
+      "High-visibility vest or jacket for road sections",
+      "Trekking poles (optional)",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are the best seasons for this hike, offering dry, mild conditions and longer daylight. Summer can be comfortable but hotter; winter brings mud, ice, and shorter days, making the trek riskier.",
+    "seo": {
+      "title": "Corner of Four Counties Walk (SCC) — 21.8 km Hard Trail in the UK",
+      "meta_description": "Discover the Corner of Four Counties Walk (SCC) in the UK. A challenging 21.8 km hike crossing four counties, with terrain notes, safety tips, and essential gear.",
+      "h1": "Corner of Four Counties Walk (SCC)"
+    }
   }
 }

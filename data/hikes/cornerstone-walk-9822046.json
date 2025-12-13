@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9822046
+  },
+  "ai": {
+    "summary": "Cornerstone Walk is a gentle 1.8 km stroll in the UK, located in an unspecified region. Ideal for families and casual walkers, it features flat terrain and light scenery suitable for a relaxed outing.",
+    "terrain_summary": "Mostly flat with a few gentle sections. Surfaces are a mix of compacted earth, gravel, and occasional paved strips. Paths are generally well maintained, but watch for uneven patches or roots.",
+    "safety_notes": "Suitable for most ages and abilities. Wear comfortable shoes and weather-appropriate clothing. Stay on marked paths, be mindful of other pedestrians and cyclists, and observe any street crossings near parks. In wet or icy conditions, surfaces can be slippery; adjust pace accordingly.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer or jacket",
+      "Sunscreen and hat (as needed)",
+      "Phone with map or GPS",
+      "Snack (optional)"
+    ],
+    "best_seasons": "Spring to autumn generally offer the best weather and daylight for this 1.8 km walk. It is also workable in milder winter days with appropriate gear.",
+    "seo": {
+      "title": "Cornerstone Walk — Easy 1.8 km UK stroll",
+      "meta_description": "Discover Cornerstone Walk, a 1.8 km easy stroll in the UK suitable for families and casual walkers. Flat terrain, light scenery, safety tips, and what gear to bring.",
+      "h1": "Cornerstone Walk: Easy 1.8 km UK stroll"
+    }
   }
 }

@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19556799
+  },
+  "ai": {
+    "summary": "The Conservation Walk at Croome is a 13.5 km moderate-length hike in the UK, featuring ridge-topped sections and mixed terrain. The route offers a balance of open viewpoints, wooded paths, and gentle ascents, suitable for hikers looking for a steady day on varied surfaces.",
+    "terrain_summary": "Expect a mix of ridge trails, grassy uplands, and woodland paths. Surfaces include compact dirt, gravel, and occasional uneven ground; some segments may be grassy slopes and exposed ridges. Footing can be uneven, so sturdy footwear is recommended.",
+    "safety_notes": "Plan for a ~13.5 km outing with variable weather. Wear sturdy boots, bring a waterproof layer, and carry water and snacks. Stay on marked paths, bring a map or GPS, and check local conditions in advance. Inform someone of your plans and turn back if visibility or weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layered)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map or GPS device / offline maps",
+      "Phone with charged battery",
+      "Light rain jacket or windbreaker",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) when daylight is longer and ridge viewpoints are clear.",
+    "seo": {
+      "title": "Conservation Walk, Croome – 13.5 km Ridge Trail in the UK",
+      "meta_description": "Explore the Conservation Walk at Croome: a 13.5 km moderate ridge-themed hike in the UK. Terrain includes ridges, woodlands, and mixed paths. Tips on safety and gear.",
+      "h1": "Conservation Walk, Croome: A 13.5 km Ridge Trail"
+    }
   }
 }

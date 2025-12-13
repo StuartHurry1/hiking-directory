@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 13555110
+  },
+  "ai": {
+    "summary": "An 8.5 km moderate hike through forest trails culminating at View Rock, offering rewarding countryside views and a gentle ascent to a rocky viewpoint. Suitable for hikers with moderate fitness and comfortable with uneven ground.",
+    "terrain_summary": "Mostly forest paths with occasional exposed roots and uneven footing. Gentle to moderate elevation gain, a short rocky ascent near View Rock, and potential mud in wet conditions. Some sections may be narrow or overgrown depending on the season.",
+    "safety_notes": "Wear sturdy footwear with good grip. Check the weather and daylight hours before setting out. Stay on marked paths, as forest areas can have hidden hazards. Bring a map or GPS, a fully charged phone, and sufficient water and snacks. Inform someone of your planned route and expected return time. Be cautious of variable UK weather and wildlife; if trails are muddy or slick, adjust pace accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layers",
+      "Rucksack with water and snacks",
+      "Map/compass or GPS device",
+      "Extra warm layers for cooler weather",
+      "Hat and sunglasses if sunny",
+      "Small first-aid kit",
+      "Headlamp or flashlight (optional)",
+      "Trekking poles (optional)",
+      "Sun protection",
+      "Whistle or emergency beacon (optional)"
+    ],
+    "best_seasons": "Spring, summer, and autumn are ideal for clear trails and views; winter can be challenging due to mud, ice, and reduced daylight—goes with extra gear and caution.",
+    "seo": {
+      "title": "Contin Forest and View Rock – 8.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 8.5 km moderate hike through Contin forest to View Rock in the UK. This guide covers route highlights, terrain, safety tips, and recommended gear.",
+      "h1": "Contin Forest and View Rock: 8.5 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9774012
+  },
+  "ai": {
+    "summary": "A short, easy 4.4 km circular hike on the North Devon coast, starting at Countisbury and returning via Winston's Path. The route blends coastal views, moorland tracks, and woodland sections, with gentle gradients that suit most walkers.",
+    "terrain_summary": "Predominantly well-defined tracks and grassy paths, with some rocky or uneven sections. Expect exposed cliff-top segments that can be windy and damp, plus a few stairs and gentle ascents along the way. Mud is common after rain.",
+    "safety_notes": "Check weather and daylight conditions before setting out. Stay well back from cliff edges, and be mindful of sudden gusts near exposed sections. Wear sturdy footwear and carry a map or offline GPS. Pack a waterproof layer and some water; bring a phone in case of emergencies and know the route in advance. Keep dogs on a leash where required and supervise children closely.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and warm layers",
+      "Water and energy snacks",
+      "Map and compass or offline GPS",
+      "Small first aid kit",
+      "Hat and gloves (seasonal)",
+      "Phone with emergency numbers and power bank"
+    ],
+    "best_seasons": "All year round; best in late spring to autumn for longer daylight and clearer views, though a calm winter day can also be rewarding with dramatic coastal scenery.",
+    "seo": {
+      "title": "Countisbury Circular Walk via Winston's Path – Easy 4.4 km Coastal Hike in Exmoor, UK",
+      "meta_description": "Discover Countisbury Circular via Winston's Path. This easy 4.4 km hike along Exmoor's North Devon coast offers coastal vistas, moorland tracks, and tranquil woodlands.",
+      "h1": "Countisbury Circular Walk via Winston's Path"
+    }
   }
 }

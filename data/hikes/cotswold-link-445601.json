@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 445601
+  },
+  "ai": {
+    "summary": "Cotswold Link is a challenging long-distance hike in the United Kingdom, spanning 169.2 km. The route traverses varied countryside with rolling hills, fields, woodlands, hedgerows and historic lanes, requiring solid fitness, navigation skills and several days on the trail. Weather in the UK can be unpredictable, so plan for changing conditions and allow for flexible itineraries.",
+    "terrain_summary": "Expect mixed terrain: gently undulating to hilly countryside, rural lanes, stone paths, muddy field edges and woodland trails. Some sections are exposed to wind on higher ground; footing ranges from well-maintained paths to uneven stony tracks. Navigation aids are recommended as routes may diverge from signposted paths.",
+    "safety_notes": "Prepare for a long-distance hike: plan multiple days, share itinerary with someone, carry a map and reliable navigation device, and bring adequate waterproofs and warm layers. Check weather forecasts; risk of mud, boggy sections after rain; potential for limited services in remote stretches. Stay hydrated, pace yourself, and be aware of daylight hours in shoulder seasons. Personal safety precautions apply if walking alone at night.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece, thermal base layer)",
+      "Map and compass or GPS with offline maps",
+      "Fully charged phone with emergency numbers",
+      "Hydration system or multiple water bottles (2–3 L)",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care",
+      "Emergency blanket or bivy sack",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Lightweight rain cover for backpack",
+      "Trail snacks and food planning for multi-day hike"
+    ],
+    "best_seasons": "Late spring to early autumn, roughly May–September, when daylight hours are longer and conditions are generally drier. Summer can be warm, while spring offers flowers; winter hiking is more challenging due to mud and weather.",
+    "seo": {
+      "title": "Cotswold Link – 169.2 km Hard-Distance Hike in the UK",
+      "meta_description": "Discover the Cotswold Link, a demanding 169.2 km hike through rolling UK countryside. Practical safety tips, terrain overview, and gear recommendations for this challenging long-distance route.",
+      "h1": "Cotswold Link: 169.2 km Hard-Distance Hike in the UK"
+    }
   }
 }

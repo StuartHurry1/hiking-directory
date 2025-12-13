@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9774011
+  },
+  "ai": {
+    "summary": "A 10 km figure-of-eight hike that threads coastal views, woodland trails and gentle upland sections around Countisbury in the UK. The two linked loops provide a varied day out with moderate climbs and rewarding viewpoints.",
+    "terrain_summary": "Varied terrain including coastal cliff paths, rocky ascents, grassy tracks, muddy field edges and forest trails. Expect uneven footing, exposed viewpoints in windy sections, and some stony or rooty sections that may slow progress.",
+    "safety_notes": "Safety notes: Weather in the UK can change rapidly; check forecasts and start early. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths, be careful near cliff edges and watch for high winds or sudden spray in coastal sections. Mobile reception can be patchy in remote parts—carry a map and compass or a GPS device. Bring enough water and snacks, a small first aid kit, and a whistle. Inform someone of your plan and expected return time. After rain, paths can be very muddy and slippery; take care on exposed rock or roots.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Warm layers and hat",
+      "Map and compass or offline GPS",
+      "Fully charged phone and power bank",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Sunscreen, sunglasses and a hat",
+      "Emergency whistle and extra clothing for sudden weather changes"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Countisbury Figure of Eight Walk – 10 km Moderate Hike in the UK",
+      "meta_description": "Explore the Countisbury Figure of Eight Walk, a 10 km moderate hike in the UK featuring coastal views, woodland trails, and two scenic loops. Practical tips, terrain details, and safety recommendations.",
+      "h1": "Countisbury Figure of Eight Walk"
+    }
   }
 }

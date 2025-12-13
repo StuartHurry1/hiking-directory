@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 377463
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km walk along the Corbett Easy Access Trail in the United Kingdom. Designed for beginners and families, the route features a gentle, well-marked path with minimal elevation gain and pleasant woodland and countryside views.",
+    "terrain_summary": "Primarily flat, surfaced paths (gravel and compacted surfaces) with occasional gentle slopes. Suitable for walkers with strollers and light wheelchairs on dry days. Be prepared for damp sections after rain and wear sturdy footwear.",
+    "safety_notes": "Plan for typical UK weather: check forecasts and carry appropriate layers. Wear sturdy, comfortable footwear with good grip. Stay on the marked paths and be mindful of uneven surfaces after rain. Carry water and a small first aid kit, and keep dogs under control where required. Let someone know your plans and expected return time, and bring a charged phone in areas with limited mobile signal.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Sunscreen and hat",
+      "Map, GPS device or offline navigation",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year round; best in late spring to early autumn when conditions are generally drier and daylight is longer.",
+    "seo": {
+      "title": "Corbett Easy Access Trail — 2.1 km Easy Hike in the UK",
+      "meta_description": "Short and family-friendly 2.1 km hike on the Corbett Easy Access Trail in the United Kingdom. Easy, flat terrain with woodland views—great for beginners and casual walkers.",
+      "h1": "Corbett Easy Access Trail – 2.1 km Easy Hike in the UK"
+    }
   }
 }

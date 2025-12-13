@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19331465
+  },
+  "ai": {
+    "summary": "A demanding 22.4 km circuit in the UK that blends hills, farmland and woodland. This hard hike rewards with varied scenery and long, steady climbs, but requires good fitness, navigation and preparedness for changing conditions.",
+    "terrain_summary": "The route features mixed terrain including stony tracks, muddy paths, exposed climbs, woodland sections and occasional farm lanes. Expect uneven surfaces, short technical sections and potential boggy ground after rain.",
+    "safety_notes": "This is a long, strenuous hike. Prepare for changeable weather and limited daylight. Navigation can be challenging in unknown or poorly marked sections; bring a map and compass. Wear sturdy boots, pack waterproofs, and carry enough water and energy. Let someone know your plan and expected return time. In remote areas, be prepared for slow going and carry a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and trousers",
+      "Insulating layers (fleece or down) and extra clothing",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS) and a charged phone with offline maps",
+      "Head torch or flashlight with spare batteries",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Sun protection (sunscreen, sunglasses)",
+      "Hat and gloves",
+      "Whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions for this length, though weather can be variable and the hike is doable year-round with appropriate precautions.",
+    "seo": {
+      "title": "Clytha and Coed y Bwnydd walk – 22.4 km hard hike in the UK",
+      "meta_description": "Plan your Clytha and Coed y Bwnydd walk. A challenging 22.4 km hike in the UK with mixed terrain, safety tips, gear checklist and best seasons.",
+      "h1": "Clytha and Coed y Bwnydd walk – a 22.4 km hard hike in the UK"
+    }
   }
 }

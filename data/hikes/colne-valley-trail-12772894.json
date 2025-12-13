@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 12772894
+  },
+  "ai": {
+    "summary": "The Colne Valley Trail is a challenging long-distance hike in the UK, spanning 89.1 km and rated hard. It traverses varied landscapes and offers a demanding endurance route with scenic countryside views.",
+    "terrain_summary": "Varied terrain including country lanes, grassy fields, woodlands, riverbanks, and occasional rocky or muddy sections. Expect uneven footing, stiles, elevation changes, and exposure to wind in exposed sections.",
+    "safety_notes": "Plan for long stretches between resupply points; check local weather and daylight hours; carry a map and compass or GPS; tell someone your planned route and timings; ensure adequate water and food; wear sturdy footwear; be prepared for mud, flooded routes, and sudden weather changes; watch for livestock and agricultural machinery on open fields.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof, breathable outer layer",
+      "Insulating layer for cooler evenings",
+      "Map and compass or GPS device",
+      "Hydration system or water bottles (2–3 litres)",
+      "Headtorch with spare batteries",
+      "First-aid kit",
+      "Emergency shelter or space blanket",
+      "Snacks and high-energy foods",
+      "Trekking poles (optional but helpful)",
+      "Whistle",
+      "Phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October).",
+    "seo": {
+      "title": "Colne Valley Trail - 89.1 km UK Long-Distance Hike (Hard)",
+      "meta_description": "Plan your Colne Valley Trail hike: an 89.1 km hard-distance route in the UK with varied terrain, safety tips, and essential gear.",
+      "h1": "Colne Valley Trail: 89.1 km Hard-Distance Hike in the UK"
+    }
   }
 }

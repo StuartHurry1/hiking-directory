@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19663776
+  },
+  "ai": {
+    "summary": "Coalisland Camino is a challenging 60 km long-distance hike in the United Kingdom. The route traverses a mix of rural tracks and potential road sections in an area with unknown regional context, requiring multi-day planning, solid navigation, and good endurance.",
+    "terrain_summary": "Expect a mix of uneven tracks, hedged fields, forest paths, and occasional road walking. Terrain can be muddy and uneven with moderate to significant elevation changes, exposed sections, and variable weather conditions typical of UK landscapes.",
+    "safety_notes": "This is a hard 60 km route with remote sections. Plan a multi-day itinerary, check local conditions, and carry reliable navigation tools (map, compass or GPS). Inform someone of your planned route and expected times. Wear sturdy boots, bring weather-appropriate layers, sun protection, a first-aid kit, and enough food and water. In unknown region, local permissions or access rules may apply; stay on public paths and respect private land. Bring a whistle and emergency shelter; be prepared for sudden weather and limited cell service.",
+    "recommended_gear": [
+      "Sturdy, well-fitted hiking boots with ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Breathable base layers and insulating mid-layers",
+      "Backpack sized 20–40 L with rain cover",
+      "Water bottles or hydration system (2–3 L total capacity)",
+      "Map and compass or GPS device (and know how to use them)",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit and blister care supplies",
+      "Emergency whistle and space blanket or lightweight emergency shelter",
+      "Sunscreen, sunglasses, and a hat",
+      "Multi-tool or knife",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for better weather, daylight, and trail conditions.",
+    "seo": {
+      "title": "Coalisland Camino — 60 km Hard Hike in the UK",
+      "meta_description": "Discover the Coalisland Camino, a 60 km challenging hike in the United Kingdom. Learn about terrain, safety tips, gear suggestions, and the best seasons.",
+      "h1": "Coalisland Camino: 60 km Hard UK Trek"
+    }
   }
 }

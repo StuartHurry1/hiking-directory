@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 9058233
+  },
+  "ai": {
+    "summary": "Combe Valley Greenway is a 9.3 km moderate hike in the United Kingdom along a former rail corridor. The route offers flat to gently undulating terrain, accessible for most walkers, and peaceful countryside scenery.",
+    "terrain_summary": "Flat to gently rolling terrain on a former railway line. Surfaces are typically surfaced paths (tarmac or compacted gravel) with some softer verges. Expect well-marked paths, occasional shaded sections, and occasional crossings of minor routes.",
+    "safety_notes": "Check the weather before you go; surfaces can be slippery when wet. Be mindful of other path users, especially cyclists on shared sections. Carry enough water and snacks, wear sturdy footwear, and bring a map or offline GPS. If hiking after dark, have a light and let someone know your plan.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy footwear",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or offline GPS",
+      "Snacks",
+      "Sun protection",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn (March–October) are typically ideal; the trail can be hiked year-round with appropriate clothing.",
+    "seo": {
+      "title": "Combe Valley Greenway Hike – 9.3 km Moderate Trail in the UK",
+      "meta_description": "Discover the 9.3 km Combe Valley Greenway in the United Kingdom. A moderate, family-friendly hike along a former railway line with practical tips, gear, and best seasons.",
+      "h1": "Combe Valley Greenway – 9.3 km Moderate Hike in the UK"
+    }
   }
 }

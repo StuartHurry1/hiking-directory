@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18177665
+  },
+  "ai": {
+    "summary": "Commons Circular is an easy 4.1 km circular walk in the UK, suitable for most ages and families. The route follows gentle tracks around common land with open views and countryside scenery. It is generally flat with occasional gentle undulations, making it a relaxed option for a short outdoor outing.",
+    "terrain_summary": "The surface is a mix of well-trodden paths, grassy lanes, and occasional gravel sections. Expect some uneven ground and potential mud in wet weather. Gates or stiles and hedgerows are common along the route; livestock may be present on common land, and dogs should be kept under control.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Wear sturdy footwear and bring a lightweight waterproof layer. Stay on designated paths, watch for mud and uneven ground, and take care when crossing gates or stiles. Be mindful of livestock on common land and supervise children and dogs at all times. Carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen for sunny days",
+      "Map, guidebook, or offline map on your phone",
+      "Small first aid kit",
+      "Mobile phone or GPS device",
+      "Leash and waste bags for dogs (if applicable)"
+    ],
+    "best_seasons": "Year-round, with spring to autumn offering the most comfortable conditions; winters can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Commons Circular Walk - Easy 4.1 km Circular Trail in the UK",
+      "meta_description": "Enjoy an easy 4.1 km circular walk around UK common land. Flat to gentle paths, countryside scenery, and family-friendly terrain ideal for beginners.",
+      "h1": "Commons Circular: Easy 4.1 km UK Walk"
+    }
   }
 }

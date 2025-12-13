@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 7606383
+  },
+  "ai": {
+    "summary": "The Community Forest Path is a strenuous long-distance hike in the UK, spanning 148.5 km with a hard difficulty rating. The route traverses forested landscapes with variable terrain, including rough singletrack, mud, and occasional road sections. Unknown region details mean hikers should rely on general navigation skills, plan multi-day legs if needed, and be prepared for changeable weather and limited services along the way.",
+    "terrain_summary": "Primarily forest trails and woodland paths with leaf litter, roots, and uneven ground. Expect mud, wet underfoot after rain, sporadic ascents and descents, occasional boardwalks or rocky sections, and some short road crossings. Navigation requires map/compass or GPS; signage may be minimal in unknown regions.",
+    "safety_notes": "Plan for long days on remote forest trails; carry enough water and food; check weather forecasts and daylight hours; tell someone your route and expected finish times; carry a map, compass, or offline navigation tool; wear sturdy waterproof boots and weather-appropriate clothing; have a first aid kit, blister care, and emergency shelter; be mindful of ticks in forested areas; respect wildlife and private property; follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and warm layers",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Hydration system or water bottles (at least 2–3 liters)",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Trekking poles (optional but helpful)",
+      "Emergency shelter or space blanket",
+      "Whistle",
+      "Multitool or knife",
+      "Waterproof dry bags for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions in the UK, with longer daylight and milder weather. Winter hiking is possible with proper gear and experience, but days are shorter and conditions can be harsher.",
+    "seo": {
+      "title": "Community Forest Path – 148.5 km Hard Hike in the UK",
+      "meta_description": "Discover the Community Forest Path, a demanding 148.5 km trail across UK forests. Learn about the terrain, safety tips, and gear for this hard-distance hike.",
+      "h1": "Community Forest Path: 148.5 km Hard Hike in the UK"
+    }
   }
 }

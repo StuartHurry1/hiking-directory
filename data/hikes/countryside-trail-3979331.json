@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 3979331
+  },
+  "ai": {
+    "summary": "Countryside Trail is a short, 0.9 km easy hike in the UK countryside, suitable for all ages and fitness levels. It offers a peaceful rural stroll with gentle terrain and minimal elevation change.",
+    "terrain_summary": "Mostly flat, grassy and compact gravel paths with well-defined tracks. Expect gentle undulations and occasional muddy patches after rain.",
+    "safety_notes": "Wear sturdy footwear and check the weather before you go. Stay on designated paths, respect livestock if present, and carry water. In winter, mud can be slippery; adjust pace accordingly. Have a mobile phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen or hat"
+    ],
+    "best_seasons": "Spring through autumn offer the most comfortable conditions, but the trail can be enjoyed year-round in milder UK weather.",
+    "seo": {
+      "title": "Countryside Trail - 0.9 km Easy Hike in the UK",
+      "meta_description": "Explore Countryside Trail, a 0.9 km easy hike in the UK. A quick, flat-terrain stroll through rural countryside—perfect for a relaxed day outdoors.",
+      "h1": "Countryside Trail: A 0.9 km Easy Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9331938
+  },
+  "ai": {
+    "summary": "Colwick Parkrun is an 11.3 km moderate-length route in the United Kingdom, combining parkland, towpaths and urban paths. The circuit is suitable for walkers seeking steady pace and varied scenery without major elevation.",
+    "terrain_summary": "Primarily well-maintained park paths and paved urban sections, with occasional gravel segments. Expect a mostly flat route with gentle inclines and a few brief uphill stretches.",
+    "safety_notes": "Plan for daylight hours and weather; stay on marked paths and be mindful of cyclists on towpaths. Wear sturdy footwear, bring water, and carry a map or device with battery life. Have a lightweight layer for cooler conditions and avoid isolated sections after dark. Let someone know your plan and be cautious at road crossings.",
+    "recommended_gear": [
+      "Comfortable hiking shoes or sturdy walking sneakers",
+      "Water bottle or hydration pack",
+      "Weather-appropriate clothing (layers, including a light rain jacket)",
+      "Sun protection (hat, sunscreen)",
+      "Small backpack for essentials",
+      "Map or GPS-enabled device / smartphone with offline map",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to Autumn; walkable year-round with caution in wet or icy winter conditions.",
+    "seo": {
+      "title": "Colwick Parkrun: 11.3 km Moderate Trail Guide (UK)",
+      "meta_description": "Explore Colwick Parkrun, an 11.3 km moderate hike in the UK. Parkland, towpaths, and urban sections with practical safety tips and gear.",
+      "h1": "Colwick Parkrun — 11.3 km Moderate Trail in the UK"
+    }
   }
 }

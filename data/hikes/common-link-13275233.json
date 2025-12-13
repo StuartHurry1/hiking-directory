@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 13275233
+  },
+  "ai": {
+    "summary": "Common link is a tiny, easy hike in the UK, spanning just 0.1 km. It's ideal for absolute beginners, families with young kids, or a quick outdoor break. The route features a flat, well-surfaced path through a local park or countryside, with minimal elevation gain and straightforward navigation.",
+    "terrain_summary": "Flat and short: a well-maintained surface (tarmac or compact gravel) with minimal elevation. Suitable for most ages and fitness levels; can be muddy after rain, so check the forecast and wear appropriate footwear.",
+    "safety_notes": "Basic safety: wear sturdy shoes, bring a light layer, stay on marked paths, watch for other users and pets, and be prepared for sudden weather changes. Because the hike is very short, ensure you know the starting point to avoid confusion. If the trail runs near roads or waterways, supervise children and keep to the posted boundaries.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (light jacket)",
+      "Sunscreen or hat (seasonal)",
+      "Phone with maps or trail app"
+    ],
+    "best_seasons": "Year-round, with generally the best conditions in late spring to early autumn when trails are dry and visibility is good.",
+    "seo": {
+      "title": "Common link – Easy 0.1 km Hike in the UK",
+      "meta_description": "A concise guide to the Common link, a 0.1 km easy hike in the UK. Flat terrain, quick walk, safety tips, and gear for a short outdoor stroll.",
+      "h1": "Common link: Easy 0.1 km hike in the UK"
+    }
   }
 }

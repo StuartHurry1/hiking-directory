@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 11480258
+  },
+  "ai": {
+    "summary": "A scenic 14 km coastal hike in the UK toward Hoswick. This moderate route follows rugged shoreline, sea cliffs, and tidal beaches, offering expansive coastal views and a chance to spot seabirds along the way.",
+    "terrain_summary": "Coastal terrain with uneven paths, rocky sections, grassy tracks near the shore, and occasional boards or fords. Expect slippery rocks near the tide, wind-exposed stretches, and mud in wet conditions.",
+    "safety_notes": "Check tide times and weather before you start. Some stretches run close to the water and ground can be unstable near cliffs. Wear sturdy boots, layer clothing, and carry a map or GPS. Bring extra water and snacks, plus a whistle and a charged phone for emergencies. Tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy hiking boots",
+      "Windproof jacket and layers",
+      "Hat and gloves if cold",
+      "Map and/or GPS device",
+      "Phone with offline maps",
+      "Snacks or energy bars",
+      "Emergency whistle",
+      "Rain gear",
+      "Sun protection (sunscreen, sunglasses)"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and clearer views; summer provides longer daylight, while autumn offers quieter trails and dramatic lighting.",
+    "seo": {
+      "title": "Coastal Route to Hoswick — 14 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover a 14 km coastal hike to Hoswick in the UK. A moderate route along rugged shores, sea cliffs, and tidal beaches with tips on safety and gear.",
+      "h1": "Coastal Route to Hoswick — 14 km Moderate Coastal Hike"
+    }
   }
 }

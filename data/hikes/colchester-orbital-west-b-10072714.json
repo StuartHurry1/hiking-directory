@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 10072714
+  },
+  "ai": {
+    "summary": "An 8.5 km moderate circular hike along the Colchester Orbital West B route. It blends rural fields, woodlands, and light road sections, with gentle elevation changes suitable for hikers with basic fitness.",
+    "terrain_summary": "Mixed terrain including grassy fields, woodland trails, gravel and dirt tracks, and short stretches of quiet roads. Expect occasional mud after rain, occasional stiles or gates, and gentle ups and downs.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and bring layers. Stay on official paths, watch for livestock on farmland sections, and follow local signage. Carry a map or GPS, a charged phone, and a small first aid kit. Hydration is essential; tell someone your route and expected return time. Use caution at road crossings and in remote sections.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots or shoes",
+      "Layered clothing",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Map or GPS-enabled device and compass",
+      "Fully charged phone + power bank",
+      "Small first aid kit",
+      "Whistle for emergencies",
+      "Emergency blanket (compact)"
+    ],
+    "best_seasons": "Spring to autumn (best in late spring and early summer), with year-round hiking possible in milder conditions.",
+    "seo": {
+      "title": "Colchester Orbital West B - 8.5 km Moderate Hike in the UK",
+      "meta_description": "Discover Colchester Orbital West B, an 8.5 km moderate hike in the UK. Explore varied terrain, practical safety tips, and gear recommendations for an enjoyable day on the trail.",
+      "h1": "Colchester Orbital West B: 8.5 km Moderate Hike"
+    }
   }
 }

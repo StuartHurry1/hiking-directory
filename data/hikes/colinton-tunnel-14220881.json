@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 14220881
+  },
+  "ai": {
+    "summary": "A short, easy 0.2 km hike through Colinton Tunnel, a historic rail tunnel in the UK. The route provides a quick, accessible experience with a sheltered environment and minimal elevation change.",
+    "terrain_summary": "Flat, man-made tunnel interior with a concrete floor. Expect low light, cool air, and damp conditions. The surface can be slick near the ends; wear sturdy footwear and use a light source for safety.",
+    "safety_notes": "Verify public access and current openings for Colinton Tunnel. The tunnel can be dark and damp; bring a reliable light (headlamp or flashlight) with extra batteries. Stay on the designated path, watch your step on wet surfaces, and travel with a companion if possible. Respect any posted restrictions and exit if advised.",
+    "recommended_gear": [
+      "Sturdy walking shoes or hiking boots",
+      "Headlamp or flashlight with extra batteries",
+      "Weather-appropriate clothing (light jacket; breathable layers)",
+      "Water and a small snack",
+      "Phone with offline map or emergency contacts",
+      "Optional lightweight camera"
+    ],
+    "best_seasons": "Year-round, with the best experience in spring and summer when daylight is longer and temperatures are milder.",
+    "seo": {
+      "title": "Colinton Tunnel Hike — Easy 0.2 km Walk in the UK",
+      "meta_description": "Explore Colinton Tunnel, a short and easy 0.2 km hike in the UK. Enjoy a sheltered, flat route with cool air and minimal elevation—perfect for a quick nature escape.",
+      "h1": "Colinton Tunnel: Easy 0.2 km Hike in the UK"
+    }
   }
 }

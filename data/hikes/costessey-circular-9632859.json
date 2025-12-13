@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 9632859
+  },
+  "ai": {
+    "summary": "A challenging 18.5 km circular hike in the UK that tests endurance with varied terrain and elevation. Suitable for experienced walkers with solid navigation and preparation.",
+    "terrain_summary": "The route features a mix of footpaths, field margins, minor roads, and potential muddy or uneven sections. Expect varying surfaces, occasional exposed ground, and gentle to moderate climbs.",
+    "safety_notes": "Plan for a long day: check the weather, carry a map or offline navigation, and tell someone your route and expected return. Wear sturdy boots, bring adequate layers and rain protection, stay hydrated, and be prepared for mud, busy roads, or detours. In unfamiliar terrain, maintain awareness of footing and navigation; carry a whistle and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable outer layer (jacket and pants)",
+      "Insulating mid-layer",
+      "Hat and gloves",
+      "Water and high-energy snacks",
+      "Map and compass or offline GPS",
+      "Fully charged phone and power bank",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Lightweight rain cover for pack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October)",
+    "seo": {
+      "title": "Costessey Circular — 18.5 km Hard Hike in the UK",
+      "meta_description": "Tackle the Costessey Circular, an 18.5 km challenging UK hike. Explore terrain, safety tips, and gear recommendations for an epic day on the trail.",
+      "h1": "Costessey Circular – 18.5 km Hard Hike (UK)"
+    }
   }
 }

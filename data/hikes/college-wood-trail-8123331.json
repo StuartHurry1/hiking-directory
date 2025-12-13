@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8123331
+  },
+  "ai": {
+    "summary": "A short, easy woodland loop in the UK, approximately 2.2 km long. Suitable for beginners, families, and casual walkers seeking a peaceful forest stroll. The exact region is unspecified.",
+    "terrain_summary": "Typically flat woodland paths with a mix of dirt and gravel surfaces. Expect some exposed roots and occasional damp patches.",
+    "safety_notes": "Stay on marked trails at all times. Wear sturdy footwear and check the weather before you go. The terrain can be uneven with roots; use caution, especially after rain. Bring water and a light snack. In UK woodlands, ticks can be present in certain seasons—consider tick prevention measures and check yourself after the hike. Mobile signal may be limited in remote sections. Inform someone of your plans and expected return time. Respect wildlife and other visitors.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or waterproof",
+      "Small backpack for essentials",
+      "Map, compass, or offline GPS",
+      "Phone with emergency contacts",
+      "Hat and sunscreen for sunny weather"
+    ],
+    "best_seasons": "Spring and summer are ideal for comfortable temperatures and drier trails, but the route can be walked year-round in mild UK weather.",
+    "seo": {
+      "title": "College Wood Trail – Easy 2.2 km Woodland Walk in the UK",
+      "meta_description": "Discover College Wood Trail, a gentle 2.2 km woodland loop in the UK. This easy, family-friendly hike offers peaceful forest scenery with practical safety tips and gear recommendations.",
+      "h1": "College Wood Trail – Easy 2.2 km Woodland Walk"
+    }
   }
 }

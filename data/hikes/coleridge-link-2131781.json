@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 2131781
+  },
+  "ai": {
+    "summary": "Coleridge Link is a challenging 46.4 km ridge traverse in the United Kingdom. The route combines exposed high ridges, remote moorland, and varied terrain, typically completed as a multi-day trek. It demands good navigation, physical endurance, and respect for rapidly changing mountain weather.",
+    "terrain_summary": "Expect exposed ridge sections with uneven footing, rocky slabs, grass-covered cols, and occasional boggy patches. Terrain can be wind-swept and shelter is limited; route-finding on open ground is essential. Elevation gain is significant for a 46.4 km trek, with long stretches between notable landmarks.",
+    "safety_notes": "Weather in UK ridge environments can change quickly. Carry a reliable map and compass (don’t rely on electronics alone), inform someone of your itinerary, and check forecasts before departure. Pack extra layers, a waterproof shell, sun protection, a first aid kit, and an emergency shelter. Start early to maximize daylight, and consider a shorter option if visibility or wind is poor. In remote areas have a contingency plan and know escape routes.",
+    "recommended_gear": [
+      "waterproof/breathable jacket and pants",
+      "sturdy waterproof hiking boots",
+      "warm layers (fleece or down) and breathable base layers",
+      "map and compass (GPS as backup)",
+      "headlamp with extra batteries",
+      "2–3 L water capacity or water filter/purification method",
+      "high-energy snacks and meals",
+      "first aid kit",
+      "emergency shelter or bivvy sack",
+      "whistle and multitool",
+      "sun protection (hat, sunglasses, sunscreen)",
+      "trekking poles",
+      "fire starter or waterproof matches",
+      "spare dry socks"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers better weather and daylight for this ridge route; shoulder seasons can provide solitude but bring more unpredictable conditions.",
+    "seo": {
+      "title": "Coleridge Link – A Hard 46.4 km Ridge Hike in the UK",
+      "meta_description": "Plan Coleridge Link, a challenging 46.4 km ridge hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for this remote ridge route.",
+      "h1": "Coleridge Link: A Challenging 46.4 km UK Ridge Trek"
+    }
   }
 }

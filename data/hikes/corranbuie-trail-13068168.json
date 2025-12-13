@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13068168
+  },
+  "ai": {
+    "summary": "Corranbuie Trail is a 7.3 km moderate hike in the UK offering varied terrain and potential scenic viewpoints along a mostly rural route.",
+    "terrain_summary": "The trail combines forest paths with open surfaces. Expect portions of gentle climbs, uneven footing, and some rocky or root-strewn sections. Ground can be muddy after rain, so sturdy boots are advised.",
+    "safety_notes": "Check the weather and daylight hours before you go; UK conditions can change quickly. Bring a map or GPS, a fully charged phone, and a basic first aid kit. Wear sturdy walking boots, dress in layers with a waterproof outer shell, and carry enough water and snacks. Stay on marked paths, tell someone your route and expected return time, and be cautious on exposed sections and slippery rocks; wildlife and livestock may be present in rural sections. Mobile reception may be limited in remote stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Windproof/waterproof jacket",
+      "Warm layer for cooler conditions",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Lightweight hat and gloves (seasonal)",
+      "First aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Rain pants or quick-dry pants"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and conditions are generally milder. Be prepared for rain year-round.",
+    "seo": {
+      "title": "Corranbuie Trail – 7.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Corranbuie Trail: a 7.3 km moderate hike in the UK with varied terrain, practical safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Corranbuie Trail – 7.3 km Moderate Hike in the UK"
+    }
   }
 }

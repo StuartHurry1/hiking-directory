@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11506599
+  },
+  "ai": {
+    "summary": "A scenic 6.2 km moderate hike around Collaster Loch and Northhouse Loch in the UK. The route offers lochside views, varied footing, and a peaceful, accessible outing suitable for walkers with steady fitness. Expect mixed surfaces, some boggy patches, and gentle elevation changes.",
+    "terrain_summary": "Primarily well-defined lochside paths with a mix of compact gravel, grassy verges, and occasional muddy sections. Terrain can be damp near the water and may include small rocks or roots. Elevation changes are gentle to moderate, with some short climbs and descents.",
+    "safety_notes": "- Check weather forecast before setting out and be prepared for changeable conditions. - Wear sturdy boots and good grip for wet or uneven ground. - Stay on marked trails; watch for boggy patches and loose rocks near the shore. - Be mindful of limited mobile reception in remote sections; carry a map and compass or GPS. - Carry sufficient water, snacks, and a basic first-aid kit. - Inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Layered clothing",
+      "Backpack",
+      "Water and snacks",
+      "Map and compass or GPS",
+      "Waterproof pants or gaiters",
+      "Hat and gloves (seasonal)",
+      "First-aid kit",
+      "Whistle",
+      "Mobile phone and power bank",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) typically provide the best conditions: longer daylight, milder temperatures, and drier trails. Winter hikes are more exposed and muddy.",
+    "seo": {
+      "title": "Collaster Loch and Northhouse Loch Walk – 6.2 km Moderate Lochside Hike in the UK",
+      "meta_description": "Discover a 6.2 km moderate hike around Collaster Loch and Northhouse Loch in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this lochside trail.",
+      "h1": "Collaster Loch and Northhouse Loch Walk"
+    }
   }
 }

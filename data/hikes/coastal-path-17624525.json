@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 17624525
+  },
+  "ai": {
+    "summary": "Coastal Path is a short, easy 3.9 km hike along the UK coast, offering sea views, gentle gradients, and opportunities to observe wildlife. Ideal for beginners, families, or anyone seeking a relaxed coastal stroll.",
+    "terrain_summary": "Predominantly flat to gently rolling paths along a coastline, with stretches of compacted gravel, pavement, and occasional boardwalks. Expect wet sections near the shore and some rocky patches.",
+    "safety_notes": "Always check the local tide chart and weather forecast before starting. Stay on marked paths and keep a safe distance from cliff edges and unstable ground. Wear sturdy, non-slip footwear and bring a light waterproof layer. Be prepared for windy conditions and sun exposure; use sunscreen and a hat. Carry water and a small first-aid kit, and have a charged phone with emergency numbers. If walking with children, supervise closely near the water.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Windproof layer",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Map or offline navigation on a phone",
+      "Small first-aid kit",
+      "Snacks",
+      "Tide timetable or tide app (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are the most pleasant for coastal walking in the UK. Winter visits can be chilly and stormy; always check the forecast and daylight hours if you go then.",
+    "seo": {
+      "title": "Coastal Path – Easy 3.9 km Coastal Walk in the UK",
+      "meta_description": "Explore Coastal Path, an easy 3.9 km coastal hike in the UK. Learn about terrain, safety tips, and gear to enjoy a relaxed sea-side stroll.",
+      "h1": "Coastal Path – Easy 3.9 km Coastal Walk"
+    }
   }
 }

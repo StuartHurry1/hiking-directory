@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12340036
+  },
+  "ai": {
+    "summary": "A short, easy 4.5 km hike from Colinswell to Dunearn in the UK. The route offers gentle terrain and scenic countryside views, ideal for beginners and families seeking a relaxed outdoor outing with the option to extend or return the same way.",
+    "terrain_summary": "Predominantly well-made paths with a mix of grassy fields, woodland edges, and light gravel sections. The route features gentle gradients and minimal elevation gain, making for a relaxed low-effort walk.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Stay on marked paths, watch for other trail users, and keep dogs under control. Bring a map or GPS, a charged phone, and tell someone your plans. Wear sturdy shoes and bring layers, as UK weather can change quickly and paths can become muddy after rain.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy hiking footwear",
+      "Weather-appropriate clothing with layers",
+      "Lightweight rain jacket",
+      "Hat and sun protection",
+      "Map or GPS device (or offline map on phone)",
+      "Mobile phone with emergency contacts",
+      "Snacks or energy bars",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best for this hike due to longer daylight and drier trails; winter visits are possible but often muddy and with shorter daylight.",
+    "seo": {
+      "title": "Colinswell to Dunearn: Easy 4.5 km UK Hike",
+      "meta_description": "Discover the easy 4.5 km Colinswell to Dunearn trail in the UK. Learn about the terrain, safety tips, best seasons, and essential gear for a relaxed countryside hike.",
+      "h1": "Colinswell to Dunearn 4.5 km Easy Hike"
+    }
   }
 }

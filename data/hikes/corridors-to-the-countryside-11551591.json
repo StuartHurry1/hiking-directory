@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11551591
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km hike in the UK countryside. Suitable for beginners, it offers a quick escape to open fields along quiet paths and hedgerows.",
+    "terrain_summary": "Mostly flat or gently undulating terrain with well-maintained paths. Expect a mix of grassy tracks, gravel paths, and possibly a short paved section.",
+    "safety_notes": "Weather in the UK can change quickly, even for short walks. Wear sturdy, comfortable footwear and stay on marked paths. Be mindful of uneven surfaces, roots, or stones. Watch for other pedestrians and cyclists on shared trails. Bring a phone with emergency contacts and a light rain jacket in case of rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Phone with map or offline directions",
+      "Sunscreen and hat (for sunny days)",
+      "Small snack (optional)"
+    ],
+    "best_seasons": "Year-round, with spring and summer offering the most comfortable conditions; autumn for color; winter requires warm clothing and awareness of shorter daylight.",
+    "seo": {
+      "title": "Corridors to the countryside — Easy 0.5 km UK hike",
+      "meta_description": "A short, easy 0.5 km hike in the UK countryside. Gentle terrain and a quick escape to open fields, ideal for beginners.",
+      "h1": "Corridors to the countryside: an easy 0.5 km UK hike"
+    }
   }
 }

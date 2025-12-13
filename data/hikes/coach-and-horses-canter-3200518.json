@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 3200518
+  },
+  "ai": {
+    "summary": "An easy 4.9 km loop through UK countryside suitable for families and casual walkers. The route offers gentle scenery, easy footing, and minimal elevation gain, making it a relaxing day out.",
+    "terrain_summary": "Mostly grassy paths and compact gravel tracks with occasional muddy patches after rain. The route may include rural lanes and hedgerows; be prepared for slippery ground when wet and some uneven sections near gates.",
+    "safety_notes": "Wear sturdy footwear and appropriate clothing. Check the weather before you go and carry a light rain layer. Stay on marked paths and be mindful of other users, including horses on bridleways. Keep dogs under control and away from livestock. Bring water, a small first aid kit, and a charged mobile phone. Take care at road crossings and in poor visibility.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate layer",
+      "Map or GPS device",
+      "Small first aid kit",
+      "Hat and sunscreen",
+      "Phone with charged battery",
+      "Rain jacket or poncho"
+    ],
+    "best_seasons": "Year round, with the best conditions from late spring to early autumn. Winter visits can be wetter and muddier, with shorter daylight hours.",
+    "seo": {
+      "title": "Coach and Horses Canter – Easy 4.9 km Hike in the UK",
+      "meta_description": "Discover the easy 4.9 km hike Coach and Horses Canter in the UK. Gentle terrain, family-friendly route, safety tips, and gear recommendations.",
+      "h1": "Coach and Horses Canter: Easy 4.9 km Hike in the UK"
+    }
   }
 }

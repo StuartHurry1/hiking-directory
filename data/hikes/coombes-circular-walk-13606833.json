@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13606833
+  },
+  "ai": {
+    "summary": "The Coombes Circular Walk is a 7.5 km moderate hike in the UK that makes a scenic loop through farmland, hedgerows and light woodland. The route offers varied terrain and gentle elevation, making it suitable for walkers with some experience seeking a tranquil day out.",
+    "terrain_summary": "Expect a mix of well-defined paths, grassy fields, and quiet lanes, with occasional muddy patches after rain. The surface alternates between compact tracks, stiles, and woodland trails; some sections may be uneven or unevenly surfaced, so sturdy footwear is advised. The route is exposed in parts, so bring sun or wind protection as needed.",
+    "safety_notes": "Check the weather before you go and plan for changing conditions. Wear sturdy boots and carry a waterproof layer. Watch for cattle in field sections and take gates and stiles slowly. Stay on official paths, carry a map or offline navigation, and ensure your phone is charged. Inform someone of your planned return time and be mindful of daylight hours.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water and snacks",
+      "Waterproof jacket and an extra layer",
+      "Map or offline navigation device",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Whistle",
+      "Phone with charged battery",
+      "Lightweight rain cover for your pack"
+    ],
+    "best_seasons": "Spring to autumn, when the fields are in bloom and visibility is good; can be walked year-round with appropriate gear and caution in winter.",
+    "seo": {
+      "title": "Coombes Circular Walk - 7.5 km Moderate UK Hike",
+      "meta_description": "Discover the Coombes Circular Walk, a 7.5 km moderate loop in the UK. Enjoy fields, hedgerows and woodland on this scenic 2-3 hour hike. Practical safety and gear tips included.",
+      "h1": "Coombes Circular Walk - 7.5 km Moderate Hike"
+    }
   }
 }

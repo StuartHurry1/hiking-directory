@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3018630
+  },
+  "ai": {
+    "summary": "A challenging 17 km hike along the Comber Greenway in the UK. This long, linear route follows an old railway corridor and is best tackled by experienced walkers who can maintain a steady pace over several hours.",
+    "terrain_summary": "Primarily a surfaced path (tarmac and compact gravel) with occasional muddy patches. The route is mostly flat but features long straight stretches and some gentle slopes; conditions vary with weather and maintenance.",
+    "safety_notes": "Plan for a long day and start early to ensure daylight on the return. Wear sturdy, waterproof hiking boots and dress in layers. Stay on the designated path and be mindful of other users, especially cyclists. Carry a map or offline navigation, a charged phone, and a basic first aid kit. Bring enough water and snacks; check the forecast and avoid hiking in icy or heavy rain. In winter or shoulder seasons, daylight is limited and exposed sections can be windy; tell someone your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof outer shell",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass or offline navigation app",
+      "Charged mobile phone and portable power bank",
+      "Small first aid kit",
+      "High-visibility clothing or reflective gear",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Headlamp or flashlight (for early/late starts or poor light)",
+      "Snacks and energy food",
+      "Weather-appropriate gloves and hat (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offer the most daylight and drier conditions, though UK weather can be changeable. Winter hikes are possible but require extra preparation and caution.",
+    "seo": {
+      "title": "Comber Greenway – 17 km Hard Hike in the UK",
+      "meta_description": "Explore Comber Greenway, a 17 km hard hike in the UK. Read terrain notes, safety tips, gear suggestions, and find out the best seasons for this challenging rail-line route.",
+      "h1": "Comber Greenway: 17 km Hard Hike in the UK"
+    }
   }
 }

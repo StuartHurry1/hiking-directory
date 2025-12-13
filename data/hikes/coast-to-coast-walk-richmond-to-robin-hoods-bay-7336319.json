@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 7336319
+  },
+  "ai": {
+    "summary": "An arduous 175.2 km coastal trek along the historic Coast to Coast route, from Richmond to Robin Hood's Bay. The path traverses rolling dales, wooded valleys, moorland, river crossings, and dramatic sea cliffs, demanding stamina and solid navigation across northern England.",
+    "terrain_summary": "Mostly rural uplands and coastal paths: river valleys, moorland plateaus, limestone escarpments, and long stretches of exposed coastline. Expect steep ascents and long days; footing varies from grassy tracks to rocky, uneven surfaces; weather can shift quickly.",
+    "safety_notes": "Hard route demands good fitness and navigation. Check weather forecasts; coastal exposure can bring wind, rain, and fog. Some sections have limited mobile reception; carry a map and compass. Plan overnight stops and food/water supplies; water sources may be scarce in upland stretches. Wear sturdy boots and use trekking poles if needed for stability. Pack extra layers, a headlamp, and an emergency blanket. Inform someone of your itinerary and timings. Respect coastal erosion and cliff-edge dangers, especially in high winds or rough seas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and trousers",
+      "Rucksack with rain cover",
+      "Map of the route and a compass (or GPS with offline maps)",
+      "Water bottle or hydration system; water purification method",
+      "First aid kit with blister care",
+      "Headlamp or torch with spare batteries",
+      "Warm layers (fleece, hat, gloves)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Energy-rich snacks and meals for long days",
+      "Trekking poles (optional but helpful)",
+      "Emergency bivy or space blanket",
+      "Spare charger/power bank for devices"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to September) offer milder weather, longer daylight, and better trail conditions. Shoulder months like May/June or September can be particularly pleasant; winter conditions can make the route dangerous.",
+    "seo": {
+      "title": "Coast to Coast Walk (Richmond to Robin Hood's Bay) – 175.2 km Coastal Trek",
+      "meta_description": "Plan your Coast to Coast Walk from Richmond to Robin Hood's Bay. A challenging 175.2 km coastal trek across northern England with moorland, cliffs, and sea views. Gear, safety tips, and best seasons.",
+      "h1": "Coast to Coast Walk: Richmond to Robin Hood's Bay"
+    }
   }
 }

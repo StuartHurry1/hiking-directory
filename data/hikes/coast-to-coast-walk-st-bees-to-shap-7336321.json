@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 7336321
+  },
+  "ai": {
+    "summary": "Coast to Coast Walk (St Bees to Shap) is a challenging long-distance trek across northern England, starting from the Irish Sea coast at St Bees Head and finishing in Shap, Cumbria. At about 364.8 km, the route combines dramatic coastal scenery, rolling farmland, and strenuous Lake District climbs. It requires solid navigation, consistent daily mileage, and physical resilience from experienced hikers.",
+    "terrain_summary": "The route features a varied mix of landscapes: rugged coastal cliff paths along the initial section, then farmland and hedged lanes, followed by open moorland and rocky fells in the Lake District. Expect long ascents and steep descents, potential boggy ground, streams to cross, and occasional road sections. Weather can be changeable year-round, with exposed sections demanding good footwear and preparation.",
+    "safety_notes": "Check weather and tidal conditions before each day. Carry reliable navigation (map and compass) and avoid relying solely on phone GPS. Plan daily stages around villages or inns for resupply and shelter, and inform someone of your itinerary. Be prepared for rapid weather changes, strong winds, and limited daylight in shoulder seasons. In the Lake District, expect long climbs and rough footing. Respect farmland rights, close gates, and watch for livestock. Know local camping rules and practice minimal-impact camping if wild camping is considered. Carry a basic first aid kit, blister care, and a way to contact emergency services.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing: base layer, mid-layer, outer shell",
+      "Waterproof jacket and trousers",
+      "Backpack with rain cover",
+      "Map and compass (and/or GPS with offline maps)",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care supplies",
+      "Water bottle or hydration system + water purification method",
+      "High-energy snacks and lightweight meals",
+      "Trekking poles",
+      "Emergency shelter (space blanket or bivvy bag)",
+      "Sunscreen, sunglasses, hat, and insect repellent"
+    ],
+    "best_seasons": "May to September is typically best for weather and daylight; April and October can be feasible with extra preparation and flexible planning. Winter hiking is possible but significantly riskier due to cold, snow, and shorter days.",
+    "seo": {
+      "title": "Coast to Coast Walk (St Bees to Shap) – UK Coast to Lake District Trek",
+      "meta_description": "Plan your Coast to Coast Walk from St Bees to Shap in the UK. A 365 km hard-distance trek across coast, hills, and the Lake District with practical safety tips and gear.",
+      "h1": "Coast to Coast Walk (St Bees to Shap) – UK Coast to Lake District Trek"
+    }
   }
 }

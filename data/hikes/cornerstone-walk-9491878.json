@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9491878
+  },
+  "ai": {
+    "summary": "Cornerstone Walk is a short, easy 1.4 km stroll in the UK, suitable for first-time hikers and families. The route follows flat, surfaced paths with minimal elevation, making it a relaxed outing that can be completed in under an hour.",
+    "terrain_summary": "Mostly flat and well-maintained paths, some segments on pavements and short grassy sidelines. Expect occasional uneven ground after rain; waterproof footwear recommended. The walk offers gentle scenery and light shade.",
+    "safety_notes": "Check weather forecast and daylight hours. Stay on marked paths and watch for cyclists and pedestrians on shared routes. Bring water, wear appropriate footwear, and supervise children. If mobility is limited, choose shorter segments or turn back.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small backpack for essentials",
+      "Phone with offline map or local information",
+      "Layered clothing for changing conditions"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions, but the walk is accessible year-round. Avoid severely icy or snowy days.",
+    "seo": {
+      "title": "Cornerstone Walk — Easy 1.4 km UK stroll",
+      "meta_description": "Explore Cornerstone Walk, an easy 1.4 km hike in the UK. This flat, family-friendly route is perfect for a quick outdoor outing with minimal elevation.",
+      "h1": "Cornerstone Walk: Easy 1.4 km UK stroll"
+    }
   }
 }
