@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 153655
+  },
+  "ai": {
+    "summary": "Mount Pleasant Circular Walk is an 11 km loop in the UK that offers a rewarding moderate challenge with varied scenery. The route returns to the starting point and is suitable for hikers with some experience of uneven terrain.",
+    "terrain_summary": "A mix of grassy field paths, compact tracks, and gentle woodland trails. Expect some muddy patches after rain and occasional rocky or uneven sections. Elevation gains are moderate but steady, with a few gentle climbs.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy boots and bring a waterproof layer. Carry a map, compass or GPS, and a charged phone. Stay on marked paths, be aware of livestock if present, and plan for 2-3 hours of hiking. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots with good ankle support",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, including a lightweight waterproof layer)",
+      "Map, compass or GPS device",
+      "Snacks or energy bars",
+      "Lightweight rain jacket",
+      "Sun protection (sunscreen, hat)"
+    ],
+    "best_seasons": "Spring, summer, and early autumn when trails are drier and daylight is longest; winter hiking is possible but expect more mud and reduced daylight.",
+    "seo": {
+      "title": "Mount Pleasant Circular Walk – 11 km Moderate Hike in the UK",
+      "meta_description": "Discover Mount Pleasant Circular Walk, an 11 km moderate hike in the UK. Get terrain insights, safety tips, best seasons, and gear recommendations for a rewarding day outdoors.",
+      "h1": "Mount Pleasant Circular Walk – 11 km, Moderate"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19361013
+  },
+  "ai": {
+    "summary": "A gentle 4.6 km circular coastal walk around Morfa and Nant Bach in the UK. The route blends flat paths, marshboardwalks and grassy tracks, making it suitable for most ages and abilities. Expect marshland scenery, occasional mud, and rewarding views of the shoreline, typically taking about 1.5–2 hours depending on pace and stops.",
+    "terrain_summary": "Primarily flat with a mix of coastal paths, compact earth tracks, marshboardwalks and brief grassy sections. Some parts can be soft and muddy after rain; waterproof footwear is recommended. The route runs along exposed coast in places, so be prepared for wind and variable weather.",
+    "safety_notes": "Check tide information for any coastal segments and avoid getting cut off by rising tides. Stay on marked paths, watch for wet/muddy ground after rain, and heed gates or livestock. Wear sturdy waterproof footwear, bring layers and rain protection, and carry water. The coastal exposure can bring strong winds; use sun protection in summer and ensure a fully charged phone in case of emergencies. Keep children and dogs under control and on leashes where required.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weatherproof jacket and layers",
+      "Water and snacks",
+      "Hat and sunscreen",
+      "Map, compass or GPS device",
+      "Small first aid kit",
+      "Phone with emergency numbers",
+      "Lightweight backpack",
+      "Optional trekking poles",
+      "Gaiters (for wet conditions)"
+    ],
+    "best_seasons": "Spring and Summer (April–September) are ideal for comfortable conditions and visibility, but the route is walkable year-round with wetter, muddier conditions in autumn and winter.",
+    "seo": {
+      "title": "Morfa and Nant Bach Circular Walk – 4.6 km Easy Coastal Hike, UK",
+      "meta_description": "Explore the Morfa and Nant Bach Circular Walk, a 4.6 km easy coastal route in the UK. Flat paths, marshboardwalks, and salty marsh scenery—great for families and casual walkers.",
+      "h1": "Morfa and Nant Bach Circular Walk – 4.6 km Easy Coastal Hike"
+    }
   }
 }

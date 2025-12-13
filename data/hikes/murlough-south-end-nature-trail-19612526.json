@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19612526
+  },
+  "ai": {
+    "summary": "Murlough South End Nature Trail is an 8.4 km moderate coastal hike in the UK. The route progresses through dune systems, coastal heath, and open shoreline, offering frequent sea views and opportunities to observe local wildlife. Expect a mix of well-maintained paths, boardwalk sections, and sandy stretches with gentle elevation changes; the terrain is exposed in places and can be windy.",
+    "terrain_summary": "Varied coastal terrain including compacted dirt paths, wooden boardwalks, and sandy dune sections. Some sections are uneven with loose sand; expect exposed, windy stretches along the shoreline. The majority of the route is well-marked with short gradients and optional loops.",
+    "safety_notes": "Check weather and coastal conditions before starting; winds can be strong and change quickly. Wear sturdy, weather-appropriate clothing and waterproof footwear. Stay on marked paths to protect dune habitats and reduce the risk of slips. Carry water and a small snack, plus sun protection in warmer months. Be mindful of wildlife and local access rules; verify any dog restrictions. Avoid venturing near cliff edges and heed seasonal closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle",
+      "Snacks",
+      "Sunscreen, sunglasses, and a hat",
+      "Map, compass, or offline navigation",
+      "Small first aid kit",
+      "Insect repellent",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Best from March to October for milder weather and longer daylight; winter visits are possible but windier and muddier.",
+    "seo": {
+      "title": "Murlough South End Nature Trail – 8.4 km Moderate Coastal Hike in the UK",
+      "meta_description": "Explore the 8.4 km Murlough South End Nature Trail in the UK. A moderate coastal hike through dunes and heath with sea views, safety tips, and gear recommendations.",
+      "h1": "Murlough South End Nature Trail – 8.4 km Moderate Coastal Hike"
+    }
   }
 }

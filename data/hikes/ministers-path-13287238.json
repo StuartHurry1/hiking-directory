@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 13287238
+  },
+  "ai": {
+    "summary": "Minister's Path is a 17.1 km hard-rated hike in the UK that traverses varied terrain and demanding ascents. It rewards experienced hikers with scenic moorland, exposed ridges, and long distances. Prepare for a strenuous day and variable weather.",
+    "terrain_summary": "The route combines grassy moorland, rocky paths, uneven steps, and muddy sections. Expect exposed stretches with panoramic views, gates and fences, and potential wet crossings. Navigation is important in places where signage is sparse.",
+    "safety_notes": "This is a long, strenuous route with exposed sections and changing UK weather. Before you go: check the forecast, let someone know your plans, and carry a map and compass or GPS. Wear sturdy boots and waterproof clothing; bring extra layers for wind and cold. Pack sufficient water and high-energy food, a small first aid kit, a headlamp, a whistle, sun protection, and a charged mobile phone. Be prepared for navigation challenges in remote areas; if you’re unfit or unsure of conditions, consider a shorter alternative or postponing.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and overtrousers",
+      "Warm layers (fleece/wool)",
+      "Water and high-energy snacks",
+      "Map and compass or GPS",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight",
+      "First-aid kit",
+      "Whistle",
+      "Sunscreen, sunglasses and hat",
+      "Trekking poles (optional)",
+      "Waterproof backpack cover or dry bag",
+      "Extra socks and gloves"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offers the best conditions with longer daylight and milder weather. Winters can be severe with wind and mud; summit sections can be dangerous in poor visibility. Plan around daylight hours.",
+    "seo": {
+      "title": "Minister's Path — 17.1 km Hard Hike in the UK",
+      "meta_description": "Discover Minister's Path, a challenging 17.1 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for this strenuous route.",
+      "h1": "Minister's Path: 17.1 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19293833
+  },
+  "ai": {
+    "summary": "A scenic 10.7 km out-and-back hike from Mytholmroyd to the summit of Stoodley Pike. The route offers a moderate ascent via well-defined footpaths and tracks, with rewarding panoramic views over the Calder Valley and surrounding countryside. Suitable for hikers with moderate fitness seeking a rewarding hilltop viewpoint.",
+    "terrain_summary": "The ascent follows a mix of public footpaths, stone tracks, and grassy inclines. Expect uneven surfaces, occasional muddy stretches, loose stones, and short steep sections as you climb toward Stoodley Pike. At the summit, conditions can be exposed and windy, with panoramic but potentially breezy views.",
+    "safety_notes": "Check the weather forecast before you go; UK conditions can change quickly. Wear sturdy, waterproof boots and dress in layers. Bring a map or GPS, a fully charged phone, and a basic first aid kit. Stay on marked paths, watch for muddy and slippery sections, and be prepared for exposed winds at the top. Let someone know your plan and expected return time. Carry water and snacks, and have a light source if you might return after dark.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Water and high-energy snacks",
+      "Map and/or GPS device or a charged smartphone with offline maps",
+      "Basic first aid kit",
+      "Emergency whistle",
+      "Headwear and gloves (for cold days)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional)",
+      "Lightweight headlamp or torch (for late returns)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best conditions and clearer views; winter can be muddy with potential ice and wind, so plan accordingly.",
+    "seo": {
+      "title": "Mytholmroyd Stoodley Pike Hike – 10.7 km Moderate Trail from Mytholmroyd to Stoodley Pike",
+      "meta_description": "Explore a 10.7 km moderate hike from Mytholmroyd to Stoodley Pike in the UK. Enjoy countryside trails, rocky sections, and panoramic Calder Valley views with practical safety tips and gear.",
+      "h1": "Mytholmroyd Stoodley Pike Hike (10.7 km, Moderate)"
+    }
   }
 }

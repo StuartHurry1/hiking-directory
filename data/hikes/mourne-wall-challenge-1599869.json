@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1599869
+  },
+  "ai": {
+    "summary": "Mourne Wall Challenge is a demanding long-distance hike that follows the historic Mourne Wall around the Mourne Mountains in Northern Ireland. The route is about 59.4 km with significant elevation and variable weather, requiring good endurance and solid navigation. This guide covers terrain, safety notes, gear, and the best time to go.",
+    "terrain_summary": "Expect rocky granite paths, sections along the Mourne Wall, steep ascents and descents, peat bog and open moorland, heather, and occasional river crossings. The terrain is exposed and can be slippery when wet; fog or wind can reduce visibility. Navigation is important as you cross remote stretches.",
+    "safety_notes": "Weather in the Mournes can change quickly. Always check a reliable forecast before starting and be prepared for cold, wind, rain, and mist at any time. The route has remote sections with limited mobile signal, so tell someone your plan and estimated finish time. Start early to ensure daylight for the return. Carry sufficient food, water, and a means to call for help. If fatigue or bad weather set in, turn back. Carry a first aid kit and know basic wilderness first aid. Stay hydrated, watch for signs of hypothermia, and avoid solo attempts if you are not experienced.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing including base layer, insulating mid layer, and waterproof outer layer",
+      "Waterproof and windproof jacket and pants",
+      "Hat and gloves",
+      "Map and compass (and optional GPS)",
+      "Headlamp with extra batteries",
+      "Whistle and basic first aid kit",
+      "Sufficient food and 2-3 liters of water (plus water purification method)",
+      "Emergency bivvy or space blanket and a compact rain tarp",
+      "Rucksack with rain cover and good support",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn is best, typically May to September, for longer daylight and more stable weather. Summer offers the most daylight; spring can be damp but scenic; autumn may bring showers and variable conditions. Winter climbs are not recommended for most hikers.",
+    "seo": {
+      "title": "Mourne Wall Challenge: 59.4 km Hard Hike in the Mourne Mountains, Northern Ireland",
+      "meta_description": "Plan your Mourne Wall Challenge, a 59.4 km hard hike around the Mourne Mountains in Northern Ireland. Learn about terrain, safety, gear, best seasons, and route tips.",
+      "h1": "Mourne Wall Challenge: 59.4 km Hard Hike in Northern Ireland"
+    }
   }
 }

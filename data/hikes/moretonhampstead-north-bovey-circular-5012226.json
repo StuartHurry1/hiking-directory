@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 5012226
+  },
+  "ai": {
+    "summary": "A scenic 12.4 km circular hike beginning near Moretonhampstead and looping via North Bovey. The route combines open moorland, hedged lanes, woodland edges, and occasional farmland sections. It’s suitable for walkers with moderate fitness and some navigation experience, featuring a mix of gentle ascents and steady undulation with several gates and crossings.",
+    "terrain_summary": "Mixed terrain: grassy tracks, stony paths, and occasional boggy moorland. Expect exposed open sections, short climbs, and muddy stretches after rain. Some farm tracks and gates, with cattle grids in parts. Footing can be uneven; waterproof boots and layers are advised.",
+    "safety_notes": "Dartmoor weather can change quickly; check forecasts and plan for wind and rain. Stay on waymarked paths, carry a map and compass even if using a GPS. Wear waterproof clothing and sturdy boots; bring warm layers and sun protection. Bring enough water and food; let someone know your route and expected return. Be mindful of livestock, cattle grids, and boggy patches; avoid risky crossings in wet conditions. Keep to creeks and streams; watch footing near rocky sections.",
+    "recommended_gear": [
+      "Waterproof jacket and trousers",
+      "Layered clothing (base layer, fleece/insulation, windproof layer)",
+      "Sturdy waterproof hiking boots",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone and power bank",
+      "Water and high-energy snacks",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "First aid kit",
+      "Emergency whistle",
+      "Head torch (in case of delays or late arrival)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this circular route; it is doable year-round with proper gear and careful navigation, but winter conditions can be more challenging.",
+    "seo": {
+      "title": "Moretonhampstead North Bovey Circular Walk – 12.4 km, Moderate Difficulty",
+      "meta_description": "Explore the Moretonhampstead North Bovey Circular, a 12.4 km moderate hike through Dartmoor landscapes with open moorland, hedged lanes, and woodland edges. Tips on safety and gear included.",
+      "h1": "Moretonhampstead North Bovey Circular Walk (12.4 km)"
+    }
   }
 }

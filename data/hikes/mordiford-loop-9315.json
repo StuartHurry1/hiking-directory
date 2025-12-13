@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9315
+  },
+  "ai": {
+    "summary": "A challenging 17.8 km circular hike around Mordiford in the UK, weaving along riverbanks, farmland tracks, and shaded lanes. Expect some steep sections and uneven surfaces; suitable for experienced hikers with good navigation and robust footwear.",
+    "terrain_summary": "Mixed terrain: riverside paths, chalk lanes, grassy fields, woodland tracks, and occasional stiles. Ground can be uneven, with mud after rain and short steep ascents. Open sections offer long views.",
+    "safety_notes": "Carry a map and compass or reliable offline navigation; check weather and dress in layers; wear sturdy waterproof boots. Some sections are exposed to wind and sun. Watch for livestock on farmland and respect access rights; paths may be poorly signposted in places, so bring a navigation aid. Start with ample daylight; carry water and snacks; be prepared for sudden rain and cold near the river.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map and compass or reliable offline navigation",
+      "Water and snacks (2–3 L depending on conditions)",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent in summer",
+      "Headlamp or flashlight for potential low light",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best weather and daylight for this 17.8 km circuit. Winter hikes are possible with proper gear but can be muddy and more demanding.",
+    "seo": {
+      "title": "Mordiford Loop Hike – 17.8 km Hard Circular Walk in the UK",
+      "meta_description": "Explore the Mordiford Loop, a 17.8 km challenging circular hike in the UK. Mixed terrain, river scenery, and woodland with practical safety tips and gear guidance.",
+      "h1": "Mordiford Loop – 17.8 km Hard Circular Hike in the UK"
+    }
   }
 }

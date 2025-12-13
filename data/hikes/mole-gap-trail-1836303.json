@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 1836303
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike on the Mole Gap Trail in the UK. Covering 23.9 km with significant elevation, rugged terrain, and changing weather. Designed for experienced hikers who are comfortable with navigation and endurance.",
+    "terrain_summary": "The route features steep climbs, uneven rocky sections, grassy moorland, mud and puddles after rain, and exposed viewpoints. Expect gates, fence crossings, and potential boggy ground; path quality can vary with weather and season.",
+    "safety_notes": "Plan for a full day or more; check weather and daylight; carry map and compass or a GPS device; stay on marked paths; bring sufficient water and high-energy food; wear sturdy waterproof footwear; be prepared for mud, wet hands, and slippery surfaces; mobile service may be unreliable in remote sections; inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Warm layers",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "High-energy snacks and meals",
+      "Headlamp or flashlight",
+      "Trekking poles",
+      "First aid kit",
+      "Emergency blanket or bivy sack",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Gloves (season dependent)",
+      "Dry bag or waterproof pouch",
+      "Multi-tool/knife",
+      "Whistle",
+      "Charged phone with offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October) in the UK; shoulder seasons can be challenging due to variable weather.",
+    "seo": {
+      "title": "Mole Gap Trail – 23.9 km Hard Hike in the UK",
+      "meta_description": "Discover the Mole Gap Trail, a challenging 23.9 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for this rugged route.",
+      "h1": "Mole Gap Trail – 23.9 km Hard Hike in the UK"
+    }
   }
 }

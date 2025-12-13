@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 917588
+  },
+  "ai": {
+    "summary": "A demanding long-distance trek on Mourne Way, a 69.2 km route through rugged uplands in the UK. Designed for experienced hikers, this multi-day journey combines steep climbs, exposed ridgelines, and variable weather. Plan for several days and ample time for navigation and rest breaks.",
+    "terrain_summary": "Rugged mountain terrain with rocky paths, peat bogs, exposed summits, and potential scree. Expect steep ascents and descents, uneven footing, and occasional water crossings. Weather can shift quickly; navigation and route-finding are important.",
+    "safety_notes": "Check weather forecasts and daylight hours before starting. Tell someone your planned route and expected return. Carry maps and a compass as your primary navigation tools; avoid relying on phone signal. Bring a waterproof shell, insulating layers, food and water, and an emergency shelter. Start early to maximize daylight, hike with a partner if possible, and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Map and compass",
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating layers (fleece or down)",
+      "Base layer thermal top and bottom",
+      "Water for hydration (2–3 liters) and water treatment",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Lightweight shelter or tarp",
+      "Trekking poles",
+      "Sunscreen and sunglasses",
+      "Whistle",
+      "Personal locator beacon (optional)"
+    ],
+    "best_seasons": "Spring to autumn are generally best for the Mourne Way, roughly May to September, with longer days and more stable weather. Summer offers the most daylight and clearer views; autumn provides pleasant colors. Winter hiking is possible for experienced hikers with proper gear and careful planning, but conditions can be severe and daylight is limited.",
+    "seo": {
+      "title": "Mourne Way: 69.2 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore Mourne Way, a challenging 69.2 km long-distance trail in the UK. Learn about terrain, safety tips, gear, and best seasons for this demanding route.",
+      "h1": "Mourne Way — 69.2 km Hard-Distance Hike in the UK"
+    }
   }
 }

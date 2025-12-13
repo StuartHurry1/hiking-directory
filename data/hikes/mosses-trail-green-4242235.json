@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 4242235
+  },
+  "ai": {
+    "summary": "Mosses Trail Green is a short, easy 4.3 km hike in the UK, offering a gentle stroll through moss-friendly woodland. Suitable for beginners and families, with light elevation and well-marked paths.",
+    "terrain_summary": "Predominantly well-maintained forest paths with gentle ascents. Expect damp, moss-covered sections and occasional roots near the trail edges; some stretches may be uneven.",
+    "safety_notes": "General safety: wear sturdy footwear and use the marked trails. Check the weather and daylight hours before you go; inform someone of your plan. In damp conditions moss can be slippery, so take care on shaded sections and watch for roots and uneven ground. Bring water, a small first aid kit, and a phone with emergency contacts; follow local guidance on dogs and wildlife.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and a light snack",
+      "Map or offline GPS / trail app",
+      "Small first aid kit",
+      "Sun protection: hat and sunscreen",
+      "Phone with emergency battery"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter hiking is possible with proper gear but may be muddy or icy.",
+    "seo": {
+      "title": "Mosses Trail Green – Easy 4.3 km Hike in the UK",
+      "meta_description": "Discover Mosses Trail Green, an easy 4.3 km hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for a family-friendly outdoor walk.",
+      "h1": "Mosses Trail Green: An Easy 4.3 km Hike in the UK"
+    }
   }
 }

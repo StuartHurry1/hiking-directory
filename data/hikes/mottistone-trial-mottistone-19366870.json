@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19366870
+  },
+  "ai": {
+    "summary": "A challenging 18 km hike around Mottistone in the UK, designed for experienced walkers seeking a strenuous day of varied terrain, steady elevation, and rewarding views.",
+    "terrain_summary": "The route includes well-maintained country paths, woodland tracks, grassy slopes, and occasional rocky or uneven sections. Expect steep ascents, exposed sections in open fields, and possible mud after rain. Navigation is generally straightforward on a signed route, but bringing a map or GPS is advised.",
+    "safety_notes": "This is a hard 18 km hike with significant elevation changes. Check the weather forecast and avoid very windy or icy days. Wear sturdy boots, have enough water, and start with a full battery for devices. Inform someone of your planned route and return time. Carry a map and compass or GPS, and be prepared for sudden weather changes, limited mobile reception in remote sections, and mud or slippery surfaces on woodland and field edges.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Map and compass or GPS device; fully charged",
+      "Water (2–3 liters) and high-energy snacks",
+      "Hat, sunglasses, and sunscreen",
+      "Lightweight backpack to carry essentials",
+      "Small first aid kit and emergency whistle",
+      "Phone with full charge; power bank",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; late spring to early autumn offers the best daylight and drier trails. Winter hikes are possible but tend to be colder, wetter, and more exposed.",
+    "seo": {
+      "title": "Mottistone Trial Hike (18 km) – Hard UK Trail Guide",
+      "meta_description": "Plan your 18 km hard hike on the Mottistone Trial. Learn about terrain, safety tips, essential gear, and the best seasons for this challenging UK trek.",
+      "h1": "Mottistone Trial, Mottistone – 18 km Hard Hike"
+    }
   }
 }

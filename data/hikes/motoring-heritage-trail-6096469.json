@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 6096469
+  },
+  "ai": {
+    "summary": "An easy 2.2 km trail in the UK that highlights automotive history with interpretive displays along a gentle route suitable for most walkers.",
+    "terrain_summary": "Mostly flat and well-maintained paths with compact gravel and pavement. Some curb crossings and exposed surfaces may occur; suitable for families and strollers on stroller-friendly sections.",
+    "safety_notes": "Stay on designated paths and follow any posted guidance. Be cautious at street or exhibit area crossings, check the weather and daylight hours, wear sturdy footwear, bring water, and supervise children closely at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Sun protection (hat and sunscreen)",
+      "Camera or smartphone for photos",
+      "Map or offline navigation (if signage is limited)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) usually offers the most comfortable walking conditions in the UK, with longer daylight hours and milder weather.",
+    "seo": {
+      "title": "Motoring Heritage Trail - Easy 2.2 km UK Walk",
+      "meta_description": "Discover the Motoring Heritage Trail, a 2.2 km easy walk in the UK that celebrates automotive history through interpretive displays on a gentle route suitable for families and casual hikers.",
+      "h1": "Motoring Heritage Trail – Easy 2.2 km UK Walk"
+    }
   }
 }

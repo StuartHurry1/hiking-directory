@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1120852
+  },
+  "ai": {
+    "summary": "Moyle Way is a challenging long-distance hike in the United Kingdom, covering 102.8 km at a hard difficulty. The route traverses varied landscapes and remote sections, requiring careful planning, conditioning, and navigation.",
+    "terrain_summary": "The trail combines muddy forest tracks, grassy moorland, open ridges, and rocky paths. Expect significant elevation changes, uneven footing, and seasonal weather that can affect trail conditions. Navigation is generally straightforward on established sections, but some parts may be remote and poorly marked.",
+    "safety_notes": "Plan the hike as a multi-day trek with realistic daily distances and a contingency for bad weather. UK weather is notoriously changeable, so pack layers, waterproofs, a hat and sun protection. Bring a detailed map and compass or a reliable GPS device, and know how to use them. Tell someone your itinerary and check in when possible; carry a charged phone with offline maps as a backup. Wear sturdy, waterproof hiking boots and carry sufficient water and high-energy food. Include a first aid kit, a headlamp with extra batteries, a whistle, and a space blanket or emergency bivy. In remote sections consider a satellite messenger or similar device. Turn back if conditions deteriorate or fatigue becomes unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and layered clothing",
+      "Backpack with rain cover",
+      "Map and compass (or GPS with offline maps)",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system and water purification method",
+      "High-energy snacks and meals",
+      "First aid kit and personal medications",
+      "Emergency whistle and space blanket or bivy",
+      "Trekking poles (optional)",
+      "Sun protection (sunscreen, sunglasses, hat)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September)",
+    "seo": {
+      "title": "Moyle Way: 102.8 km Hard-Distance Trek in the UK",
+      "meta_description": "Discover Moyle Way, a demanding 102.8 km hike in the United Kingdom. Get terrain overview, safety tips, gear recommendations, and the best season to hike this challenging route.",
+      "h1": "Moyle Way – 102.8 km Hard-Distance Trek in the UK"
+    }
   }
 }

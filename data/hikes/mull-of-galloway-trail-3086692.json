@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3086692
+  },
+  "ai": {
+    "summary": "The Mull of Galloway Trail is a challenging 58.7 km coastal long-distance route in the UK. It follows rugged sea cliffs and grassy headlands around the Rhins of Galloway, delivering remote sections, panoramic coastal views, and a physically demanding undertaking for experienced hikers.",
+    "terrain_summary": "Primarily coastal cliff paths and grassy tracks with occasional farm lanes and short road sections. Ground ranges from firm, compact trails to rocky footing, with some boggy patches after rain. The route is exposed to wind and sea spray; footing can be uneven and stile/gate crossings are common.",
+    "safety_notes": "Remote coastal terrain with rapidly changing weather. Prepare for strong winds, rain, and cold; daylight can be limited in shoulder seasons. Plan for 2–3 days or a strenuous full-day hike, depending on pace. Inform someone of your itinerary, carry a map and navigation tools, and be aware mobile signal may be limited in remote sections. Stay clear of unstable cliff edges, check weather conditions, and carry sufficient water and food.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket and pants)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "High-energy snacks and meals",
+      "First aid kit",
+      "Whistle",
+      "Mobile phone with offline maps (signal may be limited)",
+      "Emergency bivy or space blanket",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Lightweight rain cover or pack liner",
+      "Camera/binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Mull of Galloway Trail – 58.7 km Coastal Hike in the UK",
+      "meta_description": "Explore the Mull of Galloway Trail, a hard 58.7 km coastal hike in the UK. Get terrain insights, safety tips, gear lists, and the best seasons for this remote coastal route.",
+      "h1": "Mull of Galloway Trail – 58.7 km Coastal Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19612181
+  },
+  "ai": {
+    "summary": "A 7.4 km coastal nature trail at Murlough North Point in the UK, offering dune landscapes, shoreline views, and diverse habitats. The route is of moderate difficulty and suits hikers with some experience, featuring a mix of boardwalks, compact paths, and sandy sections along the coastline.",
+    "terrain_summary": "Combines coastal paths, dune boardwalks, sandy tracks, and grassy sections. Expect uneven surfaces, soft sand in dunes, occasional steps, and exposure to wind and spray near the shore. Elevation changes are gentle to moderate with potential muddy patches after rain.",
+    "safety_notes": "Check tide times and weather before setting out. Stay on marked paths to protect dune habitats and avoid fragile areas. Wear sturdy footwear and dress in layers; coastal winds can be strong. Carry enough water and snacks, a map or offline route, and a fully charged phone. Be mindful of wildlife and respect posted access rules; dogs may be restricted in certain areas. Inform someone of your plans and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Waterproof jacket and layered clothing",
+      "Wide-brim hat and sunglasses",
+      "Sunscreen",
+      "Water (1–2 liters) and lightweight snacks",
+      "Map or offline route on your phone with GPS",
+      "Small backpack",
+      "Mobile phone with emergency contacts",
+      "Insect repellent",
+      "Windproof layer",
+      "Optional: binoculars for wildlife viewing"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best weather and daylight for this coastal trail. It is still hikeable in winter, but conditions can be windy, wet, and daylight limited.",
+    "seo": {
+      "title": "Murlough North Point Nature Trail — 7.4 km Moderate Coastal Hike (UK)",
+      "meta_description": "Explore the Murlough North Point Nature Trail, a 7.4 km coastal hike through dunes and shoreline in the UK. Learn terrain, safety tips, and essential gear for this moderate coastal walk.",
+      "h1": "Murlough North Point Nature Trail — 7.4 km Coastal Hike"
+    }
   }
 }

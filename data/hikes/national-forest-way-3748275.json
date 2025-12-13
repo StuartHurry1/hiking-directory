@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 3748275
+  },
+  "ai": {
+    "summary": "The National Forest Way is a challenging long-distance hike in the United Kingdom, extending 311.8 km through mixed forested landscapes. The route is classified hard and is best undertaken by experienced hikers with careful multi-day planning. It traverses rolling woodlands, wetlands, and occasional open terrain, requiring stamina for sustained miles and variable conditions.",
+    "terrain_summary": "Predominantly forest tracks and woodland paths, with some moorland edges and occasional river crossings. Elevation changes are gradual but include several steep ascents and descents. Expect uneven footing, mud after rain, and seasonal boggy ground. Some sections are remote with limited access to services.",
+    "safety_notes": "Plan your trip with up-to-date maps and a navigation method; check weather forecasts and daylight hours; inform someone of your itinerary; carry a fully charged phone with offline maps and a backup navigation method; pack for multi-day conditions; ensure you can treat water and manage food supply; monitor fatigue and turn back if needed; be prepared for remote stretches with limited rescue access.",
+    "recommended_gear": [
+      "Durable backpack (40–60 L)",
+      "Waterproof jacket and pants",
+      "Hiking boots or sturdy trail shoes",
+      "Map and compass (or GPS device) with backup battery",
+      "Headlamp or flashlight with extra batteries",
+      "Multi-day food supply and a method to purify water",
+      "First aid kit and personal medications",
+      "Emergency bivy or space blanket",
+      "Extra warm layers and socks",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Trekking poles",
+      "Insect repellent and basic personal care",
+      "Identification and emergency contact info",
+      "Whistle"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best daylight, trail conditions, and accessibility. Winter hiking can be more demanding due to weather, navigation challenges, and reduced daylight.",
+    "seo": {
+      "title": "National Forest Way — 311.8 km UK Forest Hike (Hard)",
+      "meta_description": "Plan your trek on the National Forest Way, a 311.8 km hard-distance hike through UK forests. Learn terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "National Forest Way — 311.8 km of forest hiking in the UK"
+    }
   }
 }

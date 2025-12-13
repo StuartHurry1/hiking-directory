@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15975016
+  },
+  "ai": {
+    "summary": "MST27 is a short, easy 0.8 km hike in the UK designed for beginners and families. The route offers a gentle stroll on flat paths with light scenery, making it a good option for a quick outdoor outing or a practice walk.",
+    "terrain_summary": "Flat, well-maintained footpaths with occasional grassy or gravel sections. Expect some damp patches after rain; surfaces can be uneven near hedges or tree roots.",
+    "safety_notes": "Check the weather forecast before you go and dress in layers; wear sturdy footwear with good grip. Stay on marked paths and follow any local signs; be mindful of other walkers, cyclists, and livestock if the route passes through fields. Bring a charged mobile phone and a small amount of water; tell someone your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Layers for UK weather",
+      "Phone with offline map or route saved",
+      "Snack"
+    ],
+    "best_seasons": "All year round with appropriate clothing; spring and summer are most comfortable, autumn offers milder weather, and winter hikes require waterproof gear and warm layers.",
+    "seo": {
+      "title": "MST27: Easy 0.8 km Hike in the UK (Beginner Friendly)",
+      "meta_description": "Discover MST27, an easy 0.8 km hike in the UK. Flat terrain, minimal elevation gain, perfect for beginners and families. Includes safety tips and gear list.",
+      "h1": "MST27 – Easy 0.8 km UK Hike"
+    }
   }
 }

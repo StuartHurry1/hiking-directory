@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1518176
+  },
+  "ai": {
+    "summary": "The Millennium Way (Warks) is a challenging long-distance hike in the UK, spanning about 697.5 km. Designed for experienced walkers, it traverses a mix of rural countryside, farmland, woodlands, and small towns in a largely undulating landscape. Given the distance and hard difficulty, most people tackle it in stage-based trips over weeks or months. Expect variable weather, long days in summer, and sections with stiles, farm tracks, and occasional road crossings. This route rewards steady pace, good navigation, and careful planning.",
+    "terrain_summary": "Terrain varies from well-made country lanes to rough farm tracks, muddy footpaths, wooded single-track, and occasional grassy moorland sections. Expect uneven surfaces, roots, and occasional steep segments; some sections are exposed to wind on open farmland. Navigation relies on a reliable map and waymarks; distances between services can be long.",
+    "safety_notes": "Plan for a multi-day expedition with reliable route planning and accommodation or camping options along the way. Tell someone your plan and check in regularly. Carry a map and compass as primary navigation tools; don't rely solely on phone GPS. Be prepared for weather changes, as UK conditions can be unpredictable. Stay hydrated, bring extra food, and have appropriate clothing for cold, wet, and windy conditions. Take care on farm tracks and road crossings; watch for livestock and traffic. Some sections may have limited cell coverage; carry a whistle and emergency beacon if available. Start early to ensure daylight, especially in autumn/winter. Know your limits and arrange resupply or contingencies if fatigue or injury occur.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproofs, hat, gloves)",
+      "Map and compass (and GPS as backup)",
+      "Hydration system (2–3 liters) and high-energy snacks",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Survival or emergency blanket",
+      "Whistle",
+      "Multi-tool or knife",
+      "Mobile phone with offline maps and power bank",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "High-visibility clothing for road sections",
+      "Wet-weather gear and spare socks"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) generally offers the best combination of daylight and milder weather; autumn can be pleasant but wetter, and winter travel is more challenging due to shorter days and tougher conditions.",
+    "seo": {
+      "title": "Millennium Way (Warks) – 697.5 km Hard UK Trail Guide",
+      "meta_description": "Discover the Millennium Way (Warks): a demanding 697.5 km long-distance trail in the UK. This guide covers route overview, terrain, safety, gear, and the best seasons for tackling the hike.",
+      "h1": "Millennium Way (Warks) – UK Long-Distance Trail"
+    }
   }
 }

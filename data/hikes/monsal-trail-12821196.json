@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 12821196
+  },
+  "ai": {
+    "summary": "Monsal Trail is a long-distance, multi-use route in the UK that follows a former railway line through limestone valleys. The 29.3 km route offers scenic views and several atmospheric tunnels, making it a rewarding challenge for hikers seeking a sustained day out in the countryside.",
+    "terrain_summary": "Mostly flat to gently graded surfaced path suitable for walkers and cyclists, though the length makes it strenuous for some. Expect a mix of tarmac and compact gravel, with gentle ascents near tunnels and some muddy sections after rain. Several dark tunnels require lights and careful navigation, and the route passes along exposed limestone escarpments with open and shaded sections.",
+    "safety_notes": "Carry a reliable light for tunnels; stay visible and give way to others; keep to the left and pass with care; check for closures or seasonal restrictions; weather can change rapidly, so bring layers and rain protection; stay hydrated; be aware that mobile signal can be limited in remote sections; supervise children and dogs closely around tunnels and on busy stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Headlamp or bike lights for tunnel sections",
+      "Map, guidebook, or offline route app",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Phone with emergency contact information",
+      "Lightweight rain cover or poncho",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn is best for longer daylight and drier conditions; summer offers the most daylight but can be busy; winter hiking is possible with careful planning but weather, mud, and shorter days can be challenging.",
+    "seo": {
+      "title": "Monsal Trail Hiking Guide — 29.3 km UK Route through Tunnels and Dales",
+      "meta_description": "Plan your Monsal Trail hike: a 29.3 km route in the UK along a historic railway. Flat terrain, limestone dales, and atmospheric tunnels make this a memorable long-distance day out.",
+      "h1": "Monsal Trail: 29.3 km Long-Distance Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19859312
+  },
+  "ai": {
+    "summary": "A short, easy 3.5 km loop along the Miner’s Way trail at Dolaucothi, suitable for beginners and families, offering scenic countryside views and a touch of industrial history.",
+    "terrain_summary": "Flat to gently rolling paths with grassy tracks, compact soil, and occasional uneven ground. Expect muddy patches after rain and some rocky or root-covered sections.",
+    "safety_notes": "Stay on marked trails and wear sturdy footwear. Watch for uneven ground, roots, and exposed rocks. Be cautious near old mine workings and ensure children stay close. Bring water, check the weather forecast, and carry a map or GPS.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or offline GPS",
+      "Snack",
+      "Phone with emergency contacts",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring through autumn when daylight is longer and paths are drier. Summer is good for visibility, while winter visits can be muddy and windy.",
+    "seo": {
+      "title": "Miner’s Way Trail at Dolaucothi – 3.5 km Easy Hike in the UK",
+      "meta_description": "Discover the easy 3.5 km Miner’s Way trail at Dolaucothi. A family-friendly hike in the UK with gentle terrain, seasonal scenery, and a glimpse of mining history.",
+      "h1": "Miner’s Way Trail at Dolaucothi (3.5 km) — Easy UK Hike"
+    }
   }
 }

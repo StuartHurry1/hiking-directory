@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15054865
+  },
+  "ai": {
+    "summary": "An easy 4.8 km woodland walk along the Morgaston Woods Yellow Route within The Vyne estate. The route offers gentle terrain, shaded woodland, and open parkland, making it suitable for beginners and families.",
+    "terrain_summary": "Primarily flat to gently undulating woodland paths with surfaces ranging from packed earth to gravel. Expect occasional roots, damp or muddy sections after rain, and some open grassy patches. Trails are generally well-marked.",
+    "safety_notes": "Stay on marked paths and follow route markers. Wear sturdy footwear and bring weather-appropriate clothing. Check daylight and weather conditions, carry water, and be mindful of other users (cyclists, families). Respect wildlife and keep noise to a minimum.",
+    "recommended_gear": [
+      "Water",
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket or rain shell",
+      "Map, GPS, or offline route guide",
+      "Sun protection (hat, sunscreen)",
+      "Snack or energy bar",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Morgaston Woods Yellow Route, The Vyne – Easy 4.8 km Woodland Walk (UK)",
+      "meta_description": "Discover the Morgaston Woods Yellow Route at The Vyne. An easy 4.8 km woodland walk in the UK featuring tranquil woods, gentle terrain, practical safety tips, and gear suggestions.",
+      "h1": "Morgaston Woods Yellow Route, The Vyne – Easy 4.8 km Walk"
+    }
   }
 }

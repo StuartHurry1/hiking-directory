@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 549992
+  },
+  "ai": {
+    "summary": "Mowbray Way is a challenging long-distance hike in the UK, covering about 39.1 km. The route traverses varied countryside and rural paths, demanding fitness, navigational awareness, and sturdy gear.",
+    "terrain_summary": "Mixed terrain: rural tracks, field edges, hedges, and occasional gentle to steep ascents. Expect muddy sections after rain, stiles, and exposed sections in high winds.",
+    "safety_notes": "Plan around daylight hours and weather; carry a map and compass (or GPS); let someone know your route and expected finish time; wear sturdy boots and clothing appropriate for the conditions; stay hydrated and carry extra food and an emergency plan.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket",
+      "Warm layers and hat/gloves",
+      "Map and compass (or GPS)",
+      "Fully charged phone",
+      "Water (2–3 L) and high-energy snacks",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October); winter can be tough with limited daylight and more severe weather.",
+    "seo": {
+      "title": "Mowbray Way Hike – 39.1 km Hard Route in the UK",
+      "meta_description": "Plan your Mowbray Way hike, a 39.1 km challenging long-distance route in the UK. Learn about terrain, safety tips, best seasons, and recommended gear.",
+      "h1": "Mowbray Way – 39.1 km Hard Hike in the UK"
+    }
   }
 }

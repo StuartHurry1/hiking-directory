@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 11480255
+  },
+  "ai": {
+    "summary": "A short, easy 3.2 km hike in the UK suitable for beginners and casual walkers. The route offers a relaxed pace and accessible terrain, making it a quick outdoor outing with opportunities to enjoy coastal views.",
+    "terrain_summary": "Mostly well-maintained coastal paths with gentle gradients. Flat to gently undulating terrain, occasional rocky or uneven sections, and some exposure to sea winds. Expect scenic sea views and open horizons.",
+    "safety_notes": "Check local tide times if the route follows the shoreline. Weather in the UK can change quickly—dress in layers and wear a waterproof jacket. Wear sturdy footwear, stay on marked paths, watch for uneven ground or slippery sections, and carry a small first aid kit and water.",
+    "recommended_gear": [
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Map or GPS device",
+      "Phone with emergency contacts",
+      "Small daypack",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October)",
+    "seo": {
+      "title": "Mousa Hike – Easy 3.2 km Coastal Walk in the UK",
+      "meta_description": "Enjoy an easy 3.2 km hike on Mousa in the UK. A beginner-friendly coastal walk with gentle terrain, scenic sea views, and quick outdoor escape.",
+      "h1": "Mousa – Easy 3.2 km Hike in the UK"
+    }
   }
 }

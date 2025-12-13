@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 85905
+  },
+  "ai": {
+    "summary": "The Mortimer Trail is a hard, 224.2 km long-distance route in the UK designed for experienced hikers. The trek runs through varied countryside on multi-day itineraries, with notable elevation gains and remote sections where services are limited.",
+    "terrain_summary": "Expect mixed terrain: quiet country lanes, hedgerows and farmland, woodlands, open moorland, and some rocky or uneven paths. Long sections between settlements mean navigation and resilience are important, and weather can be unpredictable.",
+    "safety_notes": "This is a demanding, multi-day route with remote stretches. Prepare thoroughly: carry a detailed map and compass and know how to use them, check up-to-date weather forecasts, and plan daily distances that suit your pace. Tell someone your itinerary and expected return, and carry a means to contact or signal for help. Pack appropriate clothing for cold, wet, and windy conditions, sufficient food and water, a first-aid kit, emergency shelter or bivvy, and a whistle. Stay on marked paths where possible, keep to daylight hours, and have contingency plans for sudden weather changes or injury.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Layered clothing system (base layer, insulation, outer shell)",
+      "Waterproof jacket and pants",
+      "Backpack with rain cover",
+      "Hydration system or 2–3 litres of water per day",
+      "High-energy food and snacks",
+      "Map and compass (with GPS as backup) and spare batteries",
+      "Headlamp with extra batteries",
+      "First-aid kit",
+      "Whistle and emergency blanket or bivvy",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but helpful for rough terrain)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September).",
+    "seo": {
+      "title": "Mortimer Trail: 224.2 km Hard UK Hike Guide",
+      "meta_description": "Plan your trek along the Mortimer Trail in the UK. A 224.2 km challenging route for experienced hikers with terrain variety, safety tips, and gear recommendations.",
+      "h1": "Mortimer Trail – 224.2 km Hard UK Hike"
+    }
   }
 }

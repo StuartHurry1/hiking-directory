@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 1754599
+  },
+  "ai": {
+    "summary": "The Moray Coast Trail is a strenuous long-distance hike along the UK’s northern coast, covering about 195 km. It threads coastal scenery and small communities, delivering rugged sea cliffs, beaches, and ever-changing weather. The route challenges endurance with exposed sections and uneven terrain, but rewards walkers with dramatic coastal vistas and a strong sense of wilderness.",
+    "terrain_summary": "Mixed coastal terrain including cliff-top paths, rocky shorelines, pebbly beaches, drier upland moorland, and occasional boardwalks through wetlands. Expect uneven footing, wet or muddy sections after rain, and sections where tide or wind can affect progress. Navigation is important in remote stretches, as trails can be poorly marked in places.",
+    "safety_notes": "Weather in the UK is highly variable; plan for sudden rain, strong winds, and temperature changes. Check tide times before beach sections and know your escape routes in case of rising water. Wear sturdy footwear with good grip and carry waterproofs. Carry a detailed map and compass or a GPS device, and keep a charged phone and power bank. Tell someone your planned route and expected times; bring a small first aid kit with blister care; bring enough water and high-energy food for long sections with few refilling points. In remote coastal areas stay alert for wildlife and loose rock; have a plan for getting help if needed and consider shorter day-length options in winter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weatherproof jacket and waterproof pants",
+      "Layered clothing for warmth and wind protection",
+      "Backpack with rain cover",
+      "Map and compass or GPS device (and know how to use them)",
+      "Fully charged phone with offline maps and a power bank",
+      "Water supply (2–3 liters) and lightweight water purification options",
+      "High-energy snacks and meals for long days",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit with blister care and personal medications",
+      "Emergency bivy or space blanket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Insect repellent",
+      "Whistle and signaling device",
+      "Trekking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "May–September typically offers the best weather and daylight for the Moray Coast Trail. Shoulder seasons can also be rewarding but weather remains variable; winter hiking is difficult and generally not recommended for most hikers.",
+    "seo": {
+      "title": "Moray Coast Trail – 195 km Coastal Trek in the UK",
+      "meta_description": "Explore the Moray Coast Trail, a challenging 195 km coastal hike in the UK. Learn about terrain, safety, gear, and the best seasons for this hard-distance coastal trek.",
+      "h1": "Moray Coast Trail: A 195 km Coastal Trek in the UK"
+    }
   }
 }

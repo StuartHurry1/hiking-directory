@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 15093867
+  },
+  "ai": {
+    "summary": "Milton Keynes Boundary Walk is a demanding 202-kilometre loop that traces the outer edge of Milton Keynes and its surrounding countryside. The route combines urban fringe paths, quiet lanes, farmland, woodlands and nature reserves, requiring solid navigation and endurance. Depending on pace, completing the walk typically spans multiple days, with a mix of long road sections and more rugged trails.",
+    "terrain_summary": "Varied terrain: urban fringe streets and country lanes, farm tracks, grassy field margins, woodland paths, and damp, muddy sections after rain. Surface quality ranges from smooth tarmac to uneven footing; expect gates and stiles, occasional water features, and some remote stretches with limited amenities.",
+    "safety_notes": "Plan thoroughly with weather and daylight in mind; carry a map and compass as backups to GPS. Let someone know your plan and expected finish times. Be prepared for remote sections with limited mobile coverage, carry sufficient water and food, and wear sturdy boots. Take care at road crossings, watch for livestock on farmland, and adjust pace to conditions. Respect private land and obey gate closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves)",
+      "Backpack with a rain cover",
+      "Map and compass (GPS as backup)",
+      "Water bottle or hydration bladder and extra water",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle and basic emergency gear",
+      "Sunscreen and insect repellent",
+      "Trekking poles (optional but helpful)",
+      "Spare clothing and warm layer",
+      "Mobile phone with portable charger",
+      "Personal identification and emergency contact card"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) in the UK; winter hiking is possible but shorter daylight and harsher weather increase risk.",
+    "seo": {
+      "title": "Milton Keynes Boundary Walk – 202 km Hard UK Long-Distance Hike",
+      "meta_description": "Explore the 202 km Milton Keynes Boundary Walk, a challenging loop around Milton Keynes, UK. Find terrain details, safety tips, gear suggestions and best seasons for this demanding route.",
+      "h1": "Milton Keynes Boundary Walk (202 km) – Hard-Distance Hike"
+    }
   }
 }

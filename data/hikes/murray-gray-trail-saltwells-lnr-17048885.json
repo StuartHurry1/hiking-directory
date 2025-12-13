@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17048885
+  },
+  "ai": {
+    "summary": "A 6.8 km moderate hike on the Murray Gray Trail at Saltwells Local Nature Reserve in the UK. The route traverses a mix of woodland, open scrub, and compacted paths with some uneven sections and gentle elevation changes.",
+    "terrain_summary": "Mixed terrain typical of urban nature reserves: compacted paths, gravel sections, and woodland trails. Expect occasional uneven ground, damp or muddy patches after rain, and gentle slopes.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy footwear and clothing suitable for changing conditions. Stay on marked paths, watch for other hikers and cyclists, and carry a map or GPS. Bring water, snacks, a small first aid kit, sun protection in warm weather, and a light rain jacket. Mobile service can be patchy in parts of the reserve; know how to contact emergency services (999 in the UK) if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Water and some snacks",
+      "Map or GPS device / offline map on phone",
+      "Lightweight rain jacket",
+      "Small first aid kit",
+      "Insect repellent",
+      "Sun protection (hat, sunscreen)",
+      "Whistle and ID",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions for trail visibility and comfort; hikers can do the route year-round with appropriate clothing for winter.",
+    "seo": {
+      "title": "Murray Gray Trail (Saltwells LNR) – 6.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.8 km Murray Gray Trail at Saltwells Local Nature Reserve in the UK. A moderate hike featuring woodland, open terrain, and varied surfaces.",
+      "h1": "Murray Gray Trail (Saltwells LNR) – 6.8 km Moderate Hike"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 6699301
+  },
+  "ai": {
+    "summary": "Miller's Trail is an 8.6 km moderate hike in the UK countryside. The route offers varied terrain, pleasant views, and is suitable for hikers with some experience. Expect mixed footing and gentle elevation, with opportunities to enjoy fields, woodlands, and open landscapes at a comfortable pace.",
+    "terrain_summary": "The trail combines grassy field paths, compact gravel tracks, and occasional uneven sections. Likely sections of mud after rain, with gentle to moderate climbs and some shaded woodland stretches.",
+    "safety_notes": "Weather in the UK can change abruptly. Wear sturdy boots and dress in layers; carry a waterproof layer. Stay on marked paths, bring a map or offline navigation, and let someone know your plan. Carry enough water and snacks, watch for muddy or slippery sections, and be cautious at road crossings and in areas with livestock or cyclists. Plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Backpack with water and snacks",
+      "Water bottle or hydration system",
+      "Map or offline GPS device",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Headlamp or flashlight (for late finishes)",
+      "Sunscreen and hat",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offer better daylight and drier conditions; it can be hiked in winter with extra caution and preparation.",
+    "seo": {
+      "title": "Miller's Trail – 8.6 km Moderate Hike in the UK",
+      "meta_description": "Explore Miller's Trail, an 8.6 km moderate hike in the UK countryside. Mixed terrain, scenic views, and a manageable pace make this a great day hike.",
+      "h1": "Miller's Trail: 8.6 km Moderate Hike in the UK"
+    }
   }
 }

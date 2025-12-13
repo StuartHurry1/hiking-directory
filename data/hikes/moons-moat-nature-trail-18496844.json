@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18496844
+  },
+  "ai": {
+    "summary": "Moon's Moat Nature Trail is a short, easy outdoor walk in the UK. At just 0.8 km, it offers a quick nature fix along a moat-side route, suitable for families and walkers of all ages.",
+    "terrain_summary": "The trail follows a well-maintained surface with gentle gradients. Expect a mix of compact earth and gravel; surfaces can become muddy after rain, and there may be exposed roots in some sections. Good footwear is advised.",
+    "safety_notes": "Stay on marked paths and supervise children near water features. Wear sturdy footwear, and be prepared for slippery conditions when wet. Bring water, know local access rules, and check weather before you go. The route is short, but conditions can change with rain.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a light snack",
+      "Light waterproof layer",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation on a phone",
+      "Small first aid kit",
+      "Insect repellent (seasonally)"
+    ],
+    "best_seasons": "All year, with spring and summer offering the most daylight and warmth; autumn can be especially pleasant for fall colors; in winter expect cooler temperatures and potential wet, muddy conditions.",
+    "seo": {
+      "title": "Moon's Moat Nature Trail – Easy 0.8 km UK Nature Walk",
+      "meta_description": "Explore Moon's Moat Nature Trail, an easy 0.8 km walk in the UK. This family-friendly route features moat-side scenery, gentle terrain, and quick access to nature.",
+      "h1": "Moon's Moat Nature Trail (0.8 km) – Easy UK Nature Walk"
+    }
   }
 }

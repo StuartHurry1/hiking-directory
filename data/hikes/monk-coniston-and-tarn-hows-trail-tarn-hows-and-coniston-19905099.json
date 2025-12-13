@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19905099
+  },
+  "ai": {
+    "summary": "A 16.3 km hard loop that links Monk Coniston with Tarn Hows, circling Coniston Water and Tarn Hows to deliver frequent lake views, rolling ascents, and varied terrain. Best suited for experienced hikers with good fitness and map-reading skills.",
+    "terrain_summary": "Varied terrain including well-worn tracks, grassy ascents, rocky sections, and occasional muddy patches. Expect stiles, small stream crossings, and some exposed areas; conditions can be slippery after rain.",
+    "safety_notes": "Plan for sudden weather changes common in the Lake District. Start early, tell someone your route, and carry a map and compass (or offline navigation). Stay on marked paths, watch your footing on wet rocks, and bring appropriate clothing and enough water and snacks for a long day. Be mindful of daylight hours when planning start/finish times.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and insulating layers",
+      "Water and high-energy snacks",
+      "Map and/or GPS device",
+      "Compass or altimeter (optional but useful)",
+      "First aid kit and whistle",
+      "Extra dry clothing and hat/gloves for colder conditions",
+      "Trekking poles (optional)",
+      "Sunscreen and sunglasses",
+      "Emergency contact charged phone with offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for drier trails and clearer views. Winter visits are possible but require careful planning due to ice, shorter daylight, and more challenging conditions.",
+    "seo": {
+      "title": "Monk Coniston and Tarn Hows Trail – 16.3 km Hard Hike in the Lake District",
+      "meta_description": "Explore the Monk Coniston and Tarn Hows Trail, a 16.3 km hard loop through the Lake District featuring Tarn Hows and Coniston. Learn route highlights, terrain, and safety tips for this challenging lakeside hike.",
+      "h1": "Monk Coniston and Tarn Hows Trail – 16.3 km Hard Loop"
+    }
   }
 }

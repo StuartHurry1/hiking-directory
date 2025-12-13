@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 20611
+  },
+  "ai": {
+    "summary": "An ultra-long-distance hike through the UK covering 3,979.5 km. Rated hard, Monarch's Way demands exceptional endurance, self-sufficiency, and thorough planning across diverse terrain.",
+    "terrain_summary": "The route comprises a mix of rural lanes, farmlands, forests, moorlands, hills, and coastal paths. Expect variable trail quality, frequent elevation changes, long road sections, and weather that can change rapidly in the UK. Unknown region constraints mean some segments may be remote with limited services.",
+    "safety_notes": "This ultra-long hike involves extremely long distances between resupply points. Carry reliable navigation and a means of communication. Inform someone of your itinerary and expected schedule. Plan around UK weather, as conditions can change quickly. Ensure you have appropriate clothing, footwear, and energy reserves. Monitor fatigue and adjust pace to avoid injury. Identify exit options in case of bad conditions. Use Leave No Trace principles. Carry a first aid kit and know basic first aid. Be prepared for wildlife, road traffic, and road crossings, and consider a buddy or support crew if possible.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Warm base layers and insulating mid-layer",
+      "Warm hat and gloves",
+      "Headlamp with spare batteries",
+      "Navigation tools (paper map, compass, and GPS device)",
+      "Water treatment (filter or purification tablets) and hydration system",
+      "High-energy food and reliable hydration",
+      "Lightweight emergency shelter or bivy sack and thermal blanket",
+      "First aid kit and blister care supplies",
+      "Personal safety gear (whistle and satellite messenger or emergency beacon)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) generally offers milder weather and longer daylight in the UK, making long-hike segments more manageable. Winter and shoulder seasons are feasible only for experienced hikers with extensive cold-weather gear and contingency plans.",
+    "seo": {
+      "title": "Monarch's Way – Ultra-Long-Distance Hike in the UK (3,979.5 km, Hard)",
+      "meta_description": "Plan for an extreme UK trek: Monarch's Way spans 3,979.5 km with hard difficulty. Unknown region. Learn terrain, safety, and gear recommendations.",
+      "h1": "Monarch's Way: UK Ultra Long-Distance Hike (3,979.5 km, Hard)"
+    }
   }
 }

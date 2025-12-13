@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18124259
+  },
+  "ai": {
+    "summary": "Milton Trail is a gentle 4 km hike in the United Kingdom, suitable for beginners and families. The route follows well-maintained paths with light undulations, making it an easy option for a short day outdoors.",
+    "terrain_summary": "The trail uses mostly compact earth and gravel paths with some grassy sections. Expect gentle slopes, occasional uneven surfaces, and regularly surfaced trails that are accessible to most footwear. After rain, surfaces can become muddy.",
+    "safety_notes": "This is an easy, family-friendly trail. Check the forecast and wear sturdy footwear. Carry water and a light layer for cooler weather. Stay on marked paths, watch for other walkers and cyclists, and be mindful of any farm animals in the area. UK weather can change quickly; surfaces can be muddy or slippery, especially after rain, so take care on uneven ground.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water and a small snack",
+      "Weather-appropriate layers and a light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation on a phone",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions typically in late spring to early autumn.",
+    "seo": {
+      "title": "Milton Trail - Easy 4 km Hike in the UK",
+      "meta_description": "Discover Milton Trail, a gentle 4 km hike in the UK suitable for beginners and families. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "Milton Trail: Easy 4 km Hike in the UK"
+    }
   }
 }

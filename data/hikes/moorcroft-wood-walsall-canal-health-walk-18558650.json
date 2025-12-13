@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18558650
+  },
+  "ai": {
+    "summary": "A gentle 2.5 km health walk combining woodland scenery in Moorcroft Wood with a tranquil stretch along the Walsall Canal. The easy route is suitable for most walkers, families, and beginners, offering flat paths and pleasant views.",
+    "terrain_summary": "Primarily flat, well-maintained paths consisting of canal towpath and woodland trails. Surfaces include compacted gravel and earth; expect occasional muddy patches after rain and narrow sections where roots may be present. Distance about 2.5 km, suitable for a relaxed stroll.",
+    "safety_notes": "Check weather and wear sturdy walking shoes. Stay on marked paths and be aware of cyclists on canal towpaths. Bring water, a light layer, and sun protection. Let someone know your plans and return time. In winter, watch for icy patches and reduced daylight; carry a phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle and light snacks",
+      "Weather-appropriate clothing (layers; waterproof jacket if rain is forecast)",
+      "Sun protection (hat, sunscreen) during sunny days",
+      "Phone and a small map or offline route info",
+      "Light daypack to carry essentials"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and early autumn when temperatures are mild and daylight is reliable.",
+    "seo": {
+      "title": "Moorcroft Wood & Walsall Canal Health Walk – 2.5 km Easy Walk in the UK",
+      "meta_description": "Discover a 2.5 km easy health walk through Moorcroft Wood and along the Walsall Canal. Flat, family-friendly terrain in the UK with practical tips and gear.",
+      "h1": "Moorcroft Wood & Walsall Canal Health Walk – 2.5 km Easy Route"
+    }
   }
 }

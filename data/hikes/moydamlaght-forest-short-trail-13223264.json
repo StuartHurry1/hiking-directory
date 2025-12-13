@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13223264
+  },
+  "ai": {
+    "summary": "An easy 2.5 km forest loop in Moydamlaght Forest, offering a relaxed stroll suitable for families and beginners. The route provides shade, gentle terrain, and a peaceful woodland setting in the UK.",
+    "terrain_summary": "Primarily well-defined forest paths with occasional rooty patches and gentle inclines. Trails can be muddy after rain, so wear sturdy, grippy footwear. Expect shaded sections interspersed with open clearings.",
+    "safety_notes": "Stay on marked paths, watch for other trail users such as cyclists, and check local conditions before you go. Wear sturdy footwear and weather-appropriate clothing. Bring water and sunscreen; supervise children and keep dogs under control. In case of emergency, note nearby landmarks or carry a map/phone with GPS.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Light waterproof jacket or layer",
+      "Water bottle",
+      "Snacks (optional)",
+      "Sun protection (sunscreen, hat) if sunny",
+      "Insect repellent",
+      "Small first aid kit",
+      "Phone or map with offline navigation"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn; be prepared for wetter, muddier trails in winter.",
+    "seo": {
+      "title": "Moydamlaght Forest Short Trail – Easy 2.5 km Walk in the UK",
+      "meta_description": "Explore Moydamlaght Forest Short Trail, a gentle 2.5 km easy hike in the UK. Learn about the terrain, safety tips, gear, and best seasons for this forest stroll.",
+      "h1": "Moydamlaght Forest Short Trail (2.5 km) – Easy UK Walk"
+    }
   }
 }

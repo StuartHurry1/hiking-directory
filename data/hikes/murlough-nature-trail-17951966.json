@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17951966
+  },
+  "ai": {
+    "summary": "A 6 km moderate coastal hike on the Murlough Nature Trail, offering dune and heath landscapes, sea views, and opportunities for birdwatching along the Northern Irish coast. The route is looped and suitable for hikers with moderate fitness.",
+    "terrain_summary": "Mix of sandy coastal trails, boardwalks over dunes, grassy tracks, and occasional rocky sections. Expect soft sand, uneven surfaces, and exposed conditions near the sea; wear sturdy footwear and be prepared for changing weather.",
+    "safety_notes": "Check local tide times and weather before starting; stay on marked paths to protect delicate dune habitat; wear sturdy footwear and bring layers; coastal edges can be slippery when wet; carry water, sunscreen, and a charged phone; be mindful of wildlife and low-visibility navigation.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks",
+      "Layered clothing and waterproof jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map, compass, or offline GPS",
+      "Camera/binoculars (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer better weather, longer daylight, and greater wildlife activity; summers are warm but can be windy.",
+    "seo": {
+      "title": "Murlough Nature Trail - 6 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover the 6 km Murlough Nature Trail, a moderate coastal hike through dune and heath landscapes with coastal views and wildlife. Safety tips, gear, and seasonal advice.",
+      "h1": "Murlough Nature Trail: A 6 km Moderate Coastal Hike"
+    }
   }
 }

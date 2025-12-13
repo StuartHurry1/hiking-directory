@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2399374
+  },
+  "ai": {
+    "summary": "A very short, easy circuit in the UK connecting Muir to Clash, spanning 0.3 km. Ideal for a quick stroll, families, and absolute beginners looking for a low-effort outdoor experience.",
+    "terrain_summary": "Flat, well-maintained trails with occasional grassy edges. Minimal elevation change; expect some damp or muddy patches after rain. Suitable for light footwear.",
+    "safety_notes": "Even on a short route, carry basic outdoor safety gear. Check the weather before you go, wear sturdy shoes, stay on marked paths, be mindful of other walkers, and keep a small amount of water in your pack. If visibility is poor, consider postponing.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Snacks",
+      "Map or offline navigation app",
+      "Fully charged mobile phone"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and summer",
+    "seo": {
+      "title": "Muir to Clash Circuit — Easy 0.3 km Hike in the UK",
+      "meta_description": "Explore the Muir to Clash Circuit, a short 0.3 km easy hike in the UK. Perfect for beginners and families, featuring flat terrain, simple safety tips, and essential gear.",
+      "h1": "Muir to Clash Circuit: Easy 0.3 km Hike in the UK"
+    }
   }
 }

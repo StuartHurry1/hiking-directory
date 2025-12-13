@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13233244
+  },
+  "ai": {
+    "summary": "Mullaghaneany is a 14.8 km hike in the UK of moderate difficulty. The route traverses upland terrain with grassy tracks, gentle ascents and some rocky and boggy sections, offering open views and varied scenery while remaining accessible to most hikers with moderate fitness.",
+    "terrain_summary": "Expect a mixture of grassy uplands, moorland, and occasional rocky outcrops. Tracks may be uneven and damp, with potential boggy areas after rain. The route is undulating with a few climbs and descents, and footing can be variable in exposed sections.",
+    "safety_notes": "Check the weather before you go and be prepared for sudden changes. The area can be open and exposed; tell someone your planned route and expected return. Wear sturdy boots with good grip, carry a map and compass (or GPS), enough water and snacks, and have warm layers for wind chill. In poor visibility, navigation can be challenging; consider a shorter, well-marked alternative if unsure.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Headwear and gloves for exposed conditions",
+      "Whistle and phone with emergency contact stored",
+      "Lightweight emergency blanket, and a small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is the typical window for good hiking conditions; winter hikes are possible but conditions can be harsher with mud, wind, and reduced daylight.",
+    "seo": {
+      "title": "Mullaghaneany Hike – 14.8 km Moderate UK Trail",
+      "meta_description": "Plan your Mullaghaneany hike: a 14.8 km moderate UK trail. Learn about terrain, safety tips, gear suggestions, and the best seasons for this upland hike.",
+      "h1": "Mullaghaneany Hike – 14.8 km, Moderate Difficulty in the UK"
+    }
   }
 }

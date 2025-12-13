@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 14734805
+  },
+  "ai": {
+    "summary": "A challenging 15.7 km hard hike on a UK multi-use trail. Expect a mix of terrain, notable elevation, and potentially muddy ground; designed for experienced walkers with good fitness.",
+    "terrain_summary": "The route features a mix of firm gravel and paved sections, muddy tracks, and rocky steps. You may encounter steep ascents and descents, uneven surfaces, and exposed stretches where wind can be strong. In wet weather, surfaces can become slippery.",
+    "safety_notes": "This is a hard hike: plan for the full distance and daylight. Check the weather forecast and be prepared for sudden changes. Wear sturdy boots with good ankle support and waterproof clothing. Bring enough water and high-energy snacks. Carry a map and compass or GPS, plus a charged phone. Stay on marked paths, and tell someone your route and expected return time. Pack a small first aid kit, emergency whistle, and spare socks. Consider trekking poles for stability and added support on rough or steep sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves as needed)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Headlamp or flashlight (with extra batteries)",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Extra socks",
+      "Trekking poles (optional)",
+      "Lightweight rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to Autumn (late March to October), with best conditions in late spring and summer; winter hikes can be challenging due to mud, reduced daylight, and wind exposure.",
+    "seo": {
+      "title": "Multi-Use Trail — 15.7 km Hard Hike in the UK",
+      "meta_description": "Explore a 15.7 km hard hike on a UK multi-use trail. Learn about terrain, safety considerations, and essential gear for experienced hikers.",
+      "h1": "Multi-Use Trail: 15.7 km Hard Hike in the UK"
+    }
   }
 }

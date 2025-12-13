@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 12228273
+  },
+  "ai": {
+    "summary": "The Monaghan Way is a challenging long-distance hike in the UK, covering about 165.6 km. It is best tackled by experienced hikers due to sustained distance, variable terrain, and limited services along the route.",
+    "terrain_summary": "Terrain varies from rural farmland tracks to woodlands and rolling hills. Expect uneven paths, potential muddy sections, and occasional road crossings. Navigation can be challenging in remote stretches, so carry a map and compass and be prepared for rapidly changing weather.",
+    "safety_notes": "Safety should be the priority on this hard route. Ensure you are physically prepared for multi-day trekking, planning daily distances according to your pacing, and allowing for weather-related delays. Always carry navigation tools (map and compass or GPS), a fully charged phone, and a means to call for help. Inform someone of your itinerary and expected return. Stay on marked routes where possible; watch for boggy ground and livestock; keep hydrated with reliable water sources. Dress in layers and bring rain protection, as UK weather can be unpredictable. If conditions worsen or you feel unwell, turn back or seek shelter and reassess.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable moisture-wicking base layers",
+      "Insulating mid-layer and a waterproof shell",
+      "Wide-brimmed hat and gloves",
+      "Backpack with rain cover",
+      "Hydration system (2–3 liters) or water bottles",
+      "High-energy, portable food and snacks",
+      "Map and compass (or GPS device) with offline backups",
+      "Power bank and spare batteries",
+      "First aid kit with blister care",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles",
+      "Emergency whistle and personal ID",
+      "Sun protection (sunscreen and sunglasses)",
+      "Lightweight bivvy or emergency blanket"
+    ],
+    "best_seasons": "Best hiked in spring to autumn (roughly March to October) when days are longer and conditions are drier; winter hikes are possible but often cold, muddy, and with reduced daylight.",
+    "seo": {
+      "title": "Monaghan Way – 165.6 km hard hike in the UK",
+      "meta_description": "Plan your challenge on the Monaghan Way, a 165.6 km hard long-distance trail in the UK. Explore terrain variety, safety tips, best seasons, and essential gear for multi-day trekking.",
+      "h1": "Monaghan Way: A 165.6 km hard long-distance hike in the UK"
+    }
   }
 }

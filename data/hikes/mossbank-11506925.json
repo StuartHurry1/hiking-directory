@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11506925
+  },
+  "ai": {
+    "summary": "A short, easy 2.2 km hike in the UK that’s suitable for beginners and families seeking a quick outdoor stroll.",
+    "terrain_summary": "Mostly flat to gently rolling terrain on a well-maintained path. Surface is a mix of compact dirt and gravel; expect damp patches after rain and some slippery moss near banks.",
+    "safety_notes": "Stay on marked trails, observe local signs, and check weather before you go. Wear sturdy footwear to handle potentially slippery moss and uneven ground. Bring water and a small snack, keep children within sight near any water edges, and let someone know your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate layers and a light rain jacket",
+      "Small first aid kit",
+      "Map or GPS device / charged phone",
+      "Snack or energy bar",
+      "Sun protection (hat and sunscreen) for sunny days"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are generally best due to drier conditions and moderate weather; Winter hikes are possible with waterproof clothing and footwear.",
+    "seo": {
+      "title": "Mossbank – Easy 2.2 km UK Hike | Family-Friendly Trail Guide",
+      "meta_description": "Explore Mossbank, an easy 2.2 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this short, family-friendly trail.",
+      "h1": "Mossbank: Easy 2.2 km Hike in the UK"
+    }
   }
 }

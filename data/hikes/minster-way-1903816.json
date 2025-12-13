@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1903816
+  },
+  "ai": {
+    "summary": "Minster Way is a demanding long-distance hike in the UK, spanning about 235.8 km with a hard difficulty rating. It suits experienced trekkers who enjoy sustained walking over multiple days and varied rural scenery. The route is best planned as a multi-day trek with careful pacing and adequate gear.",
+    "terrain_summary": "Terrain consists mainly of rural UK countryside: quiet country lanes, hedged footpaths, fields and occasional woodlands. Expect uneven surfaces, gates and stiles, occasional road sections, and gentle to moderate elevation changes. Weather and navigation can add to the challenge.",
+    "safety_notes": "Plan your itinerary with daily distances matching your experience; check forecast and daylight hours. Carry navigation tools (map and compass or GPS) and know how to use them. Tell someone your route and expected finish time. Carry adequate water and food for each day, plus a means to purify water if needed. Wear sturdy boots and weather-appropriate clothing; pack a waterproof layer and extra insulating layer. Pack a first aid kit, emergency whistle, and a lightweight emergency shelter; keep a charged phone and power bank. Be prepared for sudden UK weather changes and cooler conditions at height or coast. Respect livestock and farmland; close gates behind you and follow local access rules. Follow Leave No Trace principles and dispose of waste responsibly. Take care at road crossings and busy sections; adjust plans if conditions become unsafe.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Waterproof jacket and warm layers",
+      "Backpack with sufficient capacity",
+      "Map and compass or GPS device with spare batteries",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp or torch with spare batteries",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Emergency shelter or lightweight bivy",
+      "Whistle, multitool, and firestarter",
+      "Personal identification and emergency contact information",
+      "Mobile phone with offline maps and power bank",
+      "Extra socks and rain pants for wet conditions"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) in the UK offers longer days and more stable weather for a long-distance hike like Minster Way. Shoulder seasons can be workable with colder conditions and higher winds; winter hiking is more challenging and requires added planning.",
+    "seo": {
+      "title": "Minster Way: 235.8 km Hard Hike in the UK | Long-Distance Trail",
+      "meta_description": "Explore Minster Way, a 235.8 km hard-distance trek across the UK. Find terrain overview, safety tips, best seasons, and gear recommendations for planning this challenging hike.",
+      "h1": "Minster Way: 235.8 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9927235
+  },
+  "ai": {
+    "summary": "An easy 1.2 km hike on a flat, well-marked route through a National Nature Reserve in the UK. Ideal for families and beginners, it offers tranquil scenery, potential birdlife, and a short, accessible walk suitable for all ages.",
+    "terrain_summary": "The trail runs on a mostly compact gravel or tarmac surface with occasional boardwalk segments. Surfaces are generally level and well signposted, with gentle slopes at entry points. After rain, some sections may be muddy; sturdy footwear is recommended.",
+    "safety_notes": "Stay on marked paths and respect wildlife. If dogs are allowed, keep them on a short leash and under control. Check the day’s forecast and be prepared for changing UK weather with appropriate clothing. Bring water, a small first aid kit, and a charged phone. Be mindful of uneven surfaces and puddles after rain.",
+    "recommended_gear": [
+      "Comfortable waterproof footwear",
+      "Layers and waterproof jacket",
+      "Water bottle",
+      "Small daypack",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Light snack",
+      "Map or offline map on phone",
+      "Basic first aid kit",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for best conditions and wildlife viewing; the trail is walkable year-round, but winter can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "National Nature Reserve Trail – Easy 1.2 km Hike in the UK",
+      "meta_description": "A gentle 1.2 km hike through a UK National Nature Reserve. Easy terrain, wildlife opportunities, practical safety tips, gear suggestions and best seasons.",
+      "h1": "National Nature Reserve Trail – Easy 1.2 km Hike in the United Kingdom"
+    }
   }
 }

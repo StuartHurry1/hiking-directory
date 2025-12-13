@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2536292
+  },
+  "ai": {
+    "summary": "Millstream Way is a 13.5 km moderate-grade hike in the UK that follows riverside paths and rural lanes. The route combines water views with gentle ascents, offering a rewarding day out for walkers with some experience.",
+    "terrain_summary": "The trail uses a mix of well-defined paths, grassy banks, and occasional muddy sections near the river. Expect short stiles, uneven surfaces after rain, and both shaded and sunny stretches with panoramic countryside views.",
+    "safety_notes": "Check local conditions and daylight hours before setting out. Wear sturdy boots with good grip and bring a waterproof layer. Carry a map or navigation device, as signs can be intermittent in parts of the route. Be aware of livestock and crossing roads where applicable. Stay hydrated and bring snacks; carry a small first aid kit. In more remote stretches, mobile signal may be limited; inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Weather-appropriate clothing and a lightweight waterproof jacket",
+      "Water bottle or hydration system",
+      "Map, compass, or a GPS device",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Mobile phone with offline maps and a basic first aid kit",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Late spring to autumn (roughly March to October) is ideal, with drier spells typically offering the best conditions.",
+    "seo": {
+      "title": "Millstream Way – 13.5 km Moderate Hike in the UK",
+      "meta_description": "Explore Millstream Way, a 13.5 km moderate hike in the UK. Riverside trails, varied terrain, and countryside scenery with practical tips on gear and safety.",
+      "h1": "Millstream Way: 13.5 km Moderate Hike in the UK"
+    }
   }
 }

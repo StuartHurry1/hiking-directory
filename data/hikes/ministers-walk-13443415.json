@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13443415
+  },
+  "ai": {
+    "summary": "Ministers Walk is a short, easy 2.8 km trail in the UK suitable for all ages. Expect a gentle, well-maintained path with light elevation and straightforward navigation, ideal for a relaxed half-day outing.",
+    "terrain_summary": "Predominantly even, well-maintained paths with minimal elevation gain. The route is suitable for beginners and families, featuring mostly smooth walking surfaces and occasional grassy sections.",
+    "safety_notes": "Check the weather before you go, as UK conditions can change quickly. Wear sturdy footwear, bring a water bottle, and dress in layers. Be mindful of shorter daylight hours in winter, stay on marked paths, and have a map or a charged phone with offline access in case of poor signal.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Layered clothing",
+      "Sun protection (hat and sunscreen)",
+      "Map or fully charged phone with offline map",
+      "Small backpack for essentials"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with proper gear and daylight considerations.",
+    "seo": {
+      "title": "Ministers Walk – 2.8 km Easy Hike in the UK",
+      "meta_description": "Explore Ministers Walk, a short and easy 2.8 km trail in the UK ideal for beginners and families. Enjoy a gentle walk on well-maintained paths with minimal elevation.",
+      "h1": "Ministers Walk – 2.8 km Easy Hike in the UK"
+    }
   }
 }

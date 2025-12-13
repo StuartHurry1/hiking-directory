@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11480260
+  },
+  "ai": {
+    "summary": "A gentle 5.5 km memorial-themed trail in the UK designed for an easy walk. The route passes a memorial site and offers tranquil countryside or parkland scenery, suitable for beginners and casual hikers.",
+    "terrain_summary": "Primarily easy terrain with flat to gently rolling sections. Path surfaces are likely a mix of well-maintained gravel or paved paths with clear wayfinding.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Bring water and a mobile phone. Stay on marked paths and respect the memorial site; check local conditions and daylight hours; supervise children and pets where allowed.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Late spring to early autumn in the UK; the trail is still walkable in other seasons but conditions may be less favorable.",
+    "seo": {
+      "title": "Mosquito Memorial Trail – Easy 5.5 km Hike in the UK",
+      "meta_description": "Discover a gentle 5.5 km easy hike on the Mosquito Memorial Trail in the UK. An accessible route with memorial features and tranquil scenery.",
+      "h1": "Mosquito Memorial Trail: Easy 5.5 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17564394
+  },
+  "ai": {
+    "summary": "A 12.9 km circular hike in the UK offering a mix of woodland paths, hedgerows and rural lanes. Suitable for walkers with moderate fitness, starting and ending near the Narborough area (region unspecified).",
+    "terrain_summary": "Mixed surfaces: compacted earth and gravel paths, grassy tracks, occasional muddy sections, stiles and gentle gradients. Some road crossings and field edges; can be uneven after rain.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy, water-resistant footwear and bring a waterproof layer. Carry a map or GPS, and a charged mobile phone. Tell someone your planned route and expected return. Be mindful of livestock on farmland and potential traffic on rural roads. Stay on marked paths and watch for slippery surfaces after rain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Lightweight waterproof jacket",
+      "Extra layers",
+      "Water bottle or hydration bladder",
+      "Snacks or energy bars",
+      "Map and compass or GPS device",
+      "Mobile phone with emergency contacts",
+      "Small first-aid kit",
+      "Hat and sunscreen",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March-October) for most pleasant conditions; route is achievable year-round with appropriate gear and shorter daylight in winter.",
+    "seo": {
+      "title": "Narborough Circular Walk – 12.9 km Moderate UK Hike",
+      "meta_description": "Explore the Narborough Circular Walk, a 12.9 km moderate hike in the UK featuring woodland trails, hedgerows and rural lanes. Practical tips, terrain and gear.",
+      "h1": "Narborough Circular Walk (12.9 km) – Moderate UK Hike"
+    }
   }
 }

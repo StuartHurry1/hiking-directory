@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9787875
+  },
+  "ai": {
+    "summary": "A short, easy 1.5 km stroll in the UK that combines historic mills, a fishing spot, and a serpentine riverside path. Suitable for most walkers, families, and dogs on leads, with tranquil scenery and gentle elevation changes.",
+    "terrain_summary": "Predominantly flat, with hard-packed paths along a riverside towpath and a serpentine loop. Surfaces include gravel, compact dirt, and some grassy edges. Muddy patches possible after rain; expect occasional bridges or boardwalk sections near the water.",
+    "safety_notes": "Watch for water edges and fishing activity. UK weather can change quickly—bring a layer and protection against rain. Paths can be busy; keep to the right and supervise children and dogs. Be cautious of uneven surfaces and avoid the route during flood warnings or high water.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered for changing conditions)",
+      "Light snack",
+      "Phone or camera for photos",
+      "Light rain jacket",
+      "Hat and sunscreen (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions and daylight; route is walkable year-round, but winter can bring mud and low visibility.",
+    "seo": {
+      "title": "Mills, fishing and serpentine walk - Easy 1.5 km UK hike",
+      "meta_description": "Explore an easy 1.5 km hike in the UK featuring historic mills, a fishing spot, and a serpentine riverside path. Ideal for a gentle day out with family or friends.",
+      "h1": "Mills, fishing and serpentine walk – Easy 1.5 km UK hike"
+    }
   }
 }

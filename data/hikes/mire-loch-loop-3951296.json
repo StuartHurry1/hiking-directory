@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3951296
+  },
+  "ai": {
+    "summary": "Mire Loch Loop is a short, easy 2.2 km circuit around a tranquil loch in the UK. Designed for casual walkers and families, the route follows flat, well-maintained paths with scenic water views and opportunities to observe local wildlife.",
+    "terrain_summary": "Mostly flat, surfaced paths around the loch; some muddy sections after rain; occasional boardwalks and compact gravel; damp ground near the water is common.",
+    "safety_notes": "- Check weather and daylight before starting; conditions can change near water. - Wear waterproof footwear and extra layers. - Stay on marked paths; watch for slippery boards and boggy ground after rain. - Keep children and pets under close supervision. - Carry a charged phone and basic navigation; know your limits and turn back if visibility worsens.",
+    "recommended_gear": [
+      "Weather-appropriate clothing (layers)",
+      "Sturdy waterproof walking shoes or boots",
+      "Water bottle and lightweight snacks",
+      "Map, compass or offline map on your phone",
+      "Small daypack",
+      "Hat and sunscreen (summer); warm layer for cooler days",
+      "Rainproof cover or dry bag for electronics"
+    ],
+    "best_seasons": "Spring through autumn (April–October); can be muddy and chilly in winter",
+    "seo": {
+      "title": "Mire Loch Loop Hike – Easy 2.2 km Walk in the UK",
+      "meta_description": "Discover Mire Loch Loop, an easy 2.2 km hike in the UK. Flat, family-friendly paths around a serene loch with wildlife, safety tips, and gear suggestions.",
+      "h1": "Mire Loch Loop Hike – 2.2 km Easy Walk"
+    }
   }
 }

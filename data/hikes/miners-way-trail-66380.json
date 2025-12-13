@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 66380
+  },
+  "ai": {
+    "summary": "Miner's Way Trail is a challenging 95.8 km long-distance hike in the UK, designed for experienced trekkers. The route typically unfolds over multiple days and requires careful planning for navigation, weather, and fatigue management. It showcases a mix of historic mining heritage and varied scenery, demanding endurance and solid preparation.",
+    "terrain_summary": "Expect a mix of muddy footpaths, rocky climbs, heath and moorland, forest tracks, some road sections, and occasional steep ascents. Conditions can be wet and slippery; navigation is generally straightforward on marked sections but can include cross-country stretches.",
+    "safety_notes": "Plan for multi-day hiking with a contingency margin. Carry navigation tools (map, compass, or GPS) and know how to use them. Check the weather forecast and be prepared for rapid changes; UK conditions can be wet, windy, and cold even in summer. Keep hydrated and fueled, monitor fatigue, and pace yourself. Leave details of your route and expected return, and ensure your phone or devices have coverage or carry backups; tell someone your plan. For remote sections consider a safety beacon or satellite messenger if available.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing for changing weather (fleece or down, base layers)",
+      "Map, compass, and/or GPS device; fully charged",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system (2–3+ liters) and water purification option",
+      "High-energy snacks and meals; lightweight stove or no-cook options if camping",
+      "First aid kit tailored for long-distance hiking",
+      "Emergency shelter or bivy bag; lightweight tent if camping overnight",
+      "Trekking poles (optional but helpful for stability)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Whistle and a portable power bank for devices"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) offers the best overall weather in the UK for this route; shoulder seasons can also be suitable but expect variable conditions and shorter daylight in autumn and risk of frost in early spring.",
+    "seo": {
+      "title": "Miner's Way Trail — 95.8 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore Miner’s Way Trail, a challenging 95.8 km hike in the UK. Find terrain, safety tips, gear recommendations, and best seasons for planning.",
+      "h1": "Miner's Way Trail: 95.8 km Hard Hike in the UK"
+    }
   }
 }

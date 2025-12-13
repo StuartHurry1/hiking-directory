@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 2187248
+  },
+  "ai": {
+    "summary": "Nar Valley Way is a challenging long-distance trail in the UK, covering 110.6 km along the River Nar with a mix of riverside towpaths, farmland paths, and rural lanes. The route traverses an unknown region and demands good fitness, navigation skills, and contingency planning for variable UK weather.",
+    "terrain_summary": "Mostly flat to gently rolling terrain, dominated by riverbank towpaths and field edges, with stretches along rural lanes. Expect muddy, uneven surfaces after rain, occasional road crossings, and some exposed sections; scenery includes water, farmland, and brooks.",
+    "safety_notes": "Carry a map and compass and know your navigation. Check weather forecasts and prepare for sudden changes. Wear sturdy waterproof boots and clothes; bring extra layers. Plan for long stretches between services; carry adequate water and food. Stay on marked paths, respect private land, and watch for livestock. Be aware of mud, flood risks near the river, and wear high-visibility gear in low light. Carry a basic first aid kit and a means to contact help; know emergency numbers for the area. Pack a small whistle and a fire/space blanket for emergencies; consider a trekking pole for stability.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Thermal or insulating layers",
+      "Map and compass (or GPS)",
+      "Fully charged mobile phone and power bank",
+      "Water bottles or hydration system",
+      "High-energy snacks and meals",
+      "Headlamp or flashlight",
+      "Hat, sunscreen, and sunglasses",
+      "Insect repellent and basic first aid kit",
+      "Spare socks and a lightweight blanket or emergency bivvy",
+      "Trekking poles",
+      "Dry bags or pack liner",
+      "Emergency contact card and whistle",
+      "Repair kit for footwear and small tools"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offers the best conditions, with longer daylight and drier weather; summers can be hot, and winters damp and muddy.",
+    "seo": {
+      "title": "Nar Valley Way: 110.6 km UK Long-Distance Trail",
+      "meta_description": "Discover the Nar Valley Way, a challenging 110.6 km hike in the UK. Get terrain, safety tips, gear recommendations, and best seasons for this hard-distance route.",
+      "h1": "Nar Valley Way – 110.6 km Hard-Distance Trail in the UK"
+    }
   }
 }

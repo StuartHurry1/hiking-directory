@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 1192801
+  },
+  "ai": {
+    "summary": "A challenging 19.5 km loop around the Mottisfont Estate in the UK, featuring a mix of woodland paths, estate tracks and open fields. Expect long distances, occasional ascents and variable surface conditions—best tackled by experienced hikers with good stamina.",
+    "terrain_summary": "Varied: grassy trails, gravel tracks, forest paths and field edges. Ground can be uneven with exposed roots; mud is common after rain. Short steep sections and several stiles or gate crossings may be encountered. Weather in the UK can change quickly, so be prepared.",
+    "safety_notes": "Plan for a long day: start early, check the forecast, and carry adequate water. Wear sturdy waterproof boots and be prepared for mud, especially after rain. Stay on marked paths and respect private land; close gates behind you. Bring a map, compass or GPS, a fully charged phone, and a basic first aid kit. Tell someone your route and expected return time. In winter or after rain, trail conditions can be hazardous; consider postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing and a waterproof outer layer",
+      "Water and high-energy snacks",
+      "Map, compass or offline GPS device",
+      "Headlamp or flashlight (in case of extended daylight loss)",
+      "Walking poles (optional but helpful on long descents)",
+      "Whistle and basic first aid kit",
+      "Sun protection (hat, sunscreen) if sunny",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn are ideal; summer offers longer daylight hours, while autumn provides comfortable temperatures and scenery. In winter or after heavy rain, trail conditions can be very muddy and footing may be hazardous.",
+    "seo": {
+      "title": "Mottisfont Estate Walk – 19.5 km Hard Hike in the UK",
+      "meta_description": "Discover the 19.5 km Mottisfont Estate Walk, a challenging route around Mottisfont Estate in the UK. Terrain insights, safety tips, gear recommendations and best seasons for this demanding hike.",
+      "h1": "Mottisfont Estate Walk (19.5 km) – UK Hard Hike"
+    }
   }
 }

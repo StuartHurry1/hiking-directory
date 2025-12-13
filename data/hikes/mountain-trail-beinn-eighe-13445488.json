@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13445488
+  },
+  "ai": {
+    "summary": "Beinn Eighe Mountain Trail is a 6.3 km hike in the UK with moderate difficulty. The route traverses varied terrain and offers rewarding views. Plan for approximately 2.5–3.5 hours depending on pace and conditions, and be prepared for weather that can change rapidly.",
+    "terrain_summary": "The trail features a mix of well-defined paths, rocky sections, and uneven ground. Expect some elevation gain, damp or boggy patches, and loose stones, particularly on exposed ridges. Good footwear and attentive footing are important for safety and enjoyment.",
+    "safety_notes": "Check the forecast before you go; UK hills can be windy and wet even in summer. Wear sturdy, grippy boots and bring waterproof layers. Carry a map and compass or a GPS device, plus a charged phone as a backup. Inform someone of your plan, carry enough water and high-energy snacks, and be prepared for changing visibility and temperature. If conditions are poor or you feel uncomfortable, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and insulating layers",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Hat, gloves, and sun protection",
+      "Emergency whistle",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Extra socks",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October) typically offers milder and drier conditions, but be prepared for rain, wind, and rapid weather changes year-round.",
+    "seo": {
+      "title": "Mountain Trail Beinn Eighe – 6.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.3 km Mountain Trail Beinn Eighe in the UK. A moderate hike with varied terrain, practical safety tips, and gear recommendations.",
+      "h1": "Mountain Trail Beinn Eighe – 6.3 km Moderate Hike in the UK"
+    }
   }
 }

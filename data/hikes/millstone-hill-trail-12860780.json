@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12860780
+  },
+  "ai": {
+    "summary": "Millstone Hill Trail is a 7.1 km moderate hike in the United Kingdom that traverses a mix of grassy fields, woodland paths, and rocky sections. It offers steady elevation with scenic views and is suitable for hikers with a reasonable fitness level.",
+    "terrain_summary": "The route features a combination of grassy and compact dirt paths, short rocky stretches, and gentle ascents. Expect uneven footing in places and occasional mud after rain; sections may be exposed to wind along higher points. Navigation is straightforward but a map or GPS is recommended.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy, waterproof footwear and bring layers, a water bottle, and a map or GPS. Stay on marked paths, carry a basic first-aid kit, and let someone know your plans. In winter, frost and ice can make surfaces hazardous.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate layers (waterproof jacket, hat, gloves)",
+      "Map or GPS device",
+      "Compact first-aid kit",
+      "Snack or energy bars",
+      "Whistle and mobile phone with emergency contacts",
+      "Sun protection (sunscreen, sunglasses)"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with proper gear and shorter daylight hours",
+    "seo": {
+      "title": "Millstone Hill Trail - 7.1 km Moderate Hike in the UK",
+      "meta_description": "Explore Millstone Hill Trail, a 7.1 km moderate hike in the UK. Find terrain details, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Millstone Hill Trail (7.1 km, Moderate)"
+    }
   }
 }

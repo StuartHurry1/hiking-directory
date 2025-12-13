@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19217189
+  },
+  "ai": {
+    "summary": "A strenuous 24.8 km circular hike across Mount Famine, South Head and Brown Knoll in the High Peak area of the Peak District, UK. Expect long ascents, rocky tracks, peat moorland, and exposed ridges; suitable only for experienced hikers with solid navigation and fitness.",
+    "terrain_summary": "Rugged upland routes with rocky tracks, heather moorland, peat bogs, and occasional scree. Long ascents and uneven footing; weather can make conditions variable and challenging.",
+    "safety_notes": "Plan for 8–10 hours of hiking. Peak District weather changes quickly; start early and check forecasts. Carry a detailed map and compass; use GPS as a backup. Stay on well-marked paths where possible; moorland can be boggy and disorienting. Wear sturdy boots and layered clothing; bring rain gear. Bring enough water and high-energy food. Inform someone of your route and ETA. In winter, slopes may be icy and navigation more difficult; consider a guide or postponing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Warm layers (fleece or down) plus a hat and gloves",
+      "Map and compass (GPS as backup)",
+      "Fully charged mobile phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottles or hydration system (2–3 liters total)",
+      "High-energy snacks and a small meal option",
+      "First aid kit and emergency shelter or space blanket",
+      "Sun protection (sunscreen and sunglasses)",
+      "Whistle for emergencies",
+      "Trekking poles (optional but helpful on rough sections)"
+    ],
+    "best_seasons": "Spring to Autumn (March–October); winter hiking is more challenging and requires extra preparation and experience.",
+    "seo": {
+      "title": "Mount Famine, South Head & Brown Knoll (The Ethels) Hike – 24.8 km Hard Route in High Peak, UK",
+      "meta_description": "Tackle a challenging 24.8 km circuit through Mount Famine, South Head and Brown Knoll (The Ethels) in High Peak, Peak District, UK. Learn about terrain, safety, gear, and the best seasons for this hard hike.",
+      "h1": "Mount Famine, South Head and Brown Knoll (The Ethels) – 24.8 km Hard Hike in High Peak, UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 5540650
+  },
+  "ai": {
+    "summary": "A 7.2 km moderate walk in the UK that combines countryside trails with historic features, featuring mills and WWII pillboxes. The route weaves along fields and tracks with occasional viewpoints and a few gentle climbs, suitable for walkers with some experience.",
+    "terrain_summary": "Mostly well-defined tracks and grassy paths, with sections of compacted earth and occasional uneven ground. Expect a few gentle rises and a couple of steps near pillbox sites; mud and puddles are possible after rain.",
+    "safety_notes": "Check weather and conditions before you go. Stay on official paths and respect private land and historic sites. Wear sturdy footwear and bring layers, as UK weather can change quickly. Be mindful of mud, uneven ground and occasional road crossings. Carry a charged phone and a map or GPS, and avoid exploring derelict structures or restricted areas.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Water bottle and snacks",
+      "Map, compass or GPS device; fully charged phone",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat) for sunny days",
+      "Head torch or flashlight if planning to finish after dark"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with longer daylight and clearer scenery. The route can be hiked year-round with extra care in winter.",
+    "seo": {
+      "title": "Mills & Pillboxes Walk (SCC) – 7.2 km Moderate UK Hike",
+      "meta_description": "Discover a 7.2 km moderate UK hike featuring mills and WW2 pillboxes. Explore varied terrain, historic sights, and scenic views with practical safety tips and gear.",
+      "h1": "Mills & Pillboxes Walk (SCC)"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4241652
+  },
+  "ai": {
+    "summary": "Mosses Trail Yellow is a short, easy 3-kilometer hike in the UK designed for walkers of all ages. The route offers mild gradients, pleasant scenery, and a straightforward path suitable for beginners.",
+    "terrain_summary": "The trail follows well-maintained paths and forest tracks. Expect grassy sections, some exposed roots, and occasional mud, particularly after wet weather. Mostly flat with gentle ascents.",
+    "safety_notes": "Wear sturdy waterproof footwear and a weather-appropriate layer. Stay on marked paths, keep children under supervision, and check local forecasts for rain. Bring water, a small first-aid kit, and a fully charged phone. In winter, be prepared for icy or muddy conditions and shorter daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Lightweight rain jacket",
+      "Map or GPS device",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn; winter can be wet and muddy",
+    "seo": {
+      "title": "Mosses Trail Yellow – Easy 3 km Hike in the UK",
+      "meta_description": "Discover Mosses Trail Yellow, a gentle 3 km hike in the UK. Easy terrain, scenic surroundings, and practical safety tips for a family-friendly outdoor experience.",
+      "h1": "Mosses Trail Yellow – 3 km Easy Hike in the UK"
+    }
   }
 }

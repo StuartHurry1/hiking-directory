@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 4240662
+  },
+  "ai": {
+    "summary": "The Monmouth Rebellion Walk is a hard 273 km long-distance trail across the UK, offering a challenging trek that traces historical routes connected to the Monmouth Rebellion. The route spans varied landscapes, demanding good navigation, endurance, and careful planning.",
+    "terrain_summary": "Expect a mix of country lanes, hedgerows, river valleys, open moorland, and occasional town sections. Elevation can be substantial with long days of walking; footing ranges from well-made paths to muddy fields. Some sections may require crossing roads or engaging with private property.",
+    "safety_notes": "Plan for multi-day trekking across remote sections. Check weather and daylight hours; carry maps, compass, and a GPS backup. Stay hydrated and fueled with regular snacks; have an emergency plan and tell someone your itinerary. Be prepared for variable UK conditions, dress in layers, and respect local access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof, breathable outer layer and warm mid-layers",
+      "Insulating layer for cooler evenings",
+      "Hat, gloves, and sun protection",
+      "Map and compass with GPS as backup",
+      "Headlamp with spare batteries",
+      "Water bottle or hydration system (2–3 L)",
+      "Water purification method (filters or tablets)",
+      "High-energy food and snacks for multi-day sections",
+      "First aid kit suitable for longer treks",
+      "Emergency shelter or bivy sack",
+      "Whistle and multi-tool",
+      "Trekking poles",
+      "Rain pants and optional gaiters",
+      "Dry bag for electronics and valuables",
+      "Daypack with rain cover"
+    ],
+    "best_seasons": "Spring and autumn are generally ideal for this UK route due to milder temperatures and reliable daylight; summer offers longer days but can be hot and exposed, while winter presents shorter daylight windows and tougher conditions.",
+    "seo": {
+      "title": "Monmouth Rebellion Walk – 273 km UK Hard-Distance Trail",
+      "meta_description": "Discover the Monmouth Rebellion Walk, a 273 km hard-distance trek across the UK. Learn about terrain, safety, gear tips, and the best seasons for this historic route.",
+      "h1": "Monmouth Rebellion Walk: A 273 km UK Long-Distance Trail"
+    }
   }
 }

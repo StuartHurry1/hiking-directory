@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13223267
+  },
+  "ai": {
+    "summary": "A 10.8 km moderate trail through Moydamlaght Forest with a viewpoint at Eagles Rock. The route offers shaded woodland, variable terrain, and a rewarding outlook for hikers with some experience.",
+    "terrain_summary": "Forest paths predominate with uneven ground, tree roots, and occasional rocky sections near Eagles Rock. Conditions can be damp and slippery after rain; expect shaded sections with limited sun exposure.",
+    "safety_notes": "Always check the weather before departure; UK conditions can change quickly. Wear sturdy waterproof hiking boots and use a map or GPS to stay on track. Drink water and bring snacks; carry a fully charged phone. Hike with a companion when possible and share your plan with someone. Be cautious near the Eagles Rock viewpoint and avoid edges in windy or wet conditions. Respect wildlife and follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency blanket or lightweight extra layer",
+      "Sun protection (hat and sunscreen) for sunny days",
+      "Phone with offline maps and charged battery",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers milder weather and better visibility in the UK, though trail conditions can be muddy in winter. Plan according to conditions.",
+    "seo": {
+      "title": "Moydamlaght Forest Eagles Rock Trail – 10.8 km Moderate Hike in the UK",
+      "meta_description": "Discover the Moydamlaght Forest Eagles Rock Trail, a 10.8 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons.",
+      "h1": "Moydamlaght Forest: Eagles Rock Trail"
+    }
   }
 }

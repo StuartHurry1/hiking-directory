@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16070710
+  },
+  "ai": {
+    "summary": "A short, easy 1.9 km walk at the National Footpath Demonstration Site in the United Kingdom. Suitable for beginners, families, and anyone looking for a gentle, accessible stroll along a demonstration section of the national footpath network.",
+    "terrain_summary": "Mostly flat and well-maintained surfaces. The route combines compacted earth, gravel, and a few paved sections with minimal elevation gain. Expect gentle slopes and easy footing throughout.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Stay on marked paths, bring water, and supervise children. The route is short and generally safe, but be mindful of uneven surfaces and seasonal wet conditions. Be aware of local regulations and respect any protected areas or signage.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Hat and sunscreen",
+      "Map or offline route",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn for the most comfortable conditions; the walk is doable year-round with appropriate clothing.",
+    "seo": {
+      "title": "National Footpath Demonstration Site – 1.9 km Easy Walk in the UK",
+      "meta_description": "A concise guide to a short 1.9 km easy hike at the National Footpath Demonstration Site in the UK. Ideal for beginners and families seeking a gentle outdoor experience.",
+      "h1": "National Footpath Demonstration Site – 1.9 km Easy Walk"
+    }
   }
 }

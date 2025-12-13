@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 7888727
+  },
+  "ai": {
+    "summary": "A demanding long-distance hike in the UK, the Mounth Road covers 29.4 km with a hard difficulty rating. The route features rugged terrain, varying elevations, and sections that may be remote or exposed, making it best suited for experienced hikers who are well-prepared for changing conditions.",
+    "terrain_summary": "Expect a mix of rough tracks, rocky or uneven footing, possible boggy ground, and exposed stretches. Navigation may be challenging in places, and elevation gain can be substantial. Weather in the UK can change quickly, so prepare for sun, wind, rain, and temperature swings.",
+    "safety_notes": "Plan your route in advance and notify someone of your itinerary. This is a long, hard hike with rugged and potentially exposed sections; check local weather and daylight hours. Wear sturdy, waterproof hiking boots and layered clothing. Bring a map and compass or GPS device, plus a fully charged phone as a backup. Carry sufficient water (2–3 L) and high-energy food, plus a small first-aid kit, whistle, and emergency shelter. Stay on marked paths where available, be prepared for boggy ground or uneven terrain, and turn back if conditions deteriorate or daylight runs out.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 L)",
+      "Breathable layers and waterproof jacket",
+      "Thermal layer for cold conditions",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit",
+      "Emergency whistle",
+      "Energy-rich snacks and a few meals",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Bug repellent",
+      "Rain cover for backpack",
+      "Hiking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) generally offer the most favorable weather in the UK, though conditions can still be wet or windy. Avoid winter if you’re not prepared for snow, ice, or rapidly changing conditions.",
+    "seo": {
+      "title": "Mounth Road Hike – 29.4 km Hard Trail in the UK",
+      "meta_description": "Discover the 29.4 km Mounth Road hike in the UK. A challenging route with rugged terrain, safety tips, gear recommendations, and ideal seasons.",
+      "h1": "Mounth Road: 29.4 km Hard Hike in the UK"
+    }
   }
 }

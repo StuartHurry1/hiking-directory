@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 9395127
+  },
+  "ai": {
+    "summary": "A strenuous 26 km hike to St. John's Chapel through mineral-rich landscapes in the UK. Requires experience with long days, variable terrain, and good navigation; offers rewarding views and a sense of accomplishment for hardy hikers.",
+    "terrain_summary": "Varied terrain: rocky tracks, uneven ground, and potential mud; occasional steep ascents and descents; exposed sections near ridges and valley floors; some old mineral paths with loose scree; footing can be uneven after rain, so caution is advised throughout the route.",
+    "safety_notes": "Plan for a long day and start early. Check weather forecasts and be prepared for sudden changes. Wear sturdy boots with good grip and bring navigation tools (map and compass or GPS). Carry enough water and energy-rich food. Inform a trusted person of your planned route and ETA. Bring a charged phone, headlamp, and a basic first aid kit. Be cautious on exposed sections and around wet, slippery rocks; avoid this hike in severe weather or ice conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 L)",
+      "Weather-appropriate layers (base layer, mid-layer, outer shell)",
+      "Waterproof jacket and pants",
+      "Warm hat and gloves (seasonal)",
+      "Map and compass or GPS device",
+      "Headlamp with spare batteries",
+      "First aid kit",
+      "Snacks and energy foods",
+      "Whistle for emergencies",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency bivy or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (April–October) for milder conditions; winter hikes are longer and riskier due to cold, ice, and shorter daylight",
+    "seo": {
+      "title": "Mineral Valleys Walk: St. John's Chapel – 26 km Hard Hike in the UK",
+      "meta_description": "Challenge yourself with a 26 km hard hike to St. John's Chapel through mineral-rich valleys in the UK. Learn terrain, safety tips, and gear for an experienced hiking day.",
+      "h1": "Mineral Valleys Walk: St. John's Chapel — 26 km, Hard Hike"
+    }
   }
 }

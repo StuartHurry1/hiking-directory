@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19294594
+  },
+  "ai": {
+    "summary": "A gentle 5 km loop across open moorland in the UK, suitable for beginners. The route features grassy tracks, heathland and open views with occasional uneven patches and damp ground after rain.",
+    "terrain_summary": "Open moorland and heath with grassy, uneven paths. Expect patches of wet grass and occasional stones; the surface can be soft and boggy after rain. Some gentle ascents and descents; wind exposure possible.",
+    "safety_notes": "Conditions on UK moorland can change quickly. Wear sturdy waterproof footwear and weather-appropriate clothing. Stay on the waymarked paths, watch for boggy areas and soft ground after rain, and carry a map or GPS. Let someone know your plan and expected return. Mind livestock and keep dogs under control. Be prepared for sudden weather changes, reduced visibility, and limited mobile reception in remote parts.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Waterproof jacket and warm layers",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Hat and gloves for wind",
+      "Phone with offline maps",
+      "Small first-aid kit",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Best from spring to autumn (roughly March–October) for comfortable weather and longer daylight; the route is walkable year-round with extra care for mud, wind, and cold in winter.",
+    "seo": {
+      "title": "Moorland Walk – Easy 5 km Moorland Hike in the UK",
+      "meta_description": "Discover the Moorland Walk: a gentle 5 km hike across UK moorland. Easy terrain, open views, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Moorland Walk – 5 km Easy Moorland Hike (UK)"
+    }
   }
 }

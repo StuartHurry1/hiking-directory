@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15479235
+  },
+  "ai": {
+    "summary": "The Moneynabane Trail is a 6.8 km moderate hike in the UK. The route traverses mixed terrain, including woodlands, grassy slopes, and occasional rocky sections, with gentle to moderate elevation changes. Suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Terrain features a mix of well-defined forest paths, grassy ascents, and sporadic rocky outcrops. Expect wet or muddy sections after rain and uneven footing in places. The trail is not consistently exposed, but sections can be shaded or sunny depending on the stretch.",
+    "safety_notes": "Check the weather before you go, as UK conditions can change quickly. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths and carry a map, compass, or GPS. Bring enough water and snacks, plus a small first aid kit. Inform someone of your plan and expected return time. Be cautious on slippery rocks after rain and watch for uneven ground. Mobile signal may be unreliable in remote sections; consider hiking with a companion.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and layered clothing",
+      "Backpack with water and high-energy snacks",
+      "Map, compass or GPS device",
+      "Personal first aid kit",
+      "Headlamp or compact flashlight",
+      "Extra socks and a hat/gloves depending on season"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible but more challenging due to weather and shorter daylight.",
+    "seo": {
+      "title": "Moneynabane Trail – 6.8 km Moderate Hike in the UK",
+      "meta_description": "Discover the 6.8 km Moneynabane Trail in the UK. A moderate hike through mixed terrain with woodland, grassy slopes and rocky sections. Includes safety tips and gear recommendations.",
+      "h1": "Moneynabane Trail (6.8 km) – Moderate Hike in the UK"
+    }
   }
 }

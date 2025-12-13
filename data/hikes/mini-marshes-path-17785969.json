@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17785969
+  },
+  "ai": {
+    "summary": "The Mini Marshes Path is a very short, easy hike through a marshy UK landscape. At just 0.3 km, it’s a quick nature stroll suitable for families and beginners, offering wetland views and a flat, accessible route.",
+    "terrain_summary": "Flat, well-defined path with some marshboardwalk sections. Expect muddy edges and damp ground in wetter seasons; waterproof footwear is recommended.",
+    "safety_notes": "Despite its short length, marshes can flood or be slippery. Stay on the marked path, watch for slick boards, and supervise children. Wear waterproof footwear, bring a light layer for changing weather, and carry a phone in case of emergencies. Be mindful of wildlife and insects; avoid disturbing nesting birds or protected species.",
+    "recommended_gear": [
+      "Comfortable waterproof footwear",
+      "Lightweight waterproof jacket",
+      "Layered clothing",
+      "Water bottle",
+      "Sunscreen and sunglasses (on sunny days)",
+      "Insect repellent (seasonal)",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Trail map or offline map"
+    ],
+    "best_seasons": "Spring to autumn are ideal, with drier paths and more wildlife viewing. Winter visits can be muddy or flooded; check local conditions before you go.",
+    "seo": {
+      "title": "Mini Marshes Path – 0.3 km Easy Marshland Walk in the UK",
+      "meta_description": "Explore the Mini Marshes Path, a short 0.3 km easy hike through UK marshland. Practical safety tips, terrain details, and gear for a quick nature stroll.",
+      "h1": "Mini Marshes Path: A Short 0.3 km Marshland Walk in the UK"
+    }
   }
 }

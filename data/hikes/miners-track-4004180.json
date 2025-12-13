@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 4004180
+  },
+  "ai": {
+    "summary": "Miners' Track is a 7.2 km moderate hike in the UK that follows a historic mining-era route. The trail offers steady elevation gain, diverse terrain, and scenic moorland views with a few rocky sections.",
+    "terrain_summary": "The trail is well-defined with compact surfaces, intermittent rocky outcrops, and occasional muddy patches after rain. Expect a steady ascent with several switchbacks; some narrow sections may be exposed in windy conditions. Suitable for hikers with moderate fitness and good balance.",
+    "safety_notes": "Weather in the UK can change quickly. Check the forecast before you go. Wear sturdy waterproof boots and dress in layered, waterproof clothing. Stay on marked paths, bring a map and compass or GPS, and carry enough water and snacks. Be cautious on wet rocks and exposed sections, and give way to other hikers on busy days. Short daylight hours in winter mean plan accordingly.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers (moisture-wicking base layer, fleece, and a waterproof jacket)",
+      "Lightweight rain cover or umbrella (optional)",
+      "Daypack with water and snacks",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Sunscreen, sunglasses, and a hat",
+      "Headlamp or flashlight (for early/late starts)",
+      "Trekking poles (optional for stability)"
+    ],
+    "best_seasons": "Spring and Autumn (April–June and September–October) often offer mild temperatures and good visibility; summer is busier and can be hotter, while winter hikes require more preparation and experience.",
+    "seo": {
+      "title": "Miners' Track – 7.2 km Moderate Hike in the UK",
+      "meta_description": "Explore Miners' Track, a 7.2 km moderate UK hike. Learn about the terrain, safety tips, and gear to plan your day.",
+      "h1": "Miners' Track: A 7.2 km Moderate Hike in the UK"
+    }
   }
 }

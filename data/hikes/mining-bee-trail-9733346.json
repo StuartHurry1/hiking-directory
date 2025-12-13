@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9733346
+  },
+  "ai": {
+    "summary": "The Mining Bee Trail is a short, easy 1.8 km hike in the United Kingdom. Suitable for families and casual walkers, it follows gentle paths through countryside with light elevation and opportunities to observe local wildlife.",
+    "terrain_summary": "Primarily flat or gently rolling terrain on well-maintained paths. Some sections may be grassy or muddy after rain; expect occasional roots or small steps and mostly compact surfaces along the route.",
+    "safety_notes": "Check weather and daylight hours before you set out. Wear sturdy footwear and appropriate clothing for UK conditions. Stay on marked trails, be cautious of slipped surfaces when wet, and bring water. Be mindful of insects and wildlife; avoid disturbing nests. In winter, daylight is short and paths can be muddy, so plan accordingly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain shell or layered clothing",
+      "Map or offline navigation on phone",
+      "Snacks",
+      "Sunscreen and hat for sunny days",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter can be wet and muddy, with shorter daylight.",
+    "seo": {
+      "title": "Mining Bee Trail – Easy 1.8 km Hike in the UK",
+      "meta_description": "Explore the Mining Bee Trail, a short and easy 1.8 km hike in the UK. Ideal for families and beginners with gentle terrain and chances to spot local wildlife.",
+      "h1": "Mining Bee Trail: Easy 1.8 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16098019
+  },
+  "ai": {
+    "summary": "Muckle Flugga Trail is a 13.6 km moderate coastal hike in the UK, offering rugged shoreline views and exposed terrain. The route traverses varied coastal habitats with potential winds and uneven footing, suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Coastal paths that are rocky and grassy with uneven surfaces. Some sections can be muddy after rain. Expect exposure with strong winds near sea cliffs, short rocky ascents, and flat stretches. Navigation is straightforward but keep to marked paths.",
+    "safety_notes": "- Weather on coastal UK routes can change rapidly; check the forecast before you go. - Wear sturdy waterproof footwear with good grip and dress in layers; a windproof jacket is recommended. - Stay on marked trails and keep a safe distance from cliff edges; avoid loose rock and unstable ground. - Carry a map and compass or GPS, and know your exit points. - Bring enough water and snacks; be mindful of potential tide-related hazards near estuarine sections if present. - Mobile signal may be weak in remote areas; inform someone of your route and ETA. - In windy or rainy conditions, consider postponing the hike or turning back to safer ground.",
+    "recommended_gear": [
+      "Waterproof jacket and waterproof pants",
+      "Sturdy hiking boots with good grip",
+      "Lightweight backpack with rain cover",
+      "Map and compass or GPS device",
+      "Layers of clothing (base layer, fleece, hat and gloves as needed)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Mobile phone with battery backup"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September), though hikers should be prepared for wind and changing conditions year-round.",
+    "seo": {
+      "title": "Muckle Flugga Trail: 13.6 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover the Muckle Flugga Trail, a 13.6 km moderate coastal hike in the UK. Terrain, safety tips, gear recommendations, and best seasons for this route.",
+      "h1": "Muckle Flugga Trail — A 13.6 km Moderate Coastal Hike in the UK"
+    }
   }
 }
