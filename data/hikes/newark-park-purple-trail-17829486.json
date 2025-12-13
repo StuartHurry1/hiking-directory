@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17829486
+  },
+  "ai": {
+    "summary": "The Newark Park Purple Trail is a roughly 7.5 km moderate hike in the UK that traverses woodland paths and rural scenery around Newark Park. It offers a steady pace with varied terrain suitable for hikers with a reasonable level of fitness.",
+    "terrain_summary": "Terrain includes mixed woodland paths, grassy tracks, and some uneven ground with occasional gentle ascents. Expect a few stony sections and potential muddiness after rain.",
+    "safety_notes": "Check the forecast before you go and start early enough to avoid darkness. Wear sturdy footwear and bring layers, a waterproof jacket, and sufficient water. Stay on marked paths, watch for uneven surfaces and low branches, and inform someone of your plans. Bring a small first-aid kit and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system (1–2 liters)",
+      "Weather-appropriate clothing and a lightweight waterproof jacket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Map, guidebook, or offline GPS",
+      "Fully charged phone with emergency contacts",
+      "Small first-aid kit",
+      "Energy snacks or a light meal",
+      "Lightweight backpack to carry gear",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal; winter visits can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Newark Park Purple Trail: 7.5 km Moderate Hike in the UK",
+      "meta_description": "Discover the Newark Park Purple Trail, a 7.5 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for hiking this trail.",
+      "h1": "Newark Park Purple Trail"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8906662
+  },
+  "ai": {
+    "summary": "Nature Trail Walk is a short, easy 1.4 km hike in the United Kingdom. It’s suitable for beginners and families, offering a gentle pace, minimal elevation gain, and a relaxing route through a scenic, accessible landscape.",
+    "terrain_summary": "Mostly flat to gently rolling paths on a well-maintained nature trail. Expect a mix of gravel, compacted dirt, and occasional grassy or damp stretches; conditions can be muddy after rain, so good footwear is advised.",
+    "safety_notes": "Wear sturdy, comfortable footwear and stay on marked paths. Check the weather before you go and be prepared for sudden changes. Bring water and a light snack. Keep children and pets under supervision. Carry a charged mobile phone and a small first aid kit. Watch for other walkers and cyclists, and observe all posted signs. Leave no trace and dispose of litter properly.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or GPS-enabled device",
+      "Small first aid kit",
+      "Charged mobile phone"
+    ],
+    "best_seasons": "All year round, with the most pleasant conditions in spring and early autumn.",
+    "seo": {
+      "title": "Nature Trail Walk — Easy 1.4 km Hike in the UK",
+      "meta_description": "Discover a gentle 1.4 km nature trail in the UK. Ideal for beginners and families, with flat paths, minimal elevation, and scenic surroundings.",
+      "h1": "Nature Trail Walk (1.4 km) – Easy UK Hike"
+    }
   }
 }

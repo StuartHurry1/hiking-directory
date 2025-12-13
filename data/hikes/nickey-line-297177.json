@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 297177
+  },
+  "ai": {
+    "summary": "Nickey Line is a 30.9 km hard-distance hike in the UK, following a former railway corridor. The route offers a long, mostly linear trek with mixed surfaces, from compact gravel and dirt paths to grassy verges, with occasional gradual climbs and some exposed sections. It’s best suited to experienced walkers with solid navigation and endurance, planning for a full day of trekking and variable weather.",
+    "terrain_summary": "The hike runs along a rails-to-trails corridor with mostly even to gently undulating grades. Expect a mix of compacted gravel, hard-packed dirt, and grass with occasional muddy patches after rain. Some sections are exposed with limited shelter; waymarkers are generally present but rely on navigation in remote stretches.",
+    "safety_notes": "This is a long, hard hike with potential remote segments. Check weather and daylight hours before starting; tell someone your plan and expected finish time. Wear sturdy boots, bring a map or GPS, sufficient water and food, and a basic first aid kit. Be mindful of muddy, slippery surfaces, and possible vagrant weather changes in the UK. Have a plan for navigation in case of poor signposting, and carry a whistle and emergency layer.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Backpack with hydration system or water bottles",
+      "Map, compass or GPS device",
+      "Sufficient water (2–3 liters) and high-energy snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Small first aid kit and blister care",
+      "Emergency blanket or bivvy bag",
+      "Headlamp or torch with spare batteries",
+      "Walking poles (optional but helpful)",
+      "Mobile phone with offline maps and emergency contact info",
+      "Spare clothing layers for cold/wet conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are generally best for dry, daylight-filled conditions; winter hikes are possible with extra caution and gear for mud, cold, and reduced daylight.",
+    "seo": {
+      "title": "Nickey Line – 30.9 km Hard Hike in the UK",
+      "meta_description": "Explore the Nickey Line, a challenging 30.9 km hike in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this rails-to-trail adventure.",
+      "h1": "Nickey Line – 30.9 km Hard Hike in the UK"
+    }
   }
 }

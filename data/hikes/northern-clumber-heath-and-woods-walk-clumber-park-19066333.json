@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19066333
+  },
+  "ai": {
+    "summary": "A challenging 16.8 km circuit through Clumber Park’s heath and woodlands, featuring undulating terrain, mixed surfaces, and exposed sections. Suited for experienced hikers seeking a strenuous day out in the UK.",
+    "terrain_summary": "Mixed surfaces including firm paths, muddy woodland tracks, and open heathland. Expect gentle to steep ascents, roots and rocks, and some exposed, potentially windy stretches.",
+    "safety_notes": "This is a strenuous hike that can take most of a day. Plan ahead: check weather and park access, bring navigation tools, and tell someone your route. Wear sturdy, waterproof boots and dress in layers. Carry plenty of water and snacks. Stay on marked paths, watch for uneven ground, and expect mud, ticks, and changing conditions; in remote areas mobile signal may be limited. Have a plan for emergencies and know approximately where you are at all times.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water (2–3 litres) and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket and pants)",
+      "Map and compass or GPS device",
+      "Headlamp or small flashlight",
+      "Small first aid kit and blister care",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency whistle and space blanket",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring to autumn is ideal—drier trails and longer daylight; winter hikes are more exposed, colder, and often muddier.",
+    "seo": {
+      "title": "Northern Clumber Heath and Woods Walk – 16.8 km Hard Hike in Clumber Park, UK",
+      "meta_description": "Discover the 16.8 km Northern Clumber Heath and Woods Walk through Clumber Park’s heathland and woodlands. A demanding route for experienced hikers in the UK.",
+      "h1": "Northern Clumber Heath and Woods Walk"
+    }
   }
 }

@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 2152699
+  },
+  "ai": {
+    "summary": "New Town Trail is a demanding long-distance hike in the UK, spanning 45.1 km with a hard difficulty rating. The route traverses an unknown region and combines varied terrains, requiring strong fitness, solid navigation, and careful planning. It is best suited for experienced hikers who can cover long distances in a single day or split the hike over multiple days depending on pace and conditions.",
+    "terrain_summary": "Expect a mix of forest tracks, rough moorland, and exposed open sections. The trail may include muddy paths, rocky footing, and occasional stream crossings. Elevation gains are persistent but vary by section, with several steep ascents and descents. Weather in the UK can change quickly, so be prepared for wind, rain, and sudden cold.",
+    "safety_notes": "Check the weather forecast before departure; UK weather is highly variable. Carry a map and compass and know how to use them; do not rely on GPS alone. Tell someone your plan and expected return time. Start early to maximize daylight and have an escape plan if pace drops. Bring sufficient water and high-energy food for 45.1 km; consider refills along the route if available. Wear sturdy, waterproof footwear and layer appropriately; bring a waterproof jacket and hat. Have a headtorch with spare batteries, a first-aid kit, and a space blanket or bivvy for emergencies. Carry a whistle for signaling and a fully charged mobile phone with a portable charger. Have a backup navigation device or GPX file and know the route; know your turnaround point and know when to cut the hike short for safety.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Water supply for 2–3 liters or more and a means to re-fill",
+      "Breathable waterproof outer layer (jacket and pants)",
+      "Layered clothing including fleece or insulation",
+      "Warm hat and gloves",
+      "Headlamp or flashlight with extra batteries",
+      "Map and compass (and/or a GPS device with offline maps)",
+      "First-aid kit suitable for long distances",
+      "High-energy snacks and meals (nuts, bars, energy gels) and a portable stove if multi-day",
+      "Emergency space blanket or bivvy sack",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional)",
+      "Mobile phone with full charge and portable charger",
+      "Dry bag or waterproof covers for gear",
+      "Rucksack with rain cover",
+      "Personal identification and emergency contact details"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer longer daylight and more stable weather in the UK; autumn can be enjoyable but weather becomes more unsettled; winter hikes are possible but require advanced mountaineering skills, extra equipment, and careful planning.",
+    "seo": {
+      "title": "New Town Trail — 45.1 km Hard Hike in the UK",
+      "meta_description": "Plan and prepare for New Town Trail, a 45.1 km hard hike in the UK. Learn about terrain, safety, best seasons, and gear for this demanding long-distance route.",
+      "h1": "New Town Trail: 45.1 km Hard Hike in the UK"
+    }
   }
 }

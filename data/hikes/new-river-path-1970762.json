@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 1970762
+  },
+  "ai": {
+    "summary": "New River Path is a long-distance UK hike totaling 106.8 km. It combines riverbank towpaths, country lanes, and wooded paths, delivering varied scenery from urban edges to tranquil countryside. The route is physically demanding (hard difficulty) with stretches of uneven surfaces, potential mud, and several long days of walking; plan for fatigue, navigation checks, and weather shifts. The hike is best approached in stages with proper gear and safety considerations due to remote sections and changing conditions.",
+    "terrain_summary": "Expect a mix of river towpaths, gravel and dirt trails, meadow tracks, and occasional road sections. Surfaces can be muddy after rain; some sections have gentle to moderate elevation gains, while a few segments are more strenuous. Variable shade and sun exposure along the river corridors; potential for wind exposure in open fields. Navigation relies on signs in built-up areas and waymarkers in rural sections—carry a map or GPS and allow extra time for detours near private land and farm crossings.",
+    "safety_notes": "Check weather forecasts and bring adaptable clothing. Some sections may have limited mobile reception; carry a map, compass, or GPS. Respect private property and farm access rules; close gates behind you. Watch for river crossings after rain and avoid fordings during high water. Stay hydrated and carry extra water in hot weather. In remote segments, have a plan for overnight stops or ferryments to nearby towns. In the UK, dial 999 in emergencies. Be mindful of ticks in wooded areas and keep to marked paths to avoid sensitive habitats.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and pants, plus an insulating layer",
+      "Layered clothing for changing conditions",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable power bank",
+      "First aid kit and blister care essentials",
+      "Water bottles or hydration system (at least 2 L total)",
+      "High-energy snacks and lightweight meals",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency shelter or space blanket",
+      "Whistle for signaling",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Insect repellent and basic tick protection",
+      "Lightweight rain cover for backpack",
+      "Trekking poles (optional but helpful)",
+      "Camera or notebook for notes/photos"
+    ],
+    "best_seasons": "May to September (spring through autumn; avoid winter months due to shorter daylight and variable conditions)",
+    "seo": {
+      "title": "New River Path – 106.8 km Hard Hike in the UK",
+      "meta_description": "Plan your trek along the New River Path, a demanding 106.8 km route in the UK. Find terrain highlights, safety tips, gear lists, and the best seasons for this challenging long-distance hike.",
+      "h1": "New River Path – 106.8 km Hard UK Hike"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1718871
+  },
+  "ai": {
+    "summary": "Newcastle Way is a challenging long-distance hike in the United Kingdom, covering 171.5 km with a hard difficulty rating. The route traverses varied terrain and requires careful planning, fitness, and navigation. Region is unspecified, but the hike is in the UK, so expect typical British weather and scenery.",
+    "terrain_summary": "Expect mixed UK terrain along this long-distance route: undulating hills, grassy paths, forest tracks, moorland sections, and occasional road and village segments. Navigation skill and sturdy footwear are important for endurance and safety.",
+    "safety_notes": "This is a hard, multi-day trek. Plan the itinerary according to your fitness and available daylight. Check weather forecasts and seasonal hazards. Carry a map and compass (or GPS with backups), a fully charged phone, and a means to communicate in remote sections. Tell someone your route and expected finish times. Bring sufficient food and water, plus emergency shelter or bivouac gear for unforeseen delays. Wear appropriate clothing and boots, monitor fatigue and footing to prevent injury.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable, moisture-wicking layers and extra insulation",
+      "Waterproof jacket and pants; hat and gloves if cold",
+      "Backpack with 20–40 L capacity",
+      "Map and compass (or GPS with extra batteries) plus a route description",
+      "Fully charged mobile phone and portable charger",
+      "Updated first aid kit tailored to trekking",
+      "Sufficient food and water, plus portable water filter or purification tablets",
+      "Emergency shelter or bivvy sack; lightweight tent if camping",
+      "Headlamp with spare batteries",
+      "Whistle, multitool, and emergency blanket",
+      "Sun protection and insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) typically offers the best conditions for this long-distance hike in the UK, with longer days and generally milder weather. Winter and autumn can bring heavy rain, wind, and uneven footing.",
+    "seo": {
+      "title": "Newcastle Way – 171.5 km Hard UK Hike",
+      "meta_description": "Plan your Newcastle Way trek: a demanding 171.5 km long-distance hike in the UK. Terrain overview, safety tips, gear list and best seasons.",
+      "h1": "Newcastle Way: 171.5 km Hard UK Long-Distance Hike"
+    }
   }
 }

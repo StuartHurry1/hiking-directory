@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1542255
+  },
+  "ai": {
+    "summary": "The Northamptonshire Round is a challenging long-distance circuit in the United Kingdom, covering about 206.7 km. Classified as hard, the route threads through rural countryside, village networks, hedgerows, farmland, and intermittent woodlands. Expect multi-day trekking with varied terrain, navigation decisions, and exposure to changeable UK weather.",
+    "terrain_summary": "A predominantly rural route with rolling farmland, hedgerows, country lanes, minor hills, and occasional woodlands. Expect stiles, gates, and several road crossings; sections may be muddy after rain and footing can be uneven on field paths. Some road walking and longer rural stretches between villages.",
+    "safety_notes": "Plan a realistic itinerary and anchor points for rest days. Carry navigation tools (map, compass, offline GPS) and know how to use them; stay on marked paths where possible. Check weather forecasts; be prepared for cold, wet, and windy conditions year-round. Watch for livestock and farm gates, ensure parking and permissions where required; carry a means of communication and notify someone of your plan; have a contingency plan for difficult terrain or injuries.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing suitable for UK weather",
+      "Breathable waterproof jacket and trousers",
+      "Rugged 20–40 L backpack",
+      "High-energy snacks and meals; water supply for 2–3 L per day, plus purification method",
+      "Navigation tools: map, compass, and offline GPS",
+      "Headlamp or trekking light with extra batteries",
+      "First-aid kit and blister care",
+      "Emergency whistle and multitool",
+      "Lightweight tent or bivvy bag and sleeping bag for camping",
+      "Sun protection: sunscreen, hat, sunglasses",
+      "Insect repellent and spare protection",
+      "Power bank and charging cables; spare batteries"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for milder weather and longer daylight; winter hiking is possible but more challenging and requires additional planning.",
+    "seo": {
+      "title": "Northamptonshire Round: 206.7 km Hard UK Long-Distance Trail",
+      "meta_description": "Explore the Northamptonshire Round, a 206.7 km hard-distance hike in the UK. Terrain, safety tips, gear guidance, best seasons, and planning advice for this challenging circuit.",
+      "h1": "Northamptonshire Round – A 206.7 km Hard UK Trail"
+    }
   }
 }

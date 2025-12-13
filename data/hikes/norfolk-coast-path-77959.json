@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 77959
+  },
+  "ai": {
+    "summary": "A strenuous coast-hugging trek along England's east coast, the Norfolk Coast Path covers 485.7 km of diverse scenery—from marshes and tidal flats to dunes and windswept beaches—offering a remote, wildlife-rich experience for experienced long-distance hikers.",
+    "terrain_summary": "The route traverses flat to gently rolling coastal terrain with long stretches of soft sand, boardwalks, mud flats at low tide, salt marshes, dune systems, and occasional sea cliffs. Expect exposed sections, strong winds, and variable footing; navigation is straightforward but can be challenging in bad weather.",
+    "safety_notes": "This is a long, exposed coastal route with tidal zones and remote sections. Check tide times before crossing estuaries and mud flats; some paths are behind tidal limits. Weather can change rapidly; bring waterproofs, warm layers, and sun protection. Distances between settlements can be long; ensure adequate water and food. Mobile reception can be poor in marshes and remote stretches; carry a map and compass, and consider a GPS device. Wildlife and coastal erosion can present hazards; avoid unstable cliffs and soft sand near the shore. Let someone know your itinerary and expected schedule.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof layered clothing (base layer, insulating layer, outer shell)",
+      "Waterproof jacket and pants",
+      "Backpack with rain cover",
+      "Hydration system or water bottles (3–4 liters capacity)",
+      "High-energy snacks and meals for long days",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency whistle and basic first aid kit",
+      "Sunscreen, hat, and sunglasses",
+      "Trekking poles",
+      "Dry bags for electronics and valuables",
+      "Portable phone charger or solar charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather, longer daylight hours, and better sea conditions for long-distance coastal trekking. Winters can be cold, windy, and stormy, making the hike more demanding.",
+    "seo": {
+      "title": "Norfolk Coast Path – 485.7 km Coastal Trek in the UK",
+      "meta_description": "Explore the Norfolk Coast Path, a challenging 485.7 km coastal hike in the United Kingdom. Learn about terrain, safety, best seasons, and gear for this epic coastal trek.",
+      "h1": "Norfolk Coast Path: A 485.7 km Coastal Trek Across England"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 18547924
+  },
+  "ai": {
+    "summary": "The Neptune Health Park Walk is a 14-kilometre moderate hike in the UK, following a circular route through urban parkland and green spaces with varied scenery.",
+    "terrain_summary": "Predominantly well-maintained pavements and compact gravel paths, with occasional grassy or boardwalk sections and a few gentle rises. Expect uneven patches near park features such as streams or gardens.",
+    "safety_notes": "Total distance is 14 km. Check the weather forecast and wear sturdy, waterproof footwear. Bring water, sun protection, and a light layer for changing conditions. Stay on marked trails, yield to other park users, and keep a charged phone with emergency contacts. If walking alone, share your plan and expected return time.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes with good grip",
+      "Windproof/waterproof jacket",
+      "Hat and sunscreen",
+      "Map or offline navigation",
+      "Phone with charged battery and emergency contact",
+      "Small first aid kit",
+      "Snacks",
+      "Light backpack",
+      "Rain cover",
+      "Sunglasses"
+    ],
+    "best_seasons": "Spring and autumn are ideal for mild temperatures and moderate crowds; summer offers longer daylight, while winter can be chilly and surfaces slippery.",
+    "seo": {
+      "title": "Neptune Health Park Walk - 14 km Moderate UK Hike",
+      "meta_description": "Discover the Neptune Health Park Walk, a 14-kilometre moderate hike in the UK. Learn about terrain, safety tips, and gear for a comfortable day on parkland trails.",
+      "h1": "Neptune Health Park Walk"
+    }
   }
 }

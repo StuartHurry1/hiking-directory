@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11507214
+  },
+  "ai": {
+    "summary": "Short, easy 0.8 km cycle track in the UK named North Roe Cycle Track. A flat, family-friendly route suitable for riders of all ages and abilities, offering a quick outdoor connection with minimal elevation.",
+    "terrain_summary": "Predominantly flat and smooth surface along a dedicated cycle path. Easy for beginners; expect a paved or compact surface with gentle residual camber. Very short distance makes it ideal for a quick ride, school outing, or practice session.",
+    "safety_notes": "Wear a certified cycling helmet and appropriate high-visibility clothing. Follow local rules, keep to the track, and be mindful of pedestrians. Bring a waterproof layer for variable UK weather, and carry a phone with emergency contacts. Check bike condition before riding; have a puncture repair kit and spare inner tube if possible.",
+    "recommended_gear": [
+      "Helmet",
+      "Water bottle",
+      "Weather-appropriate clothing (e.g., waterproof jacket)",
+      "Sturdy shoes",
+      "Puncture repair kit and spare inner tube",
+      "Phone with emergency contacts / map",
+      "Lights or reflective gear for low light conditions"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for the warmest, driest conditions in the UK; the track can be ridden year-round with caution.",
+    "seo": {
+      "title": "North Roe Cycle Track – Easy 0.8 km Ride in the UK",
+      "meta_description": "Experience the North Roe Cycle Track in the UK. An ultra-short, easy 0.8 km route ideal for families and beginners, featuring a flat surface and minimal elevation.",
+      "h1": "North Roe Cycle Track: 0.8 km Easy Ride in the UK"
+    }
   }
 }

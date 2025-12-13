@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4004227
+  },
+  "ai": {
+    "summary": "A short, easy 3 km hike on the North Face Path in the UK, suitable for beginners and families. The route offers light scenery and a relaxed pace with minimal ascent.",
+    "terrain_summary": "Mostly well-maintained trail with a gentle profile. Firm footing in dry conditions, with occasional mud after rain. Some sections may be grassy or slightly uneven; good footwear helps. The path is generally clearly marked and easy to follow.",
+    "safety_notes": "Check the weather forecast before you go and start with plenty of daylight. Wear sturdy walking shoes and bring a waterproof layer. Carry water and some snacks. Stay on the marked path, respect private land where applicable, and supervise children and dogs. In wet conditions be mindful of mud and slippery sections; bring a map or offline navigation and have a means to call for help.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Water and snacks",
+      "Weather-appropriate clothing, including a waterproof layer",
+      "Lightweight backpack",
+      "Map or GPS (and a charged phone)",
+      "Hat and sunscreen",
+      "Extra layer for chilly or windy conditions",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to Autumn (mild weather and longer daylight; winter visits are possible with appropriate gear and cautious planning)",
+    "seo": {
+      "title": "North Face Path - Easy 3 km Hike in the UK",
+      "meta_description": "Discover the North Face Path, a short and easy 3 km hike in the United Kingdom. Practical safety tips, gear recommendations, and best seasons.",
+      "h1": "North Face Path – Easy 3 km Hike in the UK"
+    }
   }
 }

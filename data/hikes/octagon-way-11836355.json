@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11836355
+  },
+  "ai": {
+    "summary": "Octagon Way is a challenging long-distance hike in the United Kingdom, totaling 44.2 km. It is best suited for experienced hikers with strong endurance, solid navigation skills, and good weather tolerance. The route offers varied terrain and potential weather-related challenges, so thorough planning and pacing are essential.",
+    "terrain_summary": "Expect a varied mix of terrain across the UK setting: wooded trails, grassy paths, gravel tracks, and uneven surfaces. There will likely be elevation changes, with some steep sections and long, exposed stretches. Footing can be muddy or rocky, and weather can change quickly, so be prepared for different conditions along the way.",
+    "safety_notes": "Distance and difficulty require careful safety planning. Carry a detailed map and compass and know how to use them. Check the forecast and daylight hours before starting; tell someone your planned route and ETA. Start conservatively to avoid fatigue; take regular breaks. Wear sturdy boots and dress in layers with waterproof outerwear. Stay hydrated and carry enough food for the day or days. Pack a small first aid kit, emergency whistle, and a space blanket. Have a fully charged phone as a backup, but do not rely on it for navigation. Be prepared to turn back if weather deteriorates or if fatigue or injury occurs, and seek shelter if necessary.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof breathable jacket and layers",
+      "Insulating mid layer (fleece or down)",
+      "Hat and gloves (seasonal)",
+      "Detailed map and compass (and GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Water supply of 2-3 liters and high energy snacks",
+      "Small first aid kit",
+      "Emergency whistle and space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March to September) typically offers the best overall conditions for Octagon Way in the UK, with longer daylight and milder weather. Summer can be longer days but rain and heat are possible; autumn can be variable with early frosts. Winter hiking is possible only for experienced hikers with additional precautions.",
+    "seo": {
+      "title": "Octagon Way – 44.2 km Hard Hike in the UK",
+      "meta_description": "Explore Octagon Way, a challenging 44.2 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons to tackle this demanding route.",
+      "h1": "Octagon Way: 44.2 km Hard Hike in the UK"
+    }
   }
 }

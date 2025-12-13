@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 6883538
+  },
+  "ai": {
+    "summary": "North Esk Way is a challenging 34.7 km hike in the UK, designed for experienced walkers. The route combines riverbank paths, moorland and rocky sections, with significant elevation gain and long distances between potential resupply points. Plan for a long day or split into two shorter legs, and be prepared for changeable UK weather.",
+    "terrain_summary": "Expect varied terrain: riverbank trails that can be muddy, grassy moorland with uneven footing, and intermittent rocky ascents. Some sections may be exposed with open ground and changing weather. Navigation is straightforward on official paths, but remote stretches may have faint routes and seasonal boggy patches.",
+    "safety_notes": "- Distance and difficulty: 34.7 km, hard terrain; suitable for experienced hikers with good fitness. - Weather: UK conditions can be unpredictable; check the forecast and carry layers and waterproofs. - Navigation: carry a map and compass or a GPS device; share your plan with someone and consider informing them of your expected return. - Terrain hazards: muddy sections, exposed climbs, and potential bogs; watch footing on rocks and roots; be cautious near river crossings, as water levels can rise after rain. - Daylight: plan around daylight hours; winter hiking requires extra caution. - Emergency: carry a first aid kit, whistle, and an emergency shelter or space blanket; ensure your phone is charged and consider offline maps.",
+    "recommended_gear": [
+      "Waterproof hiking jacket",
+      "Sturdy hiking boots",
+      "Layered clothing and moisture-wicking base layers",
+      "Map and compass or GPS device",
+      "Sufficient food and 2–3 liters of water",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Waterproof backpack cover or dry bags",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for longer daylight and drier conditions; winter hiking is possible but requires advanced planning due to cold, wet weather and potential ice.",
+    "seo": {
+      "title": "North Esk Way – 34.7 km Hard Hike in the UK",
+      "meta_description": "Explore North Esk Way, a challenging 34.7 km hike in the UK. Terrain highlights, safety tips, best seasons, and gear recommendations for experienced hikers.",
+      "h1": "North Esk Way: A 34.7 km Hard UK Trek"
+    }
   }
 }

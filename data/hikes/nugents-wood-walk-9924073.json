@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9924073
+  },
+  "ai": {
+    "summary": "Nugent's Wood walk is a short, easy 1.4 km excursion through a woodland setting in the UK. Ideal for families, beginners, and walkers seeking a gentle pace, the route offers shaded paths, birdsong, and pleasant natural scenery.",
+    "terrain_summary": "Mostly flat or gently undulating woodland trails with packed dirt and occasional roots. Expect some muddy patches after wet weather. The surface is well-maintained but can be uneven in places, so sturdy footwear is recommended.",
+    "safety_notes": "Stay on marked trails and observe posted signs. Wear sturdy footwear and bring water. Be prepared for weather changes and potential mud after rain; dress in layers. Watch for roots, low branches, and wildlife. If walking alone, inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing and a light waterproof layer",
+      "Water bottle",
+      "Small backpack",
+      "Map or offline GPS / Smartphone with offline map",
+      "Hat and sunscreen for sunny days",
+      "Insect repellent in warmer months"
+    ],
+    "best_seasons": "Spring, Summer and Autumn. Winter visits are possible but expect mud, reduced daylight, and cooler conditions; plan accordingly.",
+    "seo": {
+      "title": "Nugent's Wood Walk - Easy 1.4 km Woodland Trail in the UK",
+      "meta_description": "Explore Nugent's Wood walk, an easy 1.4 km woodland trail in the UK. A family-friendly route with shaded paths, gentle terrain, and natural scenery.",
+      "h1": "Nugent's Wood Walk"
+    }
   }
 }

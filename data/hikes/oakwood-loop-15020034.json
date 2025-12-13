@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 15020034
+  },
+  "ai": {
+    "summary": "Oakwood Loop is a short, easy 2.6 km woodland loop in the UK, ideal for families and casual walkers seeking a peaceful stroll among trees. The trail is mostly flat with gentle grades and well-kept paths.",
+    "terrain_summary": "Mostly flat to gently rolling woodland paths with compact dirt or gravel surfaces. Expect occasional tree roots near the path, damp patches after rain, and shaded sections.",
+    "safety_notes": "Stay on marked trails. Wear sturdy footwear and weather-appropriate clothing. Check the forecast; UK weather can change quickly. Bring water and snacks. Be mindful of ticks in woodland; perform a quick check after the hike. Carry a map or GPS, and have a charged phone for emergencies. Take care on uneven sections after rain; watch for cyclists on shared paths.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Weather-appropriate layers (waterproof jacket)",
+      "Lightweight backpack",
+      "Water bottle",
+      "Snack or energy bar",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Small first aid kit",
+      "Map or offline navigation (or fully charged smartphone with offline map)",
+      "Mobile phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (winter can be muddy and daylight-limited).",
+    "seo": {
+      "title": "Oakwood Loop – Easy 2.6 km Woodland Hike in the UK",
+      "meta_description": "Discover Oakwood Loop, a gentle 2.6 km hike through UK woodlands. Easy terrain, family-friendly path, safety tips, and essential gear.",
+      "h1": "Oakwood Loop: Easy 2.6 km Woodland Hike in the UK"
+    }
   }
 }

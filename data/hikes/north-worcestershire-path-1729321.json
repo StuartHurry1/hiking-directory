@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1729321
+  },
+  "ai": {
+    "summary": "The North Worcestershire Path is a challenging long-distance trail in the UK, spanning 186.5 km. It is designed for experienced hikers and traverses varied rural landscapes with significant elevation and demanding sections.",
+    "terrain_summary": "Expect a mix of country lanes, farmland, hedgerows, woodlands, minor ascents, river crossings, and uneven surfaces. Surfaces range from compact paths to mud and grassy tracks; stiles and occasional rocky sections may require careful footing and attention to weather conditions.",
+    "safety_notes": "Prepare for remote stretches; carry a map and a compass or GPS, and inform someone of your itinerary. Weather in the UK can change quickly; dress in layers and carry waterproofs. Wear sturdy boots, watch for muddy or uneven sections, and stay on marked paths. Plan for daylight and rest; carry enough food and water. Respect livestock and land access rules; carry a whistle for emergencies. In case of emergency, know the local number 999.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable outer layer",
+      "Warm layers and hat/gloves",
+      "Map and compass or GPS device",
+      "Hydration system or ample water",
+      "High-energy snacks and meals",
+      "First aid kit",
+      "Headlamp with spare batteries",
+      "Emergency whistle",
+      "Rain cover for backpack",
+      "Trekking poles (optional)",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October); conditions are typically most favorable in late spring and early autumn, with longer daylight hours for long days.",
+    "seo": {
+      "title": "North Worcestershire Path: 186.5 km Hard-Distance Trail in the UK",
+      "meta_description": "Plan your trek along the North Worcestershire Path, a demanding 186.5 km route in the UK. Practical safety tips, gear suggestions, and seasonal advice for experienced hikers.",
+      "h1": "North Worcestershire Path — 186.5 km Hard-Distance Trail (UK)"
+    }
   }
 }

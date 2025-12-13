@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 2665246
+  },
+  "ai": {
+    "summary": "The North Sperrins Way is a hard 21.1 km ridge hike featuring exposed upland sections, rugged footing, and remote scenery. It suits experienced hikers with solid navigation skills and good fitness, as weather can change quickly in the UK.",
+    "terrain_summary": "Rugged upland ridges with grassy paths, rocky outcrops, boggy patches, and variable footing. Expect exposed sections, long ascents and descents, and remote stretches where shelter is limited; navigation can be challenging in poor visibility.",
+    "safety_notes": "This is a strenuous, exposed route. Check the forecast and wind speeds before you go; avoid severe weather. Carry a map and compass as a backup to GPS, and inform someone of your plan and expected return. Start early to ensure daylight, and bring a headlamp. Wear sturdy boots with good grip, consider trekking poles, and pack extra warm layers, waterproofs, food, and water. Be prepared for bogs and uneven ground; in remote sections cellular coverage may be limited and emergency help could take time.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Insulating mid-layer and warm hat/gloves",
+      "Map and compass (and/or GPS device) with full charge",
+      "Headlamp with extra batteries",
+      "Water and high-energy snacks",
+      "Emergency blanket or bivy sack",
+      "First aid kit",
+      "Whistle and basic repair kit",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–October) offers better visibility and moderate weather, though conditions on ridges can still be windy and changeable; avoid very wet or icy periods and be prepared for sudden weather shifts.",
+    "seo": {
+      "title": "North Sperrins Way: 21.1 km Hard Ridge Hike in the UK",
+      "meta_description": "Plan your North Sperrins Way hike — a 21.1 km hard ridge route in the UK. Learn about terrain, safety, gear, and the best seasons for this rugged trail.",
+      "h1": "North Sperrins Way – 21.1 km Ridge Hike (Hard)"
+    }
   }
 }

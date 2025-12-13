@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 19917914
+  },
+  "ai": {
+    "summary": "A strenuous 21.5 km ridge hike in the UK, from Newton Bridge to Amulree. Expect exposed ridgelines, variable weather, and remote terrain requiring good fitness, navigation, and preparation.",
+    "terrain_summary": "Rugged ridge terrain with exposed sections, rocky ascents, boggy moorland, and occasional woodland near endpoints. Navigation can be tricky in bad visibility; be prepared for sudden weather changes and long stretches without shelter.",
+    "safety_notes": "Plan as a long day or multi-day trek with a clear route and timing. Always inform someone of your plan and expected return. Check the forecast; UK ridge weather can change rapidly with wind, rain, and cold. Carry a detailed map and compass (GPS as backup). Wear sturdy waterproof boots and dress in layers; bring waterproof jacket and trousers. Stay hydrated and carry extra food. Be prepared for boggy ground and exposed sections; use trekking poles for stability. Respect difficult sections; if conditions worsen, turn back. Carry a whistle, first-aid kit, emergency blanket, and a personal locator beacon if available.",
+    "recommended_gear": [
+      "Orienteering map and compass (backup GPS)",
+      "Fully waterproof jacket and trousers",
+      "Insulating layer (fleece or down)",
+      "Sturdy, waterproof hiking boots with good grip",
+      "Gloves and hat for cold or windy conditions",
+      "Hydration system or ample water supply",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "Emergency blanket or bivy sack",
+      "First-aid kit",
+      "Whistle",
+      "Trekking poles",
+      "Personal locator beacon or satellite messenger (where available)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly May–September) offer the best chances for dry, daylight conditions in the UK; however, weather can be unpredictable year-round, so be prepared.",
+    "seo": {
+      "title": "Newton Bridge to Amulree Ridge Hike – 21.5 km Challenge in the UK",
+      "meta_description": "Take on a demanding 21.5 km ridge hike from Newton Bridge to Amulree in the UK. Learn terrain, safety tips, gear, and the best seasons.",
+      "h1": "Newton Bridge to Amulree Ridge Hike"
+    }
   }
 }

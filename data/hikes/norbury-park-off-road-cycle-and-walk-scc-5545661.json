@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 5545661
+  },
+  "ai": {
+    "summary": "A scenic 11.2 km mixed-terrain loop at Norbury Park designed for walkers and cyclists, featuring off-road trails through woodland and open areas with a moderate elevation and varied surfaces.",
+    "terrain_summary": "Mixed surfaces including compact gravel, dirt tracks, and occasional paved sections. Expect roots, uneven ground in woodland, occasional muddy patches after rain, and gentle, rolling sections.",
+    "safety_notes": "Check weather forecast as conditions can change quickly; trails may be muddy and slippery. Stay on marked paths and be mindful of other trail users (walkers and cyclists). Wear a helmet if cycling and suitable footwear for uneven ground. Bring water, a map or GPS-enabled device, and a charged phone with emergency contacts. Daylight hours vary; plan accordingly and inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Bike helmet",
+      "Water bottle or hydration pack",
+      "Sturdy hiking shoes or trail runners",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map or GPS device / smartphone with offline map",
+      "Spare inner tube and basic bike repair kit",
+      "High-visibility vest or jacket",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn are ideal (milder weather and longer days); summer is great for dry trails, while winter visits are possible with proper gear but expect muddier surfaces and reduced daylight.",
+    "seo": {
+      "title": "Norbury Park Off Road Cycle & Walk (SCC) – 11.2 km Moderate Trail in the UK",
+      "meta_description": "Explore an 11.2 km moderate off-road loop at Norbury Park, suitable for walkers and cyclists. Mixed surfaces, woodland views, safety tips, and gear recommendations for UK trails.",
+      "h1": "Norbury Park Off Road Cycle & Walk (SCC) – 11.2 km Moderate Trail"
+    }
   }
 }

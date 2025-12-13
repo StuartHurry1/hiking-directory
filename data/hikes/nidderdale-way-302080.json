@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 302080
+  },
+  "ai": {
+    "summary": "Nidderdale Way is a long-distance circular trail in North Yorkshire, UK, spanning about 279.9 km. The route winds through the Nidderdale area and surrounding valleys, offering a mix of moorland, limestone pavements, farmland, and historic villages. It is a demanding trek suitable for experienced hikers prepared for multi-day walking and varied weather conditions.",
+    "terrain_summary": "Predominantly rural upland terrain with rough paths, rocky sections, and some road stints. Expect steep ascents and descents, exposed ridgelines, damp moorland, and river valleys. Navigation relies on maps, waymarkers, and GPS in remote parts; weather can change rapidly in the UK.",
+    "safety_notes": "Plan as a multi-day trek with a realistic schedule and a safety margin. Inform someone of your route and timings. Carry maps, compass, or a reliable GPS, and ensure your phone is charged with offline access. Bring adequate food and water, a weather-appropriate wardrobe, and a basic first aid kit. Be prepared for sudden rain, fog, or cold; some segments have limited services. Follow local access rules and livestock guidelines; start early to maximize daylight.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base, mid, outer) and a waterproof jacket/pants",
+      "Rucksack with rain cover",
+      "Map and compass (and optional GPS)",
+      "Headlamp with spare batteries",
+      "Water bottle or hydration system + water treatment option",
+      "High-energy food and snacks",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Hat and gloves",
+      "Trekking poles (optional)",
+      "Lightweight emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) for better daylight and milder conditions; the route is still doable in winter with careful planning and equipment for cold, wet, and windy weather.",
+    "seo": {
+      "title": "Nidderdale Way: 279.9 km UK Long-Distance Hike in North Yorkshire",
+      "meta_description": "Plan your Nidderdale Way trek. A challenging 279.9 km route through North Yorkshire's Nidderdale AONB. Learn about terrain, safety tips, gear, and the best seasons for this UK long-distance hike.",
+      "h1": "Nidderdale Way: North Yorkshire Long-Distance Hike"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3293905
+  },
+  "ai": {
+    "summary": "A coastal cliff-top hike of about 24.5 km from Newhaven to Brighton along the Sussex shore. A strenuous, exposed route with chalk cliffs, uneven tracks, and long ascents and descents. Offers panoramic sea views and several villages along the way. Best tackled by experienced hikers with solid navigation and weather prep. Plan for a long day, typically 6–9 hours depending on pace and stops.",
+    "terrain_summary": "The route follows narrow cliff-top paths and inland tracks with chalk and stone surfaces, featuring uneven footing, loose gravel, mud after rain, short steep sections, and exposed ridgelines with strong winds. Some segments near the edge have poor footing; stay well back from cliff edges. Terrain alternates between compact paths, grassy verges, and occasional road crossings.",
+    "safety_notes": "Check the weather and daylight; coastal winds can be strong and rain may reduce visibility. Avoid close approaches to cliff edges and heed erosion closures. Carry a map and compass or GPS, and know the route or have a reliable navigation device. Allow ample time for unexpected delays and return. Bring enough water and energy snacks; be prepared for rapidly changing conditions. Leave no trace, respect landowners and wildlife, and if conditions worsen, turn back or shorten the route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Insulating layer (fleece or wool)",
+      "Breathable base layers",
+      "Hat and gloves (season dependent)",
+      "Sunglasses and sunscreen",
+      "Map and compass or GPS device (and fully charged phone)",
+      "2–3 liters of water and high-energy snacks",
+      "Head torch or small flashlight (for late finishes)",
+      "Small first aid kit and emergency whistle",
+      "Lightweight rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for longer daylight and generally milder, drier conditions. Winter hikes are possible but more exposed and weather-dependent; avoid very windy or icy days.",
+    "seo": {
+      "title": "Newhaven to Brighton Clifftop Path – 24.5 km Hard Coastal Hike in the UK",
+      "meta_description": "Explore the challenging 24.5 km Newhaven-Brighton Clifftop Path along the Sussex coast. Exposed chalk-cliff terrain, coastal winds, safety tips, gear, and season guidance.",
+      "h1": "Newhaven-Brighton Clifftop Path Hiking Guide"
+    }
   }
 }

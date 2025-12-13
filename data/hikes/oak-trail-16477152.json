@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16477152
+  },
+  "ai": {
+    "summary": "Oak Trail is a short, easy 2.6-kilometer hike in the United Kingdom, ideal for beginners and families seeking a quick outdoor stroll. The route follows well-maintained paths with gentle elevation, offering a pleasant outdoor experience without strenuous climbs.",
+    "terrain_summary": "The trail runs on well-defined paths—gravel, compact dirt, or boardwalk in shaded sections—with mostly flat or gently rolling terrain. Expect occasional roots or uneven patches near trees, but overall a smooth walking surface.",
+    "safety_notes": "Weather in the UK can change rapidly. Check the forecast before you go and bring layers, a waterproof jacket, and adequate water. Wear sturdy walking shoes, stay on marked paths, and supervise children closely. Have a map or GPS on hand; tell someone your plan and estimated return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket or shell",
+      "Hat and sunscreen",
+      "Snacks",
+      "Small first aid kit",
+      "Map or GPS device or offline map on phone",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn are ideal for Oak Trail in the UK, offering comfortable temperatures and longer daylight; the trail can be hiked year-round with proper gear.",
+    "seo": {
+      "title": "Oak Trail – Easy 2.6 km Hike in the UK",
+      "meta_description": "Discover Oak Trail, a short and easy 2.6 km hike in the United Kingdom. Learn about terrain, safety tips, best seasons, and what gear to bring.",
+      "h1": "Oak Trail – Easy 2.6 km Hike in the UK"
+    }
   }
 }

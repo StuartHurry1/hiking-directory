@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16517795
+  },
+  "ai": {
+    "summary": "The New Cut Trail is a 7.1 km moderate hike in the United Kingdom that combines woodland paths with open sections. It offers steady elevation changes and scenic views, suitable for hikers with some experience and a good fitness level.",
+    "terrain_summary": "Mixed terrain including well-defined paths, grassy sections, and occasional rocky steps. Expect muddy patches after rain and moderate elevation gain with some short ascents and descents.",
+    "safety_notes": "- Check the weather forecast before you go and be prepared for sudden changes. - Wear sturdy, waterproof hiking boots with good grip. - Stay on marked trails and watch for uneven ground, roots, and exposed rocks. - Bring a map or GPS and a charged phone; inform someone of your plans. - Be mindful of weather and daylight hours in rural UK areas and carry rain gear.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and layers",
+      "Map or GPS device",
+      "Lightweight rain jacket or shell",
+      "Hat and sunglasses",
+      "Headlamp or flashlight (useful for low light)",
+      "Trekking poles (optional)",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "New Cut Trail – 7.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the New Cut Trail: a 7.1 km moderate hike in the UK with terrain details, safety tips, gear guidance, and season recommendations.",
+      "h1": "New Cut Trail: 7.1 km Moderate Hike in the UK"
+    }
   }
 }

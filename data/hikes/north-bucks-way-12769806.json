@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 12769806
+  },
+  "ai": {
+    "summary": "North Bucks Way is a challenging long-distance trail in the United Kingdom, totaling 124.5 km. It traverses rural countryside with a mix of country lanes, fields and woodlands, offering varied terrain and several long days on the trail. Suitable for experienced hikers prepared for sustained effort.",
+    "terrain_summary": "The route features a mix of surfaced lanes, grassy paths, farm tracks and woodland sections. Expect rolling countryside, occasional gentle ascents, uneven footing and gates or stiles. Distances are long, so plan for multi-day hiking or long-day itineraries.",
+    "safety_notes": "Plan for variable UK weather and remote stretches. Carry a map and compass (and know how to use them), ensure a charged phone, and inform someone of your itinerary. Bring sufficient water and food, a first-aid kit, a weatherproof layer, sturdy boots, and emergency warmth. Some sections have few services; be prepared for long gaps between towns.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing and layers",
+      "Waterproof jacket with hood",
+      "Map and compass (or GPS device) and knowledge to use them",
+      "Snack and meal supplies for long days",
+      "First-aid kit (blister care, basic meds)",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Walking poles (optional)",
+      "Emergency whistle and flashlight/headlamp",
+      "Phone with backup power bank"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October)",
+    "seo": {
+      "title": "North Bucks Way – 124.5 km long-distance hike in the UK",
+      "meta_description": "Explore the North Bucks Way, a demanding 124.5 km hike through countryside and woodlands in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this route.",
+      "h1": "North Bucks Way – 124.5 km Long-Distance Hike in the UK"
+    }
   }
 }

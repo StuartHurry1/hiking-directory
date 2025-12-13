@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 6148106
+  },
+  "ai": {
+    "summary": "Notts Wolds Way is a challenging long-distance hike in the UK, covering 40.5 km with varied countryside. Rated hard, the route demands good stamina and careful planning, as terrain ranges from rural lanes and fields to tracks with gradients and occasional uneven sections.",
+    "terrain_summary": "The route features a mix of rural lanes, grassy paths, muddy tracks, hedgerows, fields, and some woodland. Expect stiles, uneven footing, and sections that can be exposed to wind and weather. Distances between services or access points may be long, depending on route specifics in the unknown region.",
+    "safety_notes": "This is a hard hike: ensure good fitness and proper planning. Carry a map and compass (and know how to use them), check weather forecasts, and start early to maximize daylight. Tell someone your route and ETA. Stay hydrated and fueled, watch for livestock on farmland, and be mindful of slippery or muddy surfaces. Navigation challenges may arise when crossing farmland or lesser-known paths; have a backup plan if paths are not clearly marked.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket",
+      "Waterproof trousers",
+      "Layered clothing",
+      "Map and compass",
+      "GPS device (optional)",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Sun protection (sunscreen, sunglasses)",
+      "Hat and gloves (seasonal)",
+      "Headlamp or flashlight",
+      "Basic first-aid kit",
+      "Emergency whistle",
+      "Multi-tool or knife",
+      "Trekking poles (optional)",
+      "Lightweight emergency shelter or space blanket",
+      "Backpack rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) are ideal; be prepared for mud and wind in shoulder seasons; winter conditions can be harsher with shorter daylight.",
+    "seo": {
+      "title": "Notts Wolds Way – 40.5 km Hard Hike in the UK",
+      "meta_description": "Plan your Notts Wolds Way adventure: a 40.5 km hard hike in the UK with varied terrain, safety tips, and gear recommendations.",
+      "h1": "Notts Wolds Way: A 40.5 km Hard Hike in the UK"
+    }
   }
 }

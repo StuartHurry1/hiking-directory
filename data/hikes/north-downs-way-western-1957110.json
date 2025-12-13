@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1957110
+  },
+  "ai": {
+    "summary": "The North Downs Way (Western) is a 25.3 km hard hike in the UK that traverses rolling chalk downs and rural scenery. It weaves through farmland, grassy paths, and occasional woodlands, with exposed ridgelines and elevation changes that contribute to its challenging profile.",
+    "terrain_summary": "Expect chalk downland, grassy bridleways, packed farm lanes, and sporadic woodland. Footing is usually firm on clear days but can be muddy and uneven after rain. Some sections are exposed with wide views along ridges; there may be steep ascents and descents in places, demanding good footwear and steady navigation.",
+    "safety_notes": "This is a long, hard hike with potential for quickly changing UK weather. Check forecasts, carry appropriate layers, and protect yourself from sun and rain. Navigation aids (map/compass or GPS) are recommended; stay on official paths as some routes run along private land. Inform someone of your plan and expected finish time. Stay hydrated, carry energy snacks, and have a plan for emergencies; daylight hours vary by season.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (at least 2 L)",
+      "Map and compass (or GPS) and a means to navigate",
+      "Fully charged mobile phone with offline maps",
+      "High-energy snacks and light meal",
+      "Waterproof jacket and a warm layer",
+      "Sun protection: hat and sunscreen",
+      "First aid kit",
+      "Emergency whistle",
+      "Headlamp or small flashlight with extra batteries",
+      "Extra clothing and socks",
+      "Lightweight emergency shelter or space blanket",
+      "Trekking poles (optional but helpful on downs and long ascents)",
+      "Small daypack with rain cover",
+      "Spare batteries/power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October), with summer offering the most reliable weather and longest daylight; shoulder seasons can be quieter with variable conditions.",
+    "seo": {
+      "title": "North Downs Way (Western) – 25.3 km Hard Hike in the UK",
+      "meta_description": "Guide to the Western section of the North Downs Way in the UK. A 25.3 km hard hike across chalk downs with safety tips, gear lists, best seasons, and route considerations.",
+      "h1": "North Downs Way (Western) – 25.3 km Hard Hike (UK)"
+    }
   }
 }

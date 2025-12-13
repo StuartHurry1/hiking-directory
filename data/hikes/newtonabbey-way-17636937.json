@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17636937
+  },
+  "ai": {
+    "summary": "A gentle 4.7 km walk in the UK along flat, well-maintained paths. Suitable for beginners and casual walkers seeking a relaxed outdoor outing.",
+    "terrain_summary": "Mostly flat terrain with paved or compacted surface. Sections may pass through urban streets and parks, with occasional gravel paths and gentle slope.",
+    "safety_notes": "Plan for typical UK weather and daylight hours. Wear sturdy, comfortable footwear and bring a light layer. Stay aware of other pedestrians and cyclists on shared paths, obey crossing signals, and keep to the left where required. Carry water, a charged phone, and a small map or offline route in case of detours. If visibility is low or rain is forecast, consider postponing the walk.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Map or offline route on a smartphone",
+      "Sun protection (sunscreen, hat)",
+      "Lightweight rain jacket",
+      "Small backpack",
+      "Charged phone",
+      "Snacks or energy bar"
+    ],
+    "best_seasons": "Year-round in the UK, with particularly pleasant conditions in spring and autumn. Summer can be warm; winter daylight hours are shorter, so plan accordingly.",
+    "seo": {
+      "title": "Newtonabbey Way - Easy 4.7 km Walk in the UK",
+      "meta_description": "Discover Newtonabbey Way, an easy 4.7 km walk in the UK. Perfect for beginners, with flat, well-maintained paths and a relaxed pace.",
+      "h1": "Newtonabbey Way: 4.7 km Easy Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1015887
+  },
+  "ai": {
+    "summary": "The Newry Canal Way is an 81.7 km long-distance hike along the historic Newry Canal in the United Kingdom. The route largely follows canal towpaths with occasional rural lanes, offering a demanding multi-day trek for experienced walkers. Expect mostly flat terrain with occasional mud, locks, and road detours.",
+    "terrain_summary": "Predominantly canal towpath, typically flat and easy underfoot. Occasional off-towpath sections traverse fields and country lanes with minor elevation changes. Youths and cyclists may share some stretches. Watch for mud after rain, wet edges near the water, lock crossings, and occasional unmarked segments in rural areas.",
+    "safety_notes": "Plan for multiple days with sufficient daylight. Canal paths can be narrow and busy where cycling traffic exists. Wear sturdy waterproof footwear and dress in layers; bring a waterproof jacket, hat, and sun protection. Carry plenty of water and energy-rich snacks, plus a map or GPS. Ensure you have a means to call for help where signal may be limited. Inform someone of your itinerary and expected timings. Be prepared for weather changes, lock closures, and variable footing near water.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and breathable layers",
+      "Rucksack with hydration or water bottles",
+      "Map and/or GPS device",
+      "Headlamp or lightweight flashlight",
+      "First aid kit",
+      "Whistle",
+      "High-visibility clothing or vest",
+      "Water bottle or hydration system",
+      "Energy snacks or compact trail food",
+      "Dry bag or protective case for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best weather and daylight for this 81.7 km canal hike. Year-round hiking is possible with proper gear, but winter can bring cold, damp conditions and stronger winds, making long-distance trekking more challenging.",
+    "seo": {
+      "title": "Newry Canal Way — 81.7 km Hard-Distance Hike in the UK",
+      "meta_description": "Discover the Newry Canal Way, an 81.7 km hard-distance trail in the UK along the historic Newry Canal. Practical tips on terrain, safety, and gear for long-distance canal walking.",
+      "h1": "Newry Canal Way: 81.7 km Long-Distance Walk in the UK"
+    }
   }
 }

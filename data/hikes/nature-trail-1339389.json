@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 1339389
+  },
+  "ai": {
+    "summary": "Nature Trail is a short, easy 2.6 km walk in the UK suitable for all ages. The route offers gentle terrain and minimal elevation, making it a great option for families, beginners, or anyone seeking a relaxed outdoor experience.",
+    "terrain_summary": "Predominantly well-maintained paths with a mix of compact track and grassy sections. Gentle inclines and flat stretches with occasional uneven patches along the edges or near damp areas.",
+    "safety_notes": "Check the forecast before you go; UK weather can change quickly. Wear sturdy, comfortable footwear and dress in layers. Stick to the marked trail, watch for muddy sections after rain, and carry a map or offline maps on your phone. Stay hydrated, supervise children, and bring a small first-aid kit. Let someone know your plan if hiking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Light rain jacket or windbreaker",
+      "Water bottle",
+      "Phone with offline maps",
+      "Small snack",
+      "Sunscreen and hat",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring through autumn are ideal in the UK; the route is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Nature Trail — Easy 2.6 km Hike in the UK",
+      "meta_description": "Explore Nature Trail, an easy 2.6 km hike in the UK. Perfect for families and beginners with gentle terrain and approachable scenery.",
+      "h1": "Nature Trail – Easy 2.6 km Hike (UK)"
+    }
   }
 }

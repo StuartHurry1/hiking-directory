@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11505562
+  },
+  "ai": {
+    "summary": "Ness of Sound is an 11.3 km moderate coastal hike in the UK, offering open sea views, varied terrain, and a steady pace suitable for hikers with some experience. The route combines grassy coastal paths, rocky sections, and intermittent damp ground, with options to tailor the walk to conditions and time available.",
+    "terrain_summary": "Coastal footpath with a mix of grassy verges, exposed rock, and muddy sections. Expect uneven surfaces, gentle climbs, and occasional boardwalks near marshy areas. The route is exposed to wind and spray in open sections, and navigation can be challenging in poor visibility; stick to marked paths and consider tides if sections run along the shore.",
+    "safety_notes": "Plan around UK coastal weather and tides. Check the forecast and tidal times before setting out, and tell someone your plan and expected return. Stay on marked trails, wear layers and waterproof gear, and bring navigation tools (map/compass or GPS) in case visibility worsens. In exposed conditions, protection from wind and sun is important. If visibility drops, fog or rain reduces orientation, turn back to a safe point.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and insulating layers",
+      "Hat, gloves, and sun protection",
+      "Map and compass or GPS; fully charged phone",
+      "Water and high-energy snacks",
+      "First-aid kit and emergency whistle",
+      "Headlamp or flashlight",
+      "Small rain cover or pack cover",
+      "Trekking poles (optional)",
+      "Dry bag for valuables",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offers milder, drier conditions and longer daylight for Ness of Sound. Coastal winds can persist year-round, and winters can bring cold, wet weather and short days.",
+    "seo": {
+      "title": "Ness of Sound Walk – 11.3 km Moderate Coastal Hike in the UK",
+      "meta_description": "Explore Ness of Sound on an 11.3 km moderate coastal hike in the UK. Learn about terrain, safety tips, best seasons, and gear to plan your day.",
+      "h1": "Ness of Sound – 11.3 km Moderate Coastal Hike"
+    }
   }
 }

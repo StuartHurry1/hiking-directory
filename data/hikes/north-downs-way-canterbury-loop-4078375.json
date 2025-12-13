@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 4078375
+  },
+  "ai": {
+    "summary": "A demanding 96.4 km loop following the North Downs Way near Canterbury in the UK. The route combines rolling chalk downs, farmland, woodland trails, and rural lanes for a rugged, long-distance trekking experience with significant elevation gain.",
+    "terrain_summary": "Expect rolling chalk downs with exposed uplands, hedgerows and pasture, woodlands, and occasional coastal glimpses. The surface varies from well-marked trail sections to rough paths and field margins. Elevation gain is substantial, with long stretches of steady uphill and downhill sections.",
+    "safety_notes": "This is a strenuous long-distance hike. Plan for multiple days, check weather forecasts, and carry navigation tools (map and compass or GPS). Be prepared for sudden UK weather, limited phone reception in rural areas, and seasonal mud. Start early, carry enough water and food, and inform someone of your itinerary. Respect wildlife and farm gates; leave no trace and follow waymarks.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate layers (waterproof outer shell and insulating layer)",
+      "Backpack with 20-40 L capacity",
+      "Water bottles or hydration system (at least 2-3 L capacity)",
+      "Map and/or GPS device with offline maps",
+      "Compass",
+      "Headlamp or flashlight",
+      "First-aid kit",
+      "Nutrition and energy snacks",
+      "Sun protection (hat and sunscreen)",
+      "Rain gear and spare dry clothing",
+      "Emergency whistle",
+      "Multi-tool or knife",
+      "Mobile power bank",
+      "Trail-friendly waste bags (to pack out litter)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) generally offers the best hiking conditions in the UK. Mild temperatures and longer daylight help with multi-day treks; winter and early spring can bring mud, wind, and reduced visibility.",
+    "seo": {
+      "title": "North Downs Way Canterbury Loop: 96.4 km Hard Hike in the UK",
+      "meta_description": "Plan your challenging 96.4 km North Downs Way Canterbury loop in the UK. Terrain insights, safety tips, gear lists, and the best seasons for this long-distance hike.",
+      "h1": "North Downs Way Canterbury Loop – 96.4 km Hard Hike"
+    }
   }
 }

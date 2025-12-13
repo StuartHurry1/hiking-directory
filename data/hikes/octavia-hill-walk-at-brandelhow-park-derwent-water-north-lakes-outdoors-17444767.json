@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 17444767
+  },
+  "ai": {
+    "summary": "A scenic 7 km moderate hike around Derwent Water’s Brandelhow Park, featuring lakeside paths, woodland sections, and views of the surrounding fells.",
+    "terrain_summary": "Mixed terrain with well-marked trails: compact gravel and packed earth near the water, grassy banks, occasional rocky patches, and some steps or stiles in woodland areas. Moderate elevation changes and potential mud in wet conditions.",
+    "safety_notes": "Check weather conditions before and during your walk; Derwent Water can experience rapidly changing conditions. Stay on marked paths, keep to the right side where required, and monitor children and dogs. Wear sturdy footwear, bring water, a map or GPS, and a charged phone. Be cautious on slippery surfaces when wet and be mindful of other hikers and seasonal crowds.",
+    "recommended_gear": [
+      "Sturdy walking boots or trail shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Map or GPS device, or offline maps on phone",
+      "Small backpack with essentials",
+      "Snacks",
+      "Hat and sunscreen",
+      "Basic first aid kit",
+      "Optional: compact headlamp for late finishes"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Octavia Hill Walk at Brandelhow Park – Derwent Water (7 km, Moderate) | North Lakes Outdoors",
+      "meta_description": "Explore a 7 km moderate lakeside hike at Brandelhow Park, Derwent Water. Get terrain, safety tips, gear lists, and the best seasons for this North Lakes outing.",
+      "h1": "Octavia Hill Walk at Brandelhow Park, Derwent Water"
+    }
   }
 }

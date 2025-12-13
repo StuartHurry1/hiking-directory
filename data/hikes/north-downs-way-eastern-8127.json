@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 8127
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Eastern section of the North Downs Way, spanning approximately 370.1 km. Expect chalk downs, farmland, woodlands, and occasional road walking, with sustained elevation changes that demand good stamina and navigation.",
+    "terrain_summary": "Primarily open chalk downs with rolling hills, ridges, and uneven footing. Mixed terrain includes field paths, woodlands, and some road sections. Steeper climbs on chalk escarpments, gateway and stile crossings, and potential mud after rain; sections can be exposed to wind and weather variations.",
+    "safety_notes": "Plan for variable UK weather and changing daylight. Carry a reliable map and navigation tools (map, compass, or GPS); inform someone of your route and expected timings. Bring enough water and high-energy food; wear appropriate clothing and waterproofs; be prepared for remote stretches and occasional limited services; check for path closures and seasonal access restrictions; watch for traffic at road crossings and ensure proper footwear on uneven surfaces.",
+    "recommended_gear": [
+      "Waterproof, breathable jacket",
+      "Sturdy hiking boots",
+      "Layered clothing (base layer, mid-layer, warm layer)",
+      "Hat, sunscreen, and sunglasses",
+      "Map, compass and/or GPS device",
+      "Water bottle or hydration system (2 L+ recommended)",
+      "High-energy snacks and meals",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with longer daylight and milder weather; summer provides long days but can be hot, while winter hiking is more exposed, windy, and muddy with shorter daylight.",
+    "seo": {
+      "title": "North Downs Way (Eastern) – 370.1 km Hard-Distance Trail in the UK",
+      "meta_description": "Plan your expedition along the North Downs Way (Eastern) in the UK. A hard 370.1 km trek across chalk downs, farmland, and woodlands. Includes terrain, safety tips, and gear guidance.",
+      "h1": "North Downs Way (Eastern) – 370.1 km Hard Route"
+    }
   }
 }

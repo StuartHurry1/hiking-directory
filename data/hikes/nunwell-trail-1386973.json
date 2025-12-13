@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 1386973
+  },
+  "ai": {
+    "summary": "Nunwell Trail is a 14.7 km moderate hike in the United Kingdom. The route traverses rural countryside with mixed terrain and gentle elevation, suitable for walkers with some experience seeking a longer day hike.",
+    "terrain_summary": "Typically rural paths and country lanes with grassy sections and occasional uneven footing. Expect hedgerows, natural surfaces, and occasional mud, depending on weather.",
+    "safety_notes": "Always check the weather forecast before setting out and be prepared for changes in UK conditions. Wear sturdy boots and bring appropriate clothing, water, and snacks. Carry a map and compass (or a GPS device), a charged phone, and a basic first aid kit. Tell someone your route and expected return time. Be mindful of livestock and farm access on field paths, and stay on marked paths to avoid private property. If visibility is poor or daylight is limited, consider postponing the hike or starting earlier.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency numbers",
+      "Snack or energy bars",
+      "Headlamp or flashlight (for late return)",
+      "First aid kit",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Nunwell Trail – 14.7 km Moderate Hike in the UK",
+      "meta_description": "Discover the Nunwell Trail, a 14.7 km moderate hike in the United Kingdom. Learn about the terrain, safety tips, and essential gear to plan your day.",
+      "h1": "Nunwell Trail – 14.7 km Moderate UK Hike"
+    }
   }
 }

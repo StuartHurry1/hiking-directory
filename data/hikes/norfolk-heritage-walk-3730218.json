@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3730218
+  },
+  "ai": {
+    "summary": "A 7.3 km moderate hike titled Norfolk Heritage Walk in the UK, offering a mix of urban and rural scenery with opportunities to explore local heritage sites along the route.",
+    "terrain_summary": "Mixed terrain including pavements, country lanes, grassy paths, and occasional gravel sections; mostly flat with gentle undulations.",
+    "safety_notes": "Plan around daylight hours and weather. Stay on public paths and be mindful of road crossings. Wear sturdy footwear and bring water and snacks. Use a map or GPS, keep your phone charged, and inform someone of your route. Check for closures or events that may affect the route and avoid hiking alone in isolated areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing in layers",
+      "Water bottle",
+      "Energy snacks",
+      "Map or offline navigation app",
+      "Fully charged phone and portable charger",
+      "Light rain jacket or waterproof layer",
+      "Cap or hat and sunscreen",
+      "Basic first-aid kit",
+      "Small backpack",
+      "Whistle (optional)"
+    ],
+    "best_seasons": "Spring through autumn are ideal for comfortable conditions; winter hiking is possible with warmer layers and waterproof gear, but daylight hours are shorter.",
+    "seo": {
+      "title": "Norfolk Heritage Walk – 7.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the Norfolk Heritage Walk, a 7.3 km moderate hike in the UK. Learn about the terrain, safety tips, best seasons, and what to pack for your journey.",
+      "h1": "Norfolk Heritage Walk: 7.3 km Moderate Hike"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11573745
+  },
+  "ai": {
+    "summary": "The North Sea Trail in England presents a 57.8 km, hard-difficulty coastal hike. It blends exposed sea cliffs, windswept shores, and mixed terrain, demanding stamina, good navigation, and preparedness for changeable coastal weather.",
+    "terrain_summary": "Exposed coastal routes along the North Sea with wind-driven grassland, mud in boggy sections, wooden boardwalks, and rocky shoreline segments. Expect variable footing, potential tide restrictions, and occasional steep or uneven sections.",
+    "safety_notes": "Check tide tables and local access rules for coastal sections. Wear sturdy waterproof boots and layered clothing to cope with wind and rain. Carry a map and compass or GPS, plus sufficient water and food for multi-hour days. Inform someone of your plan and expected finish time. Be prepared for rapidly changing weather and limited mobile reception in remote coastal areas.",
+    "recommended_gear": [
+      "Sturdy trekking boots with good ankle support",
+      "Waterproof jacket and over-trousers",
+      "Warm layers and hat/gloves for wind chill",
+      "Backpack with 8–12 L capacity",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Tide-aware navigation tools (tide timetable or app)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) offers milder conditions and better visibility, but coastal weather can be windy and wet any time of year; plan accordingly.",
+    "seo": {
+      "title": "North Sea Trail, England — 57.8 km Coastal Hike (Hard Difficulty)",
+      "meta_description": "Explore a challenging 57.8 km coastal hike along England's North Sea coast. This guide covers terrain, safety, and gear for the hard-difficulty North Sea Trail segment in England.",
+      "h1": "North Sea Trail (England) — 57.8 km Coastal Hike"
+    }
   }
 }

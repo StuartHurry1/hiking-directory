@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11507215
+  },
+  "ai": {
+    "summary": "Ness of Hillswick is a coastal circuit in the UK that covers about 11.2 km with a moderate level of effort. The route follows grassy coastal paths with stretches of exposed rock, offering sea views and open landscapes. Ground can be uneven and occasionally muddy, so a sensible pace and good footwear are advised.",
+    "terrain_summary": "Mix of coastal grassland, well-trodden paths, and rocky shoreline sections. Expect uneven ground, wet patches after rain, and occasional short climbs. The route is exposed to wind, with limited shade in parts.",
+    "safety_notes": "Stay away from cliff edges, as coastal paths can be unstable and slippery when wet. Weather on UK coasts can change rapidly; bring layers and waterproofs. Check tide times if any shoreline sections are affected by tides. Carry a map or GPS, tell someone your plan, and bring a means of communication. Use sun protection on clear days and monitor footwear for mud.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots or shoes with good grip",
+      "Map and compass or GPS device",
+      "Water bottle and energy snacks",
+      "Extra layers (fleece or warm layer)",
+      "Warm hat and gloves (for cold/coastal winds)",
+      "Emergency whistle",
+      "First aid kit",
+      "Mobile phone with offline maps",
+      "Sun protection (sunscreen, sunglasses)",
+      "Lightweight rain cover or dry bag",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) typically offers milder weather, longer daylight, and better sea views; shoulder seasons can be quieter but weather remains variable.",
+    "seo": {
+      "title": "Ness of Hillswick Coastal Hike — 11.2 km, Moderate Difficulty in the UK",
+      "meta_description": "Plan your Ness of Hillswick hike. A 11.2 km moderate coastal trail in the UK featuring grassy paths, rocky shoreline, and sweeping sea views. Includes safety tips and gear recommendations.",
+      "h1": "Ness of Hillswick — 11.2 km Moderate Coastal Hike"
+    }
   }
 }

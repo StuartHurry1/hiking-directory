@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 11508166
+  },
+  "ai": {
+    "summary": "A long-distance coastal hike along the Northumberland coast in the United Kingdom. The route covers 224.4 km with a hard difficulty, following cliffs, beaches and dunes across exposed shoreline and through small towns. Expect rugged terrain, elevation changes, and remote stretches where navigation and weather planning are essential.",
+    "terrain_summary": "Terrain ranges from sandy beaches and tidal flats to rocky cliff paths and dune sections. Visitors should be prepared for exposed coastal track, uneven surfaces, sea spray, and possible boggy areas or tidal access restrictions. Some stretches require careful navigation around tides and erosion.",
+    "safety_notes": "Check tide times and weather forecasts before each stage, as sections can become impassable at high tide. Coastal cliffs and strong winds require caution; stay away from unstable edges and respect closures. Carry a map or GPS, a compass, and a charged phone, and inform someone of your route and expected return. Carry enough water and food for long days and plan for remote areas with limited services. In winter, storms and shorter daylight increase risk—plan shorter daily stages and bring extra warmth and lighting.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and over-trousers",
+      "Warm layers and a hat/gloves",
+      "Daypack (20–30 L)",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "Map and compass; or offline GPS",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency shelter or space blanket",
+      "Whistle for emergencies",
+      "Energy-rich food and snacks for long days"
+    ],
+    "best_seasons": "Spring to autumn (approximately April–October) generally offers milder weather and longer daylight for long days on the coast. Winter can be challenging due to stronger winds, storms and shorter daylight; plan carefully, expect closures in rough seas, and consider shorter sections or guided help.",
+    "seo": {
+      "title": "Northumberland Coast Path – 224.4 km Coastal Hike in the UK",
+      "meta_description": "Plan a 224.4 km coastal trek along the Northumberland Coast Path. A challenging UK hike with cliffs, beaches and dunes; safety tips, gear lists and best seasons.",
+      "h1": "Northumberland Coast Path: A 224.4 km Coastal Trek"
+    }
   }
 }

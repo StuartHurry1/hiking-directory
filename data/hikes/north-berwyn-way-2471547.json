@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2471547
+  },
+  "ai": {
+    "summary": "The North Berwyn Way is a challenging long-distance hike in the UK, spanning 43.8 km with significant elevation and rugged upland terrain. The route traverses ridges and open moorland, offering expansive views and a demanding pace for fit hikers who enjoy navigation and endurance. Plan for multiple hiking days or a strenuous long-day outing, with careful weather-aware preparation.",
+    "terrain_summary": "Expect rugged upland terrain across the Berwyn range: exposed ridges, rocky paths, peat bogs, and occasional limestone scar sections. The trail blends public paths with occasional unmarked segments, gates, and fence crossings. Weather can be windy, wet, and visibility variable, with long exposures on ridgelines and steep ascents and descents.",
+    "safety_notes": "- This is a strenuous, long-distance hike. - Check the forecast and be prepared for rapid upland weather changes. - Navigation is essential; carry a map and compass and know how to use them; consider a GPS as backup. - Leave a route plan with someone and confirm your expected return time. - Wear sturdy waterproof boots and bring layered, weatherproof clothing; carry extra food and water. - Pack an emergency layer, a first aid kit, a whistle, and an emergency shelter or bivy. - Daylight hours vary by season; start early in poor light conditions. - In remote sections, mobile signal can be limited; have a contingency plan.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weatherproof jacket and insulating layers",
+      "Breathable base layers and mid layers",
+      "Map, compass, and/or GPS with full battery",
+      "Water bottles or hydration system; water purification method",
+      "Sufficient food and high-energy snacks for the day",
+      "Headlamp with extra batteries",
+      "First aid kit and any personal medications",
+      "Emergency bivy or lightweight shelter",
+      "Whistle and basic signaling gear",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Trekking poles (optional but helpful on rough ground)",
+      "Extra clothing for wind and rain protection",
+      "Mobile power bank and charger"
+    ],
+    "best_seasons": "May–September is generally best for this long UK hike, with longer daylight and more stable conditions. Spring and autumn shoulder seasons (April–June and September–October) can also be good, but be prepared for rapid weather changes; winter hiking is for experienced hikers with mountaineering skills.",
+    "seo": {
+      "title": "North Berwyn Way – 43.8 km Hard Ridge Trek (UK)",
+      "meta_description": "Plan your 43.8 km hard hike along the North Berwyn Way in the UK. Learn about terrain, safety tips, essential gear, and the best seasons.",
+      "h1": "North Berwyn Way: 43.8 km Hard Ridge Trek"
+    }
   }
 }

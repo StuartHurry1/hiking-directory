@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 70228
+  },
+  "ai": {
+    "summary": "Northwood Trail is a 12.4 km moderate hike in the UK that traverses a mix of woodland paths and open terrain. The route offers steady elevation gains, scenic forest scenery, and potential muddy sections in wet weather. It's suitable for hikers with some experience and a good level of fitness, with options for shorter detours if needed.",
+    "terrain_summary": "Primarily well-marked woodland and gravel paths with gentle to moderate climbs. Expect some muddy patches after rain and a few exposed roots or rocky steps. The surface ranges from compact earth to grassy tracks and light gravel; footwear with solid grip is recommended.",
+    "safety_notes": "Check the weather forecast before setting out; wear sturdy waterproof boots and layered clothing. Carry a map and/or GPS device and ensure your phone is charged, as signal may be limited in woodland. Stay on waymarked paths, be mindful of mud and uneven surfaces, and plan for daylight—the hike can take several hours. Let someone know your route and expected return time; carry a whistle or other signaling device for emergencies.",
+    "recommended_gear": [
+      "Water bottle (2–3 L capacity for longer hikes)",
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layered, waterproof outer shell)",
+      "Map and/or GPS device; fully charged phone",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight rain gear and hat",
+      "Small first aid kit and blister care",
+      "Snacks or energy bars",
+      "Sunscreen and sunglasses",
+      "Emergency whistle",
+      "Mobile phone with offline maps or a downloaded route"
+    ],
+    "best_seasons": "Spring to autumn are the best seasons for this hike due to milder weather and better visibility; year-round hiking is possible in the UK with appropriate gear, but winter can bring mud, ice, and shorter daylight.",
+    "seo": {
+      "title": "Northwood Trail – 12.4 km Moderate Hike in the UK",
+      "meta_description": "Explore Northwood Trail, a 12.4 km moderate hike in the UK. Discover terrain, safety tips, gear suggestions, and the best seasons to hike this trail.",
+      "h1": "Northwood Trail – 12.4 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 9649
+  },
+  "ai": {
+    "summary": "Offa's Dyke Path is a hard, long-distance trail that traces the historic England–Wales border. Spanning approximately 733.2 km, it traverses a mix of rural hills, moorland, farmland, and rivers as it threads along the ancient earthwork built under King Offa. The route is best tackled by experienced backpackers who can sustain weeks of hiking, with elevation changes and remote stretches interspersed with villages and towns. Plan for about 30–45 days of walking at a steady pace, with contingencies for weather, rest days, and possible detours.",
+    "terrain_summary": "The path covers rolling border hills, wooded lanes and field-edge tracks, exposed moorland, river valleys, and a variety of footing from compact trails to muddy paths. Expect uneven surfaces, stiles, occasional bogs, long ascents and descents, and remote stretches where services are sparse. Navigation is generally straightforward on the waymarked route, but carry a map and compass or a GPS device.",
+    "safety_notes": "Conditions vary with weather and seasons. Carry reliable navigation gear; do not rely on phone signals in remote stretches. Weather can shift quickly—layered clothing, rain gear, and sun protection are essential. Inform someone of your planned route and check local access and camping rules. Be prepared for long distances between services; carry sufficient food, water and a means to purify water. Exercise caution on steep or exposed sections and respect local farms and landowners.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Warm layers including a fleece or down jacket",
+      "Weatherproof outer shell (jacket and pants)",
+      "Large-capacity backpack (50–65 L) with a rain cover",
+      "Lightweight tent or bivouac shelter (if camping) and a compact sleeping system",
+      "Map, compass, and/or GPS device with spare batteries",
+      "Water bottles or hydration system and water purification method",
+      "High-energy food and a stove/cooking kit (if allowed)",
+      "First aid kit and personal medications",
+      "Headlamp with extra batteries",
+      "Emergency whistle, multi-tool, and fire starter",
+      "Sun protection (hat, sunscreen)",
+      "Trekking poles for stability",
+      "Dry bags or waterproof stuff sacks for gear",
+      "Personal identification and emergency contact info"
+    ],
+    "best_seasons": "April–October is the main hiking season; May–September offers the best daylight. Spring and autumn can provide fewer crowds and milder temperatures but be prepared for rain and wind; winter hiking is technically possible only with advanced skills and equipment.",
+    "seo": {
+      "title": "Offa's Dyke Path: UK Long-Distance Trail Along the England–Wales Border (733.2 km)",
+      "meta_description": "Explore Offa's Dyke Path, a challenging 733.2 km hike along the England–Wales border in the UK. Find terrain notes, safety tips, gear lists, best seasons, and planning advice for this hard distance trail.",
+      "h1": "Offa's Dyke Path – UK Hard-Distance Trail Along the England–Wales Border"
+    }
   }
 }

@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 2665201
+  },
+  "ai": {
+    "summary": "A 6.9 km coastal hike along the North Down Coastal Path in the UK. The route offers sea views, exposed cliff-top sections, and a moderate pace suitable for walkers with some experience.",
+    "terrain_summary": "Coastal terrain with a mix of grassy cliff-top paths, rocky sections, and occasional steps. Expect exposed sections with wide sea views, uneven footing, and potential mud after rain.",
+    "safety_notes": "Check the weather and tide conditions before starting. Wear sturdy, waterproof footwear and bring layered, weatherproof clothing. Stay on marked paths and away from cliff edges. Bring a map, compass or GPS, a fully charged phone, and a basic first aid kit. Carry sufficient water and snacks, and let someone know your plan and estimated return time. Be cautious of sudden sea spray, fog, or changing conditions and avoid walking too close to unstable cliffs.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Hat, sunglasses and sunscreen",
+      "Water bottle or hydration system",
+      "Map, compass or GPS device",
+      "Fully charged phone and offline maps",
+      "Small first aid kit",
+      "Whistle",
+      "Snacks or energy bars",
+      "Lightweight backpack",
+      "Headlamp or flashlight (if hiking near dusk)",
+      "Extra socks"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers longer days and milder coastal weather; the route can be done year-round with appropriate gear.",
+    "seo": {
+      "title": "North Down Coastal Path (6.9 km) – Coastal Hike in the UK",
+      "meta_description": "Explore a 6.9 km moderate coastal hike along the North Down Coastal Path in the UK. Coastal scenery, tips, safety considerations, and gear recommendations.",
+      "h1": "North Down Coastal Path – 6.9 km Coastal Hike in the UK"
+    }
   }
 }

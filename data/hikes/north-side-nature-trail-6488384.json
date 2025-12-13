@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 6488384
+  },
+  "ai": {
+    "summary": "A 3.9 km easy nature walk on the North Side Nature Trail in the UK, suitable for beginners and families. The route offers gentle terrain, calm scenery, and the chance to spot local flora and wildlife.",
+    "terrain_summary": "Predominantly flat to gently rolling terrain with well-maintained paths. Mostly gravel and compacted dirt, with a few uneven patches and occasional exposed roots. Suitable for regular shoes.",
+    "safety_notes": "Wear sturdy footwear and bring water. Check the forecast and daylight hours. Stay on marked paths, keep an eye out for other walkers and wildlife, and be prepared for mud after rain. In winter months, allow extra time and watch for slippery surfaces.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Snack/energy bar",
+      "Small first aid kit",
+      "Map or offline navigation (or smartphone with offline map)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn in the UK; the trail is accessible year-round with appropriate footwear and weather gear.",
+    "seo": {
+      "title": "North Side Nature Trail - Easy 3.9 km Hike in the UK",
+      "meta_description": "Discover the 3.9 km easy North Side Nature Trail in the UK. Gentle terrain, family-friendly scenery, safety tips, and gear recommendations for a relaxed nature walk.",
+      "h1": "North Side Nature Trail – Easy 3.9 km Hike in the UK"
+    }
   }
 }

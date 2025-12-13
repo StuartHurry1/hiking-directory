@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16161002
+  },
+  "ai": {
+    "summary": "The North Bedfordshire Heritage Trail is a demanding 228.6 km long-distance trek through the northern countryside of Bedfordshire, UK. Intended for experienced hikers, the route combines rural farmland, hedgerow lanes, woodlands and historic villages, offering a mix of scenic landscapes and cultural landmarks. Expect multiple long day sections, varied footing, occasional road crossings, and elevation changes typical of northern England countryside. Proper planning, pacing, and accommodation arrangements are essential for a safe and enjoyable thru- or long-distance hike.",
+    "terrain_summary": "Terrain varies from grassy field paths and hedgerow lanes to woodland trails and canal towpaths, with sections on minor roads. Expect muddy sections after rain, uneven footing, stiles and gates, and occasional short, steeper climbs. Footing can be slippery in damp conditions and weather can change quickly in the UK, so a sturdy pair of boots and adaptable clothing are advised.",
+    "safety_notes": "Always plan for multi-day trekking by informing someone of your itinerary and expected return. Check the forecast and potential weather-related hazards before starting, and be prepared for sudden changes. Carry a map and compass (or GPS) and know how to use them, and keep to public rights of way. Stay hydrated and fueled with regular food and water; have a backup power source for navigation devices. Be mindful of road crossings and other traffic, especially on longer rural sections. In remote stretches, phone signal may be limited—carry emergency contact details and a whistle, and know basic first-aid and safety procedures. Practice Leave No Trace and respect livestock and private property.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and an insulating mid-layer",
+      "Moisture-wicking base layers and extra mid-layers for temperature changes",
+      "Map and compass (or GPS with offline maps) and knowledge of navigation",
+      "Portable power bank and charging cable",
+      "Water bottle or hydration system and water purification options",
+      "High-energy snacks and meals for several days (plus a small stove if appropriate)",
+      "Headlamp with spare batteries",
+      "Compact first aid kit tailored for hiking",
+      "Trekking poles for stability on uneven terrain",
+      "Emergency whistle and reflective gear",
+      "Lightweight emergency shelter or bivy sack (optional)",
+      "Sunscreen, sunglasses, and a hat; insect repellent"
+    ],
+    "best_seasons": "Best experienced from spring through early autumn, roughly March to September, when daylight is longest and trail conditions are typically drier. Summer offers the most daylight but can bring heat and crowds; spring and autumn provide cooler temps and seasonal scenery. Weather in the UK can still be unpredictable year-round.",
+    "seo": {
+      "title": "North Bedfordshire Heritage Trail – 228.6 km UK long-distance hike",
+      "meta_description": "Plan for a challenging 228.6 km long-distance trail through the northern Bedfordshire countryside in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding hike.",
+      "h1": "North Bedfordshire Heritage Trail"
+    }
   }
 }

@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 1160116
+  },
+  "ai": {
+    "summary": "A challenging long-distance trek along the North Sperrins Way, the Ulster Way Section, covering approximately 67.5 km. Expect steep ascents, boggy moorland, and exposed ridges as you traverse the Sperrin Mountains. Suitable for experienced hikers planning a multi-day route with careful navigation and planning.",
+    "terrain_summary": "Varied mountain terrain including heather moorland, peat bogs, rocky paths, forest tracks, and exposed summits. Weather can be rapidly changing with strong winds; navigation and footing may be tricky in boggy or uneven sections.",
+    "safety_notes": "Plan for a multi-day trek with contingency plans. The route’s length and terrain demand good fitness, navigation skills, and weather preparedness. Check the forecast; mountain winds can be strong and temperatures can drop quickly. Carry a map and compass (and know how to use them), a GPS as backup, and inform someone of your itinerary. Stay on marked paths where possible; be prepared for boggy sections that can slow progress. Carry extra food, water, and a lightweight emergency shelter. Be mindful of daylight hours and limited services along the route.",
+    "recommended_gear": [
+      "Breathable waterproof jacket and pants",
+      "Sturdy hiking boots or mountain boots",
+      "Warm layers (fleece/polar)",
+      "Hat and gloves",
+      "Backpack with rain cover",
+      "Map and compass (and knowledge to use them)",
+      "GPS device or smartphone with offline maps backup",
+      "Headlamp with extra batteries",
+      "Trekking poles (optional but helpful for ascents and bogs)",
+      "Water bottles or hydration system (2–3 L capacity)",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Emergency shelter or bivy bag",
+      "Sun protection (sunglasses, sunscreen)",
+      "Insect repellent",
+      "Whistle and personal locator beacon (especially when hiking solo)"
+    ],
+    "best_seasons": "May–September generally offers the best weather and daylight for this route. Spring and autumn can provide fewer crowds but may be muddier and weather more variable; winter trekking is only advisable for highly experienced hikers with advanced gear.",
+    "seo": {
+      "title": "North Sperrins Way (Ulster Way Section) – 67.5 km Hard-Distance Hike in Northern Ireland",
+      "meta_description": "Experience the challenging 67.5 km North Sperrins Way segment of the Ulster Way through the Sperrin Mountains. Learn about terrain, safety, best seasons, and gear for this demanding long-distance hike in Northern Ireland, UK.",
+      "h1": "North Sperrins Way (Ulster Way Section) – 67.5 km Hard-Distance Hike"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17610674
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km heritage trail in Nidderdale AONB that revisits World War I history while letting you enjoy the surrounding countryside. Suitable for all ages and abilities, with a gentle route and informative waypoints.",
+    "terrain_summary": "Mostly flat to gently undulating paths with well-maintained footways. Expect a few grassy or compacted gravel sections near historical stops; ground can be uneven after wet weather.",
+    "safety_notes": "This is an easy, short walk but conditions can change with UK weather. Wear sturdy footwear, check the forecast, and bring water. Stay on paths, watch for traffic at road crossings, and supervise children. In remote areas, carry a mobile phone with emergency numbers.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers; waterproof outer layer)",
+      "Map or offline navigation (or GPS-enabled device)",
+      "Cap/hat and sunscreen",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn for the most comfortable conditions; winter visits are possible with proper footwear and awareness of potentially muddy or icy paths.",
+    "seo": {
+      "title": "Nidderdale AONB WW1 Heritage Trail - Easy 0.7 km Hike in the UK",
+      "meta_description": "Discover the 0.7 km Nidderdale AONB WW1 Heritage Trail in the UK. An easy, short walk through history with practical safety tips, gear recommendations, and best seasons.",
+      "h1": "Nidderdale AONB WW1 Heritage Trail (0.7 km) – Easy UK Hike"
+    }
   }
 }

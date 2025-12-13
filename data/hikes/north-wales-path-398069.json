@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 398069
+  },
+  "ai": {
+    "summary": "The North Wales Path is a demanding long-distance hike in the United Kingdom, spanning 343.2 km across northern Wales. The route combines coastal sections, remote moorland, forest trails, and rugged mountain passes, delivering a hard-difficulty trek that tests endurance, navigation, and weather resilience. Expect elevation gain, varied terrain, and extended periods away from towns, making preparation and pacing essential for completion.",
+    "terrain_summary": "Expect a varied mix of terrain: cliff-top coastal paths and sandy shores, peat bogs and upland moorland, rocky ridges, forest trails, and occasional tarmac or gravel roads. The most challenging segments are exposed uplands and mountain passes where weather can change rapidly. Navigation can be tricky in remote sections, especially in poor visibility.",
+    "safety_notes": "This is a high-difficulty, long-distance route with remote stretches in the UK. Before starting, check weather forecasts and tide times for coastal sections, and plan for sufficient daylight. Carry a detailed map and compass as primary nav tools, with GPS as backup. Pack enough food, water, and a means to purify water; plan for bivouac or hostel/guesthouse stops. Inform someone of your itinerary and expected check-ins; have a whistle, emergency shelter, and a charged phone or satellite communicator in case of emergencies. In winter or poor conditions the route becomes significantly more dangerous; consider delaying or joining a guided or shorter alternative.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Gore-Tex waterproof jacket and pants",
+      "Insulating layers (fleece or down)",
+      "Rucksack with rain cover",
+      "Map and compass (and GPS as backup)",
+      "Headlamp with spare batteries",
+      "First aid kit",
+      "Water bottles and/or hydration system with water purification method",
+      "High-energy food and snacks",
+      "Emergency shelter or bivvy bag",
+      "Multi-tool or knife",
+      "Trekking poles",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September)",
+    "seo": {
+      "title": "North Wales Path – A 343.2 km Hard-Distance Trek in the UK",
+      "meta_description": "Explore the North Wales Path, a challenging 343.2 km hike across northern Wales in the United Kingdom. Learn about terrain, safety, gear, and the best seasons for this demanding route.",
+      "h1": "The North Wales Path: A 343.2 km Hard Hike Across Northern Wales (UK)"
+    }
   }
 }

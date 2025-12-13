@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 8435958
+  },
+  "ai": {
+    "summary": "A 9.6 km circular hike from near Newton Abbot in the UK. This moderate walk combines quiet countryside lanes, woodland trails, and gentle ascents, returning to the start with varied scenery and a satisfying workout.",
+    "terrain_summary": "Mixed terrain including tarmac country lanes, grassy or compacted paths, and woodland trails. Expect uneven surfaces, occasional mud after rain, and some stiles or gentle steps. Suitable for most walkers with moderate fitness.",
+    "safety_notes": "Plan for about 2–3 hours. Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, be mindful of mud and uneven ground, and watch for livestock on rural sections. Check the forecast and daylight hours, carry a map or GPS, bring water and snacks, and inform someone of your route. Leave no trace and take care at gates and stiles.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate layers and waterproof jacket",
+      "Water bottle (2–3 litres depending on conditions)",
+      "Snacks or a light meal",
+      "Map, compass, or GPS device",
+      "Fully charged phone with offline maps",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Lightweight rain cover or poncho",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (April–October) when paths are dry and scenery is at its best. Summer offers longer daylight; autumn provides colors but can be wetter and muddy.",
+    "seo": {
+      "title": "Newton Abbot Circular Walk – 9.6 km Moderate UK Hike",
+      "meta_description": "Explore the Newton Abbot Circular, a 9.6 km moderate hike in the UK. Learn about terrain, safety tips, and gear for this countryside loop.",
+      "h1": "Newton Abbot Circular – 9.6 km Moderate Hike"
+    }
   }
 }

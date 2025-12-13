@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11505622
+  },
+  "ai": {
+    "summary": "Noss is an 11.3 km moderate hike in the UK that combines coastal scenery with varied terrain. The route is suitable for walkers with intermediate experience, offering pleasant views and a steady pace without extreme elevation.",
+    "terrain_summary": "The path traverses grassy farmland and wooded edges, with gravel tracks and occasional rocky coastal sections. Surfaces can be uneven and exposure may vary along the route, with gentle rises and descents.",
+    "safety_notes": "Before you go: check the weather and daylight hours. Wear sturdy, waterproof hiking boots and dress in layers. Stay on marked paths; coastal winds can be strong. Be mindful of tides and never turn your back on the sea. Carry a map and compass or GPS, a fully charged phone, sufficient water and snacks. Let someone know your plans and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Sun protection (sunscreen, hat) and a lightweight headlamp"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) are typically the best windows for weather and daylight in the UK, though conditions can vary.",
+    "seo": {
+      "title": "Noss Hike – 11.3 km Moderate UK Coastal Walk",
+      "meta_description": "Discover Noss: an 11.3 km moderate hike in the UK featuring coastal scenery, varied terrain, practical safety tips, and essential gear.",
+      "h1": "Noss Hike – 11.3 km Moderate UK Coastal Walk"
+    }
   }
 }

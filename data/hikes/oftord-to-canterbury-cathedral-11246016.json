@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11246016
+  },
+  "ai": {
+    "summary": "A strenuous long-distance trekking route across parts of the UK, spanning about 230.4 km from Oftord to Canterbury Cathedral. The route traverses rural lanes, chalk downs, farmland, and woodland, with multiple days of walking and significant elevation changes. This hard-difficulty hike requires careful planning, reliable navigation, and proper gear.",
+    "terrain_summary": "Mixed terrain including rural hedged lanes, farmland fields, woodland trails, and occasional road walking. Expect uneven surfaces, stiles, gates, potential muddy sections, and rolling hills. Long stretches between services in remote areas may require self-sufficiency in water and food.",
+    "safety_notes": "Plan the route in advance, carry updated maps or offline GPS, and inform someone of your itinerary. Expect variable UK weather and shorter daylight hours in winter; bring appropriate clothing and a reliable waterproof layer. Stay hydrated, pace yourself to avoid fatigue, and be cautious on busy rural roads. Have a basic first aid kit, blister care, and a means to signal for help in remote sections. Consider weather-related risks such as wind, rain, and occasional heat, and adjust plans accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Lightweight, weather-resistant backpack",
+      "Water container(s) with capacity for 2–3 liters and water purification method",
+      "Layered clothing: moisture-wicking base layers, insulating mid-layer, and waterproof/windproof outer shell",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Map and compass or GPS with offline maps; know how to navigate",
+      "Headlamp or flashlight with extra batteries",
+      "Personal first aid kit and blister care supplies",
+      "Emergency whistle and lightweight fire starter",
+      "Multi-tool or knife",
+      "Trekking poles (optional but helpful for stability and fatigue management)"
+    ],
+    "best_seasons": "April–October (late spring to early autumn) for the most favorable weather; winter hiking is possible but requires extra precautions and preparation.",
+    "seo": {
+      "title": "Oftord to Canterbury Cathedral: 230 km UK Long-Distance Hike",
+      "meta_description": "Plan the challenging 230.4 km hike from Oftord to Canterbury Cathedral in the UK. Explore terrain details, safety tips, gear lists, and the best seasons for this hard-distance trek.",
+      "h1": "Oftord to Canterbury Cathedral: 230 km Hard-Distance Hike in the UK"
+    }
   }
 }

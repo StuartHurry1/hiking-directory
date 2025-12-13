@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4465504
+  },
+  "ai": {
+    "summary": "Ock Valley River Walk is a short, easy 1.4 km riverside walk in the UK. The route follows a flat, well-maintained path along the river, offering tranquil water views and a relaxed pace suitable for walkers of all ages.",
+    "terrain_summary": "Flat, well-drained surface with mixed textures: tarmac or compact gravel along the riverside, occasional boardwalk sections, and some shaded stretches. The surface remains even but can become muddy after rain.",
+    "safety_notes": "Stay away from the river edge where there are gaps or unstable banks. Keep children within arm’s reach and dogs on a leash. Check weather and footwear grip; bring rain gear in wet conditions. Stay on marked paths and observe local accessibility notes if mobility is limited.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection (hat and sunscreen)",
+      "Light rain jacket",
+      "Map or smartphone with offline map",
+      "Small first-aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn; year-round can be enjoyable in milder UK weather.",
+    "seo": {
+      "title": "Ock Valley River Walk - Easy 1.4 km Riverside Hike in the UK",
+      "meta_description": "Discover the Ock Valley River Walk: a short, easy 1.4 km riverside hike in the UK. Flat terrain, serene water views, safety tips and gear for a relaxing day.",
+      "h1": "Ock Valley River Walk"
+    }
   }
 }

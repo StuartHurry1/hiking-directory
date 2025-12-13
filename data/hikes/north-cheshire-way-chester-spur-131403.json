@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 131403
+  },
+  "ai": {
+    "summary": "A challenging 21.4 km trek along the Chester Spur of the North Cheshire Way in the UK. It features varied terrain, including rural lanes, hedged fields, and occasional woodland, with a demanding pace and notable elevation gain suitable for experienced hikers.",
+    "terrain_summary": "Mixed terrain with long stretches on country lanes, grassy field edges, and occasional woodland paths. Expect uneven surfaces, stiles, mud after rain, and gentle to moderate ascents. Navigation benefits from a map and compass due to open countryside sections.",
+    "safety_notes": "Check local weather and plan for changing UK conditions. Wear sturdy, waterproof footwear and bring layered clothing. Carry a map and compass (GPS as backup) and inform someone of your route and anticipated finish time. Water, snacks, and sun protection are advised. Be prepared for limited mobile signal in rural areas and stay on marked paths; livestock and farm gates may be encountered.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and electrolyte drinks",
+      "Weather-appropriate layers, including a warm layer",
+      "Lightweight waterproof jacket and trousers",
+      "Map and compass; GPS device as backup",
+      "Headlamp or small flashlight",
+      "First aid kit",
+      "Snacks/energy bars",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle and multitool",
+      "Trekking poles (optional)",
+      "Phone with power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October); winter can be muddy with limited daylight and more challenging conditions.",
+    "seo": {
+      "title": "North Cheshire Way Chester Spur Hike – 21.4 km Hard Trail in the UK",
+      "meta_description": "Explore the 21.4 km North Cheshire Way Chester Spur trek in the UK. A challenging hike with varied terrain, safety tips, gear recommendations, and season guidance.",
+      "h1": "North Cheshire Way: Chester Spur – 21.4 km Hard Hike"
+    }
   }
 }

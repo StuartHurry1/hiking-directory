@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1142625
+  },
+  "ai": {
+    "summary": "Newcastle Way is a challenging long-distance hike in the United Kingdom, covering 72.1 km with a hard difficulty rating. The route traverses a mix of rural lanes, tracks and upland or coastal sections, requiring stamina and careful planning. This guide provides an overview of terrain, safety considerations, essential gear, and the best seasons to tackle the trail.",
+    "terrain_summary": "The trail features mixed terrain typical of UK long-distance routes, including compacted paths, grassy tracks, stony paths, moorland sections, hedged farm lanes, and occasional road sections in towns or villages. Expect elevation changes, uneven surfaces, and potentially muddy conditions after rain. Navigation relies on public rights of way and waymarkers, but a map or GPS is recommended in uncertain sections.",
+    "safety_notes": "Plan for multiple days or a long continuous day hike with adequate daylight. Check weather forecasts and daylight hours, as conditions can change quickly. Carry a map and compass (or reliable GPS), tell someone your itinerary, carry sufficient water and food, wear sturdy waterproof boots, and have appropriate clothing for rain and cold. Be prepared for remote sections with limited phone signal and know the local access rules and closures. Start early and allow extra time for rest stops and terrain changes.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and warm layers",
+      "Rugged daypack with a waist belt",
+      "Map and compass (or GPS device) and/or offline maps",
+      "Fully charged mobile phone and power bank",
+      "Water bottles or hydration reservoir (at least 2-3 liters total)",
+      "High-energy snacks and meal options for multi-day segments",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care items",
+      "Whistle, emergency blanket, and lightweight shelter",
+      "Sunscreen, sunglasses, and hat"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) when daylight is longer and weather is more favorable in the UK, but weather can change quickly and hikers should be prepared for all conditions.",
+    "seo": {
+      "title": "Newcastle Way: 72.1 km Hard Hike in the UK",
+      "meta_description": "Plan and prepare for Newcastle Way, a challenging 72.1 km long-distance hike in the United Kingdom. Learn terrain, safety tips, and gear for success.",
+      "h1": "Newcastle Way Hiking Guide"
+    }
   }
 }

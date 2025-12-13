@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19803386
+  },
+  "ai": {
+    "summary": "The Northey Island Circular Walk is an 11.3 km coastal loop on Northey Island in the UK. The moderate route circles a tidal nature reserve, offering salt marsh scenery, marsh grass, and distant sea views, with sections that can be muddy and exposed to wind. Tide times are crucial for access across the island's causeway, so plan accordingly.",
+    "terrain_summary": "Mixed coastal terrain including grassy paths, salt marsh edges, and occasional boardwalks. Expect uneven footing, soft ground after rain, and mud near low-water areas. Portions may be exposed to wind with open sea views. Access to the island can be tide-dependent via a causeway.",
+    "safety_notes": "Check tide tables before starting; the main access to Northey Island is via a tidal causeway and may be submerged at high tide. Do not attempt the crossing outside the recommended tide window. Wear sturdy footwear, bring waterproof layers, extra warm clothing, sun protection, sufficient water, and a small first aid kit. Stay on marked paths to protect wildlife and avoid disturbing nesting birds.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Waterproof jacket and extra layer",
+      "Water and snacks",
+      "Hat and sun protection",
+      "Tide timetable and map or GPS",
+      "Small first aid kit",
+      "Camera/binoculars (optional)",
+      "Phone with emergency contact info",
+      "Lightweight backpack",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is ideal for milder weather and longer daylight; however, plan around low tides if you want to cross the causeway to Northey Island and check seasonal wildlife activity.",
+    "seo": {
+      "title": "Northey Island Circular Walk – 11.3 km Coastal Hike in the UK",
+      "meta_description": "Discover the Northey Island Circular Walk, an 11.3 km coastal loop around a UK nature reserve. Tide-aware, scenic route with salt marshes, wildlife, and sea views.",
+      "h1": "Northey Island Circular Walk (11.3 km)"
+    }
   }
 }

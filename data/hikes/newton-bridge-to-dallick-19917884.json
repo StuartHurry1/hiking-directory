@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19917884
+  },
+  "ai": {
+    "summary": "A ~10.4 km moderate ridge hike from Newton Bridge to Dallick in the UK. The route follows rolling ridges with exposed viewpoints, uneven ground, and occasional boggy or grassy sections. Suitable for walkers with some experience and good footwear, offering rewarding scenery and a sense of elevation.",
+    "terrain_summary": "Ridge paths with exposed viewpoints, grassy climbs, and intermittent rocky or uneven footing. Expect some boggy stretches and potential wind exposure on higher sections. Navigation may be challenging in poor visibility; bring a map and compass and stay on marked paths where present.",
+    "safety_notes": "Check local weather and daylight hours before starting. Ridges can be exposed and footing may be uneven; wear sturdy footwear and dress in layers. Carry a map and compass (and know how to use them), a fully charged phone as backup, and a whistle for emergencies. Start early in winter or low-visibility conditions to allow extra time. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass (and backup GPS)",
+      "Water and high-energy snacks",
+      "Hat and gloves (season dependent)",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Headlamp or small flashlight",
+      "Protective sun gear (sunscreen, sunglasses)",
+      "Lightweight rain cover or dry bag for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for the best visibility and footing; be cautious of wet or icy conditions in winter.",
+    "seo": {
+      "title": "Newton Bridge to Dallick – 10.4 km Ridge Walk in the UK",
+      "meta_description": "Discover a 10.4 km moderate ridge hike from Newton Bridge to Dallick in the UK. Learn terrain details, safety tips, best seasons, and essential gear for a rewarding ridge walk.",
+      "h1": "Newton Bridge to Dallick Ridge Walk"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 12862088
+  },
+  "ai": {
+    "summary": "Oak Trail is a demanding 24.9 km hike in the UK, traversing mixed woodlands and open countryside. With rugged paths, variable terrain, and significant elevation, it suits experienced hikers prepared for a full-day or multi-day trek. The exact regional setting is unspecified.",
+    "terrain_summary": "The route alternates compact forest paths through oak woodlands with muddy tracks after rain, exposed roots, rocky steps, grassy slopes, and occasional open pastures. Expect uneven surfaces, elevation gains, and sections that require careful footing.",
+    "safety_notes": "Weather in the UK can change quickly. This is a hard route that may take many hours, so start early and plan for limited daylight. Carry a map or GPS, navigation tools, extra food and water, and a basic first aid kit. Tell someone your plan, know the route, and be prepared for slippery or unstable sections after rain. Wear appropriate footwear and consider daylight-saving impacts.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a waterproof jacket",
+      "Backpack with 20-40 L capacity",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Basic first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Trekking poles (optional but helpful)",
+      "Hat and gloves (seasonal)",
+      "Waterproof cover for gear",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight is longer and trails are drier. Winter hiking is possible but more challenging due to poorer footing, higher rainfall, and shorter daylight; plan carefully and be prepared for harsher conditions.",
+    "seo": {
+      "title": "Oak Trail – 24.9 km Hard Hike in the UK",
+      "meta_description": "Discover Oak Trail, a challenging 24.9 km hike in the UK. Find terrain details, safety tips, gear recommendations, and the best seasons for this demanding route.",
+      "h1": "Oak Trail: 24.9 km Hard Hike in the UK"
+    }
   }
 }

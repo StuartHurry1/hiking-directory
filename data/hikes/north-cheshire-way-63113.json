@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 63113
+  },
+  "ai": {
+    "summary": "The North Cheshire Way is a challenging long-distance trail in the United Kingdom, covering approximately 245.6 km. This hard route threads through rural countryside with varied terrain, offering a strenuous trek suited to experienced hikers who enjoy remote sections and long days on the trail.",
+    "terrain_summary": "Expect a mix of grassy fields, hedged lanes, and uneven stone paths, with muddy tracks after rain. The trail may include forested sections, open moorland in higher uplands, and occasional road crossings. Stile crossings and changes in elevation add to the workout, and navigation skills are important in places with limited signage.",
+    "safety_notes": "Carry a reliable map and compass or GPS, tell someone your route and expected return, and check weather forecasts before setting out. Wear sturdy footwear with good grip, bring extra clothing for rapid weather changes, and pack enough water and high-energy food. Be prepared for fallen trees, long sections without services, and limited mobile reception in remote stretches. In the UK, carry a whistle and know emergency numbers (999/112).",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Insulated layer and hat",
+      "Map and compass (or GPS) and a charged phone with offline map",
+      "Hydration system or water bottles (at least 2–3 liters capacity)",
+      "High-energy food and snacks",
+      "Headlamp or torch with spare batteries",
+      "First aid kit and blister care",
+      "Emergency shelter or space blanket",
+      "Whistle, multitool, and tape for quick repairs",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October).",
+    "seo": {
+      "title": "North Cheshire Way – UK 245.6 km Hard Trail Guide",
+      "meta_description": "Plan your hike along the North Cheshire Way, a demanding 245.6 km long-distance trail in the United Kingdom. This guide covers terrain, safety tips, and essential gear.",
+      "h1": "North Cheshire Way – UK Long-Distance Hiking Guide"
+    }
   }
 }

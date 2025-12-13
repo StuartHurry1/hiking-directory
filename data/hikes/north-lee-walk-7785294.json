@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7785294
+  },
+  "ai": {
+    "summary": "North Lee Walk is a 12 km moderate hike in the UK. The route traverses varied countryside with gentle elevation changes, making it suitable for hikers with some experience who enjoy steady pacing and changing scenery.",
+    "terrain_summary": "Expect a mix of country lanes, grassy field edges, and uneven footpaths. Tracks may be muddy after rain, with occasional rocky or stony sections and gentle ascents and descents. Navigation relies on well-marked paths, but bring a map as a backup.",
+    "safety_notes": "Plan the walk for daylight hours and check the forecast. Wear sturdy waterproof boots and dress in layers; carry waterproofs. Stay on marked paths, close gates, and be mindful of livestock. Carry enough water and snacks, a basic first aid kit, and a map or GPS. Let someone know your route and expected return time. In remote sections, bring a fully charged phone and a small flashlight if you may finish after dusk.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water bottle or hydration system (2–3 L)",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Map and compass or GPS device",
+      "Snack or energy bars",
+      "Lightweight backpack with rain cover",
+      "Basic first aid kit",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "North Lee Walk – 12 km Moderate Hike in the UK",
+      "meta_description": "Discover North Lee Walk, a 12 km moderate hike in the UK. Learn route details, best seasons, safety tips, and gear recommendations for a comfortable trek.",
+      "h1": "North Lee Walk – 12 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8473202
+  },
+  "ai": {
+    "summary": "A short, easy 1.1 km section of the North Downs Way Link Path in the UK, ideal for a quick stroll or family outing.",
+    "terrain_summary": "Primarily flat, well-maintained footpath along rural lanes with hedgerows. Surfaces are typically firm (tarmac or compact gravel) with occasional gentle slopes.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy, comfortable footwear suitable for potential mud. Stay on marked paths and follow waymarkers. Carry water, a light layer, and a charged phone. Be mindful of traffic on road sections and plan for daylight hours; in winter, shorter days may limit access. If with children or pets, keep them close and carry a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light waterproof jacket",
+      "Map or GPS device / smartphone with offline map",
+      "Phone with emergency numbers",
+      "Sunscreen and hat",
+      "Whistle"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn. Summer can be comfortable; winter visits may be muddy and daylight-limited.",
+    "seo": {
+      "title": "North Downs Way Link Path – Easy 1.1 km Hike in the UK",
+      "meta_description": "Explore an easy 1.1 km section of the North Downs Way Link Path in the UK. Quick terrain overview, safety tips, and gear checklist for a short, scenic hike.",
+      "h1": "North Downs Way Link Path – Easy 1.1 km Hike (UK)"
+    }
   }
 }

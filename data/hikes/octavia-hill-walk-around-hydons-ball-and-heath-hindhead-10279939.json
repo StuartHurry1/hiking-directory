@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 10279939
+  },
+  "ai": {
+    "summary": "A gentle 5.4 km circular hike around Hydon's Ball and the heath near Hindhead in the UK. The route combines woodland trails with open heathland, suitable for families and casual walkers. The terrain is mainly easy with light ascents and rewarding views from the hill.",
+    "terrain_summary": "Path options include well-defined woodland paths and grassy heathland. Expect a mix of packed earth, grass, and occasional uneven ground with exposed roots. After rain the surface can be muddy and slippery in places; watch footing on slopes.",
+    "safety_notes": "- Wear sturdy footwear with good grip. - Check the weather forecast and bring appropriate layers. - Stay on marked paths; watch for uneven ground, rocks, and exposed roots. - Be mindful of ticks in heathland; perform a quick check after the hike. - Let someone know your plans and carry a charged phone and map. - In winter, daylight hours are shorter and surfaces can be icy.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Extra insulating layer",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation",
+      "Fully charged phone",
+      "Small first-aid kit",
+      "Snacks"
+    ],
+    "best_seasons": "Year-round, with best conditions in late spring to early autumn when paths are drier and visibility is clearer. Summer mornings are often quieter; autumn brings colour.",
+    "seo": {
+      "title": "Octavia Hill Walk – Hydon's Ball and Heath Loop (5.4 km) in Hindhead, UK",
+      "meta_description": "Explore a gentle 5.4 km circular hike around Hydon's Ball and Hindhead Heath. Easy terrain, scenic woodland and heath, practical safety tips, and gear suggestions for a UK countryside stroll.",
+      "h1": "Octavia Hill Walk: Hydon's Ball and Heath Loop"
+    }
   }
 }

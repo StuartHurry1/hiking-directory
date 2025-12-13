@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 917969
+  },
+  "ai": {
+    "summary": "The North Down Coastal Path (Ulster Way Section) is a hard, 51.7 km coastal trek in the United Kingdom. This Ulster Way section runs along rugged sea cliffs, headlands, and grass-covered coastal paths with variable weather and tides, requiring seasoned hikers to cover multiple days.",
+    "terrain_summary": "Coastal trail along cliffs and headlands with a mix of exposed paths, rocky slabs, grassy uplands, and occasional beach sections. Expect uneven footing, wet and muddy sections, strong winds from the sea, and potential erosion near cliff edges.",
+    "safety_notes": "Plan for variable coastal weather and tides. Wear sturdy waterproof boots and layered clothing. Stay on marked paths near cliff edges; avoid unstable ground and sudden rockfalls. Check tide tables before beach sections. Carry navigation tools (map, compass, or GPS) and a charged phone. Bring enough water and high-energy food, a first aid kit, headlamp, and a means to signal for help. In winter or poor conditions, consider shorter segments or postponement.",
+    "recommended_gear": [
+      "Map and compass or GPS",
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and insulating layers",
+      "Water and high-energy snacks",
+      "Hat and gloves",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency bivvy or lightweight shelter",
+      "Sunscreen and sunglasses",
+      "Whistle",
+      "Rain pants",
+      "Navigation device (GPS)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for safer weather and longer daylight; shoulder seasons possible with preparation, while winter carries higher risk from storms, cold, and reduced daylight.",
+    "seo": {
+      "title": "North Down Coastal Path (Ulster Way Section) — 51.7 km of coastal hiking in the UK",
+      "meta_description": "Explore the challenging North Down Coastal Path, the Ulster Way section spanning 51.7 km along rugged UK coastline. Practical tips, gear lists, safety notes, and best seasons for this coastal trek.",
+      "h1": "North Down Coastal Path (Ulster Way Section) – 51.7 km Coastal Trek"
+    }
   }
 }

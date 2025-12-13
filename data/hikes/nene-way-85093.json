@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 85093
+  },
+  "ai": {
+    "summary": "The Nene Way is a challenging long-distance hike in the United Kingdom, spanning roughly 523 km. The route traverses a mix of countryside, towpaths, farmland, woodland, and occasional urban sections, requiring stamina, careful planning, and self-sufficiency for multi-day marches.",
+    "terrain_summary": "Terrain is varied: paved or compact towpaths, riverbanks, gravel tracks, muddy fields, hedged lanes, and woodland trails, with rolling to moderate elevation changes. Weather in the UK is unpredictable, so waterproofing and suitable footwear are essential across seasons.",
+    "safety_notes": "Plan for long days and potentially remote sections with limited services. Carry navigational tools (map, compass, or GPS) and a contingency plan if signs are scarce. Check local weather and flood risk, especially near rivers. Stay aware of daylight hours, carry lighting for early starts or late finishes, and let someone know your itinerary. Bring a basic first aid kit, sufficient food and water, and a means to call for help in case of emergencies.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Breathable, moisture-wicking layers and a waterproof shell",
+      "Day pack or multi-day rucksack (20–40 L)",
+      "Water bottle and/or hydration system (2–3 L total)",
+      "High-energy food and snacks for long days",
+      "Navigation tools: map, compass, and/or GPS device",
+      "Headlamp with extra batteries",
+      "First aid kit and any personal medications",
+      "Emergency blanket or lightweight bivvy",
+      "Whistle and multitool",
+      "Sun protection: sunscreen, sunglasses, hat",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best weather and daylight for a 523 km hike in the UK, but be prepared for sudden rain, wind, or cold snaps.",
+    "seo": {
+      "title": "Nene Way — 523 km Hard UK Trail",
+      "meta_description": "Discover the Nene Way, a 523 km hard-distance hike across the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for planning your trek.",
+      "h1": "Nene Way: A 523 km Hard UK Trail"
+    }
   }
 }

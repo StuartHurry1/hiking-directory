@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11507979
+  },
+  "ai": {
+    "summary": "A short, easy 1.6 km hike in the UK featuring gentle terrain and minimal elevation gain. Ideal for beginners, families, or a quick outdoor refresh, with straightforward navigation and pleasant views.",
+    "terrain_summary": "Mostly flat, well-defined paths with grassy and gravel surfaces. Expect occasional uneven patches and damp ground. Coastal or open-country exposure may bring wind and variable weather; check conditions before you go.",
+    "safety_notes": "Check weather conditions and, if near water, tide times. Wear sturdy shoes and bring water. Stay on marked trails, tell someone your plans, and carry a charged phone. Be prepared for slippery surfaces when wet and reduced visibility in poor weather.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle",
+      "Windproof or light rain jacket",
+      "Map, guidebook, or offline map on phone",
+      "Sun protection (hat, sunscreen)",
+      "Snack or energy bar",
+      "Light gloves or fleece if chilly",
+      "Phone charged with emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers milder weather and longer daylight in the UK. The hike is also doable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Neapaback Burravoe – Easy 1.6 km Hike in the UK",
+      "meta_description": "Explore Neapaback Burravoe, a short 1.6 km easy hike in the UK. Gentle terrain, minimal elevation, and scenic views—perfect for beginners. Includes safety tips and gear suggestions.",
+      "h1": "Neapaback Burravoe: Easy 1.6 km Hike in the UK"
+    }
   }
 }
