@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 919106
+  },
+  "ai": {
+    "summary": "The Lecale Way is a challenging 51.5 km trek in the UK, typically tackled as a multi-day coastal and rural hike. Expect varied surfaces, coastal winds, and elevation changes, with opportunities for sea views and seaside villages along the route. Best suited for experienced hikers comfortable with navigation and longer days; plan for 2–3 days or more depending on pace and rest breaks.",
+    "terrain_summary": "Coastal paths, cliff-top trails, and rural tracks with uneven surfaces. Muddy sections, stiles, and occasional road crossings. Coastal exposure with windy conditions and variable visibility; some segments may be affected by tides. Navigation is helpful in remote stretches.",
+    "safety_notes": "Check weather and tide times before starting, as coastal sections can be exposed and weather can change quickly. Tell someone your planned route and expected finish time. Carry a detailed map and compass or a GPS device with offline maps, and ensure your phone is charged as a backup. Wear sturdy, waterproof footwear and bring layers, rain protection, and sufficient food and water for a multi-day hike. Be prepared for limited services; have a plan for emergencies and consider a guided or shorter alternative if you are not an experienced hiker.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and pants",
+      "Warm layers and a hat/gloves for coastal winds",
+      "Backpack with rain cover",
+      "Water bottle or hydration system (2–3 L total)",
+      "High-energy snacks and meals for multi-day trek",
+      "Map, compass, and/or GPS device with backup batteries",
+      "Phone with offline maps and emergency contact data",
+      "First aid kit tailored for extended trips",
+      "Headlamp with extra batteries",
+      "Sun protection (sunglasses, sunscreen, hat)",
+      "Walking poles for stability on uneven terrain",
+      "Emergency whistle and reflective gear",
+      "Mud guards or gaiters (seasonal)"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately April to October) typically offers the best weather and daylight for a 51.5 km trek. Summer provides longer days but can be busier; spring and autumn offer quieter trails with cooler conditions. Winter hikes are possible with advanced preparation for cold, wet, and windy conditions.",
+    "seo": {
+      "title": "Lecale Way: 51.5 km Hard Coastal Hike in the UK",
+      "meta_description": "Plan your Lecale Way trek: a 51.5 km hard coastal route in the UK. Safety tips, gear checklist, best seasons, and preparation advice.",
+      "h1": "Lecale Way: 51.5 km Hard Coastal Hike in the UK"
+    }
   }
 }

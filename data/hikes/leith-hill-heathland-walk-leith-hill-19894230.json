@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19894230
+  },
+  "ai": {
+    "summary": "A gentle 5.6 km circuit hike around Leith Hill, weaving through open heathland with occasional woodland. Easy terrain, suitable for families and beginners, with scenic views across the Surrey Hills.",
+    "terrain_summary": "Mostly well-maintained paths across open heath with some uneven ground and a few tree roots. Gentle ascents to Leith Hill summit, with sandy or grassy surfaces; expect mud after rain and loose gravel in exposed sections.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. The weather on the hill can change quickly; bring layers and a waterproof. Stay on marked paths; heathland can be uneven and slippery when wet. Be aware of ticks in heathland; check yourself after the walk. Mobile reception may be limited in parts of the route; carry a map and compass or a GPS device. Bring water and a small first-aid kit; plan for safe, short rest stops.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map and compass or GPS",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Snacks",
+      "Small first-aid kit",
+      "Phone with emergency numbers saved",
+      "Backpack or daypack"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and summer when the heathland is in bloom; autumn offers colorful scenery; winter can be muddy and windy.",
+    "seo": {
+      "title": "Leith Hill Heathland Walk – Easy 5.6 km Hike in the UK",
+      "meta_description": "Discover a gentle 5.6 km circuit at Leith Hill in the UK. Easy terrain, heathland scenery, and panoramic views—perfect for a family-friendly day out.",
+      "h1": "Leith Hill Heathland Walk – Easy 5.6 km Hike in the UK"
+    }
   }
 }

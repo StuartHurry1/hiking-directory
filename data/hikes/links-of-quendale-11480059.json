@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 11480059
+  },
+  "ai": {
+    "summary": "The Links of Quendale hike is an 8 km moderate coastal walk in the United Kingdom. It follows grassy links and shoreline paths, offering open sea views, sea spray, and a mix of coastal meadow and dune terrain. The route suits walkers with moderate fitness and a willingness to contend with uneven ground and changing coastal weather.",
+    "terrain_summary": "Terrain includes grassy links, dune paths, and sections along rocky shoreline. Expect a combination of firm paths and uneven, potentially muddy ground, with exposed sections where wind can be strong. Some parts may be soft sand near the shore.",
+    "safety_notes": "Check local conditions and tide times if the route runs near the coast. Stay on marked paths and watch for cliff edges and slippery surfaces. Wear sturdy waterproof footwear and dress in layers; carry a waterproof jacket. Bring a map or GPS, a mobile phone, and a small first-aid kit. Let someone know your plan and expected return. Be aware of golfers if the route passes through a links course; give way when necessary. Carry water and snacks, and be prepared for sudden weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Hat and sunscreen",
+      "Sunglasses",
+      "Water bottle or hydration system",
+      "Snacks or energy bar",
+      "Map and compass or GPS device",
+      "Mobile phone with emergency contacts",
+      "Small first-aid kit and emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (approximately March–October).",
+    "seo": {
+      "title": "Links of Quendale Hike – 8 km Moderate Coastal Walk in the UK",
+      "meta_description": "Explore the 8 km moderate hike at the Links of Quendale in the United Kingdom. Learn about terrain, safety, best seasons, and gear for this coastal walk.",
+      "h1": "Links of Quendale – 8 km Moderate Coastal Hike"
+    }
   }
 }

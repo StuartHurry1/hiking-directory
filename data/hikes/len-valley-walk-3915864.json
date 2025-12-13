@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 3915864
+  },
+  "ai": {
+    "summary": "The Len Valley Walk is a challenging long-distance hike in the UK, totaling 60.6 km. Designed for experienced hikers, the route traverses varied terrain and demanding climbs, typically requiring multiple days to complete.",
+    "terrain_summary": "A mixed UK countryside route featuring forest tracks, grassy lanes and field edges, with sections of steep ascents and uneven surfaces. Expect wet and muddy stretches, occasional exposed viewpoints, and occasional river crossings along the way.",
+    "safety_notes": "This is a hard, long-distance hike. Plan as a multi-day trip and do not rely on mobile signals in remote sections. Check the forecast and daylight hours, wear sturdy boots, and bring weather-appropriate layers. Stay hydrated and fueled, carry a map and compass, and tell someone your route and expected finish. Stay on marked paths, be prepared for sudden weather changes, and avoid solo navigation in poor conditions.",
+    "recommended_gear": [
+      "Sturdy trekking boots with ankle support",
+      "Weatherproof jacket and trousers (breathable and waterproof)",
+      "Thermal layers and extra clothing",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with a power bank",
+      "Headlamp with spare batteries",
+      "Water bottle or hydration system and water purification method",
+      "High-energy food and snacks",
+      "Lightweight backpack with rain cover",
+      "First aid kit with blister care",
+      "Emergency shelter or bivy sack",
+      "Sun protection: sunscreen, sunglasses, hat",
+      "Insulating hat and gloves",
+      "Trekking poles (optional but helpful)",
+      "Overnight camping gear (tent, sleeping bag, mat) if planning multi-day"
+    ],
+    "best_seasons": "Spring to autumn (April–October) is generally best for Len Valley Walk in the UK; expect longer daylight and milder weather, and be prepared for occasional rain.",
+    "seo": {
+      "title": "Len Valley Walk: 60.6 km Hard UK Long-Distance Trail",
+      "meta_description": "Explore Len Valley Walk, a 60.6 km hard-distance hike in the UK. Learn about terrain, safety tips, gear lists, and the best seasons for this challenging trail.",
+      "h1": "Len Valley Walk (60.6 km) – Hard UK Long-Distance Trail"
+    }
   }
 }

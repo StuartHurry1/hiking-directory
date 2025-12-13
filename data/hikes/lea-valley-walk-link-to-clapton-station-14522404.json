@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14522404
+  },
+  "ai": {
+    "summary": "A short, easy 1.5 km riverside walk along the Lea Valley near Clapton Station in London. This beginner-friendly route follows flat paths by the River Lea, offering tranquil scenery, wildlife sightings, and a simple urban-outdoor experience suitable for families and casual strolls.",
+    "terrain_summary": "Flat, well-maintained paths along the river with segments on pavements and canal towpaths. Some grassy banks and boardwalk sections; expect occasional uneven ground or wet conditions after rain. Generally level with minimal elevation gain.",
+    "safety_notes": "Stay on designated paths; beware of shared-use trails with cyclists; supervise children near water; check weather and water levels; wear sturdy footwear; carry a small amount of water and a charged phone; be mindful of crowds in urban sections; long stretches may have limited shade.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Phone with maps and emergency contacts",
+      "Small daypack",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Year-round; best in spring and summer for milder weather and more daylight",
+    "seo": {
+      "title": "Lea Valley Walk near Clapton Station – Easy 1.5 km Riverside Route (UK)",
+      "meta_description": "Discover an easy 1.5 km Lea Valley Walk near Clapton Station in London. Flat, scenic riverside path ideal for a quick urban escape and family-friendly stroll.",
+      "h1": "Lea Valley Walk near Clapton Station – 1.5 km Easy Riverside Route"
+    }
   }
 }

@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 13833886
+  },
+  "ai": {
+    "summary": "An easy 3 km stroll starting at Charlton station, designed for beginners and casual walkers. The route follows flat, well-maintained paths through nearby green spaces and urban scenery, offering a relaxed outing with minimal elevation.",
+    "terrain_summary": "Mostly flat pavements and grassy paths with occasional gravel sections and simple street crossings. Expect urban park surroundings rather than rugged wilderness.",
+    "safety_notes": "Check the weather before you go. Wear sturdy, comfortable footwear. Be aware of cyclists and traffic at crossings. Carry water and a small snack, and have a mobile phone with emergency contacts. In low light, bring a flashlight.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small map or offline map on phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October)",
+    "seo": {
+      "title": "Charlton Station Walk (Section 4A) – Easy 3 km Hike in the UK",
+      "meta_description": "A short, easy 3 km hike starting at Charlton station. Flat terrain, suitable for beginners, with practical safety tips and gear suggestions.",
+      "h1": "Charlton Station Walk (Section 4A) – Easy 3 km Hike"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16155653
+  },
+  "ai": {
+    "summary": "Liathach Trail is a 11.1 km moderate hike in the Scottish Highlands (UK) that follows rugged granite ridges with exposed sections and scenic valley views. Suitable for hikers with moderate fitness and good footing, it combines steady ascents with rocky footing and potential short scrambles.",
+    "terrain_summary": "Rugged granite terrain with rocky paths, uneven footing, and occasional short scrambling. Exposed ridges and open cross-winds common. Conditions can be damp and slippery, especially after rain. Navigation can be challenging in poor visibility; stay on marked routes.",
+    "safety_notes": "Weather in the Highlands can change rapidly. Check forecast before departure; carry waterproofs, extra layers, and a hat/gloves. Wear sturdy boots with grip; bring map and compass (GPS is not a substitute). Inform someone of your plan; leave a route plan and estimated times. Take sufficient food and water; watch for weather- and daylight-related fatigue. On exposed ridges, avoid rockfall-prone sections and turn back if wind increases or visibility drops. Start early to avoid finishing in darkness.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and pants",
+      "Insulating layer (fleece or puffer)",
+      "Gloves and warm hat",
+      "Map and compass (GPS device optional)",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a light meal",
+      "First aid kit including blister care",
+      "Emergency blanket or bivvy sack",
+      "Rucksack with rain cover",
+      "Trekking poles (optional but helpful on rocky sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) is generally best for Liathach Trail, avoiding deep winter conditions.",
+    "seo": {
+      "title": "Liathach Trail - 11.1 km Moderate Hike in the Scottish Highlands, UK",
+      "meta_description": "Explore the Liathach Trail, an 11.1 km moderate hike through rugged granite ridges in the Scottish Highlands. Learn terrain, safety tips, and gear for a memorable UK trek.",
+      "h1": "Liathach Trail – 11.1 km Moderate Hike in the Scottish Highlands"
+    }
   }
 }

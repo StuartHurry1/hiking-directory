@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10661450
+  },
+  "ai": {
+    "summary": "A gentle 3.3 km stroll along the Lewisham Promenade in the UK. An easy, flat route suitable for all ages and abilities, featuring a paved path, urban scenery, and convenient benches.",
+    "terrain_summary": "Flat, paved promenade with a smooth surface ideal for walking and wheelchairs. Urban setting with occasional crossings, benches, and light foot traffic.",
+    "safety_notes": "Urban walk: stay on the designated path, watch for cyclists and other pedestrians, and obey crossing signals at intersections. Check weather and daylight hours before you go. Wear comfortable footwear, bring water, and consider a light layer for changing conditions. Keep valuables secure and be mindful of personal safety in busy areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Sunscreen and hat",
+      "Mobile phone with maps",
+      "Light rain jacket or layer",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "All year, with especially pleasant conditions in spring and summer; autumn offers mild weather and scenic views, while winter can be brisk and daylight hours shorter.",
+    "seo": {
+      "title": "Lewisham Promenade — Easy 3.3 km Urban Walk in the UK",
+      "meta_description": "Discover a flat 3.3 km promenade stroll in the UK. An easy, accessible route along Lewisham Promenade with urban scenery, safety tips, and gear suggestions.",
+      "h1": "Lewisham Promenade – Easy 3.3 km Urban Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12042606
+  },
+  "ai": {
+    "summary": "A 7.4 km moderate hike in the UK, winding through varied countryside with gentle ascents and scenic views. The route offers a comfortable day on the trail, suitable for most hikers seeking countryside scenery and a relaxed outdoor outing.",
+    "terrain_summary": "Mixed surfaces including paved paths, gravel tracks, grassy fields, and shaded woodlands. Expect occasional gentle climbs and some uneven ground; mud can occur after rain.",
+    "safety_notes": "Plan according to typical UK weather and daylight. Wear sturdy footwear and dress in layers with a waterproof layer. Carry a map or offline navigation device, and know your turnaround point. Stay on marked paths, be mindful of livestock and farm gates, and avoid hiking alone if unprepared. Consider daylight hours and phone battery in areas with poor reception.",
+    "recommended_gear": [
+      "sturdy hiking boots",
+      "weather-appropriate layered clothing with a waterproof jacket",
+      "water bottle (1–2 L) and snacks",
+      "map, compass or offline navigation device",
+      "sun protection: hat and sunscreen",
+      "small first-aid kit and whistle",
+      "headlamp or flashlight (for possible late return)"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Literary Heritage Trail – 7.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the 7.4 km Literary Heritage Trail in the UK: a moderate hike with varied terrain, scenic countryside, safety tips, and gear essentials for a great day outdoors.",
+      "h1": "Literary Heritage Trail – 7.4 km Moderate Hike in the UK"
+    }
   }
 }

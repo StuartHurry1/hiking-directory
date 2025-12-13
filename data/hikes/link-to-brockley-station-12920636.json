@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12920636
+  },
+  "ai": {
+    "summary": "A short, easy urban walk starting from Brockley Station in the UK, covering about 1.4 km on pavements and light park paths. Suitable for all ages and abilities looking for a quick outdoors moment.",
+    "terrain_summary": "Flat, urban terrain with sidewalks, pavement, and occasional grassy verges. Mostly on city streets with gentle crossings; some sections may be uneven or wet in bad weather.",
+    "safety_notes": "Stay on sidewalks and use marked crossings. Be aware of cyclists and traffic, especially at junctions. Wear appropriate footwear for pavement surfaces and check weather conditions before you go. Carry a phone and a small amount of emergency contact information.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (light rain jacket, warm layer as needed)",
+      "Water bottle",
+      "Phone with maps or GPS",
+      "Small bag or backpack to carry items"
+    ],
+    "best_seasons": "Year-round",
+    "seo": {
+      "title": "Brockley Station Walk – 1.4 km Easy Urban Trail in the UK",
+      "meta_description": "Enjoy a short, easy 1.4 km urban hike starting at Brockley Station in the UK. Flat pavements, city paths, and light park sections make this accessible for all ages.",
+      "h1": "Brockley Station Walk – 1.4 km Easy Urban Trail"
+    }
   }
 }

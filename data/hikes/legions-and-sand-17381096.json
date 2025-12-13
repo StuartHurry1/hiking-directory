@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17381096
+  },
+  "ai": {
+    "summary": "Legions and Sand is a 10.1 km moderate hike in the UK that traverses mixed terrain including sandy dune sections, grassy tracks, and gentle rises. The route offers open, windswept views and opportunities to observe local wildlife; suitable for hikers with intermediate endurance and solid footing.",
+    "terrain_summary": "Expect a mix of firm trails and soft sand, with some uneven ground and short climbs. Dune sections can be loose underfoot; sections may be exposed to wind and weather. Bring suitable footwear and be prepared for changing footing.",
+    "safety_notes": "Check weather and, if coastal sections apply, tide timings. Wear sturdy, waterproof footwear with good grip. Carry water, a map or offline navigation, sun protection, and a basic first aid kit. Start with a daylight window; avoid hiking alone in remote sections. Respect local wildlife and watch for soft sand that can cause ankle twisting. Be mindful of seasonal livestock on certain paths if present. If visibility drops, turn back or seek shelter in a safe area; inform someone of your plan.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Lightweight waterproof jacket and extra layer",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Map and compass or offline navigation device",
+      "Mobile phone and power bank",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Trekking poles (optional)",
+      "Headlamp or flashlight (in case of late return)"
+    ],
+    "best_seasons": "Spring to early autumn (April–October) offer the best visibility and conditions. Summers can be warm and breezy; winters are colder with a higher chance of mud and storms. Plan for windy days and potential short afternoon showers.",
+    "seo": {
+      "title": "Legions and Sand — 10.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Legions and Sand, a 10.1 km moderate UK hike across sandy dunes, grassy trails, and gentle rises. Practical safety tips, gear checklist, and best seasons.",
+      "h1": "Legions and Sand: A 10.1 km Moderate UK Hike"
+    }
   }
 }

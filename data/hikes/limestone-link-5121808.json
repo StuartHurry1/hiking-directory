@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 5121808
+  },
+  "ai": {
+    "summary": "Limestone Link is a demanding long-distance hike in the UK, covering 135.8 km across varied limestone terrain. Geared toward experienced trekkers, the route combines well-made paths with boggy sections, rocky outcrops, and exposed uplands. The trek is typically completed over multiple days and requires careful planning for weather, navigation, and remote sections.",
+    "terrain_summary": "Expect a mix of terrain: sections of good footpaths, muddy bogs, limestone slabs, rocky ascents, and occasional exposed ridges. Weather can change quickly, and signage may be sparse in remote areas, so reliable navigation is essential. Long days with steady elevation gain on varied surfaces demand sturdy footwear and careful pacing.",
+    "safety_notes": "Plan a multi-day itinerary with achievable daily distances. Check weather forecasts and be prepared for sudden changes, including wind and rain. Carry map and compass or a reliable GPS, and know how to use them. Share your route and expected timings with someone and carry a charged mobile phone as a backup. Maintain hydration and nutrition, carry extra layers, and wear appropriate waterproof gear. Pack a compact first aid kit, whistle, emergency shelter, and a means to signal for help. Be mindful of boggy ground and potential route deviations; allow extra time for difficult sections and have a contingency plan.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating mid-layer (fleece or down)",
+      "Breathable base layers",
+      "Daypack with rain cover",
+      "Water supply (2 L+ or hydration bladder) and water treatment method",
+      "Map and compass or GPS device",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency shelter or bivvy sack",
+      "Whistle and personal locator device (or charged phone with emergency contacts)",
+      "Rain cover for electronics and dry bags",
+      "Trekking poles (optional but recommended)",
+      "High-energy snacks and meals"
+    ],
+    "best_seasons": "May to September (late spring to early autumn) is typically best for limestone country in the UK, offering longer daylight and more stable conditions; shoulder seasons can be viable with proper planning but weather can be more variable.",
+    "seo": {
+      "title": "Limestone Link – 135.8 km hard hike in the UK",
+      "meta_description": "Discover Limestone Link, a challenging 135.8 km hike across the UK. Learn about terrain, safety tips, and essential gear for planning this demanding adventure.",
+      "h1": "Limestone Link: A challenging 135.8 km UK hike"
+    }
   }
 }

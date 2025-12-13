@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 5356111
+  },
+  "ai": {
+    "summary": "A 13.3 km moderate hike along the Linlithgow Marches Perambulation route in the UK. The route blends rural tracks and historic landscapes with modest elevation changes, suitable for hikers with a moderate fitness level.",
+    "terrain_summary": "Terrain is mixed: rural tracks, field edges, minor roads, and occasional gates or stiles. Ground can be uneven and muddy after rain. Expect gentle to moderate climbs and several longer flat sections.",
+    "safety_notes": "Check the weather and daylight hours before setting out; carry a map and compass or GPS, and ensure someone knows your route and ETA. Wear sturdy footwear and dress in layers; farmland sections require respect for livestock and crops. Be prepared for patchy mobile signal, road traffic on short sections, and possible mud; carry water, snacks, a first aid kit, and a whistle for emergencies.",
+    "recommended_gear": [
+      "Water bottle (1-2 litres)",
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing with layers",
+      "Waterproof jacket",
+      "Map and/or GPS device",
+      "Mobile phone with power bank",
+      "Snacks or energy bars",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "First aid kit",
+      "Emergency whistle",
+      "Walking poles (optional)",
+      "Headlamp or flashlight (in case of low light or delays)"
+    ],
+    "best_seasons": "Spring to Autumn for the best conditions; hikes are feasible year-round with proper gear and daylight; winter can be wetter and colder.",
+    "seo": {
+      "title": "Linlithgow Marches Perambulation Route – 13.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the Linlithgow Marches Perambulation route, a 13.3 km moderate hike through rural tracks and historic landscapes in the UK. Safety tips and gear guidance included.",
+      "h1": "Linlithgow Marches Perambulation Route – 13.3 km Moderate Hike"
+    }
   }
 }

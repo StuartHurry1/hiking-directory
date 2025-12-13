@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 16155866
+  },
+  "ai": {
+    "summary": "An expedition through a remote portion of the UK's Scottish Highlands, the Letterewe Wilderness Trail covers about 76 km of wild, exposed terrain. Classified as hard, it is typically completed as a multi-day trek with long distances between services. Expect remote moorland, peat bogs, rugged tracks, river crossings, and occasional rocky climbs that demand good navigation and solid preparation.",
+    "terrain_summary": "Remote open terrain across the Letterewe Wilderness, featuring long stretches of moorland, peat bogs, and forest edges. Expect boggy sections, river crossings, exposed ridgelines, and rough tracks. Terrain can be wet and slippery, with variable weather and strong winds. Navigation skills and map reading are essential.",
+    "safety_notes": "Plan for remote travel with limited, or no, emergency services. Carry a detailed map and compass and know how to use them. Check weather forecasts and daylight hours; conditions can change rapidly in the Scottish Highlands. Pace your trek for a multi-day route and carry emergency shelter and extra food. Inform someone of your itinerary and expected return. Carry a fully charged emergency device (satellite messenger or PLB) as a backup. Be prepared for river crossings after rain and consider the risk of fast water. Follow Leave No Trace principles and protect peat bogs.",
+    "recommended_gear": [
+      "Sturdy, well broken-in hiking boots with ankle support",
+      "Gaiters",
+      "Waterproof breathable jacket and pants",
+      "Insulating mid-layer and base layers",
+      "Hat and gloves",
+      "Map and compass (and know how to use them); GPS as backup",
+      "Water purification method and sufficient drinking vessels",
+      "Headlamp with extra batteries",
+      "Sleeping bag and sleeping mat for multi-day trips (or emergency bivy/shelter)",
+      "Lightweight tent or bivy shelter (optional for wild camping)",
+      "First aid kit with blister care and personal medications",
+      "Multi-tool and whistle",
+      "Fire starter and waterproof matches",
+      "High-energy snacks and meals; hydration system or bottles",
+      "Sun protection: sunscreen and sunglasses",
+      "Satellite messenger or PLB for remote operation (recommended)"
+    ],
+    "best_seasons": "May–September is the recommended window, offering longer daylight and generally milder weather. Shoulder seasons (April or October) can be rewarding but bring higher weather risk and shorter days.",
+    "seo": {
+      "title": "Letterewe Wilderness Trail – 76km Hard Hike in the Scottish Highlands, UK",
+      "meta_description": "Plan a challenging 76 km trek along the Letterewe Wilderness Trail in the Scottish Highlands. Terrain, safety tips, best seasons, and gear recommendations for this remote UK hike.",
+      "h1": "Letterewe Wilderness Trail: 76km Hard Hike in the Scottish Highlands"
+    }
   }
 }

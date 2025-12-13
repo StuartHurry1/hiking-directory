@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12920507
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km urban walk centered around Nunhead Station in the United Kingdom. This quick stroll blends station-side streets with nearby green spaces, suitable for a casual outing or a brief stretch break.",
+    "terrain_summary": "Predominantly urban terrain: smooth pavements and sidewalks along residential streets, with occasional grassy verges and park paths. Generally flat with only gentle inclines.",
+    "safety_notes": "Be mindful of traffic at crossings around the station and streets. Keep belongings secure and stay on marked paths. Watch for cyclists on shared routes and check weather conditions before heading out. For after-dark walks, carry a light and stay in well-lit areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket or layer",
+      "Water bottle",
+      "Sunscreen or hat (seasonal)",
+      "Phone with offline map or route",
+      "Small backpack or bag to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn; year-round walks are fine in daylight, though winter can be colder and wetter.",
+    "seo": {
+      "title": "Short Easy 0.5 km Walk Near Nunhead Station, UK",
+      "meta_description": "Discover a quick, easy 0.5 km urban hike around Nunhead Station in the United Kingdom. Practical safety tips, gear ideas, and best seasons for this short walk.",
+      "h1": "Nunhead Station: Short Easy 0.5 km Walk"
+    }
   }
 }

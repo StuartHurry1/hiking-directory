@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1880252
+  },
+  "ai": {
+    "summary": "The Leicestershire Round is a demanding long-distance circuit in the UK, totaling 885.4 km and rated hard. The route threads through rural Leicestershire (region not specified on the page), offering a continuous mix of farmland, woodlands, hedgerows, villages and canal towpaths. It’s designed for experienced hikers who can plan multiple days, manage navigation, and handle variable UK weather.",
+    "terrain_summary": "Predominantly rural terrain with long farm tracks, field edges, hedgerows, and occasional paved lanes. Expect a mix of woodland stretches, canal towpaths, open fields and gentle hills. Terrain can be muddy after rain and can vary with seasons; occasional road sections require caution.",
+    "safety_notes": "Plan for multi-day sections with reliable navigation and daylight management. Carry current maps or GPS; know your planned resupply points. UK weather changes quickly—bring waterproofs and warm layers. Wear sturdy boots and pace yourself. Stay on public rights of way, mind livestock and road crossings near villages. Let someone know your itinerary; carry a whistle and a basic first-aid kit; in remote sections consider a means of emergency contact.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Warm layers (fleece or insulating layer)",
+      "Moisture-wicking base layers",
+      "Backpack appropriate for multi-day trips (or daypack with planned resupply)",
+      "Hydration system providing 2–3 litres of water; water purification method",
+      "Map and compass, or GPS device with charged batteries",
+      "Headlamp with extra batteries",
+      "First-aid kit including blister care",
+      "Emergency shelter (lightweight bivy or tarp) and repair kit",
+      "Food and high-energy snacks for multiple days",
+      "Sun protection (hat, sunscreen) and insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and drier conditions; shoulder seasons workable with more rain and mud; avoid deep winter due to short days and ice.",
+    "seo": {
+      "title": "Leicestershire Round – 885.4 km Hard UK Trail",
+      "meta_description": "Discover the Leicestershire Round, an 885.4 km hard-distance hike in the UK. Terrain overview, safety tips, gear checklist, and best seasons.",
+      "h1": "Leicestershire Round – 885.4 km Hard Hike in the UK"
+    }
   }
 }

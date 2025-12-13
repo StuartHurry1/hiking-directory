@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 2963646
+  },
+  "ai": {
+    "summary": "Liberty Trail is a strenuous 45.4 km long-distance hike in the UK, intended for experienced hikers. It features varied terrain, potential elevation gain, and weather variability that demands solid navigation skills and robust equipment.",
+    "terrain_summary": "Expect a mix of forest tracks, muddy footpaths, rocky sections, and open moorland. The route can include exposed ridges, stream crossings, and long, fatigue-prone stretches. Footing may be uneven and weather-dependent, so good footwear and navigation ability are essential.",
+    "safety_notes": "Plan for a multi-day trek or long day with a strict schedule. Check the forecast and daylight hours; tell someone your route and expected return. Carry navigation tools (map and compass or GPS) and know how to use them. Start early to maximize daylight. Stay hydrated and fueled; carry extra food and water. Wear waterproof clothing, layer for warmth, and bring a hat and gloves. Have a first aid kit, whistle, and emergency shelter. In poor conditions, turn back or seek shelter; if in doubt, don’t push on beyond your comfort and skill level.",
+    "recommended_gear": [
+      "Durable waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Insulating mid-layer and/or fleece",
+      "Moisture-wicking base layers",
+      "Rucksack with rain cover",
+      "Map, compass, and/or GPS device with charged batteries",
+      "Water bottles or hydration reservoir (at least 2 L) and water treatment options",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "First aid kit tailored for hiking",
+      "Emergency bivvy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Trekking poles",
+      "Emergency shelter or lightweight poncho",
+      "Phone with backup charger and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) in the UK, when daylight hours are longer and temperatures moderate. Be prepared for sudden weather changes at any time.",
+    "seo": {
+      "title": "Liberty Trail – A 45.4 km Hard Hike in the UK",
+      "meta_description": "Discover Liberty Trail, a challenging 45.4 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding long-distance route.",
+      "h1": "Liberty Trail: 45.4 km Hard Hike in the UK"
+    }
   }
 }

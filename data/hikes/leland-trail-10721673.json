@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 10721673
+  },
+  "ai": {
+    "summary": "The Leland Trail is a challenging 20.6 km hike in the United Kingdom, best tackled by experienced walkers seeking a strenuous day out. The route traverses a mix of rural lanes, woodlands and open moorland with notable elevation changes, rewarding those who complete it with varied scenery.",
+    "terrain_summary": "Expect mixed terrain: grassy paths, compacted earth, muddy sections and occasional rocky steps. Open moorland can be exposed to wind and rain. You may encounter stiles, gates, and occasional stream crossings. Navigation is important in the unknown region; carry a map and compass (or GPS) and stay on defined paths where possible.",
+    "safety_notes": "This is a hard day hike covering roughly 20.6 km. Plan for 8–12 hours depending on pace and conditions. Check weather in advance; UK terrain can be slippery and quickly changeable. Wear sturdy waterproof boots and dress in layers; bring a waterproof jacket. Carry sufficient water and food, plus a map and compass or GPS. Tell someone your planned route and expected return. Be prepared for mud, bog, and weather exposure; have a plan for emergency whistle and shelter if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and breathable jacket",
+      "Thermal layers and hat/gloves (season dependent)",
+      "Map and compass (and/or GPS)",
+      "Fully charged phone with offline maps and power bank",
+      "Water bottle or hydration system",
+      "High-energy snacks and a light meal",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency blanket or bivy bag",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Rain cover for backpack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and trails are drier; winter hikes are possible with careful planning but conditions can be harsher and navigation more difficult.",
+    "seo": {
+      "title": "Leland Trail – 20.6 km Hard Hike in the UK",
+      "meta_description": "Tackle the challenging 20.6 km Leland Trail in the United Kingdom. Hard terrain, varied surfaces, and essential safety tips and gear for hikers.",
+      "h1": "Leland Trail – 20.6 km Hard Hike in the UK"
+    }
   }
 }

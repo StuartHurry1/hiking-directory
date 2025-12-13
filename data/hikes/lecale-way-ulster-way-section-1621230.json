@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1621230
+  },
+  "ai": {
+    "summary": "The Lecale Way (Ulster Way Section) is a hard, long-distance trek in the UK, covering about 172.6 km as part of the Ulster Way. The route weaves coastal and inland trails, with remote stretches, significant elevation changes, and a need for solid fitness, planning, and navigation.",
+    "terrain_summary": "Terrain ranges from exposed coastal paths and sea views to rolling farmland, woodlands, and occasional hill climbs. Expect uneven surfaces, wet or boggy sections after rain, and long ascents in places. Weather can be highly variable, especially along the coast.",
+    "safety_notes": "This is a demanding multi-day hike. Prepare thoroughly: obtain up-to-date maps or a reliable navigation device, check tide tables for coastal sections, and plan accommodation and resupply. Carry sufficient food and water, a first-aid kit, emergency shelter, and a reliable light source. Wear sturdy waterproof footwear, layer your clothing, and be prepared for sudden weather changes. Inform someone of your itinerary and turn back if conditions become unsafe.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable waterproof jacket and waterproof pants",
+      "Layered clothing for warmth (fleece or insulating layer)",
+      "Hat, gloves, and sun protection",
+      "Comfortable backpack with rain cover",
+      "Map and compass (or GPS) with backup navigation",
+      "Water supply (2–3 liters) and hydration system",
+      "High-energy food and snacks",
+      "First aid kit and blister care",
+      "Headlamp with extra batteries",
+      "Emergency shelter (space blanket or bivy sack)",
+      "Trekking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to early autumn is ideal for milder weather and longer daylight; shoulder seasons can be challenging due to wind, rain, and variable coastal conditions.",
+    "seo": {
+      "title": "Lecale Way (Ulster Way Section) – 172.6 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore the Lecale Way, a 172.6 km hard-distance section of the Ulster Way in the UK. Varied terrain from coastal paths to inland trails, demanding fitness and careful planning.",
+      "h1": "Lecale Way (Ulster Way Section) – 172.6 km Hard-Distance Hike"
+    }
   }
 }

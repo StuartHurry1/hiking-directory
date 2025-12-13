@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12696155
+  },
+  "ai": {
+    "summary": "A short, easy 2 km circular walk starting from Abbey Wood station in southeast London, taking you through green spaces around Lesnes Abbey Woods and along quiet, shaded paths suitable for beginners and families.",
+    "terrain_summary": "Mostly flat with well-maintained gravel and compact dirt paths. Some shaded woodland sections, a few boardwalk stretches, and occasional gentle slope segments near the woods.",
+    "safety_notes": "Stay on marked trails. Be mindful of cyclists on shared paths in the Lesnes area. Wear sturdy footwear and bring water. Check weather conditions; paths can be muddy after rain. Keep an eye on children near water features and ruins. Respect wildlife and nearby residents.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Map or offline directions",
+      "Phone with emergency contact",
+      "Small snack"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn when the weather is mild and wildlife is active.",
+    "seo": {
+      "title": "Abbey Wood Station to Lesnes Abbey Woods: Easy 2km London Hike",
+      "meta_description": "Explore a short, family-friendly 2km hike starting at Abbey Wood Station in London, winding through Lesnes Abbey Woods and nearby green spaces. Flat paths, woodland scenery, and easy terrain.",
+      "h1": "Abbey Wood Station to Lesnes Abbey Woods: Easy 2km Hike"
+    }
   }
 }

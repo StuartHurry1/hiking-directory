@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11506853
+  },
+  "ai": {
+    "summary": "Lingness is a gentle 4.9 km hike in the UK, suitable for beginners and casual walkers. The route features easy terrain, minimal elevation gain, and a relaxed pace, making it a good half-day outing with potential rural scenery.",
+    "terrain_summary": "Mostly well-defined paths with a mix of grass, gravel and dirt. Expect some compact trails and a few muddy patches after rain. The route is gently undulating, with light ascents and descents but no steep sections.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy footwear and dress in layers. Stay on marked paths, carry a map or GPS, and bring water and snacks. Tell someone your plan, be mindful of livestock if encountered, and adjust plans in exposed or stormy weather.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Small backpack",
+      "Map or GPS device (or a fully charged phone)",
+      "Snacks",
+      "Basic first-aid kit",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Lingness Hike - Easy 4.9 km Walk in the UK",
+      "meta_description": "Explore Lingness, an easy 4.9 km hike in the UK. Easy terrain, scenic rural paths, and practical safety and gear tips for a relaxed half-day walk.",
+      "h1": "Lingness – Easy 4.9 km Hike in the UK"
+    }
   }
 }

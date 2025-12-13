@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 5460739
+  },
+  "ai": {
+    "summary": "The Lincolnshire Wolds Way is a strenuous 39.5 km long-distance hike across the rolling chalk hills of the Lincolnshire Wolds in the United Kingdom. The route combines long ascents and descents with rural lanes and quiet farmland, delivering expansive views and a remote countryside experience. It requires good fitness, navigation ability, and preparation for changing weather and mud.",
+    "terrain_summary": "Expect rolling chalk ridges, long grassy bridleways, farm tracks, and quiet country lanes. The trail is intermittently exposed with sudden changes in weather. Sections include stile gates and occasional road crossings; paths can be muddy after rain and may be uneven underfoot. Services are limited in rural stretches, so plan accordingly.",
+    "safety_notes": "Carry a map and compass or a reliable GPS, and know how to navigate rural footpaths. Check weather forecasts as conditions can change quickly. Wear sturdy, waterproof footwear and dress in layers; carry a waterproof layer. Stay hydrated and bring snacks; plan for long stretches without shops or cafes. Be mindful of livestock and gates on farmland, and close gates behind you. Carry a charged phone with emergency numbers, tell someone your route and expected finish time, and consider daylight planning for shorter days in shoulder seasons.",
+    "recommended_gear": [
+      "Sturdy ankle-support walking boots",
+      "Weather-appropriate layers (base layer, fleece, waterproof shell)",
+      "Water bottle or hydration system (2+ liters)",
+      "Map and compass or GPS with offline map",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle",
+      "Lightweight rain shell and warm hat/gloves in cold months",
+      "Snack/food for a full day (and extra in case of delays)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "First-aid kit and blister care",
+      "Mobile power bank and charger",
+      "Poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn are ideal for the Lincolnshire Wolds Way, offering milder weather and good visibility. Summer is feasible but can bring heat and drier ground, while winter paths can be muddy, windy, and have shorter daylight hours.",
+    "seo": {
+      "title": "Lincolnshire Wolds Way: 39.5 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 39.5 km trek on the Lincolnshire Wolds Way. Learn terrain, safety tips, gear checklist, and the best seasons for this UK long-distance hike.",
+      "h1": "Lincolnshire Wolds Way — 39.5 km Hard Hike in the UK"
+    }
   }
 }

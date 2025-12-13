@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 3747693
+  },
+  "ai": {
+    "summary": "The Little Dart Ridge & Valley Walk is a demanding long-distance hike in the United Kingdom, spanning about 94 km and weaving along high ridgelines and through rolling valleys. Expect rugged trails, persistent ascents and descents, and expansive views. It suits experienced hikers with time for multi-day travel and strong navigation and weather planning.",
+    "terrain_summary": "Rugged upland ridges interspersed with valley floors. Expect rocky paths, exposed summits, heather moorland, and occasional boggy sections. The route demands steady footing, map-and-compass navigation, and careful pacing across long, uneven stretches.",
+    "safety_notes": "Hard, long-distance route requiring good fitness and navigation skills. UK upland weather can change rapidly; be prepared for wind, rain, fog, and cold. Plan for multi-day trekking with overnight stops; carry an emergency shelter. Stay on the path, use a map and compass (GPS as backup) and know how to navigate in low visibility. Tell someone your itinerary and expected return; carry a charged phone as a last resort but do not rely on it. Expect exposed ridge sections; bring adequate water and high-energy food. Be mindful of wildlife and livestock; practice Leave No Trace.",
+    "recommended_gear": [
+      "Map and compass (backup GPS)",
+      "Sturdy waterproof boots with good ankle support",
+      "Layered clothing and a weatherproof shell (jacket and trousers)",
+      "Thermal base layers for cold conditions",
+      "Waterproof hat and gloves",
+      "Headlamp with extra batteries",
+      "Hydration system or water bottles (2–3 litres total)",
+      "High-energy food and snacks",
+      "Emergency shelter or bivy bag and space blanket",
+      "First aid kit and blister care",
+      "Whistle and multi-tool",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trail map case or phone with offline maps"
+    ],
+    "best_seasons": "Best from late spring to early autumn (roughly May–September) when days are longer and weather is milder. Winter trips can be rewarding but harsher and more dangerous; require advanced preparation and shorter, safer itineraries.",
+    "seo": {
+      "title": "Little Dart Ridge & Valley Walk – 94 km UK Ridge & Valley Trek",
+      "meta_description": "Discover the Little Dart Ridge & Valley Walk, a 94 km long-distance route in the UK featuring ridges and valleys. Learn about terrain, safety, gear, and best seasons.",
+      "h1": "Little Dart Ridge & Valley Walk"
+    }
   }
 }

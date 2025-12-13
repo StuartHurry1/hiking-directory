@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13751739
+  },
+  "ai": {
+    "summary": "Lea Valley Circle is a 12.3 km circular hike in the UK with moderate difficulty. The route weaves along the Lea valley through a mix of riverbank paths, woodlands, and occasional urban stretches, offering varied scenery and relatively gentle elevation changes suitable for experienced hikers seeking a full day out.",
+    "terrain_summary": "The trail features mixed terrain: well-maintained footpaths, compact gravel, sections of muddy track after rain, short gentle ascents, and level riverbank flats. Expect occasional steps, boardwalks, and some urban perimeter sections.",
+    "safety_notes": "Plan for UK weather and limited daylight in winter; wear sturdy footwear with good grip; stay on marked paths and respect private property; carry a map, compass or GPS, and a fully charged phone; bring water and snacks; check for seasonal closures and flooding after heavy rain; let someone know your route and expected return time; be mindful of other walkers and cyclists on shared sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat and gloves if cold)",
+      "Map and compass or GPS device",
+      "Trail snacks or energy bars",
+      "Small backpack to carry essentials",
+      "Phone with offline maps and a portable charger",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Lightweight rain cover for your pack"
+    ],
+    "best_seasons": "Spring to Autumn (March–October)",
+    "seo": {
+      "title": "Lea Valley Circle – 12.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Lea Valley Circle, a 12.3 km moderate hike in the UK. Learn terrain, safety tips, gear checklist, and the best seasons to hike this route.",
+      "h1": "Lea Valley Circle: 12.3 km Moderate Hike in the UK"
+    }
   }
 }

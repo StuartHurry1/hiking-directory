@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14503665
+  },
+  "ai": {
+    "summary": "A gentle 5.4 km nature trail around Lindisfarne, UK. The easy route offers coastal views, inland habitats, and a varied mix of surfaces, making it suitable for most walkers and families.",
+    "terrain_summary": "Mostly flat and well-marked paths with gravel tracks, coastal boardwalks, and grassy edges. Some sections may be muddy after rain or windward, and a few stretches are exposed to coastal winds.",
+    "safety_notes": "Check tide times for coastal sections that may be submerged; weather and sea conditions can change quickly in the UK. Wear sturdy footwear and dress in layers; stay on marked paths; bring water, snacks, and sun protection in fine weather; keep dogs under control if required; carry a map or offline navigation and have a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Sunscreen and hat",
+      "Map, compass, or offline navigation device",
+      "Fully charged phone",
+      "Small first-aid kit",
+      "Insect repellent",
+      "Lightweight backpack",
+      "Binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal for wildlife viewing and mild weather; summer offers longer daylight; winter visits can be challenging due to stronger winds, rain, and reduced daylight.",
+    "seo": {
+      "title": "Lindisfarne Nature Trail – Easy 5.4 km Coastal Walk in the UK",
+      "meta_description": "Discover the Lindisfarne Nature Trail, an easy 5.4 km hike in the UK featuring coast, wildlife, and flat paths. Practical tips, best season guidance, and packing essentials.",
+      "h1": "Lindisfarne Nature Trail – Easy 5.4 km Coastal Walk"
+    }
   }
 }

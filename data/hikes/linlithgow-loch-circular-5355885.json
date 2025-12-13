@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 5355885
+  },
+  "ai": {
+    "summary": "A 9.2 km circular walk around Linlithgow Loch featuring lochside views, wildlife, and a gentle mix of surfaces. The route is mostly flat with a few gentle slopes and is suitable for walkers with moderate fitness. Expect a scenic, family-friendly outing that typically takes 2–3 hours.",
+    "terrain_summary": "Primarily on well-maintained paths around the loch: tarmac cycle paths, gravel tracks, and grassy sections. Some areas can be muddy after rain or during winter; surfaces are generally flat with occasional gentle undulations.",
+    "safety_notes": "Check weather and daylight hours before you go. Stay on marked paths, be aware of cyclists on shared sections, and mind slippery surfaces when wet. Keep a safe distance from the water's edge, supervise children, and carry a basic map or offline GPS. Bring essential items such as water, a light layer, and a waterproof outer layer.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Weather-appropriate clothing (layers + waterproof jacket)",
+      "Water bottle",
+      "Snacks or energy bars",
+      "Map or offline GPS (or smartphone with offline maps)",
+      "Mobile phone with battery and emergency contact",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses)",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn are best, offering longer daylight and drier conditions. The route can be tackled year-round with appropriate clothing and footwear for wet or cold weather.",
+    "seo": {
+      "title": "Linlithgow Loch Circular Walk – 9.2 km Moderate Hike in the UK",
+      "meta_description": "Discover Linlithgow Loch Circular, a 9.2 km moderate hike around Linlithgow Loch in the UK. Learn terrain, safety tips, and gear for a comfortable day out.",
+      "h1": "Linlithgow Loch Circular Walk (9.2 km)"
+    }
   }
 }

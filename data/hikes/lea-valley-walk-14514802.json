@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 14514802
+  },
+  "ai": {
+    "summary": "A short, easy stretch of the Lea Valley Walk in the UK. At 0.5 km, it offers a brief riverside stroll suitable for beginners, families, and anyone seeking a quick outdoor break along the Lea River.",
+    "terrain_summary": "Flat, well-defined paths along the river with urban and parkland surroundings. Mostly paved or compact dirt with minimal elevation change.",
+    "safety_notes": "Stay on designated paths; watch for cyclists on shared sections; check weather and daylight levels; carry a map or phone; be mindful of crossings and urban surroundings; wear sturdy footwear.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate jacket",
+      "Sunscreen and hat",
+      "Phone or map",
+      "Small snack"
+    ],
+    "best_seasons": "All year, with spring and summer offering the most pleasant weather and scenery; autumn can be colorful; winter walks are shorter due to daylight.",
+    "seo": {
+      "title": "Lea Valley Walk: Easy 0.5 km UK River Walk for All Ages",
+      "meta_description": "Discover a short, easy 0.5 km segment of the Lea Valley Walk in the UK. Flat, riverside terrain suitable for beginners and families, with practical safety tips and gear.",
+      "h1": "Lea Valley Walk – Easy 0.5 km Riverside Stroll Along the Lea"
+    }
   }
 }

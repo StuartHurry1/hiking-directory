@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14522352
+  },
+  "ai": {
+    "summary": "Lea Valley Walk is a 15.9 km long-distance trail in the UK that tracks along the River Lea, blending urban riverside paths with rural sections. Classified as hard, the route demands a sustained effort, good footwear, and navigation through varied surfaces.",
+    "terrain_summary": "Mostly towpath and riverside paths with some dirt tracks and occasional grassy sections. Expect flat to gently rolling terrain, but the length and occasional mud after rain, plus busy urban segments near towns, contribute to a challenging overall experience.",
+    "safety_notes": "Plan for a long day and check weather and route conditions in advance. Carry sufficient water and snacks, wear sturdy footwear, and bring a map or offline navigation. Be cautious near water edges, locks, and busy roads; stay on official paths where indicated. Let someone know your plans, and carry a charged phone with emergency contacts.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration pack",
+      "Layered clothing and a packable waterproof jacket",
+      "Map, guidebook, or offline map on your phone",
+      "Headlamp or flashlight",
+      "Power bank/charging cable",
+      "Snacks and energy bars",
+      "Small first-aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight rain jacket or packable rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers the best daylight and drier conditions; the route can be tackled year-round with extra planning for cold or wet weather.",
+    "seo": {
+      "title": "Lea Valley Walk - 15.9 km UK River Lea Trail (Hard)",
+      "meta_description": "Discover Lea Valley Walk, a 15.9 km hard trail along the River Lea in the UK. Terrain insights, safety tips, gear recommendations, and best seasons.",
+      "h1": "Lea Valley Walk - 15.9 km UK River Lea Trail (Hard)"
+    }
   }
 }

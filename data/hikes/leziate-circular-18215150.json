@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18215150
+  },
+  "ai": {
+    "summary": "A 13.5 km circular walk of moderate difficulty in the UK, starting near Leziate and returning to the starting point. The route blends open farmland, hedgerows, and occasional woodland edges, with gentle undulations and a few gates and stiles.",
+    "terrain_summary": "Predominantly farm tracks, field margins, and minor country lanes. Expect a mix of compact earth paths and grassy sections, with potential mud after rain. The route includes gates or stiles and may cross grassy paddocks; a few short ascents and descents are possible.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out. Wear sturdy waterproof footwear and a weather-appropriate jacket. Carry enough water and a small snack, plus a map or GPS device. Be mindful of livestock, closing gates, and sharing the route with cyclists. In rural areas mobile signal can be poor; tell someone your plan and approximate timing.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle or hydration system",
+      "Waterproof jacket and layers",
+      "Small backpack",
+      "Map or offline GPS / compass",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Snacks or energy bars",
+      "Personal first aid kit and emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn; winter can be muddy with shorter daylight",
+    "seo": {
+      "title": "Leziate Circular – 13.5 km Moderate UK Hike",
+      "meta_description": "Explore Leziate Circular, a 13.5 km moderate hike in the UK. Learn about the terrain, safety tips, best seasons, and gear for a comfortable day on the trail.",
+      "h1": "Leziate Circular – 13.5 km Moderate Hike"
+    }
   }
 }

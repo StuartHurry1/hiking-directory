@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 50287
+  },
+  "ai": {
+    "summary": "Limestone Way is a strenuous long-distance trail in the UK, spanning 175.9 km with rugged limestone landscapes, rolling hills, and varied terrain that tests endurance and navigation.",
+    "terrain_summary": "Expect steep ascents and descents, rough tracks, exposed limestone pavements, rocky steps, and occasional boggy or uneven sections. Guidance varies with weather; can include moorland, farmland edges, and small villages along the route.",
+    "safety_notes": "Weather on exposed limestone can change rapidly; wear appropriate footwear and have a navigation plan. Carry a map and compass (don’t rely on phone signal). Plan day-to-day mileage with rest breaks, and be prepared for difficult sections after rain. Let someone know your itinerary and carry a small emergency kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus waterproof jacket and trousers",
+      "Map, compass, and optional GPS device",
+      "Water bottle or hydration system and high-energy foods",
+      "Headlamp or flashlight with spare batteries",
+      "First-aid kit and basic repair kit",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency shelter or lightweight bivy",
+      "Whistle, multitool, and phone with charger/portable power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer milder weather, longer daylight, and clearer trails; winter conditions can be severe with ice, wind, and limited daylight.",
+    "seo": {
+      "title": "Limestone Way — 175.9 km Hard Hike in the UK",
+      "meta_description": "Discover Limestone Way, a 175.9 km challenging hike across UK's limestone landscapes. Learn terrain, safety tips, gear, and best seasons for this rugged trail.",
+      "h1": "Limestone Way: 175.9 km of Limestone Trail in the UK"
+    }
   }
 }

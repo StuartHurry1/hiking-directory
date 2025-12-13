@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18003040
+  },
+  "ai": {
+    "summary": "A 7.3 km moderate hike around Lews Castle Park in the United Kingdom, featuring park paths and mixed terrain suitable for walkers and casual hikers.",
+    "terrain_summary": "Mixed park terrain with well-maintained paths, some paved sections and compact gravel; occasional grassy areas and gentle elevation changes typical of a park route.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear and clothing appropriate for UK conditions; stay on marked paths, observe park rules; carry water and a phone; be mindful of other park users during popular times; if conditions are wet, expect slippery surfaces.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Small backpack",
+      "Map or GPS device or smartphone with offline maps",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and summer; plan for shorter daylight hours and potentially wetter conditions in autumn and winter.",
+    "seo": {
+      "title": "Lews Castle Parkrun – 7.3 km Moderate Hike in the UK",
+      "meta_description": "Discover Lews Castle Parkrun, a 7.3 km moderate loop in the UK. Practical gear tips, safety notes, and terrain details for a enjoyable park-style hike.",
+      "h1": "Lews Castle Parkrun: 7.3 km Moderate Hike in the UK"
+    }
   }
 }

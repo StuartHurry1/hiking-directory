@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 3956730
+  },
+  "ai": {
+    "summary": "A short, easy 2 km hike along the Lichfield Canal Heritage Towpath Trail in the United Kingdom. The route runs along a historic canal towpath, offering flat, family-friendly scenery with views of the water and occasional historic structures. Suitable for beginners and casual walkers seeking a gentle canal-side stroll.",
+    "terrain_summary": "Flat, well-packed towpath along the canal edge. Surface is typically firm but can be muddy after rain or in damp conditions. Expect occasional puddles, grassy verge edges, and exposure to wind near the water.",
+    "safety_notes": "Stay on the marked towpath and be mindful of cyclists and other pedestrians. Watch for muddy sections after rain and keep a safe distance from the canal edge. Check the forecast for wind and rain, wear sturdy footwear with good grip, and carry water. If walking with children, keep them within arm’s reach near the water and daylight hours.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Small backpack for essentials",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Spring through autumn are ideal for this trail in the UK; visits can be enjoyable in winter with warmer clothing and daylight, but conditions may be cold, wet or muddy.",
+    "seo": {
+      "title": "Lichfield Canal Heritage Towpath Trail – Easy 2 km Canal Walk in the UK",
+      "meta_description": "Discover the 2 km Lichfield Canal Heritage Towpath Trail in the UK. An easy, flat towpath hike suitable for families, with practical safety tips and gear.",
+      "h1": "Lichfield Canal Heritage Towpath Trail: A Short Easy Canal Walk"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8388384
+  },
+  "ai": {
+    "summary": "Limestone Walk is a gentle 5.7-kilometer circuit in the UK, suitable for beginners and families. The route offers light ups and downs with mostly well-maintained paths and scenic limestone scenery, making it a relaxed introduction to countryside walking.",
+    "terrain_summary": "Mostly well-defined paths with some grassy sections and minor rocky patches. Expect compact soil, occasional mud after rain, and short stretches of gentle ascent. Footing is generally stable, but footwear with good grip is advised.",
+    "safety_notes": "Check the weather and daylight hours before setting out. Stay on marked paths, watch for uneven ground and slippery surfaces on wet limestone. Bring a map or offline navigation, sufficient water, and a small first-aid kit. In colder months, dress in layers and be prepared for sudden changes in UK weather.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Weather-appropriate clothing and a lightweight waterproof jacket",
+      "Water and snacks",
+      "Map, compass, or offline navigation app",
+      "Small first-aid kit",
+      "Sun protection (sunscreen and hat)",
+      "Lightweight backpack",
+      "Head torch or flashlight for shorter days (optional)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn when daylight is longer and ground is drier, though it can be enjoyed year-round with proper layers and waterproof gear.",
+    "seo": {
+      "title": "Limestone Walk - Easy 5.7 km Hike in the UK",
+      "meta_description": "Discover Limestone Walk, an easy 5.7 km hike in the UK. Learn about the terrain, safety tips, best seasons, and what to pack for this scenic limestone walk.",
+      "h1": "Limestone Walk — Easy 5.7 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 325898
+  },
+  "ai": {
+    "summary": "The Letchworth Greenway is a demanding long distance hike in the United Kingdom. Spanning about 46.5 km, it is suitable for experienced hikers who relish a hard challenge and varied terrain.",
+    "terrain_summary": "The route traverses a mix of surfaces, including well maintained footpaths, country lanes, pastoral fields and woodland trails, with occasional road sections. Expect uneven ground, gentle to steep gradients, and some exposed stretches. Navigation may require attention in rural sections.",
+    "safety_notes": "This is a long and strenuous hike. Plan for a full day or two with ample daylight. Check weather conditions and be prepared for changes. Carry a map and compass or GPS, and let someone know your itinerary. Mobile reception can be patchy in rural areas. Watch for mud, uneven footing, crossing traffic on road sections, and seasonal hazards such as flooded paths.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing plus a waterproof outer shell",
+      "Backpack with at least 20-30 liters capacity",
+      "Water and high energy snacks",
+      "Map and compass or GPS device",
+      "Headwear and sunscreen",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Mobile phone with offline maps and power bank",
+      "Lightweight rain cover or poncho",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (approximately March to October) in the UK.",
+    "seo": {
+      "title": "Letchworth Greenway – 46.5 km Hard Hike in the UK",
+      "meta_description": "Explore the Letchworth Greenway, a challenging 46.5 km hike in the United Kingdom. See terrain, safety tips, gear recommendations, and best seasons for this long-distance route.",
+      "h1": "Letchworth Greenway: 46.5 km Hard Hike in the UK"
+    }
   }
 }

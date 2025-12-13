@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19894365
+  },
+  "ai": {
+    "summary": "Leith Hill Woodland Walk is a 6.1 km moderate circular hike around Leith Hill in the United Kingdom, winding through dense woodland with gentle elevation and occasional views over the surrounding countryside.",
+    "terrain_summary": "Forest trails with packed earth and gravel, occasional roots, and muddy patches after rain. The route features a moderate elevation change with rolling climbs and a few steeper sections; footing can be uneven and slippery when wet.",
+    "safety_notes": "Paths can be muddy and uneven, especially after rain; wear sturdy footwear and bring weather-appropriate clothing. Stay on marked trails, carry a map or GPS, and check local conditions. Be aware of ticks in wooded areas, and share your plan with someone. On shared paths, keep an eye out for cyclists and other hikers; carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Layered clothing (base layer, mid-layer, and waterproof outer layer)",
+      "Map or offline GPS device",
+      "Snack or energy bar",
+      "Hat and sunscreen (for sunny days)",
+      "Lightweight rain jacket and/or windproof layer",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this woodland walk; it is usually walkable year-round with proper gear, but winter can be muddy and windy.",
+    "seo": {
+      "title": "Leith Hill Woodland Walk – 6.1 km Moderate Hike in the UK",
+      "meta_description": "Discover Leith Hill Woodland Walk, a 6.1 km moderate hike through woodland near Leith Hill in the UK. Practical tips, gear suggestions, safety notes and best seasons.",
+      "h1": "Leith Hill Woodland Walk"
+    }
   }
 }

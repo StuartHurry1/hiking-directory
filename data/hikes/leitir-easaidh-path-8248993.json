@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8248993
+  },
+  "ai": {
+    "summary": "A short, easy 3.5 km hike on Leitir Easaidh Path in the UK, suitable for beginners and families seeking a gentle walk with potential scenic views.",
+    "terrain_summary": "Mainly a well-defined grassy track with gentle rises and descents. Expect occasional uneven, rocky, or damp sections, especially after rain. Suitable footwear and a light layer are recommended.",
+    "safety_notes": "Check the weather forecast before setting out; UK conditions can change quickly. Stay on marked paths; bring enough water and a means of navigation. Carry a basic first aid kit, a map or GPS, and inform someone of your plans. If visibility drops or you feel unsure, turn back.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Layered clothing with a waterproof/windproof jacket",
+      "Small snack or energy bar",
+      "Map and/or GPS device",
+      "Sun protection (sunscreen, hat) for sunny days",
+      "Phone with emergency contacts and a backup power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) when daylight and weather conditions tend to be more favorable; can be hiked in other seasons with appropriate gear.",
+    "seo": {
+      "title": "Leitir Easaidh Path - Easy 3.5 km Hike in the UK",
+      "meta_description": "Explore Leitir Easaidh Path, an easy 3.5 km hike in the UK. Learn about terrain, safety tips, best seasons, and gear for a comfortable short walk.",
+      "h1": "Leitir Easaidh Path – Easy 3.5 km Hike in the UK"
+    }
   }
 }

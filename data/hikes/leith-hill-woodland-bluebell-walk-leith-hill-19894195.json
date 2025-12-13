@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19894195
+  },
+  "ai": {
+    "summary": "A short, easy 1.8 km woodland loop at Leith Hill offering a tranquil stroll among bluebells and gentle scenery, suitable for families and casual walkers.",
+    "terrain_summary": "Primarily well maintained forest paths with gentle gradients. Expect some roots, damp sections after rain, and uneven ground in places; most of the route is easy to follow on compact dirt and gravel surfaces.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Check the weather before you go, as woodland conditions can be muddy and slippery after rain. Watch for roots and uneven ground, especially on wetter days. Keep to marked trails to protect bluebell habitats and wildlife. Supervise children and dogs, and carry water and a small map or a phone with GPS.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket or shell",
+      "Water and a small snack",
+      "Hat and sunscreen in sunny weather",
+      "Insect repellent",
+      "Map or offline navigation on a phone",
+      "Small backpack for essentials",
+      "Optional camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring is best for bluebells, especially April to May. The trail is pleasant for a short woodland stroll year round.",
+    "seo": {
+      "title": "Leith Hill Woodland Bluebell Walk - Easy 1.8 km Woodland Hike in the UK",
+      "meta_description": "Discover the Leith Hill Woodland Bluebell Walk, an easy 1.8 km route through bluebell filled woods in the UK. A family friendly, gentle trail with scenic woodland scenery.",
+      "h1": "Leith Hill Woodland Bluebell Walk - Easy 1.8 km Woodland Hike"
+    }
   }
 }

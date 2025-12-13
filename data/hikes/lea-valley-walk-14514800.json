@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 14514800
+  },
+  "ai": {
+    "summary": "Lea Valley Walk is a 9.3 km moderate hike along the River Lea in the UK. The route combines riverside paths, parkland and mild suburban tracks, with gentle elevation changes and scenic views across water meadows and wildlife habitats.",
+    "terrain_summary": "Mostly well-maintained paths and cycle routes with sections of compact gravel, wooden boardwalks near wetland areas, and some grassy or muddy stretches. Expect flat to gently rolling terrain with occasional small steps where required.",
+    "safety_notes": "Check weather and daylight hours; river edges can be slippery, stay on marked paths and obey any signage; be mindful of cyclists on shared routes; wear sturdy footwear; bring a map or GPS and a charged phone; carry a rain jacket and extra layers; inform someone of your planned route and expected return.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking shoes",
+      "Lightweight waterproof jacket and pants",
+      "Map and compass or GPS",
+      "Water bottle (2–3 L depending on season)",
+      "Snacks or energy bars",
+      "Hat and sunscreen",
+      "Insect repellent (seasonal)",
+      "Small first aid kit",
+      "Mobile phone with offline maps",
+      "Extra layers for wind/chill",
+      "Rain cover for your pack",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (Mar–Oct) for the best weather and scenery. The walk is doable in winter with proper gear, but daylight, mud, and colder conditions can add difficulty.",
+    "seo": {
+      "title": "Lea Valley Walk – 9.3 km Moderate River Hike in the UK",
+      "meta_description": "Discover the Lea Valley Walk: a 9.3 km moderate hike along the River Lea in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this scenic riverside route.",
+      "h1": "Lea Valley Walk – 9.3 km Moderate Hike in the UK"
+    }
   }
 }

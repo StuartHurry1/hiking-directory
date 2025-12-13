@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 13776216
+  },
+  "ai": {
+    "summary": "A strenuous 40 km circuit hike following the Leith Hill Greenway in the UK. The route combines forest and rural paths with sustained elevation, demanding experience and good navigation.",
+    "terrain_summary": "Mixed terrain with long ascents, forest tracks, grassy field paths, and occasional road crossings. Expect uneven ground, mud in wet weather, exposed ridges near the hill, and some rocky sections; navigation is important on rural segments.",
+    "safety_notes": "This is a hard 40 km hike with significant elevation gain. Plan for a full day (8–12 hours) depending on pace. Check weather, as UK conditions can change rapidly; wear sturdy boots and bring appropriate layers and rain gear. Carry a map and compass or GPS, a charged phone as a backup, and inform someone of your route. Stay hydrated and fueled with regular snacks; watch for fatigue and hypothermia in exposed areas. Trails can be muddy and slippery, especially after rain; take care on declines and leaf-covered surfaces. In winter, daylight is limited; start early.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate layers (base layer, fleece or sweater, waterproof shell)",
+      "Hat and gloves",
+      "Waterproof jacket and pants",
+      "Backpack 20-30 L",
+      "2–3 liters of water and high-energy snacks",
+      "Map and compass or GPS",
+      "Fully charged phone",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for best conditions; the hike can be attempted in winter by experienced hikers with extra gear and daylight planning.",
+    "seo": {
+      "title": "Leith Hill Greenway – 40 km Hard Hike in the UK",
+      "meta_description": "A challenging 40 km circuit along the Leith Hill Greenway in the UK. Mixed terrain, steep climbs, and scenic uplands make this a test for seasoned hikers.",
+      "h1": "Leith Hill Greenway – 40 km Hard Hike in the UK"
+    }
   }
 }

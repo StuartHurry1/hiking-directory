@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 12901754
+  },
+  "ai": {
+    "summary": "Leaves Green Circular Walk is a 27 km hard circular hike in the UK. The route traverses a mix of countryside and woodland with some steep sections and long exposed stretches. It’s best suited to experienced hikers with good stamina who are prepared for variable conditions and a full day of walking.",
+    "terrain_summary": "The terrain combines grassy paths, wooded tracks, and sections of uneven ground. Expect mud after rain, occasional rocky or root-strewn parts, and some open, exposed sections where weather can affect footing and visibility. Navigation may be required in rural lanes or poorly marked stretches.",
+    "safety_notes": "Plan for 6–9 hours of hiking. Check the forecast and daylight hours. Carry a map and compass or a reliable GPS device, and tell someone your planned route and estimated return. Wear sturdy, ankle-supporting footwear and bring adequate water (2–3 L) and high-energy snacks. Pack weather-appropriate clothing (layers plus waterproofs), a first aid kit, a headlamp or flashlight, sun protection, a whistle, and, if possible, an emergency bivy or space blanket. Be mindful of livestock and farm access restrictions and know your escape options if weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass or GPS device",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Headlamp or flashlight",
+      "Snacks and energy food",
+      "Whistle",
+      "First aid kit",
+      "Sun protection (sunglasses, sunscreen)",
+      "Backpack with sufficient capacity",
+      "Emergency bivy or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; winter hikes are possible with extra gear and careful planning.",
+    "seo": {
+      "title": "Leaves Green Circular Walk - 27 km Hard Hike in the UK",
+      "meta_description": "Discover Leaves Green Circular Walk, a demanding 27 km circuit in the UK. Enjoy woodland, open countryside and a true test for experienced hikers.",
+      "h1": "Leaves Green Circular Walk - 27 km, Hard Difficulty (UK)"
+    }
   }
 }

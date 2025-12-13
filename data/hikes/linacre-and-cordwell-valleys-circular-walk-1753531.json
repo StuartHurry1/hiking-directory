@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1753531
+  },
+  "ai": {
+    "summary": "Linacre and Cordwell Valleys Circular Walk is a 34.8 km circuit in the United Kingdom that blends rugged valley scenery with open moorland and farmland. Classified as hard, the route demands good fitness, steady navigation, and several hours on exposed terrain that can be boggy and uneven.",
+    "terrain_summary": "Terrain varies from steep hill climbs and rocky descents to boggy moorland, with woodland tracks and pasture sections. Expect uneven footing, stony paths, occasional fence lines and gates, and several river or stream crossings after rain. Open stretches provide long views but limited shelter.",
+    "safety_notes": "Plan for variable UK weather and short daylight in winter. Carry map and compass and know how to use them, even if following a waymarked route. Bring enough water and high-energy food, plus extra layers and waterproofs. Start early to ensure ample daylight; inform someone of your planned route and return time. Stay on marked paths where possible; be prepared for remote sections and cattle grids or fences; watch for slippery rocks after rain and mud in boggy sections.",
+    "recommended_gear": [
+      "Weatherproof jacket",
+      "Sturdy hiking boots",
+      "Map and compass",
+      "Fully charged phone and portable charger",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks",
+      "Warm layers (fleece, hat, gloves)",
+      "Emergency shelter or foil blanket",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight and conditions are most favorable; avoid deep winter unless you are confident navigating remote terrain.",
+    "seo": {
+      "title": "Linacre and Cordwell Valleys Circular Walk – 34.8 km Hard UK Hike",
+      "meta_description": "Explore the Linacre and Cordwell Valleys Circular Walk, a demanding 34.8 km hike in the UK with varied terrain and remote sections. Best in spring–autumn.",
+      "h1": "Linacre and Cordwell Valleys Circular Walk"
+    }
   }
 }

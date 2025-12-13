@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8374119
+  },
+  "ai": {
+    "summary": "Ley Way is a 9.7 km moderate hike in the UK, set in an unknown region. The route combines country lanes, grassy trails, and light woodland, with steady terrain and some gentle ascents. It is suitable for walkers with moderate fitness and basic navigation skills seeking steady mileage and rural scenery.",
+    "terrain_summary": "Mostly well-defined paths with a mix of grassy tracks and short woodland sections. Expect some uneven footing, occasional mud after rain, and a few exposed climbs. Overall terrain is moderate and accessible to walkers with standard fitness levels.",
+    "safety_notes": "Check the latest weather forecast and daylight hours; UK conditions can change quickly. Wear sturdy, waterproof boots and bring layers plus a waterproof jacket. Stay on marked paths and be mindful of livestock. Carry a map and compass or GPS; mobile signal can be unreliable in rural areas. Bring enough water and food, a charged phone, and a small first-aid kit. Tell someone your planned route and expected return time. In an emergency, call 999 or 112 in the UK.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Whistle and basic first aid kit",
+      "Headlamp or flashlight",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with offline map",
+      "Light rain cover or extra socks"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Ley Way Hike – 9.7 km Moderate Trail in the UK",
+      "meta_description": "Explore Ley Way, a 9.7 km moderate hike in the UK. Find route overview, terrain notes, safety tips, and gear recommendations for a comfortable day on the trail.",
+      "h1": "Ley Way – 9.7 km Moderate Hike in the UK"
+    }
   }
 }

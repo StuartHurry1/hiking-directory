@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 1604148
+  },
+  "ai": {
+    "summary": "A 9.8 km circular hike in the UK, offering moderate terrain and countryside scenery. Suitable for walkers with a reasonable level of fitness seeking a balanced day on foot.",
+    "terrain_summary": "Mixed surfaces including quiet country lanes, gravel and compacted trail, with occasional field paths. Expect uneven sections and some stiles; can be muddy after rain.",
+    "safety_notes": "Carry a map or GPS, and inform someone of your plans. Wear sturdy footwear and weather-appropriate clothing. Bring water and snacks. Check weather and daylight hours; watch for livestock on rural paths and follow the countryside access rules.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Water bottle",
+      "Map and/or GPS device",
+      "Light waterproof layer",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Snack or energy bars"
+    ],
+    "best_seasons": "Spring to autumn; winter conditions can be muddy and less predictable in the UK.",
+    "seo": {
+      "title": "Little Eaton Circular Walk 7 – 9.8 km Moderate UK Hike",
+      "meta_description": "Explore the Little Eaton Circular Walk 7, a 9.8 km moderate hike in the UK. This guide covers terrain, safety tips, ideal seasons, and gear.",
+      "h1": "Little Eaton Circular Walk 7 – 9.8 km Moderate UK Hike"
+    }
   }
 }

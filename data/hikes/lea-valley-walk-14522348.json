@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 14522348
+  },
+  "ai": {
+    "summary": "Lea Valley Walk is a 7.4 km moderate hike in the UK, following the Lea valley along canal towpaths and riverbanks. The route combines urban stretches with green spaces and provides a mostly flat to gently rolling profile suitable for hikers with basic fitness. Expect a mix of surfaces and potential crowds on busier sections; it's a half-day outing ideal for many walkers.",
+    "terrain_summary": "Predominantly flat to gently undulating towpath and riverside paths, with sections of asphalt, compacted gravel, and occasional muddy patches after rain. Some short boardwalks and gentle stairs; sections may be shared with cyclists and pedestrians.",
+    "safety_notes": "Check weather and daylight hours before setting out. Stay aware of cyclists on shared towpaths and crossings; keep to the left and pass with care. Wear sturdy footwear and bring a waterproof layer. Carry a map or GPS, a charged phone, water, snacks, and basic first aid. Watch for uneven surfaces, mud after rain, and potential crowds in urban sections. Keep dogs under control and be mindful of road crossings when leaving the canal towpath.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water bottle and snacks",
+      "Map, GPS device, or smartphone with offline map",
+      "Phone with emergency contacts",
+      "Small backpack",
+      "Sunscreen, hat",
+      "Lightweight rain cover or umbrella",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and better daylight; summer offers longer days but can be crowded; plan for UK variability in weather.",
+    "seo": {
+      "title": "Lea Valley Walk – 7.4 km Moderate UK Hike",
+      "meta_description": "Explore the Lea Valley Walk: a 7.4 km moderate hike in the UK with canal towpaths, riverbank scenery, and varied terrain suitable for a half-day outdoor escape.",
+      "h1": "Lea Valley Walk – 7.4 km Moderate Hike in the UK"
+    }
   }
 }

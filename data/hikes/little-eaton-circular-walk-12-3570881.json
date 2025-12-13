@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3570881
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km circular walk in the UK, suitable for families and casual walkers. The Little Eaton Circular Walk 12 explores calm village lanes and gentle paths, returning to the start with minimal effort.",
+    "terrain_summary": "Mostly flat, well-made paths with a mix of paved surfaces and short grassy or gravel sections. Expect occasional gentle gradients and roadside sections; footing is generally even.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Use sun protection in sunny conditions. Be mindful of uneven surfaces, slow down on grassy sections when wet, and watch for other pedestrians, cyclists, and livestock near rural stretches. Carry a map or phone with offline access and know the planned route in advance.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Windbreaker or jumper",
+      "Hat and sunscreen",
+      "Mobile phone with offline map or GPS",
+      "Small daypack"
+    ],
+    "best_seasons": "Spring, Summer and Autumn for pleasant conditions; winter hikes are possible with proper footwear and warm clothing.",
+    "seo": {
+      "title": "Little Eaton Circular Walk 12 – 1.7 km Easy Family-Friendly Loop in the UK",
+      "meta_description": "Explore the Little Eaton Circular Walk 12, a compact 1.7 km loop in the UK. An easy route ideal for families and casual walkers, with practical safety and gear tips.",
+      "h1": "Little Eaton Circular Walk 12 (1.7 km) – Easy Family-Friendly Loop"
+    }
   }
 }

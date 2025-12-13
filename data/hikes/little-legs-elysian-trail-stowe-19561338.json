@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19561338
+  },
+  "ai": {
+    "summary": "A gentle 2.3 km circuit on the Little Legs - Elysian Trail in Stowe, UK. Designed for families and beginners, this easy route follows well-made paths with rewarding views of local countryside and woodland.",
+    "terrain_summary": "Mostly flat to gently rolling, with well-maintained gravel and compacted soil paths. Expect short grassy sections and occasional roots near the trail edges; some sections may be muddy after rain.",
+    "safety_notes": "Stay on official paths; watch your footing on uneven or muddy sections; check weather and daylight; bring water and weather-appropriate clothing; supervise children at all times; observe local wildlife and respect private properties.",
+    "recommended_gear": [
+      "Comfortable walking shoes or sneakers",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Snacks for a short pause",
+      "Phone with offline map or GPS",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with proper footwear and daylight, but may be conditions-dependent.",
+    "seo": {
+      "title": "Little Legs – Elysian Trail, Stowe (UK): Easy 2.3 km Family Hike",
+      "meta_description": "Explore the 2.3 km Little Legs – Elysian Trail in Stowe, UK. An easy, family-friendly hike with gentle terrain and scenic countryside.",
+      "h1": "Little Legs - Elysian Trail, Stowe (UK)"
+    }
   }
 }

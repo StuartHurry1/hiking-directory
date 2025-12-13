@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2921359
+  },
+  "ai": {
+    "summary": "Lead Mining Trail is a demanding 31-kilometre hike across varied UK terrain, featuring historic lead mining sites, exposed ridgelines, and rugged weather conditions. Suitable for experienced hikers with strong navigation and endurance.",
+    "terrain_summary": "The route traverses grassy uplands, rocky tracks, forest paths, and exposed ridgelines. Expect steep ascents, uneven footing, and muddy sections, with potential exposure to wind. Heavily mineralised areas may include old, unused mine workings; stay on marked paths and avoid entering any shafts.",
+    "safety_notes": "Carry a map and compass and do not rely solely on a phone for navigation. Start with a full water supply and carry extra water in hot or dry conditions. Check the weather forecast and be prepared for rapid changes. Inform someone of your plan and expected return time. Stay on established paths near old mine sites and avoid disturbing any shafts. In poor weather, footing can be slippery and exposure can be dangerous; consider delaying the hike. Bring a headtorch, whistle, basic first-aid kit, blister care, and a thermal blanket for emergencies.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Layered clothing: moisture-wicking base layer, insulating mid-layer, and a waterproof outer shell",
+      "Map and compass (and/or offline GPS as backup)",
+      "Fully charged phone with offline maps and a power bank",
+      "Water and high-energy food (2–3 litres water; snacks for energy)",
+      "Personal first-aid kit with blister care",
+      "Emergency blanket or shelter and a headlamp with spare batteries",
+      "Whistle and sun protection (sunscreen, sunglasses)",
+      "Rain cover for your backpack",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are best for this 31-km hard hike in the UK due to longer daylight and generally milder weather. Be prepared for sudden weather changes; winter hiking is more challenging and not recommended for most hikers.",
+    "seo": {
+      "title": "Lead Mining Trail – 31km Hard Hike in the UK",
+      "meta_description": "Tackle the 31-kilometre Lead Mining Trail in the UK. This challenging route combines rugged terrain, historic mining relics, and exposure to the elements. Prepare with proper gear and safety tips.",
+      "h1": "Lead Mining Trail – 31km Hard Hike in the UK"
+    }
   }
 }

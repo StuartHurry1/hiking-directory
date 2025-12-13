@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12724243
+  },
+  "ai": {
+    "summary": "A short, easy 1.1 km hike near Erith station in the UK. This urban-level walk offers flat terrain along riverside and residential paths, making it ideal for a quick outdoor break.",
+    "terrain_summary": "Predominantly flat, well-maintained paths—pavements, riverside walkways, and short residential streets. Some sections can be busy with other pedestrians and cyclists.",
+    "safety_notes": "Urban hike safety: stay to the right on shared paths, yield to cyclists, and watch for road crossings. Be mindful of uneven pavement after rain and keep valuables secure. Carry a mobile phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with maps",
+      "Sunscreen"
+    ],
+    "best_seasons": "All year, with the best experiences in spring and summer; be prepared for rain and cooler conditions in autumn and winter.",
+    "seo": {
+      "title": "Erith Station Easy 1.1 km Riverside Walk | UK Urban Hike",
+      "meta_description": "Enjoy a flat, 1.1 km easy hike near Erith station in the UK. A quick riverside stroll along flat paths, suitable for all ages.",
+      "h1": "Erith Station Easy 1.1 km Riverside Walk"
+    }
   }
 }

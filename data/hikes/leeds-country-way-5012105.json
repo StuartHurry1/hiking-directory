@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 5012105
+  },
+  "ai": {
+    "summary": "A demanding, multi-day long-distance hike around Leeds in the United Kingdom, covering 221.6 km on a mix of countryside lanes, footpaths, canal towpaths and rural tracks. Classified as hard, it requires strong stamina, reliable navigation, and careful planning for weather and accommodation.",
+    "terrain_summary": "Mostly rural countryside with hedged fields, farm tracks, woodlands, canal towpaths, and occasional moorland or hill sections. Surface quality varies from well-made paths to muddy, uneven tracks; expect gates, stiles, and occasional road crossings. Weather and mud can slow progress, especially after rain.",
+    "safety_notes": "Plan for multiple days with a defined itinerary and share it with someone. Carry a map and compass as primary navigation tools and use GPS/offline maps as backup. Check the forecast and be prepared for rapid weather changes; wear sturdy waterproof boots and bring warm layers. Stay alert near road sections, respect livestock and private land, and follow rights of way. Pack sufficient food and water, plus a means to purify water. Include a first aid kit, whistle, and emergency shelter; know how to contact emergency services (999/112) in the UK.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and layered clothing",
+      "Warm hat and gloves",
+      "Rucksack 50–70 L with rain cover",
+      "Map and compass (backup GPS or offline maps on a phone)",
+      "Water bottles with water treatment method",
+      "High-energy food and snacks for multiple days",
+      "Head torch with spare batteries",
+      "First aid kit and personal medications",
+      "Emergency bivvy or lightweight sleeping bag",
+      "Whistle and reflective gear for visibility",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Best from spring through autumn (roughly March to October) when daylight is longer and weather is milder. Winter attempts are possible but require careful planning for shorter days, more mud, and harsher conditions; always check forecasts and be prepared for rapid weather changes.",
+    "seo": {
+      "title": "Leeds Country Way: 221.6 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan your Leeds Country Way trek: a 221.6 km challenging long-distance hike around Leeds, UK. Terrain overview, safety tips, gear recommendations, and best seasons for this multi-day adventure.",
+      "h1": "Leeds Country Way: 221.6 km Hard-Distance Hike in the UK"
+    }
   }
 }

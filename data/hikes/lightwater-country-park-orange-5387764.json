@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 5387764
+  },
+  "ai": {
+    "summary": "A very short, easy walk along the Lightwater Country Park Orange Trail in the UK. At 0.5 km, it’s a beginner- and family-friendly route through park scenery with flat terrain.",
+    "terrain_summary": "Mostly flat, well-maintained paths. The surface is typically tarmac or compact gravel with occasional grassy patches; minimal elevation gain.",
+    "safety_notes": "This is a short, easy park walk. Stay on marked paths, follow park signs, and be aware of other visitors, cyclists, and pets. Wear comfortable footwear and bring a light layer for changing weather. Carry water and a map or phone with offline access. If surfaces are wet, take care on grass and gravel.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Light snack",
+      "Map or offline navigation (phone or park map)",
+      "Light rain jacket",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "All year, with the most pleasant conditions in spring and summer",
+    "seo": {
+      "title": "Lightwater Country Park Orange Trail – 0.5 km Easy Walk in the UK",
+      "meta_description": "Discover the 0.5 km Lightwater Country Park Orange Trail in the UK. A quick, easy, family-friendly hike with flat terrain and park scenery.",
+      "h1": "Lightwater Country Park Orange Trail – 0.5 km Easy Walk"
+    }
   }
 }

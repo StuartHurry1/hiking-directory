@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11506927
+  },
+  "ai": {
+    "summary": "A demanding 24.7 km circular hike from Little Ayre to Hams in the UK. Expect long distances, exposed upland sections, and a mix of rocky paths, heather moorland, and boggy terrain. Strong fitness and solid navigation are essential for this challenging route.",
+    "terrain_summary": "Predominantly upland moorland with long, uneven stony sections, peat bogs, and heather. Ground can be soft and wet in places; footing may be slippery after rain. The route involves ascents and descents and may be exposed to wind and sudden weather changes, making navigation and stamina important.",
+    "safety_notes": "Check weather and daylight conditions before departure; UK uplands can change rapidly. Carry a map and compass and know how to use them; GPS is helpful but not a substitute. Wear sturdy waterproof boots and layered clothing; bring a waterproof outer layer. Bring sufficient water and high-energy food; some parts may be remote. Inform someone of your plan and expected return time; avoid hiking alone in poor conditions. Be cautious of boggy ground and loose or uneven footing; stay on established paths when possible. Consider season and daylight when planning; winter conditions require extra precautions and equipment.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof and windproof outer layer with an insulating mid-layer",
+      "Map and compass (and/or GPS) with knowledge of navigation",
+      "Hat, gloves, and extra warm layers",
+      "Water bottles or hydration system and high-energy snacks",
+      "First aid kit with blister care",
+      "Emergency bivvy or space blanket",
+      "Trekking poles (optional but helpful for stability)",
+      "Headlamp with spare batteries",
+      "Sun protection (sunscreen, sunglasses) and lip balm",
+      "Dry bag or waterproof sacks for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) in the UK offer the best daylight and weather for this 24.7 km circular hike; be mindful of muddy and boggy sections in wetter months and variable conditions year-round.",
+    "seo": {
+      "title": "Little Ayre to Hams Circular Hike – 24.7 km UK Challenge",
+      "meta_description": "A demanding 24.7 km circular hike from Little Ayre to Hams in the UK. Tough terrain, exposed upland sections, and long distances call for good navigation and fitness.",
+      "h1": "Little Ayre to Hams Circular Hike – 24.7 km in the UK"
+    }
   }
 }

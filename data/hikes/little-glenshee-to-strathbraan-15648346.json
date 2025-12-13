@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 15648346
+  },
+  "ai": {
+    "summary": "A challenging 20.3 km hike from Little Glenshee to Strathbraan in the UK, featuring upland routes, exposed ridgelines, and rugged moorland. The route demands solid navigation, good fitness, and careful weather planning, and is best undertaken by experienced hikers.",
+    "terrain_summary": "Expect rugged upland terrain with long stretches of peat bogs, uneven rocky paths, heather moorland, and intermittent water crossings. The route may involve steep ascents and descents, exposed sections, and sections where footing can be loose or wet. Navigation is essential, as the landscape can be feature-sparse in poor visibility.",
+    "safety_notes": "Plan for rapid weather changes common in UK uplands. Check the forecast, carry sufficient clothing, and start early to ensure daylight. Bring map and compass, and know how to use them; do not rely solely on electronics in remote areas. Tell someone your planned route and expected return. Wear sturdy waterproof boots and dress in layers with a windproof shell. Carry enough water and high-energy food. Pack a first aid kit, whistle, head torch, and emergency blanket. Be prepared for boggy ground, potential river or stream crossings, and loose or rocky footing. Mobile reception is often limited; consider a GPS device or offline map. If conditions are severe, turn back and choose a safer route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Map and compass (and knowledge to use them)",
+      "GPS device or fully charged phone with offline maps",
+      "Water and high-energy snacks (plus a little extra for emergencies)",
+      "Weatherproof rain shell and insulating layers",
+      "Hat, gloves, and extra socks",
+      "Emergency bivvy or space blanket",
+      "Whistle and basic first aid kit",
+      "Head torch with spare batteries",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional but helpful)",
+      "Plastic bag or dry sack for protecting electronics"
+    ],
+    "best_seasons": "Spring to autumn (April–October) provide the best overall conditions with longer daylight and milder weather. Winter hikes are possible but require advanced skills, careful planning for snow/ice, and experience with navigation in poor visibility.",
+    "seo": {
+      "title": "Little Glenshee to Strathbraan Hike – 20.3 km Hard Trail in the UK",
+      "meta_description": "Explore the challenging 20.3 km hike from Little Glenshee to Strathbraan in the UK. Rugged upland terrain, exposed sections, safety tips, and gear recommendations for experienced hikers.",
+      "h1": "Little Glenshee to Strathbraan: 20.3 km Hard Hike in the UK"
+    }
   }
 }

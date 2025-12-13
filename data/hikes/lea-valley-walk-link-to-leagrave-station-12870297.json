@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12870297
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km stroll along the Lea Valley near Leagrave Station in the UK. This flat, family-friendly route follows a well-maintained path beside the river and is ideal for a quick outdoor break or a gentle leg stretch.",
+    "terrain_summary": "Flat, mostly tarmac and compact gravel along the Lea Valley towpath; minimal elevation gain; some shaded sections.",
+    "safety_notes": "Be mindful of other pedestrians and cyclists on the shared path. The route runs near water—watch children and pets. In wet or icy conditions, the surface can be slippery. Use daylight when possible and carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with map",
+      "Sunscreen / hat"
+    ],
+    "best_seasons": "All year round; spring and autumn offer the most pleasant conditions.",
+    "seo": {
+      "title": "Lea Valley Walk near Leagrave Station – Easy 0.4 km stroll in the UK",
+      "meta_description": "Explore a short, easy 0.4 km Lea Valley Walk near Leagrave Station in the UK. Flat, family-friendly riverside path with safety tips and handy gear.",
+      "h1": "Lea Valley Walk near Leagrave Station (0.4 km, Easy)"
+    }
   }
 }

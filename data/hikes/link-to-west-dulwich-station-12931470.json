@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12931470
+  },
+  "ai": {
+    "summary": "A 6.1 km moderately challenging hike starting near West Dulwich Station in the UK, weaving through urban streets, parks, and woodland trails with some gentle rises.",
+    "terrain_summary": "Mix of urban pavements, parkland paths, and woodland tracks. Expect a few gentle ascents, occasional steps, and variable surfaces—from smooth tarmac to compact dirt. Potential mud after rain and some slippery sections in leaf litter.",
+    "safety_notes": "Plan for street crossings and keep to the left in busier sections. Wear sturdy boots with good grip and bring a map or offline navigation. Check weather and daylight; shorter winter days mean earlier dark. Carry water and snacks. Let someone know your route and estimated return time. In case of emergencies, have a charged phone and basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layered, including a waterproof jacket)",
+      "Map and/or GPS device or offline map on phone",
+      "Small first aid kit",
+      "Snacks or energy foods",
+      "Mobile phone with emergency contacts",
+      "Lightweight backpack",
+      "Headlamp or flashlight (in case of low light)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer longer daylight and milder conditions; winter hikes can be wetter and darker, requiring additional precautions.",
+    "seo": {
+      "title": "West Dulwich Station Hike – 6.1 km Moderate Trail in the UK",
+      "meta_description": "A 6.1 km moderate hike starting from West Dulwich Station in the UK, combining urban paths with woodland trails. Practical tips, gear list, and safety notes.",
+      "h1": "West Dulwich Station 6.1 km Moderate Hike"
+    }
   }
 }
