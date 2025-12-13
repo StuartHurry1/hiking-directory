@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 13760101
+  },
+  "ai": {
+    "summary": "The Lune Valley Ramble is a challenging long-distance hike in the UK, covering 55.9 km with significant elevation gain. The route traverses countryside in the Lune Valley region, offering varied scenery, rural paths, and occasional road sections.",
+    "terrain_summary": "Expect a mixture of country lanes, field paths, hedged trails, minor roads, and occasional steep sections. The terrain may include mud, uneven footing, gates and stiles, and variable footing surfaces. Navigation is typically straightforward but can be isolated in parts; carry a map and compass or a GPS device. Weather and ground conditions can change quickly, especially in higher or exposed sections.",
+    "safety_notes": "This is a hard, multi-day-level hike. Plan thoroughly: check weather forecasts, daylight hours, and route permissions where applicable. Carry adequate food and water, wear sturdy hiking boots, and have a reliable navigation method. Inform someone of your plans, and consider a buddy system for long stretches. Be prepared for farm gates, livestock, and livestock-related fencing. Respect private land boundaries and follow local access rules. Have emergency gear and a means to call for help if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and overtrousers",
+      "Warm layers and moisture-wicking base layers",
+      "Backpack with rain cover",
+      "Water supply (at least 2 liters) and a hydration system",
+      "Map and compass or GPS device and knowledge to use them",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit tailored for long hikes",
+      "High-energy snacks and meals",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Walking poles (trekking poles)",
+      "Emergency whistle and space blanket",
+      "Phone with portable power bank",
+      "Extra socks and a spare layer for warmth"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately May–September)",
+    "seo": {
+      "title": "Lune Valley Ramble — 55.9 km Hard Hike in the UK",
+      "meta_description": "Plan your 55.9 km hard-rated journey on the Lune Valley Ramble in the UK. Discover terrain, safety tips, best seasons, and gear for this demanding long-distance hike.",
+      "h1": "Lune Valley Ramble: 55.9 km Hard Hike in the UK"
+    }
   }
 }

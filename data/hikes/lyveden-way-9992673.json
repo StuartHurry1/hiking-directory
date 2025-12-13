@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 9992673
+  },
+  "ai": {
+    "summary": "Lyveden Way is a challenging long-distance hike in the UK, roughly 27.8 km in length. The route traverses a variety of countryside near Lyveden, mixing rural lanes, farmland, woodlands, and open sections with occasional gentle climbs. It suits experienced hikers comfortable with long distances, variable weather, and uneven surfaces.",
+    "terrain_summary": "A mixed surface route combining rural track, grassy field margins, woodland trails, and occasional open moorland. Expect uneven ground, short steep sections, stiles, gates, and muddy patches after rain. Some stretches can be exposed to wind; navigation is straightforward but a map or GPS backup is recommended.",
+    "safety_notes": "Plan for a long day: start early and allow ample time to complete within daylight. Wear sturdy footwear and bring weather-appropriate clothing; waterproofs are essential in the UK. Carry a map and compass as GPS may fail or be unreliable in rural sections. Stay on public rights of way and respect farmland; keep dogs under control and watch for livestock. Bring enough water and snacks, and carry a basic first aid kit and a whistle. Check the weather forecast and avoid the route in severe conditions; tell someone your plan and expected finish time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Water bottle or hydration system and snacks",
+      "Map and compass (and backup GPS)",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care",
+      "Trekking poles (optional)",
+      "Sunscreen, hat and sunglasses",
+      "Layers for warmth (fleece or insulation)",
+      "Emergency whistle",
+      "Rucksack with waterproof cover",
+      "Phone with portable power bank",
+      "Cash or card for emergencies",
+      "Dry bag or zip-locks for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer longer daylight and generally better weather in the UK. Summer provides the best visibility, while autumn brings good scenery; winter hiking is possible but muddy, cold, and days are shorter. Always check forecast and plan accordingly.",
+    "seo": {
+      "title": "Lyveden Way – 27.8 km Hard Hike in the UK",
+      "meta_description": "Discover Lyveden Way, a challenging 27.8 km long-distance hike in the UK. Learn about terrain, safety, gear, and the best seasons to tackle this route.",
+      "h1": "Lyveden Way: A 27.8 km Hard Hike in the UK"
+    }
   }
 }

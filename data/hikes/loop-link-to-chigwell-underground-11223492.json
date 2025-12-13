@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11223492
+  },
+  "ai": {
+    "summary": "A short and easy 0.4 km loop hike in the UK called LOOP Link to Chigwell Underground, suitable for a quick stroll or a family outing.",
+    "terrain_summary": "Flat, well-maintained path through urban greenspace. Surfaces are typically paved or compacted dirt with minimal elevation change; suitable for all ages and most footwear.",
+    "safety_notes": "Stay on the designated path; be mindful of pedestrians and cyclists on urban routes; check local weather and daylight; bring water and appropriate clothing; supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Phone or map",
+      "Sunscreen and hat for sunny days",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Year-round in the UK; spring and autumn are ideal for moderate weather and pleasant scenery, while summer offers longer daylight, and winter can be wetter.",
+    "seo": {
+      "title": "LOOP Link to Chigwell Underground — Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore a short and easy 0.4 km loop near Chigwell Underground in the UK. A family-friendly stroll on a flat, well-maintained path through urban greenspace.",
+      "h1": "LOOP Link to Chigwell Underground: Easy 0.4 km Hike"
+    }
   }
 }

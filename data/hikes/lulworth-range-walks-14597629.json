@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14597629
+  },
+  "ai": {
+    "summary": "A demanding long-distance coastal trek totaling 55.4 km. The Lulworth Range Walks combines rugged cliff-top paths, open moorland and sections within a military range. It offers sweeping sea views and varied terrain, but is a strenuous hard-rated route that benefits from careful planning, navigation and good weather.",
+    "terrain_summary": "Coastal cliff paths, chalk and limestone ridges, uneven tracks, exposed sections and occasional road/track crossings. Expect steep ascents and descents, potential mud, wind exposure and sections where access depends on range scheduling.",
+    "safety_notes": "Check range status before you go: Lulworth Range Walks operate within an active military range and access can be restricted with little notice. Only go when the ranges are open, and follow posted closures and guidance. Plan for remote sections with limited mobile reception; carry a map, compass and a fully charged phone. Wear sturdy boots and weatherproof clothing; bring plenty of water and high-energy snacks. Be mindful of cliff edges, tides and coastal hazards, and hike with a companion when possible. In case of emergency, call 999.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map and compass or GPS device",
+      "Mobile phone with offline maps and emergency numbers",
+      "Small first aid kit",
+      "Headtorch or flashlight",
+      "Whistle and high-visibility clothing",
+      "Sunscreen, hat and sunglasses",
+      "Light rain gear or poncho"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for daylight and typically drier conditions; winter hikes are possible but more challenging due to weather and access variability.",
+    "seo": {
+      "title": "Lulworth Range Walks: 55.4 km Hard Coastal Trek in the UK",
+      "meta_description": "Plan your 55.4 km hard hike along the Lulworth Range in the UK. Practical tips, safety notes, gear list and best seasons.",
+      "h1": "Lulworth Range Walks: A 55.4 km Hard Coastal Trek in the UK"
+    }
   }
 }

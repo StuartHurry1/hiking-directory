@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 19307188
+  },
+  "ai": {
+    "summary": "The Lundy Bay walk is a short, easy coastal stroll in North Cornwall. Covering about 2.3 km, it follows a gentle path with sea views, cliff-edge sections, and a relaxed pace suitable for families and casual walkers.",
+    "terrain_summary": "Predominantly flat coastal path with occasional gentle inclines, uneven gravel or chalk surfaces, and some steps. Expect exposed cliff-side sections, sea spray, and rocky or sandy patches near coves.",
+    "safety_notes": "Check tide times and weather before you go. Stay on marked paths and away from the edge of cliffs. Wear sturdy footwear and bring a layer for wind and rain. Carry water, sun protection, and a means to call for help; mobile signal may be limited in remote areas. Watch for slippery surfaces on wet days.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Windproof jacket or lightweight rain shell",
+      "Layered clothing for changing conditions",
+      "Water bottle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Map or offline GPS",
+      "Mobile phone with emergency contacts",
+      "Light snacks",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for milder weather and better visibility; year-round can be enjoyable, but coastal conditions are variable and can be harsher in winter.",
+    "seo": {
+      "title": "Lundy Bay Walk, North Cornwall – Easy 2.3 km Coastal Hike",
+      "meta_description": "Discover the Lundy Bay walk in North Cornwall. A short, easy 2.3 km coastal route with sea views, cliff paths, and practical safety tips for UK's coastline.",
+      "h1": "Lundy Bay Walk, North Cornwall – Easy Coastal Trail"
+    }
   }
 }

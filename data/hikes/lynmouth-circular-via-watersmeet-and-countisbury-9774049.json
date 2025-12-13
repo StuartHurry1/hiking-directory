@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9774049
+  },
+  "ai": {
+    "summary": "A scenic 12.9 km circular hike starting in Lynmouth that traverses the Watersmeet gorge and climbs Countisbury Hill, exposing a mix of river, woodland, and coastal viewpoints. Moderate in difficulty with some ascent and uneven terrain, suitable for hikers with decent fitness and comfortable in varied weather.",
+    "terrain_summary": "The route combines riverside paths, woodland tracks, and coastal meadow sections. Expect a climb to Countisbury Hill with exposed cliff-top segments. Trails can be rocky, muddy, and uneven, with some stairs and narrow, overgrown sections. Conditions can be slippery when wet, and coastal winds may affect exposure near the ridge.",
+    "safety_notes": "Weather on the UK coast can change rapidly; check a reliable forecast before you go. Wear sturdy boots with good grip and bring a waterproof layer. Stay on marked paths, be cautious on wet rocks and near cliff edges, and watch for mud and loose stones. Daylight hours may be limited in late autumn/winter; carry a map or GPS and inform someone of your planned route. Mobile signal can be patchy in remote sections of Exmoor/Devon shores.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2+ litres)",
+      "Weather-appropriate clothing (layers) including waterproof/windproof jacket",
+      "Map, compass, or GPS device (and a fully charged phone)",
+      "Snack or energy bars",
+      "Hat and sunscreen for sun exposure",
+      "First-aid kit and any personal medications",
+      "Emergency whistle",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and longer daylight. Summer provides the best visibility and coastal views; winter hiking is possible but requires preparedness for wind, rain, and shorter days.",
+    "seo": {
+      "title": "Lynmouth Circular via Watersmeet & Countisbury – 12.9 km Moderate Hike in the UK",
+      "meta_description": "Plan your Lynmouth Circular via Watersmeet & Countisbury hike. A 12.9 km moderate trail in the UK featuring river gorges, hillside climbs, and coastal views. Safety tips and essential gear included.",
+      "h1": "Lynmouth Circular via Watersmeet & Countisbury"
+    }
   }
 }

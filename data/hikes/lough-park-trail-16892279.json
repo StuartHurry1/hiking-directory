@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16892279
+  },
+  "ai": {
+    "summary": "Lough Park Trail is a short, easy 1.1 km route around a lakeside park in the United Kingdom. The route is suitable for families, casual walkers, and those wanting a quick outdoor leg stretch. Expect flat terrain, well-maintained paths, and scenic views of the lake.",
+    "terrain_summary": "Mostly flat, well-maintained paths with minor surface variations. The route uses compact gravel paths with occasional grassy edges; some sections may be closer to the water's edge. Generally easy underfoot and stroller-friendly where paths permit.",
+    "safety_notes": "Stay on marked paths, as edges near the water can be slippery. Check weather and daylight hours before visiting. Supervise children and pets. Bring water, and wear suitable shoes. Be mindful of other walkers and cyclists; give way where indicated and watch for seasonal closures.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Phone/camera"
+    ],
+    "best_seasons": "Year-round; spring to autumn offers the most pleasant weather and scenery, but the trail can be enjoyed in winter with proper layers and dryness.",
+    "seo": {
+      "title": "Lough Park Trail - Easy 1.1 km Lakeside Walk in the UK",
+      "meta_description": "Discover the Lough Park Trail, a short and easy 1.1 km lakeside walk in the UK. Learn about terrain, safety tips, and what to bring for a pleasant day outdoors.",
+      "h1": "Lough Park Trail: Easy 1.1 km Lakeside Walk in the UK"
+    }
   }
 }

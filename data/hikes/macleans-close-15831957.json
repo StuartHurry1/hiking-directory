@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15831957
+  },
+  "ai": {
+    "summary": "A very short, easy 0.6 km route suitable for all ages. This flat, low-effort hike offers a quick outdoor experience in the UK, ideal for families or a relaxed stroll.",
+    "terrain_summary": "Primarily flat, with well-maintained paths. Likely a mix of pavement and compact gravel; minimal elevation gain; some shaded sections.",
+    "safety_notes": "Stay on designated paths and be mindful of other pedestrians and cyclists. Check the weather before you go and dress appropriately. Bring a charged phone for navigation and emergency contact. Carry essentials for a short outdoor stroll (water, sun protection in bright conditions). If dusk approaches, carry a light source and reflectors.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Sunscreen or hat",
+      "Phone with offline maps (optional)",
+      "Small daypack"
+    ],
+    "best_seasons": "All-year-round. The route is short and usually easy, but check conditions in winter and bring appropriate clothing.",
+    "seo": {
+      "title": "Macleans Close – 0.6 km Easy Hike in the UK",
+      "meta_description": "Explore Macleans Close, a short 0.6 km easy hike in the UK. Flat terrain, family-friendly and suitable for a quick outdoor stroll.",
+      "h1": "Macleans Close: 0.6 km Easy Hike in the UK"
+    }
   }
 }

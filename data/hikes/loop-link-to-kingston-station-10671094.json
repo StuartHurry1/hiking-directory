@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10671094
+  },
+  "ai": {
+    "summary": "A short, easy loop of about 1.2 km starting and ending at Kingston station in the UK. This family-friendly route blends riverside scenery with a stroll through Kingston town center and returns to the station in under an hour.",
+    "terrain_summary": "Primarily paved paths and sidewalks with a few short grassy sections. Mostly flat with gentle ramps where the route follows the riverside; curb transitions are common and surfaces are generally smooth.",
+    "safety_notes": "Stay aware of pedestrians and cyclists on shared paths. Cross streets at designated crossings. Be cautious of slippery surfaces near the river when wet. If walking after dusk, carry a light and wear visible clothing; secure belongings and watch for crowds around Kingston town center.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or layer for changing weather",
+      "Phone with maps or offline navigation",
+      "Sunscreen and hat (seasonal)",
+      "Small backpack or daypack",
+      "Umbrella or rain jacket (weather dependent)"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with appropriate clothing",
+    "seo": {
+      "title": "LOOP Kingston Station – Easy 1.2 km Loop Walk in Kingston, UK",
+      "meta_description": "Explore a short, easy 1.2 km loop starting and ending at Kingston Station in the UK. Ideal for families, flat paths, riverside views, and a quick city stroll.",
+      "h1": "LOOP Kingston Station: Easy 1.2 km Walk"
+    }
   }
 }

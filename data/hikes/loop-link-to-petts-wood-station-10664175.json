@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 10664175
+  },
+  "ai": {
+    "summary": "A short, easy 1 km loop starting and ending near Petts Wood station. Set in woodland and parkland, this flat circuit is ideal for beginners, families, and anyone looking for a quick, refreshing stroll in the UK.",
+    "terrain_summary": "Flat to gently rolling terrain with smooth to compacted gravel and well-maintained woodland paths. Expect some tree roots and occasional damp patches after rain; footing is generally good, with shade from trees along most of the route.",
+    "safety_notes": "Stay on marked paths and be mindful of other pedestrians and cyclists in shared sections. Wear sturdy footwear and dress for the weather. Check daylight hours and avoid hiking in the dark. Bring water and a charged phone; tell someone your plan if you are alone. Supervise children closely and keep dogs on a short leash in busy areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Weather-appropriate clothing (rain jacket if rain is forecast)",
+      "Lightweight daypack",
+      "Water bottle",
+      "Sunscreen and hat for sunny days",
+      "Small first aid kit",
+      "Map or offline map on your phone",
+      "Phone with emergency contact numbers",
+      "Portable charger (optional)"
+    ],
+    "best_seasons": "All year round; spring and autumn offer particularly pleasant woodland scenery, but the loop is suitable in every season.",
+    "seo": {
+      "title": "Loop Walk from Petts Wood Station – 1 km Easy Woodland Loop",
+      "meta_description": "Explore a 1 km easy loop starting at Petts Wood Station in the UK. Flat woodland paths, beginner friendly and family friendly, with safety tips and gear recommendations.",
+      "h1": "1 km Easy Loop Walk from Petts Wood Station"
+    }
   }
 }

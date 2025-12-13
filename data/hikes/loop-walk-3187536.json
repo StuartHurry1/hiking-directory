@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3187536
+  },
+  "ai": {
+    "summary": "Loop Walk is a 14.1 km circular hike in the UK with unspecified region, designed for moderate hikers. The route returns to its starting point and offers a mix of countryside paths and modest elevation changes.",
+    "terrain_summary": "Expect mixed terrain: well-maintained trails, grassy fields, muddy patches after rain, and gentle ascents and descents. The loop may include hedgerows and occasional woodland sections.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Carry a map and compass or a reliable navigation device, and stay on marked paths. Wear sturdy footwear and be prepared for changing conditions. Watch for livestock and boggy ground, and keep a safe distance from cliff edges or road crossings. Bring enough water and snacks, a basic first aid kit, a whistle, and a light or headtorch in case of delays. Tell someone your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Weather-appropriate layers",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency numbers",
+      "Lightweight waterproof jacket",
+      "Hat and gloves (seasonal)",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Whistle",
+      "Headlamp or flashlight",
+      "Extra socks",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn are typically best for this 14.1 km loop; the route can be hiked year-round with appropriate gear and daylight.",
+    "seo": {
+      "title": "Loop Walk - 14.1 km Circular Hike in the UK (Moderate Difficulty)",
+      "meta_description": "Discover Loop Walk, a 14.1 km circular hike in the UK. Moderate difficulty with varied terrain, safety tips, and essential gear for an enjoyable day outdoors.",
+      "h1": "Loop Walk – 14.1 km Circular Hike in the UK"
+    }
   }
 }

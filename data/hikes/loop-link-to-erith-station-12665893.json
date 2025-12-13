@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12665893
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.8 km loop from Erith Station in the UK. This beginner-friendly urban stroll is flat, quick, and suitable for families or a relaxed outing.",
+    "terrain_summary": "Mostly flat and paved, on sidewalks around the station area. The route is urban with occasional grassy edges if detours are taken; be mindful of pedestrians and potential wet pavement.",
+    "safety_notes": "Cross only at marked crossings, stay on sidewalks, keep an eye out for cyclists and other pedestrians, and be aware of changing weather. The walk is short but daylight and personal security considerations apply; carry a phone and map.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Phone with map",
+      "Small daypack"
+    ],
+    "best_seasons": "All year round; particularly pleasant in spring and autumn.",
+    "seo": {
+      "title": "LOOP: 0.8 km Easy Walk from Erith Station (UK) | Short Urban Loop",
+      "meta_description": "Discover a short 0.8 km loop starting and ending at Erith Station in the UK. An easy, urban walk suitable for beginners, families, and time-constrained hikers.",
+      "h1": "LOOP: Easy 0.8 km Loop from Erith Station"
+    }
   }
 }

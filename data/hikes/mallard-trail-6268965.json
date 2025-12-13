@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 6268965
+  },
+  "ai": {
+    "summary": "Mallard Trail is a short, easy 1.8 km hike in the UK suitable for beginners and families. The route is generally level and well-marked, offering a quick nature escape without strenuous effort.",
+    "terrain_summary": "The hike uses mostly flat to gently graded paths, with a mix of compact gravel and well-trodden dirt. Some sections may be muddy after rain; sturdy footwear is recommended.",
+    "safety_notes": "Check local conditions before you go. Wear sturdy, comfortable footwear and bring water. Stay on marked paths, respect wildlife, and keep children/dogs under control. In unknown areas, carry a map or offline navigation and allow extra time for weather changes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water and a small snack",
+      "Light rain jacket",
+      "Phone with offline map or trail app",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring through autumn.",
+    "seo": {
+      "title": "Mallard Trail — Easy 1.8 km Hike in the UK",
+      "meta_description": "Explore Mallard Trail, an easy 1.8 km hike in the UK. Ideal for beginners and families, with flat terrain, practical gear tips, and safety notes.",
+      "h1": "Mallard Trail: Easy 1.8 km Hike in the UK"
+    }
   }
 }

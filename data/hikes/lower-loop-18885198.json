@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18885198
+  },
+  "ai": {
+    "summary": "Lower loop is a short, easy 3.9 km hike in the UK (region unspecified) designed for beginners and families seeking a relaxed outdoor experience.",
+    "terrain_summary": "The route follows well‑defined paths and grassy tracks, with gentle elevation and occasional muddy patches after rain. Expect flat to gently rolling terrain with light footing variations.",
+    "safety_notes": "Stay on marked paths, check the forecast, wear sturdy footwear, and bring water. Carry a phone with a charged battery, inform someone of your plan, and be prepared for changes in weather. Watch for slippery sections when wet.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered)",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Small first-aid kit",
+      "Map or offline route on your phone",
+      "Snack for energy"
+    ],
+    "best_seasons": "Spring to autumn provide the most comfortable conditions; winter hiking is possible with appropriate gear and caution.",
+    "seo": {
+      "title": "Lower loop - Easy 3.9 km Hike in the UK",
+      "meta_description": "Explore Lower loop, an easy 3.9 km hike in the UK. Perfect for beginners and families. Learn about the terrain, safety tips, and gear for a relaxed outdoor walk.",
+      "h1": "Lower loop - Easy 3.9 km UK hike"
+    }
   }
 }

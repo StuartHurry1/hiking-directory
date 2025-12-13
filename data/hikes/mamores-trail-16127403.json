@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16127403
+  },
+  "ai": {
+    "summary": "The Mamores Trail is a challenging long-distance hike in the UK, measuring about 32.2 km with rugged, exposed terrain and substantial elevation gain. It suits experienced hikers who are comfortable with navigational challenges, variable weather, and a full day (or multiple days) of strenuous trekking.",
+    "terrain_summary": "Expect a mix of rocky ridgelines, peat bogs, uneven paths, and occasional stream crossings. The route traverses exposed summits and open moorland, with loose scree in places and limited shelter. Footing can be uneven and boots should be well-broken-in. Navigation skills and weather preparedness are essential, as visibility can drop quickly in mist or rain. Water sources may exist but should be treated before drinking.",
+    "safety_notes": "Plan for a full-day hike with ample daylight; check the forecast and avoid high winds or whiteout conditions. Carry a map and compass (and know how to use them), a charged phone as a navigation backup, and a means of emergency communication. Inform someone of your planned route and expected finish time. Wear waterproof, breathable clothing, bring extra layers, and pack sufficient food and water plus a lightweight stove or emergency rations. Trekking poles can help on rough sections. Leave-no-trace practices and be prepared for sudden weather changes common in upland terrains.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Moisture-wicking base layers and insulating mid-layer",
+      "Waterproof and breathable outer shell (jacket and pants)",
+      "Map and compass (and knowledge of how to use them)",
+      "GPS device or smartphone with offline maps (power bank)",
+      "Headlamp with extra batteries",
+      "Hat, gloves, and sun protection",
+      "Trail snacks and at least 2–3 liters of water; water filter/purification method",
+      "Emergency bivy or space blanket",
+      "First aid kit (personal medications, blister care, basic triage)",
+      "Whistle and personal locator beacon may be considered for remote routes",
+      "Trekking poles",
+      "Dry bag or waterproof sack for valuables"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) is typically best for this hike, offering longer daylight and generally milder conditions. Winter and shoulder-season attempts require mountaineering experience, specialized gear, and careful planning due to snow, ice, and rapidly changing weather.",
+    "seo": {
+      "title": "Mamores Trail – 32.2 km Hard Hike in the UK",
+      "meta_description": "Discover the Mamores Trail, a challenging 32.2 km hike in the UK. Learn about terrain, safety tips, gear suggestions, and the best seasons for this demanding trek.",
+      "h1": "Mamores Trail: A 32.2 km Hard Hike in the UK"
+    }
   }
 }

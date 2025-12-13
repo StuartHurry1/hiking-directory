@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5184045
+  },
+  "ai": {
+    "summary": "Ludwell Butterfly Trail is a 6.6 km moderate hike in the UK countryside. The route offers gentle terrain with butterfly-friendly habitats, rewarding sightings in meadow edges and woodland clearings. Suitable for walkers with some experience, the trail can be completed in 2–3 hours depending on pace and butterfly viewing.",
+    "terrain_summary": "The terrain is varied, with a mix of well-maintained grassy paths, gravel tracks, and short stretches of uneven ground. Expect occasional gentle inclines, some muddy sections after wet weather, and exposed sections where sun exposure may occur.",
+    "safety_notes": "Wear sturdy walking boots, bring weather-appropriate clothing, and carry water. Stay on marked paths, watch for ticks in tall grass, and check forecast for wind and rain. Carry a map or GPS and tell someone your plan; be prepared to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (jacket, hat)",
+      "Light backpack",
+      "Map or smartphone GPS with offline map",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, sunglasses)",
+      "Insect repellent",
+      "Snacks",
+      "Camera or binoculars for butterflies"
+    ],
+    "best_seasons": "Spring through early autumn (April–September) when butterfly activity is typically highest, with longer daylight hours and mild temperatures.",
+    "seo": {
+      "title": "Ludwell Butterfly Trail – 6.6 km Moderate Hike in the UK",
+      "meta_description": "Discover Ludwell Butterfly Trail, a 6.6 km moderate hike through UK countryside. Find terrain details, safety tips, gear lists, and the best seasons for butterfly viewing.",
+      "h1": "Ludwell Butterfly Trail (6.6 km) – Moderate UK Hike"
+    }
   }
 }

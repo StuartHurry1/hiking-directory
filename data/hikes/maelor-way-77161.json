@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 77161
+  },
+  "ai": {
+    "summary": "Maelor Way is a challenging 97-kilometre long-distance trail in the UK, designed for experienced hikers. It traverses varied countryside with rolling hills, farmland, and intermittent tracks. The route requires solid navigation, good fitness, and careful multi-day planning to manage daily distances and potential weather changes.",
+    "terrain_summary": "Terrain ranges from quiet rural lanes and grassy bridleways to boggy fields and uneven, rocky sections. Expect stile crossings, gates, and mud after rain, with exposed viewpoints along elevated stretches. Elevation gains are steady, adding up to a strenuous overall effort despite non-technical ground.",
+    "safety_notes": "Check weather forecasts and be prepared for changes. Carry a detailed map and compass; mobile signal can be unreliable in rural areas. Start early to maximize daylight and avoid navigation pressure. Inform someone of your plan and daily milestones. Wear sturdy waterproof boots and bring extra layers, water, and snacks. Be mindful of livestock, gate etiquette, and potential seasonal closures. In poor visibility or severe weather, reassess whether to complete the route in a single day.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Backpack with 20–40 L capacity",
+      "Water and high-energy snacks",
+      "Map and compass (GPS optional)",
+      "Headlamp or flashlight with extra batteries",
+      "Portable power bank",
+      "First aid kit and personal medications",
+      "Emergency bivvy or thermal blanket",
+      "Trekking poles",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offer the best conditions, with longer daylight and drier trails. Winter hiking is possible but more exposed, with heavier mud and reduced daylight.",
+    "seo": {
+      "title": "Maelor Way – 97 km Hard-Difficulty UK Long-Distance Trail",
+      "meta_description": "Discover Maelor Way, a 97 km challenging hike in the UK. Get terrain overview, safety tips, essential gear, and the best seasons for this demanding trek.",
+      "h1": "Maelor Way: 97 km Hard-Difficulty Trail in the UK"
+    }
   }
 }

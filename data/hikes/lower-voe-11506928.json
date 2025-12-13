@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11506928
+  },
+  "ai": {
+    "summary": "Lower Voe is a short, easy hike in the UK, covering about 2.3 km. It’s suitable for beginners and families, with gentle terrain and minimal elevation, offering a quick outdoor outing without demanding endurance.",
+    "terrain_summary": "Expect a short route on mostly flat, well-defined paths. Surfaces may include grass, gravel, and occasional rocky patches. In wet weather the ground can become muddy and slippery; puddles near coastal sections are possible.",
+    "safety_notes": "- Check the local weather before you go; UK weather can change quickly. - Wear sturdy footwear and dress in layers; waterproofs are recommended. - Stay on marked paths and be mindful of tides if coastal sections are present. - Carry a map or offline navigation and ensure your phone is charged. - Tell someone your plans and expected return time. - Keep dogs under close control and pick up after them.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Waterproof jacket and additional layers",
+      "Small daypack",
+      "Water and some snacks",
+      "Map, compass, or offline navigation on a smartphone",
+      "Sun protection (hat and sunscreen) – weather dependent",
+      "Basic first aid kit",
+      "Emergency layer and a lightweight blanket (optional)"
+    ],
+    "best_seasons": "Year-round, with typically the best conditions from late spring to early autumn; be prepared for wind, rain, and variable UK weather at any time.",
+    "seo": {
+      "title": "Lower Voe – Easy 2.3 km Hike in the UK",
+      "meta_description": "A concise guide to the Lower Voe hike in the UK: a 2.3 km easy trail with gentle terrain, safety tips, gear suggestions, and the best seasons for this quick outdoor stroll.",
+      "h1": "Lower Voe Easy 2.3 km Hike"
+    }
   }
 }

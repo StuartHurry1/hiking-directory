@@ -17,5 +17,36 @@
   "source": {
     "type": "osm",
     "osmId": 3131984
+  },
+  "ai": {
+    "summary": "Macmillan Way West is a demanding long-distance footpath in the United Kingdom, spanning 636.1 km. Designed for experienced hikers, it traverses varied rural landscapes with rolling countryside, farmland, and intermittent road sections. Adequate planning, pacing, and gear are essential to complete the trek safely.",
+    "terrain_summary": "Expect a mix of quiet country lanes, farm tracks, woodlands, and occasional minor roads. Terrain ranges from firm, well-trodden paths to muddy fields and soft soil after rain. Elevation is rolling rather than steep, but long days and exposed stretches can add to the challenge. Navigation is straightforward where waymarked, but maps and compass skills are recommended for less-marked sections.",
+    "safety_notes": "This is a multi-week to multi-month undertaking. Plan resupply points and overnight stops in advance. Check weather forecasts, as UK conditions can change rapidly. Wear sturdy footwear and bring blister care. Stay aware of road traffic at crossings and ensure high-visibility clothing in low light. Carry enough water and a means to purify or filter water on longer stretches. Carry a basic first-aid kit, a whistle, and a means to contact help; consider a personal locator beacon for remote sections. Let someone know your itinerary and check-in regularly.",
+    "recommended_gear": [
+      "Durable backpack (40–60 L) with rain cover",
+      "Waterproof, breathable jacket and pants",
+      "Sturdy hiking boots or trail shoes with good ankle support",
+      "Thermal base layers and a warm layer for evenings",
+      "Hat, gloves, and sun protection",
+      "Map, compass, and optional GPS device",
+      "Emergency whistle and a personal locator beacon or mobile with offline maps",
+      "First aid kit with blister care and antiseptic",
+      "Headlamp with extra batteries",
+      "Trekking poles",
+      "Water containers (2–3 L total) or a hydration system",
+      "High-energy food and lightweight stove or meal plan for longer stretches",
+      "Shelter for overnight camping (tent or bivy) and appropriate sleeping bag",
+      "Lightweight tarp or groundsheet, dry sacks, and packing organizers",
+      "Repair kit (duct tape, multitool, spare parts)",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Emergency blanket and extra warm layers",
+      "Power bank and charging cable; optional solar charger"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer the best conditions, with longer daylight and milder weather. Winter can be done by hardy hikers with additional planning and accommodation flexibility. Shoulder seasons like late spring and early autumn can provide fewer crowds and pleasant conditions.",
+    "seo": {
+      "title": "Macmillan Way West: 636 km UK Long-Distance Hike",
+      "meta_description": "Plan your trek on Macmillan Way West, a challenging 636.1 km trail across the UK. This guide covers terrain, safety, gear, and the best seasons for hiking.",
+      "h1": "Macmillan Way West – 636 km Long-Distance Hike in the UK"
+    }
   }
 }

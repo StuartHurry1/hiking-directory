@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 18996334
+  },
+  "ai": {
+    "summary": "A challenging 17.8 km circular hike around Malham Tarn in the Malham area of the Yorkshire Dales, focused on lakes and archaeology features. Expect varied terrain, long exposed sections and opportunities to view historic sites beside the tarn.",
+    "terrain_summary": "Rough, uneven paths over moor and limestone, with rocky sections, potential boggy ground near the tarn, and some steep climbs. Mostly exposed on upland sections with long lake-edge stretches.",
+    "safety_notes": "Weather in this area is unpredictable; wear sturdy waterproof footwear and bring waterproof layers. Carry a map and compass (GPS can help but may be unreliable) and know the route. The hike traverses remote sections with limited phone signal; tell someone your plan and expected return. Watch for livestock, stay on marked paths, and be cautious near cliff edges and damp ground around the tarn.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof, windproof jacket",
+      "Warm layers and hat",
+      "Map and compass (or GPS) and a fully charged phone",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Sun protection and an extra layer for sun or cold",
+      "Lightweight emergency bivvy or insulation blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) are best for this hike due to milder weather and longer daylight. Winter trips are possible for experienced hikers but bring extra caution for wetter ground, ice and shorter days.",
+    "seo": {
+      "title": "Malham Tarn Archaeology Walk – 17.8 km Hard Lakes Trail in Malham, UK",
+      "meta_description": "Discover the Malham Tarn Archaeology Walk, a 17.8 km challenging lakeside hike in Malham, England. Learn about terrain, safety, gear and best seasons.",
+      "h1": "Malham Tarn Archaeology Walk – 17.8 km Hard Lakes Trail in Malham"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10663710
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km loop walk near Moor Park Underground Station in the UK. The route is flat and beginner-friendly, making it ideal for a quick stroll, a casual workout, or a family outing on a pleasant day.",
+    "terrain_summary": "Flat, well-maintained paths with mostly paved surfaces and a few short grassy sections. The loop is suitable for most users, including wheelchair users and strollers, depending on the exact surface conditions.",
+    "safety_notes": "Stay on designated paths, especially where the route passes near roads. Check the forecast and dress for changeable UK weather. Wear comfortable shoes, carry a light layer, and bring a fully charged phone. Supervise children and be mindful of other pedestrians, cyclists, and pets. In winter or after rain, surfaces can be slippery.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Phone with offline map or park map",
+      "Light jacket or rain layer",
+      "Hat and sunscreen in sunny weather",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "LOOP Moor Park Underground Loop Walk – 0.7 km Easy UK Route",
+      "meta_description": "Explore a short 0.7 km loop near Moor Park Underground in the UK. An easy, flat walk suitable for all ages, featuring well-maintained paths and minimal elevation.",
+      "h1": "LOOP Moor Park Underground Loop – 0.7 km Easy Walk"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12687946
+  },
+  "ai": {
+    "summary": "A short, easy loop hike of about 0.7 km near Purfleet station in the UK. Designed for beginners and casual walkers, it offers a flat, straightforward route with minimal elevation and simple navigation.",
+    "terrain_summary": "Mostly flat and well-maintained paths, with a mix of paved or compact gravel surfaces. Expect gentle surfaces suitable for all ages; the route may run alongside roads or alongside the riverbank, with occasional curb or uneven spots.",
+    "safety_notes": "This is a short, easy walk, but standard safety applies: wear sturdy footwear, stay on marked paths, be aware of other pedestrians and cyclists, check the forecast and daylight hours, carry a charged phone, and know the route in advance. If weather is poor or visibility is low, consider rescheduling.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Map or offline route on your phone",
+      "Phone with emergency contacts",
+      "Small snack",
+      "Personal ID"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and summer when paths are dry and daylight is longer. Autumn can also be enjoyable; winter walks are shorter and require warmer clothing.",
+    "seo": {
+      "title": "LOOP to Purfleet Station – Easy 0.7 km UK Hike",
+      "meta_description": "Discover a short, easy 0.7 km loop near Purfleet station in the UK. Ideal for beginners with flat terrain, simple navigation, and practical safety tips.",
+      "h1": "LOOP: Purfleet Station – Easy 0.7 km Loop"
+    }
   }
 }

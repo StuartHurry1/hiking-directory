@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19617461
+  },
+  "ai": {
+    "summary": "A gentle 0.7 km woodland stroll at Lowry's Wood Walk near Strangford Lough in Northern Ireland. An easy, family-friendly route through mature trees with occasional glimpses of the water, ideal for a short nature break.",
+    "terrain_summary": "Flat, well-maintained woodland paths with short boardwalk sections. Mostly level and easy underfoot, but expect occasional roots and muddy patches after rain; some shaded stretches and low gradients.",
+    "safety_notes": "Stay on marked paths. Check local weather before you go; coastal areas can be windy and rain is common in the UK. Wear sturdy footwear, bring layers and a waterproof jacket, and keep children and pets close. Have a charged phone and basic first aid; avoid slippery edges near the water.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and a small snack",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Phone with offline map or map of the area"
+    ],
+    "best_seasons": "All year round; best in spring and summer when the wildlife is active and trails are typically dry.",
+    "seo": {
+      "title": "Lowry's Wood Walk, Strangford Lough – Easy 0.7 km Woodland Trail in Northern Ireland",
+      "meta_description": "Discover Lowry's Wood Walk near Strangford Lough. A short, easy 0.7 km hike in Northern Ireland with flat paths, woodland scenery, and family-friendly appeal.",
+      "h1": "Lowry's Wood Walk, Strangford Lough – Easy 0.7 km Woodland Trail"
+    }
   }
 }

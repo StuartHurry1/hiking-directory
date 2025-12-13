@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 18999058
+  },
+  "ai": {
+    "summary": "An advanced, 19.9 km circuit near Malham Tarn in the Yorkshire Dales (UK) designed for experienced trampers. The route blends lakeside scenery with limestone pavements, moorland, and variable terrain. Expect a long day, elevation changes, and potentially muddy sections; come prepared for changeable conditions and plan for a full day of hiking.",
+    "terrain_summary": "Mixed terrain including surfaced paths, rough moorland, and limestone pavements. Features lake views around Malham Tarn, boggy sections after rain, gentle to moderate ascents with some steeper short climbs, uneven grass and rocky patches, and occasional gates and stiles. Open moorland sections can be windy and exposed.",
+    "safety_notes": "Weather in the Yorkshire Dales can change rapidly; check forecasts before setting out. Wear sturdy waterproof boots and bring waterproofs; expect mud and wet grass. Carry map and compass (GPS as a backup) and know how to use them. Stay on marked paths; be mindful of boggy ground near the Tarn. Plan for a long day, bring enough water and food, and carry a first aid kit and whistle. Livestock may be present on moorland; close gates behind you. Mobile signal can be unreliable in remote sections; inform someone of your plan and start time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof and breathable jacket and pants",
+      "Layered clothing (base layer, fleece, warm layer)",
+      "Map and compass (and/or offline navigation app)",
+      "Water bottles or hydration system (2–3 L total)",
+      "Energy-rich snacks and a small, portable meal",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Headtorch with spare batteries",
+      "Trekking poles (optional but helpful on uneven ground)",
+      "Lightweight, waterproof backpack with rain cover",
+      "First aid kit, emergency whistle, and space blanket",
+      "Mobile phone with emergency numbers; portable power bank"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offer the best conditions for this 19.9 km hard loop; be prepared for mud and rapid weather changes outside this window.",
+    "seo": {
+      "title": "Malham Tarn Trail for Trampers – 19.9 km Hard Hike Near Malham, UK",
+      "meta_description": "Explore the challenging 19.9 km Malham Tarn Trail for Trampers in the Yorkshire Dales. A hard terrain hike featuring lakes, limestone pavements, and rugged moorland—plan for a long day with proper gear.",
+      "h1": "Malham Tarn Trail for Trampers – 19.9 km Hard Hike Near Malham"
+    }
   }
 }

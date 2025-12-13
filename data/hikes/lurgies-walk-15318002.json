@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15318002
+  },
+  "ai": {
+    "summary": "Lurgies Walk is a short, easy 2.7 km route in the UK suitable for beginners and families. The walk offers a relaxed stroll along well-maintained paths, with gentle terrain and the chance to enjoy nearby scenery in around 45–60 minutes at a comfortable pace.",
+    "terrain_summary": "Predominantly flat or gently undulating terrain with defined tracks, grassy paths, and some compact earth sections. Surfaces can be muddy after rain and may include minor steps or boardwalks in damp areas. Good footwear is recommended.",
+    "safety_notes": "- Check weather and daylight conditions before you go. - Wear sturdy shoes and dress for the conditions; bring a waterproof layer. - Stay on marked paths and respect any local access rules. - Carry water, a small snack, and a simple map or offline navigation. - Keep dogs under control and be mindful of others on shared paths. - Be cautious of slippery surfaces when wet and step carefully on uneven ground.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Weather-appropriate clothing and a compact waterproof layer",
+      "Small daypack with water and a light snack",
+      "Map, compass or offline GPS (or a charged phone with offline access)",
+      "Sunscreen, sunglasses and a hat for sunny days",
+      "Insect repellent (seasonal)",
+      "Identification and emergency contact information"
+    ],
+    "best_seasons": "All year, with best conditions in spring to autumn; summers are popular, winters may be muddier.",
+    "seo": {
+      "title": "Lurgies Walk – 2.7 km Easy Hike in the UK",
+      "meta_description": "Discover Lurgies Walk, a short and easy 2.7 km hike in the UK. Ideal for families and beginners, featuring gentle terrain, well-maintained paths, and approachable scenery.",
+      "h1": "Lurgies Walk"
+    }
   }
 }

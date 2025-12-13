@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17329759
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km forest trail in the UK centered on a beloved ancient oak. The route is flat, well-signposted, and ideal for families, beginners, or anyone seeking a quick, relaxing woodland stroll.",
+    "terrain_summary": "Primarily a level forest path with compact soil and occasional exposed roots. The route passes through shaded woodland and offers steady footing for most walkers, with a few uneven spots near the oak.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Stay on marked paths, watch for roots and loose soil, and allow others to pass on narrow sections. Bring water and a lightweight layer for changing conditions. Carry a charged phone for emergencies, and be mindful of ticks and local wildlife.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone with emergency contacts",
+      "Map or offline navigation (optional)",
+      "Insect repellent",
+      "Small first-aid kit (optional)"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in late spring and early autumn when temperatures are mild and crowds thinner.",
+    "seo": {
+      "title": "Major Oak Trail – Easy 0.7 km Forest Walk in the UK",
+      "meta_description": "Explore Major Oak Trail, a short and easy 0.7 km forest walk in the UK. Perfect for families and beginners seeking a peaceful woodland experience near a famous oak.",
+      "h1": "Major Oak Trail: A 0.7 km Easy Forest Walk"
+    }
   }
 }

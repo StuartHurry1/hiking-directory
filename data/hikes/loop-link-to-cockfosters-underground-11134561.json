@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 11134561
+  },
+  "ai": {
+    "summary": "A tiny, easy urban loop of about 0.1 km around the area near Cockfosters Underground Station in London, perfect for a quick stroll or a short transit-side break.",
+    "terrain_summary": "Primarily flat pavement and sidewalks with occasional grassy verges. Entire loop is urban and well-lit, suitable for all ages.",
+    "safety_notes": "As an urban route: be aware of traffic and crossing streets, watch for pedestrians and cyclists, and stay on designated sidewalks. Wear appropriate clothing for UK weather and avoid poorly lit times after dark.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (light jacket or layers)",
+      "Water bottle",
+      "Smartphone with map or transit app",
+      "Sunscreen and hat (seasonal)"
+    ],
+    "best_seasons": "Year-round in the UK; spring and autumn offer mild weather, summer is warm but can be crowded near stations, and winter can be chilly and dark.",
+    "seo": {
+      "title": "Short Urban Loop Walk near Cockfosters Underground Station – Easy 0.1 km",
+      "meta_description": "Discover a tiny, easy 0.1 km loop around Cockfosters Underground Station in the UK. A quick urban stroll suitable for all ages, with safety tips and gear suggestions.",
+      "h1": "Ultra-short urban loop walk near Cockfosters Underground Station"
+    }
   }
 }

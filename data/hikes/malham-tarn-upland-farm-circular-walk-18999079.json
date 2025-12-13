@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 18999079
+  },
+  "ai": {
+    "summary": "A 10.6 km circular hike around Malham Tarn, weaving across upland farmland, pasture and moorland with lake views. Moderately challenging with gentle ascents and uneven ground, returning to the start after circling the tarn.",
+    "terrain_summary": "Mixed surfaces including grassy farm tracks, heather moorland, and limestone pavement near the tarn. Expect uneven footing, gates and stiles, and potentially boggy, wet patches after rain. Some exposed sections and rocky steps may require careful footing.",
+    "safety_notes": "Weather in upland UK can change rapidly; check the forecast before you go. Wear sturdy footwear and consider gaiters for boggy sections. Stay on marked paths; gates may lead to livestock and private land. Some sections are exposed, so carry extra layers and protection against wind and rain. Carry a map or compass (or GPS), a fully charged phone, water, and snacks. Inform someone of your plan and estimated return time if hiking alone. Be cautious near the Tarn’s edge; banks can be slippery and edges uneven.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and trousers",
+      "Warm layers (fleece or insulating layer)",
+      "Hat and gloves",
+      "Map and compass (or GPS)",
+      "Fully charged mobile phone and power bank",
+      "Water bottle and energy/snacks",
+      "Small first aid kit",
+      "Sunscreen and insect repellent",
+      "Walking poles and/or gaiters (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October)",
+    "seo": {
+      "title": "Malham Tarn Upland Farm Circular Walk – 10.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the Malham Tarn Upland Farm Circular Walk, a 10.6 km moderate circuit through upland farmland, lakes, and limestone scenery in the UK. Includes terrain notes, safety tips, and gear recommendations.",
+      "h1": "Malham Tarn Upland Farm Circular Walk"
+    }
   }
 }

@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 10663997
+  },
+  "ai": {
+    "summary": "A short, easy loop hike near Uxbridge in the UK, about 1.1 km in length. The route features ridge scenery and is suitable for beginners and families seeking a quick outdoor outing.",
+    "terrain_summary": "A short ridge-focused loop with well-maintained paths, mostly flat with light elevation changes. Expect some uneven sections and gravel or stone surfaces; urban-adjacent views.",
+    "safety_notes": "Stay on marked trails. Check weather and daylight; ridges can be windy and surfaces slippery when wet. Wear sturdy footwear with good grip; bring water, sun protection in dry conditions, and appropriate warm layers in cold weather. Keep children close and be mindful of nearby roads and urban areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking shoes",
+      "Weather-appropriate layers (waterproof jacket, fleece or lightweight insulation)",
+      "Water bottle and snacks",
+      "Sun protection (hat, sunscreen)",
+      "Small backpack",
+      "Map or offline GPS on your phone",
+      "Compact first-aid kit",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal in the UK; the hike can be done year-round, but plan for rain, wind, and colder conditions outside the warmer months.",
+    "seo": {
+      "title": "Loop to Uxbridge Underground Ridge – Easy 1.1 km Hike in the UK",
+      "meta_description": "Explore a short, easy 1.1 km ridge loop near Uxbridge, UK. A beginner-friendly hike with ridge scenery, ideal for a quick outdoor escape.",
+      "h1": "Loop to Uxbridge Underground Ridge – Easy 1.1 km Hike"
+    }
   }
 }

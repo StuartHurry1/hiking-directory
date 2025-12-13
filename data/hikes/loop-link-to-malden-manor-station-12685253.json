@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12685253
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km loop starting and ending at Malden Manor station in the UK. The route follows flat, pedestrian-friendly surfaces through residential streets with a small park along the way, making it suitable for a quick, family-friendly stroll.",
+    "terrain_summary": "Flat terrain with pavement and sidewalk paths. Some sections pass through a small park with gravel paths and grassy edges. Minimal elevation change.",
+    "safety_notes": "Watch for traffic at road crossings and driveways. Stay on sidewalks where provided. Be mindful of cyclists on shared paths. In poor weather, surfaces can be slippery; wear appropriate footwear and stay visible in low light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer/jacket",
+      "Phone with map or offline directions",
+      "Sunscreen or hat for sunny weather"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and summer; be prepared for rain in autumn and winter.",
+    "seo": {
+      "title": "Malden Manor Loop: 0.5 km Easy Walk in the UK",
+      "meta_description": "Explore a short, easy 0.5 km loop starting and ending at Malden Manor station in the UK. Flat terrain, family-friendly paths, and a quick stroll.",
+      "h1": "Malden Manor Loop – 0.5 km Easy Walk"
+    }
   }
 }

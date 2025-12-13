@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18774096
+  },
+  "ai": {
+    "summary": "The Lynford Stag Wellbeing Trail is a 10.3 km moderate forest route in the UK, offering a peaceful woodland setting and opportunities for steady, mindful walking. Suitable for walkers with moderate fitness, it loops through mixed terrain and showcases tranquil scenery along a well-marked path.",
+    "terrain_summary": "Forest trails with a mix of compacted soil, gravel and occasional boardwalk. Expect gentle elevation changes, some uneven patches, exposed roots after rain, and potential mud in wetter seasons. Portions may be shaded by trees, with sunny stretches in clearings.",
+    "safety_notes": "- Wear sturdy footwear and appropriate clothing for woodland terrain and seasonal weather. - Carry a map or GPS/app, and tell someone your plan. - Stay on marked trails; watch for cyclists and other hikers. - Be mindful of low-hanging branches, roots, and slippery sections after rain. - Check for ticks in grassy areas and use insect repellent. - Bring water, snacks, and a small first aid kit. - If weather deteriorates or visibility lowers, turn back and seek shelter in safe areas.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Snack or energy bar",
+      "Hat and sunscreen",
+      "Map/app or compass",
+      "Small first aid kit",
+      "Insect repellent",
+      "Light gloves and fleece layer (seasonal)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) when woodland trails are driest and most scenic; avoid heavy winter conditions if not prepared for mud and cold.",
+    "seo": {
+      "title": "Lynford Stag Wellbeing Trail - 10.3 km Moderate Forest Walk in the UK",
+      "meta_description": "Discover the Lynford Stag Wellbeing Trail: a 10.3 km moderate hike through tranquil UK woodlands. Practical safety tips, gear recommendations, and best seasons for this woodland walk.",
+      "h1": "Lynford Stag Wellbeing Trail (10.3 km) - Moderate Forest Walk"
+    }
   }
 }

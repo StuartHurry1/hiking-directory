@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12685693
+  },
+  "ai": {
+    "summary": "A short, easy 0.6 km loop starting near High Barnet Underground Station in London. This quick urban trail is ideal for a light outdoor break, with flat paths and minimal elevation.",
+    "terrain_summary": "Mostly flat with a mix of paved paths and compact trails. Urban-to-suburban scenery, with occasional grassy verges and crossings.",
+    "safety_notes": "Even on short urban hikes, stay aware of other pedestrians and cyclists. Follow marked paths and obey road crossings. Wear comfortable footwear, check the weather, and bring a light layer or rain protection. Keep personal belongings secure and avoid secluded areas after dark.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Phone with offline map or route description",
+      "Small snack (optional)"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Short Loop Walk by High Barnet Underground – 0.6 km Easy Urban Trail",
+      "meta_description": "Discover a 0.6 km easy loop near High Barnet Underground Station in London. Flat, quick, and suitable for all ages seeking a brief outdoor stroll.",
+      "h1": "LOOP Walk near High Barnet Underground (0.6 km)"
+    }
   }
 }

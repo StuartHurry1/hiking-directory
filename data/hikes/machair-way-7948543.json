@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7948543
+  },
+  "ai": {
+    "summary": "Machair Way is an 8.9-kilometer moderate hike in the UK, offering varied terrain and a steady pace. Suitable for hikers with some experience, it combines open trails with segments of more compact paths for a rewarding day on foot.",
+    "terrain_summary": "The route features a mix of grassy field paths and compact trails, with gentle elevation changes and some muddy sections. Footing can be uneven in places, so sturdy footwear is advised.",
+    "safety_notes": "Check weather and daylight hours before setting out. In coastal or exposed sections, sudden gusts can occur; bring a windproof layer. Use a map and compass or GPS, and stay on marked paths. Be mindful of mud, and avoid starting near high tides if the route is coastal. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Windproof/waterproof jacket",
+      "Hat and gloves (seasonal)",
+      "Map and compass or GPS device",
+      "Trail snacks",
+      "Light rain shell",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Machair Way – 8.9 km Moderate Hike in the UK",
+      "meta_description": "Discover Machair Way, an 8.9 km moderate hike in the UK. Explore varied terrain, get practical gear tips, best seasons, and safety advice for a rewarding day on foot.",
+      "h1": "Machair Way – 8.9 km Moderate Hike in the UK"
+    }
   }
 }

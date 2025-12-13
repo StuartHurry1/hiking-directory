@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10721978
+  },
+  "ai": {
+    "summary": "An easy 4.3 km geotrail in the UK suitable for families and casual walkers. The route follows gentle paths along a river area, with occasional viewpoints and light geological features along the way.",
+    "terrain_summary": "Mostly well-maintained paths and compact gravel with some grassy sections. Expect a few muddy patches, especially after rain, and occasional boardwalks or stile crossings near the river. Elevation changes are minor, suitable for beginners.",
+    "safety_notes": "Stay on marked paths and respect posted signs. Wear sturdy footwear with good grip and take care on wet rocks near the river. Check the forecast and avoid the route during heavy rain or flooding. Keep dogs on a short leash, and carry a map or GPS in case of detours.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water",
+      "Weather-appropriate clothing",
+      "Map or GPS device",
+      "Snacks",
+      "Camera or smartphone for photos",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Spring to autumn; winter visits are possible with extra caution due to mud and icy patches.",
+    "seo": {
+      "title": "Low Force Geotrail – Easy 4.3 km Walk in the UK",
+      "meta_description": "Discover the Low Force Geotrail, a gentle 4.3 km route in the UK offering easy walking, river views, and light geological features along the way.",
+      "h1": "Low Force Geotrail: Easy 4.3 km Hike in the UK"
+    }
   }
 }

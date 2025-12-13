@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19253650
+  },
+  "ai": {
+    "summary": "The Lough Shannagh hike is a challenging 19.1 km loop in the UK that circles Lough Shannagh. The route blends lake-edge paths with rolling hills, delivering steady ascents, rocky sections, and a demanding day for experienced hikers.",
+    "terrain_summary": "Varied terrain includes grassy moorland, gravel tracks, rocky outcrops, and woodland around the lake. Expect wet and muddy sections, uneven footing, and some steep ascents and descents.",
+    "safety_notes": "Check the weather before you go; UK conditions can change quickly on exposed hills. The route traverses remote sections with limited mobile coverage, so carry a map and compass (or a reliable GPS) and inform someone of your plan. Wear sturdy boots and dress in layers with a waterproof outer layer. Be prepared for slippery rocks near the water, variable visibility, and fatigue—carry enough water and energy snacks, and consider a spare power bank for devices.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a waterproof outer shell",
+      "Map and compass or GPS device",
+      "Adequate water and high-energy snacks",
+      "Headlamp or waterproof flashlight",
+      "Personal first aid kit",
+      "Emergency whistle and a charged mobile phone with spare power bank",
+      "Hat and gloves for cold or windy conditions",
+      "Walking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are the best times for this hike due to longer daylight and typically firmer ground; winter hiking is possible but more challenging and weather-dependent.",
+    "seo": {
+      "title": "Lough Shannagh Hike – 19.1 km Hard Trek in the UK",
+      "meta_description": "Discover the challenging 19.1 km Lough Shannagh hike in the UK. Learn about the terrain, safety tips, and gear you need for a rewarding day on the trails.",
+      "h1": "Lough Shannagh Hike – 19.1 km, Hard, UK"
+    }
   }
 }

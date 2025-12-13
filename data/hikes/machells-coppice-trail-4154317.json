@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 4154317
+  },
+  "ai": {
+    "summary": "An easy 3 km woodland loop in the UK, ideal for families and casual walkers seeking a relaxed outdoor experience. The route follows shaded paths through coppice woodland with gentle grades and minimal ascent.",
+    "terrain_summary": "Mostly flat and well-maintained paths through coppice woodland. Expect compact soil with occasional exposed roots and damp patches after rain; some sections may be slightly slippery.",
+    "safety_notes": "As with any UK woodland walk: wear sturdy footwear, stay on marked paths, and watch for mud after rain. Be mindful of uneven ground and exposed roots; check weather and daylight hours before you go. Keep pets under control, and be aware of wildlife. Carry a map or offline navigation and a phone for emergencies. In summer, use sun protection; in spring and autumn, wear layering. Tick awareness in long grass; check for ticks after the walk.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate layering (water-resistant outer layer)",
+      "Water bottle",
+      "Small snack",
+      "Lightweight rain jacket or poncho",
+      "Sunscreen, hat and sunglasses (seasonal)",
+      "Insect repellent and tick protection",
+      "Small first aid kit",
+      "Mobile phone with offline map or local area info"
+    ],
+    "best_seasons": "Spring through autumn; winter visits can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Machell's Coppice Trail – Easy 3 km Woodland Walk in the UK",
+      "meta_description": "Explore Machell's Coppice Trail, a gentle 3 km route through UK woodland. Learn about terrain, safety tips, gear recommendations, and the best seasons for this easy hike.",
+      "h1": "Machell's Coppice Trail – Easy 3 km Woodland Walk"
+    }
   }
 }

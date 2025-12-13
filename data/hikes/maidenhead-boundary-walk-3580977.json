@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3580977
+  },
+  "ai": {
+    "summary": "Maidenhead Boundary Walk is a challenging long-distance hike in the UK, covering about 73.8 km along rural boundaries near Maidenhead. The route traverses a mix of hedged farmland, lanes, towpaths, and occasional road crossings, with varying terrain and elevation that tests endurance. Best tackled as a multi-day trek by experienced hikers, with careful planning and pacing.",
+    "terrain_summary": "Predominantly rural and scenic with a mix of field tracks, hedgerows, country lanes, towpaths (canal or river), and short road sections. Expect gates and stiles, uneven ground, mud after rain, and some exposed stretches. Navigation may require map and compass in parts.",
+    "safety_notes": "This is a hard distance hike requiring good endurance. Plan multiple days and checkpoints; daylight hours vary by season. Navigation can be challenging in parts, so carry a map, compass, and GPS as back-up. Be aware of weather, mud, and farm gates; livestock on farmland; traffic at road crossings. Ensure you have sufficient water and food, a basic first aid kit, phone with contingency power, and an emergency plan shared with someone. Respect farm access rules and private property.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots or boots with good ankle support",
+      "Layered clothing + waterproof outer shell (jacket and pants)",
+      "Warm mid-layer for chilly conditions",
+      "Hat, gloves (season dependent) and sunglasses",
+      "Backpack with a 20-30 L capacity",
+      "Water supply (2-3 litres) and high-energy snacks",
+      "Map, compass, and optional GPS device or offline route on a phone",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit (including blister care) and basic emergency items",
+      "Trekking poles (optional but helpful on long distances)",
+      "Phone with charger and power bank; emergency cash or card"
+    ],
+    "best_seasons": "Spring (Mar–May) and autumn (Sept–Nov) offer mild weather and good visibility; summer provides longer days but can be hot and dry; winter is challenging due to short days, mud, and weather volatility.",
+    "seo": {
+      "title": "Maidenhead Boundary Walk – 73.8 km Hard UK Boundary Trek",
+      "meta_description": "Explore the Maidenhead Boundary Walk, a 73.8 km hard-distance hike in the UK. A rural route with hedgerows, towpaths, and challenging terrain for seasoned hikers.",
+      "h1": "Maidenhead Boundary Walk (73.8 km) – A Hard UK Boundary Trek"
+    }
   }
 }

@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1149730
+  },
+  "ai": {
+    "summary": "The Macmillan Way is a challenging long-distance path in the United Kingdom, stretching about 1,074 km. The route traverses a mix of rural lanes, farmland, woodlands, and river valleys, with occasional urban stretches. It demands strong physical stamina and careful planning for multi-week journeys and offers varied scenery and cultural insights along the way.",
+    "terrain_summary": "Expect long days on undulating countryside, hedged lanes, fields, woodlands, and occasional moorland. The surface varies from compact tracks to grassy paths; some sections include stile crossings and gates. Navigation can be straightforward in built-up sections but may require map reading in remote rural tracts.",
+    "safety_notes": "Plan each stage with realistic daily distances. Carry a map and compass (GPS as backup). Check weather forecasts and daylight hours. Inform someone of your itinerary. Be prepared for hit-or-miss phone signal in rural sections. Carry sufficient water, food, first-aid, and emergency shelter. Watch for livestock, road crossings, and seasonal closures. In remote areas, consider a buddy system or guided support.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Thermal layers and hat/gloves for variable weather",
+      "Backpack with rain cover",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system + water purification method",
+      "First aid kit and blister care",
+      "Emergency shelter or bivy bag",
+      "Trekking poles",
+      "Sun protection (sunglasses, sunscreen)",
+      "High-energy snacks and meals",
+      "Portable charger and phone with offline maps",
+      "Lightweight sleep system if planning multi-day camping",
+      "Personal identification and emergency contact card"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for longer daylight, milder conditions, and better trail maintenance.",
+    "seo": {
+      "title": "Macmillan Way long-distance hike guide | 1,074 km route across the UK",
+      "meta_description": "Plan your through-hike on the Macmillan Way, a challenging 1,074 km UK trail through rural England. Terrain, safety tips, gear suggestions, and best seasons.",
+      "h1": "Macmillan Way: UK long-distance hiking route (1,074 km)"
+    }
   }
 }

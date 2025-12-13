@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 15088570
+  },
+  "ai": {
+    "summary": "Major's Leap Walk, Wenlock Edge is a 13.1 km moderate ridge walk in the UK along the Wenlock Edge limestone escarpment. The route offers panoramic upland views, exposed crest sections, and a classic ridge walking experience with some ascents and descents.",
+    "terrain_summary": "Ridge and escarpment terrain: uneven limestone paths, exposed viewpoints, rocky sections, and varying footing from solid slabs to loose gravel. Windy conditions on the crest are common and some sections can be boggy or stony.",
+    "safety_notes": "Check weather forecasts before setting out; ridges can be exposed and windy with sudden changes. Wear sturdy boots with good grip, stay on marked paths, and be cautious near edges. Bring a map and compass (or GPS), carry enough water and snacks, and have a plan for crosswinds or poor visibility. Mobile signal may be limited in remote sections; consider sharing your route with someone and carrying a whistle and basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water 2–3 litres and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket, and hat/gloves if needed)",
+      "Map and compass (or GPS device) and knowledge to use them",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Lightweight backpack with rain cover",
+      "Small first aid kit and emergency whistle",
+      "Headlamp or flashlight (for possible delays)",
+      "Mobile phone with offline maps and a portable charger",
+      "Optional trekking poles for stability on uneven ground"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) for more reliable weather and daylight. Winter ridge walks are more exposed and slippery and should only be attempted by experienced walkers with proper equipment.",
+    "seo": {
+      "title": "Major's Leap Walk, Wenlock Edge – 13.1 km Moderate Ridge Walk in the UK",
+      "meta_description": "Explore Major's Leap Walk along Wenlock Edge, a 13.1 km moderate ridge walk in the UK. Learn about terrain, safety, and gear for this limestone ridge hike.",
+      "h1": "Major's Leap Walk, Wenlock Edge"
+    }
   }
 }

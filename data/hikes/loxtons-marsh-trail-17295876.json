@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17295876
+  },
+  "ai": {
+    "summary": "Loxton's Marsh Trail is a gentle 2.3 km circuit through UK marshland. The easy route follows flat, well-maintained paths with boardwalk sections, offering a peaceful escape for beginners and families. Expect wetlands, birds, and open skies, with occasional mud after rain.",
+    "terrain_summary": "Flat terrain with a mix of paved paths and wooden boardwalks across marshy areas. Some sections may be soft ground or muddy after rain. Boardwalk sections are stable but still require careful footing; strollers may be restricted to smoother parts.",
+    "safety_notes": "Wear waterproof footwear and weather-appropriate clothing. Stay on marked paths, especially on boardwalks, to avoid unstable ground. Check weather conditions and avoid the marsh after heavy rain or flooding. Be mindful of mud, ticks, and insects; use repellent when needed. Keep children and pets under supervision and carry water and a small first-aid kit.",
+    "recommended_gear": [
+      "Waterproof walking shoes or boots",
+      "Waterproof jacket",
+      "Comfortable clothing",
+      "Insect repellent",
+      "Sunscreen",
+      "Water and a light snack",
+      "Hat and sunglasses",
+      "Map or offline navigation",
+      "Small first-aid kit",
+      "Phone charged and emergency contact information"
+    ],
+    "best_seasons": "Spring through autumn are ideal for wildlife watching and drier paths; conditions can be muddy or slick in winter.",
+    "seo": {
+      "title": "Loxton's Marsh Trail (2.3 km) – Easy UK Marsh Walk",
+      "meta_description": "Explore Loxton's Marsh Trail, a 2.3 km easy hike in the UK. Flat terrain, marshboard paths, and abundant wildlife make it perfect for beginners and families.",
+      "h1": "Loxton's Marsh Trail: An Easy 2.3 km Marsh Walk in the UK"
+    }
   }
 }

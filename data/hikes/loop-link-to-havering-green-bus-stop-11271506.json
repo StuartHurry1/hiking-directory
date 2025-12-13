@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 11271506
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.1 km loop starting and finishing at Havering Green bus stop in the UK. Ideal for a quick stretch, a warm-up, or a casual leg of a longer stroll.",
+    "terrain_summary": "Mostly flat, urban terrain around the bus stop area. Path likely paved or compact; expect light foot traffic and occasional grassy verge.",
+    "safety_notes": "Be mindful of traffic and other pedestrians near the bus stop. This is a short urban loop; check for temporary closures or roadworks. Carry a phone in case of emergencies and wear weather-appropriate clothing.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle (optional)",
+      "Phone with maps or offline route (optional)",
+      "Light weather-appropriate clothing"
+    ],
+    "best_seasons": "All year round",
+    "seo": {
+      "title": "Easy 0.1 km Loop from Havering Green Bus Stop, UK",
+      "meta_description": "Discover a tiny, easy 0.1 km loop that starts and ends at Havering Green bus stop in the UK. Perfect for a quick stroll, warm-up, or a short break during a longer walk.",
+      "h1": "Easy 0.1 km Loop from Havering Green Bus Stop, UK"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10674413
+  },
+  "ai": {
+    "summary": "A compact urban loop hike of 0.2 km around Hayes & Harlington station in West London. The easy, flat route is ideal for a quick outdoor break or family stroll.",
+    "terrain_summary": "Flat, mixed urban surfaces including paved sidewalks and park paths. Mostly level with minimal elevation change; occasional grass verges along the loop.",
+    "safety_notes": "Stay aware of pedestrians and nearby traffic at crossings. Suitable for all ages, but be mindful of weather which can make surfaces slippery. Keep valuables secure in crowded areas. If visiting with children, hold hands at crossings; follow posted signs.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate layer",
+      "Water bottle (optional)",
+      "Phone with map",
+      "Sunscreen and hat in sunny weather",
+      "Light rain jacket"
+    ],
+    "best_seasons": "All year round; spring and autumn offer the most comfortable temperatures, while summer provides longer daylight and winter can be chilly.",
+    "seo": {
+      "title": "Short Urban Loop Hike Near Hayes & Harlington Station | 0.2 km Easy UK Walk",
+      "meta_description": "Enjoy a tiny, easy 0.2 km urban loop near Hayes & Harlington station in West London. Flat, family friendly and perfect for a quick outdoor break.",
+      "h1": "Short Urban Loop Walk Near Hayes & Harlington Station"
+    }
   }
 }

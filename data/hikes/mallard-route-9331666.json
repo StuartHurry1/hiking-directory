@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9331666
+  },
+  "ai": {
+    "summary": "Mallard Route is a short, easy 2.7 km hike in the UK, suitable for families and casual walkers. The route follows gentle, well-maintained paths along water, with opportunities to spot mallards and other wildlife.",
+    "terrain_summary": "Mostly flat, well-surfaced tracks with a few gravel or boardwalk sections. The surface is typically smooth but may become muddy after rain, especially near the water. Expect gentle grades and occasional shaded sections.",
+    "safety_notes": "Always check the weather and daylight hours before you go. Wear sturdy, comfortable footwear and bring a waterproof layer. The route can be busy with other walkers and cyclists on shared paths—keep to your side and supervise children and pets. Stay on marked paths to protect wildlife, and bring a map or charged device for navigation.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Snacks and a small first-aid kit",
+      "Sun protection (hat and sunscreen) or warm layer, depending on season",
+      "Phone or map for navigation"
+    ],
+    "best_seasons": "Spring to Autumn are ideal for a comfortable walk; Winter is possible in mild conditions but may be wet and dark.",
+    "seo": {
+      "title": "Mallard Route - Easy 2.7 km Walk in the UK",
+      "meta_description": "Discover the Mallard Route, a short and easy 2.7 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this family-friendly route.",
+      "h1": "Mallard Route: Easy 2.7 km UK Walk"
+    }
   }
 }

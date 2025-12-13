@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 13196939
+  },
+  "ai": {
+    "summary": "A demanding 20.3 km circuit around the Lough Navar lakes in the UK, combining forest tracks, grassy paths and rocky sections. The hike offers dramatic lake views and varied terrain, with significant elevation gain and a long, exposed trek.",
+    "terrain_summary": "Mixed terrain: forest tracks, grassy trails, and occasional rocky steps. Expect muddy sections and some steep ascents and descents. Navigation is straightforward on established routes, but weather and boggy ground can slow progress; good boots and a map are essential.",
+    "safety_notes": "Plan for 6–9 hours on the trail; weather can change rapidly in the UK, so carry warm clothing and a waterproof layer. Some sections are remote with limited mobile signal; bring a map and compass in addition to a GPS device. Wear sturdy waterproof hiking boots and bring sufficient water and snacks. Inform someone of your route and expected return time; carry a first aid kit, whistle, and a basic emergency plan. Check for seasonal access and local advisories before starting.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof outer shell)",
+      "Backpack with 20–30 L capacity",
+      "Water and high-energy snacks (at least 2 L water per person)",
+      "Map and compass or GPS device",
+      "Headlamp or small flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Rain gear (poncho or waterproof jacket and pants)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Walking poles (optional)",
+      "Phone in a waterproof case or dry bag"
+    ],
+    "best_seasons": "Spring to autumn; typically best from late spring to early autumn when trails are drier and visibility is clear.",
+    "seo": {
+      "title": "Lough Navar Lakes Walk – 20.3 km Hard Lakeside Hike in the UK",
+      "meta_description": "Discover the Lough Navar Lakes Walk, a challenging 20.3 km hike through lakeside terrain in the UK. Learn about the route, terrain, safety tips, and gear for a successful day on the trail.",
+      "h1": "Lough Navar Lakes Walk – 20.3 km Hard Lakeside Trail"
+    }
   }
 }

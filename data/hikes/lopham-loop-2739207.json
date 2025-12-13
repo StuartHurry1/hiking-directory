@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2739207
+  },
+  "ai": {
+    "summary": "A short, 1.1 km easy circular walk around Lopham, suitable for families and beginners. Flat terrain with well-marked paths through rural countryside; ideal for a quick, leisurely outing in the UK.",
+    "terrain_summary": "Flat terrain with a mix of gravel, compacted earth, and occasional grassy sections. Mostly easy to navigate; paths can be muddy after rain. Stroller-friendly on firm sections, but may be challenging in wet conditions.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on designated paths and respect farmland boundaries. Watch for cyclists and other pedestrians on shared routes. In wet conditions, paths may be muddy and slippery; take care. Keep dogs under control and close to you. Carry a phone with local maps and know your exit points.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy footwear",
+      "Weather-appropriate clothing",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS/phone with offline map",
+      "Light snack",
+      "Phone charged and identification"
+    ],
+    "best_seasons": "Year-round, with the best conditions in spring and summer when the path is dry and scenery is at its peak. Autumn offers pleasant colours; winter walks can be muddy or icy.",
+    "seo": {
+      "title": "Lopham Loop – Easy 1.1 km Circular Walk in the UK",
+      "meta_description": "Discover Lopham Loop, a short 1.1 km easy circular walk in the UK. Flat paths, rural scenery, ideal for families and beginners.",
+      "h1": "Lopham Loop – Easy 1.1 km Circular Walk"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2109641
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km country trail near Lulworth in the UK, offering an easy, scenic walk across fields and lanes suitable for families and casual walkers.",
+    "terrain_summary": "Mostly easy, well-defined paths with flat to gently rolling terrain. Expect grassy paths, packed earth, occasional mud after rain, and small gates or stiles. Some sections run along rural lanes and may be exposed to wind.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Watch for uneven ground, mud after rain, and livestock. Be mindful of rural roads and crossings; keep dogs on a leash where required. Check the weather forecast and bring a light layer, sun protection, and water. Carry a basic map or GPS and know your route.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light weather-appropriate outer layer",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Snacks",
+      "Phone with emergency contacts",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn is ideal; mild weather and clearer paths, though the walk can be done year-round with proper gear.",
+    "seo": {
+      "title": "Lulworth Country Trail - Easy 3.7 km Countryside Walk in the UK",
+      "meta_description": "Discover the easy 3.7 km Lulworth Country Trail in the UK. A family-friendly, flat countryside walk with practical safety tips and gear suggestions.",
+      "h1": "Lulworth Country Trail: Easy 3.7 km Countryside Walk in the UK"
+    }
   }
 }

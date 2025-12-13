@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15850390
+  },
+  "ai": {
+    "summary": "Magee's Walk is a very short, easy hike in the United Kingdom designed for a quick outdoor break. At about 0.1 km, it offers a gentle stroll suitable for families, beginners, and anyone looking for a minimal effort outing.",
+    "terrain_summary": "A brief, flat-to-moderate surface walk of roughly 0.1 km. The path is typically smooth and accessible, but surface type may vary by location (pavement, compacted soil, or gravel). Always check local signs and conditions before you start.",
+    "safety_notes": "Check the weather forecast and daylight hours before your walk. Wear comfortable, sturdy footwear and stay on marked paths. Bring water, especially in warm weather, and be mindful of other pedestrians. Wet or icy surfaces can be slippery; take care on damp ground. Keep children and pets under supervision and respect private property and access rules.",
+    "recommended_gear": [
+      "Comfortable walking shoes or sneakers",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Sunscreen, hat, and sunglasses (sunny days)",
+      "Phone with local map or directions",
+      "Small rain jacket if rain is likely"
+    ],
+    "best_seasons": "Year-round in the UK, with spring and autumn offering the most comfortable conditions. Summer can be pleasant on dry days; winter requires caution due to wet or icy surfaces.",
+    "seo": {
+      "title": "Magee's Walk: Easy 0.1 km Hike in the UK",
+      "meta_description": "Discover Magee's Walk, a tiny yet charming 0.1 km easy hike in the UK. Perfect for a quick outdoor break, with safety tips and practical gear.",
+      "h1": "Magee's Walk: An Easy 0.1 km Hike in the UK"
+    }
   }
 }

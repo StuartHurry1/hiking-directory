@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19129584
+  },
+  "ai": {
+    "summary": "A short, easy coastal walk of 3.9 km near Stackpole, featuring cliff-top views and accessible sea caves. Suitable for most walkers with time for photo stops and a quick cave explore if conditions allow.",
+    "terrain_summary": "Coastal path with cliff-top sections, gentle ascents and descents, some stairs and uneven ground. Exposed edges, rocky patches near sea caves, and potentially slippery footing when wet. Weather can change quickly; plan around tides if exploring coastal coves.",
+    "safety_notes": "Stay away from unstable cliff edges and do not approach the sea during high tides or rough seas. Stay on marked paths; beware of sudden waves and slippery rocks near coves. Wear sturdy footwear and weather-appropriate clothing. Check tide times and daylight; bring a light source if exploring caverns, as they can be dark. Mobile signals may be limited; carry a map and tell someone your route.",
+    "recommended_gear": [
+      "Sturdy footwear with good grip",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Sunscreen, hat, and sunglasses",
+      "Lightweight rain jacket",
+      "Map or offline navigation",
+      "Headlamp or flashlight for caverns",
+      "Fully charged mobile phone; portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and clearer sea views; winters can be windy and wet.",
+    "seo": {
+      "title": "Lydstep Cliffs and Caverns Walk, Stackpole – Easy 3.9 km Coastal Hike in the UK",
+      "meta_description": "Discover the easy 3.9 km Lydstep Cliffs and Caverns Walk at Stackpole, a coastal route with cliff-top vistas and sea caves. Safety tips, gear, and best seasons.",
+      "h1": "Lydstep Cliffs and Caverns Walk, Stackpole"
+    }
   }
 }

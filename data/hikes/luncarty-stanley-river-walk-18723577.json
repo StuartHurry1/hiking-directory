@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 18723577
+  },
+  "ai": {
+    "summary": "A 6.8 km moderate hike in the UK that follows river and ridge terrain, offering scenic viewpoints and a varied, footpath-based route.",
+    "terrain_summary": "Ridge-top paths combine with riverbank sections. Expect uneven footing, occasional rocky or muddy patches, and possible exposure on higher sections. Weather can affect traction, so suitable footwear and layers are advised.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy boots and suitable clothing; ridge sections can be exposed and windy. Stay on marked paths and use a map or offline GPS—signal can be unreliable in remote parts. Bring ample water, snacks, and a small first-aid kit. If visibility is poor or weather deteriorates, turn back or postpone the hike.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Hat and gloves for cooler days",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map and compass or offline GPS",
+      "Fully charged phone",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Lightweight waterproof backpack cover",
+      "Gaiters (optional for deep mud)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and clearer views in the UK. Winter hikes are possible but require careful planning due to shorter daylight and harsher conditions.",
+    "seo": {
+      "title": "Luncarty Stanley River Walk — 6.8 km Moderate Ridge Hike in the UK",
+      "meta_description": "Discover the 6.8 km moderate Luncarty Stanley River Walk in the UK. Ridge terrain, river scenery, and practical safety and gear tips for hikers.",
+      "h1": "Luncarty Stanley River Walk"
+    }
   }
 }

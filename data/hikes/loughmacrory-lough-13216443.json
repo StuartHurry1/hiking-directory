@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13216443
+  },
+  "ai": {
+    "summary": "A short, easy 2 km lakeside hike around LOUGHMACRORY LOUGH in the UK. The route is flat and suitable for families and beginners, with open water views along the shore.",
+    "terrain_summary": "Flat, well-defined trail along the shoreline. Surface is mainly grass and gravel with occasional muddy patches after rain. Expect open water views and a cool breeze off the lake.",
+    "safety_notes": "Check the weather forecast and dress for variable conditions. Wear sturdy shoes and stay on the marked path. Bring water, and be mindful of muddy sections after rain. Keep children away from the shoreline and respect local wildlife.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water",
+      "Map or GPS device",
+      "Smartphone with offline map",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Spring to Autumn for milder, drier conditions; can be visited year-round with appropriate gear",
+    "seo": {
+      "title": "LOUGHMACRORY LOUGH – Easy 2 km Lakeside Walk in the UK",
+      "meta_description": "Explore a gentle 2 km lakeside walk around LOUGHMACRORY LOUGH in the UK. Flat terrain, scenic views, and beginner-friendly conditions—plan your short outdoor escape.",
+      "h1": "LOUGHMACRORY LOUGH – Easy 2 km Lakeside Walk"
+    }
   }
 }

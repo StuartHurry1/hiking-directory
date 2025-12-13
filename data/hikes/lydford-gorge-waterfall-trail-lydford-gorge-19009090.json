@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 19009090
+  },
+  "ai": {
+    "summary": "An easy 3.4 km hike along Lydford Gorge to the scenic waterfall. The trail features gentle paths, boardwalk sections, and river views, making it suitable for families and most hikers.",
+    "terrain_summary": "Combination of level paths, wooden boardwalks, and some rocky or muddy sections. There are steps near the waterfall and surfaces can be damp or slippery, especially after rain.",
+    "safety_notes": "Wear sturdy, waterproof footwear with good grip; stay on marked paths and avoid edges; be cautious on wet boardwalks and steps; check weather and flood risk before visiting; supervise children at all times and plan for limited mobility by choosing accessible viewpoints.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Water bottle or hydration",
+      "Snacks or small energy foods",
+      "Light headlamp or flashlight (optional)",
+      "Map or offline navigation (optional)",
+      "Phone with emergency numbers and fully charged battery"
+    ],
+    "best_seasons": "Spring through autumn generally offer the best conditions and lighting; winter visits can be windy, muddy, and have shorter daylight.",
+    "seo": {
+      "title": "Lydford Gorge Waterfall Trail — Easy 3.4 km Hike in the UK",
+      "meta_description": "Experience the easy 3.4 km Lydford Gorge Waterfall Trail in the UK. A family-friendly hike with boardwalks, river views, and cascading waterfalls—plan your visit now.",
+      "h1": "Lydford Gorge Waterfall Trail — Easy 3.4 km Hike in the UK"
+    }
   }
 }

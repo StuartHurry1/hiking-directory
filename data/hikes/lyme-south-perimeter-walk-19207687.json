@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19207687
+  },
+  "ai": {
+    "summary": "A demanding 22.5 km circuit around the Lyme South Perimeter in the UK, classified as hard. The route blends coastal paths with rural trails, featuring elevation changes, uneven surfaces, and potential muddy sections. Suitable for experienced hikers with good fitness and navigation.",
+    "terrain_summary": "Expect a mix of coastal cliff and sea-breeze paths, grassy fields, old lanes, and rocky or muddy tracks. Surfaces vary from smooth tarmac to uneven stone and wet ground; several ascents and descents of moderate to steep gradient. Weather can change rapidly; waterproof footwear and layers recommended.",
+    "safety_notes": "Plan for a full day hike with daylight; check weather and tide if coastal; bring map and compass even if using GPS; wear sturdy waterproof boots and clothing; pack enough water and high-energy food; carry a basic first aid kit, whistle, and a charged mobile phone; tell someone your route and expected return; stay on established paths and watch for muddy or slippery sections; be mindful of livestock and wildlife; practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and insulating layer",
+      "Moisture-wicking base layers",
+      "Map and compass (and GPS backup)",
+      "Water bottle or hydration system (minimum 2 L)",
+      "High-energy snacks and a light meal",
+      "Headlamp or torch",
+      "Sun protection (hat, sunscreen)",
+      "Lightweight rain trousers",
+      "Personal first aid kit",
+      "Emergency whistle",
+      "Mobile phone with portable charger",
+      "Trekking poles (optional)",
+      "Sun and rain protection for eyes (sunglasses)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for longer daylight and milder conditions; can be tackled in winter by experienced hikers with extra caution and daylight planning.",
+    "seo": {
+      "title": "Lyme South Perimeter Walk – 22.5 km UK Hard Hike",
+      "meta_description": "Discover the Lyme South Perimeter Walk, a challenging 22.5 km hike in the UK. Learn terrain, safety tips, and gear to prepare for this hard, coastal-to-rural route.",
+      "h1": "Lyme South Perimeter Walk — 22.5 km, Hard"
+    }
   }
 }

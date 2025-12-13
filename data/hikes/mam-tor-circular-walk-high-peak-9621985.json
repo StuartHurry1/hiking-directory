@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9621985
+  },
+  "ai": {
+    "summary": "Mam Tor Circular Walk is a scenic 9.5 km loop starting and finishing at Mam Tor, tracing a ridge-top route with views over the Hope Valley. The hike combines limestone pavements, grassy shoulders, and rocky sections, returning to the summit via Hollins Cross and Lose Hill. It suits walkers with moderate fitness and some experience navigating uneven terrain.",
+    "terrain_summary": "Mix of well-defined paths, rocky limestone pavement, and loose scree on some sections. Expect steep and uneven ground in places, exposed ridge segments, and potential mud, especially after rain. Good footwear and attention to footing are advised.",
+    "safety_notes": "Weather in the area can change quickly; check forecasts before you go. Wear sturdy, grippy boots and bring layers plus a waterproof. Stay on marked paths, watch for loose stones and scree, and be cautious on exposed sections, especially in wind. Carry water, a map or GPS, a basic first-aid kit, and a charged phone. In reduced visibility, turn back or seek shelter away from cliff edges.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Layered clothing with a waterproof outer layer",
+      "Map and/or GPS device (or offline map on phone)",
+      "Small first aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Walking poles (optional)",
+      "Head torch (for early/late starts)",
+      "Camera or smartphone for photos",
+      "Emergency whistle"
+    ],
+    "best_seasons": "All year, but late spring to autumn (roughly April–October) typically offer drier conditions and clearer views; shoulder seasons can be quieter with still-good conditions.",
+    "seo": {
+      "title": "Mam Tor Circular Walk – 9.5 km Moderate Hike in the Peak District, UK",
+      "meta_description": "Explore Mam Tor Circular Walk: a 9.5 km moderate hike in the Peak District featuring ridge-top views, limestone pavements, and a rewarding loop back to Mam Tor.",
+      "h1": "Mam Tor Circular Walk – 9.5 km, Moderate Hike (Peak District, UK)"
+    }
   }
 }

@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 11110566
+  },
+  "ai": {
+    "summary": "A very short, urban loop that starts and ends at Elstree & Borehamwood station. At roughly 0.3 km, it’s an easy stroll suitable for all ages seeking a quick stretch near the railway.",
+    "terrain_summary": "Flat, paved sidewalks around the station area with gentle curb edges; mostly urban terrain.",
+    "safety_notes": "Be mindful of other pedestrians and cyclists on shared paths. Watch for road crossings and platform edges if moving near the station. Weather can change quickly; bring an extra layer. Stay aware of belongings in busy areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate layer (jacket or sweater)",
+      "Phone with maps or emergency contact information",
+      "Water or snack (optional)"
+    ],
+    "best_seasons": "Year-round, with spring and summer offering the most comfortable conditions for a relaxed pace.",
+    "seo": {
+      "title": "Loop Walk from Elstree & Borehamwood Station – 0.3 km Easy Urban Hike",
+      "meta_description": "Discover a quick 0.3 km loop starting and ending at Elstree & Borehamwood station. An ultra-easy urban hike ideal for a brief stretch between trains.",
+      "h1": "Loop Walk from Elstree & Borehamwood Station"
+    }
   }
 }

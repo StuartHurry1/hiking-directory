@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 12685396
+  },
+  "ai": {
+    "summary": "A short, easy loop walk near West Drayton station in the UK. The circuit is about 0.3 km, flat and suitable for all ages, offering a quick outdoor break without the need for a long hike.",
+    "terrain_summary": "Predominantly paved urban paths around West Drayton station with minimal elevation change; mainly tarmac or concrete with curb crossings.",
+    "safety_notes": "Be aware of pedestrian and vehicle traffic when entering and leaving the station area. Stay on designated paths, watch for crossings, and check for crowds or construction that could affect the loop. Suitable for all-weather use; consider appropriate footwear and weather protection.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or layer",
+      "Phone with maps or navigation"
+    ],
+    "best_seasons": "All year round in the UK; spring and summer are often the most pleasant, but the loop is short enough to enjoy in cooler months with proper clothing.",
+    "seo": {
+      "title": "West Drayton Station Loop – 0.3 km Easy Urban Walk in the UK",
+      "meta_description": "Discover a tiny 0.3 km loop around West Drayton station, UK. An easy, all-ages urban walk with flat terrain and a quick completion time.",
+      "h1": "West Drayton Station Loop – 0.3 km Easy Urban Walk"
+    }
   }
 }

@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1996318
+  },
+  "ai": {
+    "summary": "The Lyke Wake Walk is a demanding long-distance hike in the United Kingdom, listed here as 194.3 km and rated hard. This multi-day trek traverses varied countryside with moorland, farm tracks, and coastal sections, requiring solid navigation, planning, and endurance.",
+    "terrain_summary": "Expect a diverse mix of terrain: exposed moorland on upland stretches, rough tracks, farm lanes, and occasional coastal paths. Elevation changes can be significant, with boggy ground and uneven surfaces that demand sturdy footwear and careful map reading. Navigation may be challenging in poor visibility or remote sections.",
+    "safety_notes": "Plan for multiple days with achievable daily distances. Carry a reliable map and compass or GPS and know how to use them. Check local weather before starting; UK moorland weather can change rapidly. Wear sturdy waterproof boots and bring waterproofs and warm layers. Stay hydrated and well fueled; carry sufficient water and high energy snacks, and consider a method for water purification. Pack a basic first aid kit and blister care items, a whistle, and a lightweight emergency shelter. Inform someone of your itinerary and expected finish time. Be prepared for boggy sections and occasional crossings with appropriate clothing and footwear. In remote areas, consider a signaling device or phone with emergency contacts.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and waterproof pants",
+      "Thermal base layers and warm mid layers",
+      "Hat and gloves for cold or wind",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps and emergency contacts",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care supplies",
+      "High-energy snacks and sufficient water; water purification option",
+      "Emergency shelter or bivvy bag",
+      "Trekking poles",
+      "Packable rain cover and extra dry bag",
+      "Sunscreen and sunglasses",
+      "Whistle",
+      "Extra socks and a small repair kit"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October)",
+    "seo": {
+      "title": "Lyke Wake Walk — 194.3 km Hard UK Long-Distance Trail",
+      "meta_description": "Discover the Lyke Wake Walk, a challenging 194.3 km UK long-distance hike. Practical route overview, terrain highlights, safety tips, and gear recommendations for experienced hikers.",
+      "h1": "Lyke Wake Walk: A 194.3 km Hard UK Long-Distance Trail"
+    }
   }
 }

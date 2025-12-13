@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10773339
+  },
+  "ai": {
+    "summary": "A short, easy 1 km loop near Hatch End in the UK. Ideal for a quick family stroll, the route mostly follows park paths and quiet streets with gentle gradients and pleasant surroundings.",
+    "terrain_summary": "Predominantly flat with a mix of tarmac pavements, compact gravel paths, and grassy verges. Some sections run along residential streets; the route is generally well-maintained and suitable for strollers and wheelchairs.",
+    "safety_notes": "Follow standard urban walking safety. Cross at designated crossings, keep to pavements, and watch for other pedestrians and cyclists. Wear sturdy footwear, bring a light layer, and check the weather and daylight hours. Respect private property and stay on marked paths. In winter, be prepared for damp or icy patches and reduced visibility.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight jacket or layer",
+      "Water bottle",
+      "Sun protection (sunscreen or sunglasses)",
+      "Phone with offline map or route cue",
+      "Small snack"
+    ],
+    "best_seasons": "All year, with spring and summer offering the best conditions for outdoor walking. Autumn can be pleasant, while winter walks are best on dry days with adequate daylight.",
+    "seo": {
+      "title": "LOOP link to Hatch End - 1 km Easy Loop Walk in the UK",
+      "meta_description": "Discover a 1 km easy loop near Hatch End, UK. A family friendly stroll along park paths and quiet streets with gentle terrain and practical safety tips.",
+      "h1": "LOOP link to Hatch End: 1 km Easy Loop Walk"
+    }
   }
 }

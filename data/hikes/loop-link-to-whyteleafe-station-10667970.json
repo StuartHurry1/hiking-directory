@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 10667970
+  },
+  "ai": {
+    "summary": "A gentle 4.6 km loop that starts and ends at Whyteleafe station in the UK. Designed for easy strolls, the route combines suburban paths with light woodland, offering mostly flat or gently undulating terrain.",
+    "terrain_summary": "Primarily well-trodden paths and light forest tracks. Expect a mix of grassy trails, compacted earth, and occasional tarmac sections. Mud possible after rain; suitable footwear with grip is advised.",
+    "safety_notes": "Stay on marked paths and be mindful of cyclists on shared sections. Check weather and daylight hours before you go. Bring a charged phone, adequate water, a map or GPS, and inform someone of your plan. Exercise caution at road crossings and near station approaches.",
+    "recommended_gear": [
+      "Comfortable walking shoes with good grip",
+      "Water bottle",
+      "Weather-appropriate clothing (including a lightweight rain jacket)",
+      "Map or GPS device/phone with offline map",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn; suitable year-round with proper clothing and awareness of shorter daylight in winter.",
+    "seo": {
+      "title": "Loop Hike from Whyteleafe Station – 4.6 km Easy Walk (UK)",
+      "meta_description": "Discover a 4.6 km easy loop starting and ending at Whyteleafe station in the UK. Gentle terrain, pleasant scenery, and practical safety tips for casual walkers.",
+      "h1": "Loop Walk from Whyteleafe Station (4.6 km, Easy)"
+    }
   }
 }

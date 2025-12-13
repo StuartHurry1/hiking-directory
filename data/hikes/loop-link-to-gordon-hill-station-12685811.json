@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12685811
+  },
+  "ai": {
+    "summary": "A short, easy urban loop walk that starts and ends near Gordon Hill station in the UK. At about 1.7 km, it is a gentle route ideal for families and casual walkers seeking a quick outdoor stroll without leaving the city.",
+    "terrain_summary": "Predominantly paved paths and sidewalks with occasional grassy verges and park footpaths. Expect street crossings and light urban surfaces; some sections may be uneven after rain.",
+    "safety_notes": "Be aware of traffic when crossing streets and use designated crossings. Stay on sidewalks and park paths where available. Dress for the weather and carry a light layer or umbrella. Keep valuables secure and walk with others when possible, especially after dark. If the route feels crowded, pause in a safe spot and rejoin the loop.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof layer or compact umbrella",
+      "Water bottle",
+      "Phone with map or offline route",
+      "Small backpack or waist pack for essentials",
+      "Sunscreen and hat for sunny days"
+    ],
+    "best_seasons": "Spring to autumn for the best weather and scenery; the walk is still doable in winter with appropriate clothing and daylight.",
+    "seo": {
+      "title": "LOOP 1.7 km Easy Loop Walk Near Gordon Hill Station UK",
+      "meta_description": "Discover a short 1.7 km easy loop walk near Gordon Hill station in the UK. An urban route with gentle surfaces, suitable for families and casual walkers; includes safety tips and gear suggestions.",
+      "h1": "LOOP 1.7 km Easy Loop Walk Near Gordon Hill Station"
+    }
   }
 }

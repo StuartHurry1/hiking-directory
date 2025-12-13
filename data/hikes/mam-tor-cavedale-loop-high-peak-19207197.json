@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19207197
+  },
+  "ai": {
+    "summary": "A challenging 21.8 km loop in the High Peak area, combining the Mam Tor ridge with the scenic Cave Dale valley. Expect long ascents, rugged limestone terrain, and exposed sections with rewarding views over the Peak District.",
+    "terrain_summary": "Mixed terrain including grassy bridleways, rocky steps, limestone pavements, and steep ascents/descent. The Mam Tor section can be exposed with loose scree; Cave Dale provides a narrow, picturesque valley path. Be prepared for mud in wet conditions and some sections that may be slippery.",
+    "safety_notes": "This is a long, hard hike with significant elevation gain and variable weather. Wear sturdy boots and weatherproof clothing; stay on marked paths. Weather in the Peak District can change rapidly, with sun, rain, wind, and temperature swings. Navigation aids are recommended, as signal can be patchy in remote sections. Be cautious of loose scree near Mam Tor and watch for crowds at popular access points. Plan for daylight and emergency contingencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and layers",
+      "Water (1–2 L) and high-energy snacks",
+      "Map and compass or GPS device",
+      "Hat, gloves (seasonal)",
+      "Headtorch (evening or potential delays)",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)",
+      "Whistle and basic emergency gear"
+    ],
+    "best_seasons": "Spring to autumn (April–October) generally offers the best conditions, with long daylight; winter hikes are more challenging and require extra care and planning.",
+    "seo": {
+      "title": "Mam Tor Cavedale Loop – 21.8 km Hard Hike in the Peak District, UK",
+      "meta_description": "Plan a 21.8 km hard loop on Mam Tor Cavedale in the Peak District. Rugged limestone terrain, long ascent, and spectacular views await hikers in the UK.",
+      "h1": "Mam Tor Cavedale Loop (High Peak) – 21.8 km Hard Hike"
+    }
   }
 }

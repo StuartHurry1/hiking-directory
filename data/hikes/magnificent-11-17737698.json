@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 17737698
+  },
+  "ai": {
+    "summary": "Magnificent 11 is a demanding 21.3 km hike in the UK that challenges stamina, navigation, and terrain handling. It rewards prepared hikers with long climbs, varied ground, and scenic views.",
+    "terrain_summary": "Varied terrain including grassy ascents, rocky sections, muddy trails, and potential boggy patches. Some routes may include scrambling and short exposed sections; weather can dramatically affect footing.",
+    "safety_notes": "Plan the route in advance and check the latest weather forecast. Carry a map and compass (GPS as a supplement), and ensure you know how to use them. Do not rely on mobile signal; inform someone of your plan and expected return. Start early to maximize daylight, stay hydrated, and carry extra food and layers. Bring a first aid kit, whistle, and emergency shelter; wear sturdy footwear and adjust pace to conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate layered clothing (base layer, insulating layer, and waterproof shell)",
+      "Map and compass (GPS as a supplement, not replacement)",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system (minimum 2–3 liters)",
+      "High-energy snacks and extra food",
+      "Lightweight emergency shelter or space blanket",
+      "First aid kit",
+      "Whistle, multitool, and repair kit",
+      "Trekking poles (optional but helpful on rocky or muddy sections)",
+      "Hat and gloves for variable UK weather"
+    ],
+    "best_seasons": "Best from March to October when daylight is longer and trails are generally drier. Winter hikes are possible but require advanced skills, shorter days, and more gear.",
+    "seo": {
+      "title": "Magnificent 11 – 21.3 km Hard Hike in the UK",
+      "meta_description": "Take on Magnificent 11, a challenging 21.3 km hike in the UK. Learn terrain, safety tips, and gear to plan your day on the trail.",
+      "h1": "Magnificent 11: A 21.3 km Hard Hike in the UK"
+    }
   }
 }

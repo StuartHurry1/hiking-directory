@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17642689
+  },
+  "ai": {
+    "summary": "The Lough Trail is a gentle 2.7 km hike in the UK, suitable for beginners and families. The route follows a lakeside path with mostly flat terrain, offering tranquil water views, wildlife, and a relaxed pace.",
+    "terrain_summary": "Expect mainly well-maintained paths with flat to gently rolling terrain. Surfaces include compact gravel, grassy tracks, and occasional boardwalks beside the lough. Some sections may be muddy after rain; good footwear is advised. Look out for reeds, birds, and open water views along the shore.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and dress in layers. Stay on marked trails, supervise children near the water, and be cautious on wet or muddy sections. Bring water, a light rain jacket, and a small first-aid kit. If visibility is poor or mobile signal is limited, plan accordingly.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trail shoes",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle",
+      "Light snack",
+      "Sunscreen and hat",
+      "Map or offline GPS (or fully charged phone)",
+      "Small first-aid kit",
+      "Optional binoculars for birds"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn when the weather is mild and scenery is at its best.",
+    "seo": {
+      "title": "Lough Trail – Easy 2.7 km Lakeside Hike in the UK",
+      "meta_description": "Explore the Lough Trail, a gentle 2.7 km hike along the UK lakeshore. Perfect for beginners and families, with flat terrain, scenic water views, and practical safety tips.",
+      "h1": "Lough Trail: Easy 2.7 km Lakeside Hike"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18562265
+  },
+  "ai": {
+    "summary": "A short, easy 2.2 km heritage walk along the Lye Town History Trail in the UK, suitable for most ages and fitness levels.",
+    "terrain_summary": "Mostly flat, well-paved paths with occasional narrow pavements near historic sites. Comfortable footwear recommended for minor uneven sections.",
+    "safety_notes": "Urban trail safety: watch for road crossings, other pedestrians, and temporary closures. Check the weather, carry water and a charged phone, and stay aware of your surroundings near historical sites.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Map or offline navigation on a smartphone",
+      "Light backpack",
+      "Hat and sunscreen for sunny days"
+    ],
+    "best_seasons": "Spring to autumn; enjoyable year-round with appropriate clothing for colder weather.",
+    "seo": {
+      "title": "Lye Town History Trail – Easy 2.2 km Heritage Walk in the UK",
+      "meta_description": "Discover the Lye Town History Trail, a short 2.2 km easy walk in the UK. Ideal for families and casual walkers, featuring local heritage sites along flat, well-maintained paths.",
+      "h1": "Lye Town History Trail – Easy 2.2 km Heritage Walk"
+    }
   }
 }

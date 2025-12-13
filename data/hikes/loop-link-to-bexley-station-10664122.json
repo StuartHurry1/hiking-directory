@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 10664122
+  },
+  "ai": {
+    "summary": "A tiny, easy loop hike connected to Bexley Station. This 0.3 km route is ideal for a quick stroll, families with young children, or a gentle break from daily routines. The loop stays close to urban paths with minimal elevation changes.",
+    "terrain_summary": "Predominantly flat and well-maintained paths. Expect paved sidewalks and compact gravel sections; some grassy edges along the loop. Very light elevation with smooth footing.",
+    "safety_notes": "Stay aware of cyclists and pedestrians on shared paths. Wear sturdy, comfortable footwear. In wet conditions, paths can be slippery. Keep to marked trails and carry a phone for emergencies. Check weather and daylight hours; plan accordingly.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat, sunscreen)",
+      "Phone with map or offline route"
+    ],
+    "best_seasons": "All year round; however, late spring to early autumn offers the most comfortable conditions.",
+    "seo": {
+      "title": "LOOP: Easy 0.3 km walk near Bexley Station, UK",
+      "meta_description": "Explore a short, easy 0.3 km loop linked to Bexley Station in the UK. Perfect for a quick stroll, families, and urban-friendly hiking.",
+      "h1": "LOOP: Easy 0.3 km Walk from Bexley Station"
+    }
   }
 }

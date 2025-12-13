@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12669872
+  },
+  "ai": {
+    "summary": "A short, easy loop of 1.6 km near Crayford Station in the UK, suitable for a quick, light walk from the station without challenging terrain.",
+    "terrain_summary": "Typically flat or gently level paths, located in urban parkland or along station-adjacent routes with well-maintained surfaces.",
+    "safety_notes": "Begin from Crayford Station and stay on marked paths; be mindful of nearby roads and pedestrian traffic. Maintain awareness of cyclists and other walkers. Check the weather and daylight hours before you go, as surfaces can become slick in rain. Bring a charged phone and a small amount of water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or offline map (optional)",
+      "Phone with charged battery",
+      "Sun protection (hat and sunscreen) if sunny"
+    ],
+    "best_seasons": "Year-round; spring and autumn are especially pleasant for this route.",
+    "seo": {
+      "title": "1.6 km Easy Loop Walk from Crayford Station, UK",
+      "meta_description": "Explore a short, easy 1.6 km loop near Crayford Station in the UK. Flat terrain, simple paths, and quick access from public transport.",
+      "h1": "1.6 km Easy Loop Walk from Crayford Station (UK)"
+    }
   }
 }

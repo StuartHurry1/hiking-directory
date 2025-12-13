@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19217200
+  },
+  "ai": {
+    "summary": "A short, easy 0.2 km riverside stroll in the UK. The path offers light scenery and the chance to observe passing boats; suitable for most fitness levels and a quick outdoor outing.",
+    "terrain_summary": "Flat towpath along a river or canal, typically surfaced with concrete or compact gravel. Sections can be damp or uneven near the water’s edge; watch your footing.",
+    "safety_notes": "Stay on the marked path and keep a safe distance from the water and any moving barges. Be mindful of other pedestrians and cyclists. Do not perform stunts or engage in 'man v barge' antics. Wear appropriate footwear and weather-appropriate clothing; in wet conditions surfaces may be slippery. Supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate jacket",
+      "Phone with emergency contact",
+      "Small first-aid kit",
+      "Sunscreen and hat (seasonal)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are typically best; winter travel is possible but can be cold, wet, and slippery.",
+    "seo": {
+      "title": "Man v Barge: Short 0.2 km UK Riverside Walk",
+      "meta_description": "Discover Man v Barge, a tiny, easy 0.2 km riverside hike in the UK. Terrain notes, safety tips, and what to bring for a quick outdoor outing.",
+      "h1": "Man v Barge: A Short Riverside Walk in the UK"
+    }
   }
 }

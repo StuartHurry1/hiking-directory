@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12665933
+  },
+  "ai": {
+    "summary": "A short, easy 1.6 km loop that starts and ends at Slade Green railway station in the UK. Suitable for all ages and ideal for a quick, relaxing stroll with urban scenery.",
+    "terrain_summary": "Predominantly paved and well-maintained paths with occasional grassy verges. Flat with gentle curves; some sections run alongside residential streets.",
+    "safety_notes": "Stay on designated paths, watch for cyclists and pedestrians, and keep clear of railway tracks and station platforms. Check weather conditions and wear suitable footwear; carry your phone for navigation.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with maps",
+      "Small daypack"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Easy 1.6 km Loop to Slade Green Station – UK Walk",
+      "meta_description": "Explore a short, easy 1.6 km loop near Slade Green Station in the UK. Flat terrain, urban scenery, and family-friendly pacing.",
+      "h1": "Loop to Slade Green Station – 1.6 km Easy Walk"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10664327
+  },
+  "ai": {
+    "summary": "A short, easy 1.5 km loop hike starting and ending near Hayes Station in the United Kingdom. Ideal for beginners and casual walkers, with gentle terrain and a quick outdoor escape.",
+    "terrain_summary": "Gentle, mostly flat to mildly undulating trails through urban greenspace and parkland. Expect well-maintained gravel, dirt, and some paved sections with occasional grassy stretches. Watch for other walkers and cyclists near crossings.",
+    "safety_notes": "Plan for daylight and weather; stay on established paths; remain aware of pedestrian and cyclist traffic at busy sections; cross streets safely and use crossings; carry a light or phone for navigation; bring basic first aid and water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate layers",
+      "Water bottle",
+      "Map or offline navigation",
+      "Sunscreen or hat",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Spring to Autumn; feasible year-round with proper clothing and daylight considerations.",
+    "seo": {
+      "title": "Easy 1.5 km Loop Hike from Hayes Station, UK",
+      "meta_description": "Discover a short, easy 1.5 km loop starting and ending at Hayes Station in the United Kingdom. Gentle terrain, beginner-friendly, with practical safety tips and gear.",
+      "h1": "Loop from Hayes Station – 1.5 km Easy Hike (UK)"
+    }
   }
 }

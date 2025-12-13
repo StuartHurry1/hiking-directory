@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 5977003
+  },
+  "ai": {
+    "summary": "Lovelace Bridges Trail is a 9.4 km moderate hike in the United Kingdom. The route follows ridgeline sections with expansive views, mixing grassy paths, rocky stretches and some steps. It offers a balance of exposure and shade, with steady ascents and descents, making it a rewarding day out for hikers comfortable with moderate elevation gain.",
+    "terrain_summary": "Ridge-top terrain with a mix of grassy trods, uneven soil, loose gravel, and rocky slabs. Expect occasional stone steps, damp patches, and exposed sections where visibility and footing can be affected by wind and weather; the route involves constant variation in gradient typical of ridge walks.",
+    "safety_notes": "- Check the weather forecast and daylight hours; ridge routes can become exposed to wind and rain quickly. - Wear sturdy, grippy hiking boots and consider trekking poles for stability. - Stay on marked paths and keep a safe distance from edges, especially in windy conditions. - Carry a map or GPS and ensure your phone is charged; know when to turn back. - Dress in layers with a waterproof outer shell; bring a hat and gloves if conditions are cold or wet. - Bring sufficient water and snacks; have a plan for short rest breaks and know your turnaround point.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 liters depending on conditions)",
+      "Windproof and waterproof jacket plus a warm layer",
+      "Breathable clothing, hat and sunglasses, sun protection",
+      "Map, compass or GPS device",
+      "Snack and energy supplies",
+      "Headlamp or flashlight with spare batteries",
+      "Lightweight emergency bivy or space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal for ridge hikes in the UK, offering longer daylight and generally drier conditions. Shoulder seasons can be beautiful but weather is more changeable; winter hikes are more challenging and require careful planning.",
+    "seo": {
+      "title": "Lovelace Bridges Trail – A 9.4 km Ridge Hike in the UK",
+      "meta_description": "Discover Lovelace Bridges Trail, a 9.4 km moderate ridge hike in the United Kingdom. Expect exposed ridges, scenic vistas, and varied terrain along the route.",
+      "h1": "Lovelace Bridges Trail Guide"
+    }
   }
 }

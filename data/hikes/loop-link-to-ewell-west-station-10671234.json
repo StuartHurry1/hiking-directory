@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10671234
+  },
+  "ai": {
+    "summary": "A short, easy circular walk of 0.8 km that starts and ends at Ewell West station. This light route weaves through nearby greenspace and residential streets, making it ideal for a quick stroll, families, or a gentle warm-up hike.",
+    "terrain_summary": "Mostly flat terrain with a mix of pavements, compact trails, and a little parkland. Includes a couple of road crossings and a few shared-use paths; suitable for beginners.",
+    "safety_notes": "Stay on marked paths and watch for cyclists and other pedestrians on shared routes. Cross at designated crossings near the station and be mindful of traffic in urban sections. Carry a light or wear reflective clothing in low light, and bring a small amount of water. Daylight can be limited in winter.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layering)",
+      "Light rain jacket",
+      "Water bottle",
+      "Mobile phone with offline map or map app",
+      "Small backpack or daypack"
+    ],
+    "best_seasons": "Best in spring and autumn for mild, comfortable conditions; it’s feasible year-round in the UK, just plan for shorter daylight hours in winter.",
+    "seo": {
+      "title": "Easy 0.8 km Loop from Ewell West Station | Short Circular Walk UK",
+      "meta_description": "Explore a quick 0.8 km easy loop starting and ending at Ewell West station, UK. Perfect for a family stroll or a gentle beginner hike.",
+      "h1": "Easy 0.8 km Loop from Ewell West Station"
+    }
   }
 }

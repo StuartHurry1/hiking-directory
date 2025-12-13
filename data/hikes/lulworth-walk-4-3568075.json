@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3568075
+  },
+  "ai": {
+    "summary": "Lulworth Walk 4 is an 11.9 km moderate hike in the UK, offering coastal scenery and varied terrain suitable for hikers with a reasonable fitness level.",
+    "terrain_summary": "The route combines coastal paths, grassy fields, and occasional rocky or uneven sections. Expect some gentle climbs, potential mud in wet weather, and exposed sea views.",
+    "safety_notes": "- Stay on marked trails and keep a safe distance from cliff edges. - Check weather and sea conditions before you go; coastal winds can be strong and conditions change quickly. - Bring adequate clothing, water, and food. - Carry a map or offline GPS and a charged phone. - Inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Map or offline GPS device and a charged phone",
+      "Sun protection (hat, sunscreen)",
+      "Snacks or energy bars",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best weather and sea views; summer provides longer daylight. Winter hikes can be windy, wet, and muddy with higher risk of icy ground.",
+    "seo": {
+      "title": "Lulworth Walk 4: 11.9 km Moderate Coastal Hike in the UK",
+      "meta_description": "Explore Lulworth Walk 4, an 11.9 km moderate hike in the UK. Learn about terrain, safety tips, gear, best seasons, and planning advice for this coastal trail.",
+      "h1": "Lulworth Walk 4 – 11.9 km Moderate Coastal Hike"
+    }
   }
 }

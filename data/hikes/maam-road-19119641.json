@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19119641
+  },
+  "ai": {
+    "summary": "Maam Road is an 8-kilometer moderately challenging hike in the United Kingdom. The route offers a mix of surfaces, including tracks and grassy paths, with gentle elevation and some uneven ground. Suitable for hikers with moderate fitness and basic navigation skills, it makes for a steady half-day outing.",
+    "terrain_summary": "The trail combines surfaced paths, compact tracks, and occasional grassy or uneven sections. Expect some mud, especially after rain, and modest elevation changes. Footing may be uneven in grassy sections and near road edges; weather can change quickly in the UK, so waterproof footwear and layer-friendly clothing are recommended.",
+    "safety_notes": "Carry a map or GPS, inform someone of your plan, and check local weather before departure. Stay on marked routes where possible, watch for traffic on road sections, and wear sturdy boots with good grip. Bring water, a small first-aid kit, and a light layer for cooler conditions; in poor visibility, consider a reflective jacket and a head torch for autumn/winter months.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass or GPS",
+      "Small first-aid kit",
+      "Headlamp or flashlight",
+      "Whistle for emergencies",
+      "Phone with emergency contact info"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) when daylight is longer and the weather is more predictable. In winter, conditions can be cold, wet, and slippery; ensure proper gear if attempting.",
+    "seo": {
+      "title": "Maam Road: 8 km Moderate Hike in the UK",
+      "meta_description": "Discover Maam Road, an 8 km moderately challenging hike in the United Kingdom. Terrain, safety tips, gear recommendations, and the best seasons for this trail.",
+      "h1": "Maam Road – 8 km Moderate Hike in the UK"
+    }
   }
 }

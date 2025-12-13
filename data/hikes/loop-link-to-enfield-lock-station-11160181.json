@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11160181
+  },
+  "ai": {
+    "summary": "A tiny, easy loop hike starting near Enfield Lock station in the UK, covering 0.4 km. It's ideal for a quick outdoor break, a family stroll, or a short riverside ramble along the Lee Navigation.",
+    "terrain_summary": "Flat, mostly surfaced paths along a riverside towpath with sections of boardwalk. Expect paved paths, occasional gravel, and a few shaded patches. Gentle, with no significant ascents.",
+    "safety_notes": "Stay on designated paths and be mindful of other pedestrians and cyclists on shared routes. Weather can make surfaces slippery when wet; wear appropriate footwear. Keep an eye on children near the riverbank, and carry a light layer for chilly days. Carry a phone or map for navigation and emergency contact.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate clothing",
+      "Water and snacks (optional for such a short route)",
+      "Map or offline navigation (phone with battery backup)",
+      "Sun protection in bright conditions (hat, sunscreen)",
+      "Small first aid kit"
+    ],
+    "best_seasons": "All year round; spring and summer offer the best conditions and scenery, but the route is short enough to enjoy in autumn or winter with suitable clothing.",
+    "seo": {
+      "title": "LOOP Walk from Enfield Lock Station – 0.4 km Easy UK Hike",
+      "meta_description": "Discover a 0.4 km easy LOOP near Enfield Lock station in the UK. Flat, riverside paths suitable for all ages. Practical safety tips and gear included.",
+      "h1": "Enfield Lock LOOP Walk (0.4 km) – Easy Short Hike"
+    }
   }
 }

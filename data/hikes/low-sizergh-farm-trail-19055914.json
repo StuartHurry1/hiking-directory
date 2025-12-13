@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19055914
+  },
+  "ai": {
+    "summary": "A 6.2 km moderate circular hike near Low Sizergh Farm in the UK. The route combines grassy farmland, woodland sections, and open countryside with modest elevation changes, suitable for walkers with a steady pace.",
+    "terrain_summary": "Primarily farm tracks and grassy paths with occasional uneven ground and small stiles. Some sections may be muddy after rain; expect gentle inclines and descents. Livestock may be present in pasture areas; keep gates closed.",
+    "safety_notes": "Check weather and daylight before setting out. Wear sturdy waterproof footwear and dress in layers. Stay on official paths, close gates behind you, and be mindful of livestock. Carry a map or GPS, sufficient water and snacks, and a charged phone. In wet conditions, paths can be very muddy and slippery; exercise caution on uneven ground.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Snacks",
+      "Map or GPS device",
+      "Light rain jacket or shell",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn (with generally good visibility and comfortable temperatures; winter can be muddy and conditions may be challenging)",
+    "seo": {
+      "title": "Low Sizergh Farm Trail – 6.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.2 km Low Sizergh Farm Trail in the UK. A moderate loop through farmland and woodland with countryside views. Practical tips, gear recommendations, and safety guidance.",
+      "h1": "Low Sizergh Farm Trail – 6.2 km Moderate Hike"
+    }
   }
 }
