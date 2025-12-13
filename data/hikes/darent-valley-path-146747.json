@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 146747
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Darent Valley in the UK, spanning approximately 141.9 km. Designed for experienced trekkers, the route traverses rural lanes, woodland, and riverbanks with varied terrain and elevation.",
+    "terrain_summary": "Expect a mix of rural tracks, woodland trails, riverbank paths, and occasional road sections. Surfaces range from well-maintained paths to uneven ground with gates, fences, and stiles; elevation changes can be substantial.",
+    "safety_notes": "Plan as a multi-day trek with solid navigation skills. The route crosses remote sections, so carry maps and a compass in addition to a GPS. Weather in the UK can change rapidly; bring waterproof layers, warm clothing, and sun protection. Ensure enough food and water for each day, and know access points for resupply or exit if needed. Wear sturdy boots, be cautious at road crossings and farm gates, and respect private property and livestock. Tell someone your itinerary and expected timings; in an emergency dial 999 or 112.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating layer",
+      "Backpack with waterproof cover",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "Water bottles or hydration bladder (2–3 L total)",
+      "High-energy snacks and meals",
+      "First aid kit",
+      "Multi-tool or knife",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Trekking poles",
+      "Emergency shelter or bivy sack (for contingencies)",
+      "Whistle",
+      "Personal ID and emergency contact card"
+    ],
+    "best_seasons": "May to September (late spring to early autumn) for longer daylight and typically drier conditions; shoulder months like April and October are possible with preparation for more rain and mud; winter trekking is generally more difficult due to shorter days and wetter weather.",
+    "seo": {
+      "title": "Darent Valley Path – 141.9 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan your trek along the Darent Valley Path, a challenging 141.9 km route in the UK. Explore terrain types, safety tips, essential gear, and the best seasons to walk this long-distance trail.",
+      "h1": "Darent Valley Path – 141.9 km Long-Distance Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19860083
+  },
+  "ai": {
+    "summary": "A short 2.5 km easy hike in the United Kingdom following a diversion due to cathedral path repairs. It is suitable for most walkers and designed to complete the leg while construction work is underway.",
+    "terrain_summary": "Mostly flat to gently undulating paths with a mix of paved and grassy surfaces. Expect construction diverts and occasional muddy patches near the diversion.",
+    "safety_notes": "Check local notices for the diversion and follow all signs. Wear waterproof footwear and warm clothing, as December weather can be cold and wet. Stay on the marked route, keep to daylight hours, and bring a charged phone. If dogs are allowed, keep them under control. Carry extra layers and a light source in case you finish after dusk.",
+    "recommended_gear": [
+      "Waterproof jacket and warm layers",
+      "Sturdy walking shoes or boots",
+      "Hat and gloves for December",
+      "Small daypack",
+      "Water bottle and a snack",
+      "Phone with map or offline access",
+      "Head torch or flashlight for late finishes",
+      "Personal identification and emergency details"
+    ],
+    "best_seasons": "Year round, with extra caution in winter due to shorter daylight and potential mud.",
+    "seo": {
+      "title": "Diversion for Cathedral Path Repairs - 2.5 km Easy Hike in the UK",
+      "meta_description": "A concise guide to a 2.5 km easy UK hike diverted for cathedral path repairs. Terrain, safety notes, and gear for a short, accessible walk.",
+      "h1": "Diversion for Cathedral Path Repairs: 2.5 km Easy Hike in the UK"
+    }
   }
 }

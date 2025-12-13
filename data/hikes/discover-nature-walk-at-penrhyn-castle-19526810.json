@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19526810
+  },
+  "ai": {
+    "summary": "A gentle 5.4 km nature walk around Penrhyn Castle in North Wales. Suitable for families and casual walkers, the route offers woodland scenery, river views, and castle overlooks on an easy, well-maintained circuit.",
+    "terrain_summary": "Predominantly flat to gently rolling terrain with well-maintained gravel and dirt paths. Some grassy sections and a few short steps near the castle grounds.",
+    "safety_notes": "Stay on marked paths and watch for uneven ground, roots, and low branches in the castle grounds. Weather in the UK can change quickly—bring a layer and waterproofs. Keep an eye on children and personal belongings, and be mindful of other visitors on busier days.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water and light snacks",
+      "Layered clothing and a waterproof jacket",
+      "Hat and sunscreen",
+      "Phone, map, and a small backpack",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better scenery; winter can be wet and daylight is shorter.",
+    "seo": {
+      "title": "Discover Nature Walk at Penrhyn Castle | Easy 5.4 km Trail in North Wales, UK",
+      "meta_description": "Explore an easy 5.4 km nature walk around Penrhyn Castle in North Wales. Family-friendly trails, woodland scenery, and castle views in the UK.",
+      "h1": "Discover Nature Walk at Penrhyn Castle"
+    }
   }
 }

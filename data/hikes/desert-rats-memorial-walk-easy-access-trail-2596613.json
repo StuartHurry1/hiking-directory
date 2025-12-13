@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2596613
+  },
+  "ai": {
+    "summary": "A short, 1.1 km memorial walk in the UK honoring the Desert Rats. The route is designed for easy access, suitable for most ages and mobility levels, and features a flat, well-maintained path with interpretive plaques about the Desert Rats and the surrounding site.",
+    "terrain_summary": "Predominantly flat and smooth, with tarmac or compact gravel surfaces and gentle grades. The trail is designed for easy access and is generally wheelchair and stroller friendly in dry conditions; expect occasional uneven patches and some shaded seating along the way.",
+    "safety_notes": "Check the weather before you go; surfaces can become slippery after rain. Wear sturdy, comfortable shoes and bring water. Stay on the designated path and respect memorial areas; observe any posted signs. Be mindful of other visitors, cyclists, and dogs; keep dogs on a leash. If mobility is limited, use available seating and consider assistance at crossings or on access routes. Carry a mobile phone for emergencies and know the local contact numbers for the site. If you have accessibility needs, contact local visitor information in advance to confirm route suitability.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection (hat, sunscreen)",
+      "Light backpack for essentials",
+      "Camera or smartphone for photos",
+      "Map or offline navigation (in case of patchy signal)",
+      "Power bank and emergency contact details"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions from late spring to early autumn.",
+    "seo": {
+      "title": "Desert Rats Memorial Walk Easy Access Trail – 1.1 km UK",
+      "meta_description": "Explore the 1.1 km Desert Rats Memorial Walk Easy Access Trail in the UK. An accessible, low-difficulty route with memorial plaques and flat surfaces, plus safety tips and gear to bring.",
+      "h1": "Desert Rats Memorial Walk Easy Access Trail (1.1 km)"
+    }
   }
 }

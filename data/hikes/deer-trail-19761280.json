@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19761280
+  },
+  "ai": {
+    "summary": "Deer Trail is a short, easy 4.3 km hike in the UK countryside, suitable for beginners and families, with gentle terrain and potential wildlife sightings along the route.",
+    "terrain_summary": "The route uses well-marked footpaths through grassy fields and light woodland. It is mostly flat with occasional gentle ascents; surface can be uneven and muddy after rain. Expect gates, hedgerows, and some sections of grass and earth.",
+    "safety_notes": "Wear sturdy footwear and bring weather-appropriate clothing. Check the forecast and daylight hours before you go. Stay on the marked path, watch for mud, uneven ground, gates, and nearby livestock. Carry water, a map or GPS, and a small first-aid kit. Let someone know your planned route and expected return time. Respect wildlife and keep a safe distance from any deer or other animals. Pack a light rain jacket as UK weather can be changeable.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Lightweight rain jacket",
+      "Map, compass or GPS (or offline maps)",
+      "Small backpack",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and Early Autumn",
+    "seo": {
+      "title": "Deer Trail – 4.3 km Easy Hike in the UK Countryside",
+      "meta_description": "Explore Deer Trail, a gentle 4.3 km hike in the UK countryside. Perfect for beginners and families, with flat to lightly undulating terrain and potential wildlife sightings.",
+      "h1": "Deer Trail – 4.3 km Easy Hike in the UK"
+    }
   }
 }

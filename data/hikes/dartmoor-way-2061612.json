@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2061612
+  },
+  "ai": {
+    "summary": "Dartmoor Way is a long-distance trekking route in the UK, covering approximately 868.7 km. It traverses Dartmoor’s moorlands and surrounding landscapes, featuring a demanding mix of exposed open terrain, rocky trails, peat bogs, and occasional road sections. Expect significant elevation, rapidly changing weather, and remote stretches that require careful planning, solid navigation, and good stamina.",
+    "terrain_summary": "Expect a varied mix of wide moorland, granite tors, muddy tracks, peat bogs, rocky trails, and occasional road sections. Surface quality ranges from well-marked paths to faint or overgrown routes; navigation can be challenging in mist or rain. Elevation gains are substantial, with steep ascents and long flats interspersed by wet, slippery sections and potential boggy ground.",
+    "safety_notes": "Plan for long days and variable weather. Carry navigation tools (map, compass, and GPS) and know how to use them; bring spare batteries. Start early to maximize daylight and avoid getting stranded. Carry ample water and a means to purify it; know water sources along the route. Wear sturdy waterproof boots and use trekking poles for stability on uneven ground. Inform someone of your itinerary, carry a whistle and a basic first aid kit, and consider a personal locator beacon for remote sections. In Dartmoor, weather can change quickly—be prepared for cold, wind, rain, and reduced visibility; respect restricted areas and local wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layered clothing (base, mid, outer layers)",
+      "Waterproof jacket and pants",
+      "Backpack (20–35L) with rain cover",
+      "Map and compass (and a GPS device as backup)",
+      "Water bottle or hydration bladder with water treatment options",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "First aid kit and emergency blanket",
+      "Emergency bivy or lightweight shelter",
+      "Whistle and multitool",
+      "Trekking poles",
+      "Sun protection (sunscreen, sunglasses)",
+      "Mobile power bank and charging cable"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions with longer daylight and more stable weather. Winter hiking is possible but demanding due to cold, mud, and shorter days.",
+    "seo": {
+      "title": "Dartmoor Way – 868.7 km Hard Hike in the UK",
+      "meta_description": "Plan your Dartmoor Way adventure: an 868.7 km hard-distance trek across Dartmoor in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Dartmoor Way: 868.7 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1754624
+  },
+  "ai": {
+    "summary": "Dava Way is a challenging long-distance trail in the UK, approximately 97.1 km in length, following a former railway line and delivering varied scenery from rural landscapes to woodland and riverside sections. Its hard rating reflects the distance and exposure to weather changes.",
+    "terrain_summary": "Primarily an old railway alignment converted for walkers, with long straight stretches and gentle grades. Surfaces range from compact gravel and surfaced paths to grassy tracks; expect mud after rain and occasional road crossings. The route can be exposed to wind and weather, making navigation and stamina important over multiple days.",
+    "safety_notes": "Plan for multi-day travel with daylight and route planning. The distance makes this a demanding hike; carry a map and compass (or GPS), a charged phone, and a clear communication plan. Check weather forecasts before setting out; UK conditions can change rapidly. Wear durable boots, stay hydrated, and bring layers for rain and cold. Inform someone of your itinerary and expected finish times; know access points for escape or bailout if needed. Have backup lighting and an emergency plan for overnight stops.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof/windproof jacket",
+      "Moisture-wicking base layers and mid-layer",
+      "Backpack with 20–30 L capacity",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Map and compass (or GPS device)",
+      "Fully charged phone and portable power bank",
+      "First aid kit and emergency blanket",
+      "Hat and gloves (seasonal)",
+      "Emergency bivy or lightweight shelter (for multi-day trips)",
+      "Duct tape, spare laces, and basic repair tools",
+      "Sunscreen and sunglasses",
+      "Dry bag or waterproof covers for gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is generally best for longer daylight hours and more reliable weather; winter hiking is possible with careful planning, but conditions can be harsh and days are shorter.",
+    "seo": {
+      "title": "Dava Way: UK 97.1 km Hard Hike Guide",
+      "meta_description": "Plan a multi-day walk along the Dava Way, a 97.1 km hard-distance trail in the UK. Learn about terrain, safety tips, and gear to prepare for the journey.",
+      "h1": "Dava Way – A 97.1 km Hard-Distance Trail Guide"
+    }
   }
 }

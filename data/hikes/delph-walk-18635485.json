@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18635485
+  },
+  "ai": {
+    "summary": "Delph Walk is a 4 km easy route in the UK suitable for beginners and families. The walk follows gentle paths through rural countryside, offering relaxed scenery and minimal ascent.",
+    "terrain_summary": "The terrain combines flat to gently undulating sections with a mix of compact paths, chalk lanes, and short grassy stretches. Most of the route is well-maintained but expect occasional mud after rain and small uneven patches.",
+    "safety_notes": "Check the weather forecast before you go, as UK conditions can change quickly. Wear sturdy footwear with good grip and bring waterproof clothing. Stay on marked paths, watch for traffic on rural lanes, and be mindful of livestock. Carry a map or a charged phone and let someone know your plan. Plan for daylight hours, especially in winter, and bring water and a small first-aid kit.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or fully charged phone with offline maps",
+      "Small first aid kit",
+      "Snack or energy bar",
+      "Sun protection (sunscreen and hat in sunny weather)",
+      "Lightweight rain cover or compact umbrella",
+      "Headlamp or flashlight (for low light conditions)"
+    ],
+    "best_seasons": "Spring to autumn; the route is pleasant in mild to warm conditions, but Delph Walk can be enjoyed year-round with proper clothing.",
+    "seo": {
+      "title": "Delph Walk - Easy 4 km Hike in the UK",
+      "meta_description": "Explore Delph Walk, a gentle 4 km easy hike in the UK. Learn about the terrain, safety tips, and essential gear for a relaxed countryside walk.",
+      "h1": "Delph Walk - Easy 4 km Hike in the UK"
+    }
   }
 }

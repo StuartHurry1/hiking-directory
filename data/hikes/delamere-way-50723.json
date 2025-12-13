@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 50723
+  },
+  "ai": {
+    "summary": "Delamere Way is a challenging long-distance hike in the UK, roughly 66.1 km in length, weaving through lakes and forested terrain. The route is best suited to experienced walkers who can handle long days, mixed surfaces, and variable weather. The region is not specified, but the hike runs in the UK and emphasizes lakes as a recurring theme.",
+    "terrain_summary": "The trail uses a mix of woodland tracks, grassy paths, and damp or muddy sections. Expect some exposed lakebank sections and minor ascents/descents; footing can be uneven with roots and stones. Navigation skills are useful in gaps where signs are sparse.",
+    "safety_notes": "Plan for a long day on varied terrain; carry a map and compass (or trusted GPS) and know how to use them. Check the weather forecast and daylight hours; UK weather can change quickly. Wear sturdy waterproof boots and layering; stay hydrated and carry snacks. Pack lightweight rain gear and a small first-aid kit; tell someone your route and expected finish time; avoid single points of failure and be mindful of rural wildlife and farmed land access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and waterproof outer shell",
+      "Backpack with route essentials and 2–3 L of water",
+      "Map and compass or GPS device; fully charged phone as backup",
+      "Headlamp or torch with extra batteries",
+      "First-aid kit and personal medications",
+      "High-energy snacks and a means to purify water",
+      "Emergency whistle and space blanket",
+      "Sunscreen, sunglasses, and a hat",
+      "Rain cover for your pack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and conditions are generally milder. The hike is possible year-round with proper gear and shorter daylight; winter conditions require careful planning and potentially shorter day routes.",
+    "seo": {
+      "title": "Delamere Way — 66.1 km Hard Hike in the UK (Lakes)",
+      "meta_description": "Plan your Delamere Way adventure. A challenging 66.1 km UK hike featuring lakes and forested terrain. Gear tips, safety notes, and best seasons for tackling this long-distance route.",
+      "h1": "Delamere Way: 66.1 km Hard Hike Through Lakes (UK)"
+    }
   }
 }

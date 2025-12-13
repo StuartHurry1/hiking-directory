@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18594742
+  },
+  "ai": {
+    "summary": "A short, easy 1.8 km historical walking tour through Digbeth and Deritend in the UK, highlighting industrial heritage, brick architecture, canals, and local landmarks.",
+    "terrain_summary": "Urban sidewalks with occasional cobbles and canal paths. Mostly flat, with some uneven pavements near historic sites.",
+    "safety_notes": "This is an easy urban walk with flat terrain. Watch for uneven pavements, road crossings, and any construction work. Stay aware of traffic, keep belongings secure, and dress for the weather; bring a light layer and water.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer of clothing",
+      "Hat and sunscreen (sunny days)",
+      "Phone with offline map or route guide",
+      "Small backpack or crossbody bag"
+    ],
+    "best_seasons": "Spring, Summer, or Autumn; best in mild, dry weather.",
+    "seo": {
+      "title": "Digbeth & Deritend History Tour — Easy 1.8 km Urban Walk in the UK",
+      "meta_description": "Explore Digbeth and Deritend on an easy 1.8 km history walk through Birmingham's industrial heritage, canal-side views, and historic landmarks.",
+      "h1": "Digbeth & Deritend History Tour — Easy 1.8 km Urban Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 5612599
+  },
+  "ai": {
+    "summary": "The Deeside Way is a long-distance trail in the United Kingdom spanning 234.6 km at a challenging pace, following the River Dee from Aberdeen north toward Ballater. This hard route exposes hikers to a mix of urban riverside sections, woodland paths, open countryside, and occasional remote stretches, requiring solid fitness, careful trip planning, and the ability to cope with variable UK weather.",
+    "terrain_summary": "Expect a mix of well-defined gravel paths, towpaths, forest tracks, grassy lanes, and occasional tarmac sections. Some segments run alongside roads; trails can be muddy after rain and may involve short ascents and gentle climbs. Navigation is straightforward in most parts but carrying a map or GPS is advisable due to remote stretches with limited facilities.",
+    "safety_notes": "Plan for multi-day trekking with potential long gaps between services. Check weather and daylight hours; carry navigation tools (map/compass or GPS) and inform someone of your itinerary. Pack enough water and high-energy food. Dress in layers and bring a waterproof outer layer. Be prepared for mud, boggy sections, and river crossings; in remote sections mobile signal may be limited. Follow local access guidelines, close gates after livestock, and respect wildlife and property. If weather turns severe, be prepared to shorten or abandon sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable base layers, a warm mid-layer, and a moisture-wicking outer shell",
+      "Waterproof and windproof jacket and pants",
+      "Rucksack with 40-60 L capacity and rain cover",
+      "Map and compass, or a GPS device with offline maps",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration reservoir (2-3 L) and water purification options",
+      "High-energy snacks and meals suitable for multi-day trekking",
+      "Lightweight tent or bivy sack, sleeping bag, and sleeping mat (for camping)",
+      "First aid kit and any personal medications",
+      "Emergency shelter or space blanket",
+      "Sun protection: sunscreen, sunglasses, hat",
+      "Insect repellent and mud socks",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to September) are typically best for Deeside Way, offering longer daylight, milder weather, and better trail conditions. Winter use is possible but challenging due to cold, rain, snow, and reduced daylight; plan accordingly.",
+    "seo": {
+      "title": "Deeside Way – 234.6 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan your 234.6 km trek along the Deeside Way in the United Kingdom. A challenging, varied long-distance hike with safety tips, gear lists, and best-season guidance.",
+      "h1": "Deeside Way: 234.6 km Hard-Distance Trail in the UK"
+    }
   }
 }

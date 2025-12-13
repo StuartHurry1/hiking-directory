@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 4178663
+  },
+  "ai": {
+    "summary": "A short and easy 1.2 km trail in the UK designed for dogs and their humans to enjoy light agility-style challenges along a flat, dog-friendly route.",
+    "terrain_summary": "Mostly flat, well-maintained paths with a mix of gravel, grass, and occasional compact earth. Surface is suitable for dogs and walkers; watch for roots or damp patches after rain.",
+    "safety_notes": "Keep dogs on a leash where required; bring water and dog waste bags; watch for other hikers and dogs; check weather conditions and wear suitable footwear; avoid extremely hot weather; supervise agility prompts and move slowly if your dog is new to agility elements.",
+    "recommended_gear": [
+      "Water bottle for you and your dog",
+      "Flat, comfortable footwear",
+      "Leash and collar",
+      "Dog waste bags",
+      "Small first aid kit for both human and dog",
+      "Towel or drying cloth",
+      "Treats or toys for motivation"
+    ],
+    "best_seasons": "Spring to Autumn; year-round visits are possible in the UK, with mild weather commonly preferred.",
+    "seo": {
+      "title": "Dog and Human Agility Trail – 1.2 km Easy UK Hike for Dogs and Humans",
+      "meta_description": "Discover a short 1.2 km easy dog-friendly trail in the UK, featuring agility-style elements for dogs and their humans. Ideal for a light outdoor outing with pets.",
+      "h1": "Dog and Human Agility Trail – 1.2 km Easy Hike in the UK"
+    }
   }
 }

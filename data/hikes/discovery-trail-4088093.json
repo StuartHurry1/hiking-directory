@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4088093
+  },
+  "ai": {
+    "summary": "Discovery Trail is an 8-kilometre moderate hike in the United Kingdom. The route runs through an unknown region and offers varied landscapes, including gentle climbs, open fields, and wooded sections. It suits hikers with some experience and reasonable fitness, provided they have proper footwear and weather-appropriate gear. The trail is non-technical but weather can change quickly, so be prepared.",
+    "terrain_summary": "The trail comprises well-marked paths with a mix of compacted earth, grass, and occasional rocky patches. Elevation gain is moderate, and footing can be uneven or slippery when wet. Distance is 8 km, with scenery ranging from open countryside to tree cover on certain sections.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy boots and dress in layers with a waterproof layer. Stay on marked trails and follow posted signs. Bring a map or GPS and ensure your phone is charged; mobile reception may be unreliable in unknown regions. Carry enough water and snacks, inform someone of your plans, and be prepared for changing conditions and wildlife.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps and a charged battery",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case you’re out after dark)",
+      "Hat, sunglasses, and sun protection",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Whistle and emergency contact information"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) generally offer the best conditions and views for this 8 km moderate trail; winter hiking is possible with extra caution due to mud, reduced daylight, and potential ice.",
+    "seo": {
+      "title": "Discovery Trail - 8km Moderate Hike in the UK",
+      "meta_description": "Explore the Discovery Trail, an 8-kilometre moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear to bring for a comfortable day on the trail.",
+      "h1": "Discovery Trail — 8km Moderate Hike in the UK"
+    }
   }
 }

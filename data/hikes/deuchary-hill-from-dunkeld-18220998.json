@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 18220998
+  },
+  "ai": {
+    "summary": "A demanding long-distance hike starting in Dunkeld, looping toward Deuchary Hill for a total distance of about 29.9 km. This hard route traverses rolling Perthshire countryside, exposed moorland, and rocky climbs, demanding stamina, good navigation, and reliable weather gear. Suitable for experienced hikers seeking a full-day challenge with scenic Scottish upland views.",
+    "terrain_summary": "Varied terrain including well-trodden paths, rough moorland, boggy sections, and rocky ascents. Expect open high ground with wind exposure and occasional steep steps. Navigation can be challenging in mist; carrying a map and compass (and a GPS as backup) is advisable.",
+    "safety_notes": "Scottish weather can change rapidly. Check the forecast, start early, and plan for a long day (8–12 hours). Tell someone your route and expected return time. Wear sturdy boots and bring weather-appropriate layers, waterproofs, and sun protection. Carry a first-aid kit, whistle, headtorch, extra food and water, and a fully charged phone with emergency contacts. If visibility is poor or conditions are unsafe, consider postponing or turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and over-trousers",
+      "Warm insulating layer (fleece or down)",
+      "Hat and gloves",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with offline maps",
+      "Food and water (3–4 L total)",
+      "Headlamp with spare batteries",
+      "Extra layers and emergency bivvy or space blanket",
+      "Small first-aid kit and personal medications",
+      "Whistle and sunscreen"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for more reliable weather and daylight. Be prepared for wind and rain at any time; winter hikes are possible but require advanced navigation and mountaineering experience.",
+    "seo": {
+      "title": "Deuchary Hill from Dunkeld – 29.9 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 29.9 km round hike from Dunkeld to Deuchary Hill in Scotland. Explore terrain, safety tips, gear lists, best seasons, and route overview for a strenuous day on the UK hills.",
+      "h1": "Deuchary Hill from Dunkeld – a hard 29.9 km hike"
+    }
   }
 }

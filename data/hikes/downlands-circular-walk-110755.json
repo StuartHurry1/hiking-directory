@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 110755
+  },
+  "ai": {
+    "summary": "A challenging 22.2 km circular hike in the UK that climbs rolling chalk downs and traverses exposed upland and countryside. The route combines long ascents, grassy tracks, hedged fields, and a few road crossings, making it a strenuous day out for fit hikers.",
+    "terrain_summary": "Varied terrain including long grassy downs, chalk tracks, uneven earth, and occasional mud; stiles and gates; exposed ridges in parts; some minor road crossings.",
+    "safety_notes": "Plan a long day with a weather-appropriate kit. Exposed sections can be windy and temperatures can change quickly on upland terrain. Wear sturdy waterproof boots and bring layered clothing, a waterproof jacket and trousers, and sufficient water and snacks. Carry a map and compass (GPS is helpful but don’t rely on it). Have a charged phone and an emergency layer; let someone know your route and expected finish time. Be mindful of livestock in fields and follow gates; expect muddy and slippery patches and allow extra time for a hard pace. In winter, daylight is limited—start early or shorten the route if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and high-energy snacks",
+      "Map and compass (or GPS)",
+      "Phone and portable charger",
+      "Waterproof jacket and trousers",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Whistle",
+      "Headlamp or flashlight (for late finishes)",
+      "Walking poles (optional)",
+      "Emergency space blanket"
+    ],
+    "best_seasons": "Spring to autumn; the route can be done year-round with proper gear, but winter conditions bring mud, ice, and shorter daylight.",
+    "seo": {
+      "title": "Downlands Circular Walk – 22.2 km Challenging UK Trail",
+      "meta_description": "Discover the Downlands Circular Walk: a 22.2 km challenging hike in the UK across rolling chalk downs. Accessibility, safety tips, gear recommendations, and best seasons.",
+      "h1": "Downlands Circular Walk – 22.2 km Challenging UK Hike"
+    }
   }
 }

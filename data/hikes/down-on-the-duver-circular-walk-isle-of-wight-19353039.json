@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19353039
+  },
+  "ai": {
+    "summary": "A 7.3 km circular coastal walk on the Isle of Wight, following the ridges and dunes around The Duver. Moderate difficulty with rewarding Solent views and varied terrain, suitable for hikers with some coastal-path experience.",
+    "terrain_summary": "Mix of coastal paths, grassy ridges, dunes and compacted dirt trails. Expect uneven surfaces, a few steps and possible mud after rain. Some exposed sections with sea winds; paths stay near the cliff edges in places—keep to marked routes.",
+    "safety_notes": "Stay on marked paths and keep away from cliff edges, especially near the Duver headland. Be aware of strong coastal winds and slippery surfaces after rain. Wear sturdy footwear, bring water and sun protection, and check tide times if parts of the route involve beaches. Keep children and pets under control; mobile reception may be patchy in parts.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water and lightweight snacks",
+      "Weather-appropriate clothing in layers plus a waterproof jacket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Map, compass or GPS device",
+      "Small first aid kit",
+      "Phone or camera for photos",
+      "Leash for dogs (if hiking with a dog)"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–October) offer milder weather and good coastal views; summer is busiest, while winter can be windy and exposed.",
+    "seo": {
+      "title": "Down on the Duver Circular Walk, Isle of Wight – 7.3 km Moderate Coastal Ridge Walk",
+      "meta_description": "Discover the 7.3 km Down on the Duver Circular Walk on the Isle of Wight. A moderate coastal hike featuring ridges, dunes, sea views, and practical safety tips.",
+      "h1": "Down on the Duver Circular Walk (Isle of Wight)"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15571643
+  },
+  "ai": {
+    "summary": "Drake Walk is a short, easy 2.8 km hike in the UK designed for beginners and families. The route follows gentle, well-maintained paths with minimal elevation, offering a relaxed outdoor experience.",
+    "terrain_summary": "Flat to gently rolling terrain along well-kept footpaths and grassy verges. Expect some sections to be uneven or muddy after rain; footwear with good grip is recommended.",
+    "safety_notes": "Even on an easy trail, monitor weather conditions and wear sturdy footwear. Stay on marked paths, bring water, and carry a simple map or GPS device. In wet or windy conditions, surfaces can be slippery; take your time and avoid steep or uneven sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Light rain cover or umbrella",
+      "Map or GPS device",
+      "Fully charged phone with emergency contact information"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions in the UK, with milder weather and longer daylight. The walk is still doable in winter with appropriate footwear and layers.",
+    "seo": {
+      "title": "Drake Walk: Easy 2.8 km Hike in the UK",
+      "meta_description": "Discover Drake Walk, an easy 2.8 km hike in the UK. Learn about terrain, safety, best seasons, and gear for a relaxed outdoor outing.",
+      "h1": "Drake Walk – Easy 2.8 km Hike in the UK"
+    }
   }
 }

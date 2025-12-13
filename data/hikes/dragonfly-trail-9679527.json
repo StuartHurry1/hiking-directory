@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9679527
+  },
+  "ai": {
+    "summary": "Dragonfly Trail is a short, easy 1.2 km hike in the United Kingdom designed for beginners and families. The route offers gentle terrain and occasional shaded stretches with opportunities for wildlife viewing, making it a pleasant introduction to outdoor walking.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with gentle grades. Expect some damp or uneven spots after rain and occasional loose gravel; surfaces are mostly grassy or packed earth, suitable for casual walkers.",
+    "safety_notes": "Suitable for most ages and abilities if the weather is good. Wear sturdy footwear and bring weather-appropriate clothing. Stay on marked paths, check local conditions, and carry water. Be aware of insects and potential ticks in longer grass, and avoid stepping into wetlands or private property without permission.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing and a light waterproof jacket",
+      "Water bottle",
+      "Snack or energy bar",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Map, guidebook, or smartphone with offline maps"
+    ],
+    "best_seasons": "All year round in the UK, with particularly pleasant conditions in spring and summer when trails are dry and wildlife is active.",
+    "seo": {
+      "title": "Dragonfly Trail - Easy 1.2 km Hike in the UK",
+      "meta_description": "Discover the Dragonfly Trail, a short and easy 1.2 km hike in the UK. Perfect for beginners and families, featuring gentle paths and wildlife views.",
+      "h1": "Dragonfly Trail: Easy 1.2 km Hike in the UK"
+    }
   }
 }

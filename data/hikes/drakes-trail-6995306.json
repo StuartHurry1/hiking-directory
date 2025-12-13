@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 6995306
+  },
+  "ai": {
+    "summary": "Drakes Trail is a challenging 18.4 km hike in the UK. The route is designed for experienced walkers and features varied terrain, with sections that may be rugged, uneven, and include elevation changes.",
+    "terrain_summary": "Expect a mix of grassy moorland, forest tracks, rocky outcrops, and muddy footpaths. Surfaces can be uneven with stiles and potential steep sections. Weather in the UK can change rapidly, so waterproof footwear and layered clothing are advisable.",
+    "safety_notes": "Plan the hike for daylight hours and inform someone of your route and expected finish time. Wear sturdy boots, carry a map or GPS, bring water and snacks, and have a basic first aid kit. Check the forecast and be prepared for mud, wind, or rain. Carry a charged phone and an emergency whistle. In remote sections, navigation skills are important; consider hiking with a companion.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and warm layers",
+      "Backpack with water, snacks, and extra clothing",
+      "Map and compass (or GPS) and/or a navigation app",
+      "Water and high-energy snacks",
+      "Headtorch or flashlight with spare batteries",
+      "Personal first aid kit",
+      "Emergency whistle",
+      "Sunscreen, sunglasses, and a hat",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October) are ideal; with proper gear the trail can be hiked year-round, but winter conditions increase risk.",
+    "seo": {
+      "title": "Drakes Trail – 18.4 km Hard Hike in the UK",
+      "meta_description": "Explore Drakes Trail, a challenging 18.4 km hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Drakes Trail: 18.4 km Hard UK Hike"
+    }
   }
 }

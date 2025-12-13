@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4765388
+  },
+  "ai": {
+    "summary": "The Droitwich Spa Diamond Jubilee Walk is a challenging 21.7 km hike in the United Kingdom, designed for experienced walkers seeking a demanding route with varied landscapes and potential road sections. The terrain can be rough and moderate elevation changes may occur.",
+    "terrain_summary": "Expect a mix of grassy and muddy trails, hedged lanes, byways, and some roads. Terrain can be uneven with stiles and occasional wet sections, especially after rain. Navigation is straightforward but map awareness helps.",
+    "safety_notes": "Wear sturdy waterproof boots and appropriate clothing. Check weather and daylight hours; carry a map and compass or GPS. Stay on marked paths, be mindful of livestock and road crossings, and bring a charged phone and emergency contacts. Hydrate regularly and know your limits; plan for short breaks and turnback if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and windproof jacket",
+      "Fleece or insulating layer",
+      "Map and compass or GPS device",
+      "Hydration system or water bottle (2–3 liters)",
+      "Energy snacks or meals",
+      "Hat and sunscreen",
+      "Headlamp or flashlight",
+      "First aid kit with blister care",
+      "Whistle and emergency contact card",
+      "Mobile phone with offline maps",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for best daylight and weather. Winter visits are possible but require extra caution due to shorter days and potentially muddy or icy conditions.",
+    "seo": {
+      "title": "Droitwich Spa Diamond Jubilee Walk – 21.7 km Hard Hike in the UK",
+      "meta_description": "Discover the 21.7 km Droitwich Spa Diamond Jubilee Walk in the UK. A demanding route for experienced hikers with varied terrain, road sections, and rural scenery.",
+      "h1": "Droitwich Spa Diamond Jubilee Walk — 21.7 km (Hard)"
+    }
   }
 }

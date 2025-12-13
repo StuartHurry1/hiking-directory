@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11142195
+  },
+  "ai": {
+    "summary": "Dragonfly route is a short, easy 2 km hike in the UK. Designed for casual walkers and families, it offers gentle terrain and a chance to enjoy local scenery and wildlife.",
+    "terrain_summary": "Primarily flat or gently undulating paths on well-maintained surfaces. Expect grassy or gravel sections, occasional mud after rain, and occasional boardwalks or compact paths.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check the forecast and daylight hours; UK weather can change quickly. Stay on marked paths, watch for mud, and be mindful of other walkers and cyclists. Carry water and a small snack, and supervise children. Respect wildlife and give space to birds and animals. If crossing roads, use designated crossings and stay visible.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing (layers and a rain jacket)",
+      "Water bottle",
+      "Snacks",
+      "Small backpack",
+      "Phone with offline map or GPS",
+      "Light first aid kit",
+      "Sunscreen and a hat (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn; typically best with mild weather and daylight, though it can be enjoyed year-round with appropriate clothing.",
+    "seo": {
+      "title": "Dragonfly route - Easy 2 km hike in the UK",
+      "meta_description": "Discover the Dragonfly route, a short and easy 2 km hike in the UK. Ideal for families and beginners seeking a gentle, scenic walk.",
+      "h1": "Dragonfly route - Easy 2 km hike in the UK"
+    }
   }
 }

@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19338050
+  },
+  "ai": {
+    "summary": "Discover Dansbury Trail is a 10.1 km coastal hike around the Isle of Wight, offering sea views, cliffside sections and a moderate pace suitable for hikers with some experience.",
+    "terrain_summary": "Primarily coastal path with a mix of chalky tracks, compacted soil and occasional wooden boardwalks. Expect uneven surfaces, exposed sections along the headland, and potential mud after rain. Tidal and weather conditions can affect footing.",
+    "safety_notes": "Check tide times and stay clear of unstable cliff edges. Weather along the coast can change rapidly; dress in layers and carry a waterproof layer. Wear sturdy footwear, bring a map or GPS, and have enough water and snacks. If hiking solo, inform someone of your route and expected finish time. Be mindful of strong winds on exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and light snacks",
+      "Weather-appropriate clothing (layers) and a waterproof jacket",
+      "Map or GPS device; fully charged phone",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen) and, if needed, rain protection",
+      "Emergency whistle",
+      "Lightweight backpack to carry gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and clearer coastal views. Summers can bring stronger winds along exposed sections; winter hikes are possible but require extra caution and preparation.",
+    "seo": {
+      "title": "Discover Dansbury Trail on the Isle of Wight – 10.1 km Coastal Hike (Moderate)",
+      "meta_description": "Embark on a 10.1 km coastal hike on the Isle of Wight. Discover Dansbury Trail combines sea views, varied terrain, and a moderate route for walkers with some experience.",
+      "h1": "Discover Dansbury Trail: A 10.1 km Coastal Hike on the Isle of Wight"
+    }
   }
 }

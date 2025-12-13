@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1394447
+  },
+  "ai": {
+    "summary": "D'Arcy Dalton Way is a demanding long-distance hike in the United Kingdom, spanning 563.5 km. The route traverses a mix of rural lanes, moorland, woodlands, river valleys, and occasional coastal or inland sections. Expect significant elevation changes and multi-day trekking; the trail suits experienced hikers with good navigation skills and sturdy footwear. Plan ahead for accommodation or camping, variable weather, and rest days as needed.",
+    "terrain_summary": "Terrains range from smooth country lanes and farm tracks to boggy moorland, heath, forest trails, and intermittent road sections. Expect uneven surfaces, mud, rocky patches, and occasional steep ascents. Navigation by map and compass is recommended, with GPS as a backup.",
+    "safety_notes": "This is a long, hard hike requiring careful preparation. Always share your itinerary with someone and check in on completion. Carry a current map and compass; GPS is useful but can fail. Check the forecast and be prepared for rapid UK weather changes, including rain, wind, and cold nights. Plan for rest days or accommodation stops, ensure adequate nutrition and hydration, and have a means of communication in emergencies. Wear sturdy waterproof boots, bring multiple layers, weather-appropriate outerwear, sun protection, a first aid kit, and a whistle.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Layered clothing (base layer, mid-layer, insulating layer) and a warm hat",
+      "Backpack with rain cover (40–60 L)",
+      "Map and compass (GPS as backup)",
+      "Hydration system and/or water bottles; water purification method",
+      "High-energy food and snacks for multi-day sections",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Emergency shelter or bivy sack; lightweight sleeping bag if camping",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best combination of daylight and milder weather in the UK; however, conditions are variable and hikers should be prepared for rain and wind throughout the year. Winter hiking is possible but significantly more challenging.",
+    "seo": {
+      "title": "D'Arcy Dalton Way: 563.5 km UK Hard-Distance Trail",
+      "meta_description": "Plan your adventure on the D'Arcy Dalton Way, a 563.5 km hard-distance hike across diverse UK landscapes. Get terrain, safety tips, gear lists, and best seasons.",
+      "h1": "D'Arcy Dalton Way – UK Long-Distance Hiking Route (563.5 km)"
+    }
   }
 }

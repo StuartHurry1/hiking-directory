@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 59776
+  },
+  "ai": {
+    "summary": "Delamere Way (alternative) is a short, easy lakeside hike in the UK. The route covers about 1.2 km and is suitable for beginners, featuring gentle paths and scenic water views around lakes.",
+    "terrain_summary": "Mostly flat or gently undulating trails, with surfaced paths near the lakes. Occasional muddy stretches after rain; expect some exposed edges near water.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy footwear and bring a light rain jacket. Stay on marked paths and watch for muddy or uneven sections. Keep a safe distance from water edges and supervise children. Be mindful of other trail users, including cyclists on shared sections. Carry a charged phone and know the local emergency number.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or offline GPS",
+      "Sun protection (sunscreen, hat)",
+      "Small backpack",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Delamere Way (alternative) – Easy 1.2 km Lakes Hike in the UK",
+      "meta_description": "Explore a short, easy 1.2 km hike along the Delamere Way (alternative) in the UK. Ideal for beginners seeking lakeside scenery and a gentle stroll.",
+      "h1": "Delamere Way (alternative) – Easy Lakes Walk"
+    }
   }
 }

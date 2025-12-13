@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1996027
+  },
+  "ai": {
+    "summary": "A challenging 18.2 km circular hike starting and finishing near Deddington East, UK. The route traverses rural lanes, fields, and wood margins, with varied terrain and several ascent sections, making it suitable for experienced walkers with good navigation.",
+    "terrain_summary": "Primarily rural paths and farm tracks with a mix of grassy field edges, mud, and occasional tarmac. Expect uneven footing, stiles, short ascents, and possible boggy sections after rain. Navigation is straightforward on rights of way, though hedgerows can obscure markers in places.",
+    "safety_notes": "Weather in the UK can change quickly; check forecasts before setting out. Wear sturdy boots with good grip and bring waterproof clothing. Stay on public rights of way, watch for livestock, and have a map or GPS and a charged phone. Carry sufficient water and energy snacks, and plan the timing to avoid being on exposed paths after dark. Let someone know your route and expected return. In winter, daylight is limited and paths may be icy or very muddy; reconsider if conditions are poor.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing and a waterproof jacket",
+      "Map and compass or offline GPS",
+      "Fully charged phone and portable charger",
+      "Water and high-energy snacks",
+      "Hat, sunscreen, and sunglasses",
+      "Lightweight rain cover or packable poncho",
+      "First aid kit",
+      "Walking poles (optional but helpful)",
+      "Headtorch or flashlight (in case of late finish)"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to October) offers the best conditions for this route. Summer is often dry but can be overgrown; winter hikes are more challenging due to mud, shorter daylight, and reduced visibility.",
+    "seo": {
+      "title": "Deddington Circular Walk East – 18.2 km Hard UK Hike",
+      "meta_description": "Discover the Deddington Circular Walk East, an 18.2 km hard hike through rural UK countryside. Practical safety tips, terrain insights, and gear recommendations.",
+      "h1": "Deddington Circular Walk — East (18.2 km)"
+    }
   }
 }

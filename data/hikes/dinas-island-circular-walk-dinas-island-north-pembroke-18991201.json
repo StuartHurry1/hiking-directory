@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18991201
+  },
+  "ai": {
+    "summary": "Dinas Island Circular Walk is an 11.1 km coastal circuit in the UK, offering a moderate challenge with varied terrain and sea views around Dinas Island in North Pembrokeshire. The route combines grassy uplands, rocky sections and exposed coast, returning to the start via well-marked paths.",
+    "terrain_summary": "A coastal trail with a mix of grassy lanes, rocky outcrops and uneven footing. Expect exposed sections with narrow paths, some climbs and descents, and potential mud after rain. Parts may have sea-washed edges along the coastline.",
+    "safety_notes": "Check weather forecasts and tide times before setting out. Stay on marked paths, keep a safe distance from cliff edges, and be prepared for sudden changes in wind or rain. Wear sturdy footwear and carry a map or GPS, water, snacks, a basic first-aid kit, a whistle, and a fully charged phone. Inform someone of your plans and turn back if conditions become unsafe.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and/or GPS device (or a charged phone with offline maps)",
+      "Water and high-energy snacks",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Whistle and basic first aid kit",
+      "Extra layer for warmth",
+      "Head torch or waterproof bag for electronics (optional)",
+      "Tide-aware navigation if a coastal crossing is involved"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer milder, drier weather and longer daylight; spring is ideal for wildflowers, while autumn provides quieter trails but weather can be variable.",
+    "seo": {
+      "title": "Dinas Island Circular Walk - 11.1 km Moderate Coastal Hike in the UK",
+      "meta_description": "Plan your Dinas Island Circular Walk: an 11.1 km moderate coastal hike with cliff-top views, varied terrain and practical safety tips for spring to autumn in the UK.",
+      "h1": "Dinas Island Circular Walk – 11.1 km Moderate Coastal Hike"
+    }
   }
 }

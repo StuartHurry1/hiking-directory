@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 2349936
+  },
+  "ai": {
+    "summary": "Dog Falls Trail is a short, easy 3.3 km hike in the United Kingdom that follows a woodland path to a picturesque waterfall. The route is suitable for families and casual hikers, with a gentle grade, shaded sections, and close-up views of the falls.",
+    "terrain_summary": "Primarily a well-maintained dirt path with gentle elevation changes. Expect some muddy patches after rain and occasional slippery rocks near the waterfall. Footing is generally good, but wet conditions can require careful footing.",
+    "safety_notes": "Wear sturdy footwear with good grip. Stay on the marked trail, and be cautious on wet rocks near the waterfall. Sudden weather changes can affect visibility and trail conditions; check local forecasts. Keep children and dogs under close supervision. Let someone know your planned return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and extra layers",
+      "Lightweight backpack",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case of late return)",
+      "Trekking poles (optional)",
+      "Camera or phone for photos"
+    ],
+    "best_seasons": "Spring to autumn are ideal due to pleasant weather and reduced mud; winter visits are possible but can be cold, wet, and slippery, with shorter daylight hours.",
+    "seo": {
+      "title": "Dog Falls Trail - Easy 3.3 km Waterfall Hike in the UK",
+      "meta_description": "Explore Dog Falls Trail, an easy 3.3 km hike in the United Kingdom featuring a scenic waterfall. Get terrain details, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Dog Falls Trail: Easy 3.3 km Waterfall Hike"
+    }
   }
 }

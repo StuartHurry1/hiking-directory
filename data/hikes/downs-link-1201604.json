@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1201604
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Downs Link in the UK, spanning 188.6 km. The route combines canal towpaths, quiet country lanes, and occasional field paths. Classified as hard, it demands stamina and thorough planning across multiple days, making it ideal for experienced hikers who enjoy lengthy, steady walking with occasional urban touches.",
+    "terrain_summary": "Most of the route runs along canal towpaths with smooth surfaces (tarmac or compact gravel), interspersed with rural paths, grassy verges, and some muddy sections after rain. Expect long flat stretches by the water, with occasional gentle ascents and short, stony sections. Locks, bridges, and farm gates may require brief detours; navigation is straightforward along the canal, but some side sections can be overgrown or uneven.",
+    "safety_notes": "Plan for multi-day trekking with overnight stops; carry maps or a GPS device and a fully charged phone. Check weather and daylight hours; canal edges can be slippery, especially after rain—keep a safe distance from the water. Share your itinerary with someone, carry a basic first-aid kit, a whistle, and know emergency numbers. Ensure proper footwear, adequate food and water (2–3 litres per day depending on heat), and appropriate layers. In remote segments, have an emergency plan and know where to seek help.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable jacket and pants",
+      "Layered clothing for changing conditions",
+      "Wide-brimmed hat and sun protection",
+      "Map, compass, or GPS device",
+      "Fully charged phone with offline maps",
+      "Power bank and charging cable",
+      "Sufficient water capacity (2–3 litres) and high-energy snacks",
+      "First aid kit tailored to longer hikes",
+      "Headlamp or lightweight flashlight",
+      "Emergency whistle and space blanket or bivvy sack",
+      "Lightweight shell or pack rain cover",
+      "Trekking poles (optional but helpful)",
+      "Small repair kit, tape, and spare laces"
+    ],
+    "best_seasons": "Spring to autumn (March–October) are optimal, offering longer daylight and generally better weather; summer can be hot and busy in towns along the route; winter walking is possible but challenging due to mud, shorter days, and potential closures.",
+    "seo": {
+      "title": "Downs Link: 188.6 km UK Long-Distance Hike",
+      "meta_description": "Plan a challenging 188.6 km hike along the Downs Link in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding long-distance trail.",
+      "h1": "Downs Link: 188.6 km Long-Distance Hike in the UK"
+    }
   }
 }

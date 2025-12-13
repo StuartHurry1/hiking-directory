@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 5544307
+  },
+  "ai": {
+    "summary": "A gentle 5.7 km starter walk around Diss town, designed for beginners and families. The route travels through quiet streets and parkland, with flat terrain and occasional gentle slopes, offering easy-to-follow waypoints and pleasant town views.",
+    "terrain_summary": "Mostly level pavements and quiet lanes with a mix of park paths. The walk is predominantly flat with short gentle gradients; expect occasional uneven gravel or grass edges if you choose optional detours.",
+    "safety_notes": "This is a short, easy walk, but be mindful of local traffic on town streets, watch for pedestrians and cyclists, and follow local signage. Wear sturdy shoes, check the forecast, bring water, and carry a phone with maps or offline route data. If walking with children, keep them supervised near roads and parks.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Hat and sunscreen (in sunny weather)",
+      "Layered clothing for variable UK weather",
+      "Phone with maps or offline route"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this short, flat walk. Summer offers longer daylight; winter walks are possible on dry, calm days but expect colder conditions and potential icy patches.",
+    "seo": {
+      "title": "Diss Town Starter Walk – 5.7 km Easy Walk in the UK",
+      "meta_description": "Discover a gentle 5.7 km walk around Diss, UK. An easy, beginner-friendly route through town streets and parks with practical safety tips and gear.",
+      "h1": "Diss Town Starter Walk – A Gentle 5.7 km Introductory Trek"
+    }
   }
 }

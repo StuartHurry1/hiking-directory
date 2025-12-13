@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 8047728
+  },
+  "ai": {
+    "summary": "The Dollis Valley Greenwalk is a long-distance trail in the UK, extending about 41.9 km along the Dollis Brook in North London. It blends woodland paths, riverside sections, and parkland with varied surfaces and several longer stretches that demand good stamina. The route is classified as hard due to distance, mixed terrain, and potentially muddy conditions; thorough planning and navigation are essential.",
+    "terrain_summary": "Expect mixed surfaces: tarmac and gravel in park and urban sections, with muddy dirt paths and uneven trails along the brook in woodland areas. There are gentle to moderate hills interspersed with long flat sections; some parts may be exposed to weather and can be slippery after rain. Urban access points require attention to pedestrians and road crossings.",
+    "safety_notes": "This is a hard route that may require staging into multiple days; carry a detailed map or GPS and know planned exit points. Wear sturdy, waterproof footwear and layered clothing; monitor weather and daylight hours, and carry sufficient water and food. Be mindful of busy city sections and road crossings, and note that remote woodland stretches may have limited services. Watch for ticks in grassy areas and check local advisories for reservoir or park closures.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof outer layer",
+      "Backpack with rain cover",
+      "Map and/or GPS device, plus a fully charged phone",
+      "Water and high-energy snacks",
+      "Hat, gloves, and sun protection",
+      "First aid kit and any personal medications",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle and small multi-tool",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–November) are most favorable; winter hiking is possible but expect mud, shorter daylight hours, and more closures.",
+    "seo": {
+      "title": "Dollis Valley Greenwalk – 41.9 km Hard-Distance Trail in the UK",
+      "meta_description": "Explore the Dollis Valley Greenwalk, a challenging 41.9 km route along the Dollis Brook in North London, UK. Learn about terrain, safety tips, best seasons, and gear for hikers.",
+      "h1": "Dollis Valley Greenwalk – 41.9 km Hard Trail in the UK"
+    }
   }
 }

@@ -19,5 +19,24 @@
   "source": {
     "type": "osm",
     "osmId": 19262728
+  },
+  "ai": {
+    "summary": "A gentle 2.2 km loop around Derwent Water and through Cockshot Wood, offering easy lakeside scenery and a flat, accessible route suitable for families, prams, and casual walkers in the UK.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with gravel and compact woodland trails. The majority is easy for wheelchairs and prams, but there are occasional uneven sections near the water and tree roots.",
+    "safety_notes": "Slip hazards when wet; weather in the UK can be changeable—bring a layer and waterproof if rain is forecast. Stay on marked paths, be mindful of other walkers and cyclists on shared sections, and supervise children near the water's edge.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Phone with maps or offline access",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "All year, with spring and autumn offering milder conditions and pleasant scenery; summer can be busier, and winter may bring wind and shorter daylight hours.",
+    "seo": {
+      "title": "Derwent Water and Cockshot Wood Accessible Loop – 2.2 km Easy Hike in the UK",
+      "meta_description": "Discover a short, easy 2.2 km loop around Derwent Water and Cockshot Wood in the UK. Ideal for families and casual walkers seeking a gentle lakeside stroll.",
+      "h1": "Derwent Water and Cockshot Wood Accessible Loop – 2.2 km Easy Hike"
+    }
   }
 }

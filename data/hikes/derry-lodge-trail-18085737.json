@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18085737
+  },
+  "ai": {
+    "summary": "Derry Lodge Trail is described as an easy, short hike in the United Kingdom. The distance is listed as 0 km in the provided details, suggesting a very short loop or an accessible stroll suitable for beginners and families seeking a relaxed outdoor experience.",
+    "terrain_summary": "The terrain is described as easy with gentle, well-defined paths. Expect a mix of compact gravel and grassy sections with minimal elevation gain, making it suitable for a relaxed walk and slow-paced exploration.",
+    "safety_notes": "Always check current weather before you go; UK weather can change rapidly. Stay on marked paths, tell someone your plan, and bring essentials such as water, snacks, and a basic first-aid kit. Wear sturdy footwear and dress in layers; be prepared for rain and cooler winds.",
+    "recommended_gear": [
+      "Water bottle",
+      "Weather-appropriate clothing and extra layers",
+      "Sturdy footwear",
+      "Map or GPS device",
+      "Phone with offline map",
+      "Snacks",
+      "Lightweight rain jacket",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn generally offer the most comfortable conditions for outdoor walks in the UK, but the trail can be enjoyed year-round with appropriate clothing and planning.",
+    "seo": {
+      "title": "Derry Lodge Trail - Easy UK Hike",
+      "meta_description": "Explore the Derry Lodge Trail in the UK. An easy, beginner-friendly hike with gentle terrain—perfect for a quick, relaxed outdoor outing.",
+      "h1": "Derry Lodge Trail – Easy UK Hike"
+    }
   }
 }

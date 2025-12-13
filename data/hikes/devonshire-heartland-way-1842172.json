@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1842172
+  },
+  "ai": {
+    "summary": "The Devonshire Heartland Way is a hard, long-distance hike in the UK covering about 124.9 km. The route traverses rural countryside, rolling hills, and mixed terrain, requiring good fitness, careful planning, and reliable navigation to complete over multiple days.",
+    "terrain_summary": "Expect a varied mix of farm lanes, muddy tracks, woodlands, open moorlands, and occasional exposed ridges. Terrain ranges from damp earth and grass to stony paths; frequent ascents and descents demand stamina.",
+    "safety_notes": "Check the weather forecast before each stage; UK conditions can change rapidly. Carry OS maps and a compass or a reliable GPS; don't rely on phone signal alone. Inform someone of your itinerary and expected finish times. Bring sufficient food, water, and a means of water purification. Wear sturdy waterproof boots, layer clothing, and protect against sun and wind. Be prepared for navigation challenges on unmarked sections and have a plan for shelter if you get caught out.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weatherproof jacket and warm layers (windproof shell, fleece or down)",
+      "Breathable base layers and extra socks",
+      "Map (OS map) and compass; GPS as backup",
+      "Headlamp with spare batteries",
+      "Hydration system or water bottles and water purification method",
+      "High-energy food and snacks",
+      "First aid kit and emergency whistle",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Emergency blanket or bivy sack",
+      "Lightweight tent or emergency shelter (optional for multi-day trips)",
+      "Trekking poles",
+      "Multi-tool or knife",
+      "Dry bags or waterproof stuff sacks",
+      "Phone charger/portable power bank"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–October) are ideal for milder weather and daylight; summer offers long days but can be hotter and busier; winter hiking adds significant risk and is suitable only for experienced walkers with proper gear.",
+    "seo": {
+      "title": "Devonshire Heartland Way – 124.9 km Hard-Distance Hike in the UK",
+      "meta_description": "Plan and prepare for the Devonshire Heartland Way, a challenging 124.9 km long-distance trail in the UK. Explore terrain, safety notes, gear recommendations, and best seasons.",
+      "h1": "Devonshire Heartland Way"
+    }
   }
 }

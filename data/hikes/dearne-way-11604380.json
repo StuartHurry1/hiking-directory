@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 11604380
+  },
+  "ai": {
+    "summary": "Dearne Way is a challenging 77 km long-distance hike in the UK, best tackled as a multi-day trek. The route requires good fitness, navigation, and the ability to endure varying weather and terrain. Expect rural farmland, hedgerows, and occasional moorland sections, with significant elevation changes and potential mud underfoot.",
+    "terrain_summary": "The hike combines mixed rural tracks, grassy paths, gravel lanes, and occasional moorland stretches. Expect uneven surfaces, cattle byres, soft peat, and possible boggy sections after rain. Some road crossings and longer stretches of exposure mean you should be prepared for changing conditions and navigation challenges.",
+    "safety_notes": "Plan multi-day logistics with daylight hours in mind. Carry a map and compass (or GPS), and know how to navigate in open countryside. Tell someone your itinerary. Weather in the UK can be highly variable; bring waterproof gear and warm layers. Stay hydrated, pack extra food, and have emergency shelter and a means of communication. Be mindful of livestock, fells, and wet boggy ground that can be slippery.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and trousers",
+      "Thermal layers / insulating mid-layer",
+      "Hat and gloves (seasonal)",
+      "Backpack with rain cover",
+      "Map and compass (or GPS)",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Water bottle or hydration system + electrolyte drinks",
+      "High-energy snacks / meals",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Spare socks and basic repair kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are the best times for Dearne Way, offering longer daylight and generally milder conditions. Summer can bring warmer days but also unpredictable showers; winter walking is possible only with careful planning, more gear, and shorter daily stages.",
+    "seo": {
+      "title": "Dearne Way Hiking Guide: 77 km Hard-Distance UK Trail",
+      "meta_description": "Plan your Dearne Way trek: a 77 km hard route through UK countryside. Get terrain overview, safety tips, gear list, and best seasons for this challenging long-distance hike.",
+      "h1": "Dearne Way: 77 km Hard-Distance UK Trail"
+    }
   }
 }

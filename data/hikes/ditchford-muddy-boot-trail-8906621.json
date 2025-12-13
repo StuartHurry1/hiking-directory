@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8906621
+  },
+  "ai": {
+    "summary": "A short, easy 3.5 km hike in the UK along a muddy trail that can be wet and slippery. Suitable for families and beginner hikers, it offers countryside scenery with minimal elevation gain and a quick outdoor outing.",
+    "terrain_summary": "Predominantly rural paths with muddy, soft ground; expect wet sections and potential puddles after rain. The route is generally flat with gentle terrain and occasional narrow tracks.",
+    "safety_notes": "Weather in the UK can change quickly; wear waterproof footwear and bring a layer. Stay on marked paths, watch for muddy sections and standing water, and allow extra time after rain. Let someone know your plan and check local conditions before you go.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Snacks",
+      "Map or offline navigation device",
+      "Phone with charged battery",
+      "Small first-aid kit",
+      "Optional walking poles"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (Winter can be muddy and conditions vary).",
+    "seo": {
+      "title": "Ditchford Muddy Boot Trail — Easy 3.5 km Hike in the UK",
+      "meta_description": "Explore the Ditchford Muddy Boot Trail, a short and easy 3.5 km hike in the UK. Learn about terrain, safety tips, and gear for muddy conditions.",
+      "h1": "Ditchford Muddy Boot Trail – 3.5 km Easy Hike in the UK"
+    }
   }
 }

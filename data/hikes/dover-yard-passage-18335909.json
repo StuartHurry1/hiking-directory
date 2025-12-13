@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 18335909
+  },
+  "ai": {
+    "summary": "A very short, easy hike along Dover Yard Passage in the United Kingdom. At just 0.1 km, it’s a quick urban stroll suitable for beginners and families.",
+    "terrain_summary": "Flat, paved surface typical of an urban passage. Minimal elevation change with potential curb edges near entrances.",
+    "safety_notes": "Even on a short walk, watch for other pedestrians and uneven or slick surfaces. Wear comfortable shoes, dress for the weather, and keep to the path.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light jacket or layer",
+      "Water bottle (optional for such a short distance)",
+      "Phone or map for navigation"
+    ],
+    "best_seasons": "All year; best in mild, dry conditions (spring to autumn).",
+    "seo": {
+      "title": "Dover Yard Passage – Easy 0.1 km Hike in the UK",
+      "meta_description": "Explore Dover Yard Passage with this ultra-short, easy 0.1 km hike in the UK. Practical safety tips, gear suggestions, and season guidance.",
+      "h1": "Dover Yard Passage – Easy 0.1 km Hike in the UK"
+    }
   }
 }

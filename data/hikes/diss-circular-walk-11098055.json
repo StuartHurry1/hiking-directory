@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11098055
+  },
+  "ai": {
+    "summary": "Diss Circular Walk is a demanding 18.6 km loop in the UK that blends rural lanes, fields, and hedgerows. Rated hard, this route rewards experienced hikers with sustained length, varied terrain, and potential mud; good navigation and fitness are essential.",
+    "terrain_summary": "Expect mixed terrain: quiet country lanes, grassy field margins, muddy sections after rain, and occasional stiles. Surfaces can be uneven and slopes may be gradual but persistent, with hedgerows and farmland requiring careful gate and livestock awareness.",
+    "safety_notes": "Always check weather and daylight; start early in winter. Wear sturdy, waterproof boots and carry appropriate layers. Bring a detailed map or offline navigation and ensure your phone is charged. Carry sufficient water and high-energy snacks, plus a small first-aid kit and a whistle. Inform someone of your planned route and expected return. Take care on road sections and watch for traffic; close gates behind you. Be mindful of livestock, field conditions, and gates or stiles. Be prepared for sudden weather changes and mud; bring a waterproof layer and spare socks. If you feel lost, stop at a known point and retrace your steps or seek assistance.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and warm layers",
+      "Map and compass or offline navigation device",
+      "Fully charged mobile phone and power bank",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Whistle",
+      "Headlamp or flashlight",
+      "Emergency blanket or extra warm layer",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen, hat, and sunglasses",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring and Autumn are typically best for moderate weather and better path conditions; Summer offers longer daylight but can be hotter and busier; Winter may bring more mud, cold conditions, and harder navigation.",
+    "seo": {
+      "title": "Diss Circular Walk – 18.6 km Hard Hike in the UK",
+      "meta_description": "Discover the 18.6 km Diss Circular Walk in the UK. A challenging loop through rural countryside with muddy fields, lanes, and hedgerows. Practical safety tips and gear guide for hikers.",
+      "h1": "Diss Circular Walk: A 18.6 km Hard Circular Route in the UK"
+    }
   }
 }

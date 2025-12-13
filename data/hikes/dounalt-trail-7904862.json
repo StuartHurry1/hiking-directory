@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 7904862
+  },
+  "ai": {
+    "summary": "Dounalt Trail is a demanding 33.2 km hike in the United Kingdom, designed for experienced trekkers. It combines a long distance with varied terrain and changing weather, offering a challenging day on the trail with rewarding views for those prepared for a full day or multi day trek.",
+    "terrain_summary": "Expect a mix of rugged tracks, rocky ascents, open moorland, and boggy sections. Some portions are exposed with wind and uneven ground, while other stretches pass through woodland. Navigation can be required in remote areas where waymarkers are sparse.",
+    "safety_notes": "Plan for a long day and check the forecast before you go. Carry a map and compass (or a reliable GPS) and know how to use them. Wear sturdy boots and dress in layered, weatherproof clothing. Bring sufficient food and water, plus a means to treat water. Never hike alone if possible; tell someone your route and expected return time. Be prepared for sudden weather changes, and be ready to turn back if conditions worsen. Pack a basic first aid kit, emergency shelter or space blanket, whistle, and a fully charged phone.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and breathable shell jacket and windproof layer",
+      "Moisture-wicking base layers and insulating mid-layer",
+      "Hat, gloves and extra socks",
+      "Map and compass (and/or GPS) and offline navigation tools",
+      "Fully charged phone with offline maps",
+      "Headlamp or torch with extra batteries",
+      "Trekking poles",
+      "Water (at least 2 liters) and high-energy snacks",
+      "Emergency blanket or lightweight emergency shelter",
+      "First aid kit",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Plastic bags or dry sack for protecting electronics"
+    ],
+    "best_seasons": "Late spring to early autumn, roughly May to September, when daylight is longer and weather is more stable. Winter hikes are possible but require extra planning and shorter routes.",
+    "seo": {
+      "title": "Dounalt Trail: 33.2 km Hard Hike in the UK",
+      "meta_description": "Explore Dounalt Trail, a hard 33.2 km hike in the UK. Learn about terrain, safety tips, best seasons, and gear for this demanding route.",
+      "h1": "Dounalt Trail: 33.2 km Hard Hike in the UK"
+    }
   }
 }

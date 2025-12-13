@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1069633
+  },
+  "ai": {
+    "summary": "The Derby Nomad Way is a challenging long-distance hike in the UK, covering 275.5 km at a hard difficulty. The route traverses a mix of rural lanes, woodlands, and open moorland, demanding stamina, navigation, and preparedness for variable UK weather.",
+    "terrain_summary": "Expect a mix of terrain: surfaced roads and farm tracks, muddy footpaths, dense woodland, and occasional exposed moorland climbs. Elevation gains can be substantial in places, and some sections may be poorly waymarked or subject to flooding after rain.",
+    "safety_notes": "Plan the route in manageable stages and allow for rest days as needed. Check weather forecasts and daylight hours; carry a map and compass (or a reliable GPS) and know how to use them. Inform someone of your itinerary and expected return. Stay hydrated, carry enough food, and have a means to treat water. Wear sturdy boots and layered clothing; be prepared for rain, wind, and cold. Be mindful of livestock and rights of way on shared paths. If camping, follow Leave No Trace and local regulations; carry a lightweight emergency shelter. In remote sections, consider travel companions or signaling devices; know emergency numbers for the UK (999/112).",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing with a waterproof jacket and trousers",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Mobile power bank and charging cable",
+      "Water bottles or hydration system",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency shelter (bivy sack or lightweight tent)",
+      "Trekking poles (optional)",
+      "Personal safety items (ID, emergency contacts, whistle)"
+    ],
+    "best_seasons": "May–September offer the most typical UK hiking conditions; spring and autumn can be pleasant but expect rain and mud, so pack accordingly.",
+    "seo": {
+      "title": "Derby Nomad Way – 275.5 km UK Long-Distance Trail",
+      "meta_description": "Explore the Derby Nomad Way, a hard 275.5 km hike in the UK. Get terrain, safety notes, essential gear, and best seasons for this challenging route.",
+      "h1": "Derby Nomad Way: 275.5 km UK Long-Distance Trail"
+    }
   }
 }

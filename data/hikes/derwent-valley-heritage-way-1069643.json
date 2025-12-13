@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 1069643
+  },
+  "ai": {
+    "summary": "Derwent Valley Heritage Way is a strenuous 453.2 km long-distance trail in the UK that follows historic Derwent valley routes and riverside paths. Designed for experienced hikers, it requires careful planning, steady miles, and solid navigation over multiple stages. The route traverses a mix of landscapes, from tranquil riverbanks and farmland to woodland and upland moor, with occasional road sections and heritage sites along the way.",
+    "terrain_summary": "The path combines riverside towpaths, canal and country lanes, forest tracks, open moorland, and steep, uneven segments. Expect muddy surfaces after rain, rocky steps in places, and long ascents that offer wide views. The route includes both sheltered woodland sections and exposed uplands, so weather can be variable and navigation should be prepared for a few less clearly marked stretches.",
+    "safety_notes": "Carry detailed maps and a reliable navigation method, as some segments are not continuously waymarked. Plan for variable UK weather, including rain and chilly conditions; pack layers and waterproofs. Break the journey into staged days with sufficient daylight; avoid long day trips in winter when daylight is short. Be prepared for road detours, livestock on farm paths, and occasional private land access restrictions. Inform someone of your itinerary and carry emergency contacts. Have a plan for food and water across long sections and know how to manage fatigue and sun exposure.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and overtrousers",
+      "Warm layers (fleece/polartec) and a hat",
+      "Backpack with rain cover",
+      "Physical map and compass or GPS with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care supplies",
+      "Water bottles or hydration system and water purification method",
+      "High-energy food and snacks for multi-day stretches",
+      "Portable stove and lightweight cooking gear if camping",
+      "Tent or bivy sack and sleeping bag suitable for season",
+      "Sleeping mat and compact tent pegs",
+      "Trekking poles",
+      "Emergency whistle and small multi-tool",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Mobile phone with charger or power bank and emergency contacts",
+      "External power bank and weather-appropriate gear for wind and cold"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to October) offers the most favorable weather, longer daylight, and easier trail conditions in the UK. Be prepared for rain and cooler conditions year-round; plan for rapidly changing weather and occasional autumn closures.",
+    "seo": {
+      "title": "Derwent Valley Heritage Way – 453.2 km UK Long-Distance Trail",
+      "meta_description": "Plan your trek along the Derwent Valley Heritage Way, a challenging 453.2 km route in the UK. Learn about terrain, safety, best seasons, and gear for this hard-distance hike.",
+      "h1": "Derwent Valley Heritage Way: A 453.2 km UK Long-Distance Trail"
+    }
   }
 }

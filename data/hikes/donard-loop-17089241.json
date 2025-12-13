@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17089241
+  },
+  "ai": {
+    "summary": "Donard Loop is a 9.8 km circular hike in the UK rated as moderate. The route combines forest trails, gentle ascents, and some rocky sections, with scenic views over the surrounding landscape. Suitable for hikers with moderate fitness and some hill experience.",
+    "terrain_summary": "The hike runs along forest tracks, grassy lanes, and exposed ridgelines. Expect a mix of well-made paths, occasional rocky steps, and some wet or boggy sections, especially after rain. Elevation gain is moderate, with a few steeper stretches that reward with views.",
+    "safety_notes": "Check the weather forecast; upland winds can be strong and temperatures cooler. Wear sturdy, waterproof hiking boots and dress in layers. Stay on marked paths, be mindful of boggy ground, and keep to the left on narrow sections. Plan for shorter daylight hours in winter and carry a map or offline navigation, a charged phone, light, first aid basics, and a whistle. Let someone know your plan and return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Waterproof jacket and an insulating layer",
+      "Hat and gloves (seasonal)",
+      "Map, compass, or offline GPS",
+      "Phone with portable charger",
+      "Small first aid kit",
+      "Whistle",
+      "Headlamp or trekking light (if hiking late)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October); winter conditions can be harsher and navigationally challenging.",
+    "seo": {
+      "title": "Donard Loop Hike – 9.8 km Moderate Trail in the UK",
+      "meta_description": "Explore the 9.8 km Donard Loop, a moderate UK hike featuring forest paths, rocky sections, and panoramic views. Gear tips, safety notes, and best seasons.",
+      "h1": "Donard Loop – 9.8 km Moderate Hike"
+    }
   }
 }

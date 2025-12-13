@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17089224
+  },
+  "ai": {
+    "summary": "Drinneevar Loop is a gentle 4.5 km circular hike in the UK, ideal for a relaxed day outdoors. The route features easy terrain, modest elevation, and countryside views, making it suitable for beginners and families.",
+    "terrain_summary": "Mostly well-made paths with grassy meadows and packed earth. Occasional gravel sections and sections that may be muddy after rain. Expect gentle undulations rather than steep climbs; ground can be uneven near gates or stiles.",
+    "safety_notes": "Wear sturdy footwear with good grip. Check the weather and daylight hours before you go. Stay on the marked path; close gates behind you and watch for livestock. Carry water and a snack. In winter, plan for shorter daylight and potentially slippery ground. Let someone know your plans if hiking solo.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Map or GPS device",
+      "Snack",
+      "Sun hat and sunscreen",
+      "Small first aid kit",
+      "Phone with emergency contact"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter visits are possible but require extra caution due to mud and reduced daylight.",
+    "seo": {
+      "title": "Drinneevar Loop - Easy 4.5 km Hike in the UK",
+      "meta_description": "Discover Drinneevar Loop, a 4.5 km easy circular hike in the UK. Enjoy gentle terrain, scenic countryside, and practical safety tips for a relaxed outdoor experience.",
+      "h1": "Drinneevar Loop – Easy 4.5 km Hike in the UK"
+    }
   }
 }

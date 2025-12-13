@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7904864
+  },
+  "ai": {
+    "summary": "Doll Trail is a short, easy 4 km hike in the UK suitable for beginners and families, featuring a gentle route on mostly well-maintained paths.",
+    "terrain_summary": "Flat to gently rolling terrain with well-marked paths. Surfaces may include packed dirt, gravel, and short grassy sections; expect occasional mud after rain; low elevation gain.",
+    "safety_notes": "Check the forecast and wear weather-appropriate clothing. Wear sturdy, grippy shoes. Stay on marked paths, carry a map or GPS, and bring a charged phone. Let someone know your route and expected return time. Stay hydrated, be mindful of other walkers and livestock, and observe local wildlife. In icy or wet conditions, take extra care.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy waterproof footwear",
+      "Light layers and waterproof jacket",
+      "Map or GPS device/fully charged phone",
+      "Hat and sunscreen (summer)",
+      "Snack/light meal",
+      "Rain protection",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the most comfortable hiking conditions in the UK, though the route can be enjoyed year-round with proper gear and caution.",
+    "seo": {
+      "title": "Doll Trail: Easy 4 km Hike in the UK",
+      "meta_description": "Discover Doll Trail, a gentle 4 km hike in the UK. This easy route is ideal for beginners and families, with practical safety tips and gear suggestions.",
+      "h1": "Doll Trail – Easy 4 km Hike in the UK"
+    }
   }
 }

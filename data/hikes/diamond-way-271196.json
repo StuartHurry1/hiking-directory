@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 271196
+  },
+  "ai": {
+    "summary": "Diamond Way is a demanding long-distance hike in the United Kingdom, covering approximately 238.7 km. It challenges endurance with sustained distances, varied terrain, and significant elevation gains, making it suited to experienced hikers.",
+    "terrain_summary": "The route traverses a mix of countryside, upland moorland, woodlands, and potential coastal or urban segments. Expect rolling hills, exposed ridges, and frequent changes in surfaces, including tracks, grassy paths, and stony trails.",
+    "safety_notes": "This is a hard, long-distance trek; plan for multi-day travel and rest if needed. Check weather forecasts—the UK weather can change rapidly, especially in upland sections. Navigation is essential: carry a map and compass and don't rely solely on smartphones; have a GPS backup. Tell someone your itinerary and consider a personal locator beacon for remote segments. Bring enough water and high-energy food; refill points may be scarce in remote sections. Wear sturdy footwear and carry layered clothing plus a waterproof outer layer; include a hat and gloves for colder conditions. Pack a basic first-aid kit, blister care, a whistle, and emergency shelter; know how to use them. Stay on marked paths where possible and respect local access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and a waterproof outer shell",
+      "Hat and gloves",
+      "Water bottles or a hydration reservoir with ample capacity",
+      "Map and compass (and/or GPS with offline maps)",
+      "Headlamp with extra batteries",
+      "Emergency whistle and basic first-aid kit",
+      "Blister care supplies (moleskin, blister pads, tape)",
+      "High-energy food and snacks for multiple days",
+      "Lightweight stove or hot beverage option (optional, depending on planning)",
+      "Emergency shelter or space blanket",
+      "Rain cover for your backpack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is generally best for the Diamond Way in the UK, offering longer daylight and milder weather, though hikers should be prepared for sudden weather changes and shorter days in some sections.",
+    "seo": {
+      "title": "Diamond Way — 238.7 km Hard Trek in the UK",
+      "meta_description": "Conquer the Diamond Way, a challenging 238.7 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and best seasons for this long-distance trek.",
+      "h1": "Diamond Way — 238.7 km Hard Trek in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9550535
+  },
+  "ai": {
+    "summary": "An easy 4.2 km coastal stroll in Dawlish, UK, offering scenic seafront views, a relaxed town route, and gentle terrain suitable for most walkers.",
+    "terrain_summary": "Predominantly flat, paved promenades along the Dawlish coast, with short sections on town streets. Expect some curb edges and occasional gravel paths near the sea wall.",
+    "safety_notes": "- Suitable for most ages and fitness levels; bring a map or use a phone GPS. - Be mindful of pedestrians on busy promenades and cyclists on shared paths. - Check tide times and sea spray risk along the seafront. - Stay hydrated; if visiting pubs, designate a driver or use public transport. - Wear sturdy shoes and bring a light layer for Atlantic breezes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunglasses",
+      "Phone with offline map",
+      "Small backpack",
+      "Sunscreen"
+    ],
+    "best_seasons": "Spring through autumn for the most pleasant coastal walking; summer offers beach-friendly weather, while winter can be windy and cooler.",
+    "seo": {
+      "title": "Dawlish Ale Trail: Easy 4.2 km Coastal Walk in Dawlish, UK",
+      "meta_description": "Explore the Dawlish Ale Trail — an easy 4.2 km coastal walk in Dawlish, UK. Flat terrain, sea views, and practical tips for a relaxed day out.",
+      "h1": "Dawlish Ale Trail – Easy 4.2 km Coastal Walk"
+    }
   }
 }

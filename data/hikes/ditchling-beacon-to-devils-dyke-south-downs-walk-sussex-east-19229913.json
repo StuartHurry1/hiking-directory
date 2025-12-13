@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19229913
+  },
+  "ai": {
+    "summary": "Long-distance linear hike along the South Downs from Ditchling Beacon to Devil's Dyke in Sussex, UK, covering about 40.2 km. A hard day (or multi-day) route with rolling chalk uplands, sweeping views, and varying terrain.",
+    "terrain_summary": "Primarily chalk downland with rolling ridges and long grassy paths. Expect exposed hilltops, uneven footing on chalk, stile gates, and occasional muddy sections in wet weather. The route includes ascents and descents between Ditchling Beacon and Devil's Dyke, with panoramic views over the South Downs and surrounding countryside.",
+    "safety_notes": "Plan as a long day or break into stages; check the weather and daylight hours. Mobile signal can be patchy on the downs, so carry a map and compass as backups. Start early to avoid finishing after dark; bring ample water and high-energy food; wear sturdy footwear and appropriate layers for wind and rain. Be prepared for sudden weather changes and strong winds on exposed ridges; follow official waymarkers and gates, and watch for livestock and farm traffic.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Map and compass (and/or GPS with offline maps)",
+      "Water for the day (2–3 liters) and electrolytes",
+      "High-energy food and snacks",
+      "Layered clothing, including a waterproof/windproof jacket",
+      "Hat, sunglasses, and sunscreen",
+      "Headlamp or torch (in case finishing after sunset)",
+      "First aid kit and basic repair kit",
+      "Whistle and emergency contact information",
+      "Phone with spare battery or power bank",
+      "Lightweight emergency shelter or space blanket (optional)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and clearer views; summer provides long daylight hours but can be hot and busy. Winter hikes are possible with extra warmth, waterproofing, and caution for mud and wind on exposed sections.",
+    "seo": {
+      "title": "Ditchling Beacon to Devil's Dyke: South Downs Walk (40.2 km) – Hard Hike in Sussex, UK",
+      "meta_description": "Tackle a 40.2 km hard day hike along the South Downs from Ditchling Beacon to Devil's Dyke in Sussex, UK. Terrain overview, safety tips, and gear guidance for this iconic chalk-downs route.",
+      "h1": "Ditchling Beacon to Devil's Dyke – South Downs Walk (40.2 km)"
+    }
   }
 }

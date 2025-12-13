@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3644261
+  },
+  "ai": {
+    "summary": "The Dart Valley Trail is a demanding long-distance hike in the United Kingdom, spanning 86.1 km with varied terrain and significant elevation. This hard route rewards experienced hikers with remote landscapes, river valleys, and long days on the trail.",
+    "terrain_summary": "Expect a mix of rocky paths, forest tracks, grassy ascents, and river crossings. Elevation changes can be substantial, including steep climbs and descents. Weather in the UK can affect footing, so be prepared for mud, exposed ridges, and sudden changes.",
+    "safety_notes": "Plan for multi-day trekking with adequate daylight. Carry a map and compass and know how to navigate if visibility drops. Check weather forecasts, inform someone of your itinerary, and have a navigation backup. Pack extra layers, waterproofs, sturdy footwear, a first aid kit, and a means to signal for help. Stay hydrated, snack enough energy, and be prepared for remote sections with limited services.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Rucksack with rain cover",
+      "Map and compass (GPS as backup)",
+      "Headlamp or flashlight",
+      "Extra layers (fleece, thermal top)",
+      "Hydration system or water bottles",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Whistle and emergency blanket",
+      "Trekking poles",
+      "Sun protection (hat, sunscreen)",
+      "Emergency shelter or bivy"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to September) offer the most favorable weather and daylight. Winter and late autumn hikes are possible only for experienced hikers equipped for harsher conditions and shorter days.",
+    "seo": {
+      "title": "Dart Valley Trail – 86.1 km Hard-Distance Trek in the UK",
+      "meta_description": "Explore the Dart Valley Trail, an 86.1 km challenging long-distance hike in the United Kingdom. Learn about terrain, safety tips, and essential gear for this demanding trek.",
+      "h1": "Dart Valley Trail – 86.1 km Hard-Distance Trek in the UK"
+    }
   }
 }

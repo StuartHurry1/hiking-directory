@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 11505560
+  },
+  "ai": {
+    "summary": "Draft Line is a very short, easy hike in the UK, covering just 0.2 km. Suitable for all ages and fitness levels, it serves as a quick outdoor connection or urban nature stroll.",
+    "terrain_summary": "Flat, well-maintained path with minimal elevation. Likely paved or compact gravel surface, suitable for strollers and wheelchairs on most segments.",
+    "safety_notes": "Even on short routes, be aware of other pedestrians and cyclists. Check weather forecast before starting; daylight hours and visibility can vary. Stay on marked paths, watch for uneven surfaces, and carry a phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Phone with emergency contact",
+      "Sunscreen or hat (for sun)"
+    ],
+    "best_seasons": "Year-round practicality in the UK; spring and autumn offer milder temperatures, while winter can be windy and wet and summer can be warmer but brief.",
+    "seo": {
+      "title": "Draft Line – Easy 0.2 km Hike in the UK",
+      "meta_description": "Explore a quick, easy 0.2 km hike in the UK. Draft Line offers a short, flat walk suitable for all ages with simple safety tips and essential gear.",
+      "h1": "Draft Line: Easy 0.2 km Hike in the UK"
+    }
   }
 }

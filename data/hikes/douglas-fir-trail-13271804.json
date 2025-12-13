@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13271804
+  },
+  "ai": {
+    "summary": "Douglas Fir Trail is a short, easy 2.8 km forest walk in the UK, offering a pleasant circuit through Douglas fir woodland with gentle terrain.",
+    "terrain_summary": "Primarily a well-maintained woodland path with a mostly flat to gently rolling profile. The surface is usually firm but can become muddy after rain. Expect shaded sections and occasional tree roots near the route.",
+    "safety_notes": "Always check the day’s weather and wear sturdy footwear. Stay on marked paths, mind slippery leaves after rain, and watch for uneven ground. Carry water and a light layer for changing conditions. Let someone know your plan, bring a map or offline navigation, and have a charged phone for emergencies. Be mindful of local wildlife and insects, and have insect repellent in warmer months.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water and a small snack",
+      "Map or offline navigation and a charged phone",
+      "Layered clothing for changing weather",
+      "Hat and sunscreen",
+      "Small first-aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers milder weather and drier conditions; it can still be enjoyed in winter with proper gear.",
+    "seo": {
+      "title": "Douglas Fir Trail - Easy 2.8 km Forest Walk in the UK",
+      "meta_description": "Explore Douglas Fir Trail, a short and easy 2.8 km woodland hike in the UK. Find details on terrain, safety tips, and recommended gear for a pleasant forest walk.",
+      "h1": "Douglas Fir Trail – Easy 2.8 km UK Forest Walk"
+    }
   }
 }

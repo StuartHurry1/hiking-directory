@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13710232
+  },
+  "ai": {
+    "summary": "The Diamond Jubilee Walk is an 8.4-kilometre moderate hike in the United Kingdom. The route offers a mix of countryside scenery with well-defined paths, suitable for hikers with some experience. Region unspecified, terrain may vary by section.",
+    "terrain_summary": "A varied 8.4 km route comprising firm paths, grass verges, and occasional muddy sections. Expect gentle climbs, sections through fields and woodland, and some stiles or gates. Footwear with good grip is recommended.",
+    "safety_notes": "Check the weather forecast and daylight hours. Bring a map or offline navigation app, a fully charged phone, and a basic first aid kit. Stay on marked paths, watch for livestock, and be mindful of farmers' rights. In winter conditions, allow extra time and consider head protection and waterproof layer. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate outer layer (jacket/coat)",
+      "Map, compass or offline GPS",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Hat and gloves if cold",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Whistle and mobile phone with emergency numbers",
+      "Lightweight headlamp or flashlight (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the most favorable conditions; the route can be tackled year-round with proper gear and daylight.",
+    "seo": {
+      "title": "Diamond Jubilee Walk - 8.4 km Moderate Hike in the UK",
+      "meta_description": "Explore the Diamond Jubilee Walk, an 8.4 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this scenic route.",
+      "h1": "Diamond Jubilee Walk — 8.4 km Moderate Hike in the UK"
+    }
   }
 }

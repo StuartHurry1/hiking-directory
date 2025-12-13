@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 14433632
+  },
+  "ai": {
+    "summary": "Dee Valley Way is a challenging 36.5 km long-distance hike in the UK, tracing the River Dee through a mix of wooded valleys, pasture and open countryside with varied terrain and occasional river crossings.",
+    "terrain_summary": "The route features a mix of surfaces: riverbank paths, woodland trails, grassy lanes, and uneven rocky sections. Expect mud after rain, steep ascents and descents, exposed ridges with open views, and occasional short road links. The scenery ranges from lush valley floors to rugged upland corners, with wildlife along the Dee valley.",
+    "safety_notes": "This is a hard hike with long distances and potentially remote sections. Plan for 1-2 days or a very early start if completing in one long day. Check weather and daylight hours; UK conditions can change rapidly. Carry a detailed map and compass (don’t rely on phone GPS), a fully charged phone, and a backup power bank. Wear sturdy waterproof boots, bring waterproof clothing, and carry sufficient food and water. Be prepared for muddy sections, river crossings with rising water, and navigation challenges in less well-marked areas. Inform someone of your plans and expected return; watch for exposure, ticks, and changing trail conditions. If in doubt, turn back and seek local guidance.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weather-appropriate clothing (layers, waterproof shell, hat, gloves as needed)",
+      "Backpack with 20-30L capacity",
+      "Water bottle or hydration system plus extra water",
+      "High-energy snacks and meals",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Rain gear (poncho or jacket)",
+      "Trekking poles (optional but helpful on uneven ground)",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring to autumn are typically best for Dee Valley Way, roughly March to September. Late spring and early autumn offer milder temperatures and better daylight; winter hikes can be wet, windy and visibility-limited, with higher risk of mud and closures.",
+    "seo": {
+      "title": "Dee Valley Way – 36.5 km Hard Hike in the UK",
+      "meta_description": "Plan your Dee Valley Way adventure. A challenging 36.5 km route in the UK with terrain insights, safety tips, best seasons, and gear recommendations.",
+      "h1": "Dee Valley Way: 36.5 km Hard Hike in the UK"
+    }
   }
 }

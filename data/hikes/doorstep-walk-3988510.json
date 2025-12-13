@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 3988510
+  },
+  "ai": {
+    "summary": "Doorstep Walk is an easy 1.5 km stroll in the UK, designed for a quick, low-effort outdoor break. The route runs mainly on urban pavements with gentle gradients, making it accessible to most ages and fitness levels. It’s ideal for families, beginners, or anyone needing a short, relaxing outdoors moment.",
+    "terrain_summary": "Primarily flat, paved surfaces on city sidewalks. Expect smooth concrete or tarmac with occasional curb ramps and gentle inclines. Very little elevation gain and rarely any stairs.",
+    "safety_notes": "Stay aware of traffic and cyclists on urban paths. Use designated crossings and keep to sidewalks. Check the weather and dress in layers; bring a waterproof layer in uncertain conditions. Carry a charged mobile phone and some ID, and keep valuables secure. If walking with children, hold hands near roads and crossings.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or layer for changing weather",
+      "Sunscreen and hat in sunny weather",
+      "Mobile phone with map or route to follow",
+      "Small backpack or waist pouch for essentials"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn. In winter, wear sturdy footwear and be mindful of icy surfaces; in summer, bring sun protection and stay hydrated.",
+    "seo": {
+      "title": "Doorstep Walk: Easy 1.5 km Urban Stroll in the UK",
+      "meta_description": "Explore the Doorstep Walk, a short and easy 1.5 km urban stroll in the UK.Flat sidewalks, quick outdoor escape, practical safety tips, and gear recommendations.",
+      "h1": "Doorstep Walk – Easy 1.5 km Urban Stroll in the UK"
+    }
   }
 }

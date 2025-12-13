@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19280482
+  },
+  "ai": {
+    "summary": "A challenging 18.3 km hike in the UK along the downstream Derwent Walk from Borrowdale to Derwent Water. The route combines riverbank paths with wooded trails, elevation gain, and occasional exposed sections, demanding good fitness and navigation.",
+    "terrain_summary": "Mostly mixed terrain: river and lakeside paths, forest tracks, and rocky or muddy sections. Expect uneven surfaces, some gradients, and potential boggy ground after rainfall. In places the route can be exposed, and navigation may require attention.",
+    "safety_notes": "Hard-rated hike with long distance and variable weather conditions typical of the UK. Always check local conditions before setting out; map and compass skills are recommended. Stay on marked paths, be cautious on wet rocks and river crossings, and allow extra time for slower sections. Tell someone your plans and expected return time; carry sufficient food, water, and emergency gear.",
+    "recommended_gear": [
+      "Waterproof jacket and trousers",
+      "Sturdy hiking boots with good ankle support",
+      "Map and compass (or GPS with offline maps)",
+      "Water and high-energy snacks",
+      "Headtorch or flashlight with spare batteries",
+      "First aid kit and personal medications",
+      "Thermal layers and extra socks",
+      "Emergency whistle and multitool",
+      "Trekking poles",
+      "Rucksack with rain cover"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are generally favorable, but the route can be tackled year-round in dry conditions. In winter the weather is more unpredictable and paths can be slippery; plan accordingly.",
+    "seo": {
+      "title": "Downstream to Derwent Walk: Borrowdale and Derwent Water – 18.3 km Hard Hike in the UK",
+      "meta_description": "Discover an 18.3 km challenging hike along the Derwent valley from Borrowdale to Derwent Water. Hard terrain, elevation, and river paths demand good preparation—gear tips and safety guidance included.",
+      "h1": "Downstream to Derwent Walk, Borrowdale and Derwent Water"
+    }
   }
 }

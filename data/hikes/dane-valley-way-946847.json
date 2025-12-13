@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 946847
+  },
+  "ai": {
+    "summary": "The Dane Valley Way is a challenging long-distance hike across varied UK countryside, spanning 152.7 km. Designed for experienced trekkers, it combines sustained distances with mixed terrain, elevation, and remote sections that require careful planning and good navigation.",
+    "terrain_summary": "Expect a mix of muddy field paths, grassy lanes, rocky tracks, and ridgelines. The route traverses valleys and wooded hills, with exposed sections, potential boggy footprints after rain, and occasional river crossings. Navigation is generally straightforward on marked paths, but disorientation is possible in rough weather or dense cover.",
+    "safety_notes": "This is a hard, multi-day trek. Plan for long days, variable UK weather, and potential navigation challenges. Carry updated maps and a compass (GPS as a backup), inform someone of your itinerary, and check weather and daylight hours before setting out. Stay hydrated, pace yourself, and be prepared for fatigue, slips on wet ground, and hypothermia in exposed areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Layered clothing for changeable weather",
+      "Backpack 20–30L with rain cover",
+      "Water bottle or hydration bladder (2–3L)",
+      "Map and compass (GPS optional)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister treatment",
+      "Emergency bivy or lightweight sleeping bag (for multi-day treks)",
+      "High-energy snacks and meals",
+      "Sun protection (hat, sunscreen)",
+      "Whistle and multitool",
+      "Dry bags for protecting electronics",
+      "Thermal layers for cold conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October); plan for shorter daylight and wetter conditions in shoulder months and be prepared for adverse weather in winter.",
+    "seo": {
+      "title": "Dane Valley Way Hiking Guide | 152.7 km UK Long-Distance Trek",
+      "meta_description": "Plan your Dane Valley Way trek: a hard 152.7 km long-distance hike in the UK. Get terrain details, safety tips, gear lists, and the best seasons for this challenging UK trail.",
+      "h1": "Dane Valley Way Hiking Guide"
+    }
   }
 }

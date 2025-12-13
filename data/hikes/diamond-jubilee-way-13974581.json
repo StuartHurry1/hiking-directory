@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 13974581
+  },
+  "ai": {
+    "summary": "Diamond Jubilee Way is a 13.1 km moderate-length hike in the UK that offers a varied day on foot. The route is suitable for walkers with intermediate fitness and typically features a mix of fields, woodland paths, and gentle hills, with opportunities for scenic viewpoints and peaceful countryside sections.",
+    "terrain_summary": "Predominantly mixed terrain including well-maintained footpaths, grassy fields, and occasional woodland sections. Expect uneven ground, some stiles, gentle climbs, and potentially muddy patches after rain. Some route segments may run alongside rural roads.",
+    "safety_notes": "Plan for typical UK weather and daylight changes. Wear sturdy waterproof footwear and dress in layers. Carry a map or GPS, a fully charged phone, water, snacks, and a small first-aid kit. Check weather and route conditions before departure. Stay on marked paths, tell someone your plan, and consider walking with a partner. Be prepared for muddy sections, gates or livestock, and possible short road crossings. If navigation becomes difficult, turn back to avoid getting lost.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy walking boots",
+      "Layered clothing (base layer, fleece, windproof outer layer)",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Emergency whistle",
+      "Lightweight rain pants (optional)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Diamond Jubilee Way Hike – 13.1 km Moderate Trail in the UK",
+      "meta_description": "Discover Diamond Jubilee Way with a 13.1 km moderate hike in the UK. Read about terrain, safety tips, and essential gear for a great day on the trail.",
+      "h1": "Diamond Jubilee Way — 13.1 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19307500
+  },
+  "ai": {
+    "summary": "A gentle, beginner-friendly 5 km walk in East Sussex, UK, offering pleasant countryside scenery and easy paths suitable for families and first-time hikers.",
+    "terrain_summary": "Mostly easy terrain: flat or gently rolling with a mix of surfaced lanes, gravel tracks, and grassy paths. Some uneven ground and occasional muddy patches after rain; a few stiles or gates may be encountered.",
+    "safety_notes": "Check the weather forecast and wear sturdy footwear. Stay on public rights of way and be mindful of livestock. Yield to cyclists and horses where appropriate. Carry a map or offline GPS, a light layer and waterproofs, and enough water and snacks. Keep track of daylight hours and have a plan to shorten or stop if conditions worsen. In case of emergency, call 999/112.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket and a warm layer",
+      "Water bottle",
+      "Snack or light lunch",
+      "Hat and sunscreen",
+      "Map, guidebook, or offline GPS",
+      "Small first-aid kit",
+      "Phone with emergency numbers",
+      "Lightweight backpack",
+      "Optional umbrella or sunshade"
+    ],
+    "best_seasons": "Spring to Autumn (March–October).",
+    "seo": {
+      "title": "Download Discovery Walk, East Sussex – Easy 5 km Hike",
+      "meta_description": "Explore a gentle 5 km walk in East Sussex, UK. Easy terrain, countryside scenery, practical tips, gear suggestions, and safety notes for a comfortable day out.",
+      "h1": "Download Discovery Walk, East Sussex – 5 km Easy Hike"
+    }
   }
 }

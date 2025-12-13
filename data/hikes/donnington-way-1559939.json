@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 1559939
+  },
+  "ai": {
+    "summary": "Donnington Way is a demanding long-distance hike in the United Kingdom, spanning about 329.9 km. Designed for experienced hikers, it traverses varied countryside, from rural lanes to open moorland and forested sections. Expect strenuous days, long distances between resupply points, and navigational challenges. This guide covers terrain, safety, and gear to help plan a multi-stage trek.",
+    "terrain_summary": "Expect a mix of paved lanes, gravel paths, grassy bridleways, heaths, and woodland tracks. Some sections are exposed on moor or hilltop, with ascents and descents totaling substantial elevation gain. Gates, stiles, and occasional road crossings. Water sources may be scarce in upland areas; plan for self-sufficiency between towns and caches.",
+    "safety_notes": "Check weather forecasts; UK conditions can change rapidly. Carry a map and compass; don’t rely on phone signal in remote parts. Plan timing with daylight hours, inform someone of your route and ETA, and carry an emergency shelter and first aid kit. Be mindful of fatigue and pacing on long days. Watch for livestock and dogs on rural paths; keep gates closed and dogs under control where required. Respect private land and rights of way; practice Leave No Trace and camp only where permitted.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable jacket",
+      "Insulated layers and hat/gloves for cold weather",
+      "Map and compass (and a GPS device as backup)",
+      "Navigation tools or dedicated GPS device",
+      "Backpack with rain cover",
+      "Enough water and a means to purify water",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Emergency bivy or shelter",
+      "Headlamp with extra batteries",
+      "Whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but helpful)",
+      "Basic repair kit (multi-tool, duct tape)",
+      "Mobile phone with offline maps and power bank",
+      "Cash or card for remote resupply"
+    ],
+    "best_seasons": "April–September for the best conditions; year-round trekking is possible with careful planning and proper gear.",
+    "seo": {
+      "title": "Donnington Way: A 329.9 km Hard Trail in the UK",
+      "meta_description": "Plan your Donnington Way trek, a challenging 329.9 km route across the UK. This guide covers terrain, safety notes, and essential gear for experienced hikers.",
+      "h1": "Donnington Way – 329.9 km Hard Trail in the UK"
+    }
   }
 }

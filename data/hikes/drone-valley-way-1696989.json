@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1696989
+  },
+  "ai": {
+    "summary": "Drone Valley Way is a 13.7 km hike in the UK that offers a moderate challenge with varied terrain and scenic countryside views.",
+    "terrain_summary": "The route features a mix of surfaced country lanes, grassy paths, and sections that can become muddy after rain. Expect gentle ascents and occasional rocky or uneven stretches. Footing can be uneven in places, so sturdy boots are recommended.",
+    "safety_notes": "Plan around daylight hours and weather; carry a map or GPS; stay on marked paths; wear waterproof boots and layered clothing; bring sufficient water and snacks; inform someone of your planned route and expected return; be mindful of livestock on rural sections; carry a phone with a charged battery and a small first aid kit. In poor weather, trails can become slippery and visibility may reduce.",
+    "recommended_gear": [
+      "Waterproof hiking boots",
+      "Waterproof and breathable jacket",
+      "Layered clothing suitable for the season",
+      "Hat or beanie (season dependent)",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone and power bank",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight (for early/late starts)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with extra gear and caution.",
+    "seo": {
+      "title": "Drone Valley Way – 13.7 km Moderate Hike in the UK",
+      "meta_description": "Explore Drone Valley Way, a 13.7 km moderate hike in the UK. Learn about terrain, safety tips, and essential gear.",
+      "h1": "Drone Valley Way Hike (UK)"
+    }
   }
 }

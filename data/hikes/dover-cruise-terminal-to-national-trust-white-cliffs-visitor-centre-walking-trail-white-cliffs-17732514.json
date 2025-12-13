@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17732514
+  },
+  "ai": {
+    "summary": "An easy 5.8 km coastal walk from Dover Cruise Terminal to the National Trust White Cliffs Visitor Centre along the White Cliffs of Dover. The route offers sea views, dramatic chalk cliffs, and a gentle, well-graded path suitable for beginners, families, and casual walkers.",
+    "terrain_summary": "Coastal cliff-top trail with chalk paths, dirt tracks, and some short paved sections. Generally gentle gradients but with uneven surfaces and exposed cliff-edge portions. Footwear with good grip recommended; be prepared for wind and sun along the coast.",
+    "safety_notes": "Stay on marked paths and keep a safe distance from cliff edges. Check weather and sea conditions before you go; surfaces can be slippery when wet. Wear sturdy footwear, bring water, and dress for wind. Supervise children and keep dogs on a lead where required. Follow local advisories and daylight hours; turn back if conditions worsen near exposed cliff sections.",
+    "recommended_gear": [
+      "Water",
+      "Snacks",
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Hat and sunscreen",
+      "Map or offline GPS",
+      "Camera",
+      "Small backpack"
+    ],
+    "best_seasons": "Spring to autumn (March–October). Summer offers best visibility and sea views; winter can be windy and muddy.",
+    "seo": {
+      "title": "Dover Cruise Terminal to White Cliffs Visitor Centre Walk – 5.8 km Easy Coastal Trail (UK)",
+      "meta_description": "An easy 5.8 km coastal walk from Dover Cruise Terminal to the National Trust White Cliffs Visitor Centre. Enjoy sea views, chalk cliffs, and a family-friendly route along the coast.",
+      "h1": "Dover Cruise Terminal to National Trust White Cliffs Visitor Centre Walking Trail"
+    }
   }
 }

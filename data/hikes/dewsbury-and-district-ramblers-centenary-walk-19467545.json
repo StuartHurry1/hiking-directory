@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19467545
+  },
+  "ai": {
+    "summary": "A short, easy 2.9 km walk organized by the Dewsbury and District Ramblers to celebrate their centenary. The route is suitable for most ages and abilities and offers a relaxed stroll that highlights local scenery in the UK.",
+    "terrain_summary": "Mostly flat with a mix of paved paths, compact gravel, and short grassy sections. Expect gentle gradients and well-marked routes typical of UK rambler walks.",
+    "safety_notes": "Check weather and foot conditions before you go. Wear sturdy, comfortable footwear and clothing suitable for changing conditions. Bring water, a small snack, and a map or smartphone with a charging option. Tell someone your route and take care near road junctions and any uneven surfaces.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Layered clothing and a light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map, GPS, or a charged phone with offline map",
+      "Small snack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers milder weather and clearer paths; the walk can be enjoyed in winter, but conditions may be wetter and muddier.",
+    "seo": {
+      "title": "Dewsbury and District Ramblers Centenary Walk – Easy 2.9 km in the UK",
+      "meta_description": "Enjoy an easy 2.9 km Ramblers walk in the UK. Great for beginners and families, with gentle terrain and a relaxed pace.",
+      "h1": "Dewsbury and District Ramblers Centenary Walk – 2.9 km Easy"
+    }
   }
 }

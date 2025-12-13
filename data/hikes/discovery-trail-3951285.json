@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3951285
+  },
+  "ai": {
+    "summary": "A short, easy 4.3 km hiking route in the UK designed for beginners and families, offering a gentle trail and pleasant countryside views.",
+    "terrain_summary": "Primarily a well-maintained, flat to gently rolling trail with occasional muddy patches after rain; suitable for casual walkers and children.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Check the weather and daylight hours before you go. Carry water and a small snack, plus a basic first-aid kit. Let someone know your planned route and expected return time. Be mindful of mud and slippery sections after rain, and watch for other hikers, cyclists, or dogs.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle (1–2 litres)",
+      "Light rain jacket and extra layer",
+      "Snacks or energy bars",
+      "Map, GPS device, or a charged smartphone with offline map",
+      "Small first-aid kit",
+      "Phone power bank (optional)"
+    ],
+    "best_seasons": "Spring, summer, and autumn are ideal; the trail is usable year-round in the UK with proper clothing and waterproofs.",
+    "seo": {
+      "title": "Discovery Trail: Easy 4.3 km Hike in the UK",
+      "meta_description": "Discover the Discovery Trail, a gentle 4.3 km hike in the UK ideal for beginners and families. Easy terrain, scenic countryside, and reliable year-round access.",
+      "h1": "Discovery Trail"
+    }
   }
 }

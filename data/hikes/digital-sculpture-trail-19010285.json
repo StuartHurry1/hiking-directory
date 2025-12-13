@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19010285
+  },
+  "ai": {
+    "summary": "A short, easy 2.4 km trail in the UK featuring digital sculpture installations along a flat, well-maintained route. Suitable for families and casual walkers seeking art-themed outdoor experience.",
+    "terrain_summary": "Flat to gently undulating paths with a mix of paved surfaces and compact gravel. Easy terrain for most pedestrians; watch for occasional uneven sections near installations and potential curb crossings.",
+    "safety_notes": "Carry water and wear sturdy walking shoes. Check weather and daylight hours. Stay on marked paths and follow site rules for sculptures. Supervise children and be mindful of other pedestrians and cyclists on shared sections. Have a phone or map in case of emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Sun protection (hat, sunscreen)",
+      "Mobile phone and map or offline GPS",
+      "Small backpack or daypack",
+      "Compact first-aid kit",
+      "Camera or notebook for sculpture notes"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for milder, drier conditions; year-round visits are possible with appropriate clothing in winter.",
+    "seo": {
+      "title": "Digital Sculpture Trail: Easy 2.4 km Walk in the UK",
+      "meta_description": "Explore the Digital Sculpture Trail, a short and accessible 2.4 km route in the UK featuring digital art installations. Flat terrain, beginner-friendly, and suitable for all ages.",
+      "h1": "Digital Sculpture Trail — Easy 2.4 km Walk in the UK"
+    }
   }
 }

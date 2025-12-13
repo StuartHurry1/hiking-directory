@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4009908
+  },
+  "ai": {
+    "summary": "Doorstep Walk is a 6.3 km moderate hike in the UK offering a gentle circuit with varied terrain and pleasant views. It’s suitable for weekend walkers seeking a manageable outing with some gentle climbs and varied surfaces.",
+    "terrain_summary": "Expect mixed surfaces: gravel paths, compacted earth, and occasional muddy stretches. Gentle to moderate elevation changes, short sections of steps or exposed roots, and occasional wet conditions after rain. Pockets of shade and open sections with potential wind exposure.",
+    "safety_notes": "Plan according to the weather; wear sturdy footwear with good grip; carry a waterproof layer and sufficient water; stay on marked paths; bring a map or offline navigation; watch footing on muddy or uneven sections and be cautious around exposed roots; be mindful of other hikers; let someone know your route and expected return time; in winter or after rain, daylight is limited, so plan accordingly.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Sturdy walking shoes or boots with good grip",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Small first aid kit",
+      "Energy snacks or bars",
+      "Sun protection (sunscreen, hat)",
+      "Whistle for emergencies",
+      "Lightweight rain cover or pack cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offer the best dry conditions and daylight, but the walk is doable year-round with appropriate gear.",
+    "seo": {
+      "title": "Doorstep Walk — 6.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Doorstep Walk, a 6.3 km moderate hike in the UK. Terrain overview, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Doorstep Walk: 6.3 km Moderate Hike in the UK"
+    }
   }
 }

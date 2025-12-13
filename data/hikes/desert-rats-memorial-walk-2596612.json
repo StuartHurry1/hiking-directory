@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2596612
+  },
+  "ai": {
+    "summary": "An easy 4.7 km memorial walk in the United Kingdom honoring the Desert Rats. Suitable for most ages, it features a gentle profile, straightforward paths, and light urban or park terrain.",
+    "terrain_summary": "Mostly flat or gently undulating terrain with a mix of pavements, tarmac, and well-marked gravel paths. Occasional uneven spots near the memorial and along path edges; some sections may be exposed to wind.",
+    "safety_notes": "Check the forecast and dress in layers; wear sturdy footwear; stay on marked paths; be cautious at road crossings; supervise children and pets; carry water and a light snack; bring a map or GPS and ensure your phone is charged; in winter daylight hours are shorter and conditions can be icy.",
+    "recommended_gear": [
+      "Comfortable walking shoes or sturdy footwear",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproofs)",
+      "Small daypack",
+      "Map or GPS device (or offline map on phone)",
+      "Fully charged mobile phone",
+      "Sun protection (sunscreen, hat) for sunny days",
+      "Light snack",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the most comfortable conditions in the UK; the walk can be enjoyed year-round with suitable clothing.",
+    "seo": {
+      "title": "Desert Rats Memorial Walk (UK) – Easy 4.7 km Hike",
+      "meta_description": "Discover the 4.7 km Desert Rats Memorial Walk in the UK. An easy, family-friendly hike with straightforward terrain. Learn about route, safety tips, best seasons, and gear.",
+      "h1": "Desert Rats Memorial Walk – Easy 4.7 km UK Hike"
+    }
   }
 }

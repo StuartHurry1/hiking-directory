@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19008655
+  },
+  "ai": {
+    "summary": "An easy 1.2 km hike on the Devil's Cauldron Trail at Lydford Gorge in the UK. The route is short, family-friendly, and showcases dramatic gorge scenery and the Devil's Cauldron waterfall along a riverside path with sections of boardwalk. Designed for a quick visit or a relaxed stroll, with opportunities for photos and a close-up view of the gorge walls.",
+    "terrain_summary": "Mostly flat to gently rolling riverside trail with some boardwalk sections and a few steps. Ground can be uneven and slippery when wet; expect shaded woodland, damp fissures, and occasional close proximity to the gorge rim.",
+    "safety_notes": "Stay on marked paths and behind barriers; the gorge edges can be steep and unstable. The trail can be muddy and slippery when wet; use sturdy footwear and watch your footing on boardwalks. Keep children and dogs under control, do not lean over edges, and never swim in the pools or near the waterfall. Check weather and flood risks before you go and allow extra time for slower sections or closures.",
+    "recommended_gear": [
+      "Sturdy walking shoes or hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Waterproof/windproof jacket",
+      "Small daypack",
+      "Water bottle",
+      "Snack or energy bar",
+      "Map or offline GPS on your phone",
+      "Sunscreen and sunglasses",
+      "Hat or cap",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) offer the best conditions and scenery; winter visits are possible but can be cold, wet, and muddy with shorter daylight.",
+    "seo": {
+      "title": "Devil's Cauldron Trail, Lydford Gorge – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore the 1.2 km Devil's Cauldron Trail at Lydford Gorge in the UK. An easy, family-friendly hike with gorge scenery, safety tips, and gear ideas.",
+      "h1": "Devil's Cauldron Trail, Lydford Gorge – Easy 1.2 km Hike"
+    }
   }
 }

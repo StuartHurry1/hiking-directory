@@ -20,5 +20,28 @@
   "source": {
     "type": "osm",
     "osmId": 19152532
+  },
+  "ai": {
+    "summary": "A gentle 4.1 km hike in the Langstrothdale valley (Upper Wharfdale), UK. This easy route combines waterfall viewpoints with a light ridge crossing for a scenic, beginner-friendly day out.",
+    "terrain_summary": "Mostly well-defined paths with gentle gradients. Expect damp or muddy sections near streams and some rocky patches along the ridge paths. Short ascents and descents with occasional steps.",
+    "safety_notes": "Wear sturdy waterproof footwear, check the weather, and bring a waterproof layer. Stay on marked paths, be cautious on wet rocks near waterfalls, and avoid exposed sections in high winds. Carry a map or GPS, a charged phone, and let someone know your plans. Bring snacks and a basic first aid kit; hike within daylight hours.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle or hydration system",
+      "Light fleece or jumper",
+      "Map and compass or GPS device",
+      "Phone with a full battery and emergency contacts",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Headwear and sun protection (hat, sunglasses)",
+      "Optional: lightweight rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers the best conditions and views; the route can be walked year-round with appropriate gear.",
+    "seo": {
+      "title": "Discover Langstrothdale Valley Trail, Upper Wharfdale – Easy 4.1 km Hike in the UK",
+      "meta_description": "Explore the easy 4.1 km Langstrothdale Valley trail in Upper Wharfdale, UK. Enjoy waterfalls, ridges and a beginner-friendly hike with practical safety tips.",
+      "h1": "Discover Langstrothdale Valley Trail, Upper Wharfdale"
+    }
   }
 }
