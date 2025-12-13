@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9802487
+  },
+  "ai": {
+    "summary": "Heritage Trail is an easy 5.3 km loop in the UK that combines gentle terrain with glimpses of local history along a quiet countryside route.",
+    "terrain_summary": "Mostly well-maintained footpaths and quiet lanes with gentle gradients. Expect a mix of compact earth, gravel, and short grassy sections; some stretches may be uneven or muddy after rain, especially near historic features.",
+    "safety_notes": "Wear sturdy walking shoes with good grip; check the weather and daylight hours before you go; stay on marked paths and be mindful of other users on shared sections; carry water and a light snack; bring a map or offline navigation and have a mobile phone with emergency contacts; be cautious of muddy or slippery surfaces after rain and dress for changeable UK weather.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layerable clothing",
+      "Map or offline navigation device",
+      "Hat and sunscreen",
+      "Phone with emergency contacts",
+      "Snacks or energy bar"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October); winter visits can be damp with shorter daylight and stronger winds.",
+    "seo": {
+      "title": "Heritage Trail – Easy 5.3 km Historic Walk in the UK",
+      "meta_description": "Explore a gentle 5.3 km Heritage Trail in the UK. Easy terrain, scenic countryside, and opportunities to spot local historic features. Practical safety tips and packing list included.",
+      "h1": "Heritage Trail: Easy 5.3 km UK Historic Walk"
+    }
   }
 }

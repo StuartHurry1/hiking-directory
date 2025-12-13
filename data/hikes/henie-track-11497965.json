@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11497965
+  },
+  "ai": {
+    "summary": "Henie Track is a short, easy 0.6 km hike in the UK designed for beginners and families. It follows a rural footpath with gentle scenery and minimal elevation.",
+    "terrain_summary": "Predominantly flat, well-defined path with grassy and compacted dirt surfaces. May be muddy after rain and may include occasional gates.",
+    "safety_notes": "Even on short walks, check the weather and daylight hours before you go. Wear sturdy footwear and bring a light layer. Stay on the marked path, watch for muddy sections, and supervise children. Carry a phone and water.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water",
+      "Weather-appropriate clothing",
+      "Light snack",
+      "Phone with map or offline access",
+      "Small first aid kit"
+    ],
+    "best_seasons": "All year, with the best conditions in spring and early autumn when daylight and ground conditions are favorable.",
+    "seo": {
+      "title": "Henie Track – Easy 0.6 km Hike in the UK",
+      "meta_description": "Discover Henie Track, a 0.6 km easy hike in the UK. Ideal for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Henie Track – Easy 0.6 km Hike in the UK"
+    }
   }
 }

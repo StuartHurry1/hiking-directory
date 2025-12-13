@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19347084
+  },
+  "ai": {
+    "summary": "A short, easy 3 km woodland loop from Helston to the Stables Café at Penrose Estate. The trail follows accessible paths through Penrose woodland, ending with a welcoming café stop.",
+    "terrain_summary": "Mostly flat, well-maintained gravel and compacted earth paths with occasional tree roots. Very gentle gradients; suitable for wheelchairs and strollers on most sections, though some surface irregularities may occur.",
+    "safety_notes": "- Stay on marked paths and watch for uneven ground, especially after rain. - Be mindful of other walkers, cyclists, and dogs; keep dogs on a short leash. - Check daylight hours and plan to return before dusk. - Bring water and weather-appropriate clothing; carry a mobile phone for emergencies. - If accessibility is a priority, confirm the exact surface of the route at the Stables Café entrance.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Weather-appropriate clothing (layers, waterproof if rain is possible)",
+      "Water bottle",
+      "Small backpack or pouch",
+      "Map or offline navigation for Penrose Estate",
+      "Sunscreen/hat if sunny"
+    ],
+    "best_seasons": "Spring to autumn; winter visits are possible but the paths can be muddy and daylight hours shorter.",
+    "seo": {
+      "title": "Helston to the Stables Café Accessible Woodland Trail, Penrose — 3 km Easy Walk in Cornwall, UK",
+      "meta_description": "Explore an easy 3 km woodland loop from Helston to the Stables Café at Penrose Estate. Accessible paths, family-friendly, with a cafe stop.",
+      "h1": "Helston to the Stables Café Accessible Woodland Trail, Penrose"
+    }
   }
 }

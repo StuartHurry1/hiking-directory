@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 9774300
+  },
+  "ai": {
+    "summary": "A scenic 7.5 km coastal hike in North Devon, England, following the Heddon Valley and coastal edge. The route blends woodland river valley scenery with expansive sea views and is suited to hikers with moderate fitness.",
+    "terrain_summary": "A mix of coastal paths, rocky steps, dirt tracks through valley woodland, and a river-side section. Expect uneven surfaces, occasional steep gradients, and exposed cliff edges with sea views.",
+    "safety_notes": "Check weather and tide conditions, as exposed coastal sections can become hazardous in high winds or heavy seas. Wear sturdy waterproof footwear and bring layers. Stay on marked paths, mind slippery rocks when wet, and be cautious around steep drops along the cliff edge. Allow extra time in winter as daylight hours are shorter and conditions can change quickly.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Map, fully charged phone, and/or a GPS/navigation device",
+      "Hat and sunscreen for sun exposure",
+      "Lightweight, compact rain shell and extra warm layer",
+      "Small daypack",
+      "Basic first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (March-October) is generally best, though the trail can be done year-round with proper gear; winter conditions can be windy, wet, and daylight hours are shorter.",
+    "seo": {
+      "title": "Heddon Valley Coast Walk – 7.5 km Moderate Coastal Hike in North Devon, UK",
+      "meta_description": "Explore the Heddon Valley coast walk, a 7.5 km moderate coastal hike in North Devon. Learn about terrain, safety, and what to pack for this Exmoor coast trail.",
+      "h1": "Heddon Valley Coast Walk"
+    }
   }
 }

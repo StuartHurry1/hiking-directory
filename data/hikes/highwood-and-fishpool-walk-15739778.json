@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 15739778
+  },
+  "ai": {
+    "summary": "The Highwood and Fishpool Walk is a scenic 8.4 km loop in the UK offering a moderate hike with varied scenery. The route combines woodland paths, open fields, and gentle elevation changes, making it suitable for walkers with reasonable fitness and a desire for wildlife and countryside views.",
+    "terrain_summary": "Mostly well-maintained trails with mixed surfaces including dirt tracks and grassy verges. Expect shaded woodland sections, occasional stiles, gentle climbs, and short, uneven patches or exposed roots. Ground can be muddy after rain.",
+    "safety_notes": "Plan for 2–3 hours and check local conditions before you go. Wear sturdy waterproof footwear with good grip and bring waterproof layers. Stay on marked paths and respect private land; observe field boundaries and gate etiquette. Carry a map or offline navigation and a charged mobile phone; have a backup in case of signal gaps. Bring water and a snack; be aware of weather changes and sun exposure. Be mindful of livestock and farm traffic on rural sections. In winter or after rain, paths can be muddy or flooded; adjust pacing and footwear accordingly. If walking with children or dogs, keep them under control and supervise road or stile crossings.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and extra layers",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map or offline navigation app",
+      "Compass or GPS device",
+      "Lightweight rain gear and hat",
+      "Basic first-aid kit",
+      "Headlamp or flashlight (for late finishes)",
+      "Mobile phone with emergency contacts",
+      "Optional trekking poles",
+      "Small backpack to carry gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are generally the best seasons for this walk in the UK due to longer days and typically drier ground. The route is walkable year-round, but winter conditions can be wetter and muddier, requiring extra care.",
+    "seo": {
+      "title": "Highwood and Fishpool Walk – 8.4 km Moderate UK Hike",
+      "meta_description": "Explore the 8.4 km Highwood and Fishpool Walk in the UK. A moderate 8.4 km circuit with woodland trails, fields, and gentle climbs. Includes safety tips, gear list, and best seasons.",
+      "h1": "Highwood and Fishpool Walk — 8.4 km Moderate Hike"
+    }
   }
 }

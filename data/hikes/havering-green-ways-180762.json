@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 180762
+  },
+  "ai": {
+    "summary": "Havering Green Ways is a short, easy 1.2 km hike in the UK along flat, well-maintained green corridors. Perfect for families, beginners, and casual walkers seeking a scenic, low-effort outdoor experience.",
+    "terrain_summary": "Mostly flat, paved or well-packed gravel paths with gentle intersections. Some sections may be shared with cyclists. Expect well-maintained trails through greenspace and residential surroundings; minimal elevation change.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on designated paths, heed any posted signs, and be aware of cyclists on multi-use routes. Carry water, a mobile phone, and a light layer for changing weather. If conditions are icy or heavy rain, consider postponing.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun protection (hat, sunscreen)",
+      "Small backpack",
+      "Mobile phone with emergency contacts",
+      "Map or offline route (optional)"
+    ],
+    "best_seasons": "All year round; spring and summer are pleasant, autumn offers colorful scenery, winter can be chilly and damp",
+    "seo": {
+      "title": "Havering Green Ways – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore Havering Green Ways, a short 1.2 km easy hike in the UK suitable for families and beginners. Flat, accessible paths through greenspace with practical safety tips.",
+      "h1": "Havering Green Ways: Easy 1.2 km Hike"
+    }
   }
 }

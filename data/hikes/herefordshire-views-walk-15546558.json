@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15546558
+  },
+  "ai": {
+    "summary": "A compact 1.3 km easy walk offering scenic Herefordshire countryside views. Ideal for families, casual walkers, and visitors seeking a quick outdoor experience in the UK.",
+    "terrain_summary": "Predominantly flat with gentle undulations on well-maintained paths; some grass or dirt sections; occasional uneven ground near viewpoints; surfaces can be muddy after rain.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Check the weather and daylight hours before setting out. Bring water and snacks. Be aware of livestock and other trail users on rural routes. Carry a map or offline navigation app, and ensure your phone is charged. In winter or after rain, paths can be muddy and slippery; avoid if conditions are unsafe.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Map or offline navigation app",
+      "Phone with GPS and fully charged battery",
+      "Small first aid kit (blisters, plasters)"
+    ],
+    "best_seasons": "Spring to autumn typically offer the best weather and views; the walk is doable year-round in the UK, but may be muddy, windy, or icy in winter.",
+    "seo": {
+      "title": "Herefordshire Views Walk – Easy 1.3 km in Herefordshire, UK",
+      "meta_description": "Discover the Herefordshire Views Walk: a short 1.3 km easy hike in Herefordshire, UK. Enjoy countryside scenery, light terrain, and practical safety tips.",
+      "h1": "Herefordshire Views Walk – Easy 1.3 km Route in Herefordshire, UK"
+    }
   }
 }

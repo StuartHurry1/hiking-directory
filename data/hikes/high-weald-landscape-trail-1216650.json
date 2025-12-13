@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1216650
+  },
+  "ai": {
+    "summary": "The High Weald Landscape Trail is a strenuous long-distance hike through the High Weald area in southern England, spanning 675.6 km. The route winds across hedgerow-lined farmland, woodlands, chalk downs, and historic villages, offering varied scenery for experienced hikers. It requires good navigation, steady fitness, and reliable gear due to variable UK weather.",
+    "terrain_summary": "Expect chalk-down country, rolling farmland, ancient woodlands, river valleys, and long, uneven field paths. Trail surfaces include tracks, footpaths, and occasional road sections; mud is common after rain and hedgerows can make wayfinding tricky in places. While largely well-marked, some segments are remote with limited services.",
+    "safety_notes": "Plan multi-day trips with clear routing and accommodation. Carry a topographic map and compass and know how to use them; GPS is helpful but not a substitute for navigation skills. Check the weather ahead of each stage; UK conditions can change quickly and can bring heavy rain and mud. Wear sturdy waterproof boots and bring extra socks and layers. Stay on public rights of way; close gates and be mindful of livestock. Carry sufficient water and high-energy foods; know water sources and have a way to purify water. Tell someone your itinerary and expected finish times; carry a charged phone as backup. In remote sections, consider a satellite messenger or emergency beacon. Carry a whistle, spare batteries, and an emergency shelter or space blanket. Be mindful of ticks and insects; use repellent. Follow Leave No Trace principles and respect private land.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable, waterproof jacket and water-resistant pants",
+      "Lightweight backpack with a rain cover",
+      "Topographic map and compass; consider a GPS device as backup",
+      "Water bottle or hydration system; water purification method",
+      "High-energy snacks and meals for multiple days",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and any personal medications",
+      "Sunscreen, sunglasses, and a hat",
+      "Insect repellent and tick protection",
+      "Extra clothing layers and a lightweight insulating layer",
+      "Emergency shelter or space blanket; whistle and multi-tool"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) usually offers the best balance of daylight and weather for the High Weald Landscape Trail; winter sections can be muddy and daylight is limited, requiring more experience and planning.",
+    "seo": {
+      "title": "High Weald Landscape Trail (UK) – 675.6 km Hard-Distance Hike",
+      "meta_description": "Plan your trek on the High Weald Landscape Trail, a 675.6 km hard long-distance path through southern England's High Weald. Terrain, safety tips, gear guides, and seasonal advice.",
+      "h1": "High Weald Landscape Trail"
+    }
   }
 }

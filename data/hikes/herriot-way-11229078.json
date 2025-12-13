@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 11229078
+  },
+  "ai": {
+    "summary": "The Herriot Way is a hard, long-distance trek in the UK, spanning roughly 167.4 km. It challenges stamina and navigation with varied rural terrain, including fields, trails, and occasional ascents, making multi-day hiking and careful planning essential.",
+    "terrain_summary": "Primarily rural paths with mixed surfaces: well-trodden moor and meadow trails, farm lanes, grassy banks, rocky sections, and occasional muddy stretches; elevation changes range from gentle rollers to steep climbs.",
+    "safety_notes": "Prepare for variable weather and limited services along the route. Carry a map and compass (or GPS with offline maps), and know how to use them. Tell someone your itinerary and check in regularly. Stay hydrated, pack sufficient food, and be prepared for sudden weather changes. Watch for livestock on farmland and follow farm safety practices. Have a plan for navigation and emergency shelters, and carry a charged phone or tracker where coverage allows.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing (base layer, insulating layer, outer shell)",
+      "Waterproof jacket and pants",
+      "Map and compass (or GPS with offline maps)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Water bottles or hydration bladder (2-3 L)",
+      "Water filter or purification tablets",
+      "High-energy snacks",
+      "Emergency shelter or bivy sack",
+      "Whistle",
+      "Sun protection (hat, sunscreen)",
+      "Mobile power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best weather and daylight. Shoulder seasons can be workable with extra gear; winter hikes require substantial experience and navigation skills.",
+    "seo": {
+      "title": "Herriot Way – 167.4 km Hard UK Long-Distance Hike",
+      "meta_description": "Plan your adventure on the Herriot Way, a 167.4 km hard-distance hike across the UK. Terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Herriot Way: A 167.4 km Hard UK Long-Distance Hike"
+    }
   }
 }

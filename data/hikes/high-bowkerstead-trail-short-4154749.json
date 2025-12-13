@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4154749
+  },
+  "ai": {
+    "summary": "A short, easy 4.8 km hike in the UK suitable for beginners, with gentle terrain and straightforward navigation.",
+    "terrain_summary": "Mostly easy, well-maintained trails with a mix of compact dirt and gravel. Gentle inclines and flat sections make footing comfortable for walkers of all levels.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy footwear and carry a waterproof layer. Stay on marked paths, bring a map or device with offline access, and have a means of signaling for help (phone or whistle). Hydrate and pace yourself, especially in warmer weather. Dogs should be kept under control where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes or hiking boots",
+      "Water and light snack",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Map or GPS / fully charged phone",
+      "Sun protection (sunscreen, hat)",
+      "Small first-aid kit",
+      "Lightweight backpack",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring through autumn; winter hikes are possible with proper preparation and daylight.",
+    "seo": {
+      "title": "High Bowkerstead Trail (Short) – 4.8 km Easy Hike in the UK",
+      "meta_description": "Explore the 4.8 km High Bowkerstead Trail (Short), an easy hike in the UK. Learn about terrain, safety tips, and the best seasons for this beginner-friendly trek.",
+      "h1": "High Bowkerstead Trail (Short)"
+    }
   }
 }

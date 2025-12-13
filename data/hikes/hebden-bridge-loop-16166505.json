@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 16166505
+  },
+  "ai": {
+    "summary": "The Hebden Bridge Loop is a 14.5 km moderate ridge walk in the UK. It circles the Hebden Bridge area, combining exposed ridge sections with woodland paths and moorland stretches, returning to the start for a rewarding circuit with varied scenery.",
+    "terrain_summary": "Expect a mix of ridge paths and stony trails with some exposed sections, occasional boggy ground after rain, and short woodland sections. Elevation gains are gradual to moderate, with occasional steeper pitches on ridges. Footing may be uneven and mud can be present in wetter months.",
+    "safety_notes": "Check the forecast before you go; UK weather can change quickly on exposed ridges. Wear sturdy, waterproof footwear and dress in layers. Stay on marked trails, bring a map and compass (or offline mapping), and carry a charged phone. Let someone know your plan, carry a whistle and a basic first aid kit, extra water and food, and be prepared for reduced mobile signal in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and layered clothing",
+      "Map and compass or offline map",
+      "Backpack with enough capacity",
+      "Water and high-energy snacks",
+      "Hat, gloves, sunscreen as appropriate",
+      "Emergency whistle and basic first aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Extra layers and a spare warm layer",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) when days are longer and the weather is milder; winter hikes are more exposed and can be hazardous.",
+    "seo": {
+      "title": "Hebden Bridge Loop – 14.5 km Moderate Ridge Walk in the UK",
+      "meta_description": "Discover the 14.5 km Hebden Bridge Loop, a moderate ridge hike in the UK. Terrain, safety tips, best seasons, and gear for a rewarding day on the hills.",
+      "h1": "Hebden Bridge Loop: A 14.5 km Ridge Walk in the UK"
+    }
   }
 }

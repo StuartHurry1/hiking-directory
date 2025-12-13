@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19568045
+  },
+  "ai": {
+    "summary": "An easy 4.3 km woodland hike in the UK, suitable for families and casual hikers. The High Close Tree Trail offers a gentle route through a stand of tall trees with light elevation changes and relaxing scenery.",
+    "terrain_summary": "Mostly well-maintained forest paths with some compact gravel, occasional soft ground, and a few muddy patches after rain. Gentle gradients make it comfortable for beginners; watch for roots and uneven surfaces.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, check the forecast before you go, and bring water. Insect repellent and a basic first aid kit are advisable. Be mindful of other hikers and wildlife, and let someone know your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Small first aid kit",
+      "Map or offline navigation on a phone",
+      "Snack for the trail"
+    ],
+    "best_seasons": "Spring, Summer and Autumn",
+    "seo": {
+      "title": "High Close Tree Trail — Easy 4.3 km Hike in the UK",
+      "meta_description": "Explore the High Close Tree Trail, an easy 4.3 km woodland hike in the UK. Ideal for families and casual walkers seeking a relaxing day among tall trees.",
+      "h1": "High Close Tree Trail"
+    }
   }
 }

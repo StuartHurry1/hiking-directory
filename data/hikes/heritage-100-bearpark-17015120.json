@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17015120
+  },
+  "ai": {
+    "summary": "Heritage 100 - Bearpark is a hard 21.5 km hike in the UK near Bearpark that combines rural lanes, grassy trails and moorland paths. The route weaves through countryside with historical context and scenic views, demanding solid navigation and steady endurance.",
+    "terrain_summary": "Varied surfaces including tarmac lanes, grassy bridleways, and muddy field paths, with some uneven sections, gates or stiles, and occasional rocky stretches. Expect elevation changes and occasional exposed parts; conditions can be muddy and slippery after rain.",
+    "safety_notes": "Check the weather forecast and plan for changing UK conditions. Carry a map and compass or a GPS device, wear sturdy waterproof boots, and bring extra layers and waterproofs. Pack water and energy snacks, a headtorch, a basic first aid kit, a whistle, and a means to contact someone in case of emergency. Tell a friend your planned route and return time, stay on public rights of way, and be mindful of livestock and road crossings.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing and layers",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight waterproof jacket and pants",
+      "Energy snacks and a small emergency meal",
+      "Small first aid kit and personal medications",
+      "Whistle and multitool",
+      "Sunscreen, hat and sunglasses",
+      "Mobile phone with full battery and power bank",
+      "Emergency shelter or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) generally offers milder conditions and longer daylight; winter hikes can be more demanding with mud, ice and shorter daylight.",
+    "seo": {
+      "title": "Heritage 100 - Bearpark: 21.5 km Hard Hike in the UK",
+      "meta_description": "Plan your ascent of Heritage 100 - Bearpark. A 21.5 km hard hike in the UK featuring varied terrain, heritage scenery, safety tips, gear suggestions, and best seasons.",
+      "h1": "Heritage 100 - Bearpark"
+    }
   }
 }

@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 7063875
+  },
+  "ai": {
+    "summary": "The High Hunsley Circuit is a demanding long-distance hike in the UK, covering roughly 76.8 km on varied rural terrain. The route combines farmland, hedgerows, woodland, and minor roads, with elevation changes and several exposed sections. It’s best tackled by experienced hikers who can navigate, pace themselves, and plan multi-day trips with proper safety in mind.",
+    "terrain_summary": "Expect a mix of well-marked footpaths, grassy tracks, muddy field margins, hedgerows, and occasional woodland. The terrain can be uneven with gentle to steep climbs, stony sections, and occasional marshy patches. Navigation may be challenging in low visibility and on long, remote stretches.",
+    "safety_notes": "Plan for a multi day trek with proper pacing and regular checks on weather forecasts. Tell someone your route and expected finish. Carry a map and compass or GPS, a charged phone, and a backup power bank. Bring sufficient water and food, a first aid kit, and a means to stay warm and dry. Check for itineraries and permission requirements on paths. Be prepared for changing UK conditions and limited mobile signal in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing including layers and a waterproof shell",
+      "Backpack with rain cover",
+      "Water bottle or hydration system and water purification method",
+      "High-energy food and snacks",
+      "Map and compass with GPS backup",
+      "Phone with offline maps and power bank",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency shelter or bivy bag",
+      "Whistle",
+      "Trekking poles (optional but helpful)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Extra warm layer for evenings",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Spring to autumn, roughly March through October. The trail is most pleasant in late spring and early autumn when daylight is longer and temperatures are milder; winter conditions bring short days, ice, and higher risk on exposed sections.",
+    "seo": {
+      "title": "High Hunsley Circuit: 76.8 km Hard UK Hike",
+      "meta_description": "Plan your trek on the High Hunsley Circuit, a challenging 76.8 km long-distance hike in the UK. Terrain overview, safety tips, and gear checklist for multi-day trekking.",
+      "h1": "High Hunsley Circuit – 76.8 km Hard UK Hike"
+    }
   }
 }

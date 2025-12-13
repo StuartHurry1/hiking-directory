@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 8842
+  },
+  "ai": {
+    "summary": "The Hertfordshire Way is a long-distance trail in the United Kingdom, spanning approximately 981.3 km. It presents a demanding, hard-level hike with varied countryside and multiple route segments. While the official region isn\u0019t specified here, the route traverses rural and peri-urban landscapes around Hertfordshire and nearby areas, offering a substantial challenge for experienced hikers.",
+    "terrain_summary": "Expect a mix of rural footpaths, country lanes, woodlands, hedgerows, fields, and some road sections; terrain can be uneven with stiles, gradients, and potential boggy patches after rain.",
+    "safety_notes": "This is a very long hike. Plan for multiple days or long day trips with a clear itinerary. Bring maps and a compass, or a GPS with offline maps. Check weather forecasts and wear sturdy boots. Carry sufficient water and high-energy food, and dress in layers with weather protection. Inform someone of your route and expected times. Be prepared for navigation in areas with limited signage and for rural road traffic and livestock.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing layers",
+      "Waterproof jacket and trousers",
+      "Daypack or multi-day pack (20-40 L)",
+      "Water and high-energy foods",
+      "Map and compass (or GPS with offline maps)",
+      "Emergency whistle",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Knife or multitool",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency shelter or space blanket",
+      "Mobile phone with power bank",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn is ideal; winter excursions require careful planning and are more challenging.",
+    "seo": {
+      "title": "Hertfordshire Way – UK 981.3 km Long-Distance Trail Guide",
+      "meta_description": "Plan and prepare for the Hertfordshire Way, a challenging 981.3 km long-distance trail in the UK. Get terrain, safety tips, gear recommendations, and seasonal guidance.",
+      "h1": "Hertfordshire Way: UK Long-Distance Trail (981.3 km)"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 5458927
+  },
+  "ai": {
+    "summary": "Highmeadow Trail is a challenging 31.3 km hike in the UK, presenting a strenuous long-distance route with varied terrain, elevation gain, and remote sections. It is best tackled by experienced hikers who are prepared for changing weather and long day on the trail.",
+    "terrain_summary": "The route features a mix of grassy uplands, rocky segments, and narrow paths. Expect steep climbs, uneven footing, boggy stretches, and occasional moorland crossings. Navigation is important in exposed sections; sections may be exposed to wind and rain with limited shelter alongside streaming or muddy ground after rain.",
+    "safety_notes": "Plan for a full day or consider a two-day hike. Check weather forecasts; conditions can change rapidly in the UK. Carry a fully charged phone and a map with compass or GPS, waterproof clothing, sturdy boots, and sufficient food and water. Tell someone your itinerary, have a waypoint or emergency plan, and be aware of fatigue and dehydration on long ascents. In boggy or wet areas, take care to avoid slips; watch for livestock and livestock gates. If visibility drops or storm risk increases, turn back.",
+    "recommended_gear": [
+      "Waterproof jacket and trousers",
+      "Sturdy waterproof hiking boots with good grip",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone and portable charger",
+      "Layers: base layer, fleece, and an insulated layer",
+      "Water bottle or hydration system (2–3 liters capacity)",
+      "High-energy snacks and some emergency food",
+      "Emergency lightweight bivouac or space blanket",
+      "First-aid kit with blister care",
+      "Head torch with spare batteries",
+      "Whistle and personal locator beacon (optional but recommended)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Trekking poles (optional but helpful on long ascents)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for better daylight and drier conditions; shoulder seasons can be wet and muddy, so be prepared for variable weather.",
+    "seo": {
+      "title": "Highmeadow Trail – 31.3 km Challenging UK Long-Distance Hike",
+      "meta_description": "Plan your Highmeadow Trail hike in the UK. A tough 31.3 km route with varied terrain, safety tips, gear list, and best seasons.",
+      "h1": "Highmeadow Trail: A 31.3 km UK Challenge"
+    }
   }
 }

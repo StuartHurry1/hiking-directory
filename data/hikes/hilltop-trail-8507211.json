@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8507211
+  },
+  "ai": {
+    "summary": "A short, easy hike to a hilltop in the UK. The 0.9 km trail is level with a gentle ascent and offers pleasant views for a quick outdoor escape.",
+    "terrain_summary": "Primarily a well-marked, compact dirt and grass trail with a gentle incline. Expect a few grassy patches and occasional small stones near the summit. The route is suitable for beginners and families.",
+    "safety_notes": "Weather in the UK can change quickly. Check the forecast before you go. Wear sturdy shoes and bring waterproof layers. The 0.9 km distance is short, but footing can be uneven on sections of the trail and near the hilltop. Stay on the marked path, watch for uneven ground and slippery surfaces when wet. Bring water, sun protection in sunny conditions, and a small first aid kit. Let someone know your plans and avoid hiking alone if possible. Mobile signal can be unreliable in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water and a small snack",
+      "Weather-appropriate clothing (light jacket, hat, sunscreen)",
+      "Rain gear (packable waterproof jacket)",
+      "Small first aid kit",
+      "Map, guidebook, or offline map app",
+      "Phone with emergency numbers and a charged battery"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the most reliable conditions. The trail can be done year-round with appropriate clothing, but summers are often drier and winters can be cold and windy.",
+    "seo": {
+      "title": "Hilltop Trail — Easy 0.9 km Hike in the UK",
+      "meta_description": "Explore Hilltop Trail, a short 0.9 km easy hike in the UK. Learn about terrain, safety tips, gear and the best seasons for this quick outdoor escape.",
+      "h1": "Hilltop Trail: Easy 0.9 km Hike in the UK"
+    }
   }
 }

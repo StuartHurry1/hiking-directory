@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4102023
+  },
+  "ai": {
+    "summary": "The Hereward Way is a challenging long-distance trail in the United Kingdom, totaling about 700.8 km. It traverses a mix of rural lanes, open countryside, woodlands, and historic landscapes. Expect long days, significant elevation changes, and sections with limited services. Preparation, navigation skills, and reliable gear are essential for completing the route safely.",
+    "terrain_summary": "The route features varied terrain: quiet country lanes, hedgerows, fields, woodlands, moorland, and occasional coastal or riverside segments. Elevation gains can be substantial, with uneven paths, stiles, and potentially boggy ground after rain. Weather in the UK can be changeable, so plan for both sun and wet conditions.",
+    "safety_notes": "- The distance demands strong fitness and careful pacing.\n- Navigation skills and up-to-date maps are essential; have backups.\n- Weather can change rapidly; carry waterproofs and warm layers.\n- Tell someone your route and daily targets; have a plan for emergencies.\n- Plan overnight stops in towns or set up tents where permitted; verify camping permissions.\n- Carry a phone or beacon and know emergency numbers.\n- Stay alert for livestock, road safety on rural roads, and wildlife.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Insulation layers (fleece or light down) and breathable base layers",
+      "Rucksack with rain cover",
+      "Water bottle or hydration bladder (2–3 L capacity) and water treatment",
+      "Map and compass; GPS as backup",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and any personal medications",
+      "Lightweight tent or bivy/shelter and sleeping pad",
+      "Sleeping bag appropriate for season",
+      "Trekking poles",
+      "High-energy food, snacks, and emergency signaling device"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–September) offer the best conditions in the UK, with longer days and milder weather. Summer can be hot and busier; spring and autumn provide cooler temperatures and fewer crowds. Winter is feasible for hardy walkers but carries higher risk from severe weather and reduced daylight.",
+    "seo": {
+      "title": "Hereward Way: 700.8 km UK Hard-Distance Trail Guide",
+      "meta_description": "Discover the Hereward Way, a 700.8 km hard-distance hike across the UK. Route overview, terrain highlights, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Hereward Way — 700.8 km UK Hard-Distance Trail"
+    }
   }
 }

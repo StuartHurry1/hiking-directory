@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17359317
+  },
+  "ai": {
+    "summary": "Hincaster Trail is a 6.2 km moderate hike in the UK, offering a manageable circuit through countryside with a mix of lanes, fields, and woodland.",
+    "terrain_summary": "The route features a mix of country lanes, grassy paths, and woodland tracks. Expect gentle gradients with some uneven ground, short ascents, and occasional mud, as well as gates or stiles along the way.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and bring waterproof layers. Stay on marked paths, bring a map or GPS, and carry enough water and snacks. Let someone know your plan and check for any closures or livestock alerts.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle",
+      "Weather appropriate layers (light waterproof jacket and warm layer)",
+      "Map or offline GPS device",
+      "Snacks",
+      "Small first aid kit",
+      "Headlamp or flashlight if there is a chance of dusk"
+    ],
+    "best_seasons": "Spring and autumn offer comfortable temperatures, though the trail can be tackled year round with appropriate gear.",
+    "seo": {
+      "title": "Hincaster Trail – 6.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the Hincaster Trail, a 6.2 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear for an enjoyable day on this countryside circuit.",
+      "h1": "Hincaster Trail – 6.2 km Moderate Hike in the UK"
+    }
   }
 }

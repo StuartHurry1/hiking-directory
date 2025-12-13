@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15480793
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km route along Hickey's Lane in the UK, suitable for beginners and families. A relaxed stroll that can be completed in minutes and offers gentle scenery.",
+    "terrain_summary": "Primarily flat, on a well-maintained path or rural lane. Surface is typically paved or compact, with occasional gravel; may be muddy after rain. Watch for uneven spots and occasional pedestrians or vehicles.",
+    "safety_notes": "Stay to the path, be aware of passing vehicles on rural lanes, and check weather conditions before starting. Wear sturdy shoes, carry a light layer, water, and a phone for emergencies. Short hikes like this still benefit from daylight and awareness of surroundings.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or layer",
+      "Phone and a small map or offline download",
+      "Weatherproof jacket (depending on forecast)",
+      "Sunscreen and hat (seasonally)",
+      "Small daypack"
+    ],
+    "best_seasons": "Spring and Autumn",
+    "seo": {
+      "title": "Hickey's Lane – Easy 0.8 km Hike in the UK",
+      "meta_description": "Discover a short, easy 0.8 km hike along Hickey's Lane in the UK. Perfect for beginners and families seeking a quick outdoor stroll.",
+      "h1": "Hickey's Lane – Easy 0.8 km Hike"
+    }
   }
 }

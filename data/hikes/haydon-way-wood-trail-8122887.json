@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8122887
+  },
+  "ai": {
+    "summary": "Haydon Way Wood Trail is a short, easy 4.6 km hike through tranquil woodland in the UK. The route is family-friendly with flat, well-marked paths, making it suitable for beginners and casual walkers who want a peaceful forest experience.",
+    "terrain_summary": "The trail runs on well-maintained woodland paths. Expect mostly flat terrain with some gentle inclines, exposed roots in sections, and occasional muddy patches after rain. Surfaces are a mix of packed earth, gravel, and any boardwalk sections where present.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Stay on marked paths, be mindful of uneven ground and roots, and carry a small first aid kit. In woodland areas, watch for ticks, keep children close, and bring a map or a charged phone with offline maps. Daylight hours are shorter in winter, so start early in darker months.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a small snack",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Sun protection (hat, sunscreen) in brighter months",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Map or charged phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions with comfortable temperatures and clearer trails. The walk is still feasible in winter, but expect mud and wetter conditions.",
+    "seo": {
+      "title": "Haydon Way Wood Trail – Easy 4.6 km Woodland Walk in the UK",
+      "meta_description": "Discover Haydon Way Wood Trail, a gentle 4.6 km hike through UK woodlands. Easy terrain, family-friendly route with seasonal scenery.",
+      "h1": "Haydon Way Wood Trail – Easy 4.6 km Woodland Walk"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 75260
+  },
+  "ai": {
+    "summary": "The Heart of England Way is a hard, long-distance trail spanning roughly 359.6 km across central England in the United Kingdom. It weaves through rural countryside, woodlands, and small towns, demanding stamina and careful planning for multiple days on trail.",
+    "terrain_summary": "Expect a mix of rural farmland, hedgerows, wooded sections, gentle and moderate ascents, occasional canal towpaths, and some road sections. Terrain can be muddy and uneven, with exposed stretches in exposed locations and variable weather.",
+    "safety_notes": "This is a strenuous multi-day hike with long distances between settlements. Plan logistics carefully, carry reliable navigation tools (map and compass or GPS), and keep to waypoints. Check weather forecasts, bring adequate clothing and a warm layer, and pack sufficient water and high-energy food. Inform someone of your itinerary, be prepared for remote sections with limited cell reception, and watch for livestock on rural paths. Start early to ensure daylight and have a plan for safety in poor weather or emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots or boots with good ankle support",
+      "Weather-appropriate clothing including layers and waterproofs",
+      "Map and compass or GPS device",
+      "Water containers and high-energy food",
+      "Rain jacket and waterproof pants",
+      "Hat, sunglasses and sun protection",
+      "First aid kit and whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency shelter or bivy sack (optional but recommended for contingencies)",
+      "Walking poles (optional but helpful on rough terrain)"
+    ],
+    "best_seasons": "Spring through autumn (roughly April to October) generally offer the best hiking conditions; however, weather in central England can be highly changeable and some sections may be exposed year round.",
+    "seo": {
+      "title": "Heart of England Way: 359.6 km Hard Long-Distance Trail in the UK",
+      "meta_description": "Explore the Heart of England Way, a challenging 359.6 km long-distance trail across central England. Learn about terrain, safety tips, gear, and best seasons for planning your trek.",
+      "h1": "Heart of England Way – 359.6 km Hard-Distance Trail"
+    }
   }
 }

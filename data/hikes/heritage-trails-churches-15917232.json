@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15917232
+  },
+  "ai": {
+    "summary": "Heritage Trails: churches is a gentle 2.8 km route through historic churchyards and village streets in the United Kingdom. The easy terrain and short distance make it suitable for families and casual walkers who want to explore architectural features and local history.",
+    "terrain_summary": "Predominantly flat with a mix of pavement and easy gravel paths; some short uneven sections near church entrances and churchyards. Gentle slopes may appear at street junctions.",
+    "safety_notes": "Be mindful of pedestrians on shared paths and church grounds. Wear sturdy footwear for uneven surfaces. Respect residents and private properties near the trail; observe church opening times and do not enter restricted areas. Stay aware of weather conditions and carry a light rain layer if needed.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Phone with offline map or local mapping app",
+      "Small backpack for essentials",
+      "Sunscreen or hat on sunny days"
+    ],
+    "best_seasons": "Spring to autumn for the best weather and daylight; winter visits are possible but can be chilly and have shorter daylight hours.",
+    "seo": {
+      "title": "Heritage Trails: Churches – Easy 2.8 km Historic Church Walk in the UK",
+      "meta_description": "Explore an easy 2.8 km heritage walk in the UK, featuring historic churches and charming village streets. Ideal for families and casual hikers.",
+      "h1": "Heritage Trails: Churches – Easy 2.8 km UK Walk"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 9455672
+  },
+  "ai": {
+    "summary": "A long-distance, hard hike along the Heart of Wales Line Trail in the UK. At 969.3 km, the route follows a historic Welsh railway corridor, weaving through rural countryside, hills, and remote stretches that demand steady endurance, careful planning, and good navigation.",
+    "terrain_summary": "Primarily a rail-trail with mixed surfaces: gravel and compact paths, grassy verges, and occasional forest footpaths. Generally gentle grades, but some climbs appear where the line ascends or descends. Long sections between settlements mean few services and potential exposure to mud and wet weather.",
+    "safety_notes": "This is a very long, physically demanding trek with remote segments and limited daily services. Plan daily mileage, keep others informed of your itinerary, and carry navigation tools. UK weather is unpredictable; pack waterproofs, warm layers, and sun/wind protection. Stay hydrated, have a reliable food supply, and arrange resupply where possible. Be mindful of railway-adjacent hazards along the route, fatigue, and night-time risks in isolated sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Warm layers and a hat/gloves",
+      "Backpack with rain cover",
+      "Map and compass or GPS device with spare batteries",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and basic repair tools",
+      "Water bottle or hydration system and water treatment method",
+      "High-energy snacks and meals; lightweight stove if planning to camp",
+      "Emergency shelter (bivvy bag or lightweight tent)",
+      "Trekking poles",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Cash or cards for resupply towns"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal on the UK Heart of Wales Line Trail, offering longer daylight, more reliable weather, and better access to towns for resupply; winter hiking presents greater hazards and fewer services.",
+    "seo": {
+      "title": "Heart of Wales Line Trail – 969.3 km UK Rail-Trail Hike",
+      "meta_description": "Plan your journey on the Heart of Wales Line Trail, a hard 969.3 km long-distance trek along a historic Welsh railway corridor in the UK. Terrain, safety, and gear guidance included.",
+      "h1": "Heart of Wales Line Trail – 969.3 km Rail-Trail Hike in the UK"
+    }
   }
 }

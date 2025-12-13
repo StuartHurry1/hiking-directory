@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 78976
+  },
+  "ai": {
+    "summary": "The High Peak Trail is a hard, long-distance hike in the UK, covering about 118 km in an area with an unknown region designation. The route demands endurance, solid navigation, and weather resilience across varied terrain and remote sections. This overview provides terrain context, safety notes, gear recommendations, and seasonal guidance for this demanding trek.",
+    "terrain_summary": "Expect a mix of exposed upland moorland, rocky tracks, muddy forest paths, and occasional road sections. The route involves sustained climbs and descents, uneven footing, and potentially boggy ground after rain. Navigation can be challenging in open country; carry a map and compass even on a well marked route. UK weather is highly variable, so plan for wind, rain, and bright sun on open sections.",
+    "safety_notes": "Plan for rapid weather changes common in the UK. Carry map and compass and know how to use them. Start early to maximize daylight, especially in winter. Tell someone your itinerary and estimated finish time. Bring enough water and food and monitor fatigue. Wear sturdy waterproof boots and layered clothing. Carry a lightweight emergency shelter, a whistle, and a first aid kit. In remote sections consider hiking with a companion or check in at regular points.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Breathable, waterproof shell jacket and pants",
+      "Insulating layers (fleece or down) and a warm hat",
+      "Map and compass (and a GPS as backup)",
+      "Water bottle or hydration bladder with 2–3 liters of capacity",
+      "Energy snacks and meals (nuts, bars, dried fruit, electrolyte drinks)",
+      "Headlamp with extra batteries",
+      "Emergency shelter or bivy bag",
+      "First aid kit and blister care",
+      "Whistle for emergencies",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional but helpful)",
+      "Plastic bag for wet gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are typically best for the High Peak Trail due to longer days and more stable weather in the UK. Winter hiking is possible with advanced cold weather gear and careful planning.",
+    "seo": {
+      "title": "High Peak Trail – 118 km Hard UK Hike",
+      "meta_description": "Plan a 118 km trek on the High Peak Trail in the UK. Get terrain overview, safety tips, gear recommendations, and best seasons for this demanding long-distance hike.",
+      "h1": "High Peak Trail — 118 km Hard UK Hike"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13249203
+  },
+  "ai": {
+    "summary": "Heritage Time Trail is a gentle 4.4 km hike in the United Kingdom, suitable for beginners and families. The route stays on well-maintained paths with light elevation and offers opportunities to enjoy local scenery and any heritage-themed stops along the way.",
+    "terrain_summary": "Predominantly well-trodden paths and compact gravel surfaces, with small grassy sections and occasional gentle slopes. The route is mostly easy underfoot, but be prepared for muddy patches after rain and uneven ground in places.",
+    "safety_notes": "- Check the forecast and daylight hours before you go; UK weather can change quickly.\n- Wear sturdy footwear and bring a waterproof layer.\n- Take a map or offline navigation on your phone; keep a charged battery.\n- Let someone know your plans and expected return time.\n- Stay on marked paths, supervise children and dogs, and watch for other walkers.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle (1–2 litres)",
+      "Weather-appropriate clothing (layering, waterproof jacket)",
+      "Hat and sunscreen for sun protection",
+      "Snack or energy bar",
+      "Small first aid kit",
+      "Map or offline map on a phone, and charger"
+    ],
+    "best_seasons": "Spring to Autumn are ideal; in Winter ensure you have proper cold-weather gear and be mindful of shorter daylight hours.",
+    "seo": {
+      "title": "Heritage Time Trail: Easy 4.4 km Hike in the UK",
+      "meta_description": "Discover the Heritage Time Trail, an easy 4.4 km hike in the UK suitable for beginners and families. Learn about terrain, safety tips, best seasons, and what to bring.",
+      "h1": "Heritage Time Trail: An Easy 4.4 km Hike in the UK"
+    }
   }
 }

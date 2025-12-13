@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9774301
+  },
+  "ai": {
+    "summary": "A 5.5 km easy circular coastal walk from Heddon’s Mouth, offering scenic cliff-top views, river gorge scenery and a family-friendly route along a UK coastline.",
+    "terrain_summary": "Coastal paths with a mix of gravel tracks, grassy lanes and some uneven sections. Expect short flights of steps and muddy patches after rain. Some stretches run close to exposed cliff edges; keep children and dogs under control.",
+    "safety_notes": "Check weather and tide conditions before setting out; stay on marked paths near cliffs; wear sturdy footwear; bring waterproof clothing and a layer; carry water and snacks; mobile signal may be weak in remote sections; supervise children closely; be mindful of livestock and gates; after heavy rain, routes can be muddy and slippery.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered) and a waterproof jacket",
+      "Map or GPS device (or offline map on phone)",
+      "Small first aid kit",
+      "Whistle and charged phone for emergencies",
+      "Sun protection (sunscreen, hat)"
+    ],
+    "best_seasons": "All year; spring to autumn typically offer the best weather and sea views, while winter visits require warmer clothing and careful footing due to wind and mud.",
+    "seo": {
+      "title": "Heddon's Mouth Circular Walk - 5.5 km Easy Coastal Route in the UK",
+      "meta_description": "Explore the 5.5 km easy circular hike starting at Heddon’s Mouth. Coastal scenery, cliff-top views, and varied terrain make this family-friendly walk suitable for most conditions in the UK.",
+      "h1": "Heddon's Mouth Circular Walk – 5.5 km Easy Coastal Trail"
+    }
   }
 }

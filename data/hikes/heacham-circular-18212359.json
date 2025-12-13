@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 18212359
+  },
+  "ai": {
+    "summary": "A challenging 15.3 km circular hike in the UK, likely around the Heacham area, returning to the start. The route combines coastal and rural scenery with varied footing and some steep sections, best tackled by experienced hikers in good weather.",
+    "terrain_summary": "The terrain includes coastal paths, grassy field tracks, and occasional paved lanes. Expect uneven ground, exposed sections, muddy areas in wet weather, and some short ascents.",
+    "safety_notes": "Plan for rapidly changing UK weather and coastal winds. Check tide times if coastal sections are involved. Wear sturdy boots and bring layered clothing, waterproofs, and sun protection. Carry a map, compass or GPS, and a fully charged phone. Bring enough water (2–3 L) and snacks. Inform someone of your route and expected return time. Carry a basic first aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 liters total)",
+      "Weather-appropriate clothing (layers, waterproofs)",
+      "Map and compass or GPS device",
+      "Phone with charged battery and offline maps",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; autumn can be particularly scenic in rural areas.",
+    "seo": {
+      "title": "Heacham Circular - 15.3 km Hard Hike in the UK",
+      "meta_description": "Plan your Heacham Circular hike: a 15.3 km hard difficulty loop in the UK featuring coastal and rural terrain. Learn about the route, terrain, safety tips, and gear.",
+      "h1": "Heacham Circular Hiking Route"
+    }
   }
 }

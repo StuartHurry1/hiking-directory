@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19356159
+  },
+  "ai": {
+    "summary": "A 14.7 km coastal hike on the Isle of Wight following Headon Warren’s chalk downs with coastal views, grassy paths and rural lanes. A moderate route with varied surfaces and some exposed sections, suitable for hikers with some experience.",
+    "terrain_summary": "Mostly chalk down paths and grassy tracks with some compacted dirt, short road sections and exposed cliff-top edges. Expect uneven bits, loose gravel and a firm surface in parts; careful footing near edges.",
+    "safety_notes": "Be mindful of cliff edges and erosion along coastal sections; winds can be strong and unpredictable, even on sunny days; stay back from the edge, especially in wet or windy conditions. Wear sturdy footwear with good grip, bring a map or GPS, and ensure you have a charged phone, water and nutrition. Tell someone your planned route and return time. In winter and poor weather, daylight is limited and paths can be muddy; sun protection is advisable in summer.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle (1–2 liters)",
+      "Weather-appropriate clothing including a waterproof jacket",
+      "Map and compass or GPS device",
+      "Sun protection (hat, sunscreen)",
+      "Snacks or energy bars",
+      "Lightweight backpack",
+      "Small first aid kit",
+      "Phone with emergency contacts charged",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring (March–May) and autumn (September–October) are ideal for comfortable temperatures and fewer crowds; summer brings long days but more wind and crowds; winter walks are possible but more challenging due to shorter daylight and weather.",
+    "seo": {
+      "title": "Headon Warren Walk, Isle of Wight – 14.7 km Coastal Hike",
+      "meta_description": "Explore Headon Warren Walk on the Isle of Wight. A 14.7 km moderate coastal hike with chalk downs, cliff-top views and varied terrain. Safety tips and gear included.",
+      "h1": "Headon Warren Walk (Isle of Wight) – 14.7 km Coastal Hike"
+    }
   }
 }

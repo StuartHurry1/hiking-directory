@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16131182
+  },
+  "ai": {
+    "summary": "A moderate 8.5 km hike in the UK, suitable for hikers with some experience. The route combines mixed terrain with gentle climbs and flat sections, offering a steady pace and opportunities to enjoy varied scenery.",
+    "terrain_summary": "Expect a mix of packed paths, short grassy sections, and occasional woodland. Surfaces can be uneven and muddy after rain; footwear with good grip is advised. Some sections may have exposed footing and gentle ascents.",
+    "safety_notes": "Check the weather forecast before starting, as UK conditions can shift quickly. Carry a map and compass or GPS, stay on marked paths, and let someone know your plan and expected return time. Bring extra layers and waterproofs, even in mild conditions. Keep your phone charged, and consider a lightweight emergency whistle. Stay aware of other hikers, livestock, and wildlife along rural stretches.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots or shoes",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "Energy snacks",
+      "Sun protection (hat and sunscreen)",
+      "Basic first aid kit",
+      "Mobile phone and power bank",
+      "Headlamp or flashlight",
+      "Emergency whistle",
+      "Extra layers (fleece or wool)"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Hebble Trail – 8.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 8.5 km Hebble Trail in the UK. This moderate hike offers varied terrain, gentle climbs, and practical safety tips for a rewarding day on the trail.",
+      "h1": "Hebble Trail – 8.5 km Moderate Hike in the UK"
+    }
   }
 }

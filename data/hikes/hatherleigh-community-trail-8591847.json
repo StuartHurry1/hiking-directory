@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8591847
+  },
+  "ai": {
+    "summary": "A 10.2 km looped hike in the UK designed for hikers with moderate fitness, offering a mix of countryside scenery and community-accessible paths along accessible routes.",
+    "terrain_summary": "Mixed surface terrain including paved paths, gravel tracks, and grassy sections. Gentle gradients with occasional slightly uneven ground; expect mud after wet weather.",
+    "safety_notes": "Plan around daylight hours and weather; wear sturdy footwear and dress in layers with a waterproof outer layer. Stay on marked paths, and be cautious at road crossings near villages. Carry water and snacks, have a basic map or offline navigation, and tell someone your route and expected return. Mobile reception may be limited in rural stretches.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing with a lightweight waterproof jacket",
+      "Map, compass, or offline navigation app",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Headlamp or flashlight (in case of late return)"
+    ],
+    "best_seasons": "Spring to autumn are generally ideal for this trail with milder temperatures and longer daylight. Summer offers longer days but can be busier; shoulder seasons can be muddy after rain. Winter hiking is possible with proper gear, but daylight is shorter and conditions may be tougher.",
+    "seo": {
+      "title": "Hatherleigh Community Trail - 10.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the 10.2 km Hatherleigh Community Trail in the UK. A moderate hike with mixed terrain, practical safety tips, and gear recommendations.",
+      "h1": "Hatherleigh Community Trail — 10.2 km Moderate Hike in the UK"
+    }
   }
 }

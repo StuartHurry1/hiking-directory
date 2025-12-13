@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 16893473
+  },
+  "ai": {
+    "summary": "Heritage 100 - Walridge Fell is an 8.9 km ridge-focused hike in the UK, offering exposed summits, sweeping views, and a moderate challenge for hikers with some experience on rocky terrain.",
+    "terrain_summary": "The route follows rugged ridgelines with rocky paths, heather moorland, and occasional boggy patches. Expect exposure to wind and weather; navigation and steady footing are important on the exposed sections.",
+    "safety_notes": "Check weather and daylight before starting; the ridge sections are exposed and can be windy. Bring a map and compass or a GPS device, and know how to use them. Stay on marked paths, watch footing on rocky or boggy ground, and avoid loose rock. Inform someone of your plan and expected return. Carry sufficient water and food, a charged phone in case of emergencies, a weather-appropriate layer, hat and gloves, and a compact first aid kit. In poor visibility, consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weatherproof jacket and pants (shell layer)",
+      "Insulating layers",
+      "Hat and gloves",
+      "Map, compass, and/or GPS device",
+      "Fully charged phone and emergency contact method",
+      "Water bottle or hydration system, snacks",
+      "Small first aid kit",
+      "Whistle",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn, roughly March–October; conditions are most reliable then, though the route can be hiked year-round with extra precautions in winter.",
+    "seo": {
+      "title": "Heritage 100 - Walridge Fell: UK Ridge Hike (8.9 km)",
+      "meta_description": "Discover Heritage 100 - Walridge Fell, an 8.9 km ridge hike in the UK. Moderate difficulty, rugged terrain, best seasons, safety tips, and gear recommendations.",
+      "h1": "Heritage 100 - Walridge Fell Ridge Hike"
+    }
   }
 }

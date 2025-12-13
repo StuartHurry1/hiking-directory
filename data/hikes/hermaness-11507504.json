@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 11507504
+  },
+  "ai": {
+    "summary": "Hermaness is a 15.6 km hard coastal hike in the UK, known for dramatic sea cliffs, open skies, and potential seabird sightings. The route is exposed and rugged, demanding good fitness and careful planning for a full-day outing.",
+    "terrain_summary": "Coastal path along sea cliffs with heather moorland and uneven rocky sections. Expect exposed winds, long open stretches with cliffs nearby, and occasional boggy ground.",
+    "safety_notes": "Plan for a remote coastal walk with rapidly changing weather. Wear sturdy boots and waterproof clothing; steer clear of cliff edges and loose ground. Navigation is important in mist—carry a map, compass or GPS. Bring enough water and high-energy snacks for a full day, plus a basic first aid kit and an emergency whistle. Check daylight hours and local conditions; mobile reception can be limited in remote areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Small first aid kit and emergency whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Headlamp or flashlight (with spare batteries)",
+      "Mobile power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers milder weather and better visibility, though wind and rain can occur any time in the UK.",
+    "seo": {
+      "title": "Hermaness Coastal Hike – 15.6 km Hard Route in the UK",
+      "meta_description": "Discover Hermaness: a 15.6 km hard coastal hike in the UK featuring dramatic sea cliffs, rugged terrain, and wildlife. Safety tips, gear recommendations, and the best season to hike.",
+      "h1": "Hermaness Coastal Hike – 15.6 km (Hard)"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 305544
+  },
+  "ai": {
+    "summary": "The Hertfordshire Chain Walk is a challenging 337.7 km long-distance route that weaves around Hertfordshire and nearby areas in the UK. It is best suited for experienced hikers prepared for multi-day trekking, long distances, and varied terrain.",
+    "terrain_summary": "The route offers a varied mix of rural lanes, farmland, woodlands, canal towpaths, and occasional minor road sections. Surfaces range from compact paths and gravel to muddy trails after rain. Expect rolling elevation with occasional steeper sections, and be prepared for weather-driven conditions typical of the UK.",
+    "safety_notes": "Plan for multiple days with a realistic daily mileage. Check weather forecasts and be ready for rapid changes. Carry a map and compass (or GPS) and know how to use them. Tell someone your itinerary and estimated times. Bring enough water and high-energy food, and have a first aid kit. Wear sturdy footwear and weather-appropriate clothing; carry a waterproof layer. Be prepared for mud, navigation errors, and occasional road walking; practice Leave No Trace and carry out all rubbish. Have a charged phone and a backup power source; know emergency numbers.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and a waterproof outer shell",
+      "Map and compass (or GPS) with a clear route plan",
+      "Water bottle or hydration system and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Hat and sunscreen; gloves for cold or windy conditions",
+      "Trekking poles (optional but helpful)",
+      "Emergency whistle and reflective gear",
+      "Mobile phone with portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to September) when trails are drier and daylight is longer.",
+    "seo": {
+      "title": "Hertfordshire Chain Walk – 337.7 km Hard Long-Distance Trail in the UK",
+      "meta_description": "Explore the Hertfordshire Chain Walk, a demanding 337.7 km route through Hertfordshire and surrounding countryside in the UK. Practical guide, terrain overview, safety tips, and gear suggestions.",
+      "h1": "Hertfordshire Chain Walk: 337.7 km Hard Long-Distance Trail in the UK"
+    }
   }
 }

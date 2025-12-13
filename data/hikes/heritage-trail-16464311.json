@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16464311
+  },
+  "ai": {
+    "summary": "Heritage Trail is a short, easy 2.5 km hike in the UK, ideal for beginners and families, with gentle paths and light scenery.",
+    "terrain_summary": "The route follows well-maintained footpaths with occasional grass sections, light gravel, and very minimal elevation gain, making it accessible to most walkers.",
+    "safety_notes": "Always wear sturdy footwear and weather-appropriate clothing; stay on marked paths and follow trail signs; bring water and a small snack; check daylight hours; hike with a companion when possible; be mindful of other walkers and vulnerable wildlife; carry a basic first aid kit for minor injuries.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Sunscreen and hat",
+      "Map or offline GPS / fully charged phone",
+      "Small first aid kit (blister care, plasters)"
+    ],
+    "best_seasons": "Spring to Autumn; winter can be cold, wet and muddy, so plan accordingly.",
+    "seo": {
+      "title": "Heritage Trail — Easy 2.5 km Hike in the UK",
+      "meta_description": "Experience a gentle 2.5 km hike on the Heritage Trail in the UK. Easy, family-friendly terrain with light scenery—perfect for a short outdoor outing.",
+      "h1": "Heritage Trail – Easy 2.5 km Hike in the UK"
+    }
   }
 }

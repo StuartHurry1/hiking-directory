@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9176543
+  },
+  "ai": {
+    "summary": "Hayes Barton Heritage Trail is a challenging 15.2 km hike in the United Kingdom. The route traverses varied terrain and historic sites, demanding good stamina, navigation, and weather-ready gear.",
+    "terrain_summary": "Expect mixed terrain: narrow trails, grassy paths, uneven footing, and occasional rocky sections. The route includes ascents and descents with potential muddy sections after rain, plus stile crossings and exposed sections.",
+    "safety_notes": "This is a hard hike with significant elevation changes and rugged, uneven surfaces. Check the weather and daylight hours before you go. Carry a map and compass or a reliable navigation device, a fully charged phone, and a backup power source. Wear sturdy boots, bring waterproof clothing and extra layers, and pack enough water and energy snacks. Inform someone of your plan and expected return time, and be prepared for limited facilities along the route.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and extra layers",
+      "Map and compass or offline navigation",
+      "Water bottle or hydration system (2 L)",
+      "High-energy snacks",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Trekking poles",
+      "Hat and gloves (seasonal)",
+      "Phone with power bank and emergency numbers"
+    ],
+    "best_seasons": "Spring to autumn (April–October) is generally most pleasant in the UK, though conditions can vary; plan for milder days but be prepared for sudden weather changes.",
+    "seo": {
+      "title": "Hayes Barton Heritage Trail – 15.2 km Hard Hike in the UK",
+      "meta_description": "Discover Hayes Barton Heritage Trail, a 15.2 km hard hike in the United Kingdom. Explore varied terrain, historic sites, and challenging trails with practical safety tips and gear.",
+      "h1": "Hayes Barton Heritage Trail"
+    }
   }
 }

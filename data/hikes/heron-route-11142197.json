@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11142197
+  },
+  "ai": {
+    "summary": "Heron route is an easy 5.3 km hike in the UK, well-suited for beginners and families. The walk offers a relaxed pace on gentle paths with light scenery and potential wildlife sightings along the way.",
+    "terrain_summary": "Predominantly well-maintained paths with gentle gradients. Expect some damp or muddy sections after rain, and occasional boardwalks near wetlands. Ground can be uneven, so footwear with good grip is advised.",
+    "safety_notes": "Check the forecast before you go; UK weather can change quickly. Wear sturdy waterproof footwear and bring a waterproof layer. Stay on marked paths, keep children under supervision near water, and carry a full water bottle and a small first aid kit. If visibility is poor, turn back and avoid remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Map and compass or offline navigation app",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Lightweight rain cover or dry bag for electronics"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for this route; winter hiking is possible with proper gear and daylight but conditions may be more challenging.",
+    "seo": {
+      "title": "Heron Route — Easy 5.3 km Hike in the UK",
+      "meta_description": "Explore the Heron Route, a gentle 5.3 km hike in the UK. Easy terrain for families and beginners, with wildlife viewing potential and practical safety tips.",
+      "h1": "Heron Route: Easy 5.3 km Hike in the UK"
+    }
   }
 }

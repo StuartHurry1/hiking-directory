@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 9774298
+  },
+  "ai": {
+    "summary": "A strenuous 15.4 km coastal hike along the Exmoor coast from Heddon Valley to Woody Bay, featuring cliff-top paths, forest tracks, and several elevation gains with expansive sea views.",
+    "terrain_summary": "Mixed terrain with grassy cliff-top trails, rocky and gravel paths, wooden steps through woodlands, and occasional boggy patches. Expect uneven surfaces, steep ascents and descents, and exposed sections where wind and spray can be strong.",
+    "safety_notes": "Check tide times and forecasted weather; stay on marked paths near cliff edges and be aware of erosion; wear sturdy waterproof boots and dress in layers; carry a map and compass or GPS and a charged phone; bring adequate water and high-energy snacks; inform someone of your planned route and ETA; in an emergency call 999; be prepared for limited mobile reception along the coast.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weatherproof outer layer (waterproof jacket and trousers)",
+      "Warm mid-layer and sun protection (hat and sunscreen)",
+      "Backpack with at least 1–2 litres of water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Phone with a portable charger",
+      "Small first-aid kit and blister care",
+      "Headlamp or flashlight (for potential delays)",
+      "Emergency blanket or extra warm layer",
+      "Whistle and basic repair kit (spare laces, tape)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for the best conditions; the route can be tackled year-round with extra caution in winter.",
+    "seo": {
+      "title": "Heddon Valley to Woody Bay Walk – 15.4 km Coastal Hike in Exmoor, UK",
+      "meta_description": "Tackle a challenging 15.4 km coastal hike from Heddon Valley to Woody Bay along Exmoor's rugged coast. Discover terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Heddon Valley to Woody Bay Walk (15.4 km) – Coastal Hike in Exmoor"
+    }
   }
 }

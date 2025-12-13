@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 541128
+  },
+  "ai": {
+    "summary": "The Herefordshire Trail is a challenging long-distance hike in the United Kingdom, offering a substantial circuit around Herefordshire, England. Covering roughly 719 km, it threads rolling farmland, river valleys, woodlands, and historic villages, rewarding experienced trekkers with diverse landscapes and a true sense of the countryside.",
+    "terrain_summary": "Expect a mix of rural lanes, hedged fields, woodland edges, open farmland, and occasional river crossings. The route includes stiles, minor tracks, and potentially boggy sections after rain. Navigation is generally straightforward, but carrying a map and compass (or GPS) is advised for confidence across the entire circuit.",
+    "safety_notes": "Plan for UK weather variability (rain, fog, wind, heat). Carry a reliable map and compass or GPS, and don't rely on mobile signal. Be prepared for cattle on farmland and keep gates closed. Expect uneven paths, steps, and potential mud; wear sturdy footwear and dress in layers. Share your itinerary with someone, carry sufficient food and water, and have an emergency plan for storms or injury.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and warm layers",
+      "Moisture-wicking clothing, extra socks",
+      "Daypack with rain cover",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "Map, compass, and/or GPS with the route downloaded",
+      "First aid kit and whistle",
+      "Emergency blanket or bivy (for night stoppages)",
+      "Food for multi-day sections and energy snacks",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Insect repellent and headlamp with spare batteries",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring through autumn (roughly April to September) offer the best weather and daylight. Summer provides longer days but busier trails; late autumn and winter hikes are possible with careful planning, shorter daily distances, and preparedness for colder, wetter conditions.",
+    "seo": {
+      "title": "Herefordshire Trail: UK Long-Distance Hike (719 km) in Herefordshire",
+      "meta_description": "Discover the Herefordshire Trail, a challenging 719 km circuit in Herefordshire, England. Read terrain, safety, best seasons, and gear tips for this hard-distance UK hike.",
+      "h1": "Herefordshire Trail: UK Long-Distance Hike (719 km)"
+    }
   }
 }

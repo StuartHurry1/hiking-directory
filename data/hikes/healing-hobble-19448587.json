@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19448587
+  },
+  "ai": {
+    "summary": "Healing Hobble is a roughly 6.3 km moderate hike in the UK. The route weaves through a mix of quiet lanes, woodland paths, and gentle climbs, suiting hikers with some experience. Expect uneven surfaces at times and varying terrain underfoot.",
+    "terrain_summary": "The trail combines grassy tracks, compact dirt paths, and woodland sections with occasional rocky or muddy patches. Expect gentle ascents, short steeper sections, and potential wet conditions after rain. Navigation is straightforward, but a map or GPS is useful.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear with good grip. Dress in layers and bring a waterproof jacket. Carry sufficient water and snacks, plus sun protection in bright conditions. Stay on marked paths, watch for roots and loose stones, and keep a safe distance from other hikers on narrow sections. If hiking alone, share your plan and estimated return time; carry a charged phone and know how to contact local emergency services.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good tread",
+      "Water and high-energy snacks (about 2 liters of water)",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and/or GPS device or offline map",
+      "Hat, sunscreen, and sunglasses for sun protection",
+      "Small first-aid kit and phone charger"
+    ],
+    "best_seasons": "Spring to autumn in the UK; winter hiking is possible with extra care and appropriate gear.",
+    "seo": {
+      "title": "Healing Hobble – 6.3 km Moderate UK Hike",
+      "meta_description": "Plan your Healing Hobble hike in the UK. A ~6.3 km moderate trail with mixed terrain, safety tips, gear suggestions, and best-season guidance.",
+      "h1": "Healing Hobble: 6.3 km Moderate UK Hike"
+    }
   }
 }

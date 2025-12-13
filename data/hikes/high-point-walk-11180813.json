@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 11180813
+  },
+  "ai": {
+    "summary": "High Point Walk is a demanding 15.8 km trek in the UK, designed for experienced hikers. The route features long ascents to a high point, rugged terrain, and exposed sections. It rewards with sweeping views but requires solid navigation, planning, and sturdy gear.",
+    "terrain_summary": "Expect continuous ascents and descents over rough, uneven trails with rocky sections, grassy moorland, and potential boggy stretches. Paths can be muddy in wet weather, and exposed ridge sections may be windy. Navigation can be challenging in unknown terrain, so map and compass are essential.",
+    "safety_notes": "Plan for a 6–8 hour round trip. Check weather and winds at height before starting. Wear sturdy boots and dress in layers; be prepared for sudden changes. Carry sufficient water and high-energy foods. Bring a map, compass (or reliable GPS), and a fully charged phone as backup. Have a head torch, whistle, first aid kit, and an emergency blanket. Stay on marked paths, watch for fatigue, and inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof outer layer (jacket and pants)",
+      "Insulating layers (fleece or mid-layer)",
+      "Hat and gloves",
+      "Map and compass (and/or GPS device)",
+      "Fully charged mobile phone with offline maps",
+      "Water bottle or hydration system (2–3 liters total)",
+      "High-energy snacks (bars, nuts, dried fruit)",
+      "First aid kit",
+      "Trekking poles (optional but helpful on long ascents)",
+      "Emergency blanket or bivouac sack",
+      "Whistle and sunscreen",
+      "Headlamp or flashlight with extra batteries",
+      "Dry bag or waterproof pouch for valuables"
+    ],
+    "best_seasons": "Late spring to early autumn; year-round hiking is possible with proper preparation.",
+    "seo": {
+      "title": "High Point Walk – 15.8 km Hard Hike in the UK",
+      "meta_description": "Challenge yourself with the High Point Walk: a 15.8 km hard hike in the UK featuring steep climbs and rugged terrain. Find safety tips, gear lists, and planning advice.",
+      "h1": "High Point Walk: A 15.8 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 2683958
+  },
+  "ai": {
+    "summary": "A short, easy circular trail in the UK, just 0.8 km long. Suitable for beginners, families, or a quick outdoor break.",
+    "terrain_summary": "Mostly flat, well-maintained path with occasional grass or gravel sections. Gentle surface changes and minimal ascent.",
+    "safety_notes": "Check weather and daylight. Wear sturdy footwear and dress for the conditions. Bring water; watch for uneven surfaces after rain. Stay on the trail and be courteous to other walkers; keep dogs under control where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat (seasonal)",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in late spring to early autumn.",
+    "seo": {
+      "title": "Hey Green Circular Trail – Easy 0.8 km Circular Hike in the UK",
+      "meta_description": "Explore Hey Green Circular Trail, an easy 0.8 km circular walk in the UK. Perfect for a quick stroll, family outing, and scenic countryside.",
+      "h1": "Hey Green Circular Trail – Easy 0.8 km Circular Hike in the UK"
+    }
   }
 }

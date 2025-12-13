@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19280803
+  },
+  "ai": {
+    "summary": "A gentle 4.8 km circuit near Hawker's Hut in North Cornwall, offering easy terrain and scenic countryside suitable for families, casual walkers, and beginners seeking a relaxed day out in the UK countryside.",
+    "terrain_summary": "The route follows well-maintained farm tracks and public footpaths with a mix of grassy fields and compact earth. Expect some uneven sections and occasional muddy patches after rain. There are gentle gradients and occasional steps near the hut; surface can be uneven underfoot, so sturdy footwear is recommended. The scenery includes open fields, hedgerows, and glimpses of rural Cornwall.",
+    "safety_notes": "This is an easy, relatively short walk, but conditions can change with weather. Wear sturdy waterproof footwear and a weather-appropriate layer. Check for muddy patches after rain and take care on uneven surfaces. Bring water, snacks, and a map or GPS; carry a charged mobile phone in case of emergency. Mind farm gates and livestock; close gates behind you. Stay on marked paths, and be cautious near road crossings and driveways. In winter daylight is limited—plan accordingly.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Waterproof jacket and extra layer",
+      "Bottoms appropriate for mud (pants that can be rolled up)",
+      "Water bottle",
+      "Small backpack",
+      "Snacks or a light lunch",
+      "Map or offline GPS / smartphone with battery",
+      "Hat and sunscreen (summer)",
+      "Basic first-aid kit",
+      "Phone with emergency numbers"
+    ],
+    "best_seasons": "Year-round, with the best conditions typically from late spring to early autumn when daylight is longer and weather is milder. Spring and autumn offer pleasant scenery and fewer crowds.",
+    "seo": {
+      "title": "Hawker's Hut Walk – Easy 4.8 km Hike in North Cornwall, UK",
+      "meta_description": "Explore Hawker's Hut walk in North Cornwall. An easy 4.8 km route with gentle terrain, scenic countryside, safety tips, and packing guidance for a family-friendly day out in the UK.",
+      "h1": "Hawker's Hut Walk, North Cornwall"
+    }
   }
 }

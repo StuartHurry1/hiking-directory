@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19118821
+  },
+  "ai": {
+    "summary": "An easy 5.9 km hike on the Headley Heath Lizard Trail at Box Hill in the UK. The route runs along well-marked paths through heathland and chalk grassland, suitable for beginners and families seeking a relaxed day out with simple scenery and views over the countryside.",
+    "terrain_summary": "Predominantly easy, well-maintained trails with occasional chalk surfaces and gentle gradients. Some sections may be uneven or loose underfoot; good footwear recommended. Trails are well-signposted; expect open heathland and scattered woodland.",
+    "safety_notes": "Weather in the South East can change rapidly; check the forecast before you go. Wear sturdy walking shoes and bring layers for warmth. Stay on marked paths and be mindful of grazing livestock on heathland. Carry water and snacks; bring a map or offline navigation and ensure your phone is charged. Daylight hours vary; start early in winter. Be aware of other users on shared tracks including cyclists and horse riders. If you have a dog, keep it on a leash where required and clean up after it.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes or boots",
+      "Light layers and weather appropriate clothing",
+      "Hat and sunscreen",
+      "Map or offline navigation, or a fully charged phone",
+      "Snacks or energy bars",
+      "Small backpack",
+      "Lightweight rain jacket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is ideal, with wildflowers in bloom and longer daylight; spring for bluebells and blooms, summer for warmth and views, and autumn for color.",
+    "seo": {
+      "title": "Headley Heath Lizard Trail, Box Hill — Easy 5.9 km Hike in the UK",
+      "meta_description": "Discover Headley Heath Lizard Trail at Box Hill. This easy 5.9 km hike in the UK takes you through heathland and chalk grassland with practical safety tips, best seasons, and essential gear.",
+      "h1": "Headley Heath Lizard Trail at Box Hill — Easy 5.9 km Hike"
+    }
   }
 }

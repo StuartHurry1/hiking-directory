@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18502780
+  },
+  "ai": {
+    "summary": "A short, easy 1.8 km hike on the Havant Footpath 30 in the UK. Designed for beginners and families, it offers a gentle stroll with minimal elevation and well-defined routes.",
+    "terrain_summary": "The route is largely flat with a mix of packed earth, gravel, and short grassy sections. Surfaces are generally well-defined, but expect occasional mud after rain and some exposed roots.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Stay on the marked path, be mindful of other trail users, and keep an eye out for cyclists. Bring a small bottle of water and a light layer, and let someone know your plan. If conditions are dim, carry a flashlight or use your phone's light.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle or hydration",
+      "Light rain jacket",
+      "Small backpack",
+      "Sun protection (hat, sunscreen)",
+      "Phone with offline map or local map",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal for pleasant conditions. The route can be walked year-round, but be prepared for mud and cold weather in winter.",
+    "seo": {
+      "title": "Havant Footpath 30 – Easy 1.8 km UK Hiking Route",
+      "meta_description": "Explore the Havant Footpath 30, a short and easy 1.8 km hike in the UK. Learn about the terrain, safety tips, recommended gear, best seasons, and practical details for a pleasant walk.",
+      "h1": "Havant Footpath 30 – Easy 1.8 km Hike in the UK"
+    }
   }
 }

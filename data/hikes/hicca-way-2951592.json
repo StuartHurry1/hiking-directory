@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2951592
+  },
+  "ai": {
+    "summary": "Hicca Way is a demanding 49.7 km trek in the UK, designed as a multi-day hike through varied rural landscapes. With a hard difficulty rating, expect long days, significant elevation changes, and exposed sections. The route emphasizes endurance over technical rock scrambling, and is best tackled by experienced hikers with solid navigation skills.",
+    "terrain_summary": "The trail traverses a mix of muddy tracks, moorland, heath, woodland paths, and rural lanes. Surfaces can be uneven and wet, with occasional steep climbs and long ascents. Navigation relies on map and compass, and weather in the UK can change quickly, so plan for mud, rain, and wind.",
+    "safety_notes": "Plan as a multi-day journey with a clear itinerary and check-in points. Carry a detailed map and compass (or trusted GPS) and know how to navigate in poor visibility. Check weather forecasts and daylight hours before starting; UK conditions can change rapidly. Pack sufficient food, water, and a warm, waterproof layer; bring emergency shelter and a first aid kit. Inform a friend or family of your plan and expected finish time; in remote sections consider hiking with a partner.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable base layers, mid layers, and a waterproof outer shell",
+      "Backpack with rain cover and enough capacity for multi-day trips",
+      "2-3 liters of drinking water or access to purification methods",
+      "High-energy snacks and meals",
+      "Map and compass; GPS device as backup",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Emergency shelter or bivy sack (and a camping option if overnighting)",
+      "Extra clothing for warmth and rain protection",
+      "Trekking poles (optional but helpful)",
+      "Whistle, emergency contact device, and fully charged phone"
+    ],
+    "best_seasons": "Spring to autumn (April–October) generally offer the best conditions for Hicca Way, with longer daylight and drier trails. Winter hikes are possible but require advanced preparation for cold, wind, ice, and deeper mud; shoulder seasons can be wet and variable. Always check local conditions before starting.",
+    "seo": {
+      "title": "Hicca Way — 49.7 km Hard-Distance Trek in the UK",
+      "meta_description": "Plan your Hicca Way hike: a challenging 49.7 km trek in the UK. This guide covers terrain, safety, best seasons, and gear for experienced hikers.",
+      "h1": "Hicca Way – 49.7 km Hard Trek in the UK"
+    }
   }
 }

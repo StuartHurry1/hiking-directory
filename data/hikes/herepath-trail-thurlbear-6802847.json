@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 6802847
+  },
+  "ai": {
+    "summary": "A scenic 11.9 km moderate hike along the Herepath Trail to Thurlbear in the UK. The route combines countryside lanes, footpaths and gentle ascents, suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Mostly well-defined footpaths and rural lanes with sections of grassy country paths. Expect occasional uneven ground, gentle ascents, and potential muddy patches after rain. Some sections may be exposed to wind.",
+    "safety_notes": "Plan for 2–3 hours or more depending on pace. Check weather and daylight hours. Wear sturdy waterproof footwear and bring a waterproof layer. Stay on waymarked paths, map or GPS backup, and carry a charged phone. Bring water and snacks, a basic first aid kit, and a whistle. Inform someone of your plans and avoid hiking alone in poor weather conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and layers",
+      "Map and/or GPS with charged phone",
+      "Water and high-energy snacks",
+      "Lightweight hat and sunscreen (seasonal)",
+      "Basic first aid kit",
+      "Whistle",
+      "Headlamp or flashlight",
+      "Extra socks",
+      "Cell phone power bank"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn. Winter hikes can be more challenging due to shorter daylight hours and wet or icy conditions.",
+    "seo": {
+      "title": "Herepath Trail - Thurlbear (11.9 km, Moderate) UK Hiking Guide",
+      "meta_description": "Explore the Herepath Trail to Thurlbear in the UK. This 11.9 km moderate hike features countryside lanes and grassy paths, with practical safety tips and gear suggestions.",
+      "h1": "Herepath Trail – Thurlbear (11.9 km, Moderate) High-Level Trail Guide"
+    }
   }
 }

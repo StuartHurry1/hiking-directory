@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 156832
+  },
+  "ai": {
+    "summary": "The Hillingdon Trail is a hard long-distance hike totaling about 56.7 km in the UK. It traverses a mix of rural lanes, woodlands, fields, and occasional road sections, with varied elevation and substantial day-long trekking. The route requires solid fitness, reliable navigation, and thorough planning for weather, water, and food.",
+    "terrain_summary": "Expect a varied mix of grassy lanes, woodland tracks, hedged fields, and short paved sections. Trails can be muddy after rain and surfaces may be uneven; while markers exist, navigation skills and a map or GPS are advisable, especially in exposed or rural stretches.",
+    "safety_notes": "- This is a hard, long-distance route. Plan for full-day treks or split the hike into multiple days. - Check the forecast; UK weather can change rapidly—bring waterproofs and warm layers. - Carry sufficient water and food; know refill points and have a map/compass as backup to GPS. - Inform someone of your plan and expected finish time; carry a charged phone and power bank. - Stay on marked paths; exercise caution near roads and livestock; be mindful of cyclists on shared sections. - Be aware of daylight hours in winter; carry a headlamp if finishing after dusk and know bail-out options. - Practice Leave No Trace; pack out waste and respect private land.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof jacket",
+      "Daypack (20–30 L) with rain cover",
+      "Water container(s) (at least 1–2 L) and snacks",
+      "Map and compass or GPS device; fully charged",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (hat and sunscreen)",
+      "Emergency blanket or lightweight bivvy",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for drier, brighter conditions, though the trail can be attempted year-round with appropriate gear.",
+    "seo": {
+      "title": "Hillingdon Trail – 56.7 km Hard Hike in the UK",
+      "meta_description": "Discover the Hillingdon Trail, a 56.7 km challenging hike in the UK. Learn about terrain, safety tips, gear, and the best seasons to tackle this hard-distance route.",
+      "h1": "Hillingdon Trail – 56.7 km Hard Hike in the UK"
+    }
   }
 }

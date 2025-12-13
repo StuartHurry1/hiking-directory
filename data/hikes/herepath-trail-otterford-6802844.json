@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 6802844
+  },
+  "ai": {
+    "summary": "A 10.1 km moderate hike on the Herepath Trail around Otterford, UK. The route blends grassy country lanes, hedgerows, and a short woodland stretch, with gentle elevation changes and scenic countryside views. It's a solid half-day walk suitable for walkers with some experience.",
+    "terrain_summary": "Rural path network with a mix of grassy trails, compacted dirt, and a short woodland section. Expect gentle ascents and descents, seasonal mud, and occasional uneven ground.",
+    "safety_notes": "- Check weather and daylight hours before you go. - Wear sturdy boots and clothing appropriate for the conditions. - Carry a map and compass or GPS; don’t rely on mobile signal in remote sections. - Bring water and snacks; inform someone of your plan. - Be aware of livestock on rural paths and keep dogs under control. - Stay on marked paths and watch for uneven terrain.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and waterproof jacket",
+      "Water and snacks",
+      "Map and compass or GPS device",
+      "Mobile phone with offline maps",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Headlamp or flashlight (in case of late finish)",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March through October) offers the most comfortable conditions, with longer daylight and drier trails; winter visits are possible but expect mud, cold weather, and shorter daylight.",
+    "seo": {
+      "title": "Herepath Trail – Otterford: 10.1 km Moderate UK Hike",
+      "meta_description": "Discover the Herepath Trail in Otterford, a 10.1 km moderate hike in the UK. Learn about the terrain, safety tips, gear, best seasons, and planning essentials.",
+      "h1": "Herepath Trail – Otterford (UK) 10.1 km Moderate Hike"
+    }
   }
 }

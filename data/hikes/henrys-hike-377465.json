@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 377465
+  },
+  "ai": {
+    "summary": "Henry's Hike is a 6.2 km moderate trail in the UK suitable for a half-day outing. The route features steady pacing, gentle elevation, and varied scenery without extreme ascents.",
+    "terrain_summary": "The path combines grassy tracks, compact earth, and occasional rocky or rooty sections. Expect uneven footing and muddy patches after rain. Some segments may be exposed; weather can affect footing and visibility.",
+    "safety_notes": "Check the forecast before you go; UK weather can be changeable. Wear sturdy footwear with good grip and take a waterproof layer. Carry a map or offline navigation, a charged phone, and a basic first-aid kit. Tell someone your route and expected return time. Be cautious of livestock, cyclists, and other walkers on shared paths; after dark, additional lighting is advisable.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Trail map or offline navigation app",
+      "Snack or energy bars",
+      "Sun protection (hat, sunscreen)",
+      "Basic first-aid kit",
+      "Extra layers for changing weather",
+      "Headlamp or flashlight (for late finishes)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with lighter days and firmer paths. Winter hiking is feasible but requires extra care for mud, ice, and limited daylight.",
+    "seo": {
+      "title": "Henry's Hike — 6.2 km Moderate Trail in the UK",
+      "meta_description": "Discover Henry's Hike: a 6.2 km moderate trail in the UK suitable for a half-day outdoor escape. Learn about terrain, safety tips, and gear.",
+      "h1": "Henry's Hike (6.2 km) — Moderate UK Trail"
+    }
   }
 }

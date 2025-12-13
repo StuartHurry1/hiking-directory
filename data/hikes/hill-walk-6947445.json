@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 6947445
+  },
+  "ai": {
+    "summary": "A gentle 4.8 km walk in the UK, ideal for beginners and families seeking a relaxed hillside stroll with countryside views.",
+    "terrain_summary": "Primarily well-maintained footpaths with a gentle overall ascent. Expect small hills, occasional mud after rain, and some uneven sections near hedgerows. Open countryside with intermittent far-reaching views on clear days.",
+    "safety_notes": "Safety: Even easy walks can be affected by changing UK weather. Wear sturdy boots and dress in layers. Stay on official paths, watch for uneven ground and slippery surfaces after rain. Bring water, a map or GPS, and a charged phone. Let someone know your plans and estimated return time. In winter or wet conditions, be prepared for reduced visibility and stronger winds.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or waterproof layer",
+      "Warm layers",
+      "Sunscreen and hat",
+      "Map or GPS-enabled device",
+      "Small first-aid kit",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to Autumn (best); feasible year-round with proper clothing and caution.",
+    "seo": {
+      "title": "Hill Walk – 4.8 km Easy Hike in the UK",
+      "meta_description": "Discover a gentle 4.8 km easy hill walk in the UK. Practical terrain notes, safety tips, and gear suggestions for a comfortable day on the trail.",
+      "h1": "Hill Walk – 4.8 km Easy Hike in the UK"
+    }
   }
 }

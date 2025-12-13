@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19119643
+  },
+  "ai": {
+    "summary": "A 10.8 km moderate hike on the Headley Heath Second World War Walking Trail near Box Hill. The route combines open heathland, chalk trails and shaded woodland while weaving past WWII-era features and viewpoints along the Surrey Hills.",
+    "terrain_summary": "Mixed terrain: open heathland, chalk and gravel tracks, woodland paths, and occasional grassy or rocky patches. Expect uneven surfaces, some gentle to moderate gradients, and exposed sections on ridge lines.",
+    "safety_notes": "Check the weather before you go and wear sturdy walking boots. Stay on marked trails, watch for uneven ground, exposed roots, and mud, and be prepared for sudden changes in conditions on the hills. Bring a map or a fully charged phone with offline navigation, enough water, a snack, and a basic first-aid kit, plus appropriate layers. Keep dogs under control and be mindful of other hikers; use sun protection on open heathland in sunny conditions. If uncertain about your pace or route, turn back early.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (1–2 liters)",
+      "Weather-appropriate clothing (layers, waterproofs)",
+      "Map and/or fully charged phone with offline navigation",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Lightweight backpack",
+      "Headtorch/flashlight (optional for early/late starts)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn, with particularly pleasant conditions in late spring and early autumn when the heath is in bloom and daylight is long.",
+    "seo": {
+      "title": "Headley Heath Second World War Walking Trail – Box Hill, 10.8 km Moderate Hike",
+      "meta_description": "Discover the Headley Heath Second World War Walking Trail near Box Hill in the Surrey Hills. A 10.8 km moderate hike across open heath, chalk tracks and woodland, with WWII-era features along the way.",
+      "h1": "Headley Heath Second World War Walking Trail"
+    }
   }
 }

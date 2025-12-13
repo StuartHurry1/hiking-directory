@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4822727
+  },
+  "ai": {
+    "summary": "Hilltop Walk is a short, easy 2.5 km hike in the UK, offering a gentle ascent to a hilltop viewpoint. Suitable for beginners, families, and anyone seeking a quick outdoor outing with pleasant views.",
+    "terrain_summary": "Primarily well-maintained footpaths and grassy tracks. Gentle gradients with occasional uneven patches and potential mud after rain. Some exposed sections near the hilltop; wear sturdy footwear and watch footing.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy shoes, bring water and a light layer for rain or wind, and apply sun protection in bright conditions. Stay on marked paths, be cautious on exposed edges, and let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Light waterproof layer",
+      "Sun protection (hat, sunscreen)",
+      "Map or GPS-enabled device",
+      "Fully charged phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to Autumn (March–October) for the most comfortable conditions; hike year-round with appropriate gear.",
+    "seo": {
+      "title": "Hilltop Walk – Easy 2.5 km Hike in the UK",
+      "meta_description": "Discover Hilltop Walk, a gentle 2.5 km route in the UK. Easy for beginners, with safety tips and gear recommendations for a pleasant hillside stroll.",
+      "h1": "Hilltop Walk: An Easy 2.5 km Hike in the UK"
+    }
   }
 }

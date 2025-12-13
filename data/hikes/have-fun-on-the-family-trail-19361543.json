@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19361543
+  },
+  "ai": {
+    "summary": "A welcoming 5 km easy hike designed for families in the UK. This relaxed route offers gentle terrain, simple wayfinding, and pleasant scenery, making it ideal for kids, grandparents, and first-time hikers.",
+    "terrain_summary": "Mostly smooth paths such as tarmac or packed gravel, with occasional grass or muddy patches after rain. Gentle inclines and wide trails make it easy for beginners and families.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and bring a light waterproof layer. Stay on marked paths and supervise children at all times. Be mindful of other trail users, especially cyclists on shared sections. Bring water, snacks, and a small first-aid kit. Watch for muddy or slippery surfaces after rain. In long grass, check for ticks and use repellent if appropriate. Know emergency numbers and have a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Layered clothing for changing weather",
+      "Sun protection (hat and sunscreen)",
+      "Snacks suitable for children",
+      "Small first-aid kit",
+      "Map, route guide, or GPS device",
+      "Phone with emergency contacts and a portable charger",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring through autumn are ideal for a 5 km family hike in the UK; it can be enjoyed year-round in suitable weather, with mud and shorter daylight in winter.",
+    "seo": {
+      "title": "Have fun on the family trail - easy 5 km hike in the UK",
+      "meta_description": "Discover a family-friendly 5 km easy hike in the UK. Gentle terrain, safety tips, and gear ideas for a fun day out with kids.",
+      "h1": "Have fun on the family trail"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 7610425
+  },
+  "ai": {
+    "summary": "The Hebridean Way is a hard, long-distance coastal hike across Scotland's Outer Hebrides in the United Kingdom, spanning about 565.8 km. The route links remote beaches, rugged cliffs, peat moorland, and island communities, with occasional road and ferry segments. It demands good stamina, careful planning, and ample time to account for unpredictable weather, tides, and the limited services on some islands.",
+    "terrain_summary": "Primarily coastal and island terrain: rugged cliff and shore paths, sandy beaches, peat bogs, and windy moorland. Expect uneven surfaces, tidal sections, and variable footing. Weather can be highly changeable with strong winds, rain, and sea spray; services and accommodation are sparse on several islands, making advance planning essential.",
+    "safety_notes": "Prepare for remote sections with limited mobile signal and ferry schedules; check tide times for beach crossings and ferries; inform someone of your itinerary; carry maps, a compass and a GPS backup; bring adequate clothing and shelter for sudden weather changes; ensure sufficient food and water and have a contingency plan for accommodation each night. Exercise caution near cliffs and beware of changing seas and coastal erosion.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing for variable weather",
+      "Warm hat and gloves",
+      "Backpack with rain cover",
+      "Map, compass, and GPS backup",
+      "Headlamp with extra batteries",
+      "First aid kit and emergency whistle",
+      "High-energy food and portable stove or access to meals",
+      "Water bottle or hydration system with water purification",
+      "Tent or bivouac shelter and sleeping bag",
+      "Sunscreen and sunglasses",
+      "Power bank and offline navigation tools",
+      "Tide tables and ferry schedules"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) in the UK; longer daylight hours make planning easier, but weather remains changeable and winds can be strong. Outside this window conditions are harsher and services are more limited.",
+    "seo": {
+      "title": "Hebridean Way Hiking Guide – UK Long-Distance Coastal Trail (565.8 km)",
+      "meta_description": "Plan your trek along the Hebridean Way in the UK. This guide covers a 565.8 km hard coastal route through the Outer Hebrides, with terrain notes, safety tips, gear suggestions, and best seasons.",
+      "h1": "Hebridean Way Hiking Guide"
+    }
   }
 }

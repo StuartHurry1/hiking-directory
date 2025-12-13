@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9181166
+  },
+  "ai": {
+    "summary": "Hatherleigh Circular is a demanding 15.3 km circuit in the UK designed for experienced hikers. The route combines long stretches of walking with significant elevation gain, offering varied scenery and a real physical challenge.",
+    "terrain_summary": "Expect mixed terrain including rough footpaths, grassy moorland, uneven stony sections, hedgerows, and occasional quiet road crossings. Ground can be muddy or boggy after rain. Navigation can be tricky in poor visibility, so bring a map and compass.",
+    "safety_notes": "This is a hard route that requires good fitness and navigation skills. Wear sturdy boots and check the weather before you start. Plan for daylight remaining when you finish; in bad weather be prepared to shorten or abandon the hike. Stay on marked paths, mind gates and stiles, and watch for livestock. Carry enough water and high energy food, a basic first aid kit, a map and compass or GPS backup, and a means to signal for help such as a whistle. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Layered clothing and a waterproof jacket and trousers",
+      "Map and compass (GPS as backup)",
+      "Sufficient water and high energy snacks",
+      "Headlamp or torch with spare batteries",
+      "Personal first aid kit",
+      "Emergency whistle and space blanket or warm layer",
+      "Sun protection and a hat",
+      "Walking poles (optional but helpful on rough sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the best conditions in most UK weather; winter hikes are possible but more demanding due to mud, weather, and shorter daylight",
+    "seo": {
+      "title": "Hatherleigh Circular – 15.3 km Hard Hike in the UK",
+      "meta_description": "Discover the Hatherleigh Circular, a 15.3 km challenging hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons to tackle this route.",
+      "h1": "Hatherleigh Circular – 15.3 km Hard Hike in the UK"
+    }
   }
 }

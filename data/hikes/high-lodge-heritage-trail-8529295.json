@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8529295
+  },
+  "ai": {
+    "summary": "A 6.7 km moderate hike along the High Lodge Heritage Trail in the UK. The route traverses wooded paths with gentle elevation changes and features heritage-oriented stops along the way, suitable for hikers seeking a relaxed to moderate challenge and a chance to learn about local history.",
+    "terrain_summary": "The trail combines well-defined forest tracks with gentle gradients and occasional uneven ground. Expect shaded sections, leaf litter, and some exposed viewpoints on a roughly 6.7 km loop.",
+    "safety_notes": "Check the forecast before you go; wear sturdy footwear and bring layered clothing. Stay on marked paths, carry a map or GPS, and bring water and snacks. Let someone know your plans and start/end times. Be aware of changing conditions, wildlife, and reduced daylight in autumn and winter.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate layers and rain jacket",
+      "Map or GPS device / offline map on smartphone",
+      "Sun protection (hat and sunscreen)",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Headlamp or flashlight (for late starts)"
+    ],
+    "best_seasons": "Spring to autumn is generally best for this hike, with longer daylight hours and milder conditions; plan for UK weather variability.",
+    "seo": {
+      "title": "High Lodge Heritage Trail – 6.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the 6.7 km High Lodge Heritage Trail in the UK. A moderate-loop hike through woodland with heritage highlights, seasonal tips, and gear recommendations.",
+      "h1": "High Lodge Heritage Trail – 6.7 km Moderate Hike (UK)"
+    }
   }
 }

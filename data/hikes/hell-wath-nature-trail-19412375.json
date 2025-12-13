@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19412375
+  },
+  "ai": {
+    "summary": "Hell Wath Nature Trail is a short, easy 3.3 km nature walk in the UK, suitable for families and casual walkers. The route winds through woodland with opportunities to observe local wildlife and seasonal wildflowers.",
+    "terrain_summary": "Mostly flat, well-maintained dirt and gravel paths with occasional uneven sections and small roots. The surface is easy underfoot for most walkers, with only light slope in places.",
+    "safety_notes": "Stay on marked paths and follow any posted guidance. The trail is easy, but wet or icy conditions can make surfaces slippery. Watch for uneven ground, tree roots, and wildlife. Mobile signal may be limited in remote sections—tell someone your plan and your estimated return time. Dress in layers and bring rain gear; bring water and sun protection in sunny weather. Please take all litter home and respect wildlife.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, and a waterproof layer)",
+      "Sun protection (hat and sunscreen)",
+      "Map or trail app",
+      "Small backpack",
+      "Snacks",
+      "Insect repellent",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring and summer are ideal for this trail; autumn is pleasant too. Winters can be muddy and less comfortable.",
+    "seo": {
+      "title": "Hell Wath Nature Trail – Easy 3.3 km Walk in the UK",
+      "meta_description": "Discover Hell Wath Nature Trail, a short and easy 3.3 km route in the UK. Perfect for families and casual walkers, with woodland scenery and wildlife.",
+      "h1": "Hell Wath Nature Trail – Easy 3.3 km Walk in the UK"
+    }
   }
 }

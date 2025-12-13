@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 8078970
+  },
+  "ai": {
+    "summary": "Henry Milne Walk is a gentle 4.2 km hike in the UK designed for beginners. The route offers easy terrain and light scenery suitable for a relaxed day outdoors.",
+    "terrain_summary": "The trail follows well-maintained footpaths with a few gentle inclines and occasional uneven sections. Expect some grass verges and compact earth surfaces; footwear with good grip is recommended.",
+    "safety_notes": "As this is a short, easy route, plan for typical UK weather. Carry a light layer, water, and a small first aid kit. Stay on the marked path, watch for slippery sections after rain, and be mindful of crowds on popular segments. Let someone know your plans and check local conditions before you go.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle (500 ml – 1 L)",
+      "Light waterproof jacket",
+      "Hat and sunscreen for sunny days",
+      "Map or offline navigation (or use a reliable phone GPS)",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (April–October) for milder weather and longer daylight; winter hikes are shorter and weather-dependent.",
+    "seo": {
+      "title": "Henry Milne Walk – Easy 4.2 km Hike in the UK",
+      "meta_description": "Explore Henry Milne Walk, a gentle 4.2 km hike in the UK. Learn about the terrain, safety tips, and essential gear for a comfortable day outdoors.",
+      "h1": "Henry Milne Walk – 4.2 km Easy Hike in the UK"
+    }
   }
 }

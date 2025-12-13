@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19118719
+  },
+  "ai": {
+    "summary": "A challenging 15.4 km circuit around Headley Heath and Box Hill in the Surrey Hills. The route combines exposed heathland, chalk and rocky paths, with several steep ascents and descents that demand good footing and stamina. Designed for experienced hikers, plan for several hours and variable terrain.",
+    "terrain_summary": "Expect a mix of wide chalk/stone paths, narrow rocky tracks, steep climbs and descents, and exposed heathland with panoramic views. Footing can be uneven and slippery when wet; watch for loose scree and sudden gradients on some sections.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy hiking boots and dress in layers; carry a map or GPS and know your route. Bring sufficient water and energy snacks, plus sun protection in sunny conditions. Stay on marked paths, and be mindful of slippery rocks on wet chalk or scree. Be aware of ticks in heathland; perform a quick check after the hike. In wet or winter conditions, footing can be especially challenging—tell someone your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and/or GPS device",
+      "Water and high-energy snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Small first aid kit",
+      "Headtorch or flashlight (backup battery)",
+      "Whistle and emergency blanket",
+      "Trekking poles (optional)",
+      "Phone with battery backup"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for best footing and visibility; winter can be muddy with reduced daylight and stronger winds.",
+    "seo": {
+      "title": "Headley Heath Circuit, Box Hill – 15.4 km Hard Hike in the UK",
+      "meta_description": "Explore Headley Heath Circuit, a demanding 15.4 km hike around Box Hill in the UK. Learn about terrain, safety tips, and essential gear for a challenging Surrey Hills day trip.",
+      "h1": "Headley Heath Circuit, Box Hill – 15.4 km Hard Hike"
+    }
   }
 }

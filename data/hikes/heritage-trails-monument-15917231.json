@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 15917231
+  },
+  "ai": {
+    "summary": "A brief, easy heritage walk around a local monument in the UK. The 0.2 km route is flat and accessible, making it ideal for a quick cultural outing, families with young children, or a short city stroll.",
+    "terrain_summary": "Flat, mostly paved or well-kept gravel paths around the monument. Minimal elevation change with occasional benches and interpretive boards along the way.",
+    "safety_notes": "Stay on designated paths; watch for uneven surfaces near the monument; supervise children; be mindful of crowds during peak visiting times; in wet weather surfaces can be slippery; check monument opening times if applicable.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer or jacket",
+      "Sun protection (hat and sunscreen) in sunny weather",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "All year round. Spring and autumn offer mild weather and comfortable temperatures; summer provides longer daylight but may be busy; winter can be cold and wet.",
+    "seo": {
+      "title": "Heritage Trails: Monument – Easy 0.2 km UK Heritage Walk",
+      "meta_description": "Explore a short, easy heritage trail around a monument in the UK. Just 0.2 km of flat terrain, suitable for all ages, with safety tips and gear.",
+      "h1": "Heritage Trails: Monument"
+    }
   }
 }

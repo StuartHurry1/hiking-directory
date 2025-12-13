@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 6642942
+  },
+  "ai": {
+    "summary": "A 9.9 km moderate hike along the Herepath Trail to Castle Neroche in the UK. The route traverses woodland and open countryside, with gentle climbs and a historic hill fort viewpoint at Castle Neroche, suitable for walkers with some experience.",
+    "terrain_summary": "Mixed terrain including well-trodden woodland tracks, grassy field paths, and occasional rocky or uneven sections. Expect gates and stiles, possible mud after rain, and gentle to moderate ascents with open upland sections offering distant views from the hill fort site.",
+    "safety_notes": "Check the weather forecast and wear sturdy footwear. Carry a map or GPS, and stay on marked paths. Be prepared for mud and variable footing, especially after rain. Watch for livestock and gates, and keep dogs under control. Mobile signal may be patchy in remote sections; tell someone your plans and carry a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks (1–2 litres of water recommended)",
+      "Weather-appropriate clothing and extra layers",
+      "Waterproof jacket (and optional trousers)",
+      "Map and compass or GPS device",
+      "Phone with portable charger",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Emergency whistle",
+      "Lightweight backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to Autumn; winter can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Herepath Trail – Castle Neroche (9.9 km, Moderate) Hike in the UK",
+      "meta_description": "Discover the Herepath Trail to Castle Neroche, a 9.9 km moderate hike in the UK. Explore woodland paths, open fields, and a historic hill fort with practical tips, terrain insights, and gear recommendations.",
+      "h1": "Herepath Trail – Castle Neroche (9.9 km, Moderate)"
+    }
   }
 }

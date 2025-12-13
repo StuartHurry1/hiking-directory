@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2405525
+  },
+  "ai": {
+    "summary": "A short, easy 4.1 km circuit at Heathland Trail, Headley Heath National Trust, in the UK. The route winds through open heathland and pine woodland, offering relaxed scenery that's suitable for families, beginners, and casual walkers seeking a low-effort outdoor experience.",
+    "terrain_summary": "Primarily flat to gently undulating paths across sandy heathland with some woodland sections. Expect open, exposed stretches, occasional boardwalks, and minor uneven patches or roots along the way.",
+    "safety_notes": "Stay on marked paths and respect the habitat. Weather can change quickly on exposed heathland—bring extra layers and waterproofs. Ground can be uneven or loose in places; there may be long grass or bracken at the edges. Check for ticks in heathland and use repellent if needed. Dogs are typically allowed but should be kept under control and on a lead where required. Verify current site access or closures on the National Trust site before visiting.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots with good grip",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and light snacks",
+      "Map, GPS, or offline map of Headley Heath",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Phone with emergency contacts",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "All year round; spring and autumn often offer the best wildlife viewing and comfortable temperatures, though summer is pleasant and winter can be windy and muddy.",
+    "seo": {
+      "title": "Heathland Trail (Headley Heath NT) – Easy 4.1 km hike in the UK",
+      "meta_description": "Explore the easy 4.1 km Heathland Trail at Headley Heath National Trust. Flat, family-friendly route through open heathland and woodland with scenic views.",
+      "h1": "Heathland Trail at Headley Heath NT (4.1 km, Easy)"
+    }
   }
 }

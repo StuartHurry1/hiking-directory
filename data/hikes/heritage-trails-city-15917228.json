@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15917228
+  },
+  "ai": {
+    "summary": "Heritage Trails: city is a micro-walk in the UK covering 0.1 km of easy terrain. This urban route offers a quick glimpse of local history along a city street, suitable for a brief break, a family outing, or a first taste of urban hiking.",
+    "terrain_summary": "Flat, paved sidewalks with curb crossings. Mostly street-level scenery, occasional benches and storefronts. Minimal elevation change.",
+    "safety_notes": "Be mindful of traffic when crossing streets and obey pedestrian signals. Watch for uneven pavement, manhole covers, and wet surfaces. Carry a phone for navigation and emergency contact. Prefer daylight or well-lit areas after dark and stay in populated zones.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight layer or jacket",
+      "Water bottle",
+      "Smartphone with map or walking app",
+      "Small backpack or crossbody bag",
+      "Umbrella or rain jacket",
+      "Sunglasses or hat (optional)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn. In winter, prepare for cold and rain; summers are usually warm but brief.",
+    "seo": {
+      "title": "Heritage Trails: City — Short Easy 0.1 km Walk in the UK",
+      "meta_description": "Explore a 0.1 km, easy urban stroll along Heritage Trails: City in the UK. Flat terrain, quick route, and a slice of local history.",
+      "h1": "Heritage Trails: City — Easy 0.1 km Urban Walk"
+    }
   }
 }

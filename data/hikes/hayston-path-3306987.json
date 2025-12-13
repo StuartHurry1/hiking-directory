@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3306987
+  },
+  "ai": {
+    "summary": "Hayston Path is a short, easy 3.1 km hike in the UK designed for beginners and casual walkers. The route prioritizes gentle terrain and steady pacing, making it suitable for families and those new to hiking. Details on the exact region are unknown, but the walk generally follows a well-defined path with minimal elevation change.",
+    "terrain_summary": "Expect flat to gently rolling terrain along a well-maintained path. Surfaces are mostly even, with occasional minor roots or uneven spots that may require attention. The route is suitable for standard walking shoes.",
+    "safety_notes": "Check the weather forecast before you go and dress accordingly. Wear sturdy, comfortable footwear and bring water. Stay on marked paths and watch for uneven surfaces or root protrusions. Keep children and pets under supervision and follow local guidance. If visibility is poor or the area is remote, carry a map or GPS and inform someone of your plans.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Sunscreen and hat",
+      "Map or offline navigation (optional)",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; winter can be muddy, dark, and with reduced daylight hours, so plan accordingly.",
+    "seo": {
+      "title": "Hayston Path - Easy 3.1 km UK Walk for Beginners",
+      "meta_description": "Discover Hayston Path, an easy 3.1 km hike in the UK suitable for beginners and families. Gentle terrain, clear paths, and practical safety tips.",
+      "h1": "Hayston Path: Easy 3.1 km Walk in the UK"
+    }
   }
 }

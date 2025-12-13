@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 6802846
+  },
+  "ai": {
+    "summary": "A 16.1 km hard hike along the Herepath Trail to Blagdon Hill in the UK. Expect significant elevation, rocky and uneven terrain, and long, exposed sections that test fitness and navigation skills. Suitable for experienced hikers with good preparation.",
+    "terrain_summary": "Rugged and varied: steep climbs, rocky and root-strewn paths, potential mud, and exposed ridgelines. Footing can be unstable, with sections requiring careful footing and navigation across unknown terrain in the region.",
+    "safety_notes": "Hard difficulty with long distance and elevation; weather in the UK can change quickly. Prepare with navigation skills, tell someone your plan, carry maps or offline maps, and have a plan to turn back. Wear sturdy boots and weather-appropriate layers. Stay on marked paths where possible; beware mud, slippery rocks, and exposed edges. Carry sufficient water and food, a first-aid kit, a whistle, and a charged phone. In poor conditions or without fitness, consider a shorter route or guided hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable base layers and a waterproof, windproof outer layer",
+      "Rucksack with enough capacity and hydration option",
+      "Map and compass (or GPS) and knowledge of navigation",
+      "Headlamp or torch with extra batteries",
+      "Water and high-energy snacks (2–3 liters depending on conditions)",
+      "Personal first aid kit and basic emergency items",
+      "Whistle and mobile phone with offline maps",
+      "Sun protection (hat, sunscreen) and extra warm layers",
+      "Emergency blanket or shelter and trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when daylight and weather are generally more favorable. In winter, plan for shorter daylight hours, colder temps, and higher mud or ice risk.",
+    "seo": {
+      "title": "Herepath Trail – Blagdon Hill (16.1 km, hard) | UK Hiking Guide",
+      "meta_description": "Explore the Herepath Trail to Blagdon Hill: a challenging 16.1 km hike in the UK with terrain notes, safety tips, gear ideas, and best season advice.",
+      "h1": "Herepath Trail – Blagdon Hill (16.1 km, hard)"
+    }
   }
 }
