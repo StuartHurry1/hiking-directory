@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11498088
+  },
+  "ai": {
+    "summary": "Meal Beach is a short, easy coastal hike in the UK, covering about 1 km along flat beach terrain and offering simple scenery suitable for beginners and families.",
+    "terrain_summary": "Mostly flat beach terrain with sand and small pebbles; sections may be firm wet sand near the shoreline and occasional soft patches inland. Tidal conditions can affect the route.",
+    "safety_notes": "Check tide times and weather before heading out. Stay on the designated path where possible. Wear sturdy footwear suitable for sand and pebbles. Bring water, sun protection, and a light layer. Be mindful of waves, changing water levels, and wildlife. Supervise children and avoid sensitive wildlife areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Light jacket or layer",
+      "Tide timetable or weather app",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter visits are possible but conditions can be windy, cold, and less pleasant.",
+    "seo": {
+      "title": "Meal Beach – 1 km Easy Coastal Hike in the UK",
+      "meta_description": "Explore Meal Beach with a short, easy 1 km coastal hike in the UK. Practical tips on terrain, safety, and gear for a quick beach walk.",
+      "h1": "Meal Beach: 1 km Easy Coastal Hike in the UK"
+    }
   }
 }

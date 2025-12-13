@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 53637
+  },
+  "ai": {
+    "summary": "The Marches Way is a long-distance hike in the UK totaling 207.4 km. This hard-route traverses varied countryside with potential remote sections, demanding preparation and a good level of fitness from experienced hikers.",
+    "terrain_summary": "Expect a mix of rural farmland, hedgerows, woodlands, and occasional road sections. Elevation varies with long ascents and descents; some stretches may be exposed and weather-dependent, requiring reliable navigation and self-sufficiency.",
+    "safety_notes": "Plan for long days and variable daylight. Check local weather forecasts and have up-to-date maps and navigation tools. Inform someone of your itinerary and expected timing. Ensure you have enough water and food, and be prepared for limited mobile signal in remote areas. Carry emergency gear and know the hazards of rural UK trails, including livestock and uneven terrain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Layered clothing (base layer, fleece/insulation, hat and gloves as needed)",
+      "Rucksack (40–60 L) with rain cover",
+      "Water strategy: 2–3 liters of water or a way to purify larger supplies",
+      "Navigation: map and compass; GPS device or offline maps on a smartphone",
+      "Headlamp with extra batteries",
+      "First aid kit and any personal medications",
+      "Emergency shelter (bivvy) and sleeping bag if camping; tent if preferred",
+      "Stove and lightweight cooking gear or plan for ready-to-eat meals",
+      "Food supplies and snacks; electrolyte drinks",
+      "Sun protection, insect repellent, multitool",
+      "Whistle and an emergency signaling device (signal mirror, satellite messenger if available)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for better weather and daylight, with preparedness for changeable UK conditions.",
+    "seo": {
+      "title": "Marches Way — 207.4 km Hard-Distance UK Hike",
+      "meta_description": "Plan and prepare for the Marches Way, a challenging 207.4 km long-distance hike in the UK. Learn about terrain, safety, and essential gear.",
+      "h1": "Marches Way: 207.4 km UK Long-Distance Trail (Hard)"
+    }
   }
 }

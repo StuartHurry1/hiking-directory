@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19877234
+  },
+  "ai": {
+    "summary": "A circular 11.4 km hike around Margery Wood and Harewoods in the UK, offering a tranquil woodland circuit with varied terrain and the chance to spot wildlife. The route is rated moderate and typically takes around 3–4 hours, making it suitable for hikers with some experience and good fitness.",
+    "terrain_summary": "Primarily woodland paths through Margery Wood and connecting Harewoods. Trails are mostly compacted earth with some gravel, grass sections, and occasional muddy patches after rain. Expect gentle slopes, a few uneven roots, and well-marked paths that may require careful footing in wet conditions.",
+    "safety_notes": "Check the forecast and daylight hours before you go; UK weather can change quickly. Wear sturdy waterproof boots and bring a waterproof jacket. Stay on marked trails, watch for uneven ground, roots, and slippery surfaces, especially after rain. Carry a map or GPS and a charged phone; bring water and a snack. Let someone know your planned route and expected return time. Keep dogs under control and on a leash where required. Pack out all litter and be mindful of other walkers and wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing in layers",
+      "Map and compass or GPS device",
+      "Fully charged phone and offline maps",
+      "Lightweight rain jacket and optional rain pants",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Insect repellent (seasonal)",
+      "Extra layers and emergency blanket"
+    ],
+    "best_seasons": "All year, but conditions vary: spring and autumn offer the best scenery and milder temperatures; summer has longer daylight but can be hot; winter can be muddy and require extra care.",
+    "seo": {
+      "title": "Margery Wood Circular Walk, Harewoods – 11.4 km Moderate UK Hike",
+      "meta_description": "Discover the Margery Wood Circular Walk (11.4 km) in the Harewoods area. A moderate woodland hike in the UK with practical safety tips, gear recommendations, and seasonal advice.",
+      "h1": "Margery Wood Circular Walk, Harewoods"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 164970
+  },
+  "ai": {
+    "summary": "Medlock Valley Way is a challenging 18.6 km hike in the United Kingdom. The route traverses valley floors, woodlands, and rural tracks, combining scenic river views with sections of rough, uneven footing. Its hard difficulty reflects significant elevation changes and variable ground, making it best suited to experienced hikers with good footwear and navigation skills.",
+    "terrain_summary": "Expect a mix of terrain: riverside paths, grassy tracks, and sections of uneven, rocky ground. There are steep ascents in parts and potential mud, especially after rain. The route may include shallow water crossings and will be affected by seasonal weather; footing can be slick in damp conditions.",
+    "safety_notes": "This is a long, strenuous hike. Plan for 4–6 hours depending on pace and conditions, with ample daylight. Wear sturdy hiking boots and dress in layers; UK weather can change rapidly. Carry enough water and high-energy snacks, plus a map and compass or GPS. Stay on marked paths, watch for muddy or slippery sections, and prepare for mud, wind, and rain. Let someone know your planned return time. In winter or poor visibility, daylight is shortened and navigation becomes harder; carry a flashlight and warm layers. If you encounter a crossing that seems unsafe, turn back and seek an alternative route. If you need emergency assistance, dial 999.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 liters for the round trip)",
+      "Map and compass or GPS device",
+      "Weatherproof jacket and warm layers",
+      "Thermal base layers and insulating mid-layer",
+      "Hat, gloves (seasonal), and sun protection",
+      "High-energy snacks and a lunch if needed",
+      "Headlamp or flashlight with spare batteries",
+      "Pack rain cover or waterproof backpack liner",
+      "Basic first aid kit, whistle, and emergency blanket",
+      "Mobile phone with a charged power bank",
+      "Trekking poles (optional, helpful on steep sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best daylight and usually drier conditions; late autumn and winter can be muddy and shorter daylight hours, requiring extra preparation.",
+    "seo": {
+      "title": "Medlock Valley Way – 18.6 km Hard Hike in the UK",
+      "meta_description": "Explore Medlock Valley Way, an 18.6 km hard hike in the United Kingdom. Learn about the terrain, safety tips, gear, and best seasons for this challenging route.",
+      "h1": "Medlock Valley Way: 18.6 km Hard Hike in the UK"
+    }
   }
 }

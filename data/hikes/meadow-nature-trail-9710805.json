@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9710805
+  },
+  "ai": {
+    "summary": "Meadow Nature Trail is a 6.6 km moderate hike in the UK countryside. The route traverses grassy meadows, hedgerows, and light woodland, offering a peaceful nature experience with occasional gentle climbs. Suitable for walkers with some experience and decent footwear.",
+    "terrain_summary": "Primarily grassy and dirt paths through open meadows, with sections of shaded woodland and occasional uneven ground. Expect uneven surfaces after rain and a few gentle ascents or descents; surfaces can be slippery when wet.",
+    "safety_notes": "Plan for changeable UK weather and varying light; stay on marked paths; inform someone of your route and expected return. Wear sturdy footwear, bring layers and waterproof gear, and carry water and a small first aid kit. Be mindful of livestock and wildlife, and check local notices for closures. Carry a map or offline GPS and know how to use it.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle or hydration system",
+      "Snacks",
+      "Map or offline GPS device",
+      "Compact compass (or GPS app)",
+      "Lightweight waterproof jacket",
+      "Sunscreen, hat, and sunglasses",
+      "Small first aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to Autumn (dry, mildly warm conditions are most comfortable; winter hiking is possible with proper gear)",
+    "seo": {
+      "title": "Meadow Nature Trail – 6.6 km Moderate Hike in the UK",
+      "meta_description": "Explore Meadow Nature Trail, a 6.6 km moderate hike in the UK countryside. Discover terrain, safety tips, best seasons, and gear to prepare for the trek.",
+      "h1": "Meadow Nature Trail (6.6 km, Moderate)"
+    }
   }
 }

@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 112695
+  },
+  "ai": {
+    "summary": "The Midshires Way is a monumental, hard-rated long-distance trail in the UK centered on ridge walking across varied landscapes. Spanning roughly 2801.1 km, the route demands endurance, solid navigation, and careful multi-day planning.",
+    "terrain_summary": "Primarily ridge terrain with long crest lines, exposed summits, and rugged paths. Expect rocky tracks, heather moorland, peat bogs, and occasional streams. Weather can be highly changeable and winds on exposed sections can be strong; accurate navigation is essential over the course of many days.",
+    "safety_notes": "This is a long, hard route with extensive ridge walking. Carry navigation tools (OS map, compass, and GPS as backup) and know how to use them. Check forecasts; ridges can be exposed to sudden storms and strong winds. Wear sturdy waterproof boots and layered clothing; bring a waterproof shell, hat, and gloves. Plan for multi-day logistics with planned campsites or accommodations and carry sufficient food and water, using purification as needed. Inform someone of your itinerary and expected return; carry a whistle and a means of signaling for help. Respect access rights and camping rules where applicable; be mindful of wildlife and environmental impact.",
+    "recommended_gear": [
+      "Map and compass (OS) with GPS as backup",
+      "Sturdy waterproof hiking boots",
+      "Layered clothing: base layer, mid-layer, and waterproof shell",
+      "Backpack with rain cover",
+      "Water bottle and water purification method",
+      "Tent or bivy sack and a warm sleeping bag",
+      "Headlamp with extra batteries",
+      "First aid kit and any medications",
+      "High-energy food and snacks for long days",
+      "Sun protection: sunscreen, sunglasses, and a wide-brimmed hat",
+      "Emergency signaling device: whistle (and optional beacon)",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer longer daylight, more reliable weather, and clearer ridge visibility, though sudden storms and fog can still occur.",
+    "seo": {
+      "title": "Midshires Way – UK Ridge Trek (2801.1 km, Hard)",
+      "meta_description": "Explore the Midshires Way, a challenging 2,801.1 km ridge-focused hike across the UK. Learn terrain, safety tips, gear, and the best seasons for this demanding route.",
+      "h1": "Midshires Way: UK Ridge Trek (Hard, 2801.1 km)"
+    }
   }
 }

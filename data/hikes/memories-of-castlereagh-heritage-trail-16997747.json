@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16997747
+  },
+  "ai": {
+    "summary": "A gentle 3.6 km heritage-focused hike in the UK, suitable for all ages and abilities, weaving through scenic and historically rich landscapes.",
+    "terrain_summary": "Mostly flat with a mix of paved paths, gravel tracks, and a short woodland section. Expect well-maintained surfaces and occasional uneven patches near historic features.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear and bring water; stay on marked paths and respect heritage sites; watch for cyclists on shared routes and uneven surfaces; be mindful of seasonal closures and local restrictions.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle or hydration",
+      "Light rain jacket or shell",
+      "Sun protection (hat and sunscreen)",
+      "Map, GPS or offline route guide",
+      "Mobile phone with emergency contacts",
+      "Small snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn in the UK (roughly March–September) offer the best conditions for this easy 3.6 km trail.",
+    "seo": {
+      "title": "Memories of Castlereagh Heritage Trail – Easy 3.6 km Hike in the UK",
+      "meta_description": "Explore the Memories of Castlereagh Heritage Trail, an easy 3.6 km hike in the UK. Gentle terrain, scenic views, and a touch of local history make it perfect for families and casual walkers.",
+      "h1": "Memories of Castlereagh Heritage Trail"
+    }
   }
 }

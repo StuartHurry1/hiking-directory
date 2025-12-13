@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 11608112
+  },
+  "ai": {
+    "summary": "Merrick Trail is a 13.8 km moderate hike in the UK that combines woodland sections, open grassy slopes, and occasional rocky patches. The route offers steady elevation gain, scenic views, and a rewarding day out for hikers with some trail experience.",
+    "terrain_summary": "Expect a varied mix of forest tracks, grassy paths, and some exposed rocky stretches. The surface can be muddy after rain, and footing may be uneven in places. Navigation is straightforward on well-marked paths, but bring a map as weather conditions can change quickly in the countryside.",
+    "safety_notes": "Plan with daylight: check the forecast and start early in winter. Tell someone your route and expected return time. Wear sturdy waterproof boots and dress in layered, weather-appropriate clothing. Bring a map and compass or a GPS device, and keep a charged phone as a backup. Stay on marked paths, watch for slippery rocks and mud, and avoid gaps or exposed edges in wet weather. Carry enough water and snacks, a small first aid kit, and an emergency whistle. If conditions deteriorate or you feel unwell, turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Weather-appropriate layered clothing",
+      "Waterproof jacket",
+      "Headlamp or torch",
+      "Small first aid kit",
+      "Snacks and energy bars",
+      "Emergency whistle and fully charged phone",
+      "Backpack to carry gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers the best conditions with longer daylight. Winter hiking is possible with proper gear, but be prepared for mud, wind, and limited daylight.",
+    "seo": {
+      "title": "Merrick Trail - 13.8 km Moderate Hike in the UK",
+      "meta_description": "Plan your Merrick Trail hike in the UK. A 13.8 km moderate route with varied terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Merrick Trail: 13.8 km Moderate Hike in the UK"
+    }
   }
 }

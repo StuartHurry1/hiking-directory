@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 163966
+  },
+  "ai": {
+    "summary": "Marbury Circular Walk is an 11 km loop in the UK suitable for walkers with moderate fitness. The route combines rural lanes, field paths and woodland, offering countryside scenery and a peaceful day out.",
+    "terrain_summary": "The terrain mixes surfaced lanes, compact footpaths, grassy fields and occasional stiles. Expect uneven ground in places and gentle gradients; overall the route is moderate.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing, check the forecast, and stay on marked paths. Be mindful of livestock on open fields, and use gates and stiles with care. Keep dogs under control, carry water, a map or GPS, and ensure your phone is charged. Inform someone of your planned route and check for any access closures or restrictions on the day.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle or hydration system",
+      "Map and/or GPS (or a fully charged phone with offline map)",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Small first-aid kit",
+      "Whistle and mobile phone with emergency contacts"
+    ],
+    "best_seasons": "All year round; best in spring to autumn when paths are drier and visibility is higher.",
+    "seo": {
+      "title": "Marbury Circular Walk – 11 km Moderate UK Hike",
+      "meta_description": "Discover the Marbury Circular Walk, an 11 km moderate hike in the UK. Enjoy rural lanes, countryside views, and practical safety tips.",
+      "h1": "Marbury Circular Walk – 11 km Moderate Trail in the UK"
+    }
   }
 }

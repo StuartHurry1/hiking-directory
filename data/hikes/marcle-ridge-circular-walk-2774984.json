@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 2774984
+  },
+  "ai": {
+    "summary": "The Marcle Ridge Circular Walk is an 8.8 km circular ridge hike in the UK designed for walkers with a moderate level of fitness. The route follows a raised grassy crest with exposed sections, offering wide views, rolling fields, and occasional woodland. Expect a mix of pasture tracks, hedges, and stiles as you traverse the ridge and return to the start point.",
+    "terrain_summary": "A ridge route with grassy, uneven footing along exposed crestlines. Expect some rocky or compacted soil sections, stiles or gates, field paths, and occasional woodland. The weather can affect footing and visibility, so mud, wind, and damp conditions are common, especially after rain. Wear sturdy boots and be prepared for a change in conditions.",
+    "safety_notes": "Ridge walking can be exposed to wind and changing weather. Check the forecast before you go and avoid the route in severe conditions. Stay on marked paths, mind cliff edges and gates, and watch for livestock. Mobile coverage may be patchy in rural areas; tell someone your planned route and ETA. Carry a map and compass or GPS, sufficient water and snacks, weather-appropriate clothing, and a small first aid kit.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Map and compass or GPS",
+      "Headwear and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency blanket or bivvy",
+      "Small first aid kit",
+      "Whistle",
+      "Mobile phone with offline maps",
+      "Rucksack with rain cover",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal with longer daylight and better weather. Summer offers the longest days but can be busy; winter conditions increase risk on exposed ridges, so only attempt with experience and proper gear.",
+    "seo": {
+      "title": "Marcle Ridge Circular Walk – 8.8 km Moderate Ridge Hike in the UK",
+      "meta_description": "Discover the Marcle Ridge Circular Walk, an 8.8 km moderate ridge hike in the UK. Explore exposed crest paths, enjoy sweeping views, and learn practical safety tips and gear for ridge walking.",
+      "h1": "Marcle Ridge Circular Walk – 8.8 km Ridge Hike in the UK"
+    }
   }
 }

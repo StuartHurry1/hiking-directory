@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 11480251
+  },
+  "ai": {
+    "summary": "Maywick Deepdale coastal route is a short, easy 2.4 km coastal walk in the UK, offering sea views, rocky shoreline, and a gentle, well-defined path that suits beginners and casual hikers.",
+    "terrain_summary": "The route follows a coastal track that is mostly flat to gently undulating with compact gravel and packed soil. Expect exposed sections with sea spray and occasional rocky patches near the shore; surfaces can be slippery when wet, and wind exposure is common along the coast.",
+    "safety_notes": "Check tide times before walking any coastal section and avoid exposed areas at high tide. Stay on the marked path, keep a safe distance from cliff edges, and be prepared for sudden weather changes; wear sturdy, grippy footwear and bring a windproof/waterproof layer, a map or GPS, and a small first aid kit. Carry a charged phone, know local emergency numbers, and tell someone your planned return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Water and snacks",
+      "Windproof and waterproof jacket",
+      "Layered clothing for temperature changes",
+      "Map or GPS device (or offline map on smartphone)",
+      "Small first aid kit",
+      "Whistle for signaling",
+      "Tide timetable or tide chart",
+      "Charged phone and portable power bank"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this coastal route; summer provides light winds and sea views, while autumn and winter can bring stronger winds and wetter conditions—check the forecast and tide times before you go.",
+    "seo": {
+      "title": "Maywick Deepdale coastal route – Easy 2.4 km coastal hike in the UK",
+      "meta_description": "Discover the Maywick Deepdale coastal route, a short and easy 2.4 km hike along the UK coast with sea views, rocky shores, and a gentle terrain suitable for beginners.",
+      "h1": "Maywick Deepdale coastal route"
+    }
   }
 }

@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 8769824
+  },
+  "ai": {
+    "summary": "A brief, easy urban walk through the Middlesex Street Estate Pedways in the UK. At 0.2 km, it offers a flat, pedestrian-friendly link between nearby streets via sheltered walkways, ideal for a quick neighborhood stroll.",
+    "terrain_summary": "Flat, paved urban pathways through pedestrian walkways; some segments may include stairs or ramps; expect street-level exposure and occasional foot traffic.",
+    "safety_notes": "Urban route with shared pedestrian use: stay aware of others, obey crossings, and watch for wet or uneven pavement after rain. Some segments may have stairs or ramps, so accessibility varies; use caution in busy periods.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Light rain jacket or umbrella",
+      "Small water bottle",
+      "Smartphone with map and emergency contacts"
+    ],
+    "best_seasons": "Year-round; spring and autumn offer the most pleasant conditions, but the route can be walked in any UK season.",
+    "seo": {
+      "title": "Middlesex Street Estate Pedways – Short Easy Urban Walk in the UK",
+      "meta_description": "Discover a 0.2 km, easy urban stroll along the Middlesex Street Estate Pedways in the UK. Flat, quick route through pedestrian walkways ideal for a fast neighborhood link.",
+      "h1": "Middlesex Street Estate Pedways Walk"
+    }
   }
 }

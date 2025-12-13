@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11507983
+  },
+  "ai": {
+    "summary": "Michael's Wood Extension is a short, easy woodland walk in the UK, ideal for a quick nature escape and light outdoor time on a 0.5 km loop.",
+    "terrain_summary": "Flat to gently undulating woodland path with dirt and grass surfaces; occasional roots and potential mud after rain; some shaded sections.",
+    "safety_notes": "Suitable for most walkers. Wear sturdy, waterproof footwear and bring a light layer. Stay on marked paths, watch for uneven ground and tree roots, and check forecast for rain. Carry water, a small first-aid kit, and a charged phone. Supervise children and pets, and be mindful of wildlife. In dusk or poor visibility, increase caution.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Light rain jacket",
+      "Water bottle",
+      "Snack or energy bar",
+      "Map or offline navigation (or fully charged phone)",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; can be enjoyed year-round in mild UK weather.",
+    "seo": {
+      "title": "Michael's Wood Extension — Easy 0.5 km Woodland Walk in the UK",
+      "meta_description": "Explore Michael's Wood Extension, a short and easy 0.5 km woodland walk in the UK. Get terrain details, safety tips, and packing essentials for a quick nature break.",
+      "h1": "Michael's Wood Extension: Easy 0.5 km Woodland Walk in the UK"
+    }
   }
 }

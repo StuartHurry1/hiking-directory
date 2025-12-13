@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1750057
+  },
+  "ai": {
+    "summary": "Marshall Country Trail is a challenging long-distance hike in the UK, spanning approximately 26.8 km and designed for experienced hikers seeking a strenuous day on the trail.",
+    "terrain_summary": "The route features varied UK terrain: forest tracks, rural lanes, and fields, with uneven surfaces and occasional mud. Expect both gentle stretches and steeper sections; weather can affect footing.",
+    "safety_notes": "Always check the forecast, carry a map and compass or GPS, and inform someone of your plan before you go. Wear sturdy boots and dress in layers; bring enough water and snacks; carry a basic first aid kit and a whistle. Start early to ensure daylight, and know your limits—if conditions worsen, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "Snack/energy foods",
+      "First aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Lightweight rain cover for your bag",
+      "Mobile phone with offline maps",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal for this trail; winter hikes are possible with extra gear, shorter daylight, and careful planning.",
+    "seo": {
+      "title": "Marshall Country Trail – 26.8 km Hard Hike in the UK",
+      "meta_description": "Discover the Marshall Country Trail, a 26.8 km hard hike in the UK. Get terrain insights, safety tips, and gear recommendations for a challenging day on the trail.",
+      "h1": "Marshall Country Trail – 26.8 km Hard Hike in the UK"
+    }
   }
 }

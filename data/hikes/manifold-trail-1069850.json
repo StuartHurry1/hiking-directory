@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1069850
+  },
+  "ai": {
+    "summary": "The Manifold Trail is an 80.2 km hard-distance hike in the UK, offering varied terrain and remote scenery. This guide outlines what to expect, safety considerations, gear suggestions, and the best seasons for tackling the route, whether as a multi-day trek or a strenuous long-day challenge.",
+    "terrain_summary": "Expect a mix of woodland paths, limestone pavements, moorland, river crossings, and occasional exposed ridges. Surfaces range from well-maintained trails to rough, uneven tracks with mud and loose stones. The route includes steep ascents and descents and some sections may require careful navigation.",
+    "safety_notes": "Plan for 2–4 days to complete the full 80.2 km. Check weather forecasts and daylight hours before setting out. Navigation: carry a map, compass, and a GPS device; some stretches are poorly marked. Weather and exposure: UK conditions can change rapidly; bring a waterproof layer and warm clothing. Water and food: carry enough water and high-energy snacks; know refill points along the route. Terrain hazards: mud, bog, loose stones, and steep sections; use poles if needed and stay on established paths. Livestock and dogs: be aware of livestock on moorland and keep dogs under control where required. Safety gear: wear a first aid kit, carry a whistle, and bring a lightweight emergency shelter; ensure your phone is charged where network allows. Emergency plan: share your itinerary with someone and know the nearest towns or railway stations for help. Leave no trace: take all rubbish with you and avoid damaging flora.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support and grip",
+      "Layered clothing: base layer, insulating mid-layer, and waterproof outer shell",
+      "Waterproof jacket and waterproof pants",
+      "Rucksack or daypack (20–40 L) with rain cover",
+      "Map and compass (and a GPS device as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "Hydration system: water bottles or hydration bladder (2–3 L capacity)",
+      "High-energy snacks and meals (trail mix, energy bars)",
+      "First aid kit and blister care",
+      "Emergency whistle",
+      "Emergency bivvy or lightweight shelter",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Extra socks and a spare layer"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) are the most favorable due to longer daylight and drier conditions. Summer can be hot; autumn offers cooler temperatures and autumn colors but weather can be unsettled. Winter conditions are challenging and should only be attempted by experienced hikers with appropriate gear and support.",
+    "seo": {
+      "title": "Manifold Trail Guide – 80.2 km Hard UK Hike",
+      "meta_description": "Plan your ascent of the Manifold Trail, an 80.2 km hard-distance hike in the UK. Terrain overview, safety tips, gear list, and best seasons.",
+      "h1": "Manifold Trail – 80.2 km Hard UK Hike"
+    }
   }
 }

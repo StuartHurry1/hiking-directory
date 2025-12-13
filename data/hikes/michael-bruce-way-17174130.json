@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17174130
+  },
+  "ai": {
+    "summary": "The Michael Bruce Way is a 9.9 km moderate hike in the UK. It provides a steady pace with varied terrain, suitable for hikers with some experience who enjoy a well-marked trail.",
+    "terrain_summary": "Mostly well-defined trails with some rocky or rooty sections. Expect grassy paths, gentle climbs, and potential muddy patches after rain. Scenic views may include open fields and woodlands depending on the route taken.",
+    "safety_notes": "Plan ahead and inform someone of your route and expected return time. Stay on marked trails, heed weather changes, and carry a map, compass or GPS. Wear sturdy footwear and dress in layers. Bring sufficient water and snacks. In remote stretches cell coverage can be limited; consider a whistle and a charged phone as a backup.",
+    "recommended_gear": [
+      "Water bottle (2–3 liters depending on conditions)",
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate layers (waterproof jacket, hat, gloves if needed)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Snacks or energy bars",
+      "Sun protection (sunglasses, sunscreen)",
+      "Whistle for emergencies",
+      "Mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and better trail conditions. Winter hikes are possible but require extra precautions and shorter daylight hours.",
+    "seo": {
+      "title": "Michael Bruce Way - 9.9 km Moderate Hike in the UK",
+      "meta_description": "Discover the Michael Bruce Way, a 9.9 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Michael Bruce Way – 9.9 km Moderate Hike in the UK"
+    }
   }
 }

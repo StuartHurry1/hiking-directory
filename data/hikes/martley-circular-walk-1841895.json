@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 1841895
+  },
+  "ai": {
+    "summary": "A demanding 19.2 km circular hike that starts near Martley and traverses rolling countryside, farmland, hedged lanes and woodland. The route combines long stretches of rough track with intermittent climbs, demanding solid navigation and good footing for experienced hikers.",
+    "terrain_summary": "Uneven, mixed terrain including rough tracks, grassy paths, muddy sections in wet weather, hedged field edges, stiles, woodland paths and some road walking. Expect varying gradients with occasional steep ascents and descents; some exposed sections.",
+    "safety_notes": "Wear sturdy boots and weather-appropriate clothing; bring a map and compass or GPS; carry enough water and snacks; check weather and daylight conditions; inform someone of your planned route and expected return; stay on public rights of way; watch for livestock on farm tracks; be cautious on road sections and keep to verges; carry a basic first-aid kit and a charged mobile phone; have a contingency plan if navigation becomes difficult in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers)",
+      "Map and compass or GPS device",
+      "Lightweight rain jacket",
+      "Hat, sunscreen and sunglasses",
+      "Small first-aid kit",
+      "Mobile phone with fully charged battery",
+      "Headtorch (for potential late starts or emergencies)"
+    ],
+    "best_seasons": "Year-round, but typically best from spring to autumn when paths are drier and daylight is longer. Winter hiking is possible with precautions for mud, ice and reduced daylight.",
+    "seo": {
+      "title": "Martley Circular Walk - 19.2 km Hard Hike in the UK",
+      "meta_description": "Discover the Martley Circular Walk, a 19.2 km hard hike in the UK. Get terrain details, safety tips, gear recommendations and the best seasons to walk this route.",
+      "h1": "Martley Circular Walk — 19.2 km, Hard"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 15843731
+  },
+  "ai": {
+    "summary": "Manus' Loanen is an ultra-short, easy hike in the United Kingdom designed for a quick outdoor stretch. Covering just 0.1 km with minimal elevation gain, it offers a gentle stroll suitable for beginners, families with children, or anyone looking for a brief nature moment.",
+    "terrain_summary": "Flat, well-maintained path with minimal elevation changes. Expect firm ground, possible leaf litter or damp patches after rain, and occasional shaded sections. The route is typically clearly marked and easy to follow.",
+    "safety_notes": "Always check the local weather before you go and wear sturdy footwear. Because conditions in the UK can change quickly, bring a rain layer and waterproof gear for your belongings. Stay on the marked path, watch for slippery spots when wet, and be mindful of pedestrians or cyclists on shared routes. Inform someone of your plans if hiking alone, and carry a fully charged phone for emergencies.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Sun protection",
+      "Small first aid kit",
+      "Phone with maps",
+      "Snack (optional)"
+    ],
+    "best_seasons": "Spring through autumn offer the most comfortable hiking conditions, with longer daylight and milder weather. The short distance also makes it feasible year-round, but winter can be damp, muddy, or icy.",
+    "seo": {
+      "title": "Manus' Loanen: Easy 0.1 km Hike in the UK",
+      "meta_description": "Explore Manus' Loanen, a tiny 0.1 km easy hike in the United Kingdom. Read terrain, safety tips, and gear for a quick outdoor stroll.",
+      "h1": "Manus' Loanen: A 0.1 km Easy Hike in the UK"
+    }
   }
 }

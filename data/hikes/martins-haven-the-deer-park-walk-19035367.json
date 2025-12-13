@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19035367
+  },
+  "ai": {
+    "summary": "A 6.5 km moderate hike through a deer park setting at Martins Haven, combining woodland tracks and open meadows with opportunities to spot wildlife. Suitable for walkers with steady footing and a willingness to cover varied terrain.",
+    "terrain_summary": "Mostly well-maintained trails of grass, gravel, and compact earth. Expect some uneven woodland paths and occasional muddy patches, with gentle gradients. Conditions can be slippery after rain.",
+    "safety_notes": "Wear sturdy waterproof footwear and appropriate clothing. Stay on marked paths and obey park guidelines. Watch for uneven ground and seasonal wildlife; keep a respectful distance from deer. Bring water, sun protection, and a light layer for changing weather. If dogs are allowed, keep them on a short lead and under control.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing (layered, including rain shell)",
+      "Water bottle or hydration system",
+      "Map, compass, or offline GPS",
+      "Snack or energy bar",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Light headlamp or flashlight (for dusk walks)",
+      "Camera/binoculars for wildlife"
+    ],
+    "best_seasons": "All year, with the best conditions typically from late spring to early autumn when trails are dry and wildlife is active.",
+    "seo": {
+      "title": "Martins Haven – The Deer Park Walk | 6.5 km Moderate UK Hike",
+      "meta_description": "Explore Martins Haven's Deer Park Walk, a 6.5 km moderate hike featuring woodland trails, open meadows, and wildlife spotting opportunities. Ideal for walkers with moderate fitness.",
+      "h1": "Martins Haven - The Deer Park Walk"
+    }
   }
 }

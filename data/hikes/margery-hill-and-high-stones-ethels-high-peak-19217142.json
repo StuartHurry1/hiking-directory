@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19217142
+  },
+  "ai": {
+    "summary": "A demanding 25.7 km UK hike to Margery Hill and High Stones (Ethels) that traverses exposed upland terrain with long ascents and rocky sections. Designed for experienced hikers with solid navigation and stamina.",
+    "terrain_summary": "Long-distance upland route with uneven, rocky paths and potential boggy patches. Expect steep climbs to elevated points, open exposed sections, and variable weather. Navigation on open moorland is essential; waterproof footing and sturdy boots recommended.",
+    "safety_notes": "Check the weather forecast and start early; carry a map and compass (GPS as backup). Stay on marked paths and wear sturdy waterproof boots. Bring sufficient clothing for wind and rain, plus 2–3 liters of water and high-energy food. Inform someone of your planned route and timings; be prepared for rapid weather changes and reduced daylight; consider turning back if visibility drops.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Moisture-wicking base layers",
+      "Insulating mid-layer",
+      "Windproof and waterproof outer shell",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with portable battery",
+      "Sufficient water (2–3 L) and high-energy snacks",
+      "Hat, gloves, and sun protection",
+      "Emergency whistle and lightweight emergency bivvy or space blanket",
+      "Headlamp with spare batteries",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Margery Hill and High Stones (Ethels) Hike – 25.7 km, Hard Route in the UK",
+      "meta_description": "Explore the demanding 25.7 km Margery Hill and High Stones (Ethels) hike in the UK. Learn about terrain, safety tips, and gear for a challenging upland trek.",
+      "h1": "Margery Hill and High Stones (Ethels) – 25.7 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 4616710
+  },
+  "ai": {
+    "summary": "The Middle Woodbatch Circular is a short, family-friendly 3.9-kilometre loop in the UK. With easy terrain and pleasant woodland scenery, it makes for a relaxed day out.",
+    "terrain_summary": "Primarily well-maintained forest trails of packed earth and gravel, with gentle gradients and occasional roots or small steps. Expect shaded paths through woodland, occasional open sections, and potential mud after rain.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy footwear and appropriate clothing. Stay on marked paths, be mindful of seasonal wildlife, and carry a map or charged device. Let someone know your plan, bring a small first aid kit, water, and be prepared for mud and changing conditions.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Weather-appropriate clothing and a light layer",
+      "Water and snacks",
+      "Map, compass, or GPS (or a charged phone with offline maps)",
+      "Small first aid kit",
+      "Rain jacket or waterproof layer",
+      "Sun protection (hat, sunscreen)",
+      "Optional: walking poles"
+    ],
+    "best_seasons": "Spring to autumn are ideal, with pleasant temperatures and good trail conditions. Winter walks are possible but can be muddy and shorter due to daylight.",
+    "seo": {
+      "title": "Middle Woodbatch Circular Walk – 3.9 km Easy Loop in the UK",
+      "meta_description": "Discover the Middle Woodbatch Circular, a 3.9 km easy hike in the UK. Enjoy gentle woodland trails, family-friendly scenery, and a relaxing day outdoors.",
+      "h1": "Middle Woodbatch Circular Walk – 3.9 km Easy Loop in the UK"
+    }
   }
 }

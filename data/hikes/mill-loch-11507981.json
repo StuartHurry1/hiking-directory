@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507981
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km loop around Mill Loch in the UK. The route is flat and well maintained, making it ideal for beginners, families, and a quick nature escape with water views and potential wildlife.",
+    "terrain_summary": "Mostly flat, well surfaced path around the loch. Surface is compact gravel or tarmac; expect occasional muddy sections after rain and a few boardwalk or rooty patches in wetter conditions.",
+    "safety_notes": "Weather in the UK can be changeable, so check the forecast before you go. Wear sturdy, waterproof footwear and dress in layers. Stay on the marked path and supervise children near the water. After rain surfaces can be slippery, so take care and allow extra time.",
+    "recommended_gear": [
+      "Weather-appropriate clothing (layers)",
+      "Sturdy walking shoes",
+      "Water and a small snack",
+      "Sunscreen and a hat",
+      "Map or GPS on your phone",
+      "Light first aid essentials"
+    ],
+    "best_seasons": "All year round, with the best conditions typically in spring and summer.",
+    "seo": {
+      "title": "Mill Loch – Easy 0.5 km Hike in the UK",
+      "meta_description": "Explore Mill Loch on a short, flat 0.5 km loop. An easy UK hike suitable for families, offering tranquil water views and light terrain.",
+      "h1": "Mill Loch: 0.5 km Easy Hike in the UK"
+    }
   }
 }

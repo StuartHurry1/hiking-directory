@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17664069
+  },
+  "ai": {
+    "summary": "The Mautby Marsh Circular Walk is a demanding 20.2 km circuit in the UK, looping around expansive marshland with reedbeds, water channels and occasional boardwalk sections. The route is long and can be very muddy, requiring good navigation and sturdy footwear. Expect exposed windswept marshes and a mix of firm paths and soft ground; the hike is best tackled by experienced walkers prepared for challenging terrain.",
+    "terrain_summary": "Expect a wetland landscape with long sections of soft mud, shallow water, and reedbeds. The route combines firm footpaths with boggy patches and occasional boardwalks. Gear and gaiters help in crossing the mud and standing water. Elevation gain is minimal, but uneven ground and exposed marsh wind can make it feel strenuous.",
+    "safety_notes": "Check weather and tidal influences if the marsh is near the coast. Wear waterproof footwear and gaiters, and carry a map, compass or GPS. Stay on marked paths to avoid deep mud or hidden ditches. Bring sufficient water and snacks, a basic first aid kit, a whistle, and a fully charged phone. Be cautious of weather changes, fog, and strong winds; tell someone your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Waterproof jacket and trousers",
+      "Map and compass or GPS device",
+      "Whistle for emergencies",
+      "Water bottle and high-energy snacks",
+      "Basic first aid kit",
+      "Insect repellent and sun protection",
+      "Gaiters or tall socks to reduce mud ingress",
+      "Extra socks and a lightweight insulating layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is typically best; winter attempts are possible but muddy, exposed, and more challenging with shorter daylight.",
+    "seo": {
+      "title": "Mautby Marsh Circular Walk – 20.2 km Hard Hike in the UK",
+      "meta_description": "Take on the 20.2 km Mautby Marsh Circular Walk in the UK. A hard marshland circuit featuring mud, boardwalks and expansive wetlands—perfect for experienced hikers.",
+      "h1": "Mautby Marsh Circular Walk"
+    }
   }
 }

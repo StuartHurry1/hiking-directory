@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 2701870
+  },
+  "ai": {
+    "summary": "The Mid Sussex Link is a challenging long-distance hike in the UK, spanning 180.3 km with a hard difficulty. The route traverses a mix of rural farmland, hedgerows, and quiet lanes with occasional road sections. The region is listed as unknown. It suits experienced hikers with strong navigation skills and the stamina for multi-day trekking.",
+    "terrain_summary": "Expect a variety of terrains including well-defined footpaths, rural tracks, muddy fields after rain, hedgerows, stile crossings, and some short road sections. Elevation is variable with gentle to moderate hills and long flat stretches in places. Weather in the UK can be changeable, so be prepared for mud, wind, and rain.",
+    "safety_notes": "Carry a reliable map and compass (GPS as backup); know your route and plan overnight stops. Start early to maximize daylight. Wear sturdy footwear and dress in layered clothing. Bring sufficient food and water, plus a means to purify water. Pack a first aid kit, whistle, and emergency shelter. Inform someone of your itinerary and expected timing. Exercise caution at road crossings and in remote sections; check weather and daylight hours before setting out; be prepared for seasonal hazards such as mud, icy paths in winter, and sun exposure in summer.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Waterproof, breathable jacket and pants",
+      "Insulating layer (fleece or down)",
+      "Hat and gloves (seasonal)",
+      "Daypack with 20–30 L capacity",
+      "Water bottles or hydration system plus water purification options",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone and portable power bank",
+      "First aid kit with blister care",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen and sunglasses",
+      "Emergency bivy or lightweight shelter",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Pack rain cover"
+    ],
+    "best_seasons": "Spring to autumn are generally the best seasons for this route, offering longer daylight and more predictable trail conditions. Winter hikes are more challenging and require additional preparation and caution.",
+    "seo": {
+      "title": "Mid Sussex Link – UK 180.3 km Hard Hike Guide",
+      "meta_description": "Plan the Mid Sussex Link, a 180.3 km hard hike in the UK. Explore terrain overview, safety tips, best seasons, and essential gear for this long-distance trek.",
+      "h1": "Mid Sussex Link: UK Long-Distance Hike (180.3 km)"
+    }
   }
 }

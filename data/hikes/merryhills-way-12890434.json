@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12890434
+  },
+  "ai": {
+    "summary": "Merryhills Way is a short and easy 5.7 km hike in the UK designed for beginners and casual walkers. The route offers a gentle pace, light elevation, and scenic countryside views with minimal technical difficulty.",
+    "terrain_summary": "Mostly well-maintained paths and grassy trails with gentle gradients. Expect some uneven surfaces and occasional muddy patches after rain. Suitable for families and beginners, with few technical sections.",
+    "safety_notes": "- Wear sturdy footwear with good grip. - Stay on marked paths and respect private land. - Check the weather forecast; UK conditions can change quickly. - Bring water, a light layer, and a small map or a fully charged phone with offline access. - Be mindful of other trail users (cyclists, dogs, children). - If you encounter gates, livestock, or farm crossings, close gates behind you.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Cap or hat and sunscreen",
+      "Map, compass, or charged phone with offline map",
+      "Light snack and emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions and daylight for Merryhills Way. Winter hikes are possible but can be wetter, windier, and colder; plan accordingly.",
+    "seo": {
+      "title": "Merryhills Way - Easy 5.7 km Hike in the UK",
+      "meta_description": "Discover Merryhills Way, a gentle 5.7 km hike in the UK. Read terrain notes, safety tips, gear ideas, and the best seasons for this beginner-friendly trail.",
+      "h1": "Merryhills Way: Easy 5.7 km Hike in the UK"
+    }
   }
 }

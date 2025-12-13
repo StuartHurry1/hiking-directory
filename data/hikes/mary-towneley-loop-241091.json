@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 241091
+  },
+  "ai": {
+    "summary": "The Mary Towneley Loop is a demanding 195.4 km circular hike in the UK, intended for experienced walkers. It combines long days, sustained elevation, and varied upland landscapes that reward careful planning and solid navigation.",
+    "terrain_summary": "Predominantly upland moorland and valley trails with long ascents and descents, rocky and uneven paths, boggy sections, and exposed ridges. Terrain alternates between grassy moorland, rocky footing, and gravel tracks; navigation can be challenging in poor visibility.",
+    "safety_notes": "This is a long, hard multi-day trek with remote sections. Plan for either booked accommodation or camping. Check weather forecasts and daylight hours; wear sturdy footwear with good grip; bring map and compass (or a GPS) and know how to navigate. Tell someone your itinerary and daily targets; carry a means of communication and an emergency whistle. Bring sufficient food and water, plus a method to purify water. Be prepared for fatigue, slips on wet ground, and sudden weather changes; turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Hiking boots with ankle support",
+      "Waterproof jacket and waterproof trousers",
+      "Layered clothing (base layer, mid-layer fleece, outer shell)",
+      "Rucksack in the 20–40 L range with rain cover",
+      "Map and compass (and/or GPS device)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency shelter or bivvy bag",
+      "Water bottle or hydration system + water purification method",
+      "High-energy food and snacks",
+      "Trekking poles",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is typically best in the UK, though weather can be unpredictable and upland conditions may be severe year-round.",
+    "seo": {
+      "title": "Mary Towneley Loop — 195.4 km Hard Circular Hike in the UK",
+      "meta_description": "Plan your Mary Towneley Loop trek. A 195.4 km hard circular route in the UK offering upland moorland, long climbs, and varied scenery. Prepare with essential gear and safety tips.",
+      "h1": "Mary Towneley Loop: 195 km Hard Circular Hike in the UK"
+    }
   }
 }

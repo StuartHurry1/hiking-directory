@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17883990
+  },
+  "ai": {
+    "summary": "A short, easy 4.6 km route in the UK from Wray Castle to Loanthwaite, designed as part of the Miles without Stiles initiative. The walk is largely flat with surfaced paths, making it accessible for wheelchairs and strollers, and it offers lakeside and woodland scenery.",
+    "terrain_summary": "Predominantly flat, with smooth surfaces on tarmac and compact gravel. Occasional gentle slopes and gates may require light effort. Some grassy or muddy patches after rain; conditions can change with weather.",
+    "safety_notes": "Wear suitable footwear and clothing. Check local weather and path conditions before you go. Stay on the marked route and be mindful of other users on shared paths. Supervise children near water edges and carry a phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun protection (hat, sunscreen)",
+      "Mobility aid if required",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in late spring to early autumn; in winter be prepared for colder, wetter conditions and shorter daylight.",
+    "seo": {
+      "title": "Miles without Stiles: Wray Castle to Loanthwaite — Accessible 4.6 km Walk in the UK",
+      "meta_description": "Explore an accessible 4.6 km walk from Wray Castle to Loanthwaite in the UK. Flat, well-surfaced paths suitable for wheelchairs and strollers, part of the Miles without Stiles initiative.",
+      "h1": "Miles without Stiles: Wray Castle to Loanthwaite"
+    }
   }
 }

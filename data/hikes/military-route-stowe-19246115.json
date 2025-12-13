@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19246115
+  },
+  "ai": {
+    "summary": "A 11.4 km moderate hike along the Military Route in Stowe, UK. The route traverses countryside, woodland, and historic paths, typically taking about 3-4 hours depending on pace.",
+    "terrain_summary": "Mixed terrain including grassy bridleways, woodland trails, and occasional paved sections. Moderate elevation gain with uneven footing in places; can be muddy in wet weather and may include steps or gentle ascents.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, especially in farmland and woodland. Check the forecast and avoid hiking in severe weather. Bring water, snacks, and a basic first aid kit. Have a map or GPS and a charged phone. Inform someone of your planned route and estimated return time. Be mindful of pedestrians, cyclists, and livestock on rural sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing, including a waterproof layer",
+      "Map and compass or GPS device",
+      "Lightweight backpack",
+      "Snacks or energy bars",
+      "First aid kit",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring to Autumn; the route is best in mild conditions, but can be hiked year-round with suitable gear.",
+    "seo": {
+      "title": "Military Route, Stowe – 11.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the 11.4 km Military Route in Stowe, UK. A moderate, scenic hike through countryside and woodlands with safety tips and gear recommendations.",
+      "h1": "Military Route, Stowe – 11.4 km Moderate Hike"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 14594957
+  },
+  "ai": {
+    "summary": "An easy 2.1 km coastal hike in the UK along the Marine Mammal Trail, suitable for most abilities. The route offers light seashell terrain and potential wildlife viewing opportunities.",
+    "terrain_summary": "Flat to gently undulating coastal path with sections of boardwalk and exposed rock. Expect uneven surfaces, wet ground after rain, and occasional steps. The trail runs near the shoreline, with sea spray and windy conditions possible.",
+    "safety_notes": "Check tide times and weather before you go. Keep to marked paths, maintain a safe distance from any marine mammals you may encounter, and avoid surprising wildlife. Wear sturdy footwear, bring a windproof layer and water, and be cautious of slippery rocks and sudden waves. Supervise children at all times.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Windproof/waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat, sunscreen)",
+      "Light layers for changing weather",
+      "Camera/binoculars (optional)",
+      "Small backpack with essentials",
+      "Phone with offline map (if available)"
+    ],
+    "best_seasons": "Spring through autumn; year-round visits are possible but winter conditions can be exposed and tides may affect the route.",
+    "seo": {
+      "title": "Marine Mammal Trail - Easy 2.1 km Coastal Hike in the UK",
+      "meta_description": "Explore the Marine Mammal Trail in the UK: an easy 2.1 km coastal hike with scenic views, wildlife viewing opportunities, and practical safety tips for an enjoyable day outdoors.",
+      "h1": "Marine Mammal Trail: Easy 2.1 km Coastal Hike in the UK"
+    }
   }
 }

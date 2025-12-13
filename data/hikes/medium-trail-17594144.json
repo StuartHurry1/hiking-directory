@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17594144
+  },
+  "ai": {
+    "summary": "Medium Trail is an easy 2.8 km hike in the UK designed for beginners and those seeking a short, relaxed outing. The route offers gentle gradients, straightforward footing, and pleasant countryside views suitable for families.",
+    "terrain_summary": "Primarily flat to gently rolling paths with a mix of gravel, compact dirt, and small grassy sections. Most of the trail is well-surfaced, with a few short steps.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Wear sturdy, comfortable walking shoes and bring a light waterproof layer. Stay on marked paths and follow any posted signs. Carry water and a mobile phone; in rural UK areas reception can vary. Be mindful of uneven ground, roots, and slippery surfaces after rain. Watch out for livestock or other trail users in rural sections. If hiking with children or pets, supervise them closely.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof layer",
+      "Hat and sunscreen (summer)",
+      "Map, GPS, or offline route guide",
+      "Mobile phone with emergency numbers"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter hiking is possible with appropriate clothing and caution.",
+    "seo": {
+      "title": "Medium Trail – 2.8 km Easy Hike in the UK",
+      "meta_description": "Discover Medium Trail, a gentle 2.8 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this easy walk.",
+      "h1": "Medium Trail: 2.8 km Easy Hike in the UK"
+    }
   }
 }

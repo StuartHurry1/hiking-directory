@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 15705588
+  },
+  "ai": {
+    "summary": "The Millennium Trail is a challenging long-distance hike in the United Kingdom, spanning 104.5 km with a hard difficulty rating. It demands solid stamina, efficient pacing, and careful planning, as terrain and weather can vary significantly along the route. Suitable for experienced hikers who are comfortable with multi-day trekking and navigation.",
+    "terrain_summary": "Hikers can expect a varied mix of moorland paths, forest trails, rocky tracks, grassy downs, and occasional road sections. Elevations may be substantial, with exposed sections where wind and rain are common. Terrain can be slippery when wet, and navigation may be difficult in featureless landscapes; water sources may be scarce in some stretches, so plan for water and purification.",
+    "safety_notes": "This is a long, strenuous trek across potentially remote countryside. Plan your itinerary and lodging (or camping) in advance. Check weather forecasts and daylight hours; UK weather can change rapidly. Carry a detailed map and compass (and/or a GPS device) and know how to use them. Inform someone of your route and timing. Stay hydrated and fueled, pace yourself to avoid fatigue, and inspect footwear and feet daily to prevent blisters. Pack a basic first aid kit, a whistle, a space blanket, and emergency contact information. In emergencies, call 999 and report your location. Be mindful of wildlife and seasonal hazards, especially on exposed moorland.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Waterproof jacket and rain pants",
+      "Backpack appropriate for multi-day trekking",
+      "Map and compass (and/or GPS device) with spare batteries",
+      "Headlamp with extra batteries",
+      "First aid kit suitable for hikers",
+      "Water bottles or hydration reservoir and water purification method",
+      "High-energy food and snacks for long days",
+      "Emergency blanket or bivy sack",
+      "Whistle and small signaling device",
+      "Sun protection: sunscreen, sunglasses, hat",
+      "Trekking poles (optional but helpful on rough terrain)",
+      "Sleeping bag and compact tent or bivouac gear if overnighting",
+      "Multi-tool or knife",
+      "Lighter/matches or a fire starter (where permitted)",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn; winter conditions can be severe and are not recommended for most hikers.",
+    "seo": {
+      "title": "Millennium Trail – 104.5 km Hard Trek in the UK",
+      "meta_description": "Plan your 104.5 km hard trek on the Millennium Trail in the UK. Learn about terrain, safety considerations, and gear for a challenging long-distance hike.",
+      "h1": "Millennium Trail: A 104.5 km Hard Trek in the UK"
+    }
   }
 }

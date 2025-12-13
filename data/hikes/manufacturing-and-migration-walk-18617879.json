@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18617879
+  },
+  "ai": {
+    "summary": "The Manufacturing & Migration Walk is a 5 km easy hike in the UK. The route offers an approachable stroll through varied landscapes with gentle gradients and straightforward navigation suitable for most walkers.",
+    "terrain_summary": "Ground surfaces vary from paved sidewalks and country lanes to grassy or gravel paths. Expect mostly level ground with occasional gentle slopes; urban and rural sections may alternate.",
+    "safety_notes": "Check the forecast and dress for the weather. Wear sturdy, comfortable footwear. Bring water and a small snack. Stay alert for traffic when walking on road edges or crossing junctions and carry a map or offline navigation in uncertain areas. If daylight is limited, start early and plan turnaround accordingly.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle or hydration",
+      "Lightweight waterproof jacket",
+      "Sun hat and sunglasses (seasonal)",
+      "Small backpack for essentials",
+      "Map or offline navigation app",
+      "Snacks or energy bar",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; Winter is possible with appropriate gear and footwear.",
+    "seo": {
+      "title": "Manufacturing & Migration Walk — 5 km Easy Hike in the UK",
+      "meta_description": "Discover a 5 km easy hike in the UK on the Manufacturing & Migration Walk. Gentle terrain, straightforward navigation, safety tips, and gear recommendations.",
+      "h1": "Manufacturing & Migration Walk"
+    }
   }
 }

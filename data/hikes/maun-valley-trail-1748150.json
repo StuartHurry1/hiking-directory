@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1748150
+  },
+  "ai": {
+    "summary": "Maun Valley Trail is a challenging 18.5 km hike in the United Kingdom. With varied terrain and significant elevation, it is best suited for experienced hikers seeking a remote valley experience. The region is not specified, but expect rugged countryside typical of UK trails.",
+    "terrain_summary": "The route combines woodland tracks, rocky footpaths, open hillside sections, and potential muddy stretches. Expect uneven surfaces, steep ascents and descents in places, and occasional stream crossings. Weather and seasonal conditions in the UK will affect footing and visibility.",
+    "safety_notes": "Plan for variable UK weather: check forecasts, bring layers and waterproofs, and carry a map and compass or GPS. Inform someone of your planned route and return time. Wear sturdy footwear with good grip, stay hydrated, and take regular breaks. The 18.5 km distance and elevation can be strenuous; be prepared for navigation challenges and changing light, especially in exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Water and high-energy snacks",
+      "Waterproof jacket and an insulating layer",
+      "Extra warm layer (fleece or down)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional but helpful)",
+      "Gaiters or weather-appropriate pants"
+    ],
+    "best_seasons": "Spring to autumn (March–October) for the best conditions; winter hikes can be more challenging due to cold, wind, and mud.",
+    "seo": {
+      "title": "Maun Valley Trail – 18.5km Hard Hike in the UK",
+      "meta_description": "Plan your adventure on the Maun Valley Trail: a demanding 18.5 km UK hike with rugged terrain, elevation, and valley views. Includes safety tips and gear suggestions.",
+      "h1": "Maun Valley Trail: 18.5km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 15968877
+  },
+  "ai": {
+    "summary": "Manor Stroll is a short, easy 2.2 km circuit in the UK around manor grounds. The route is designed for all ages and abilities, offering a relaxed, scenic stroll.",
+    "terrain_summary": "Predominantly flat with well-kept surfaced paths, mostly tarmac and compact gravel. Some sections may be grassy or uneven near the edges, and there can be gentle curb crossings.",
+    "safety_notes": "Check weather and daylight before you go. Wear comfortable shoes and dress in layers. Stay on marked paths, pay attention to other walkers, and bring water if walking in warm conditions. If visiting in busy times, expect crowds and allow others to pass.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Light rain jacket",
+      "Phone with map or offline navigation",
+      "Small snack (optional)",
+      "Light bag or backpack"
+    ],
+    "best_seasons": "Year-round, with especially pleasant experiences in spring, summer, and autumn; winter visits are fine with proper footwear and weather precautions.",
+    "seo": {
+      "title": "Manor Stroll — Easy 2.2 km UK Walk",
+      "meta_description": "Discover Manor Stroll, a gentle 2.2 km easy walk in the UK. Flat terrain, scenic manor grounds, suitable for all ages.",
+      "h1": "Manor Stroll: Easy 2.2 km Walk in the UK"
+    }
   }
 }

@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 2867847
+  },
+  "ai": {
+    "summary": "Merry Hill Circular Footpath is an 8.1 km circular hike in the UK, offering a moderate ridge-focused walk with varied terrain and scenic views. The route begins and ends at the same point, looping through a mix of woodland paths, open grassy ridges, and country lanes. The route is suitable for hikers with some hill experience and weather conditions on ridges can change rapidly.",
+    "terrain_summary": "The walk combines forest tracks, grassy uplands, and exposed ridges. Expect uneven surfaces, occasional steps, and short ascents and descents. Some sections may be weather-worn and wind exposure is common on higher ground.",
+    "safety_notes": "Before setting out: check the forecast for winds and rain on ridge sections. Wear sturdy, waterproof hiking boots with good grip. Carry a map or GPS and ensure you have a fully charged phone with offline navigation if needed, as mobile signal may be limited. Stay on marked paths, be cautious near steep edges, and close gates behind you. Bring water and snacks, and have appropriate clothing layers for changing weather. Inform someone of your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Map and/or GPS device",
+      "Water bottle (at least 1–2 litres) and high-energy snacks",
+      "Weather-appropriate clothing (layers + waterproof/windproof outer layer)",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Headlamp or flashlight (in case you underestimate finish time)",
+      "Small first aid kit and emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (March–October) typically offer the best weather and daylight; winter walks are possible with proper gear and shorter daylight hours.",
+    "seo": {
+      "title": "Merry Hill Circular Footpath – 8.1 km Moderate Ridge Walk in the UK",
+      "meta_description": "Plan your hike on the Merry Hill Circular Footpath, an 8.1 km moderate ridge walk in the UK. Terrain, safety tips, best seasons, and gear recommendations.",
+      "h1": "Merry Hill Circular Footpath – 8.1 km Moderate Ridge Walk"
+    }
   }
 }

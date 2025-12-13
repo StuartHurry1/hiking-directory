@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 19346971
+  },
+  "ai": {
+    "summary": "A short, easy coastal stroll near Lizard Point in the UK that combines history with sea views. The 1.4 km route passes medieval mills and a ruined Victorian factory, offering a pleasant, accessible walk along the coast.",
+    "terrain_summary": "Mostly well-maintained coastal paths with some uneven sections, rocky edges, and a few steps. Expect exposed sea views, potential mud after rain, and a gentle, easy grade suitable for most walkers.",
+    "safety_notes": "Check tide times and weather before you go. Stay well back from cliff edges and avoid loose rocks. Keep children and pets under control. Wear sturdy footwear and bring a light jacket, water, and sun protection. Mobile signal may be limited in remote coastal sections.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Water and a small snack",
+      "Map or offline GPS / fully charged phone",
+      "Light backpack",
+      "Layered clothing for changing weather"
+    ],
+    "best_seasons": "Spring to autumn (approximately April–October) offer the mildest and most enjoyable conditions for this coastal walk, with longer daylight in summer. Winter can be windy, cold, and less predictable.",
+    "seo": {
+      "title": "Medieval Mills & Ruined Victorian Factory Walk near Lizard Point - Easy Coastal Hike (UK)",
+      "meta_description": "Explore a short, easy 1.4 km coastal hike near Lizard Point, UK. This walk reveals medieval mills and a ruined Victorian factory with stunning sea views.",
+      "h1": "Medieval Mills & Ruined Victorian Factory Walk near Lizard Point"
+    }
   }
 }

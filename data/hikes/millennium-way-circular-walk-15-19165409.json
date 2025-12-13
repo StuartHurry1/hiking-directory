@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19165409
+  },
+  "ai": {
+    "summary": "A 6.6 km circular hike in the United Kingdom, rated moderate, offering a mix of rural paths and brief road sections.",
+    "terrain_summary": "Mostly grassy and compact footpaths with hedges, occasional stiles, and some uneven or muddy sections; may include brief road crossings.",
+    "safety_notes": "Check the forecast; weather in the UK can change quickly. Wear sturdy boots with good grip. Bring a map or GPS, a charged phone, and a whistle. Stay on marked paths, watch for traffic on road sections, and allow extra time in wet conditions. Let someone know your planned route and expected return.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or GPS device; fully charged phone with offline maps",
+      "Snack or energy bars",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) and/or warm layers depending on season",
+      "Lightweight backpack",
+      "Walking poles (optional)",
+      "Whistle"
+    ],
+    "best_seasons": "Generally best in spring to autumn for longer daylight and drier paths; can be tackled year-round with appropriate gear.",
+    "seo": {
+      "title": "Millennium Way Circular Walk 15 – 6.6 km Moderate Hike in the UK",
+      "meta_description": "Discover Millennium Way Circular Walk 15, a 6.6 km moderate hike in the UK featuring mixed terrain, scenic countryside, and practical safety and gear tips.",
+      "h1": "Millennium Way Circular Walk 15"
+    }
   }
 }

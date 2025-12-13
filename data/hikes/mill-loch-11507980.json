@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11507980
+  },
+  "ai": {
+    "summary": "Mill Loch is a short, easy 1.6 km lakeside walk in the UK. The route offers gentle terrain and peaceful water views, making it ideal for families, beginners, or a relaxed outing. With minimal elevation gain and a leisurely pace, you can complete the loop in under an hour, depending on stops to enjoy the scenery.",
+    "terrain_summary": "The trail is predominantly flat with well-maintained paths. Expect a mix of compact gravel, grass edges, and occasional boardwalks by the water. After rain, sections can be muddy, so waterproof footwear is helpful. The surface is generally even, but plan for a few uneven patches and gentle bumps.",
+    "safety_notes": "As with any UK hike, weather can change quickly. Wear sturdy, supportive shoes and bring a lightweight waterproof layer. Stay on marked paths, be mindful of other walkers and cyclists on shared sections, and supervise children near the water. Carry a small amount of water, a basic first aid item, and a map or offline navigation in case of poor signal. Inform someone of your plans if venturing alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket or layer",
+      "Hat and sunscreen",
+      "Snack or small energy bar",
+      "Map or offline navigation on a phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the most comfortable conditions, with milder weather and clearer paths. The hike is still walkable in winter, but expect potential mud, shorter daylight hours, and more variable weather.",
+    "seo": {
+      "title": "Mill Loch – Easy 1.6 km Lakeside Walk in the UK",
+      "meta_description": "Explore Mill Loch, a flat and easy 1.6 km hiking route in the UK. Perfect for families and beginners, with practical safety tips and gear recommendations.",
+      "h1": "Mill Loch: Easy 1.6 km Lakeside Walk"
+    }
   }
 }

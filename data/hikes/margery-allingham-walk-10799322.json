@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 10799322
+  },
+  "ai": {
+    "summary": "Margery Allingham Walk is a demanding 19.7 km hike in the United Kingdom. This challenging route is best suited to experienced hikers seeking a full-day outing, with a mix of terrain and elevation that can test stamina.",
+    "terrain_summary": "Expect a varied terrain mix: surfaced paths, muddy tracks, grassy slopes, and occasional stiles and gates. The route includes hillier sections with uneven footing and long stretches that may be exposed to wind. Navigation relies on map reading and waymarked paths, and conditions can change with weather.",
+    "safety_notes": "Plan for a full-day hike. Check the forecast and daylight hours. Wear sturdy waterproof hiking boots and layered clothing. Bring ample water (2–3 liters) and high-energy snacks. Carry a map and compass or a reliable GPS, and have a fully charged phone. Inform someone of your plans and estimated return. Be prepared for changing conditions, and follow local access rules and safe-trail etiquette.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and insulated layers",
+      "Backpack with at least 20–30L capacity",
+      "Sufficient water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone (with emergency contacts and offline maps)",
+      "Basic first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Sun protection (hat, sunscreen) and rain gear",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn, with late spring and early autumn offering milder trails and longer daylight; winter hikes can be cold, wet, and more challenging.",
+    "seo": {
+      "title": "Margery Allingham Walk – 19.7 km Hard UK Hike",
+      "meta_description": "Discover the Margery Allingham Walk, a 19.7 km hard hike in the UK. Learn about terrain, safety tips, best seasons, and gear to complete this demanding route.",
+      "h1": "Margery Allingham Walk"
+    }
   }
 }

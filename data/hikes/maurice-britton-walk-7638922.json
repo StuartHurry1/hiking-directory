@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 7638922
+  },
+  "ai": {
+    "summary": "Maurice Britton Walk is an easy 5.8 km hike in the UK. The location region is not specified. It is suitable for most casual walkers, featuring gentle terrain and straightforward paths for a relaxed outing.",
+    "terrain_summary": "The route uses a mix of well-maintained footpaths and minor country lanes. Expect gentle gradients, grassy verges, and occasional muddy patches in wet weather. Generally flat to gently rolling, suitable for all-age walkers with appropriate footwear.",
+    "safety_notes": "Wear sturdy footwear and bring weather-appropriate clothing. Check local conditions before you go. Stay on marked paths, keep children and pets under control, and tell someone your planned route and timings. Carry water, a light snack, and a basic map or offline navigation. Be mindful of any road sections and take care in slippery conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Layers for changing weather",
+      "Snack",
+      "Map or offline GPS",
+      "Hat and sunscreen"
+    ],
+    "best_seasons": "Spring through autumn are ideal; winter hikes are possible with proper footwear and weather protection.",
+    "seo": {
+      "title": "Maurice Britton Walk – Easy 5.8 km Hike in the UK",
+      "meta_description": "Explore the Maurice Britton Walk, a 5.8 km easy hike in the UK. Learn about terrain, safety tips, and gear for a relaxed day on the trail.",
+      "h1": "Maurice Britton Walk – Easy 5.8 km Hike in the UK"
+    }
   }
 }

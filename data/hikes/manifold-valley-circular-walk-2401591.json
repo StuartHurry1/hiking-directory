@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2401591
+  },
+  "ai": {
+    "summary": "A demanding 18.3 km circular hike around the Manifold Valley in the UK. The route combines rugged moorland and valley paths, with sections of rocky track and occasional stream crossings. Expect elevation gain, long daylight hours in season, and a challenging day for experienced hikers.",
+    "terrain_summary": "Rugged mix of rocky trails, grassy paths, and exposed limestone sections. River/stream crossings after rain, muddy patches, steep climbs in places, and stony descents. Navigation is straightforward in open sections but can be tricky in poor visibility.",
+    "safety_notes": "Plan a long day (6–8+ hours). Wear sturdy, waterproof boots and dress for changing UK weather. Carry a map and compass (GPS as backup) and know how to use them. Bring sufficient water and high-energy snacks. Check weather and daylight hours; the valley can be exposed and conditions change quickly. Inform someone of your route and ETA. Take care on slippery rocky sections and after rain; river crossings may be challenging after heavy rain. Respect livestock gates, and have a plan to turn back if the weather deteriorates.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and extra layers",
+      "Map and compass (and/or GPS)",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight",
+      "Personal first aid kit",
+      "Walking poles (optional but helpful)",
+      "Rucksack with waterproof cover",
+      "Hat and gloves for colder months",
+      "Emergency bivy or space blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter hiking is possible with proper gear, but days are shorter and conditions harsher.",
+    "seo": {
+      "title": "Manifold Valley Circular Walk – 18.3 km Hard Hike in the UK",
+      "meta_description": "Tackle the 18.3 km Manifold Valley Circular Walk in the UK. A hard, scenic route with rugged trail, river scenery, and limestone features—perfect for experienced hikers.",
+      "h1": "Manifold Valley Circular Walk – 18.3 km, Hard"
+    }
   }
 }

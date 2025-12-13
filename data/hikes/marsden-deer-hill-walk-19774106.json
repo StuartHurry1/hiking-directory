@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19774106
+  },
+  "ai": {
+    "summary": "Marsden Deer Hill Walk is a demanding long-distance hike in the UK, covering about 21.3 km with significant elevation and exposed moorland sections. It suits experienced hikers who are prepared for changeable weather, rough terrain, and long hours on the trail.",
+    "terrain_summary": "The route traverses open moorland and hilltops with uneven, rocky ground, boggy patches, and occasional stream crossings. Expect long stretches of heather, strong winds on exposed sections, and steep ascents near the deer hill.",
+    "safety_notes": "Plan for 6–9 hours of hiking at a steady pace. Check the weather forecast before departure; UK moorland weather can change rapidly. Tell someone your route and expected return time. Carry a map and compass as a backup to digital devices. Stay on established paths, be prepared for boggy ground and ankle-deep water, and monitor weather; carry extra warm layers and waterproof gear. Bring enough water and food, and have a whistle or other signaling device for emergencies. In winter, shorter daylight hours and icy ground increase risk.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof and windproof shell jacket",
+      "Insulating mid-layer",
+      "Hat and gloves",
+      "Map and compass (and backup GPS if available)",
+      "Mobile phone with offline maps",
+      "Water bottles or hydration system (2–3 liters total)",
+      "High-energy snacks",
+      "First aid kit",
+      "Headlamp or torch with spare batteries",
+      "Emergency bivvy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Gaiters (optional for boggy sections)"
+    ],
+    "best_seasons": "Spring and Autumn are ideal for this hike, offering milder temperatures and clearer trails. Summer can bring heat or thunderstorms, and winter adds significant risk with shorter daylight and harsher footing.",
+    "seo": {
+      "title": "Marsden Deer Hill Walk – 21.3 km Hard Hike in the UK",
+      "meta_description": "Plan your Marsden Deer Hill Walk, a challenging 21.3 km hike in the UK. Discover terrain, safety tips, and gear recommendations for experienced hikers.",
+      "h1": "Marsden Deer Hill Walk (21.3 km) – Hard UK Trek"
+    }
   }
 }

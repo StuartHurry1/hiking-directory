@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11507982
+  },
+  "ai": {
+    "summary": "A short, easy 1.3 km walk through a UK dale, combining the Mid Dale landscape with a view toward North Pund. Suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-defined grassy paths with gentle gradients. Expect occasional compact earth, light mud after rain, and short sections with gates or a stile.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and bring a light waterproof layer. Weather in UK dales can change quickly, so be prepared for mud, slippery grass, and wind. Stay on marked paths, watch for livestock, and carry a map or offline map on your phone. Let someone know your plans and your expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Lightweight waterproof jacket",
+      "Extra layer for warmth",
+      "Water bottle",
+      "Map, downloaded route, or offline navigation on your phone",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "All year, with the best conditions in spring and autumn.",
+    "seo": {
+      "title": "Mid Dale and North Pund - Easy 1.3 km UK Hike",
+      "meta_description": "Explore a short, easy 1.3 km walk through Mid Dale and North Pund in the UK. Ideal for a quick, family-friendly countryside outing.",
+      "h1": "Mid Dale and North Pund - Easy 1.3 km UK Hike"
+    }
   }
 }

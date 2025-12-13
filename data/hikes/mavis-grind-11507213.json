@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507213
+  },
+  "ai": {
+    "summary": "Mavis Grind is a short, easy 2 km hike in the United Kingdom suitable for most walkers. The route is concise and accessible, making it a good option for a relaxed outing with lightweight scenery and straightforward terrain.",
+    "terrain_summary": "Fundamentally flat and well-trodden paths with gentle inclines. Expect smooth surfaces and minimal technical sections; choose appropriate footwear and be mindful of weather conditions.",
+    "safety_notes": "Carry a light layer and water; wear sturdy footwear. Check local tide and weather conditions if the route is coastal or near water. Stay on marked paths, supervise children, and note that conditions can change quickly in the UK.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection",
+      "Map or offline GPS",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round, with spring and summer offering longer daylight and more favorable conditions for outdoor walking.",
+    "seo": {
+      "title": "Mavis Grind – 2 km Easy Hike in the UK",
+      "meta_description": "Explore the easy 2 km Mavis Grind hike in the UK. A short, beginner-friendly route ideal for a relaxed day trip with straightforward terrain.",
+      "h1": "Mavis Grind: A 2 km Easy Hike in the UK"
+    }
   }
 }

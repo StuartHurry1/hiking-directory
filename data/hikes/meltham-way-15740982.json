@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 15740982
+  },
+  "ai": {
+    "summary": "Meltham Way is a demanding long-distance hike in the United Kingdom, spanning 30.8 km. The route features sustained ascents, varied terrain, and potential weather changes that test endurance and navigation. It’s best suited for experienced hikers with solid fitness and good map-reading skills.",
+    "terrain_summary": "The hike covers a mix of rural tracks, fields, hedged lanes, and uneven paths. Expect gradients, muddy sections after rain, occasional rocky sections, and some exposed stretches. Navigation is important, as the route may pass through remote farmland and quiet roads with limited signage.",
+    "safety_notes": "Plan for changing UK weather, carry appropriate clothing, and start with a full tank of water. Wear sturdy footwear with good grip and bring layers for temperature changes. Carry a map, compass or GPS, a charged phone, and a whistle. Start and finish times should fit daylight; inform someone of your plan. Be aware of livestock, road crossings, and potential hazards on uneven ground. If visibility or weather deteriorates, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof and windproof jacket",
+      "Insulating layers and extra mid-layer",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water bottle or hydration system",
+      "High-energy snacks and emergency food",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency blanket or bivy bag",
+      "Sunscreen, hat, and sunglasses",
+      "Insect repellent",
+      "Whistle",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn, roughly March to October, generally offer the best conditions with longer daylight and drier trails. Winter hikes are possible but require advanced preparation, stronger gear, and careful weather assessment.",
+    "seo": {
+      "title": "Meltham Way – 30.8 km Hard Hike in the UK",
+      "meta_description": "Prepare for Meltham Way, a demanding 30.8 km hike in the UK. Find terrain details, safety tips, gear recommendations, and best seasons for this challenging route.",
+      "h1": "Meltham Way – 30.8 km Hard Hike in the UK"
+    }
   }
 }

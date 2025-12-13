@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1589562
+  },
+  "ai": {
+    "summary": "Marriott's Way is a long-distance rail-trail in Norfolk, England, extending about 77.2 km (48 miles) between Aylsham and Norwich. Following a disused railway line through Broadland countryside, villages, and woodlands, it offers a demanding challenge for hikers due to its length and varied surfaces, making it suitable for multi-day treks or tough single-day pushes.",
+    "terrain_summary": "The route sits on a former railway bed, so most of the surface is firm and walkable, but it varies from compacted gravel and firm dirt to grassy sections. Expect occasional boardwalks over damp patches and some tarmacked road crossings. Elevation is generally gentle with occasional gentle undulations, but the overall distance makes sections feel strenuous.",
+    "safety_notes": "Plan water and food supplies for long days and check local weather and field conditions. Wear sturdy, ankle-supporting footwear and dress in layers with a waterproof layer. Carry a map or GPS, a charged phone, and a basic first-aid kit. Inform someone of your plan, be mindful of cyclists on shared segments, and be prepared for muddy patches after rain or agricultural activity across farmland.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes with good ankle support",
+      "Weather-appropriate layers (base layer, fleece, waterproof shell)",
+      "Wide-brim hat and sunscreen",
+      "Water bottles or hydration system (2–3 L total)",
+      "Lightweight rain jacket and pants",
+      "Map, compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Small first-aid kit",
+      "Snacks and high-energy food",
+      "Headlamp or flashlight",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers the mildest weather and longest daylight for this distance. Summer provides the longest days but can be busier; autumn brings pleasant scenery and cooler hiking conditions. Winter hiking is possible but muddy, with reduced daylight and more challenging conditions.",
+    "seo": {
+      "title": "Marriott's Way Hiking Guide | 77.2 km Norfolk Rail Trail (UK)",
+      "meta_description": "Plan your hike on Marriott's Way in the UK. 77.2 km of rail-trail terrain through Norfolk, with safety tips, gear suggestions, best seasons, and route highlights.",
+      "h1": "Marriott's Way Hiking Guide"
+    }
   }
 }

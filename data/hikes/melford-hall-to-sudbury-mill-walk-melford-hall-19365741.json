@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19365741
+  },
+  "ai": {
+    "summary": "A strenuous 31 km day hike from Melford Hall to Sudbury Mill, taking you through rural UK countryside. The route combines long-distance walking with varied terrain, including well-maintained trails and rough field paths. It is best suited to experienced hikers with solid navigation skills and good stamina.",
+    "terrain_summary": "Terrain varies from smooth country lanes to rough field paths. Expect a mix of grassy footpaths, hedgerows, occasional stiles, and mud in wet weather. Elevation is generally gentle with some longer inclines and descents, and remote sections may have limited access to services.",
+    "safety_notes": "Plan for a full-day hike (8–12 hours). Carry a map and compass or GPS since navigation can be challenging in remote stretches. Check the weather forecast and dress in layers; waterproofs are essential. Bring ample water (2–3 L) and high-energy snacks. Start early to ensure daylight; inform someone of your route and ETA. Mobile coverage may be limited; have a backup navigation plan. Be mindful of livestock, farm gates, and private land; follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and warm layer(s)",
+      "Backpack (20–30 L) with hydration option or water bottles",
+      "Map and compass or GPS device",
+      "Fully charged phone and optional power bank",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight (in case of delays)",
+      "Hat and gloves (seasonal)",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Weather-appropriate extra clothing",
+      "Protective bag cover for gear"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal for this 31 km route. Winter hiking is possible with extra caution due to shorter daylight, wet and muddy conditions, and potential ice.",
+    "seo": {
+      "title": "Melford Hall to Sudbury Mill Walk – 31km Hard Hike in the UK",
+      "meta_description": "Take on a challenging 31 km hike from Melford Hall to Sudbury Mill. Learn about terrain, safety tips, gear recommendations, and the best seasons for this long-distance UK countryside walk.",
+      "h1": "Melford Hall to Sudbury Mill Walk – 31 km Hard Hike"
+    }
   }
 }

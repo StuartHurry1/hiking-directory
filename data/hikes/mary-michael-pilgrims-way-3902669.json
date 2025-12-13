@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 3902669
+  },
+  "ai": {
+    "summary": "The Mary Michael Pilgrims Way is a demanding long-distance trek in the United Kingdom, covering about 480.9 km. It is suited for experienced hikers who can manage significant daily distances, varied terrain, and exposure to changeable weather. Proper planning, fitness, and reliable gear are essential to complete the route at a steady pace.",
+    "terrain_summary": "Expect a varied mix of rural landscapes across the UK: rolling farmland and hedgerows, woodlands and country lanes, occasional moorland, and upland sections with exposed ridgelines. Surface conditions can be muddy after rain, with uneven tracks and occasional scrambling in rougher stretches. Navigation relies on waymarks and route notes in places, so preparation is important.",
+    "safety_notes": "This is a long, hard-distance trek with variable weather and remote segments. Plan for multiple days, carry navigation tools (maps or a GPS), and inform someone of your itinerary. Wear sturdy waterproof boots, bring layered clothing, and have a reliable rain shell. Stay hydrated, manage energy with regular food intake, watch for fatigue, and be prepared for sudden weather changes, limited cell reception, and river or bog crossings. Practice Leave No Trace and have a way to call for help in an emergency.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weatherproof jacket and warm insulating layers",
+      "Waterproof pants and quick-dry clothing",
+      "Backpack with rain cover",
+      "Map and compass or GPS device (and offline maps)",
+      "Headlamp with extra batteries",
+      "First-aid kit and personal medications",
+      "Water bottle or hydration system (2–3 liters capacity)",
+      "High-energy foods and snacks",
+      "Emergency shelter or bivy sack",
+      "Tent or sleeping system if camping (sleeping bag, mat)",
+      "Optional trekking poles",
+      "Hat, sunglasses, sun cream, and insect repellent",
+      "Whistle and multi-tool",
+      "Spare socks and basic repair kit"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September), offering the most daylight and milder conditions, though weather can still be changeable in the UK.",
+    "seo": {
+      "title": "Mary Michael Pilgrims Way - 480.9 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 480.9 km trek along the Mary Michael Pilgrims Way in the UK. Learn about terrain, safety, gear and the best seasons for this long-distance hike.",
+      "h1": "Mary Michael Pilgrims Way: 480.9 km Hard UK Hike"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 2389513
+  },
+  "ai": {
+    "summary": "The Mary Queen of Scots Way is a demanding long-distance hike in the United Kingdom, covering about 147.5 km. It traverses varied landscapes and provides a rigorous challenge for experienced hikers seeking substantial mileage and elevation.",
+    "terrain_summary": "Mixed terrain across rural lanes, grassy moorland, wooded tracks, and occasional rocky sections. Elevation changes can be steep in places; footing may be uneven, and weather can be variable.",
+    "safety_notes": "This is a hard multi day trek with long days and remote stretches. Plan routes and daily distances carefully, carry navigation tools, and monitor weather. Wear sturdy boots, bring warm layers and waterproofs, and ensure you have adequate food and water. Tell someone your itinerary, stay on marked paths where possible, and have a backup plan for shorter segments if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weatherproof jacket and waterproof pants",
+      "Warm layers (fleece or down)",
+      "Backpack with 20–30L capacity",
+      "Map and compass or reliable GPS device",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Adequate food and water or water purification items",
+      "Emergency blanket and whistle",
+      "Rain cover for gear",
+      "Hat, gloves, and sun protection"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers longer daylight and milder conditions; winter hiking is challenging and not recommended for most hikers.",
+    "seo": {
+      "title": "Mary Queen of Scots Way – 147.5 km Hard UK Hike",
+      "meta_description": "Explore the Mary Queen of Scots Way, a hard 147.5 km long-distance hike in the United Kingdom. Route overview, terrain, safety tips, gear and best seasons.",
+      "h1": "Mary Queen of Scots Way – 147.5 km Hard Hike in the UK"
+    }
   }
 }

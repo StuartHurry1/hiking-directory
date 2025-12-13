@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17345419
+  },
+  "ai": {
+    "summary": "A gentle 5.2 km circuit at Attingham Park in the UK, suitable for families and casual walkers. The route follows flat parkland and woodland paths with minimal elevation gain, offering a relaxed and scenic outing.",
+    "terrain_summary": "Mostly wide gravel and tarmac paths through parkland and woodland. Expect gentle slopes in places and some grassy sections; footing is generally good, but trails can be muddy after rain.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, keep children and pets under control, and be mindful of other visitors and bikes on shared routes. Bring water, a map or GPS, and a phone with emergency numbers saved. Check park opening hours and plan for changes in weather; tell someone your planned route if walking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map or GPS device",
+      "Snack or energy bar",
+      "Phone with charged battery"
+    ],
+    "best_seasons": "Spring, summer, and autumn for comfortable temperatures and scenic surroundings; the route is achievable year-round but can be less pleasant in deep winter or after heavy rain.",
+    "seo": {
+      "title": "Mile Walk at Attingham Park – Easy 5.2 km Hike in the UK",
+      "meta_description": "Explore the Mile Walk at Attingham Park: a gentle 5.2 km hike in the UK suitable for families. Learn about terrain, safety, best seasons, and essential gear.",
+      "h1": "Mile Walk, Attingham Park – Easy 5.2 km Hike"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 8151969
+  },
+  "ai": {
+    "summary": "A gentle 3.1 km loop hike in the UK, suitable for beginners and families. The route features easy terrain, light elevation, and pleasant countryside scenery.",
+    "terrain_summary": "The trail uses well-marked paths with a mix of compact gravel, grassy sections, and occasional mud after rain. Expect gentle ascents and several flat stretches; footing is generally good but can be slippery when wet.",
+    "safety_notes": "Check the weather before you set out; UK conditions can change quickly. Wear sturdy footwear with good grip and stay on the marked path. Be mindful of muddy or slippery sections, especially after rain or in autumn leaf fall. Bring water, a light layer of clothing, and a basic map or offline navigation. Daylight hours are shorter in winter, so plan accordingly, and tell someone your planned route if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layered clothing",
+      "Map, guidebook, or offline GPS",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the best footing and scenery; winter can be wet and icy, and summer is often dry and warm.",
+    "seo": {
+      "title": "Mariners Hill Loop – 3.1 km Easy Hike in the UK",
+      "meta_description": "Explore Mariners Hill Loop, a gentle 3.1 km circular hike in the UK. Easy terrain, scenic countryside, safety tips, and gear recommendations for a pleasant day on the trail.",
+      "h1": "Mariners Hill Loop – 3.1 km Easy Hike in the UK"
+    }
   }
 }

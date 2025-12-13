@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17746981
+  },
+  "ai": {
+    "summary": "A challenging 15.3 km hike in the UK suitable for experienced walkers seeking a demanding day outdoors.",
+    "terrain_summary": "Terrain is varied and uneven, with potential mud, grass paths, and sections of rocky or compacted surface. There may be gates or stiles and occasional short ascents and descents; footwear with good grip and ankle support is recommended.",
+    "safety_notes": "Plan for a 15.3 km route: check weather and daylight hours; carry a map and a fully charged phone with offline access. Tell someone your planned route and estimated return time. Wear sturdy hiking boots and appropriate clothing; bring rain gear and extra layers. Stay hydrated and carry snacks; know your limits and turn back if conditions deteriorate. Be careful on uneven ground, stiles, and road crossings; watch for other hikers and pedestrians on narrow paths. In remote sections, consider carrying a small first aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support and grip",
+      "Weather-appropriate clothing (layers, waterproof outer shell)",
+      "Backpack with enough capacity for water, snacks, and extra layers",
+      "Water bottle or hydration system (at least 2–3 litres total for the day)",
+      "Map and compass (and a charged GPS device as backup)",
+      "Phone with offline maps and emergency contacts",
+      "Headwear for sun or rain",
+      "Sunscreen and insect repellent",
+      "High-energy snacks and a hydration plan",
+      "Lightweight rain gear and extra socks",
+      "Small first aid kit, whistle, and emergency blanket",
+      "Walking poles (optional but helpful on long, hard sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for longer daylight hours and milder conditions; winter hiking is more challenging and daylight is shorter.",
+    "seo": {
+      "title": "Mautby Women’s History Walk – 15.3 km Hard Hike in the UK",
+      "meta_description": "Plan for the Mautby Women’s History Walk, a 15.3 km hard hike in the UK. Prepare your gear, check the terrain, and stay safe on varied routes.",
+      "h1": "Mautby Women’s History Walk – 15.3 km Hard Hike (UK)"
+    }
   }
 }

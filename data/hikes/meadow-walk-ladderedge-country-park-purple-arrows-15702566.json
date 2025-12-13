@@ -19,5 +19,24 @@
   "source": {
     "type": "osm",
     "osmId": 15702566
+  },
+  "ai": {
+    "summary": "Meadow Walk at Ladderedge Country Park is a short, easy 1.1 km hike in the UK (region unspecified) marked by Purple Arrows. The route features gentle ridge sections and mixed terrain, making it suitable for families and casual walkers with modest elevation and scenic views when conditions permit.",
+    "terrain_summary": "Short ridge walk with mostly easy footing on mixed surfaces. Expect gentle gradients, occasional grass and gravel sections, and light exposure along the ridgeline. Suitable for most weather and daylight hours with appropriate footwear.",
+    "safety_notes": "Check weather and daylight before setting out. Ridge sections can be exposed in wind or rain; wear sturdy footwear and stay on marked paths. Keep children close, carry water, and have a means to navigate (map or offline map). Be cautious on icy or slippery surfaces and beware of crowds on narrower parts.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Map or offline navigation on phone",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "All year round; best in spring and summer for milder weather and clearer views.",
+    "seo": {
+      "title": "Meadow Walk Ladderedge Country Park (Purple Arrows) – Easy 1.1 km Ridge Walk, UK",
+      "meta_description": "Explore Meadow Walk at Ladderedge Country Park in the UK. This easy 1.1 km hike marked by Purple Arrows features gentle ridge terrain and quick access for families.",
+      "h1": "Meadow Walk Ladderedge Country Park (Purple Arrows) – Easy 1.1 km Ridge Walk"
+    }
   }
 }

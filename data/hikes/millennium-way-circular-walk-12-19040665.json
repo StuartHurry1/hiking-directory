@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19040665
+  },
+  "ai": {
+    "summary": "An easy 3.1 km circular hike in the UK, part of the Millennium Way series. This short loop is suitable for beginners and families, offering a gentle stroll through local scenery and accessible paths.",
+    "terrain_summary": "Predominantly flat with well-maintained tracks. Expect some grassy or compacted soil sections, with occasional muddy patches after rain and possible gravel paths near fields or wetlands. Watch for uneven ground near trail junctions.",
+    "safety_notes": "Always check the forecast and daylight hours before setting out. Wear sturdy walking shoes and bring water. Stay on marked paths, respect livestock, and be cautious of cyclists on shared sections. Pack weather-appropriate clothing, a basic first aid kit, and a charged mobile phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water bottle",
+      "Light rain jacket or fleece",
+      "Sun hat and sunscreen (summer)",
+      "Map, GPS or fully charged phone",
+      "Small first aid kit",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the most favorable conditions in the UK, though the walk is short enough to attempt year-round with proper gear.",
+    "seo": {
+      "title": "Millennium Way Circular Walk 12 – Easy 3.1 km Loop in the UK",
+      "meta_description": "Discover Millennium Way Circular Walk 12, an easy 3.1 km loop in the UK. Perfect for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Millennium Way Circular Walk 12 – 3.1 km Easy Loop (UK)"
+    }
   }
 }

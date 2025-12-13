@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2200229
+  },
+  "ai": {
+    "summary": "Marcham Jubilee Walks is a 13-kilometre moderate countryside hike in the United Kingdom. The route offers a pleasant mix of farmland, hedgerows, and village surroundings and can be completed in roughly 3–4 hours depending on pace and breaks.",
+    "terrain_summary": "Mixed terrain with tarmac country lanes, compact earth paths, and grassy tracks. Expect some uneven ground, gentle inclines, and gates or stiles; conditions vary with weather.",
+    "safety_notes": "Check the weather forecast before you go. Tell someone your planned route and estimated time. Bring a charged phone, map or GPS, and enough water. Wear sturdy footwear, dress in layers, and carry a lightweight rain jacket. Watch for livestock on farmland, mind gates and stiles, and keep dogs under control.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle or hydration",
+      "Weather-appropriate clothing (layers, waterproof if rain)",
+      "Map and/or GPS device",
+      "Snack or energy bar",
+      "Hat and sunscreen",
+      "Light rain jacket",
+      "Small backpack",
+      "Mobile phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March–October) for the best conditions; walkable year-round with appropriate gear.",
+    "seo": {
+      "title": "Marcham Jubilee Walks – 13 km Moderate Hike in the UK",
+      "meta_description": "Plan your 13 km moderate hike along Marcham Jubilee Walks in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Marcham Jubilee Walks – 13 km Moderate Hike in the UK"
+    }
   }
 }

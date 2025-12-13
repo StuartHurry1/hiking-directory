@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1971895
+  },
+  "ai": {
+    "summary": "A demanding long-distance trek along the Middy Railway Footpath in the United Kingdom. The route covers 36.4 km and carries a hard difficulty rating due to the distance and potential weather conditions. Suitable for experienced hikers with solid fitness and navigation skills.",
+    "terrain_summary": "The path follows a disused railway corridor. Expect mostly firm surfaces such as compacted gravel and ballast, with occasional grassy edges and uneven sections. Long, straight stretches can be exposed to wind; after rain surfaces may be muddy and slippery; some sections may involve gentle embankments, gates, or small bridges.",
+    "safety_notes": "- Plan for a long day and start early to ensure daylight. - Check the weather and be prepared for rain; surfaces can become slippery. - Carry a detailed map and compass or GPS, and download offline maps; stay on the official path. - Mobile reception may be limited in remote sections; inform someone of your route and expected return. - Wear sturdy, ankle-supporting boots; bring extra layers and waterproof clothing. - Bring sufficient water (2–3 L) and high-energy snacks; have a light meal for energy. - Pack a small first-aid kit, blister care items, sunscreen, and a hat. - Carry a headtorch with spare batteries and a whistle for emergencies. - Consider an emergency shelter or space blanket in case of delays; have a plan for seeking shelter. - Be mindful of rights of way and respect other path users; watch for livestock or gates. - In winter, expect cold winds and icy sections; adjust plans accordingly.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Water (2–3 liters) and electrolyte drinks",
+      "High-energy snacks and a light meal",
+      "Weather-appropriate layers (base layer, fleece, waterproof shell)",
+      "Waterproof jacket and pants",
+      "Hat, gloves (seasonal)",
+      "Map and compass or GPS with offline backups",
+      "Fully charged phone and portable power bank",
+      "Headtorch with extra batteries",
+      "Small first-aid kit and blister care",
+      "Emergency shelter or space blanket",
+      "Whistle and multitool"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) in the UK is typically most suitable for this hike due to daylight and drier conditions; autumn can also be good, while winter conditions can be harsh and daylight is limited.",
+    "seo": {
+      "title": "Middy Railway Footpath – 36.4 km Hard Hike in the UK",
+      "meta_description": "Conquer the 36.4 km Middy Railway Footpath in the United Kingdom. A challenging long-distance hike along a disused railway corridor with mostly firm surfaces but demanding distance. Plan with proper gear and safety in mind.",
+      "h1": "Middy Railway Footpath — 36.4 km Hard Hike in the UK"
+    }
   }
 }

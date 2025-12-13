@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 13902696
+  },
+  "ai": {
+    "summary": "Mersey Way is a long-distance hike in the UK covering 78.1 km at a hard difficulty. The route is typically undertaken over multiple days and traverses a mix of countryside, riverside paths, and occasional built-up sections, demanding solid fitness, navigation, and preparation.",
+    "terrain_summary": "Expect varied terrain: riverbank paths along parts of the Mersey, country lanes, wooded sections, rough moorland, and occasional urban approaches. Trails can be muddy after rain, and some sections may have uneven footing or short climbs.",
+    "safety_notes": "Plan for multi-day hiking with reliable navigation. Check weather forecasts and daylight hours; UK conditions can change quickly. Carry a detailed map and compass (GPS as backup), a charged phone, and a means to signal for help. Tell someone your route and expected finish. Stay hydrated, pace yourself, and be prepared for both sun and cold. Be mindful of potential hazards such as muddy tracks, livestock, and sections shared with cyclists or other hikers.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and an insulating layer",
+      "Backpack with rain cover (20-30 L for a daypack or larger for multi-day)",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system (2-3 L total capacity)",
+      "High-energy food and snacks",
+      "Map, compass, and GPS device (plus a backup battery)",
+      "First aid kit suitable for multi-day hikes",
+      "Emergency bivy or space blanket",
+      "Whistle and multi-tool",
+      "Trekking poles",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Thermal layers and extra socks",
+      "Mobile power bank for charging devices",
+      "Personal identification and any necessary permits"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) is generally best for Mersey Way due to more daylight and drier conditions. Winter hikes are possible with extra caution, shorter distances, and more preparation.",
+    "seo": {
+      "title": "Mersey Way Hiking Guide - 78.1 km Hard Trail in the UK",
+      "meta_description": "Plan your Mersey Way trek. A 78.1 km hard-distance hike in the UK with terrain variety, safety tips, gear lists, and best seasons.",
+      "h1": "Mersey Way: 78.1 km Hard-Distance Hike in the UK"
+    }
   }
 }

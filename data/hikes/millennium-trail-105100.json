@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 105100
+  },
+  "ai": {
+    "summary": "The Millennium Trail is a roughly 9.9 km hike in the UK offering a moderate challenge. It traverses mixed terrain with gentle climbs and varied surfaces, suitable for hikers with some experience who enjoy a longer day on the trail.",
+    "terrain_summary": "Expect a mix of compacted earth paths, gravel tracks, grass verges, and occasional boardwalks or sections near water. Elevation changes are moderate, with some short ascents and descents; footing can be uneven at times, so sturdy footwear is advised.",
+    "safety_notes": "Check local conditions before you go; UK weather can change quickly. Wear sturdy boots and bring layers and a waterproof jacket. Start early to maximize daylight. Stay on marked trails, watch for muddy or slippery sections after rain, and be cautious near road crossings or water edges. Let someone know your route and expected return time. Carry a map or offline GPS, a charged phone, and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (1–2 litres)",
+      "Weather-appropriate clothing",
+      "Rain jacket",
+      "Map or offline GPS",
+      "Snacks or lunch",
+      "Light headlamp or flashlight",
+      "Small first aid kit",
+      "Whistle",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) typically offers the best hiking conditions in the UK, with longer daylight and milder weather; summer is warmest, while winter can be harsher and more exposed.",
+    "seo": {
+      "title": "Millennium Trail Hike – 9.9 km Moderate UK Trek",
+      "meta_description": "Discover the Millennium Trail, a 9.9 km moderate hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this scenic route.",
+      "h1": "Millennium Trail – 9.9 km Moderate UK Hike"
+    }
   }
 }

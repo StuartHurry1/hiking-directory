@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 54120
+  },
+  "ai": {
+    "summary": "A challenging 63.8 km trek through the Mersey Valley timberlands in the UK. Classified as hard, the route traverses mixed woodland, damp trails, and varied terrain, best tackled as a multi-day hike with careful planning. Expect forest scenery, long stretches of muddy paths, and weather that can change quickly in temperate UK climates.",
+    "terrain_summary": "Predominantly forest track with rooty, uneven surfaces; frequent mud after rain; some gravel sections and occasional water crossings. Elevation changes exist but are cumulative rather than extreme; sections may be remote with limited support, so reliable navigation and self-sufficiency are important.",
+    "safety_notes": "UK weather is highly variable; prepare for rain, wind, and cool conditions even in summer. Long distances between towns or services require preparedness for navigation and self-sufficiency. Carry a map or GPS, know your turnaround times, and inform someone of your itinerary. Wear sturdy boots, pack extra layers, water and high-energy food. Be mindful of ticks in woodland and follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy trekking boots with good grip",
+      "Weatherproof jacket and insulating layers",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Small first aid kit",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional but helpful for stability)"
+    ],
+    "best_seasons": "Spring to autumn are generally the best seasons for this UK forest trail, offering longer daylight and milder weather. Winter hiking is possible with proper gear and shorter days; always check conditions and be prepared for mud, ice, and wind.",
+    "seo": {
+      "title": "Mersey Valley Timberland Trail – 63.8 km Hard Hike in the UK",
+      "meta_description": "Explore the Mersey Valley Timberland Trail: a 63.8 km hard hike through UK woodlands. Get terrain, safety guidance, gear lists, best seasons, and practical tips.",
+      "h1": "Mersey Valley Timberland Trail — 63.8 km Hard Hike in the UK"
+    }
   }
 }

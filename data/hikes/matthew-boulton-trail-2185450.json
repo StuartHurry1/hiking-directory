@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2185450
+  },
+  "ai": {
+    "summary": "The Matthew Boulton Trail is a 9.1 km moderate hike in the UK, offering a steady pace with mixed terrain and scenic countryside. Suitable for hikers with some experience, it typically takes 2 to 3 hours depending on pace and breaks.",
+    "terrain_summary": "Expect a mix of grassy upland paths, woodland tracks, and smoother gravel sections. Elevation changes are moderate, with occasional steps or uneven ground. Footing can be uneven and conditions may be muddy after rain, so sturdy boots are recommended.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Wear sturdy waterproof boots and dress in layers. Stay on marked paths; watch for slippery mud, loose rocks, and low branches. Bring a map or GPS and do not rely solely on phone signal. Carry water and snacks, and inform someone of your planned route and expected turnaround time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate layers and waterproof shell",
+      "Backpack with 2–3 liters of water and snacks",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Light rain protection (poncho or rain jacket)",
+      "Hat and sunscreen",
+      "Headlamp or flashlight for potential dusk departure",
+      "Small first-aid kit and emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn are ideal, with longer days and active wildlife; summer offers the most daylight but can be hot, while winter trails can be muddy and less comfortable.",
+    "seo": {
+      "title": "Matthew Boulton Trail Hike – 9.1 km Moderate Walk in the UK",
+      "meta_description": "Discover the Matthew Boulton Trail: a 9.1 km moderate hike in the UK with varied terrain, safety tips and gear recommendations for hikers of all levels.",
+      "h1": "Matthew Boulton Trail — 9.1 km Moderate Hike in the UK"
+    }
   }
 }

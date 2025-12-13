@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 536582
+  },
+  "ai": {
+    "summary": "A strenuous, long-distance hike along the Medway Valley in the UK, stretching about 191.6 km. The route traverses river valleys, countryside, and occasional urban sections, requiring multi-day trekking and careful planning.",
+    "terrain_summary": "Mostly mixed surfaces including riverbank paths, grassy fields, woodlands, and occasional tarmac through towns. Expect muddy sections in wet weather, many stiles, gentle to moderate elevation gains, and long flat stretches along the river.",
+    "safety_notes": "This is a hard, multi-day route. Plan the itinerary with rest days or accommodations; inform someone of your route and timing. Carry navigation tools (map, compass, or GPS) and a backup power source. Be prepared for sudden weather changes, variable daylight hours, and patchy mobile signal in remote sections. Ensure adequate water, food, and blister care supplies; wear sturdy footwear and use sun protection. Know local rules on camping or lodging if choosing overnight stops.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof layered clothing (jacket, pants, base layers)",
+      "Rucksack with rain cover",
+      "Map, compass, and/or GPS with offline maps",
+      "Phone with offline navigation and portable power bank",
+      "Water bottle or hydration system; water filter or purification tablets",
+      "High-energy food and snacks; lightweight stove optional for camping",
+      "First aid kit including blister care",
+      "Headlamp with extra batteries",
+      "Sun protection (hat, sunglasses, sunscreen) and insect repellent",
+      "Trekking poles (optional but helpful)",
+      "Emergency shelter or space blanket",
+      "Personal identification and emergency contact information",
+      "Whistle for safety"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–September)",
+    "seo": {
+      "title": "Medway Valley Walk — 191.6 km UK Long-Distance Trail",
+      "meta_description": "Explore the Medway Valley Walk, a challenging 191.6 km long-distance trek in the UK. Learn about terrain, safety considerations, gear suggestions, and optimal seasons.",
+      "h1": "Medway Valley Walk: A 191.6 km UK Long-Distance Trek"
+    }
   }
 }

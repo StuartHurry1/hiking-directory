@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17694297
+  },
+  "ai": {
+    "summary": "Mill Path is a short, easy hike in the UK covering 0.8 km along a historic mill route. With flat terrain and gentle scenery, it’s ideal for families, beginners, and anyone looking for a quick outdoor stroll.",
+    "terrain_summary": "Mostly flat, well-maintained path with compacted gravel and some dirt sections. Likely to be muddy after rain near water features; some shaded stretches along trees. Gentle grade with no stairs.",
+    "safety_notes": "Stay on the marked path. Check weather and light conditions if near water. Wear sturdy footwear and bring water. Supervise children near water features. Be mindful of other walkers; carry a phone for emergencies. In winter, be cautious of ice.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Hat and sunscreen",
+      "Snacks",
+      "Phone with offline map",
+      "Small first aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "All year, with spring and summer offering the most daylight and easiest conditions; autumn can be very pleasant; winter may be icy.",
+    "seo": {
+      "title": "Mill Path — Easy 0.8 km Hike in the UK",
+      "meta_description": "Explore Mill Path, an ultra-short, easy 0.8 km hike in the UK. Flat, family-friendly trail along a historic mill route with practical safety tips and gear.",
+      "h1": "Mill Path: Easy 0.8 km UK Hike"
+    }
   }
 }

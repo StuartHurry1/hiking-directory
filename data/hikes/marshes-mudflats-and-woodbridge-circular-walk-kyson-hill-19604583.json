@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19604583
+  },
+  "ai": {
+    "summary": "An 11.1 km circular hike near Kyson Hill in the UK, combining marshes, mudflats and ridges into a moderate day out. The route offers coastal scenery, open flats and manageable climbs, suitable for walkers with some hill experience.",
+    "terrain_summary": "The landscape combines coastal marshland, mudflats and upland ridges. Expect uneven, often muddy ground, with sections that may be waterlogged after rain. Some boardwalks or firmer paths may appear, but ground conditions can vary with tides and weather. Wear sturdy waterproof footwear and consider gaiters; check tide tables if walking near exposed mudflats.",
+    "safety_notes": "Plan around tides and weather; carry a map and a charged phone; wear sturdy boots and waterproof clothing; stay on marked paths and avoid marsh edges; check local tide times before mudflat sections; tell someone your route and expected return; keep dogs under control; bring water, snacks, a basic first aid kit, a whistle, and extra layers; daylight hours and weather can change quickly in coastal areas.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Waterproof jacket and layers",
+      "Map and compass or GPS device",
+      "Water and snacks",
+      "Sun hat and sunscreen (seasonal)",
+      "Warm hat and gloves for cooler days",
+      "First aid kit and emergency whistle",
+      "Phone with portable charger",
+      "Gaiters or waterproof trousers",
+      "Tide information and route notes"
+    ],
+    "best_seasons": "Spring to autumn is generally best for this coastal circuit; winter can be feasible but expect harsher conditions and mud, with potential tidal restrictions.",
+    "seo": {
+      "title": "Marshes, Mudflats and Woodbridge Circular Walk, Kyson Hill — 11.1 km UK Hike",
+      "meta_description": "Explore the 11.1 km Marshes, Mudflats and Woodbridge Circular Walk near Kyson Hill in the UK. A moderate coastal hike featuring marshes, mudflats and ridges; plan for tides and weather.",
+      "h1": "Marshes, Mudflats and Woodbridge Circular Walk, Kyson Hill"
+    }
   }
 }

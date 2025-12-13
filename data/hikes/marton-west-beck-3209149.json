@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3209149
+  },
+  "ai": {
+    "summary": "A demanding 26.1 km hike following the Marton West Beck in the UK. The route features varied terrain, long riverbank sections, and several steep climbs that test endurance and navigation.",
+    "terrain_summary": "Expect a mix of field paths, woodland tracks, riverbanks, and some boggy or uneven ground. Tracks may be muddy after rain, with exposed sections and occasional gates or fences requiring simple gate etiquette. Good navigation is essential as the landscape is open and can be poorly marked in sections.",
+    "safety_notes": "This is a hard day hike. Plan for 8–9 hours of active walking; check weather and daylight hours. Wear sturdy waterproof boots and dress in layers; bring a waterproof jacket. Carry a detailed map and compass (or a reliable GPS), plus a fully charged phone and power bank. Take enough water (2–3 L) and high-energy food. Tell someone your plan and expected return time. Be prepared for remote sections with limited phone signal; carry a whistle, first aid kit, emergency blanket, and know basic navigation and what to do if you get lost. Respect the Countryside Code, and check land access rights and any seasonal restrictions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and warm layers",
+      "Map and compass (or GPS) and knowledge of navigation",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a packed meal",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Extra clothing layers and a warm hat",
+      "Emergency foil blanket or bivvy",
+      "First aid kit",
+      "Whistle",
+      "Trekking poles (optional but helpful on uneven or muddy sections)",
+      "Phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (March–October) with caution in wet or icy conditions.",
+    "seo": {
+      "title": "Marton West Beck – 26.1 km Hard Hike in the UK",
+      "meta_description": "Take on the challenging 26.1 km Marton West Beck hike in the UK. Varied terrain, river sections, and steep climbs demand stamina and good navigation.",
+      "h1": "Marton West Beck – 26.1 km Hard Hike (UK)"
+    }
   }
 }

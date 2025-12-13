@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17632666
+  },
+  "ai": {
+    "summary": "Mill Race Trail is a gentle 5.1 km walk in the UK, suitable for most ages and abilities. The route follows pleasant paths with minimal elevation, offering a relaxed day hike through easy terrain and scenic surroundings.",
+    "terrain_summary": "Mostly level and well-maintained path with short sections of compact gravel or boardwalk. Occasional mud or puddles after rain and near the water, so waterproof footwear is helpful.",
+    "safety_notes": "Wear sturdy walking shoes and weather-appropriate clothing. Stay on marked paths, especially near the river or water features. Check local notices for any closures. Be mindful of weather and tide conditions if sections run adjacent to water. Keep dogs under control and bring a small first-aid kit and emergency contact information.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or offline directions",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Sunscreen and hat",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Mill Race Trail – Easy 5.1 km Hike in the UK",
+      "meta_description": "Explore Mill Race Trail, a gentle 5.1 km UK hike suitable for families and casual walkers. Easy terrain, practical safety tips, and essential gear.",
+      "h1": "Mill Race Trail: Easy 5.1 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,22 @@
   "source": {
     "type": "osm",
     "osmId": 15907071
+  },
+  "ai": {
+    "summary": "Manse Lane is a short, easy 0.3 km walk in the UK, suitable for beginners and those seeking a quick outdoor outing.",
+    "terrain_summary": "Mostly flat with a well-maintained surface along a rural lane; expect light pedestrian traffic and typical countryside views.",
+    "safety_notes": "Even on a short lane, stay aware of any passing vehicles; wear sturdy footwear and weather-appropriate clothing; check forecast and daylight hours before heading out; bring a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate clothing",
+      "Water (optional)",
+      "Phone with map or offline directions"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering the best weather and scenery; winter walks are possible with proper footwear and visibility, while summer can be warm.",
+    "seo": {
+      "title": "Manse Lane – Easy 0.3 km UK Walk",
+      "meta_description": "A quick and easy 0.3 km walk along Manse Lane in the UK. Perfect for beginners and casual walkers seeking a brief outdoor outing.",
+      "h1": "Manse Lane – Easy 0.3 km Walk"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3467142
+  },
+  "ai": {
+    "summary": "The Meden Trail offers a quick, easy 0.1 km stroll in the UK. This ultra-short hike is ideal for a brief outdoor break or a family-friendly learning walk.",
+    "terrain_summary": "The route is a gentle, well-marked path with mostly flat terrain. Expect a mix of compacted gravel and smooth earth; footwear with good grip is recommended for varying surfaces.",
+    "safety_notes": "This is a very short hike, but check weather conditions and wear appropriate footwear. Keep to the trail, supervise children, and carry a phone for emergencies. Be mindful of mud after rain and short visibility in poor light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light layer of clothing",
+      "Water bottle",
+      "Weather-appropriate jacket",
+      "Hat and sunscreen (summer)",
+      "Phone with emergency contact",
+      "Trail map or offline map"
+    ],
+    "best_seasons": "All year round; spring to autumn often provide the best conditions, but the trail is accessible in winter with proper gear.",
+    "seo": {
+      "title": "Meden Trail — 0.1 km Easy Walk in the UK",
+      "meta_description": "Explore the Meden Trail, a short 0.1 km easy hike in the UK. Learn about the terrain, safety tips, best seasons, and what to bring for a quick outdoor stroll.",
+      "h1": "Meden Trail: 0.1 km Easy Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19820892
+  },
+  "ai": {
+    "summary": "Mill Walk (Upper Woodland) is a gentle 4 km stroll through woodland in the UK. This easy hike follows flat to gently rolling paths suitable for families and casual walkers seeking a calm nature experience.",
+    "terrain_summary": "The route traces well-maintained woodland paths with occasional roots, packed dirt, and some sections that may be damp after rain. Expect shade, fallen leaves in autumn, and occasional gentle ascents.",
+    "safety_notes": "Wear sturdy, waterproof walking shoes and bring a light layer and rain protection. Stay on marked paths, watch for exposed roots and wet sections, and check local weather and daylight hours before starting. Carry a small amount of water and inform someone of your plans if venturing alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Map or offline navigation (or a fully charged phone with GPS)",
+      "Hat and sunscreen for sunny days",
+      "Insect repellent",
+      "Light snack"
+    ],
+    "best_seasons": "Spring through autumn are ideal for Mill Walk, when the weather is most conducive to comfortable walking; winter visits may be muddy with shorter daylight.",
+    "seo": {
+      "title": "Mill Walk (Upper Woodland) - Easy 4 km Woodland Hike in the UK",
+      "meta_description": "Discover Mill Walk (Upper Woodland): a gentle 4 km easy hike in the UK. Learn about the terrain, safety tips, and what gear to bring for a relaxed woodland walk.",
+      "h1": "Mill Walk (Upper Woodland)"
+    }
   }
 }

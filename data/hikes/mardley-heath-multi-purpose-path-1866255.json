@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 1866255
+  },
+  "ai": {
+    "summary": "Mardley Heath Multi-Purpose Path is a gentle 4.6 km walk in the UK. The route runs on a flat, surfaced trail suitable for beginners, families, and wheelchair users. It is a shared path for pedestrians and cyclists, offering a relaxed pace and pleasant surroundings through heathland and light woodland.",
+    "terrain_summary": "Flat, surfaced multi-use path with a smooth surface (tarmac or compact gravel). Mostly level with minimal elevation gain, suitable for strollers and wheelchairs. Features shaded sections in woodlands and exposed stretches along heath, with occasional benches and wayfinding signs.",
+    "safety_notes": "Check local weather and daylight hours before you go. Stay on the designated path and be aware of other users, especially cyclists. Keep dogs on a short leash where required. Carry water, wear appropriate clothing, and have a means of navigation (map or phone) in case of detours or lost signal.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and a small snack",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight backpack",
+      "Phone with map or offline navigation",
+      "Optional: compact umbrella or rain shell"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal; winter can be slippery and muddy.",
+    "seo": {
+      "title": "Mardley Heath Multi-Purpose Path – Easy 4.6 km UK Walk",
+      "meta_description": "Discover the easy 4.6 km Mardley Heath Multi-Purpose Path in the UK. Flat, surfaced, family-friendly walk through heathland and woodland with safety tips and gear.",
+      "h1": "Mardley Heath Multi-Purpose Path — Easy 4.6 km Walk"
+    }
   }
 }

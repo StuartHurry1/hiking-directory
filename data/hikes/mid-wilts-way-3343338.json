@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3343338
+  },
+  "ai": {
+    "summary": "The Mid Wilts Way is a hard, long-distance hike in the UK, spanning 312.9 km. It traverses varied rural countryside and demands sustained daily mileage, demanding fitness, careful planning, and reliable gear.",
+    "terrain_summary": "Primarily rural farmland, country lanes, hedgerows, and minor roads. Expect uneven footing, stiles, gates, and occasional mud, with some remote sections offering limited services and navigation challenges.",
+    "safety_notes": "Plan the route in multiple segments with potential resupply and overnight options. Carry maps and a compass or a reliable GPS, and know how to use them. Check weather forecasts and be prepared for rapid changes. Bring sufficient water, food, and a method to treat water. Inform someone of your itinerary and daily milestones. Be mindful of livestock, rights of way, and private land access. Mobile coverage can be unreliable in remote stretches; have an emergency plan and consider carrying a lightweight personal locator beacon.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat and gloves if needed)",
+      "Daypack with 20–30 L capacity",
+      "Map and compass (or GPS with offline maps) and knowledge to use them",
+      "Adequate water supply and a means to treat water (filters, purification tablets)",
+      "High-energy food and snacks suitable for multi-day trekking",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit with blister care and basic tools",
+      "Emergency shelter or space blanket",
+      "Sun protection (wide-brimmed hat, sunscreen)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn; favorable daylight and generally milder conditions, though weather can vary and occasional rain is possible.",
+    "seo": {
+      "title": "Mid Wilts Way – A 312.9 km Hard-Distance Hike in the UK",
+      "meta_description": "Explore the Mid Wilts Way, a challenging 312.9 km trail across rural UK landscapes. Learn about terrain, safety, gear, and the best seasons for this demanding long-distance hike.",
+      "h1": "Mid Wilts Way: A 312.9 km Hard-Distance Hike in the UK"
+    }
   }
 }

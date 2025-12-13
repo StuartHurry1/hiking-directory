@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17477748
+  },
+  "ai": {
+    "summary": "The Mayflower Trail is a short, easy 4.6 km hike in the United Kingdom. It suits beginners and families, with gentle terrain, minimal ascent, and well-marked paths through rural countryside.",
+    "terrain_summary": "Mostly gentle terrain with well-marked footpaths. Expect grassy fields, dirt tracks, and occasional gravel. Some gates or stiles and potential mud after rain; boots with good grip recommended.",
+    "safety_notes": "Check the weather forecast before you go; UK conditions can change quickly. Wear sturdy footwear and bring waterproof layers. Stay on marked paths, be mindful of livestock on rural sections, and carry a small first aid kit, water, and a mobile phone with emergency numbers. The distance is short, but daylight hours vary by season.",
+    "recommended_gear": [
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sturdy walking shoes or boots",
+      "Light backpack",
+      "Map or offline navigation / charged phone",
+      "Snacks",
+      "Hat and sunscreen",
+      "Light rain jacket",
+      "Small first aid kit",
+      "Emergency contact information"
+    ],
+    "best_seasons": "March to October, with spring and autumn offering mild weather and pleasant scenery; expect mud and rain outside these months.",
+    "seo": {
+      "title": "Mayflower Trail - Easy 4.6 km Hike in the UK",
+      "meta_description": "Explore the Mayflower Trail, an easy 4.6 km hike in the United Kingdom. Learn about terrain, safety tips, best seasons, and what to bring for a pleasant day outdoors.",
+      "h1": "Mayflower Trail: Easy 4.6 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11498087
+  },
+  "ai": {
+    "summary": "A coastal circular hike around Meal Beach and Hamnavoe in the UK, covering about 7.5 km. The route combines coastal paths, beach sections, and grassy trails with moderate elevation changes, suitable for hikers with some experience.",
+    "terrain_summary": "Coastal paths, sandy beach stretches, grassy clifftop sections, and occasional rocky or uneven ground. Expect exposed winds and slippery patches near the shoreline; tides and weather can influence beach segments.",
+    "safety_notes": "Check tide charts and weather before starting. Stay away from cliff edges and unstable ground, especially near the shore. Keep to marked paths, be cautious of slippery rocks and sudden waves. Wear appropriate clothing for wind and rain, bring navigation tools (map/compass or GPS), and tell someone your route and expected return. Carry sufficient water and snacks, and be prepared to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layers",
+      "Hat and gloves (seasonal)",
+      "Backpack with water and snacks",
+      "Water bottle (1–2 L)",
+      "Map and compass or GPS",
+      "Phone with offline map",
+      "First aid kit",
+      "Sunscreen and sunglasses",
+      "Whistle",
+      "Tide timetable or local tide chart",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) are typically the best times for this coastal circular in the UK; it can be hiked year-round with proper gear and awareness of weather and tides.",
+    "seo": {
+      "title": "Meal Beach and Hamnavoe Circular Hike – 7.5 km Coastal Loop (UK)",
+      "meta_description": "Explore the Meal Beach and Hamnavoe Circular, a 7.5 km moderate coastal hike in the UK. Learn terrain, safety tips, and gear for this scenic seaside loop.",
+      "h1": "Meal Beach and Hamnavoe Circular – 7.5 km Coastal Hike"
+    }
   }
 }

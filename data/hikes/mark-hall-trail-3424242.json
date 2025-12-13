@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 3424242
+  },
+  "ai": {
+    "summary": "Mark Hall Trail is a 10.7 km moderate hike in the United Kingdom that traverses a mix of woodlands and open countryside. It suits hikers with some experience seeking steady elevation and varied scenery.",
+    "terrain_summary": "The route follows well-maintained paths with occasional uneven ground, gentle ascents, and brief rocky or muddy sections. Expect shaded woodland segments and open grassy viewpoints with moderate elevation changes.",
+    "safety_notes": "Plan for changing UK weather. Wear sturdy waterproof boots and layers. Bring a map or offline navigation, a fully charged phone, and a small first aid kit. Start with enough daylight; the trail can be exposed in windy conditions. Stay on marked paths, watch for slippery roots in damp weather, and inform someone of your route and ETA.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Lightweight waterproof jacket and extra warm layers",
+      "Water bottle or hydration system",
+      "Trail snacks or lunch",
+      "Map and compass or a reliable offline navigation app",
+      "Small first-aid kit",
+      "Hat and sun protection (in sunny weather)",
+      "Headlamp or flashlight for late finishes",
+      "Phone with emergency contacts saved"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) usually offers the most comfortable conditions, with longer days and lighter mud. Winter hikes are possible but require additional gear and caution due to mud, ice, and reduced daylight.",
+    "seo": {
+      "title": "Mark Hall Trail – 10.7 km Moderate Hike in the UK",
+      "meta_description": "Discover the 10.7 km Mark Hall Trail in the UK. This moderate hike offers woodland and open countryside scenery, practical safety tips, gear lists, and best-season planning.",
+      "h1": "Mark Hall Trail — 10.7 km Moderate Hike in the UK"
+    }
   }
 }
