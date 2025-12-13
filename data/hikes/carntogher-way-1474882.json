@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1474882
+  },
+  "ai": {
+    "summary": "Carntogher Way is a challenging 19.9 km hike in the UK that traverses varied terrain and exposed moorland. It demands good fitness, navigation, and a cautious approach to changing weather, with several ascent and descent sections that keep you on your toes.",
+    "terrain_summary": "Expect a mix of rugged footpaths, potentially boggy moorland, rocky sections, and steeper climbs. The route can include uneven ground, exposed ridgelines, and optional stream crossings depending on conditions.",
+    "safety_notes": "Plan for variable UK weather with rapid changes. Carry a map and compass (and know how to use them), a fully charged phone, and a whistle. Wear sturdy boots and weather-appropriate layers; bring waterproofs, extra clothing, and plenty of water and high-energy snacks. Start early to ensure daylight, tell someone your route, and be prepared for navigation in exposed sections; avoid the hike in heavy fog, high winds, or icy conditions. Watch for boggy areas, loose scree, and steep descents, and respect local wildlife and ticks.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers and hat/gloves",
+      "Map and compass (or GPS device) and knowledge to use them",
+      "Fully charged phone and emergency power bank",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Emergency shelter or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn for most navigable conditions; winter hiking is possible but requires advanced skills, shorter daylight, and more caution.",
+    "seo": {
+      "title": "Carntogher Way: 19.9 km Hard Hike in the UK",
+      "meta_description": "Explore Carntogher Way, a demanding 19.9 km hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons for this challenging trek.",
+      "h1": "Carntogher Way – A 19.9 km Hard Hike in the UK"
+    }
   }
 }

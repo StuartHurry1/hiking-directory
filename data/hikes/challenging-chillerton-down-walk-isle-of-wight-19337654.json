@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 19337654
+  },
+  "ai": {
+    "summary": "A challenging 30.5 km ridge walk on the Isle of Wight known as the Challenging Chillerton Down Walk. This hard-length route traverses exposed upland ridges with panoramic views over the island, featuring grassy downs, rocky tracks, and occasional woodland edges. The hike demands good stamina, navigation skills, and a willingness to contend with exposed, windy sections; expect several hours of ascent and descent across varied terrain.",
+    "terrain_summary": "Exposed chalk downs and grassy ridge paths with intermittent stone tracks. Open, windy sections give panoramic views, while surfaces range from compact turf to loose stones. Occasional woodland edges provide brief shelter but overall footing can be uneven and technical in places.",
+    "safety_notes": "- Weather in the UK can change rapidly; check forecasts before you go and be prepared for sudden wind and rain. - Navigation: carry a detailed map and compass (and know how to use them); mobile signal may be unreliable in exposed upland areas. - Exposure: long, open sections increase sun, wind, and cold exposure; dress in layers and bring a windproof shell. - Distance and time: 30.5 km with significant elevation; plan for 6–9+ hours depending on pace and conditions. - Gates and livestock: close all gates behind you and watch for livestock on the route. - Water and food: carry enough water and high-energy food; know where to refill if possible. - Personal safety: inform someone of your route and ETA; if in doubt, turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Windproof and waterproof outer shell",
+      "Insulating mid-layer (fleece or puffer)",
+      "Hat and gloves for wind chill",
+      "Map and compass (and GPS as backup)",
+      "Whistle and small first aid kit",
+      "Headlamp or flashlight (with spare batteries)",
+      "Water (2–3 liters) and high-energy snacks",
+      "Sunscreen, sunglasses, and lip balm",
+      "Emergency bivvy or insulating blanket",
+      "Walking poles (optional but helpful on uneven or slippery sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder, drier, and longer daylight conditions; winter hikes can bring high winds, rain, and icy or muddy terrain, increasing risk.",
+    "seo": {
+      "title": "Challenging Chillerton Down Walk – 30.5 km Ridge Hike on the Isle of Wight (UK)",
+      "meta_description": "Tackle a demanding 30.5 km ridge hike on the Isle of Wight. Learn about the Challenging Chillerton Down Walk, terrain, safety tips, best seasons, and essential gear for this hard trek.",
+      "h1": "Challenging Chillerton Down Walk: A 30.5 km Ridge Trek on the Isle of Wight"
+    }
   }
 }

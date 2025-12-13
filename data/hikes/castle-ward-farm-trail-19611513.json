@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19611513
+  },
+  "ai": {
+    "summary": "Castle Ward Farm Trail is a 9.9 km moderate countryside hike in the UK, following farm tracks and rural lanes for a scenic, quiet trek through farmland.",
+    "terrain_summary": "Primarily grassy farm tracks with hedgerows and occasional tarmac lanes. Expect gentle ascents and descents, possible mud after rain, and gates to pass through.",
+    "safety_notes": "Check local weather and daylight hours; wear sturdy, waterproof boots and layered clothing; stay on marked paths; close gates behind you; watch for livestock; carry water and snacks; bring a map or GPS; ensure your mobile is charged and share your route with someone; have a small first aid kit; be cautious of traffic on rural lanes and changing conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Waterproof jacket",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone",
+      "Small first aid kit",
+      "Sunscreen and sunglasses",
+      "Hat (seasonal)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn; winter hikes require extra care due to mud, reduced daylight, and potential icy patches.",
+    "seo": {
+      "title": "Castle Ward Farm Trail – 9.9 km Moderate Hike in the UK",
+      "meta_description": "Explore Castle Ward Farm Trail, a 9.9 km moderate hike through UK countryside. Practical tips, terrain overview, safety notes, and gear for a scenic farm track walk.",
+      "h1": "Castle Ward Farm Trail – 9.9 km Moderate Hike in the UK"
+    }
   }
 }

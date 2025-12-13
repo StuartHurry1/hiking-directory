@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2964583
+  },
+  "ai": {
+    "summary": "A challenging 23.3 km circuit along the Castle Ward Hoof Trail in the UK. The route demands stamina and good navigation, with long sections of exposed terrain, varied surfaces, and frequent elevation changes. Suitable for experienced hikers prepared for mud, weather shifts, and remote stretches.",
+    "terrain_summary": "Expect a mix of forest tracks, grassy moorland, stony paths, and rural lanes. The trail can be muddy and uneven, with short steep ascents and occasional exposed viewpoints. Navigation may be needed in less clearly marked sections, and some parts may have limited shelter from wind.",
+    "safety_notes": "Plan for long days and variable UK weather. Carry map and compass and know how to use them; don’t rely on GPS alone. Wear sturdy boots with ankle support and bring waterproof layers. Bring sufficient water and high-energy food; anticipate mud and rough ground. Be prepared for livestock, gate closures, and rural road crossings. Carry a whistle and a fully charged phone, and inform someone of your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (3–4 liters depending on conditions)",
+      "Weather-appropriate layers: waterproof shell and insulating mid-layer",
+      "Hat and gloves (seasonal)",
+      "Map and compass (and GPS backup if available)",
+      "Headlamp or torch with spare batteries",
+      "Snacks and a meal sufficient for a long day",
+      "Small first aid kit",
+      "Emergency blanket or bivvy bag",
+      "Walking poles (helpful on uneven ground and descents)",
+      "Sun protection: sunscreen and sunglasses",
+      "Whistle and a fully charged mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for longer daylight and generally drier conditions; late autumn and winter are possible with proper gear but expect more mud, wind exposure, and reduced visibility.",
+    "seo": {
+      "title": "Castle Ward Hoof Trail - 23.3 km Hard Hike in the UK",
+      "meta_description": "Take on the Castle Ward Hoof Trail, a demanding 23.3 km hike in the UK. Explore varied terrain, learn safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Castle Ward Hoof Trail"
+    }
   }
 }

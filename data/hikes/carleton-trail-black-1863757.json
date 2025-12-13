@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1863757
+  },
+  "ai": {
+    "summary": "Carleton Trail (Black) is a challenging 27.1 km hike in the United Kingdom. Classified as Black difficulty, the route features long distances, rugged terrain, and potential exposure to the weather. It demands good fitness, solid navigation, and careful planning.",
+    "terrain_summary": "Expect a mix of rugged upland paths, rocky descents, exposed moorland, and occasional forest tracks. Ground can be uneven, muddy in wet conditions, and navigation may be tricky in poor visibility. Plan for significant elevation gain and long stints without shelter.",
+    "safety_notes": "This is a long, hard hike with potentially rapid weather changes. Carry a map and compass (or GPS), inform someone of your route, and start early to ensure daylight. Stay on marked trails, watch for slippery rocks and boggy sections, dress in layers, and keep hydration and nutrition topped up. Be prepared for strong winds on exposed summits and have a plan for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy food (2 L+ water, plus snacks)",
+      "Weather-appropriate clothing (layered system) and a waterproof shell",
+      "Map and compass or GPS device",
+      "Headlamp or torch with extra batteries",
+      "Emergency blanket or bivy and basic first-aid kit",
+      "Sun protection (sunscreen, sunglasses) for sunny days",
+      "Whistle and mobile phone with offline maps if possible",
+      "Lightweight rain cover or dry bag for valuables",
+      "Small backpack with enough capacity for your kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best conditions, but the hike can be attempted year-round with proper gear and daylight.",
+    "seo": {
+      "title": "Carleton Trail (Black) – 27.1 km Hard Hike in the UK",
+      "meta_description": "Explore Carleton Trail (Black), a demanding 27.1 km hike in the United Kingdom. Learn about the terrain, safety tips, and gear to prepare for this challenging route.",
+      "h1": "Carleton Trail (Black) – 27.1 km Hard Hike in the UK"
+    }
   }
 }

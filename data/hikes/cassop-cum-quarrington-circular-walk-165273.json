@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 165273
+  },
+  "ai": {
+    "summary": "A challenging 17.5 km circular hike around Cassop-cum-Quarrington in the UK. This hard route traverses farmland, hedgerows, and rural lanes, with several ascents and uneven terrain. It is best suited to experienced hikers with good navigation and plenty of daylight.",
+    "terrain_summary": "Expect a mix of field paths, grassy tracks, country lanes, and occasional minor roads. Ground can be rough, muddy, or uneven, especially after rain. The route includes stiles and gates between fields and may involve some steep sections. Navigation is important as some paths are not clearly marked; carrying a map or GPS is recommended.",
+    "safety_notes": "Plan for ample daylight and check the forecast. Wear sturdy waterproof footwear and dress in layers; bring a waterproof jacket. Carry a map or GPS, a fully charged phone, water and snacks, and a small first-aid kit. Be prepared for muddy ground, stiles, and possible road crossings; take care on uneven surfaces and watch for livestock in fields. Stay on rights-of-way, respect wildlife, and alert others of your plans. In exposed or wintry conditions, wind and cold can be significant; carry appropriate insulation and head protection. If you lose signal or are far from help, ensure you have route knowledge or a downloaded map.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof and breathable shell jacket",
+      "Warm layers and hat/gloves",
+      "Water bottle or hydration system (at least 1.5–2 liters)",
+      "Trail snacks or energy bars",
+      "Map, compass or GPS device",
+      "Fully charged mobile phone, possibly power bank",
+      "Lightweight rain trousers",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the route is doable year-round with appropriate gear, but winter conditions can be challenging due to mud, wind, and reduced daylight.",
+    "seo": {
+      "title": "Cassop-cum-Quarrington Circular Walk – 17.5 km Hard UK Hike",
+      "meta_description": "Explore the 17.5 km Cassop-cum-Quarrington circular walk in the UK. A demanding route across farmland and lanes requiring sturdy footwear, good navigation, and a full day.",
+      "h1": "Cassop-cum-Quarrington Circular Walk"
+    }
   }
 }

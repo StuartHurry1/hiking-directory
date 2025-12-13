@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 14924906
+  },
+  "ai": {
+    "summary": "The Chalgrave Heritage Trail is a 26.1 km hard hike in the UK, weaving through rural lanes, woodlands, and open countryside. It challenges stamina with long distances, uneven surfaces, and potential weather changes, making it a demanding day on foot.",
+    "terrain_summary": "The route combines rural lanes, woodland paths, and occasional exposed tracks. Expect uneven, muddy sections, stony ascents, gates, and some brief climbs; footing can be slippery after rain.",
+    "safety_notes": "Hard distance and varied terrain require good fitness and preparation. Check daylight hours and weather, carry a map and compass or GPS, wear sturdy boots, and bring sufficient water and food. Let someone know your plan, and be prepared for navigation in mixed wayfinding signs; take care on exposed or upland sections and watch for livestock and wildlife.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water (2–3 liters)",
+      "Weather-appropriate layers",
+      "Map and compass or GPS device",
+      "Headtorch or flashlight",
+      "Food and energy snacks",
+      "Small first aid kit",
+      "Whistle",
+      "Sun protection",
+      "Emergency blanket or bivy sack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight and weather are more predictable; avoid the worst winter conditions unless properly equipped.",
+    "seo": {
+      "title": "Chalgrave Heritage Trail – 26.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Chalgrave Heritage Trail, a 26.1 km hard-distance hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Chalgrave Heritage Trail – 26.1 km Hard UK Hike"
+    }
   }
 }

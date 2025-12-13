@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15634637
+  },
+  "ai": {
+    "summary": "Castle Lane is a very short, easy walk in the UK, covering about 0.6 km. It follows a quiet village lane with light scenery, making it suitable for beginners, families, and a relaxed outing.",
+    "terrain_summary": "Mostly flat, level path along a quiet lane. Surface is well maintained, with occasional uneven patches along the verge or at the edge where grass meets the path.",
+    "safety_notes": "Travel on rural lanes can involve occasional vehicle traffic. Wear sturdy footwear, stay to the path, and be cautious of wet or muddy sections after rain. Supervise children, bring water in hot weather, and check the forecast before setting out.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Layered clothing and a light jacket",
+      "Water",
+      "Small snack",
+      "Phone and a map or offline navigation",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight rain jacket or umbrella"
+    ],
+    "best_seasons": "All year round",
+    "seo": {
+      "title": "Castle Lane – Easy 0.6 km Walk in the UK",
+      "meta_description": "A short, easy 0.6 km walk along Castle Lane in the UK. Great for beginners and families, with flat terrain and minimal elevation.",
+      "h1": "Castle Lane Easy 0.6 km Walk"
+    }
   }
 }

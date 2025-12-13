@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19361346
+  },
+  "ai": {
+    "summary": "A roughly 12.5 km circular hike linking Cemlyn and Llanrhwydrus in the UK. The route weaves coastal paths with rural lanes, offering gentle climbs and varied surfaces. Suitable for hikers with moderate fitness who enjoy mixed coastal and countryside scenery and a quieter, less-traveled trail.",
+    "terrain_summary": "The walk combines coastal headland sections with grass and field tracks, small stiles, mossy paths, and occasional uneven ground. Expect a mix of solid paths, grassy trails, and uneven farm lanes; some sections can be muddy after rain. Coastal segments are exposed to wind and weather.",
+    "safety_notes": "Check tides on coastal stretches and avoid exposed areas during rough seas. Wear sturdy footwear and layered clothing; bring a waterproof layer. Carry water and snacks, a map or offline navigation, and a charged phone. Follow waymarkers, keep dogs on leads where required, and be mindful of livestock. Tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Hat, gloves (seasonal)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map, compass, or offline navigation app",
+      "Mobile phone and power bank",
+      "Lightweight daypack",
+      "Sunscreen and sunglasses",
+      "Basic first aid kit",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) is ideal; the walk can be done year-round with appropriate gear.",
+    "seo": {
+      "title": "Cemlyn and Llanrhwydrus Circular Walk – 12.5 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover the Cemlyn and Llanrhwydrus Circular Walk, a 12.5 km moderate hike through UK coast and countryside. Plan your trip with terrain, safety, and gear tips.",
+      "h1": "Cemlyn and Llanrhwydrus Circular Walk – 12.5 km Moderate Coastal Hike"
+    }
   }
 }

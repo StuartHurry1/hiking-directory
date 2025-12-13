@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16095670
+  },
+  "ai": {
+    "summary": "Cascade Trail is a short, easy 4.6 km hike in the UK, suitable for families and casual walkers. The route follows well-maintained paths with gentle terrain, offering a pleasant countryside experience with minimal elevation gain.",
+    "terrain_summary": "The trail uses well-marked footpaths and grassy lanes with occasional gravel or compact dirt. Expect gentle slopes, flat sections, and some gates or stiles. In wet weather, sections may be muddy, so gaiters or waterproof footwear can help.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and dress in layers with a waterproof outer layer. Stay on the marked path, watch for gates and livestock, and mind uneven ground and puddles. Check daylight hours and plan accordingly; carry a map or navigation device and a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Map or offline navigation and a charged phone",
+      "Small first aid kit",
+      "Sunscreen and hat (for sunny days)"
+    ],
+    "best_seasons": "Spring to autumn are ideal in the UK; summer offers longer daylight, while late autumn and winter require extra care due to weather and shorter days.",
+    "seo": {
+      "title": "Cascade Trail – Easy 4.6 km Hike in the UK",
+      "meta_description": "Discover Cascade Trail, an easy 4.6 km hike in the UK. Gentle, family-friendly terrain with practical safety tips and essential gear for a short day hike.",
+      "h1": "Cascade Trail – Easy 4.6 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17737953
+  },
+  "ai": {
+    "summary": "A tiny, family-friendly hike in the UK following the curious Captain Carbon toward the mythical Fairy Steps. At just 0.5 km, it’s a gentle stroll suitable for all ages, offering light nature views and a touch of whimsy.",
+    "terrain_summary": "Mostly flat with a short stretch of steps and a few uneven patches. Expect a mix of compact trail, gentle gravel, and occasional roots along the path to the Fairy Steps.",
+    "safety_notes": "- Wear sturdy footwear with good grip. - Check weather; UK rain can make steps slippery. - Stay on marked paths and keep children within sight. - Bring water and a charged phone for emergencies. - If mobility is limited, consider a shorter alternative or assistance.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots with good grip",
+      "Water bottle",
+      "Weather-appropriate clothing (jacket or layers)",
+      "Lightweight backpack",
+      "Phone with emergency contacts and offline map",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn",
+    "seo": {
+      "title": "Captain Carbon Goes to the Fairy Steps - A 0.5 km Easy UK Hike",
+      "meta_description": "Discover a short, family-friendly 0.5 km hike in the UK to the whimsical Fairy Steps. Gentle terrain, light scenery, and a touch of whimsy.",
+      "h1": "Captain Carbon goes to the Fairy Steps"
+    }
   }
 }

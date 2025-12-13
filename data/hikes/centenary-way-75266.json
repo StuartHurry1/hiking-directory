@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 75266
+  },
+  "ai": {
+    "summary": "Centenary Way is a demanding long-distance hike in the UK, spanning approximately 844.2 km. The route traverses diverse landscapes—from urban paths and rural bridleways to open moorland and river crossings—requiring solid navigation, stamina, and careful planning.",
+    "terrain_summary": "The hike covers a wide range of surfaces: paved streets and gravel tracks in towns, country lanes, farm tracks, heather moorland, woodlands, river crossings, and occasional coastal or hill sections. Elevation gain accumulates over many days, with steep ascents and long descents in places.",
+    "safety_notes": "Plan for long days and variable daylight. Some sections run through remote countryside with limited phone signal, so carry a detailed map, compass, and a GPS device with spare batteries. Inform someone of your itinerary and expected timings. Bring ample food and water, know your limits, monitor weather forecasts, and be prepared for sudden changes in conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof outer layer (jacket and pants)",
+      "Warm base layers and mid-layers",
+      "Map and compass (or GPS device) with spare batteries",
+      "Headlamp with extra batteries",
+      "First-aid kit",
+      "Whistle and emergency beacon (PLB or satellite messenger) as needed",
+      "Water bottles or hydration system with purification method",
+      "High-energy food and snacks; consider lightweight stove/cooking gear for multi-day legs",
+      "Emergency shelter (bivvy bag or lightweight tent) and tarp"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers the best balance of daylight and weather for this long-distance route. Autumn can be rewarding but weather can be unpredictable; winter hiking requires advanced skills and extra precautions.",
+    "seo": {
+      "title": "Centenary Way: UK 844.2 km Hard-Distance Hike",
+      "meta_description": "Plan your journey on Centenary Way, a challenging 844.2 km long-distance hike in the UK. Find terrain, safety tips, gear lists, and ideal seasons for this demanding route.",
+      "h1": "Centenary Way Long-Distance Hike (UK) – 844.2 km"
+    }
   }
 }

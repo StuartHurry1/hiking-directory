@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17726326
+  },
+  "ai": {
+    "summary": "Castle Path is a short, easy hike in the United Kingdom, spanning about 0.4 km. Designed for beginners and families, this quick trail offers a brief outdoor experience near local landmarks and can be enjoyed in a short outing.",
+    "terrain_summary": "A flat to gently graded trail with well-trodden dirt and gravel. Expect occasional roots or uneven patches; surfaces are generally accessible to most walkers, but conditions can vary by season and location.",
+    "safety_notes": "- Check weather and daylight before you go. - Wear sturdy shoes with good grip. - Stay on marked paths and respect private property and heritage sites. - Be mindful of other walkers, cyclists, and children. - Bring water and a small first-aid item; the distance is short, but weather can change quickly. - Use sun protection in warm months.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer of clothing",
+      "Sunscreen",
+      "Hat or cap",
+      "Phone or map",
+      "Small snack (optional)",
+      "Light rain jacket (optional)"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; winter visits are possible but can be muddy or icy.",
+    "seo": {
+      "title": "Castle Path – Short Easy 0.4 km Hike in the UK",
+      "meta_description": "Explore Castle Path, a 0.4 km easy hike in the UK. Learn about terrain, safety, and gear for this quick, family-friendly outdoor walk.",
+      "h1": "Castle Path: Easy 0.4 km Walk in the United Kingdom"
+    }
   }
 }

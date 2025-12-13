@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19361406
+  },
+  "ai": {
+    "summary": "Cemlyn Shingle Ridge Walk is an easy coastal hike in the UK that spans about 5.5 km. The route follows a shingle ridge beside the sea, delivering open ridge-top views and a relaxed pace suitable for beginners while still offering characteristic coastal scenery.",
+    "terrain_summary": "A coastal ridge route with sections of loose shingle and uneven footing. Expect wind exposure and occasional steps. Some paths run close to the ridge edge, with rocky or shingle surfaces that can be slippery when damp.",
+    "safety_notes": "Always check the weather and tide conditions before you go. Stay away from cliff edges and watch for sudden gusts on exposed sections. Wear sturdy footwear, bring layers and waterproofs, and carry enough water and a small first aid kit. If you’re with others, share your plans and know where to cut the walk short if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle (1–2 L)",
+      "Windproof/waterproof jacket",
+      "Extra layers (fleece or lightweight insulating layer)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Map, compass or offline GPS",
+      "Snack or energy bars",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October)",
+    "seo": {
+      "title": "Cemlyn Shingle Ridge Walk – Easy 5.5 km Coastal Hike in the UK",
+      "meta_description": "Discover Cemlyn Shingle Ridge Walk, an easy 5.5 km coastal hike in the UK with ridge-top views, shingle ridges, and broad seascapes. Ideal for beginners.",
+      "h1": "Cemlyn Shingle Ridge Walk"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 276005
+  },
+  "ai": {
+    "summary": "Cassop Vale circular walk is an 8 km moderate hike in the UK, starting and finishing near Cassop in County Durham. The route circles the Cassop Vale, combining farmland paths, hedged lanes and short stretches of woodland. It offers varied scenery, gentle ascents and a rewarding view across the Vale on a clear day.",
+    "terrain_summary": "A mix of well-defined footpaths, grassy tracks and minor road sections. Expect stiles, gates and uneven ground with muddy patches after rain. Some sections pass through fields and woodland, with occasional exposed open ground and gentle gradients.",
+    "safety_notes": "Check weather and wear suitable footwear. Stay on marked paths, close gates behind you, and watch for livestock in fields. Carry a map or offline navigation, enough water and snacks, and a mobile phone with emergency contacts. Be mindful of muddy sections, uneven surfaces, and road crossings; inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking boots or shoes",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Map or offline navigation device",
+      "Phone with battery and emergency contacts",
+      "Snacks or energy bars",
+      "Hat and sunscreen (for sunny days) or warm hat (for cold days)",
+      "Small first aid kit",
+      "Lightweight backpack",
+      "Optional walking poles for extra stability"
+    ],
+    "best_seasons": "Spring to autumn; winter walking is possible with appropriate gear, but trails may be muddy and weather conditions can be more challenging.",
+    "seo": {
+      "title": "Cassop Vale Circular Walk – 8 km Moderate Hike in the UK",
+      "meta_description": "Discover the Cassop Vale circular walk, an 8 km moderate route through farmland and woodlands in the UK. Practical tips, terrain notes, and safety advice for hikers.",
+      "h1": "Cassop Vale Circular Walk (8 km)"
+    }
   }
 }

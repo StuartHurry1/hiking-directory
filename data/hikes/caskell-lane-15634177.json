@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15634177
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km stroll along Caskell Lane in the UK. Suitable for beginners, families, and anyone after a quick countryside leg stretch. The route runs along a flat, well-maintained lane with hedgerows on either side and occasional light traffic nearby.",
+    "terrain_summary": "Flat, well-surfaced lane suitable for most shoes. Mostly even with occasional minor patches; hedgerows and open fields line the path. Expect gentle grade changes only, and be mindful of any occasional vehicle traffic on the lane.",
+    "safety_notes": "Plan for daylight hours and weather. Wear sturdy walking shoes and dress in weather-appropriate layers; bring a light rain jacket. Keep to the lane when pedestrians or vehicles are present, supervise children, and watch your step on any uneven patches. Carry water and a charged phone in case of emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layered, with a light rain jacket)",
+      "Water",
+      "Phone/camera",
+      "Light snack (optional)",
+      "Small daypack"
+    ],
+    "best_seasons": "Year-round, with adjustments for typical UK weather. Spring and summer offer milder conditions, autumn provides scenic colors, and winter hikes can be damp or muddy.",
+    "seo": {
+      "title": "Caskell Lane – Easy 0.8 km Walk in the UK",
+      "meta_description": "Discover Caskell Lane, an easy 0.8 km hike in the UK. Ideal for beginners and families seeking a quick countryside stroll along a flat, well-surfaced lane.",
+      "h1": "Caskell Lane: Easy 0.8 km Walk in the UK"
+    }
   }
 }

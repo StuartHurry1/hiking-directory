@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 13713807
+  },
+  "ai": {
+    "summary": "Castles & Coast Way is a challenging 42.5 km coastal traverse in the UK that weaves between sea cliffs and historic castles. The route demands solid fitness and careful planning due to long distance, exposed sections, and changing weather. Depending on pace, it can be tackled as a strenuous day hike or split into multi-day stages.",
+    "terrain_summary": "The terrain combines exposed cliff-top paths, rocky shorelines, and uneven tracks that may be slippery when wet. Expect steep ascents and descents, short sections of boardwalk, and occasional forest paths. Coastal wind and spray can reduce visibility; some segments may require careful route-finding around tidal zones.",
+    "safety_notes": "Always check weather and tide conditions before you start. Coastal routes can be affected by strong winds, fog, and sudden squalls; waves can breach low-lying sections. Stay away from cliff edges and loose rock; keep a safe distance from overhangs. Plan your day with daylight in mind and inform someone of your route and timing. Carry a map and compass or GPS, a charged phone, and a means of navigation backup. Bring sufficient water, food, a basic first aid kit, a whistle, and a lightweight emergency shelter or bivvy. If conditions deteriorate, be prepared to turn back. For shoreline sections, consult local tide tables on the day of your hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof breathable jacket and warm layers",
+      "Windproof hat and gloves",
+      "Map and compass, or GPS device",
+      "Water (at least 2 liters) and high-energy snacks",
+      "Headlamp or small flashlight with spare batteries",
+      "Personal first aid kit",
+      "Emergency whistle and reflective gear",
+      "Lightweight emergency shelter or space blanket",
+      "Sunscreen, sunglasses, and lip balm"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) generally offer milder weather and longer daylight for this coastal route; winter visits are possible but require stronger fitness and careful weather, with shorter days and rough seas.",
+    "seo": {
+      "title": "Castles & Coast Way — 42.5 km Hard Coastal Hike in the UK",
+      "meta_description": "Discover Castles & Coast Way, a 42.5 km hard coastal hike in the UK. Learn about terrain, safety notes, gear, and the best seasons to hike this dramatic coast.",
+      "h1": "Castles & Coast Way: 42.5 km Hard Coastal Hike in the UK"
+    }
   }
 }

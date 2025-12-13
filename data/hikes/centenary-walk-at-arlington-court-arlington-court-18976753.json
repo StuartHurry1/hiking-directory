@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18976753
+  },
+  "ai": {
+    "summary": "A 7.1 km moderate circular walk around Arlington Court estate in the UK. The route combines parkland, woodland paths and gentle country lanes, offering varied views of the historic estate.",
+    "terrain_summary": "Mixed surfaces including well-maintained gravel and compacted dirt on main routes, with sections through grassy fields and woodland trails. Expect gentle gradients, occasional steps, and potential mud after rain.",
+    "safety_notes": "Wear sturdy boots with good grip and keep to marked paths. Check the weather and daylight hours before starting. Be mindful of uneven ground, roots and slippery leaves. Keep dogs under control and clean up after pets. Stay hydrated, carry a map or offline navigation, and let someone know your intended route.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and a snack",
+      "Sun protection (hat and sunscreen) in sunny conditions",
+      "Map, compass, or offline navigation on a phone",
+      "Phone and ID",
+      "Small first-aid kit (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions; winter walks are possible but can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Centenary Walk at Arlington Court – 7.1 km Moderate Circular Trail",
+      "meta_description": "Explore a 7.1 km moderate circular walk around Arlington Court in the UK. Experience parkland, woodland paths, and estate views with practical safety and gear tips.",
+      "h1": "Centenary Walk at Arlington Court – 7.1 km Moderate Circular Trail"
+    }
   }
 }

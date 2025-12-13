@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19032072
+  },
+  "ai": {
+    "summary": "Cashel Lough is a short, easy lakeside walk in the UK. At about 0.6 km, the route is a gentle stroll along the lough with minimal elevation change, making it suitable for families and casual walkers seeking a tranquil outdoor experience.",
+    "terrain_summary": "The hike follows a flat, surfaced path along the water’s edge. Expect a well-maintained, level route with occasional grass or compact earth sections; conditions can be muddy after rain. Stay on the designated path and watch for puddles near the shoreline.",
+    "safety_notes": "Carry weather-appropriate clothing; wear sturdy footwear; stay on marked paths and avoid getting close to the water’s edge where banks may be unstable. Supervise children, bring a charged phone for emergencies, and be mindful of reduced daylight in winter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light rain jacket",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Phone with emergency contacts",
+      "Small first-aid kit",
+      "Snack (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better light; visits in winter are possible with appropriate clothing.",
+    "seo": {
+      "title": "Cashel Lough: Easy 0.6 km Lakeside Walk in the UK",
+      "meta_description": "Discover Cashel Lough, a short and easy 0.6 km lakeside hike in the UK. Family-friendly, flat terrain, safety tips, gear list, and the best seasons for this tranquil stroll.",
+      "h1": "Cashel Lough: Easy 0.6 km Lakeside Walk"
+    }
   }
 }

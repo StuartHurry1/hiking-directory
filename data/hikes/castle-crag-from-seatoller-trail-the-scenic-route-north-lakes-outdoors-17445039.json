@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 17445039
+  },
+  "ai": {
+    "summary": "An extended, strenuous loop in the Lake District starting at Seatoller and returning there, covering about 21.7 km. The Scenic Route travels through Borrowdale, climbs to Castle Crag, and rewards walkers with lake and valley views, rocky scrambles near the summit, and a mix of stable paths, grassy moorland, and occasional wet sections.",
+    "terrain_summary": "Varied terrain including well-trodden paths, rocky steps, exposed grassy ridges, marshy patches, and wet, slippery surfaces after rain. Long ascents with some scrambling near the summit; expect boggy sections in moorland and uneven ground underfoot.",
+    "safety_notes": "A long, hard day in the Lake District. Weather can change quickly; check forecasts and start early. Navigation skills are helpful as some sections require following signs along open ground. Wear sturdy boots and bring waterproofs and warm layers. Stay on the established path, monitor rock and wet surface conditions after rain, carry sufficient water and food, and inform someone of your plan before setting out.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and waterproof trousers",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone with offline map",
+      "Water or hydrating fluids (2–3 L)",
+      "High-energy food and snacks",
+      "Headlamp or torch",
+      "Small first-aid kit",
+      "Trekking poles",
+      "Emergency bivy or space blanket"
+    ],
+    "best_seasons": "May to October for the most reliable conditions; the route can be tackled in winter with proper equipment and experience, though conditions are harsher and daylight shorter.",
+    "seo": {
+      "title": "Castle Crag from Seatoller Trail: The Scenic Route | North Lakes Outdoors",
+      "meta_description": "Conquer a challenging 21.7 km hike from Seatoller to Castle Crag in the Lake District. A hard, scenic lakes route featuring rocky climbs, wide views, and moorland terrain.",
+      "h1": "Castle Crag from Seatoller Trail: The Scenic Route"
+    }
   }
 }

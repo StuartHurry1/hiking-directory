@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13089936
+  },
+  "ai": {
+    "summary": "A scenic 10.7 km walk through Carrigan Forest toward Lough Formal, featuring forest trails, lakeside views, and a moderate level of elevation. Suitable for walkers with some experience and a good fitness base.",
+    "terrain_summary": "Predominantly forest tracks with a mix of compact dirt, gravel, and occasional mud. Expect tree roots, gentle ascents and descents, and a few short boardwalk sections near the lake. Trails are generally well-marked but can become slippery in wet weather.",
+    "safety_notes": "Check the forecast and daylight hours before starting. Wear sturdy waterproof footwear and layered clothing. Stay on marked paths, carry a map or GPS, and bring a charged phone. Be mindful of soft ground after rain, potential ticks in wooded areas, and seasonal wildlife. Keep dogs under control where required and inform someone of your planned route and return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and breathable layers",
+      "Water bottle or hydration system (2+ litres)",
+      "Trail snacks or energy bars",
+      "Map and/or GPS device or compass",
+      "Charged mobile phone and power bank",
+      "Small first aid kit",
+      "Hat and sunscreen in sunny weather",
+      "Insect repellent (summer)",
+      "Headlamp or flashlight (in case of delays)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October). Winter visits are possible but expect mud, reduced daylight, and changing conditions.",
+    "seo": {
+      "title": "Carrigan Forest - Lough Formal Walk: 10.7 km Moderately Easy Forest Hike in the UK",
+      "meta_description": "Discover the 10.7 km Carrigan Forest - Lough Formal Walk in the UK. Moderate terrain, forest trails, lakeside scenery, safety tips, and gear recommendations for an enjoyable trek.",
+      "h1": "Carrigan Forest - Lough Formal Walk (10.7 km, Moderate)"
+    }
   }
 }

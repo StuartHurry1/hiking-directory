@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 8163036
+  },
+  "ai": {
+    "summary": "Chalkland Way is a demanding long-distance hike across chalk downland in the UK, totaling 122.2 km and typically undertaken over multiple days. Hikers can expect rolling ridgelines, grassy trails, hedgerows, and a mix of farm tracks and quiet lanes. The route suits experienced trekkers comfortable with long days, variable weather, and navigating open countryside.",
+    "terrain_summary": "The route traverses chalk downland and farmland: exposed ridgelines, chalk soil that can be slippery when wet, flinty sections, and a mix of paved lanes and minor roads. Paths are often grassy, uneven, and may be muddy after rain. There are occasional stiles and gates; navigation relies on markers and map reading. Be prepared for long open stretches with limited shelter.",
+    "safety_notes": "Plan as a multi-day trek with lodging or camping. Carry a detailed map and compass and know how to use them; check local weather and daylight hours. Wear sturdy boots, bring extra layers, sun protection, and rain gear. Hydration and regular snacks are essential. Watch for livestock on farmland and follow gate and stile etiquette. Stay on marked paths, tell someone your itinerary, and have a plan for emergencies; mobile signal may be limited in remote sections. Include a basic first aid kit, blister care, a whistle, a space blanket or bivvy, and a headlamp with spare batteries.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing; moisture-wicking base layers",
+      "Waterproof jacket and pants",
+      "Wide-brim hat and gloves (seasonal)",
+      "Map, compass, and/or GPS device",
+      "Hydration system and high-energy snacks",
+      "Trekking poles",
+      "Headlamp with spare batteries",
+      "First aid kit and blister care supplies",
+      "Emergency whistle and space blanket or bivvy bag",
+      "Sunscreen and insect repellent",
+      "Personal identification and emergency contact info",
+      "Mobile power bank and charging cable"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best, with moderate weather and good daylight; winter hikes are challenging due to cold, rain, and short days.",
+    "seo": {
+      "title": "Chalkland Way — 122.2 km Hard Hike in the UK",
+      "meta_description": "Explore Chalkland Way, a demanding 122.2 km hike across chalk downland in the UK. Terrain insights, safety tips, gear recommendations, best seasons, and planning essentials.",
+      "h1": "Chalkland Way: 122.2 km UK Chalkland Trek"
+    }
   }
 }

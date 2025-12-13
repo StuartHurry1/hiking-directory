@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 1806040
+  },
+  "ai": {
+    "summary": "The Ceredigion Coast Path is a challenging long-distance coastal hike in the UK, spanning about 424.6 km along the Welsh coast. It combines rugged cliff sections, sandy beaches, tidal estuaries, and sweeping sea views, demanding good fitness, navigation, and thorough preparation.",
+    "terrain_summary": "Expect a mix of cliff-top trails, intertidal paths, beaches, coves, grassy headlands, and occasional forest tracks. Some sections are exposed to wind and rain, with muddy or uneven footing after wet weather. Navigation can be straightforward in populated stretches but remote segments may require map skills and a plan for gaps between services.",
+    "safety_notes": "Coastal weather can be highly changeable; tides and sea conditions can affect route segments. The hike passes through remote areas with limited services and variable cell reception, so plan for long stretches between towns. Prepare for steep ascents and descents, slippery surfaces, and variable trail quality. Always carry a map/compass or GPS, inform someone of your itinerary, check tide tables, and have an emergency plan and suitable emergency gear.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Insulating layers (fleece or lightweight down)",
+      "Warm hat and gloves; sun hat for sunny days",
+      "Trekking poles (optional but helpful)",
+      "Map and compass (and/or GPS device)",
+      "Fully charged phone with offline maps and a power bank",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "Small first aid kit and emergency whistle",
+      "Emergency blanket or compact shelter",
+      "Headlamp with spare batteries",
+      "Dry bags or waterproof stuff sacks for valuables",
+      "Sunscreen and sunglasses",
+      "Basic repair kit and multitool"
+    ],
+    "best_seasons": "Spring to autumn (roughly May–September) offers the best weather and longer daylight for this long coastal route; winter hiking is possible but challenging due to storms, shorter days, and higher risk.",
+    "seo": {
+      "title": "Ceredigion Coast Path – 424.6 km Coastal Hiking in the UK",
+      "meta_description": "Plan your 424.6 km trek along the Ceredigion Coast Path in the UK. A hard coastal route with cliff paths, beaches, and remote sections—plus safety tips and recommended gear.",
+      "h1": "Ceredigion Coast Path – 424.6 km Coastal Hiking (Hard)"
+    }
   }
 }

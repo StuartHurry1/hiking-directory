@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 1069677
+  },
+  "ai": {
+    "summary": "The Centenary Way (Derbyshire) is a challenging long‑distance trail in Derbyshire, UK, stretching about 167.5 km. It winds through varied landscapes—from limestone hills and moorland to river valleys—requiring multi‑day trekking, solid navigation, and thorough preparation. The route’s hard difficulty reflects substantial elevation gain, remote sections, and changing weather conditions.",
+    "terrain_summary": "Expect a mix of rugged upland paths, limestone pavements, rough tracks, stiles and gates, and rural lanes. Terrain can be rocky underfoot in places, with exposed ridges and big elevation changes. Some sections are remote with limited services, so plan for self‑sufficiency and potential long gaps between water sources. Waymarking is generally decent but can be inconsistent in rough terrain.",
+    "safety_notes": "Plan in advance with a map and compass (GPS as backup). Share your itinerary and check in with someone. Weather in upland Derbyshire can change quickly—be prepared for rain, wind, cold, and heat. Wear sturdy boots and watch for livestock and gate crossings. Carry enough water and food, know where water sources are, and protect against ticks and sun exposure. Have a mobile phone and an emergency plan; be prepared to turn back if conditions worsen. A headlamp and extra layers are useful for evening or low-light situations.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Sturdy hiking boots",
+      "Warm layers (fleece or insulating layer)",
+      "Hat and gloves (seasonal)",
+      "Backpack with rain cover",
+      "Map and compass (GPS as backup)",
+      "Water and a method for purification",
+      "High-energy food and snacks",
+      "First aid kit",
+      "Headlamp with extra batteries",
+      "Sunscreen and sunglasses",
+      "Emergency whistle and space blanket",
+      "Mobile phone with portable charger",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best combination of daylight and typically drier conditions. Summer provides long days but higher crowds; autumn brings clear views and autumnal scenery. Winter hiking is possible but significantly more challenging due to shorter daylight hours and harsher weather.",
+    "seo": {
+      "title": "Centenary Way Derbyshire – 167.5 km Hard-Distance Trail in Derbyshire, UK",
+      "meta_description": "Explore the Centenary Way (Derbyshire), a 167.5 km hard long-distance hike through Derbyshire, England. Learn about terrain, safety, and gear, plus tips for the best seasons to hike.",
+      "h1": "Centenary Way (Derbyshire) – 167.5 km Hard Hike in Derbyshire, UK"
+    }
   }
 }

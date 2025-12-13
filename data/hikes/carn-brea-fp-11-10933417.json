@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10933417
+  },
+  "ai": {
+    "summary": "Carn Brea FP 11 is a very short, easy 0.6 km hike in the UK. It's suitable for families and casual walkers, featuring a gentle trail with minimal elevation change and pleasant surroundings near the Carn Brea area.",
+    "terrain_summary": "The route follows a well-defined footpath with compacted earth and short grassy sections. Expect a gentle incline in places and occasional uneven ground, as well as gates or stiles at access points.",
+    "safety_notes": "This is a short, low-risk walk, but always check the weather and wear sturdy footwear. Stay on the marked paths, be cautious of uneven surfaces, gates and livestock, bring water, and supervise children and pets. In poor visibility or high winds, use a map or GPS and avoid getting separated from companions. Respect local access rights and other trail users.",
+    "recommended_gear": [
+      "water",
+      "sturdy walking shoes",
+      "waterproof jacket",
+      "light snack",
+      "map or GPS-enabled device",
+      "hat and sunscreen (seasonal)",
+      "small first aid kit"
+    ],
+    "best_seasons": "Year-round; best in spring and autumn when temperatures are mild and trails are less crowded.",
+    "seo": {
+      "title": "Carn Brea FP 11 – Easy 0.6 km Hike in the UK",
+      "meta_description": "Discover the easy 0.6 km Carn Brea FP 11 hike in the UK. Short, family-friendly trail with gentle terrain, safety tips, and gear suggestions.",
+      "h1": "Carn Brea FP 11: Easy 0.6 km Hike"
+    }
   }
 }

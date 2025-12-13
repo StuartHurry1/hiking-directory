@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 60878
+  },
+  "ai": {
+    "summary": "Castleman Trailway is a challenging long distance hike in the UK, spanning about 75.8 km along a former railway corridor. The route winds through woodland, heath and riverside scenery, with a mix of smooth paths, gravel tracks and occasional muddy sections. It can be split into multiple day stages with towns along the way for resupply and rest.",
+    "terrain_summary": "Predominantly flat to gently undulating paths along a former railway line, with sections of tarmac, compacted gravel and boardwalks. Expect some exposed heathland and woodland, occasional muddy patches after rain, roots and loose gravel, and a few street crossings where the trail meets towns. Surface quality varies by segment.",
+    "safety_notes": "Plan for a multi day trek across long distances with limited remote sections. Check the weather and be prepared for wind and rain. Wear sturdy footwear and carry waterproof clothing. Carry sufficient water and high energy snacks, and know where to resupply in nearby towns. Carry a map, compass or GPS, and keep a charged phone with offline maps. Be mindful of other trail users such as cyclists on shared sections. Inform someone of your planned itinerary and expected finish time, especially if completing multiple days. In winter shorter daylight hours increase risk of being caught out after dark.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Waterproof jacket and an insulating layer",
+      "Breathable base layers",
+      "Backpack with rain cover",
+      "Water container (2–3 L) or hydration bladder",
+      "Energy-rich snacks and meals",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with extra batteries",
+      "Basic first-aid kit",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Hat and gloves (seasonal)",
+      "Emergency shelter or space blanket (for longer trips)",
+      "Spare socks and a change of clothes",
+      "Multi-tool or pocket knife",
+      "Plastic bags or dry bags for keeping electronics dry"
+    ],
+    "best_seasons": "Best from spring to autumn (roughly April to October) when daylight is longer and conditions are drier. Summer offers long days but can be hot; spring and autumn provide milder weather and fewer crowds. Winter is possible but shorter daylight hours and wetter, windier conditions require extra caution.",
+    "seo": {
+      "title": "Castleman Trailway Hike Guide – 75.8 km UK Long-Distance Trail",
+      "meta_description": "Plan your 75.8 km Castleman Trailway hike in the UK. This guide covers terrain, safety tips, gear lists, best seasons, and practical route planning for this challenging trail.",
+      "h1": "Castleman Trailway: 75.8 km Long-Distance Hike"
+    }
   }
 }

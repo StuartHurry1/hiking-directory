@@ -20,5 +20,32 @@
   "source": {
     "type": "osm",
     "osmId": 11498089
+  },
+  "ai": {
+    "summary": "A 7.7 km moderate coastal ridge hike in the UK from Cauldhame to Burra Bridge, offering sea views, varied terrain, and a steady pace suitable for hikers comfortable with exposed coastal paths.",
+    "terrain_summary": "The route follows coastal ridges with mixed surfaces: grassy tracks, compacted earth, and occasional rocky steps. Expect uneven footing, exposed sections with sea views, and some narrow, side-cutting paths along the coast.",
+    "safety_notes": "Check tides and weather before you go; stay on marked paths and away from cliff edges; wear sturdy waterproof footwear with good grip; UK coastal weather can change quickly, so bring layers and a waterproof shell; carry a map and compass or GPS, plus a charged phone (but be aware of possible poor signal); carry enough water and snacks; inform someone of your plan and estimated return time; in an emergency call 999 and ask for coastguard if near the water.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Waterproof trousers",
+      "Sturdy hiking boots with good grip",
+      "Backpack to carry essentials",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "Energy snacks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Extra layers (fleece/jacket)",
+      "Emergency whistle",
+      "First aid kit",
+      "Phone with offline maps",
+      "Head torch (for low light or emergencies)",
+      "Basic waterproof cover for electronics"
+    ],
+    "best_seasons": "Spring to autumn (April–October) generally offers milder weather and good visibility; winter hikes are possible with proper gear and daylight planning.",
+    "seo": {
+      "title": "Cauldhame to Burra Bridge Coastal Hike – 7.7 km Moderate Coastal Ridge Walk",
+      "meta_description": "Discover the 7.7 km Cauldhame to Burra Bridge Coastal hike in the UK. A moderate coastal ridge trail with sea views, varied terrain, and practical safety and gear tips.",
+      "h1": "Cauldhame to Burra Bridge Coastal Hike (7.7 km, Moderate)"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1160537
+  },
+  "ai": {
+    "summary": "The Carleton Trail is a challenging long-distance hike in the United Kingdom, covering 85.2 km with a hard difficulty. The route passes through varied countryside in an unspecified region, demanding solid fitness, navigation skills, and preparedness for multi-day trekking under UK conditions.",
+    "terrain_summary": "Expect a mix of undulating farmland, woodlands, and occasional rough or muddy sections. Surfaces include gravel, compact soil, grass, and boggy ground, with potential wet conditions and seasonal mud. Elevation gains can be significant for a hard route, and weather-related hazards are common in the UK.",
+    "safety_notes": "Before attempting this hike, confirm the exact route and distance, check weather and daylight hours, and plan for possible remote sections with limited cell coverage. Wear sturdy waterproof boots and layered clothing, carry a map and compass (with GPS backup), and bring enough food and water for long stretches. Inform someone of your plan, carry a whistle and an emergency shelter, and be prepared for changing UK conditions, including mud, rain, wind, and hypothermia risk. If you’re not an experienced long-distance hiker, consider a supported trip or practicing on shorter sections first.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weatherproof jacket and over-trousers",
+      "Backpack with reliable rain cover",
+      "Map, compass, and/or GPS device (with backups)",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "Lightweight emergency shelter or bivvy and a warm layer",
+      "First aid kit tailored for hikers",
+      "Headlamp or flashlight with extra batteries",
+      "Spare clothing and extra socks",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful)",
+      "Phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) is ideal for the Carleton Trail; plan for longer daylight and milder weather, while remaining prepared for autumnal rain and wind.",
+    "seo": {
+      "title": "Carleton Trail - 85.2 km Hard Hike in the UK",
+      "meta_description": "Plan your trek on the Carleton Trail. An 85.2 km hard-distance hike in the United Kingdom with terrain variety, safety notes, and gear suggestions.",
+      "h1": "Carleton Trail: 85.2 km Hard Hike in the UK"
+    }
   }
 }

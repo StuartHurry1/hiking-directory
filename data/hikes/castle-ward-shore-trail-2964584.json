@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2964584
+  },
+  "ai": {
+    "summary": "Castle Ward - Shore Trail is a short, easy coastal walk in the UK, about 1.9 km long, offering shoreline views near the Castle Ward estate. The route is suitable for all ages and abilities, with flat surfaces and minimal elevation.",
+    "terrain_summary": "Predominantly flat coastal path with gravel, boardwalk sections, and grassy verges. Expect occasional uneven spots near the shore and possible mud after rain; the route can be windy along the water.",
+    "safety_notes": "Check weather and tide conditions before you go. Wear sturdy, comfortable footwear and bring a waterproof layer. Stay on marked paths, mind rocky or slippery sections when wet, and keep children close. Carry water and a phone in case of emergency.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light weather-appropriate clothing (waterproof jacket)",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Phone or map with offline copy",
+      "Small snack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to September) for milder weather and longer daylight; the trail is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Castle Ward - Shore Trail: Easy 1.9 km Coastal Walk in the UK",
+      "meta_description": "Discover Castle Ward - Shore Trail, an easy 1.9 km coastal walk in the UK. Flat, family-friendly paths with sea views near Castle Ward.",
+      "h1": "Castle Ward - Shore Trail: Easy 1.9 km Coastal Walk"
+    }
   }
 }

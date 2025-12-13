@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 1462459
+  },
+  "ai": {
+    "summary": "A challenging 34.3 km coastal trek in the UK along the Causeway Coast and Glens, focusing on the Salllagh Braes section (Walk 9). Expect rugged coastlines, dramatic sea cliffs, and expansive ocean views on a strenuous, long-distance route.",
+    "terrain_summary": "Rugged coastal trails with cliff edges, uneven footing, rocky descents, stairs, and occasional mud. Sections may be exposed to spray and wind; some parts have boardwalks or firm paths, while others require careful navigation along headlands near the sea.",
+    "safety_notes": "This is a long, strenuous coastal hike with exposure to wind and weather. Plan for a full-day outing and check tide times if the route nears beaches. Wear sturdy footwear and layered clothing, carry a map or GPS, a charged phone, and sufficient water and food. Start early to ensure daylight, stay on marked paths, keep a safe distance from cliff edges, and be prepared for sudden weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof shell jacket and insulating layer",
+      "Map and compass (or GPS) and a charged device",
+      "Water and high-energy snacks (plus electrolyte drinks)",
+      "Headlamp or spare flashlight",
+      "First aid kit",
+      "Sunscreen, sunglasses, and a hat",
+      "Gloves and extra warm layers for coastal winds",
+      "Trekking poles (optional but helpful on uneven ground)",
+      "Dry bag or waterproof pouch for valuables",
+      "Emergency whistle and lightweight blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for milder weather and longer daylight; the route is possible year-round but expect harsher conditions and shorter days outside this window.",
+    "seo": {
+      "title": "Causeway Coast and Glens - Salllagh Braes Walk (34.3 km) | UK Coastal Hike",
+      "meta_description": "Tackle the demanding 34.3 km Salllagh Braes Walk (Walk 9) along the Causeway Coast and Glens in the UK. Discover rugged cliffs, epic sea views, safety tips, and gear listings for this coastal adventure.",
+      "h1": "Causeway Coast and Glens - 9 - Salllagh Braes Walk"
+    }
   }
 }

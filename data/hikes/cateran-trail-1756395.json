@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1756395
+  },
+  "ai": {
+    "summary": "An epic long-distance route in the UK, the Cateran Trail covers 174.5 km of varied Scottish scenery. This hard-paced circuit links woodlands, moorland, rivers and farmland, rewarding endurance with sweeping views, forest trails, and interior country lanes. Expect long days, significant ascents, and remote stretches where navigation and preparation matter.",
+    "terrain_summary": "Mix of forest tracks, open moorland, grassy uplands, country lanes, and rocky paths. Expect uneven surfaces, boggy sections after rain, and some steep climbs. The route is mostly waymarked but navigation skills and a map are advisable, as sections can be remote with limited facilities.",
+    "safety_notes": "Prepare for changeable UK weather, even in summer. The trail runs through remote sections with limited services—carry water, food, and a means to navigate. Wear sturdy boots and bring layers; pack waterproofs and emergency gear. Plan daily distances, share your itinerary, and consider not hiking alone. Check local conditions, be mindful of cattle and livestock on farmland, and have a plan for emergency communication in remote areas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and insulating layer",
+      "Moisture-wicking base layers",
+      "Map and compass (and/or offline GPS)",
+      "Headlamp with extra batteries",
+      "Water bottles or hydration reservoir + water purification method",
+      "High-energy food and snacks",
+      "Lightweight emergency bivy or space blanket",
+      "First-aid kit tailored to long-distance treks",
+      "Whistle, multitool and repair kit",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Gaiters and trekking poles",
+      "Extra layers and warm hat for upper elevations",
+      "Dry bag or waterproof sack for electronics",
+      "Mobile phone with offline maps and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are ideal. Longer days and generally milder weather suit longer hiking, but be prepared for sudden showers and rapid weather changes. Summer offers the most daylight, while shoulder seasons bring quieter trails and colorful scenery.",
+    "seo": {
+      "title": "Cateran Trail – 174.5 km Hard Hike in Scotland, UK",
+      "meta_description": "Discover the Cateran Trail, a 174.5 km hard-distance hike through Scotland's countryside. terrain, safety tips, gear recommendations, and the best seasons for this demanding UK trek.",
+      "h1": "Cateran Trail – 174.5 km Hard Hike in Scotland, UK"
+    }
   }
 }

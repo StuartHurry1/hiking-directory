@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 1085994
+  },
+  "ai": {
+    "summary": "The Causeway Coast Way is a challenging 78.4 km coastal hike along the UK’s north coast. The route combines rugged cliffs, sandy beaches and picturesque headlands, delivering sweeping sea views and a sense of remoteness. Expect a demanding through-hike with long days and varied terrain, suitable for experienced hikers who are comfortable with exposed coastal conditions.",
+    "terrain_summary": "Expect a mix of cliff-top paths, rocky shorelines, sandy beach sections, and occasional woodland stretches. Trails can be uneven, with exposed roots, stepping stones, and muddy patches after rain. Winds off the sea and changing tides mean weather and footing can shift quickly; navigation is straightforward but map and compass are advisable.",
+    "safety_notes": "Check tide times if parts of the route cross beaches or low-lying shores. Wear sturdy boots and dress in layers; conditions can be windy and cold even in summer. Carry enough water and high-energy snacks. Let someone know your plans and expected finish times; carry a charged phone and a lightweight emergency beacon if available. Stay away from unstable cliff edges; be cautious near waves and avoid walking on wet, slippery rocks after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof breathable jacket and waterproof pants",
+      "Layered clothing for insulation",
+      "Warm hat and gloves",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone and power bank",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Lightweight emergency bivy or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and weather is milder. Summer offers more reliable conditions, though coastal winds can be strong. Shoulder seasons provide quieter trails but weather can be variable.",
+    "seo": {
+      "title": "Causeway Coast Way: 78.4 km Coastal Hike in the UK",
+      "meta_description": "Plan your challenging 78.4 km Causeway Coast Way hike along the UK’s north coast. Get terrain insights, safety tips, gear lists, and best seasons for this rugged coastal trek.",
+      "h1": "Causeway Coast Way — 78.4 km Coastal Hike"
+    }
   }
 }

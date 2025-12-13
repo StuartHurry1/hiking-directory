@@ -20,5 +20,26 @@
   "source": {
     "type": "osm",
     "osmId": 19622562
+  },
+  "ai": {
+    "summary": "Carrick-a-Rede Coastal Walk is an easy 5.7 km coastal ridge hike in the UK, offering dramatic sea views along rugged cliff tops near Carrick-a-Rede. The route suits most walkers with basic fitness and a love of coastal scenery. Region: Unknown region.",
+    "terrain_summary": "The trail runs along coastal cliffs with rocky, uneven footing and exposed ridges. Expect short ascents and descents, narrow sections, and wind-exposed stretches. Footing can be slippery when wet; stay well back from cliff edges.",
+    "safety_notes": "Weather on the coast can be highly variable; dress in layers with a windproof and waterproof layer. The path has uneven ground and exposed sections, so sturdy footwear is essential. Keep a safe distance from cliff edges and supervise children closely. If planning to explore the rope bridge area, follow all posted safety instructions and check current access timings in advance, as the bridge may be closed in rough weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle and snacks",
+      "Windproof jacket and rain shell",
+      "Warm layer for cooler conditions",
+      "Hat and gloves (for cold days)",
+      "Sunscreen and sunglasses",
+      "Map or offline navigation (phone may not have signal)",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best weather and visibility; winter hikes are feasible only in calm conditions and with extra precautions.",
+    "seo": {
+      "title": "Carrick-a-Rede Coastal Walk – 5.7 km Easy Coastal Ridge Walk in the UK",
+      "meta_description": "Discover the 5.7 km Carrick-a-Rede Coastal Walk along dramatic cliffs and sea views near Carrick-a-Rede, Northern Ireland. An easy coastal hike ideal for walkers seeking scenery and ridge lines.",
+      "h1": "Carrick-a-Rede Coastal Walk"
+    }
   }
 }

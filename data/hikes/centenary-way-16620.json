@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 16620
+  },
+  "ai": {
+    "summary": "Centenary Way is a demanding 251-kilometre long-distance trail in the United Kingdom, designed for experienced hikers. It traverses varied landscapes and offers a true endurance challenge with long days, remote sections, and limited services.",
+    "terrain_summary": "The route combines coastal sections, rural lanes, moorland plateaus, woodlands, and uphill moorland bogs. Expect uneven surfaces, stiles, occasional rocky ascents, and potentially wet and muddy ground after rain. Distances between resupply points can be long, so plan ahead.",
+    "safety_notes": "Plan in advance: navigation skills with map and compass are essential; don’t rely solely on GPS. UK weather can change rapidly, so pack waterproofs and insulating layers. Start early to maximise daylight and carry enough food and water for long days. Some sections are remote with limited mobile signal; tell someone your itinerary and expected timings and have a plan for emergencies. Wear sturdy boots and watch for boggy ground and exposed ridges. Be prepared for stream crossings after rain and always practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing for varying temperatures",
+      "Backpack (30–45 L) with rain cover",
+      "Water supply (at least 2–3 litres) and a lightweight water filter or purification tablets",
+      "Map and compass (and a GPS device as backup)",
+      "Headlamp with spare batteries",
+      "First aid kit and blister care",
+      "Emergency shelter or space blanket",
+      "Whistle and multitool",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "High-energy food and snacks for long days",
+      "Personal identification and emergency contact information",
+      "Phone with offline maps and a power bank",
+      "Dry bags or waterproof liners for gear"
+    ],
+    "best_seasons": "Spring to autumn; May to September typically offer the best daylight and more stable weather, but UK conditions can still be changeable, so waterproof gear is essential.",
+    "seo": {
+      "title": "Centenary Way: 251-km UK Long-Distance Hike | Hard Trail Guide",
+      "meta_description": "Plan your trek along Centenary Way, a challenging 251-km route through the UK. Learn terrain highlights, safety tips, gear checklist, and the best seasons for hiking.",
+      "h1": "Centenary Way – 251-km UK Long-Distance Hike"
+    }
   }
 }

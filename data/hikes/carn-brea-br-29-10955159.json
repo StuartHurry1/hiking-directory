@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10955159
+  },
+  "ai": {
+    "summary": "A short, easy 1.7 km hike up Carn Brea BR 29 in the UK. The route follows gentle, well-marked paths, making it suitable for families and casual walkers seeking a quick scenic outing.",
+    "terrain_summary": "Mostly well-maintained grassy and gravel paths with occasional paved sections. Gentle elevation and some exposed viewpoints at the summit; expect muddy patches after rain and loose stones on higher sections.",
+    "safety_notes": "- Check weather forecast before you go; UK conditions can change quickly. - Stay on marked paths and watch your footing, especially when surfaces are wet or slippery. - Wear sturdy footwear and dress in layers; bring a light waterproof layer for wind and rain. - Carry water and a small snack; supervise children and pets. - Mobile signal may be limited in remote spots; consider carrying a simple map or offline navigation.",
+    "recommended_gear": [
+      "Water bottle",
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline navigation (or a fully charged phone with GPS)",
+      "Small backpack",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn are ideal (roughly March–October); winter visits are possible but can be windy, damp, and have shorter daylight.",
+    "seo": {
+      "title": "Carn Brea BR 29 – Easy 1.7 km Hike in the UK",
+      "meta_description": "Discover the easy 1.7 km Carn Brea BR 29 hike in the UK. A short, scenic route with gentle terrain, practical safety tips, best seasons, and gear recommendations.",
+      "h1": "Carn Brea BR 29 – Easy 1.7 km Hike"
+    }
   }
 }

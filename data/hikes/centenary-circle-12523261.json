@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 12523261
+  },
+  "ai": {
+    "summary": "Centenary Circle is a challenging long-distance hike in the United Kingdom, covering 61.5 km with a hard difficulty rating. The route traverses varied terrain and requires careful planning, strong navigation, and good physical conditioning.",
+    "terrain_summary": "Expect a mix of grassy footpaths, muddy tracks, rocky stretches, and potential moorland bogs. The route may involve gradual ascents and steep sections, stiles, gates, and uneven surfaces. Weather in the UK can be changeable, so expect wind, rain, and damp conditions. Navigation reliance on maps and compass is advised.",
+    "safety_notes": "Plan for multi-day hiking with an appropriate pace for your group. Carry a detailed map and compass and don’t rely solely on electronic devices. Check the forecast and daylight hours; let someone know your route and estimated finish time. Wear sturdy boots and bring weather-appropriate layers, water, and food. Pack a first aid kit, emergency shelter, headlamp, whistle, and waterproof gear. Have sun protection, gloves, and extra clothing for temperature changes. Be prepared for river crossings, mud, and variable trail conditions; know when to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket and pants",
+      "Insulating mid-layer and base layers",
+      "Moisture-wicking socks with spares",
+      "Map, compass, and optional GPS device",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system + water purification",
+      "High-energy food and snacks",
+      "First aid kit and blister care",
+      "Emergency shelter or bivvy bag",
+      "Whistle and a small knife",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Gloves and a warm hat for cold conditions",
+      "Lightweight stove or thermos if planning longer days",
+      "Phone in a protective case (charged) and power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) generally offers better daylight and weather, but be prepared for unsettled conditions. Winter hiking is possible with extra gear, shorter days, and higher risk.",
+    "seo": {
+      "title": "Centenary Circle - 61.5 km hard hike in the UK",
+      "meta_description": "Plan your Centenary Circle hike: a 61.5 km UK long-distance route with a hard difficulty. Explore terrain, safety tips, gear lists, and the best seasons.",
+      "h1": "Centenary Circle: 61.5 km hard UK hike"
+    }
   }
 }

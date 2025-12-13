@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16760595
+  },
+  "ai": {
+    "summary": "Cave Hill Trail is a 10.3 km moderate loop in the United Kingdom (region currently unknown) featuring a mix of woodland paths, grassy ridges, rocky outcrops, and occasional cave features along the route. Expect variable terrain and several viewpoints, with some ascent and descent throughout the hike.",
+    "terrain_summary": "Varied terrain including well-marked woodland tracks, grassy slopes, exposed rocky sections, and muddy areas after rain. Footing can be uneven with occasional short, steeper climbs; some cave areas may have low ceilings and uneven ground. Gloves and sturdy boots with good grip are advisable.",
+    "safety_notes": "Check weather before starting; UK conditions can change quickly. Wear sturdy waterproof footwear and bring layered clothing. Stay on marked paths; be cautious of slippery rocks, especially after rain. Some sections may be exposed to wind; use sun protection in bright conditions. Do not enter caves without permission or proper guidance. Carry a map and compass or GPS, a fully charged phone (signal may be limited), a headlamp or flashlight (with spare batteries) for cave areas, and inform someone of your planned route and timing.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and extra warmth layers",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Emergency whistle",
+      "Hat and gloves (seasonal)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Rucksack with rain cover",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September). Winter hiking is possible but requires extra care due to mud, ice, and reduced daylight.",
+    "seo": {
+      "title": "Cave Hill Trail – 10.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the Cave Hill Trail: a 10.3 km moderate hike in the United Kingdom with varied terrain, rocky sections, and cave features. Includes safety tips, gear recommendations, and best seasons.",
+      "h1": "Cave Hill Trail – 10.3 km Moderate Hike in the UK"
+    }
   }
 }

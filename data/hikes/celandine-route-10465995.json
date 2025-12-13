@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 10465995
+  },
+  "ai": {
+    "summary": "The Celandine Route is a challenging 33.6 km hike in the United Kingdom. Designed for experienced hikers, it demands solid navigation skills and good fitness due to its length and hard difficulty.",
+    "terrain_summary": "The route traverses varied UK terrain, including forest tracks, open fields, and uneven paths. Expect uneven footing, potential mud, and intermittent exposed sections; navigation may be required in sections with dense vegetation.",
+    "safety_notes": "Plan for a long day or split into two days based on pace. Check weather and daylight hours; map and navigation tools are essential. Tell someone your plan and expected return. Wear sturdy boots, bring layers and a waterproof layer, carry sufficient water and food, and have a first aid kit and a whistle. Be prepared for sudden weather changes, and know your limits in exposed sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Breathable base layers and a warm mid-layer",
+      "Hat and gloves (season dependent)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water bottle or hydration system (1.5–2 liters)",
+      "High-energy snacks and emergency rations",
+      "First aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle",
+      "Multitool or small knife",
+      "Sunscreen and sunglasses",
+      "Pack rain cover or dry bag",
+      "Optional trekking poles",
+      "Lightweight emergency blanket"
+    ],
+    "best_seasons": "Spring through autumn; avoid winter conditions.",
+    "seo": {
+      "title": "Celandine Route — 33.6 km Hard Hike in the UK",
+      "meta_description": "Discover the Celandine Route, a challenging 33.6 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this demanding trek.",
+      "h1": "Celandine Route: A 33.6 km Hard Hike in the UK"
+    }
   }
 }

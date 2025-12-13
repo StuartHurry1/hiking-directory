@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16016328
+  },
+  "ai": {
+    "summary": "A short, easy 2.8 km hike from Catchpenny to Butterstone Path. The route is family-friendly, following quiet country lanes and light woodland with gentle terrain and rewarding rural views.",
+    "terrain_summary": "Mixed easy surfaces: quiet rural lanes (paved or gravel), woodland paths, and short grassy or muddy sections after rain. Expect occasional gentle inclines, stiles or gates, and uneven ground in woodland.",
+    "safety_notes": "Plan for variable UK weather and daylight. Wear sturdy footwear and bring waterproof clothing. Stay on public rights of way, watch for mud after rain, and be mindful of livestock or farm equipment along fields. Gates and stiles may require lifting or stepping. Carry water, a map or offline navigation, a charged phone, basic first aid, and a small flashlight for low light. Mobile signal can be poor in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Lightweight waterproof jacket",
+      "Map or offline navigation (or GPS on phone)",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Year-round, with best conditions in spring through autumn; summer offers longer daylight, while winter can bring mud and shorter days.",
+    "seo": {
+      "title": "Catchpenny to Butterstone Path — Easy 2.8 km UK Countryside Walk",
+      "meta_description": "Explore Catchpenny to Butterstone Path, a gentle 2.8 km hike in the UK. Easy routes through rural lanes and woodland, with tips on safety and gear for a relaxed countryside walk.",
+      "h1": "Catchpenny to Butterstone Path — Easy 2.8 km Hike"
+    }
   }
 }

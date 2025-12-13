@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11047696
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km hike around Carn Brea in the UK. The route is family-friendly with well-marked paths and gentle gradients, offering pleasant views with minimal effort.",
+    "terrain_summary": "Mostly compact dirt and gravel paths with occasional grassy sections and a few uneven stones. Some steps near historic features, but overall easy for beginners.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy footwear and bring water. Stay on marked paths, be mindful of uneven surfaces, and watch for low-hanging branches or edges near viewpoints. Keep children close and let others pass on narrow sections.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Water and a light snack",
+      "Light rain jacket or layer",
+      "Map or GPS device",
+      "Sun protection (hat and sunscreen)",
+      "Small first-aid kit",
+      "Phone with a charged battery"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Carn Brea BR 24 Ground Truth – Easy 2.1 km Hike in the UK",
+      "meta_description": "Explore the easy 2.1 km Carn Brea BR 24 Ground Truth hike in the UK. Family-friendly route with gentle gradients, well-marked paths, and scenic views.",
+      "h1": "Carn Brea BR 24 Ground Truth: Easy 2.1 km Hike"
+    }
   }
 }

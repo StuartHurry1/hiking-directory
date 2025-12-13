@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17410892
+  },
+  "ai": {
+    "summary": "Chacewater Trail 2 is a 10.2 km circular hike in the UK that combines agriculture, conservation, and heritage themes. The moderate route traverses rural lanes, hedgerows, and woodland, offering countryside views and opportunities to observe farming practices and local history.",
+    "terrain_summary": "The terrain is varied: grassy field edges, compacted dirt paths, and occasional woodlands. Expect some uneven surfaces, gentle rises and descents, and gates or stiles. Depending on conditions, sections can be muddy after rain and may require careful footing.",
+    "safety_notes": "Carry a map and compass or GPS, wear sturdy footwear, and check weather before setting out. Stay on marked paths, keep dogs under control, and watch for livestock in fields. Take extra care on stiles and gates, and carry a waterproof layer and water. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather appropriate clothing and a waterproof layer",
+      "Water bottle and some high energy snacks",
+      "Map and compass or GPS device",
+      "Sun protection or hat and sunglasses",
+      "Insect repellent",
+      "Light headlamp or torch (in case of delays)",
+      "Light backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn are ideal for comfortable weather and better daylight; winter paths may be muddy and conditions can be harsher.",
+    "seo": {
+      "title": "Chacewater Trail 2 – The Agriculture, Conservation & Heritage Loop (UK)",
+      "meta_description": "Explore a 10.2 km moderate hike in the UK featuring agriculture, conservation, and heritage elements on the Chacewater Trail 2 loop. Varied terrain, rural scenery, and historic highlights.",
+      "h1": "Chacewater Trail 2: Agriculture Conservation & Heritage Loop"
+    }
   }
 }

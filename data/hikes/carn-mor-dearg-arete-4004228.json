@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 4004228
+  },
+  "ai": {
+    "summary": "A classic 9.4 km ridge scramble on the Carn Mor Dearg Arete in the Scottish Highlands, offering dramatic views near Ben Nevis. The route blends long, exposed sections with scrambling on rocky terrain and requires solid footwear, good weather, and basic scrambling ability for a safe, enjoyable hike.",
+    "terrain_summary": "Rugged, rocky crest with knife-edge exposure. Expect hands-on scrambling, occasional loose rock, and uneven footing. Weather changes quickly in the Highlands; maintain careful navigation and steady footing along the crest.",
+    "safety_notes": "Check the forecast and avoid the ridge in strong winds, heavy rain, or icy conditions. Wear a helmet and sturdy boots; stay on the crest and avoid loose blocks. Carry a map and compass (GPS as backup) and know how to use them. Hike with a partner and inform someone of your plan. Bring extra layers, waterproofs, food, and water. Be prepared to retreat if conditions worsen or fatigue sets in.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Climbing helmet",
+      "Weather-appropriate layers (base layer, fleece, waterproof jacket and pants)",
+      "Map and compass (GPS as backup)",
+      "Headlamp",
+      "Insulated layer",
+      "Food and water (2–3 liters)",
+      "First aid kit",
+      "Emergency shelter or bivvy sack",
+      "Gloves and hat",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) are generally best, with longer days and more stable weather; shoulder seasons can be viable but conditions are highly variable and winter is hazardous.",
+    "seo": {
+      "title": "Carn Mor Dearg Arete Hike – Knife-Edge Ridge near Ben Nevis (9.4 km, Moderate)",
+      "meta_description": "Explore the Carn Mor Dearg Arete, a classic knife-edge ridge hike in the Scottish Highlands. 9.4 km, moderate scrambling with dramatic views, safety tips and essential gear.",
+      "h1": "Carn Mor Dearg Arete – Classic Knife-Edge Ridge Hike"
+    }
   }
 }

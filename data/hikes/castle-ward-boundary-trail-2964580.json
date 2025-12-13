@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2964580
+  },
+  "ai": {
+    "summary": "A challenging 25 km hike along the Castle Ward - Boundary Trail in the UK. Expect varied terrain and significant elevation changes as you traverse woodlands, fields, and country paths.",
+    "terrain_summary": "Mixed terrain with woodland tracks, grassy field sections, and uneven or rocky paths. Expect potential mud, stiles, occasional exposed sections, and some elevation gain. Good navigation and sturdy footwear are recommended.",
+    "safety_notes": "Plan for a long day on possibly remote trails. Check weather and daylight hours; carry a map and compass in addition to a charged phone with offline maps. Tell someone your route and expected return time. Wear sturdy waterproof footwear and layered clothing; bring waterproofs, sun protection, and a small first aid kit. Stay hydrated, know your limits, and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Map and compass",
+      "Fully charged phone with offline maps",
+      "Waterproof jacket and pants",
+      "Insulated layers and hat/gloves",
+      "Sturdy waterproof hiking boots",
+      "Hat, sunscreen, insect repellent",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Snacks and enough water (2–3 liters)",
+      "Emergency whistle",
+      "Walking poles (optional but helpful)",
+      "Emergency blanket or bivy sack"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October) for milder weather and longer daylight.",
+    "seo": {
+      "title": "Castle Ward – Boundary Trail: 25 km Hard Hike in the UK",
+      "meta_description": "Explore Castle Ward - Boundary Trail, a demanding 25 km hike in the UK. Terrain, safety tips, gear lists, and best seasons for planning your trek.",
+      "h1": "Castle Ward – Boundary Trail (25 km, Hard)"
+    }
   }
 }

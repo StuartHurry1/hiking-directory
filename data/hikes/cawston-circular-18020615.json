@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18020615
+  },
+  "ai": {
+    "summary": "Cawston Circular is a 14.2 km moderatly challenging loop hike in the UK, starting and finishing at a nearby point associated with Cawston. The route traverses a mix of country lanes, hedgerows, fields, and occasional woodland, offering a steady pace with some gentle ascents and descents. This hike is suitable for walkers with intermediate fitness looking to enjoy rural scenery and a satisfying day on foot.",
+    "terrain_summary": "Mixed surface route: quiet country lanes, grassy/shell-packed footpaths, uneven stiles, and some muddy sections after rain. Expect gentle climbs and flat to rolling terrain with several field crossing points and potential sheep or cattle in pasture sections.",
+    "safety_notes": "Plan for changing UK weather; wear sturdy footwear and bring waterproof gear. Carry a map or GPS, a charged phone, and a whistle. Inform someone of your route and expected return time. Be mindful of livestock, stiles, and potential mud, especially after rain. Stay on marked paths and check local access rules.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water bottle and some snacks",
+      "Map or GPS device (or offline map on phone)",
+      "Phone with charged battery",
+      "Hat and sunscreen (seasonal)",
+      "First-aid kit",
+      "Whistle",
+      "Lightweight rain cover or umbrella",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and weather is generally more favorable; avoid extreme winter conditions.",
+    "seo": {
+      "title": "Cawston Circular Walk - 14.2 km Moderate Hike in the UK",
+      "meta_description": "Discover the Cawston Circular, a 14.2 km moderate hike in the UK. Read a practical guide with terrain, safety tips, and essential gear for your day on foot.",
+      "h1": "Cawston Circular Walk"
+    }
   }
 }

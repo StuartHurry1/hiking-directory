@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11986100
+  },
+  "ai": {
+    "summary": "A very short, easy hike on Carn Brea FP 8 in the UK. At 0.5 km, this gentle route is suitable for beginners and families, offering a light stroll with minimal elevation.",
+    "terrain_summary": "Mostly level, well-maintained footpath with smooth surfaces and occasional compact gravel. Very gentle gradients and minimal elevation gain, suitable for walkers of all ages.",
+    "safety_notes": "Although short, stay mindful of uneven ground, wet leaves, and seasonal mud. Keep to the marked path, watch for other walkers, and check the weather before you go. Pack water and wear appropriate footwear; in exposed areas sunscreen or sun protection may be helpful.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Sunscreen, hat, and sunglasses (seasonally)",
+      "Phone with map or offline GPS (optional)",
+      "Light snack"
+    ],
+    "best_seasons": "Year round, with spring to autumn typically offering the best weather. In winter, plan for mud and colder conditions.",
+    "seo": {
+      "title": "Carn Brea FP 8 - Easy 0.5 km Hike in the UK",
+      "meta_description": "Discover the easy 0.5 km Carn Brea FP 8 hike in the UK. A short, beginner friendly route with gentle terrain, safety tips, and gear recommendations.",
+      "h1": "Carn Brea FP 8 – Easy 0.5 km Hike (UK)"
+    }
   }
 }

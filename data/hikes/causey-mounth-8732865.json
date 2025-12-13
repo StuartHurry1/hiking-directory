@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 8732865
+  },
+  "ai": {
+    "summary": "Causey Mounth is a demanding 15.5 km hike along a historic medieval route in Scotland. The trail combines exposed moorland, an old track with uneven surfaces, and remote stretches where weather can shift quickly. It rewards hikers with wide-open scenery and a sense of stepping back in time along one of Scotland’s famed drovers’ roads.",
+    "terrain_summary": "Terrain varies from compact, rugged track to soft, marshy sections after rain. Expect rocky footing in places, long grass and tussocks, and boggy patches. Some exposed sections require careful footing and navigation; stay on the established path to avoid erosion.",
+    "safety_notes": "Hard day hike with variable weather. Plan for frequent wind and rain, even in summer. Bring a map and compass, and know how to use them; GPS can help but avoid relying on it alone. Start early to maximize daylight; carry more water and food than you think you’ll need; inform someone of your route and expected return. Wear sturdy boots and consider walking poles. In winter conditions, equipment for cold, wet, and navigation is essential. Stay on the path to protect fragile peatlands and check for any temporary closures.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and insulating layers",
+      "Map and compass (or GPS)",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Sun protection",
+      "Walking poles (optional)",
+      "Extra socks",
+      "Dry bag or waterproof cover for belongings"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best balance of daylight and weather. Summer provides longer daylight and clearer views, but can be wet. Winter hikes require advanced winter mountaineering skills and careful planning.",
+    "seo": {
+      "title": "Causey Mounth – 15.5 km Hard Hiking Route in Scotland",
+      "meta_description": "Tackle Causey Mounth, a 15.5 km challenging hike along a historic Scottish drovers’ road. Learn what to expect, safety tips, and essential gear for this rugged UK trek.",
+      "h1": "Causey Mounth: 15.5 km Hard Hiking Route in Scotland"
+    }
   }
 }

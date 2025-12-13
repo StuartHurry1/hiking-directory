@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 19609050
+  },
+  "ai": {
+    "summary": "A demanding 19.9 km hike along the Castle Ward boundary in the UK. Designed for experienced walkers, the route combines long distances with varied, rugged terrain and potential elevation gain. Good fitness and navigation are essential.",
+    "terrain_summary": "Varied terrain including grassy estate tracks, rutted paths, woodland trails, and some rocky or muddy sections. Expect gates or stiles, occasional fence lines, and exposed stretches. Footing can be uneven and wet, especially after rain; waterproof boots and careful footing are advised.",
+    "safety_notes": "Plan a long day and tell someone your route and expected return. Check the weather and daylight hours; UK conditions can change quickly. Wear sturdy waterproof footwear and dress in layered clothing. Carry a map and compass (or GPS) in addition to a fully charged phone. Bring ample water and high-energy snacks, a basic first aid kit, whistle, headlamp, and emergency shelter if conditions deteriorate. Stay on established paths, be mindful of livestock on farmland, and be prepared for muddy or icy sections in winter; in remote stretches, mobile signal may be limited.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, insulating layer, and a waterproof outer shell)",
+      "Backpack (20–25 L) with rain cover",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Sunscreen and insect repellent",
+      "Optional trekking poles",
+      "Spare socks",
+      "Emergency blanket or bivy sack",
+      "Gaiters (helpful in muddy sections)",
+      "Rain jacket/pants"
+    ],
+    "best_seasons": "Spring to Autumn; generally best conditions with longer daylight, though trails may be muddy after rain.",
+    "seo": {
+      "title": "Castle Ward Boundary Trail – 19.9 km Hard Hike in the UK",
+      "meta_description": "Explore the Castle Ward Boundary Trail, a challenging 19.9 km hike in the UK. Get terrain insights, safety tips and gear recommendations for this demanding route.",
+      "h1": "Castle Ward Boundary Trail: 19.9 km Hard Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11780199
+  },
+  "ai": {
+    "summary": "A short, easy 0.6 km hike along Carn Brea FP 7 in the UK. This gentle walk follows a defined footpath with mostly flat terrain and mild elevation, suitable for beginners and families. Expect grassy paths with a few rocks and open views, finishing quickly depending on pace.",
+    "terrain_summary": "Defined grassy path with occasional rocks and small steps. Mostly level with a gentle incline in places; surfaces can be uneven or muddy after rain. Suitable for most footwear; watch for slippery patches in wet weather.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy footwear and stay on the marked path. Monitor trail conditions, be mindful of any livestock, and take care on exposed edges. Bring water, sun protection in summer, and a warm layer in colder months. Check for any closures or warnings before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (waterproof jacket and warm layer)",
+      "Sunscreen and hat for sunny days",
+      "Mobile phone with emergency contacts",
+      "Map or offline navigation (or GPS)",
+      "Small snack if needed"
+    ],
+    "best_seasons": "Spring to autumn is ideal for this short, easy hike due to milder weather and longer daylight; winter visits are possible but may be windy or slippery.",
+    "seo": {
+      "title": "Carn Brea FP 7 - Easy 0.6 km Hike in the UK",
+      "meta_description": "Discover a short, easy 0.6 km hike along Carn Brea Footpath 7 in the UK. Gentle terrain, open views, safety tips, and gear for a quick, family-friendly outdoor stroll.",
+      "h1": "Carn Brea FP 7: Easy 0.6 km Hike in the UK"
+    }
   }
 }

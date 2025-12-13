@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12753880
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km section of the Capital Ring with an alternate route designed to avoid canal locks. Ideal for a quick urban stroll with flat paths, a mix of parkland and riverside scenery, and minimal elevation change.",
+    "terrain_summary": "Flat, mostly paved paths along urban waterways and parkland. Some sections on gravel towpaths or compact earth; occasional street crossings where the route intersects roads.",
+    "safety_notes": "Follow local signs for the alternate route to avoid locks. Share the path with cyclists on towpaths; stay alert near the water's edge. Bring a light layer and water, and check weather and daylight hours for winter visits.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack",
+      "Map or offline GPS (or smartphone with map)",
+      "Snack (optional)",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round with appropriate clothing.",
+    "seo": {
+      "title": "Capital Ring Section 15 (Alternate Route) – Easy 1.2 km in the UK",
+      "meta_description": "Discover an easy 1.2 km section of the Capital Ring in the UK, featuring an alternate route that avoids canal locks. Perfect for a quick urban stroll.",
+      "h1": "Capital Ring Section 15 (Alternate Route)"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13624674
+  },
+  "ai": {
+    "summary": "Centenary Walk is a short, easy 4.2 km route in the UK designed for a relaxed outing suitable for families and beginners. The path offers gentle scenery and is ideal for a convenient day hike.",
+    "terrain_summary": "Primarily flat with occasional gentle inclines. The route uses a mix of paved paths, compact gravel, and well-maintained trails.",
+    "safety_notes": "Check the weather before you go. Wear sturdy footwear and carry water. Stay on marked paths, watch for wet or muddy sections, and be mindful of traffic where the route intersects roads. Tell someone your plan and expected return time. Carry a map, compass, or GPS device as a backup.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunscreen (on sunny days)",
+      "Light snacks",
+      "Map, compass, or GPS device",
+      "Phone with emergency numbers saved"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (Winter possible with appropriate gear).",
+    "seo": {
+      "title": "Centenary Walk – Easy 4.2 km hike in the UK",
+      "meta_description": "Discover Centenary Walk, a gentle 4.2 km hike in the UK ideal for beginners and families. Learn about terrain, safety tips, and what to bring.",
+      "h1": "Centenary Walk: Easy 4.2 km hike in the UK"
+    }
   }
 }

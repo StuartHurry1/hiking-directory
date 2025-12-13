@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16172993
+  },
+  "ai": {
+    "summary": "A short, easy 0.7 km hike in the UK along Ceum nan Eilthireach / Emigrants' Walk that is suitable for beginners and families seeking a quick, low-effort outdoor experience.",
+    "terrain_summary": "Mostly flat with a short gentle incline. The route uses well-marked paths with a gravel or compacted-earth surface, making it accessible for most walkers.",
+    "safety_notes": "Check local conditions before you go. Even on an easy route, weather can change quickly in the UK; avoid the path if surfaces are icy or muddy. Stay on marked trails, supervise children and pets, and carry a charged phone for emergencies. If the route runs near water, be cautious of edges and tides.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water and a small snack",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Map or fully charged phone with offline navigation",
+      "Layers for changing weather",
+      "Optional: basic first-aid items"
+    ],
+    "best_seasons": "Spring to Autumn",
+    "seo": {
+      "title": "Ceum nan Eilthireach / Emigrants' Walk — 0.7 km Easy Hike in the UK",
+      "meta_description": "Discover Ceum nan Eilthireach / Emigrants' Walk, a short 0.7 km easy hike in the UK. Perfect for beginners and families seeking a quick outdoor stroll with minimal elevation.",
+      "h1": "Ceum nan Eilthireach / Emigrants' Walk (0.7 km, Easy)"
+    }
   }
 }

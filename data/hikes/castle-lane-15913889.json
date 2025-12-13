@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 15913889
+  },
+  "ai": {
+    "summary": "Castle Lane is a very short, easy urban trail in the UK that passes near a historic castle site. It's ideal for a quick stroll, families, or anyone seeking a low-effort outing.",
+    "terrain_summary": "Flat and even surface with minimal elevation, typically paved or a well-maintained path through an urban area. Suitable for most casual walkers and families.",
+    "safety_notes": "This is an urban, multi-use path; be mindful of other pedestrians and cyclists, check weather and lighting conditions, wear sturdy shoes, and carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Mobile phone for safety"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and early autumn when temperatures are mild and daylight is favorable.",
+    "seo": {
+      "title": "Castle Lane - Short Easy Walk in the UK",
+      "meta_description": "Explore Castle Lane, a 0.1 km easy walk in the UK. Perfect for families and casual walkers seeking a quick, flat stroll near a historic site.",
+      "h1": "Castle Lane: Easy 0.1 km Walk in the UK"
+    }
   }
 }

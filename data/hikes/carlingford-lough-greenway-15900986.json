@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 15900986
+  },
+  "ai": {
+    "summary": "Carlingford Lough Greenway is a long coastal route totaling 45.4 km, offering a challenging experience for experienced hikers and cyclists. The trail traces the shoreline around Carlingford Lough with varied surfaces, coastal winds, and expansive sea views. It can be undertaken as a strenuous day hike or a multi-day trek with careful pacing and weather planning.",
+    "terrain_summary": "The route features a mix of paved coastal roads, compact gravel paths, grassy verges, and occasional boardwalks. Elevation includes rolling coastal climbs and some steeper sections, with exposed portions where wind and weather are prominent. Surfaces can be wet and uneven after rain, requiring good footwear and caution on uneven ground.",
+    "safety_notes": "Check tide schedules and access points if the route intersects any water or marshy sections. Wear sturdy footwear and dress in layers to handle wind and sudden weather changes. Bring a map or GPS, and inform someone of your itinerary. Daylight hours vary; carrying a light source is advised for late finishes. Mobile reception may be limited in remote coastal stretches. Plan hydration and snack breaks, and have a contingency plan for early return in bad weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Backpack with rain cover",
+      "Water (2–3 L) and high-energy snacks",
+      "Map or GPS device and compass",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit with blister care",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Emergency whistle and personal identification",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Emergency blanket or bivy sack"
+    ],
+    "best_seasons": "May–September (with cautious planning in shoulder seasons and respect for coastal weather)",
+    "seo": {
+      "title": "Carlingford Lough Greenway Hike – 45.4 km Coastal Trail in the UK",
+      "meta_description": "Explore the Carlingford Lough Greenway, a 45.4 km hard coastal route in the UK. Practical hiking tips, terrain insights, safety guidance, and gear recommendations.",
+      "h1": "Carlingford Lough Greenway: 45.4 km Hard Coastal Hike in the UK"
+    }
   }
 }

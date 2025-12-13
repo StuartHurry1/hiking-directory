@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 19031901
+  },
+  "ai": {
+    "summary": "The Centenary Trail at Kinver Edge is a 12.9 km moderate hike that weaves along the ridge lines of Kinver Edge, offering sweeping views across the surrounding countryside. The route combines sandstone cliff edges, open uplands, and wooded sections with a steady mix of ascents and descents, making for a classic UK ridge walk.",
+    "terrain_summary": "Ridge and cliff edge terrain on sandstone formations, with exposed sections and uneven footing. Expect rocky steps, grassy paths, and forest tracks. Paths can become muddy after rain, and winds along the high sections can be strong; stay away from ledges and maintain distance from cliff edges.",
+    "safety_notes": "Plan for weather and daylight; ridge sections can be exposed to wind and rain, so wear sturdy footwear and dress in layers. Stay on marked paths, keep a safe distance from cliff edges, and supervise children and dogs. Mobile signal may be limited in remote sections; have a map or GPS. Tell someone your route and expected return time. In case of an emergency, call 999 or 112 in the United Kingdom.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high energy snacks",
+      "Layered clothing and a waterproof jacket",
+      "Map and compass or GPS device",
+      "Phone with offline maps and fully charged battery",
+      "Sun protection (hat, sunscreen) or warm clothing for colder days",
+      "Small first aid kit",
+      "Headlamp or flashlight (if there is a chance of returning after dark)",
+      "Whistle for emergencies",
+      "Lightweight rain cover or poncho",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best for visibility and drier paths. Avoid wet, icy, or stormy conditions in winter when ridge exposure and mud can be hazardous.",
+    "seo": {
+      "title": "Centenary Trail, Kinver Edge – 12.9 km Ridge Hike in the UK",
+      "meta_description": "Discover the Centenary Trail at Kinver Edge. A 12.9 km moderate ridge hike with sandstone cliffs, sweeping views, and varied terrain. Safety tips and gear included.",
+      "h1": "Centenary Trail, Kinver Edge"
+    }
   }
 }

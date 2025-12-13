@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 13064030
+  },
+  "ai": {
+    "summary": "Castle Walk is a short, easy 0.9 km hike in the UK, designed for relaxed exploration of a historic castle site. The route offers gentle terrain and scenic views, suitable for families, casual walkers, and anyone seeking a quick outdoor outing.",
+    "terrain_summary": "The trail follows level, well-maintained paths with occasional gravel or compacted earth. Expect grassy edges and possible short sections with steps or gentle slopes. The surface is generally smooth underfoot with minimal elevation gain.",
+    "safety_notes": "Check local weather and daylight hours. Wear sturdy footwear with good grip. Stay on the marked path, particularly around castle grounds and any private areas. Be mindful of others on the trail, watch for uneven surfaces and slippery conditions when wet. Pack water, a light layer, and a phone if you’re exploring remote spots.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sun protection (hat, sunscreen)",
+      "Phone and/or map",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn; can be enjoyed year-round, but daylight and weather conditions affect the experience.",
+    "seo": {
+      "title": "Castle Walk: Easy 0.9 km Hike in the UK",
+      "meta_description": "Explore Castle Walk, a short and easy 0.9 km hike in the UK. Gentle terrain, scenic castle-side views, safety tips, gear checklist, and best seasons.",
+      "h1": "Castle Walk – Easy 0.9 km Hike in the UK"
+    }
   }
 }

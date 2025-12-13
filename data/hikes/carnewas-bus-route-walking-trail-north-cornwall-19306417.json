@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19306417
+  },
+  "ai": {
+    "summary": "A coastal 10.7 km walk along Cornwall’s rugged north coast, looping around the Carnewas and Bedruthan area. The route delivers dramatic sea views, cliff-top paths and opportunities to observe geology and seabirds. Moderate difficulty with uneven surfaces and some exposed sections, suitable for walkers with some experience of coastal trails.",
+    "terrain_summary": "Primarily coastal cliff paths and well-defined tracks. Expect uneven dirt/gravel surfaces, some steps, and occasional eroded sections. Ground can be muddy after rain; footing may be uneven near viewpoints; stay back from cliff edges and be mindful of winds.",
+    "safety_notes": "Check the forecast and be aware that coastal winds can be strong and temperatures can change quickly. Stay on marked paths and away from cliff edges. Wear sturdy footwear and bring waterproof layers. Carry a map or offline navigation, a fully charged phone, water, snacks, and a small first aid kit. If conditions are poor or visibility is reduced, turn back or shorten the route. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes with good grip",
+      "Waterproof jacket and an extra layer",
+      "Water and snacks",
+      "Sun protection (hat, sunscreen)",
+      "Map, compass or offline map on phone",
+      "Fully charged phone and portable charger",
+      "Small first aid kit",
+      "Lightweight backpack",
+      "Optional trekking poles",
+      "Camera or binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the most reliable daylight and typical sea conditions; the route can be hiked year-round with extra preparation for winter winds and rain.",
+    "seo": {
+      "title": "Carnewas bus route walking trail, North Cornwall – Coastal Hike",
+      "meta_description": "Discover the 10.7 km Carnewas bus route walking trail in North Cornwall, a moderate coastal hike with clifftop paths, sea views, and practical tips on gear and best seasons.",
+      "h1": "Carnewas bus route walking trail, North Cornwall"
+    }
   }
 }

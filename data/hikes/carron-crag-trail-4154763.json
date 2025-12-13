@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4154763
+  },
+  "ai": {
+    "summary": "Carron Crag Trail is a 10.4 km moderate hike in the UK. The route offers varied terrain with woodland paths, open moorland, and occasional rocky sections, delivering scenic views and a steady but approachable pace for hikers with intermediate fitness.",
+    "terrain_summary": "The trail features a mix of well-marked forest paths, grassy moorland, and several rocky or uneven sections. Expect a few gentle ascents and descents, with potential damp or muddy patches after rain. Sturdy footwear and a light layer for exposed parts are recommended.",
+    "safety_notes": "Weather in the UK can change quickly, so check forecasts before starting. Stay on established paths, watch for slippery rocks and muddy patches, and be prepared for uneven ground. Bring a map or GPS, carry enough water, and inform someone of your plans. In remote sections, mobile signal may be limited; carry a whistle and know basic navigation.",
+    "recommended_gear": [
+      "Hiking boots with good traction",
+      "Weather-appropriate layers (moisture-wicking base layer, insulating layer, and waterproof shell)",
+      "Water (2 liters or more, depending on conditions)",
+      "Map and compass or GPS device",
+      "Snacks or energy bars",
+      "Hat and sun protection",
+      "Lightweight rain jacket",
+      "First aid kit",
+      "Headlamp or flashlight (if there is any chance of returning after dark)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) when daylight is longer and weather is milder. Winter hikes are possible but require more navigation skill and gear for colder, windier, and wetter conditions.",
+    "seo": {
+      "title": "Carron Crag Trail – 10.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the Carron Crag Trail, a 10.4 km moderate hike in the UK. Explore terrain, safety tips, gear, and the best seasons for this scenic route.",
+      "h1": "Carron Crag Trail – 10.4 km Moderate Hike in the UK"
+    }
   }
 }

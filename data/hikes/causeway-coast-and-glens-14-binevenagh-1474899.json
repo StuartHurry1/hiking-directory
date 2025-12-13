@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 1474899
+  },
+  "ai": {
+    "summary": "A 12.5 km coastal hike along the Causeway Coast and Glens route, featuring the Binevenagh area. The route is moderate and blends coastal paths with short ascents and rocky sections, delivering expansive sea views and varied terrain.",
+    "terrain_summary": "Predominantly coastal trail with sections of rocky footing and moderate ascents. Expect uneven ground, exposed cliff edges in places, and occasional mud after rain. Proper hiking boots and caution near ledges are recommended.",
+    "safety_notes": "Check weather and sea conditions before starting; stay on marked paths and away from cliff edges. Tides and spray can affect sections near the coast. Wear sturdy footwear, bring layers and water, and carry a map or GPS. Mobile signal may be limited in remote sections; inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Breathable waterproof jacket and warm layers",
+      "Backpack with water and snacks",
+      "Map and/or GPS device; fully charged phone",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Water bottle or hydration system",
+      "Personal first aid kit and medications",
+      "Headlamp or flashlight (in case of delays)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder conditions and clearer visibility, though coastal winds can be strong; plan for variable weather year-round.",
+    "seo": {
+      "title": "Causeway Coast and Glens - 14: Binevenagh Trail (12.5 km) | Moderate Coastal Hike UK",
+      "meta_description": "Explore the Causeway Coast and Glens - 14 - Binevenagh, a 12.5 km moderate coastal hike in the UK. Enjoy sea views, cliffside paths, and rocky terrain; best in spring to autumn.",
+      "h1": "Causeway Coast and Glens - 14 - Binevenagh"
+    }
   }
 }
