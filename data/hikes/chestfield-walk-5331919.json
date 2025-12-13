@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 5331919
+  },
+  "ai": {
+    "summary": "Chestfield Walk is a short, easy 1.9 km route in the United Kingdom, suitable for families and casual walkers. The route largely follows flat, well-maintained paths and offers a relaxed outdoor experience with light urban or suburban surroundings.",
+    "terrain_summary": "Mostly flat with a mix of paved paths and well-kept gravel tracks. Expect some grassy verge sections and occasional curb crossings. Suitable for strollers on shorter stretches.",
+    "safety_notes": "As with any outdoor walk: stay on marked paths, be aware of other pedestrians and traffic where applicable, check the local weather forecast, wear sturdy footwear, carry water, and supervise children. In winter or after rain, surfaces can be slippery; adjust pace accordingly. Have a simple map or route guide and keep your phone charged for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline route guide",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year round; however late spring to early autumn typically offers the most comfortable conditions in the UK.",
+    "seo": {
+      "title": "Chestfield Walk – Easy 1.9 km UK Trail",
+      "meta_description": "Explore Chestfield Walk, an easy 1.9 km hike in the UK. Flat terrain, family-friendly route, safety tips, and gear checklist for a quick, enjoyable outdoor stroll.",
+      "h1": "Chestfield Walk (1.9 km) – Easy UK Trail"
+    }
   }
 }

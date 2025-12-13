@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 274314
+  },
+  "ai": {
+    "summary": "A demanding 34.9 km circular hike in the UK that starts and ends at the same point. This rugged day trek tests stamina, navigation, and weather resilience, and is best suited for experienced hikers with good preparation.",
+    "terrain_summary": "Expect a mix of rough moorland paths, grassy ascents, rocky sections, and occasional road or track stretches. Surfaces can be uneven, muddy, or boggy, with long exposed sections and significant elevation gain. Navigation is important, as some routes follow faint paths across open countryside.",
+    "safety_notes": "Plan as an all-day hike (8–12 hours) and pace yourself accordingly. Check the weather forecast before you start; UK conditions can change quickly. Wear sturdy waterproof boots and dress in layered, waterproof clothing. Bring a detailed map and compass (or a reliable GPS) and know how to use them. Carry ample water (2–3 litres) and high-energy snacks; consider a light meal for the middle of the day. Carry a first aid kit, whistle, and emergency blanket; have a charged phone with offline maps as a backup. Tell someone your planned route and expected finish time; consider a buddy system. Be aware of hazards: boggy ground, sudden drops, livestock, road crossings, and poor mobile signal in remote areas. In winter, daylight is shorter and weather is harsher; consider a shorter alternative or split the hike into two days.",
+    "recommended_gear": [
+      "Sturdy hiking boots or footwear with good grip",
+      "Waterproof and breathable jacket (shell) and warm layers",
+      "Backpack large enough for 1–2 litres of water, food, and gear",
+      "Map and compass (or GPS device) with fully charged battery",
+      "Headlamp or small flashlight with extra batteries",
+      "First aid kit and personal medications",
+      "Food and snacks for energy (plus a light meal for the middle of the hike)",
+      "Water bottles or a hydration reservoir",
+      "Whistle and emergency blanket / bivvy bag",
+      "Sunscreen, sunglasses, and a hat (seasonal)",
+      "Optional trekking poles for stability"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal for this long circular UK hike, when daylight is longer and weather is more favorable. In winter it becomes significantly harder and requires advanced navigation and extra gear.",
+    "seo": {
+      "title": "UK Circular Hike – 34.9 km Hard Day Trek",
+      "meta_description": "Conquer a demanding 34.9 km circular walk in the UK. Learn about terrain, safety tips, and gear for experienced hikers seeking a challenging day out.",
+      "h1": "Circular Walk — 34.9 km (Hard)"
+    }
   }
 }

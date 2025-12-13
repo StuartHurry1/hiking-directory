@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19330700
+  },
+  "ai": {
+    "summary": "The City of Merchants Trail is an easy 5 km hike in the UK, ideal for families and casual walkers. The route uses mostly flat, well-maintained paths and offers a relaxed pace with time to enjoy views or a snack.",
+    "terrain_summary": "Mostly flat to gently undulating terrain on paved paths and compact trails. Expect short sections with curb crossings or grassy edges; suitable for strollers and light footwear.",
+    "safety_notes": "Check the weather forecast before you set out and wear sturdy walking shoes. Carry a light waterproof layer, water, and snacks. Stay on marked paths, be mindful of road crossings, and know where you are on a map. In low light, bring a flashlight or headlamp and ensure your phone is charged.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Light rain jacket",
+      "Snack or energy bar",
+      "Small daypack",
+      "Map or offline navigation app",
+      "Phone with charger or power bank",
+      "Sunscreen and hat (seasonally)"
+    ],
+    "best_seasons": "Spring, summer, and early autumn are ideal for this hike in the UK, when days are longer and conditions are generally mild. Winter walks can be enjoyable but weather and mud may affect footing; plan accordingly.",
+    "seo": {
+      "title": "City of Merchants Trail — Easy 5 km Walk in the UK",
+      "meta_description": "Explore the City of Merchants Trail, an easy 5 km hike in the UK. Flat, family-friendly paths suitable for all ages; perfect for a relaxed day outdoors.",
+      "h1": "City of Merchants Trail: Easy 5 km Walk in the UK"
+    }
   }
 }

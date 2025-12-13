@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 15001324
+  },
+  "ai": {
+    "summary": "A 12.7 km hike along the Chiltern Heritage Trail with a temporary diversion in the UK. This moderate-level route traverses chalk hills, woodlands, and rural lanes, offering scenic views and a sense of local history.",
+    "terrain_summary": "Mix of well-maintained footpaths, grassy lanes, uneven chalk tracks, hedged country paths, short woodland sections, and occasional road sections due to the temporary diversion. Expect possible mud, gates or stiles, and some undulating terrain.",
+    "safety_notes": "Verify the diversion signs before starting and follow current markers. Wear sturdy footwear and appropriate clothing for variable UK weather. Carry a map or GPS, water, snacks, and a small first-aid kit. Be mindful of mud, uneven ground, and cattle in fields. Daylight hours can be limited in winter; inform someone of your planned route and check mobile signal availability along the route.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate jacket and layers",
+      "Map and/or GPS device",
+      "Water bottle or hydration system",
+      "Sun protection (sunscreen, hat)",
+      "Extra warm layer",
+      "Headlamp or flashlight (in case of delays)",
+      "First-aid kit",
+      "Mobile power bank",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hike; winter can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Chiltern Heritage Trail Temporary Diversion – 12.7 km UK Hike",
+      "meta_description": "Plan a 12.7 km hike along the Chiltern Heritage Trail with a temporary diversion in the UK. Discover terrain, safety tips, and gear for this moderate route.",
+      "h1": "Chiltern Heritage Trail Temporary Diversion – 12.7 km Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 5555981
+  },
+  "ai": {
+    "summary": "Channel to Channel is a demanding UK long-distance hike covering 135.4 km. The route traverses coastal paths, rugged moorlands, and varied terrain with significant elevation, demanding fitness, navigation, and careful planning.",
+    "terrain_summary": "The terrain varies from exposed coastal paths and cliffs to rocky upland moorland, open grassy ascents, and woodland sections. Expect steep climbs, uneven footing, boggy stretches, and navigation-heavy sections. Weather can be changeable and wind exposure is common.",
+    "safety_notes": "Plan around tide times for coastal segments; carry a map, compass, and GPS, and know how to use them. Share your itinerary with someone and check-in. Monitor weather forecasts and be prepared for rapid changes; ensure sufficient daylight for each day. Carry enough water and food, a light source, emergency gear, and know how to summon help (phone signal may be limited in remote sections; in an emergency call 999).",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and waterproof trousers",
+      "Layered clothing (base layer, fleece or insulating layer, outer shell)",
+      "Hat, gloves, and sun protection (cap, sunglasses, sunscreen)",
+      "Map and compass (with GPS as backup) and knowledge of navigation",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit tailored for remote hiking",
+      "Emergency bivvy or space blanket",
+      "Water container(s) with at least 2 liters capacity and water purification method",
+      "High-energy food and snacks; consider a lightweight stove if needed",
+      "Rucksack with waterproof cover and dry bags",
+      "Trekking poles (optional but recommended)",
+      "Whistle and signaling device"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) with longer daylight and more stable weather; winter hikes require advanced skills and equipment.",
+    "seo": {
+      "title": "Channel to Channel — 135.4 km Hard UK Hike",
+      "meta_description": "Discover Channel to Channel, a challenging 135.4 km trek in the UK. Get route overview, terrain, safety tips, gear recommendations, and the best seasons for this demanding long-distance hike.",
+      "h1": "Channel to Channel: 135.4 km Hard UK Hike"
+    }
   }
 }

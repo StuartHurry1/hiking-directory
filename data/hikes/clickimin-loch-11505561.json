@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 11505561
+  },
+  "ai": {
+    "summary": "A short, easy lakeside stroll around Clickimin Loch in the UK. The 2.4 km loop offers flat, well-maintained paths with lake views and occasional wildlife, making it suitable for families and beginners.",
+    "terrain_summary": "Flat, accessible paths around the loch. Mostly compact gravel or tarmac, with some sections that can be damp or muddy after rain. Occasional shaded stretches along the water.",
+    "safety_notes": "Stay on marked paths; watch for cyclists and other pedestrians on shared sections. Be mindful of windy conditions typical near lochs; keep children within arm's reach near the water's edge. Wear suitable footwear and bring rain gear.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Hat and sunglasses",
+      "Sunscreen"
+    ],
+    "best_seasons": "All year round, with the calmest conditions typically in late spring to early autumn.",
+    "seo": {
+      "title": "Clickimin Loch Walk - Easy 2.4 km Lakeside Trail in the UK",
+      "meta_description": "Discover an easy 2.4 km hike around Clickimin Loch in the UK. Flat paths, scenic water views, and wildlife make this a perfect family-friendly stroll.",
+      "h1": "Clickimin Loch: Easy 2.4 km Lakeside Trail"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 10743124
+  },
+  "ai": {
+    "summary": "Chester-le-Street Heritage Trail is a 7.5 km moderate hike in the UK that takes you through local heritage sites and a mix of urban and green spaces. The route is suitable for walkers with intermediate fitness who enjoy a relaxed day of sightseeing paired with light outdoor activity.",
+    "terrain_summary": "The trail combines paved streets, compact gravel paths, and short grass or dirt sections. Expect gentle slopes in some parts and mostly level ground elsewhere. Wear comfortable, supportive footwear and be prepared for mixed surfaces.",
+    "safety_notes": "Carry water and a map, wear weather-appropriate clothing, and be cautious on street sections shared with traffic. Stay on marked paths where available, watch for cyclists on multi-use routes, and hike during daylight. Have a charged mobile phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes or hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Small backpack",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Map or offline navigation (or route download)",
+      "Mobile phone with emergency contacts",
+      "Snacks or energy bars",
+      "Light first aid kit"
+    ],
+    "best_seasons": "Spring to autumn for best weather and daylight; can be done year-round with extra caution in winter.",
+    "seo": {
+      "title": "Chester-le-Street Heritage Trail | 7.5 km Moderate Hike in the UK",
+      "meta_description": "Discover the 7.5 km Chester-le-Street Heritage Trail in the UK. A moderate route through local heritage sites with varied terrain and urban-to-green scenery.",
+      "h1": "Chester-le-Street Heritage Trail"
+    }
   }
 }

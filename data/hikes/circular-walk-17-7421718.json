@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 7421718
+  },
+  "ai": {
+    "summary": "Circular Walk 17 is a 5 km easy circular trail in the UK, suitable for most walkers and families. It follows a loop route along well-maintained paths, offering gentle scenery and a relaxed pace that returns to the starting point.",
+    "terrain_summary": "Predominantly well-maintained paths with gentle gradients. The surface mix includes tarmac, gravel, and grassy sections. Expect occasional uneven patches and steps; good footwear and attention to footing are advised.",
+    "safety_notes": "Check the weather and daylight hours before you go. Wear sturdy, closed-toe footwear and dress in layers; bring a waterproof layer. Carry a map or offline navigation, a fully charged phone, and a small amount of cash or a card. Bring water and a light snack. Stay on marked paths, be mindful of other walkers and cyclists, and watch for uneven surfaces or mud, especially after rain. Let someone know your plan and estimated return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Water bottle (at least 500 ml)",
+      "Snack or energy bar",
+      "Cap or hat and sunscreen",
+      "Map or offline navigation (phone with offline map)",
+      "Pocket-sized first aid kit",
+      "Phone with charged battery or power bank",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (March–October) generally offers the best conditions; the route can also be walked in winter with appropriate gear.",
+    "seo": {
+      "title": "Circular Walk 17 – 5 km Easy Circular Trail in the UK",
+      "meta_description": "Discover Circular Walk 17, a 5 km easy circular hike in the UK. Gentle terrain, family-friendly route, safety tips, and gear recommendations for a pleasant day out.",
+      "h1": "Circular Walk 17 – 5 km Easy Circular Trail in the UK"
+    }
   }
 }

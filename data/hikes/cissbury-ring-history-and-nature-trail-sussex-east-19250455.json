@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 19250455
+  },
+  "ai": {
+    "summary": "A 12.1 km moderate coastal hike around Cissbury Ring in Sussex, combining hilltop history with expansive views over the South Downs and the English Channel. The route winds through heathland, chalk ridges, and quiet coastal countryside, with a mix of open and shaded sections.",
+    "terrain_summary": "Mostly rough chalk tracks and grassy ridges leading to Cissbury Ring, with uneven stone paths and gentle ascents. Expect exposed viewpoints along the ridge and sections that can be muddy after rain; some parts near the coast may have uneven footing.",
+    "safety_notes": "Coastal winds and weather can change quickly; stay on marked paths and away from cliff edges. Check tide times if any stretch approaches the shoreline. Wear sturdy boots, bring waterproof layers, plenty of water, snacks, and a map or GPS. Let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing with a waterproof jacket",
+      "Waterproof pack cover",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Water (2–3 liters) and snacks",
+      "Map, compass or GPS device",
+      "Fully charged phone",
+      "Basic first-aid kit",
+      "Trail snacks/energy bars",
+      "Trekking poles (optional)",
+      "Headlamp if planning after-dark"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better visibility; winters can be windy, damp, and more challenging.",
+    "seo": {
+      "title": "Cissbury Ring History and Nature Trail – 12.1 km Coastal Hike in Sussex, UK",
+      "meta_description": "Explore a 12.1 km moderate coastal hike around Cissbury Ring, mixing history, nature and sweeping views of the Sussex coast. Practical route tips and safety guidelines included.",
+      "h1": "Cissbury Ring History and Nature Trail"
+    }
   }
 }

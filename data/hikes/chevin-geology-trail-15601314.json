@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 15601314
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate hike along the Chevin Geology Trail in the UK, featuring exposed rock formations, scenic viewpoints and a steady, undulating ascent suitable for walkers with some experience.",
+    "terrain_summary": "Moderate ascent with rocky and uneven paths. Expect short steeper sections, exposed escarpment edges, and varying surface conditions (gravel, loose stones). Suitable footwear is recommended.",
+    "safety_notes": "Wear sturdy hiking boots and weather-appropriate clothing. Stay on marked paths, be cautious near cliff edges, and watch for loose rock. Check the forecast and daylight hours; bring water and a charged phone. Supervise children and be mindful of wind on exposed ridges.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water (at least 500 ml)",
+      "Weather-appropriate clothing (layers; windproof/waterproof jacket)",
+      "Map or offline navigation and a charged phone",
+      "Snacks or energy bars",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Camera or binoculars (optional)",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and better visibility; summers can be busy; winters are windier and more exposed.",
+    "seo": {
+      "title": "Chevin Geology Trail - 6.3 km Moderate Hike in West Yorkshire, UK",
+      "meta_description": "Explore the Chevin Geology Trail, a 6.3 km moderate hike in West Yorkshire, United Kingdom. Learn about rock features, enjoy scenic views and plan a safe day out.",
+      "h1": "Chevin Geology Trail: 6.3 km Moderate Hike in West Yorkshire, UK"
+    }
   }
 }

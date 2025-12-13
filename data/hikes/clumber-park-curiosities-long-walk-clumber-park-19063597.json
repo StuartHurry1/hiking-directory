@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19063597
+  },
+  "ai": {
+    "summary": "A demanding 30 km circuit around Clumber Park in the United Kingdom, designed for experienced hikers. The route combines woodland trails, open parkland, and gravel tracks, with several gentle to moderate ascents and variable footing. Expect a long day on foot and prepare for changing weather; pace yourself to complete within daylight hours.",
+    "terrain_summary": "Mixed terrain including woodland paths, gravel tracks, grassy parkland, and occasional road sections. Footing ranges from firm and dry to muddy and uneven; expect some gentle climbs and variable footing, with possible mud after rain.",
+    "safety_notes": "Long, demanding hike: plan for 6–9 hours and pace yourself. Check the forecast; UK weather can change quickly. Wear sturdy, grippy boots and be prepared for mud. Stay on marked paths; bring a map, compass or GPS and know how to use them. Carry ample water and energy-rich snacks; consider electrolytes. Pack a warm layer and a waterproof jacket. Have a basic first aid kit and a whistle; carry a charged phone for emergencies. If starting late, ensure daylight or bring a headlamp. Be aware of road crossings around park boundaries and watch for other hikers, cyclists, and wildlife.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map, compass or GPS device",
+      "Weather-appropriate clothing (layering system, waterproof shell)",
+      "Hat and sunscreen",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Mobile phone with offline map or downloaded route",
+      "Emergency blanket (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (late spring through early autumn are most favorable for daylight, warmth, and trail conditions).",
+    "seo": {
+      "title": "Clumber Park Curiosities Long Walk – A 30 km Hard Hike in the UK",
+      "meta_description": "Take on the Clumber Park Curiosities Long Walk, a 30 km challenging route through Clumber Park in the UK. Learn terrain details, safety tips, and gear to prepare.",
+      "h1": "Clumber Park Curiosities Long Walk (30 km, Hard)"
+    }
   }
 }

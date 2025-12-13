@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19065955
+  },
+  "ai": {
+    "summary": "A 15 km loop hike around Clumber Park that challenges experienced walkers with a mix of parkland, woodland trails and lake edges. The Waymarked Walk follows official paths through the National Trust estate and returns to the start. Expect varied surfaces, some longer gradients, and potential mud, making this a hard day on the legs. Plan for about 4–6 hours depending on pace and stops.",
+    "terrain_summary": "Terrain varies from surfaced park paths and gravel tracks to grassy and woodland trails. Expect uneven ground, tree roots, muddy sections especially after rain, and some gentle to moderate gradients. The route includes gates and stiles and may involve walking near water edges and lakes.",
+    "safety_notes": "Plan for 4–6 hours to cover 15 km. Wear sturdy boots and be prepared for mud and slippery surfaces after rain. Stay on marked paths and watch for other park users, including cyclists and dogs. Some sections may have limited mobile reception; carry a map or offline route. Bring water and snacks, check weather and daylight hours, and keep dogs under control and on leads where required. Exercise caution near water features.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Lightweight daypack",
+      "Water and snacks (plan for 4–6 hours)",
+      "Map or offline GPS and a charged phone",
+      "Basic first-aid kit",
+      "Sunscreen and sunglasses (summer)",
+      "Insect repellent (seasonal)",
+      "Extra layers for warmth and wind protection",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn; walkable year-round with proper gear, but expect mud and shorter daylight in winter.",
+    "seo": {
+      "title": "Clumber Park Waymarked Walk – 15 km Hard Route in Clumber Park, UK",
+      "meta_description": "Explore the 15 km Clumber Park Waymarked Walk in Nottinghamshire, UK. A challenging loop through parkland and woodland with varied terrain, ideal for experienced hikers. Plan 4–6 hours.",
+      "h1": "Clumber Park Waymarked Walk – 15 km Hard Route"
+    }
   }
 }

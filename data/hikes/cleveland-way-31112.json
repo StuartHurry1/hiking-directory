@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 31112
+  },
+  "ai": {
+    "summary": "The Cleveland Way is a challenging long-distance hike in the UK, covering 114.6 km of varied terrain. It’s best suited to experienced trekkers who can manage multi-day treks, navigation on exposed sections, and significant elevation gains through moorland, ridges, forests, and coastal paths.",
+    "terrain_summary": "Expect a varied landscape: exposed moorland and ridges with strong winds, rocky ascents and descents, forest tracks, and occasional coastal cliff sections. The route includes boggy moorland in places and long, uninterrupted segments where weather can change rapidly.",
+    "safety_notes": "Plan as a multi-day trek (roughly 4–6 days at a steady pace). Weather in the UK changes quickly; carry layers, waterproofs, and wind protection. Navigation: bring a map and compass; don’t rely solely on GPS. Be prepared for exposed cliff and moorland sections; stay away from cliff edges in poor visibility. Moorland can be boggy; wear sturdy boots and consider gaiters. Some sections are remote with limited phone signal—tell someone your itinerary and expected finish times; carry a means of emergency shelter and a whistle. Stay aware of livestock on rural paths; check for ticks and protect against them; carry water purification if you plan to source water from streams. Tide times and coastal conditions should be checked where applicable.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and waterproof pants",
+      "Insulating layers (fleece or down) and thermal base layers",
+      "Topographic map and compass (and a GPS device as backup)",
+      "Headlamp with extra batteries",
+      "Well-stocked first aid kit and emergency repair kit",
+      "Emergency shelter or bivy bag",
+      "Water bottles or hydration reservoir, plus water purification method",
+      "High-energy food and snacks for multi-day trekking",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Gloves and a warm hat for chillier days",
+      "Walking poles (optional but helpful for uneven terrain)",
+      "Whistle and personal ID/medical info",
+      "Lightweight rain cover for your pack and spare dry bag"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) provides the best conditions for a longer trek, with more daylight and generally drier weather; however, be prepared for rapidly changing conditions and wind on exposed sections.",
+    "seo": {
+      "title": "Cleveland Way: 114.6 km UK Trail — Hard-Difficulty Long-Distance Hike",
+      "meta_description": "Plan your Cleveland Way hike (114.6 km) in the UK with this guide covering terrain, safety considerations, essential gear, and the best seasons for a challenging multi-day trek across moorland, cliffs, and forests.",
+      "h1": "Cleveland Way — 114.6 km Hard-Difficulty Long-Distance Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9511850
+  },
+  "ai": {
+    "summary": "Circular Route is a short, easy circular walk in the United Kingdom, totaling 0.7 km. It’s designed for beginners and those seeking a quick outdoor stroll.",
+    "terrain_summary": "Mostly flat, well-defined path with a firm surface. Expect occasional gravel, grass, or small roots; surfaces are generally easy for walkers with basic footwear.",
+    "safety_notes": "Check weather conditions before you go. Wear sturdy footwear and stay on the marked path. For such a short route, bring a light layer and water, and supervise children. Be mindful of other pedestrians and cyclists if the route runs near shared paths.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Phone with GPS/map",
+      "Light rain jacket",
+      "Sunscreen or hat if sunny"
+    ],
+    "best_seasons": "All year round, with especially pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Circular Route – Easy 0.7 km Circular Walk in the UK",
+      "meta_description": "Discover Circular Route, a short and easy 0.7 km circular walk in the UK. Perfect for beginners and families seeking a quick outdoor activity. Learn terrain, safety, and gear.",
+      "h1": "Circular Route: Easy 0.7 km Circular Walk in the UK"
+    }
   }
 }

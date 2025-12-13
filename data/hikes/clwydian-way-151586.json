@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 151586
+  },
+  "ai": {
+    "summary": "A challenging 21.1 km hike along a rugged UK upland route, featuring long ascents, exposed ridgelines, and expansive views.",
+    "terrain_summary": "Rugged upland ridge with grassy slopes, exposed rock on sections, heather moorland, and occasional woodland. Footing can be uneven and boggy in places; expect long climbs and some scrambling.",
+    "safety_notes": "This is a long, strenuous day hike. Check weather forecasts and be prepared for rapid condition changes. Carry a map and compass (or GPS), stay on marked paths, and tell someone your plan. Wear sturdy waterproof boots, bring layered clothing, sufficient water and energy snacks, a whistle, and a basic first aid kit. In exposed sections, high winds and poor visibility are possible; ensure you have navigation aids and consider starting early to ensure daylight.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water and high-energy snacks (2–3 liters depending on conditions)",
+      "Layered clothing plus a waterproof/windproof outer layer",
+      "Hat and gloves for cold or windy weather",
+      "Windproof jacket and insulating layer",
+      "Map and compass (or GPS) and a fully charged phone with offline maps",
+      "Lightweight first aid kit",
+      "Headlamp or flashlight (for safety/if delayed)",
+      "Whistle for emergencies",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring, Summer, and early Autumn are best for this hike due to milder weather and longer daylight. Winter conditions can be harsh with strong winds and reduced visibility.",
+    "seo": {
+      "title": "Clwydian Way Hike – 21.1 km Hard Day Route in the UK",
+      "meta_description": "Tackle the 21.1 km Clwydian Way, a challenging UK ridge hike with rugged terrain and stunning views. Explore safety tips, gear, and the best seasons for this route.",
+      "h1": "Clwydian Way – 21.1 km Hard Day Hike (UK Ridge Route)"
+    }
   }
 }

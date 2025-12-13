@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 19283580
+  },
+  "ai": {
+    "summary": "Circular Park Walk is a gentle 3.6 km circular route in the UK, suitable for all ages and abilities. It follows flat, well-maintained paths through a park, offering relaxed scenery and an easy, steady pace.",
+    "terrain_summary": "Predominantly flat paths, mostly paved or gravel. Some grassy edges; expect well-maintained park surfaces with occasional uneven spots near tree roots.",
+    "safety_notes": "This is an easy, family-friendly route. Stay on marked paths, watch for pedestrians and cyclists, and wear sturdy footwear. Bring water, dress for the weather, and be mindful of changing conditions or crowds in peak times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection (hat/sunscreen)",
+      "Light rain jacket"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Circular Park Walk - 3.6 km Easy Trail in the UK",
+      "meta_description": "Explore Circular Park Walk, a gentle 3.6 km circular route in the UK. Ideal for families and casual walkers with flat paths and park scenery.",
+      "h1": "Circular Park Walk (3.6 km) - Easy UK Trail"
+    }
   }
 }

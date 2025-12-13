@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8611587
+  },
+  "ai": {
+    "summary": "A gentle 5.6 km loop in the United Kingdom, suitable for families and beginners. The route offers a relaxed pace on easy terrain with mild elevation and relaxing rural scenery.",
+    "terrain_summary": "Predominantly flat to gently rolling paths, including tarmac pavements, compacted gravel tracks, and grassy lanes. Expect occasional mud after rain and minor uneven sections; some segments run beside country lanes where care is advised.",
+    "safety_notes": "Carry a map or GPS and know your route. Check the weather before heading out and be prepared for changing UK conditions. Wear sturdy footwear with good grip and bring adequate clothing, especially if rain is forecast. Stay on marked paths, watch for livestock and road crossings, and keep dogs on a leash if required. Bring water, snacks, a basic first aid kit, sun protection in bright weather, and a fully charged phone; rural areas may have limited mobile reception.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket and an extra layer",
+      "Water bottle and some snacks",
+      "Map, compass, or GPS device",
+      "Fully charged mobile phone",
+      "Small first aid kit",
+      "Sunscreen, hat, and sunglasses",
+      "Emergency rain cover or packable rain shell",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) are best for dry trails and longer daylight; winter can be wet, muddy, and less predictable.",
+    "seo": {
+      "title": "Chulmleigh Community Trail – Easy 5.6 km Hike in the UK",
+      "meta_description": "Explore the Chulmleigh Community Trail, a gentle 5.6 km route in the United Kingdom. Easy terrain, family-friendly, with practical safety tips and gear recommendations.",
+      "h1": "Chulmleigh Community Trail – Easy 5.6 km Hike in the UK"
+    }
   }
 }

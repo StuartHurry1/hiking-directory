@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18032251
+  },
+  "ai": {
+    "summary": "A challenging 17-kilometre walk in the United Kingdom that threads together urban streets and green corridors tied to civil engineering landmarks. Designed for experienced walkers, it emphasizes long distance and varied terrain.",
+    "terrain_summary": "The route combines pavement, gravel paths, and short sections of uneven ground with occasional industrial or construction-adjacent areas. Expect some road sections, potential traffic, and weather-influenced surfaces.",
+    "safety_notes": "This is a hard hike that demands good fitness and preparation. Check weather forecasts and daylight hours. Wear sturdy, waterproof footwear and layered clothing. Stay on marked paths where possible, and be mindful of traffic and construction zones. Carry a map or GPS, a charged phone, a small first-aid kit, sufficient water and snacks, and let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate layered clothing (waterproof outer layer)",
+      "Water and high-energy snacks",
+      "Map and/or GPS device or offline mapping app",
+      "Fully charged phone with emergency contacts",
+      "Small first-aid kit",
+      "Headlamp or flashlight (if finishing after dusk)",
+      "High-visibility clothing or reflective gear",
+      "Sunscreen, hat, and sunglasses",
+      "Light rain cover or pack rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly March through October) for the best conditions in the UK; though the route can be attempted year-round with proper gear and daylight.",
+    "seo": {
+      "title": "Civil Engineering Walk - 17 km Hard Hike in the UK",
+      "meta_description": "Take on a challenging 17-kilometre hike in the UK that explores civil engineering landmarks along varied terrain. Get safety tips, gear advice, and season recommendations.",
+      "h1": "Civil Engineering Walk (17 km, Hard)"
+    }
   }
 }

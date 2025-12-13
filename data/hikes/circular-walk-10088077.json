@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10088077
+  },
+  "ai": {
+    "summary": "A short, easy 2.2 km circular walk in the UK suitable for families and casual walkers. The route loops back to the start along well-marked paths with gentle gradients.",
+    "terrain_summary": "Mostly well-maintained paths composed of gravel, grass, and compact soil. Expect occasional mud after rain and a few uneven or slightly rocky sections; some routes may include damp grass or puddles near edges.",
+    "safety_notes": "Check the weather forecast and daylight hours before you go. Wear sturdy, grippy footwear and dress for layering; the UK's weather can change quickly. Stay on marked paths, watch for slippery surfaces when wet, and take care near any water or exposed edges. Bring water, a light layer, a map or phone with offline maps, a small first aid kit, and snacks. Keep children and pets under supervision and know how to contact local emergency services if needed.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or smartphone with offline maps",
+      "Sunscreen and hat",
+      "Trail snacks",
+      "Small first aid kit",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring to autumn is ideal for this short hike; winter visits are fine but expect rain, mud, and reduced daylight.",
+    "seo": {
+      "title": "Circular Walk – Easy 2.2 km Hike in the UK",
+      "meta_description": "Discover a short, easy 2.2 km circular walk in the UK. Family-friendly route on well-marked paths with gentle gradients, safety tips, gear guidance, and best seasons.",
+      "h1": "Circular Walk – 2.2 km Easy Hike"
+    }
   }
 }

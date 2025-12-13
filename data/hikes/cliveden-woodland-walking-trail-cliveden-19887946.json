@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19887946
+  },
+  "ai": {
+    "summary": "A scenic 7.8 km woodland loop at Cliveden in the UK, rated moderate. The route weaves through shaded deciduous forest with occasional views of the surrounding countryside and a tranquil riverside feel.",
+    "terrain_summary": "Varied woodland paths including compact gravel, dirt trails, and sections with tree roots. Expect gentle ascents and descents, some uneven surfaces, and occasional muddy patches after rain. Footing is generally good but weather can influence grip.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Trails can be uneven and slippery when wet; watch for tree roots and loose stones. Mobile signal may be limited in parts of the woods, so carry a map or offline navigation. Stay on marked paths, respect wildlife, and supervise children. If hiking with dogs, keep them under control and clean up after them. Bring water and seek shelter if lightning or high winds are forecast.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and layers",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map, guidebook, or offline map on a device",
+      "Lightweight rain jacket and hat",
+      "Sunscreen and insect repellent",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal, though the trail can be enjoyed year-round with appropriate gear.",
+    "seo": {
+      "title": "Cliveden Woodland Walking Trail – 7.8 km Moderate Hike in the UK",
+      "meta_description": "Experience the 7.8 km Cliveden Woodland Walking Trail in the UK. A moderate, shaded hike through mixed woodland with gentle gradients and tranquil scenery—perfect for a day outdoors.",
+      "h1": "Cliveden Woodland Walking Trail – 7.8 km Moderate Hike"
+    }
   }
 }

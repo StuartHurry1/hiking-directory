@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3258864
+  },
+  "ai": {
+    "summary": "The Chess Valley Walk is a challenging long-distance hike in the UK, covering about 60 km in a single route along the Chess Valley. Classified as hard, it suits experienced walkers prepared for sustained walking, variable terrain, and multiple country lanes and rural paths. Depending on pacing, this can be completed as a multi-day trek or as a very strenuous two-day walk with careful planning.",
+    "terrain_summary": "Expect a varied mix of riverside paths along the Chess, chalk streams, farm tracks, hedged lanes, woodland sections, and occasional road crossings. Terrain can be uneven, muddy after rain, and include short ascents and descents; remote sections mean limited services in places.",
+    "safety_notes": "This is a long-distance, hard hike. Plan for routefinding, weather changes, and fatigue. Carry a map and compass (and a charged phone as a backup), inform someone of your plan, and be prepared for limited mobile signal in rural areas. Check weather, dress for rain, bring enough water and food, and take extra care on road crossings and farm tracks.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Backpack (20-30 L)",
+      "Water and water purification method or filter",
+      "High-energy snacks and meals",
+      "Map and compass; GPS device as backup",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Sun protection (hat, sunscreen)",
+      "Mobile phone with offline maps and power bank",
+      "Rain gear and waterproof bag cover",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "April to October for generally drier, longer daylight conditions; winter hikes are possible with caution and extra gear.",
+    "seo": {
+      "title": "Chess Valley Walk – 60 km Hard UK Trail | Long Distance Hike Guide",
+      "meta_description": "Discover the Chess Valley Walk, a demanding 60 km hike in the UK. Practical safety tips, gear essentials, and season recommendations for experienced trekkers.",
+      "h1": "Chess Valley Walk: 60 km Hard UK Trail"
+    }
   }
 }

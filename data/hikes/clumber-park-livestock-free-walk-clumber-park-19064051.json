@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19064051
+  },
+  "ai": {
+    "summary": "A challenging 22.5 km livestock-free hike at Clumber Park in the UK. Designed for experienced walkers, the route blends park paths, gravel trails, and woodland with rolling terrain and occasional grassy sections. Expect several climbs and potential mud, making for a rewarding long-day trek.",
+    "terrain_summary": "Loop starting and finishing in Clumber Park. Mixed surfaces include well-maintained park paths, gravel trails, woodland footpaths, and some grassy stretches. The terrain is hilly in places with rolling climbs; surface conditions vary with weather, so mud can be present after rain. Overall, a solid long-distance hike with variable footing.",
+    "safety_notes": "Plan for a long hike with adequate daylight and weather-appropriate gear. Wear sturdy hiking boots with good grip and consider trekking poles. Carry sufficient water and snacks, a map or GPS, and a charged phone. Inform someone of your planned route and finish time. Stay on marked paths, watch for uneven roots and steps, and be prepared for sudden weather changes. In winter or wet conditions, parts of the route can be slippery and exposed.",
+    "recommended_gear": [
+      "Hiking boots with good grip",
+      "Water (2–3 L) and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof/breathable jacket)",
+      "Map and/or GPS device",
+      "Fully charged phone",
+      "Lightweight backpack",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Trekking poles (optional but helpful)",
+      "Emergency whistle",
+      "Headlamp or compact flashlight (in case of delays)"
+    ],
+    "best_seasons": "Late spring to early autumn (approximately April–October)",
+    "seo": {
+      "title": "Clumber Park Livestock-Free Walk – 22.5 km Hard Hike in the UK",
+      "meta_description": "Tackle the 22.5 km Clumber Park Livestock-Free Walk in Clumber Park, UK. A challenging route through park paths, woodland trails, and rolling terrain—perfect for experienced hikers.",
+      "h1": "Clumber Park Livestock-Free Walk – 22.5 km Hard Hike"
+    }
   }
 }

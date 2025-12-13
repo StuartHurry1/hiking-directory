@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17805662
+  },
+  "ai": {
+    "summary": "A charming 3 km circular coastal walk on the Gower Peninsula, starting and ending near Rhosili village. The route combines grassy lanes with shoreline sections and offers excellent coastal views, making it suitable for families and casual walkers.",
+    "terrain_summary": "Mostly easy, with level to gently undulating grassy paths and occasional short uneven or rocky sections. Coastal segments can be muddy after rain and may be exposed to winds; stay on marked paths and watch footing near cliff edges.",
+    "safety_notes": "Weather can change rapidly along the coast. Check the forecast and tide times before you go. Wear sturdy footwear and a waterproof layer. Keep children and dogs under control near cliffs, and avoid narrow ledges in strong winds. Mobile signal may be limited in remote parts; share your route and estimated return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Water and snacks",
+      "Lightweight waterproof jacket",
+      "Layered clothing for temperature changes",
+      "Hat and sunscreen",
+      "Map, GPS, or offline navigation",
+      "Small first aid kit",
+      "Phone with emergency numbers",
+      "Lightweight rain cover or poncho"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offers milder weather and longer daylight and is ideal for the walk; it is still doable year-round with extra caution in winter or after heavy rain.",
+    "seo": {
+      "title": "Circular Walk around the Vile, Rhosili, Gower – 3 km Easy Coastal Hike",
+      "meta_description": "Explore a 3 km easy circular walk around the Vile near Rhosili on the Gower Peninsula, UK. Enjoy coastal scenery, gentle terrain, safety tips, and gear suggestions for a family-friendly day out.",
+      "h1": "Circular Walk around the Vile (Rhosili, Gower) – 3 km Easy Coastal Hike"
+    }
   }
 }

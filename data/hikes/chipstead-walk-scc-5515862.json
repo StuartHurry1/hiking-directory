@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 5515862
+  },
+  "ai": {
+    "summary": "A gentle 4.4 km hike in the UK suitable for beginners and families, offering easy terrain and open countryside near Chipstead. The walk is relatively flat with occasional gentle ups and downs and plenty of hedgerows and farmland scenery.",
+    "terrain_summary": "Mostly well-defined paths and fields with grassy verges. Expect some muddy sections after rain and a few stiles or gates. Footing is generally even but can be uneven in woodland or along field edges.",
+    "safety_notes": "Check the weather and daylight hours before starting. Wear sturdy footwear and bring appropriate clothing for rain. Stay on public rights of way, close gates behind you, and keep dogs under control where livestock may be present. Carry a map or GPS and a charged phone; in low visibility consider a small flashlight or reflective clothing.",
+    "recommended_gear": [
+      "Good walking shoes or light boots",
+      "Water bottle",
+      "Weather-appropriate outerwear",
+      "Map or GPS device or fully charged phone",
+      "Snacks",
+      "Small first aid kit",
+      "Sun protection in sunny weather"
+    ],
+    "best_seasons": "Spring and autumn offer mild temperatures and pleasant scenery; the route is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Chipstead walk (SCC) – Easy 4.4 km hike in the UK",
+      "meta_description": "Explore an easy 4.4 km Chipstead walk (SCC) in the UK. Ideal for beginners and families, featuring flat to gently rolling countryside, hedgerows, and simple terrain.",
+      "h1": "Chipstead walk (SCC) – Easy 4.4 km hike"
+    }
   }
 }

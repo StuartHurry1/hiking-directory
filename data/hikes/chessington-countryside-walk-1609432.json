@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1609432
+  },
+  "ai": {
+    "summary": "A demanding 23-kilometre countryside hike around Chessington, UK, featuring rural lanes, fields, and hedgerows. The route is long and mostly off-road, with elevation changes and potential muddy sections, best tackled by experienced walkers with solid stamina.",
+    "terrain_summary": "The terrain blends grassy fields, farm tracks, hedged paths, and occasional gravel. Expect uneven ground, mud after rain, short steeper sections, and some road crossings. Stiles and gates are common, and weather can change quickly in the countryside.",
+    "safety_notes": "Plan the route in advance and check the forecast. Wear sturdy boots and dress in layers; carry a map or GPS and a charged phone. Do not hike alone; inform someone of your plans and ETA. Bring ample water and high-energy snacks, a basic first aid kit, blister care, a whistle, and a light source for low visibility. Be prepared for muddy sections and changing conditions, and take care on road crossings and livestock areas.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weather-appropriate clothing (layered, including a waterproof jacket)",
+      "Map and/or GPS device with the route loaded",
+      "Charged mobile phone and a power bank",
+      "Water bottle or hydration system (2 litres recommended)",
+      "High-energy snacks (nuts, dried fruit, bars)",
+      "Hat, sunscreen, and sunglasses",
+      "Small first aid kit and blister care supplies",
+      "Whistle and a lightweight headlamp or torch",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn, with the best conditions in late spring and early autumn when trails are typically dry and temperatures are mild.",
+    "seo": {
+      "title": "Chessington Countryside Walk – 23km Hard Hike in the UK",
+      "meta_description": "Explore a challenging 23 km countryside hike near Chessington, UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this hard trek.",
+      "h1": "Chessington Countryside Walk – 23km Hard Hike in the UK"
+    }
   }
 }

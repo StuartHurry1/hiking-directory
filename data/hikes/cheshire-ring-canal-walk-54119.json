@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 54119
+  },
+  "ai": {
+    "summary": "The Cheshire Ring Canal Walk is a long distance circuit around the Cheshire Ring canal network in the North West of the UK, totaling about 299.1 km. It combines flat towpath walking along historic canals with lock sections, urban stretches and rural scenery. The route demands strong endurance, good navigation, and careful preparation for variable weather.",
+    "terrain_summary": "Primarily flat canal towpaths with frequent surface changes. Expect smooth tarmac and packed earth, plus occasional gravel. You will encounter locks, gates and occasional road crossings. Sections may be exposed to the weather and can be muddy after rain; plan for both urban and rural terrain.",
+    "safety_notes": "Plan daily stage distances and weather conditions. Use a reliable map or GPS and stay on marked paths near water. Be mindful of canal edges, slippery surfaces and busy towpaths with cyclists. Ensure you have daylight hours for each stage and carry a means to contact someone in an emergency. Check local access rules, lock operations and accommodation options ahead of time. Keep hydrated, fed and dressed for cold or wet weather. Tell someone your route and expected finish times.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket",
+      "Warm insulating layer",
+      "Moisture wicking socks",
+      "Sun protection (hat or cap and sunscreen)",
+      "Water bottle or hydration bladder",
+      "High energy snacks and meals",
+      "Lightweight backpack with rain cover",
+      "Navigation tools (map, compass, or GPS device)",
+      "Fully charged mobile phone with offline maps and power bank",
+      "First aid kit",
+      "Headlamp or compact flashlight",
+      "Whistle",
+      "Dry bag or waterproof case for electronics",
+      "Travel towel and spare clothes",
+      "Trekking poles optional for steadier footing"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers longer daylight and milder conditions; winter walking is possible with extra planning and proper clothing.",
+    "seo": {
+      "title": "Cheshire Ring Canal Walk – 299.1 km UK Canal Trek",
+      "meta_description": "Explore the Cheshire Ring Canal Walk, a challenging 299.1 km circuit through the North West UK. Flat towpaths, locks, varied scenery, and practical safety tips and gear for long distance canal walking.",
+      "h1": "Cheshire Ring Canal Walk: A 299.1 km UK Canal Trek"
+    }
   }
 }

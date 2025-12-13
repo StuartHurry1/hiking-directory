@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 164752
+  },
+  "ai": {
+    "summary": "Clarendon Way is a long-distance trail in the UK. The route covers 123.5 km and is rated hard, traversing varied rural landscapes. It’s best tackled as a multi-day trek by experienced hikers who are prepared for changing weather and challenging terrain.",
+    "terrain_summary": "The trail features mixed terrain: chalk downs, farmland, hedgerows, woodlands, and occasional country lanes and minor roads. Expect undulating sections, some steep ascents, and uneven, muddy surfaces especially after rain. Navigation is generally straightforward but be prepared for rural waymarks and occasional junctions.",
+    "safety_notes": "Plan your trip in advance with a detailed map or GPS, check the forecast and daylight hours, and inform someone of your itinerary. Carry adequate food and water, multiple navigation tools, and a fully charged phone. Wear sturdy boots, be prepared for mud and weather changes, and watch for road crossings and livestock gates. In poor conditions, consider shorter day legs or seeking shelter and help if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing and a waterproof, windproof jacket",
+      "Waterproof pants and a breathable mid-layer",
+      "Backpack with rain cover",
+      "Map and compass or a GPS device",
+      "Headlamp or flashlight with spare batteries",
+      "Water bottle and/or hydration system (plan for 2–3 liters per day)",
+      "High-energy snacks and meals for multi-day trekking",
+      "First aid kit and blister care supplies",
+      "Emergency whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency blanket or bivy sack",
+      "Mobile phone with portable charger and offline maps",
+      "Walking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October)",
+    "seo": {
+      "title": "Clarendon Way Hike Guide – UK 123.5 km Hard Trail",
+      "meta_description": "Plan your expedition on the Clarendon Way in the UK. A 123.5 km hard-distance hike with varied terrain, safety tips, gear needs, and best seasons.",
+      "h1": "Clarendon Way – 123.5 km Hard Hike in the UK"
+    }
   }
 }

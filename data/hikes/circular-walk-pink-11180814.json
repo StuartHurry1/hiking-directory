@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11180814
+  },
+  "ai": {
+    "summary": "Circular Walk (Pink) is a short, easy 1.9 km loop in the UK (region not specified) designed for casual walkers and families. The route circles a scenic area with gentle paths and minimal elevation, offering a relaxed outdoor stroll.",
+    "terrain_summary": "Primarily well-maintained footpaths and gravel sections, with occasional grassy detours. Mostly flat with gentle gradients and some shaded sections depending on location.",
+    "safety_notes": "- Wear sturdy footwear with good grip. - Be prepared for changing UK weather; paths can be damp or slippery. - Stay on marked trails and watch for other users on shared sections. - Carry water and a light layer; bring a map or a charged device for navigation. - Supervise children near road crossings or water features.",
+    "recommended_gear": [
+      "Comfortable walking shoes or trainers",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen (seasonal)",
+      "Snack",
+      "Map or offline map on phone"
+    ],
+    "best_seasons": "Spring to autumn for pleasant conditions; the route is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Circular Walk (Pink) – 1.9 km Easy Family-Friendly Circular Walk in the UK",
+      "meta_description": "Explore Circular Walk (Pink), a 1.9 km easy circular route in the UK. Gentle paths, scenic surroundings, perfect for a quick, family-friendly stroll.",
+      "h1": "Circular Walk (Pink) – 1.9 km Easy Circular Route in the UK"
+    }
   }
 }

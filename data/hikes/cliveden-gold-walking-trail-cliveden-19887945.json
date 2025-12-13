@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19887945
+  },
+  "ai": {
+    "summary": "A 12.7 km circular hike around Cliveden estate in Buckinghamshire, combining woodland tracks, riverfront paths and manicured grounds. Moderate difficulty with gentle climbs; typically 3–4 hours at a relaxed pace.",
+    "terrain_summary": "Mostly well-marked gravel trails and woodland footpaths, with occasional grass sections. Expect gentle ascents and a few steps; surfaces are firm but can be muddy after rain.",
+    "safety_notes": "Check National Trust opening status before visiting; stay on marked trails; wear sturdy footwear and weather-appropriate clothing; carry water and snacks; surfaces can be slippery when wet; be mindful of ticks in wooded areas; supervise dogs where allowed and keep them under control; be cautious near river edges.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing and a waterproof jacket",
+      "Small backpack",
+      "Water bottle",
+      "Snacks",
+      "Map or GPS device (or offline map on phone)",
+      "Sun protection (sunscreen, hat)",
+      "Insect repellent",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring and autumn are ideal for scenery and comfortable conditions; the trail is hikeable year-round with appropriate gear.",
+    "seo": {
+      "title": "Cliveden Gold Walking Trail – 12.7 km Moderate Hike in Cliveden, UK",
+      "meta_description": "Discover the Cliveden Gold Walking Trail, a 12.7 km moderate circular hike around Cliveden estate in Buckinghamshire, UK. Terrain insights, safety tips, gear suggestions, and best seasons.",
+      "h1": "Cliveden Gold Walking Trail – 12.7 km Moderate Hike in Cliveden, UK"
+    }
   }
 }

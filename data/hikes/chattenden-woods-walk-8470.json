@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 8470
+  },
+  "ai": {
+    "summary": "Chattenden Woods Walk is a challenging 15.6 km woodland hike in the UK. The route traverses mixed forest, with rolling terrain, several steeper sections, and exposed paths. Expect muddy footing after rain and seasonal changes in scenery as the forest shifts through the year. The hike rewards with dense woodlands, occasional clearings, and potential wildlife sightings.",
+    "terrain_summary": "Terrain combines soft woodland tracks, compact gravel, uneven roots, muddy patches, and short steep ascents. Sections can be slippery when wet. Navigation is generally straightforward on established paths, but the distance and varied surfaces demand good fitness and sturdy footwear.",
+    "safety_notes": "Distance is 15.6 km; allow 4–6 hours depending on pace. Wear sturdy hiking boots and weather-appropriate layers; weather in the UK can change rapidly. Muddy and uneven surfaces, loose stones, and some steep sections require careful footing. Carry water, snacks, a map or offline GPS, and a charged phone. Mobile reception can be patchy in wooded areas. Be aware of ticks and brambles; check yourself after the walk. Let someone know your plan and expected return time; consider shorter alternatives in poor conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system and high-energy snacks",
+      "Map, compass, or offline GPS device",
+      "Fully charged phone (with emergency contacts) and portable power bank",
+      "First-aid kit with basic supplies",
+      "Headlamp or flashlight (in case of early/late departure)",
+      "Trekking poles (optional but helpful on rough sections)",
+      "Insect repellent and sun protection"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions in the UK, though the route remains runnable year-round; expect more mud and reduced daylight in winter.",
+    "seo": {
+      "title": "Chattenden Woods Walk – 15.6 km Hard Forest Hike in the UK",
+      "meta_description": "Tackle the Chattenden Woods Walk, a 15.6 km hard woodland trail in the UK. Discover dense forests, muddy paths, and rewarding views. Plan your hike with safety tips and gear.",
+      "h1": "Chattenden Woods Walk – 15.6 km Hard Woodland Hike (UK)"
+    }
   }
 }

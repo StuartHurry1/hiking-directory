@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15906746
+  },
+  "ai": {
+    "summary": "A very short, easy walk in the UK along a simple, well-used path. At 0.4 km, it’s ideal for a quick, tranquil outing suitable for all ages.",
+    "terrain_summary": "Flat, well-surfaced path, typically paved or compact gravel, with occasional grassy edges. Expect damp patches in wet weather.",
+    "safety_notes": "Stay on the marked path, wear sturdy footwear, and check weather conditions before you go. The route is short but can be slippery when wet. Be mindful of other visitors and cyclists on shared sections. Bring water and a small first aid kit, and carry a mobile phone in case of emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Small backpack",
+      "Phone with maps",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring through autumn",
+    "seo": {
+      "title": "Chapel Pad – Easy 0.4 km Hike in the UK",
+      "meta_description": "Discover Chapel Pad, a short and easy 0.4 km hike in the UK. Flat terrain, beginner-friendly, with safety tips and gear recommendations.",
+      "h1": "Chapel Pad: Easy 0.4 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 4091304
+  },
+  "ai": {
+    "summary": "A challenging 62.8 km stretch of the Cleveland Way in the UK, offering a mix of rugged moorland, woodland trails, and exposed coastal sections. Expect long days, significant elevation changes, and variable weather.",
+    "terrain_summary": "Terrain varies from grassy moorland and rocky paths to forest tracks and coastal cliff sections. Expect uneven footing, boggy patches in upland areas, and steep ascents and descents in places. Coastal segments may require careful footing near tides and cliff edges; navigation is straightforward on the trail but weather can reduce visibility.",
+    "safety_notes": "This is a strenuous hike. Plan for long days and changing weather. Wear sturdy waterproof boots and clothing in layers. Carry a map and compass or a GPS device and know how to use them. Bring sufficient water and high energy food, plus a basic first aid kit and a whistle for emergencies. Check tide times for coastal sections and avoid exposed cliff paths in rough seas. Tell someone your route and expected return time, and have a backup plan to turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof outer shell",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system and extra fluids",
+      "High energy snacks and meals",
+      "Headlamp or compact flashlight with extra batteries",
+      "Basic first aid kit and personal items",
+      "Emergency whistle and space blanket",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Warm layer for the ascent and flexible outerwear",
+      "Lightweight rain pants",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring through autumn (roughly April to October) generally offer the best conditions for this route, with longer daylight and more stable weather. Winter hiking is possible with careful planning for cold, wet, and windy conditions.",
+    "seo": {
+      "title": "Cleveland Way 62.8 km: Hard UK Hike Guide",
+      "meta_description": "Explore the 62.8 km stretch of the Cleveland Way in the UK. Terrain, safety notes, gear lists, and best seasons for a challenging long distance hike.",
+      "h1": "Cleveland Way 62.8 km: A Hard-Distance UK Hike"
+    }
   }
 }

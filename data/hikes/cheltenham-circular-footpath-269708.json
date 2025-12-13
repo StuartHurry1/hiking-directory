@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 269708
+  },
+  "ai": {
+    "summary": "Cheltenham Circular Footpath is a demanding 150.4 km loop in the UK designed for experienced hikers. The route covers varied terrain and requires good navigation, endurance, and careful planning.",
+    "terrain_summary": "The trail traverses country lanes, fields, woodlands and occasional upland sections. Expect uneven ground, mud after rain, and sections with steep ascents or descents. Weather in the UK can change quickly, so be prepared for wind, rain, and sun.",
+    "safety_notes": "Plan the route in advance and inform someone of your itinerary. Carry a map, compass or offline GPS, and a charged phone. Check local permissions and possible closures. Wear sturdy boots and appropriate clothing; bring a waterproof layer. Stay hydrated and carry extra food; consider a portable shelter or space blanket in case of delays. Be cautious on exposed sections, avoid long gaps between services, and start early in winter to maximize daylight.",
+    "recommended_gear": [
+      "Orienteering map and compass or GPS device",
+      "Fully charged mobile phone with offline maps",
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof outer layer",
+      "Water bottles or hydration system with at least 2–3 L",
+      "High-energy food and snacks",
+      "Warm hat and gloves",
+      "Emergency shelter or space blanket",
+      "Headlamp or flashlight with spare batteries",
+      "Compact first aid kit",
+      "Trekking poles (optional but helpful)",
+      "Whistle, sunscreen and insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) is generally best due to longer daylight and drier conditions. Spring and autumn can be wet and muddy; winter walking is possible but demanding and daylight hours are short.",
+    "seo": {
+      "title": "Cheltenham Circular Footpath - 150.4 km Hard Hike in the UK",
+      "meta_description": "Discover the Cheltenham Circular Footpath, a challenging 150.4 km loop in the UK. Learn about terrain, safety, and the gear needed for this hard hike.",
+      "h1": "Cheltenham Circular Footpath Guide"
+    }
   }
 }

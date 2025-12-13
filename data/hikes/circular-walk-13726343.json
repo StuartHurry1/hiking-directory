@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 13726343
+  },
+  "ai": {
+    "summary": "A short, easy circular walk of 0.9 km in the UK, suitable for all ages and abilities. The loop offers flat terrain and a relaxed pace, making it ideal for a quick outdoor outing or a family-friendly stroll.",
+    "terrain_summary": "Flat, well-maintained paths with little to no elevation. Surfaces may be paved or compact gravel; some sections could be uneven or muddy after rain. Depending on the route, you may pass through open greenspace or along gentle roadside sections.",
+    "safety_notes": "Check local conditions and daylight hours before you go. Short, but stay aware of any traffic if the route runs near roads. Wear sturdy footwear and dress for changeable UK weather. Carry a small amount of water, tell someone your plan, and have a charged phone in case of emergencies.",
+    "recommended_gear": [
+      "Comfortable, sturdy walking shoes",
+      "Weather-appropriate clothing (layers; waterproof jacket if rain is forecast)",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack with essentials and optional snacks",
+      "Map or offline navigation on a phone; compact first aid kit (optional)"
+    ],
+    "best_seasons": "Spring to autumn; feasible year-round with appropriate clothing and weather awareness.",
+    "seo": {
+      "title": "Circular Walk (0.9 km) – Easy UK Loop",
+      "meta_description": "Discover a short, easy circular walk of 0.9 km in the UK. Perfect for beginners and families, with flat paths and scenic surroundings. Plan your quick outdoor stroll today.",
+      "h1": "Circular Walk: Easy 0.9 km Loop in the UK"
+    }
   }
 }

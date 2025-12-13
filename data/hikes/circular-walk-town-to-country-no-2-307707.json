@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 307707
+  },
+  "ai": {
+    "summary": "A scenic 10 km circular walk starting in Town and looping into the countryside, designed for hikers with moderate fitness. The route blends urban sections with rural lanes, fields, and gentle climbs, returning to the starting point for a satisfying day outdoors.",
+    "terrain_summary": "Mostly well-defined paths and quiet lanes with some grass sections and gravel tracks. Expect gentle ascents, short muddy patches after rain, and occasional road crossings. Footing is even on most sections, but use sturdy footwear for variable surfaces.",
+    "safety_notes": "Check weather and daylight hours. Some sections run along rural and urban lanes with traffic; wear visible clothing and heed road safety. Bring a map or offline navigation, a charged phone, and a small first-aid kit. Stay hydrated, watch for uneven ground, livestock or closed gates, and plan for changing conditions in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (rain jacket, layers)",
+      "Map or offline navigation app",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Phone with emergency contacts",
+      "Headlamp or flashlight (if finishing near dusk)"
+    ],
+    "best_seasons": "Spring to Autumn for the most comfortable conditions, though the route can be hiked year-round with appropriate clothing and daylight considerations.",
+    "seo": {
+      "title": "Circular Walk Town to Country No 2 – 10 km Moderate Hike in the UK",
+      "meta_description": "Enjoy a 10 km circular hike from Town to Country No 2 in the UK. Moderate terrain with urban and rural sections, best in Spring to Autumn. Plan your day with our quick guide.",
+      "h1": "Circular Walk Town to Country No 2 – 10 km Moderate Hike in the UK"
+    }
   }
 }

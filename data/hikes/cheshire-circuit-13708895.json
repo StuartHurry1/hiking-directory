@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 13708895
+  },
+  "ai": {
+    "summary": "The Cheshire Circuit is a challenging long-distance hike in the UK, about 260.4 km in length. The route offers a hard outing across varied countryside, including fields, hedgerows, woodlands, canal towpaths, and quiet lanes. Expect multi-day trekking with long days, exposure to weather, and the need for careful navigation and pacing.",
+    "terrain_summary": "A mix of surfaces and scenery: rural lanes and hedgerows, farmland tracks, woodland trails, canal towpaths, and occasional gentler upland or exposed sections. Expect mud after rain, uneven footing, and long stretches between resupply points.",
+    "safety_notes": "Plan in advance: tell someone your route and expected schedule. Carry a map and compass or GPS, and know how to use them. Check the forecast and be prepared for rapid weather changes. Pace yourself on long days and stay hydrated; carry sufficient water and high-energy food. Wear sturdy boots and dress in layers; have a waterproof jacket. Stay on official paths, watch for traffic on road sections, and use light signals if visibility is poor. If camping overnight, follow Leave No Trace principles and select legal, safe spots. Carry a whistle, a basic first aid kit, a charged phone with emergency numbers, and a means to charge devices.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable layers plus a warm mid-layer",
+      "Waterproof, windproof outer jacket",
+      "Backpack with capacity for multi-day items (40–50 L)",
+      "Map and compass or GPS device; keep a offline backup",
+      "Water (2–3 L total) and high-energy snacks",
+      "Headlamp with extra batteries",
+      "Emergency bivvy or space blanket",
+      "First aid kit and blister care",
+      "Sun protection: sunscreen, hat, sunglasses",
+      "Trekking poles (optional but helpful)",
+      "Whistle and multipurpose knife",
+      "Mobile phone with offline maps and a portable power bank",
+      "Rain cover for pack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers longer daylight and milder conditions; plan for variability and shorter days in shoulder seasons. Winter hiking is possible with extra planning, shorter days, and greater risk from severe weather.",
+    "seo": {
+      "title": "Cheshire Circuit — 260km Hard-Distance UK Hiking Route",
+      "meta_description": "Plan your Cheshire Circuit trek: a 260km hard-distance hike through varied UK countryside. Terrain, safety tips, gear lists, and best seasons for this challenging circuit.",
+      "h1": "Cheshire Circuit: A 260km Hard UK Hiking Challenge"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 4296039
+  },
+  "ai": {
+    "summary": "A short, easy circular hike in the UK. At 1.2 km, this loop is perfect for beginners, families, or a quick nature break, offering gentle terrain and minimal elevation.",
+    "terrain_summary": "Mostly flat with a few gentle undulations. Surfaces vary from packed gravel and well-made paths to grassy patches. Expect occasional mud after rain and sections with exposed roots.",
+    "safety_notes": "Plan around daylight and weather. Wear sturdy footwear and bring water. Carry a map or phone, stay on marked paths, and supervise children. Be mindful of other pedestrians and cyclists; in low light, avoid the route or carry a light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Layered clothing",
+      "Hat and sunscreen",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn; winter visits are possible with warmer clothing and waterproofs, though mud and icy patches may occur.",
+    "seo": {
+      "title": "Circular Route – Easy 1.2 km Hike in the UK",
+      "meta_description": "Explore a short, family-friendly 1.2 km circular route in the UK. Easy terrain, minimal elevation, and a quick outdoor escape.",
+      "h1": "Circular Route: Easy 1.2 km Loop in the UK"
+    }
   }
 }

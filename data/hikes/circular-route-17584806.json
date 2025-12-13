@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17584806
+  },
+  "ai": {
+    "summary": "Circular Route is an 8.2 km circular hike in the United Kingdom that offers a moderate challenge with varied terrain and pleasant views. Perfect for hikers with some experience looking for a satisfying day on the trail.",
+    "terrain_summary": "The route combines grassy tracks, dirt paths, and short stretches of rocky or stony ground. Expect gentle climbs and descents, with potential muddy sections after rain. The surface is mostly well-defined but can be uneven in places.",
+    "safety_notes": "Check the weather forecast and be prepared for sudden changes common in the UK. Wear sturdy, waterproof hiking boots and dress in layers. Stay on clearly marked paths and watch for uneven or slippery surfaces, especially after rain. Bring a map or GPS, a fully charged phone, and a light source in case you are out near dusk. Carry enough water and snacks, and a small first-aid kit. Let someone know your plan and expected return time. Be mindful of livestock on country paths and seek shelter if thunderstorm or strong winds approach.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Trail map or GPS device",
+      "Small first aid kit",
+      "Snack or energy bars",
+      "Headlamp or flashlight (if you might be out near dusk)",
+      "Sun protection (hat, sunscreen)",
+      "Whistle and emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this 8.2 km moderate route, offering longer daylight and milder conditions. It is doable in winter but requires careful planning for shorter days and potentially icy or muddy surfaces.",
+    "seo": {
+      "title": "Circular Route – 8.2 km Moderate Hike in the UK",
+      "meta_description": "Explore Circular Route, a 8.2 km circular hike in the UK. Moderate terrain, mixed surfaces, and practical safety tips to help plan your day.",
+      "h1": "Circular Route: 8.2 km Moderate Hike in the UK"
+    }
   }
 }

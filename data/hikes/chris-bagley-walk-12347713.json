@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 12347713
+  },
+  "ai": {
+    "summary": "The Chris Bagley Walk is a challenging long-distance hike in the UK, covering 41.7 km. It is designed for experienced hikers and typically requires careful planning, good navigation, and multiple days on the trail. The route traverses varied countryside and can include wet or uneven sections.",
+    "terrain_summary": "Expect a mix of field tracks, woodland paths, and potential boggy moorland with undulating terrain. Footing can be uneven and muddy, especially after rain; occasional rocky stretches may require careful footing and good balance.",
+    "safety_notes": "Plan for variable UK weather and shorter daylight in winter. Carry a detailed map and compass (and know how to use them); tell someone your route and expected finish time; wear sturdy waterproof footwear and bring layered clothing. Bring enough water and high-energy food, a first aid kit, a headlamp, a whistle, and an emergency shelter or space blanket. Check local conditions before starting and be prepared to turn back in poor weather or if fatigue or navigation issues arise.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Map, compass, and GPS (or offline maps)",
+      "Layered clothing and a waterproof jacket",
+      "Warm hat and gloves (for cold conditions)",
+      "Headlamp with extra batteries",
+      "Small first aid kit",
+      "Emergency shelter or space blanket",
+      "Whistle for signaling",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Mobile phone with emergency contacts and offline maps",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October), with the most comfortable conditions often in late spring and early autumn; winter hikes require careful planning due to shorter days and harsher weather.",
+    "seo": {
+      "title": "Chris Bagley Walk – 41.7 km Tough UK Hike",
+      "meta_description": "Plan your trek on the Chris Bagley Walk, a 41.7 km hard-distance hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Chris Bagley Walk: 41.7 km Hard UK Hike"
+    }
   }
 }

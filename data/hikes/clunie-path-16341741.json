@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16341741
+  },
+  "ai": {
+    "summary": "Clunie Path is a challenging 22.7 km hike in the UK, featuring varied terrain, substantial elevation changes, and remote sections. It suits experienced hikers with good fitness and navigation skills, and it rewards perseverance with long-distance scenery. Expect a full-day trek with potentially exposed sections and sections where footing may be uneven.",
+    "terrain_summary": "The route combines rough tracks, grassy moorland, rocky slabs, and boggy or marshy patches. Footing is uneven and can be slippery after rain. Some sections are exposed to wind with open views, and navigation aids (map and compass) are advisable as signage may be sparse in remote parts.",
+    "safety_notes": "This is a hard hike requiring fitness, navigation, and planning. Plan for a full-day or longer; check the weather forecast and daylight hours. Wear sturdy, waterproof footwear and dress in layers; carry a waterproof layer. Bring a map and compass (or a GPS device) and know how to use them. Take enough food and water for the day, and inform someone of your planned route and expected return. Be prepared for changing conditions, boggy ground, and potentially remote sections with limited mobile reception.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating layers (fleece or wool)",
+      "Backpack with enough capacity for food, water, and extra layers",
+      "Water or hydration system (2–3 litres recommended)",
+      "High-energy snacks and meals",
+      "Map and compass (or GPS device) and knowledge of navigation",
+      "Fully charged mobile phone (with offline maps as a backup)",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and personal medications",
+      "Emergency shelter or space blanket",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Extra socks and gloves"
+    ],
+    "best_seasons": "Spring to autumn (April–October) in the UK is ideal due to longer daylight and generally drier conditions. Winter hiking can be hazardous due to storms, ice, and boggy ground; if attempting in winter, it requires advanced preparation and caution.",
+    "seo": {
+      "title": "Clunie Path – a 22.7 km hard hike in the UK",
+      "meta_description": "Plan your climb on Clunie Path, a challenging 22.7 km hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for this long-distance trek.",
+      "h1": "Clunie Path: A 22.7 km Hard Hike in the UK"
+    }
   }
 }

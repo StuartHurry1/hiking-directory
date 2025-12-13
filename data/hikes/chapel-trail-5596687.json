@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 5596687
+  },
+  "ai": {
+    "summary": "Chapel Trail is a short, easy 2.3 km hike in the UK suitable for beginners and families. The route offers a gentle stroll with light elevation changes and scenic countryside views, and it passes by a historic chapel.",
+    "terrain_summary": "Mostly well-maintained paths with gentle gradients. Expect compact gravel, some dirt or grassy sections, and occasional wet or muddy ground after rain. Good footwear with good grip is recommended.",
+    "safety_notes": "Wear sturdy, closed-toe walking shoes; check the weather forecast; bring water and a light layer; stay on marked paths and respect wildlife and any private property nearby; if you have mobility concerns, consider a shorter option or walk with a companion.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket or layered clothing",
+      "Sunscreen and hat (seasonal)",
+      "Map or offline route (or ensure phone has GPS) and a charged phone",
+      "Small first aid kit (optional)"
+    ],
+    "best_seasons": "Spring to autumn for the most comfortable conditions; the trail is walkable year-round, but be prepared for rain and mud in winter.",
+    "seo": {
+      "title": "Chapel Trail - Easy 2.3 km Hike in the UK",
+      "meta_description": "Discover Chapel Trail, a short and easy 2.3 km hike in the UK. Ideal for beginners, with gentle terrain, a historic chapel, and scenic countryside.",
+      "h1": "Chapel Trail – Easy 2.3 km hike in the UK"
+    }
   }
 }

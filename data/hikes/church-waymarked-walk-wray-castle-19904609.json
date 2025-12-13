@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19904609
+  },
+  "ai": {
+    "summary": "A gentle 1.4 km walk near Wray Castle in the UK. The route offers an easy stroll with lake and castle views, suitable for families and casual walkers.",
+    "terrain_summary": "Predominantly flat with a mix of smooth tarmac, gravel paths, and grassy or earth tracks. Some sections can be uneven or muddy after rain; expect a few gentle gradients and occasional gates or stiles. Generally pram-friendly on the smoother parts.",
+    "safety_notes": "- Stay on marked paths and respect private property and wildlife. - Ground can be uneven and muddy in wet weather; wear sturdy footwear. - Be cautious near water and on any exposed lake shore. - Supervise children; keep to public paths and follow local closures. - If combining with a castle visit, check opening hours and accessibility before you go.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layered)",
+      "Water bottle",
+      "Small snack",
+      "Light waterproof jacket or rain shell",
+      "Sunscreen and hat (in sunny weather)",
+      "Map or offline navigation (optional)",
+      "Phone with emergency contact and fully charged battery"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in late spring to early autumn; be prepared for rain and mud in autumn and winter.",
+    "seo": {
+      "title": "Church Waymarked Walk, Wray Castle – Easy 1.4 km Walk in the UK",
+      "meta_description": "Discover the easy 1.4 km Church Waymarked Walk around Wray Castle, Lake District, UK. Flat paths, scenic lake views, and a family-friendly route suitable for casual walkers.",
+      "h1": "Church Waymarked Walk, Wray Castle – Easy 1.4 km Family Walk"
+    }
   }
 }

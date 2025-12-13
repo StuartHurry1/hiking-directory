@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 8489236
+  },
+  "ai": {
+    "summary": "The Chiltern Heritage Trail is a demanding long-distance hike in the UK, stretching about 288.2 km through the chalk hills and rural landscapes of the Chiltern region. With rolling ascents, woodland trails, and historic villages, it offers a challenging multi-day trek for experienced hikers.",
+    "terrain_summary": "Expect rolling chalk hills, woodlands, rural lanes, hedgerows, and occasional ascents and descents. Surfaces vary from well-made paths to rough tracks; sections can be exposed to sun or rain and may include uneven or muddy ground.",
+    "safety_notes": "Plan for multi-day trekking with navigation gear and a map; carry sufficient water and food; check weather and daylight hours; inform someone of your route; watch for livestock and farm traffic; ensure good footwear and an emergency kit; remote sections may have limited cell coverage.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Daypack or backpack 20–40 L",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Map and compass or GPS device",
+      "Water bottles or hydration bladder (2–3 L total)",
+      "Headlamp or flashlight with extra batteries",
+      "Snacks and high-energy foods",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "First-aid kit",
+      "Emergency whistle",
+      "Lightweight rain gear",
+      "Walking poles (optional)",
+      "Power bank and charging cables",
+      "Phone with offline maps",
+      "Personal identification and emergency contact card"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) is ideal for the Chiltern Heritage Trail, offering milder weather, longer daylight, and better trail conditions. Winter hiking is more challenging due to cold, mud, and reduced daylight.",
+    "seo": {
+      "title": "Chiltern Heritage Trail – 288.2 km Hard Hike in the UK",
+      "meta_description": "Discover the Chiltern Heritage Trail, a 288.2 km hard-distance trek through the chalk hills of the UK. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Chiltern Heritage Trail: A 288.2 km Hard Hike in the UK"
+    }
   }
 }

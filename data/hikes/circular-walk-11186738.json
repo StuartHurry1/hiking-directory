@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11186738
+  },
+  "ai": {
+    "summary": "A 6 km circular walk in the UK designed for walkers with moderate fitness. The route forms a loop, starting and finishing at the same point, with varied terrain and gentle elevation changes.",
+    "terrain_summary": "Mostly well-marked footpaths with a mix of grassy tracks, gravel, and some uneven ground. Expect damp sections after rain and mild ascents; good footwear recommended.",
+    "safety_notes": "Check weather and daylight hours before you set out. Wear sturdy footwear and a waterproof layer. Bring water, a map or GPS, and a means to contact others. Stay on public paths, watch for hazards like muddy patches and uneven ground, and be cautious near livestock and water bodies. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (waterproof jacket and an extra layer)",
+      "Map or GPS device",
+      "Snacks",
+      "Hat and sunscreen",
+      "Phone with emergency contacts",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring and autumn offer comfortable temperatures and pleasant scenery. Summer can be suitable with longer daylight, while winter walks may be colder and wetter with shorter daylight hours.",
+    "seo": {
+      "title": "Circular Walk – 6 km Moderate UK Hiking Route",
+      "meta_description": "Discover a 6 km circular walk in the UK suitable for hikers with moderate fitness. Learn about terrain, safety tips, gear, and best seasons.",
+      "h1": "Circular Walk: 6 km Moderate Hike in the UK"
+    }
   }
 }

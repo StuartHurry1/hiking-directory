@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19280102
+  },
+  "ai": {
+    "summary": "An easy 5.1 km heritage walk in the UK suitable for families and casual walkers. The route offers gentle terrain, scenic views, and opportunities to explore local history and points of interest along the way.",
+    "terrain_summary": "Mostly flat to gently undulating paths, combining well-maintained footpaths with small grassy or unpaved sections. Expect some uneven ground and potential mud after rain. Some sections may run alongside quiet roads or coastal areas; stay on marked paths and watch footing in damp conditions.",
+    "safety_notes": "Check the weather forecast and daylight hours before setting out; wear sturdy, waterproof footwear and bring a waterproof layer; stay on marked paths and be mindful of uneven ground and mud; supervise children; if near water or coast, watch for tides and changing water levels; carry a map or GPS, a charged phone, water, and a small first aid kit; practice Leave No Trace and respect any heritage sites.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Hat and sunscreen",
+      "Map, compass or GPS, and a charged phone",
+      "Small first aid kit",
+      "Reusable water bottle"
+    ],
+    "best_seasons": "Spring to Autumn (April–October) is ideal due to milder weather and longer daylight; the route can be enjoyed year-round with proper clothing and planning.",
+    "seo": {
+      "title": "Cley Heritage Walk – Easy 5.1 km Heritage Trail in the UK",
+      "meta_description": "Explore the 5.1 km Cley Heritage Walk, an easy, family-friendly route through local heritage sites in the UK. Practical tips on terrain, safety, gear, and the best seasons.",
+      "h1": "Cley Heritage Walk – Easy 5.1 km Heritage Trail"
+    }
   }
 }

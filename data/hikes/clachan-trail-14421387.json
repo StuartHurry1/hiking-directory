@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14421387
+  },
+  "ai": {
+    "summary": "Clachan Trail is a short, easy 3.2 km walk in the UK, suitable for beginners and families. The route offers a relaxed pace with gentle elevation and pleasant surroundings.",
+    "terrain_summary": "The trail follows a well-defined footpath that is mostly flat with gentle ups and downs. Surfaces are typically a mix of compact gravel and grassy sections; conditions are generally dry but can become muddy after rain. Some segments may be exposed to wind or sun.",
+    "safety_notes": "Weather in the UK can change quickly. Check the forecast before leaving. Wear sturdy, waterproof walking shoes with good grip. Bring a light rain jacket and a warm layer. Stay on the marked path, watch for uneven ground and slippery leaves, and supervise children and pets. Carry water and a basic map or offline navigation in case of poor signal.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layering)",
+      "Water bottle",
+      "Light rain jacket",
+      "Small backpack for essentials",
+      "Map or offline navigation (or downloaded route)",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions in the UK; the trail can be enjoyed year-round with proper layers and caution on muddy or icy sections.",
+    "seo": {
+      "title": "Clachan Trail — Easy 3.2 km Hike in the UK",
+      "meta_description": "Explore the 3.2 km Clachan Trail in the UK. An easy, family-friendly hike with gentle terrain, safety tips, and gear recommendations.",
+      "h1": "Clachan Trail: Easy 3.2 km Hike in the UK"
+    }
   }
 }

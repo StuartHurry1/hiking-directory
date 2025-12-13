@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19534458
+  },
+  "ai": {
+    "summary": "A scenic 8.3 km woodland loop near Chirk Castle in the UK. This moderate hike follows established forest paths, with gentle gradients and shaded sections, suitable for hikers with some experience.",
+    "terrain_summary": "Forest tracks and woodland paths with uneven surfaces, exposed roots, and occasional mud, especially after rain. Expect gentle elevation changes, shaded stretches, and footing on damp ground.",
+    "safety_notes": "Plan ahead and check the weather. Wear sturdy hiking boots and clothing suitable for changing conditions. Carry a map or GPS, and stay on official paths. Respect private property and castle grounds; follow public footpath signs. Bring water and snacks, a sun hat and sunscreen in sunny weather, and insect repellent. In winter or poor light, allow extra time as daylight is shorter and trails can be slippery. Be mindful of other trail users, and have a means of communication in areas with poor mobile signal.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Water bottle and snacks",
+      "Map, compass or GPS (or a charged phone with offline map)",
+      "Small backpack",
+      "Sun protection (hat and sunscreen) and insect repellent",
+      "Headlamp or flashlight (in case of delays or late finish)",
+      "Spare socks"
+    ],
+    "best_seasons": "Spring to autumn are ideal; hiking is possible year-round with proper gear, but trails are typically driest and most enjoyable from late spring to early autumn.",
+    "seo": {
+      "title": "Chirk Castle Woodland Walk – 8.3 km Moderate Trail in the UK",
+      "meta_description": "Discover an 8.3 km woodland loop around Chirk Castle in the UK. A moderate, scenic hike through shaded forests with practical tips, gear, and safety notes.",
+      "h1": "Chirk Castle Woodland Walk (8.3 km) – Moderate Trail in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 307708
+  },
+  "ai": {
+    "summary": "A short, easy circular walk in the UK, totaling about 2.8 km. Suitable for beginners and families, with flat or gently rolling terrain and pleasant countryside scenery.",
+    "terrain_summary": "Easy route on mostly even surfaces. Expect a mix of compact paths and grassy sections; gentle gradients are possible.",
+    "safety_notes": "Check the weather forecast and daylight hours before you set off. Wear sturdy, comfortable walking shoes. Stay on designated paths and respect livestock and other walkers. Bring water and a light snack. Carry a charged phone and a basic first aid kit. In rural areas be aware of limited mobile signal; if walking alone, inform someone of your plan. For winter outings, be prepared for cold and slippery surfaces.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light waterproof boots",
+      "Water bottle",
+      "Light rain jacket or windproof layer",
+      "Sunscreen, hat, and sunglasses",
+      "Map, guidebook, or offline GPS",
+      "Snacks or energy bar",
+      "Small first aid kit",
+      "Phone with charge or portable charger"
+    ],
+    "best_seasons": "All year round, with clothing and footwear appropriate for UK weather.",
+    "seo": {
+      "title": "Circular Walk - 2.8 km Easy Loop in the UK",
+      "meta_description": "Discover a short, easy circular walk in the UK covering 2.8 km. Perfect for beginners and families, with practical safety tips and gear suggestions.",
+      "h1": "Circular Walk – 2.8 km Easy Loop"
+    }
   }
 }

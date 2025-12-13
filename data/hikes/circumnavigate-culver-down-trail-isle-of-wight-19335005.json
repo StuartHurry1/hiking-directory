@@ -20,5 +20,27 @@
   "source": {
     "type": "osm",
     "osmId": 19335005
+  },
+  "ai": {
+    "summary": "Circumnavigate Culver Down Trail is a scenic 9 km loop around Culver Down on the Isle of Wight, offering coastal ridges, chalk downland, and expansive sea views. Moderate difficulty with exposed sections and uneven surfaces.",
+    "terrain_summary": "Ridgetop and coastal paths across chalk downland with sections of loose gravel and steps. Expect exposed viewpoints over the sea and occasional steep drops near cliff edges. Footing can be uneven, particularly after rain; waterproof boots recommended.",
+    "safety_notes": "- The route includes exposed ridge sections with potential strong winds; keep away from cliff edges and supervise children or dogs. - Paths can be slippery when wet; wear sturdy footwear and dress in layers. - Weather on the downs can change quickly; bring a waterproof and warm layer. - Mobile signal may be limited in rural sections; carry a map and compass as backups. - Stay on marked trails and be mindful of others on the path; plan for daylight hours, especially in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Layered clothing and a waterproof jacket",
+      "Map and compass (and a charged GPS as backup)",
+      "Water bottle or hydration system (2 litres if possible)",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Energy snacks or a light lunch",
+      "Small first aid kit",
+      "Lightweight daypack",
+      "Phone with portable power bank and offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and clearer coastal views; summer provides the longest daylight; winter can be windy and wet with shorter daylight hours.",
+    "seo": {
+      "title": "Circumnavigate Culver Down Trail – 9 km Coastal Ridge Walk on the Isle of Wight, UK",
+      "meta_description": "Explore a scenic 9 km circumnavigation of Culver Down on the Isle of Wight. Coastal ridges, dramatic sea views, moderate terrain, safety tips, and gear recommendations for this UK hike.",
+      "h1": "Circumnavigate Culver Down Trail (Isle of Wight) – 9 km Coastal Ridge Walk"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2822709
+  },
+  "ai": {
+    "summary": "Church Walk is a gentle 4.5 km stroll through scenic lanes and quiet churchyards in the UK. With an easy difficulty, it’s suitable for families, casual walkers, and visitors seeking a relaxed, contemplative outing.",
+    "terrain_summary": "The route is mostly flat with well-maintained paths, village lanes, and short grassy sections. Expect a few gentle slopes and occasional uneven surfaces after rain; sturdy walking shoes are advised. Some stretches may be muddy in wet conditions.",
+    "safety_notes": "Bring water and a light layer for changing weather. Watch for traffic on shared lanes near villages and be mindful of any crowds around churches or churchyards. Stay on designated paths, mind uneven paving stones, and respect private property and sensitive sites. If weather turns, turn back and avoid exposed areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof layer",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS device",
+      "Phone with emergency contacts",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions with dry paths and pleasant weather; winter walks are possible with appropriate footwear and extra care.",
+    "seo": {
+      "title": "Church Walk - Easy 4.5 km Hike in the UK",
+      "meta_description": "Discover a gentle 4.5 km Church Walk in the UK. An easy, family-friendly route with quiet lanes and churchyard views—plan your next relaxed day out.",
+      "h1": "Church Walk (4.5 km) – Easy UK Hike"
+    }
   }
 }

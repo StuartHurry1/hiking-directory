@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13724571
+  },
+  "ai": {
+    "summary": "Circular Walk is a 12.4 km loop in the UK offering a moderate challenge through countryside scenery. The route mixes hedged lanes, grassy paths and rural tracks, making for a rewarding, accessible circuit for hikers with some experience.",
+    "terrain_summary": "Mostly mixed terrain including compacted paths, grassy field edges, gentle climbs and steps. Expect occasional mud after rain and a few stiles or gates to pass through.",
+    "safety_notes": "Check weather forecast and wear appropriate footwear. Bring a map and compass or GPS, plus a phone. Stay on marked paths, watch for livestock and road crossings, and plan for daylight hours. Carry water, snacks and a small first aid kit. If conditions are wet or icy, adjust pace and consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots or waterproof footwear",
+      "Water bottle or hydration system",
+      "Layered clothing plus a waterproof outer shell",
+      "Map and/or GPS device (or fully charged phone with offline maps)",
+      "Snacks or energy bars",
+      "Hat, sunglasses and sunscreen",
+      "Light first aid kit",
+      "Headlamp or flashlight (for low light)"
+    ],
+    "best_seasons": "Spring to Autumn; typically drier and more comfortable for walking, though the route is doable in milder winter conditions with proper gear.",
+    "seo": {
+      "title": "Circular Walk – 12.4 km Moderate Hike in the UK",
+      "meta_description": "Discover a 12.4 km circular walk in the UK. Moderate difficulty, varied terrain, practical safety tips, a gear checklist, and the best seasons for this scenic loop.",
+      "h1": "Circular Walk: A 12.4 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18209034
+  },
+  "ai": {
+    "summary": "A 14.3 km circular walk in the UK with moderate difficulty, the Claxton Circular offers a varied, scenic route that suits walkers with some experience and returns to the starting point.",
+    "terrain_summary": "The route features a mix of well-defined paths, grassy field edges, woodland tracks, and occasional stiles. Expect gentle ascents and descents, uneven ground, and potential mud after rain. Footing can vary, so sturdy boots and careful footing are advised.",
+    "safety_notes": "Plan for changeable weather and daylight; carry a map and compass or GPS; stay on public rights of way and respect gates and fences; be mindful of livestock; check local conditions for ground wetness and weather; bring ample water and snacks; inform someone of your route and expected return; mobile signal may be limited in remote sections; carry a basic first aid kit and an emergency whistle.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Map and compass or GPS device",
+      "Water and snacks",
+      "Extra layers (fleece/jacket)",
+      "Hat and gloves (seasonal)",
+      "Emergency whistle and basic first aid kit",
+      "Headtorch (for low light conditions)"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the most pleasant conditions; summer provides longer daylight but can be busier; winter may present more challenging conditions and mud.",
+    "seo": {
+      "title": "Claxton Circular – 14.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Claxton Circular, a 14.3 km moderate circular walk in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Claxton Circular: 14.3 km Moderate UK Hike"
+    }
   }
 }

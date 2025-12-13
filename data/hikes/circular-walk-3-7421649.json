@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 7421649
+  },
+  "ai": {
+    "summary": "Circular Walk 3 is a short, easy 4.5 km loop in the UK, suitable for beginners and families. The route offers light countryside scenery and a complete circuit that returns to the starting point.",
+    "terrain_summary": "Predominantly well-maintained paths with a mix of gravel and grassy sections. Gentle gradients and mostly flat terrain; expect a few damp patches after rain. Footwear with good grip is recommended.",
+    "safety_notes": "Check the weather and daylight before you go. Wear sturdy, comfortable shoes and bring water. Stay on marked paths, watch for livestock where applicable, and be cautious on wet or uneven surfaces. Carry a simple map or offline GPS and know your emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Small snack",
+      "Map or offline GPS",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "All year, with the best conditions typically in spring and autumn when paths are dry and daylight is longer.",
+    "seo": {
+      "title": "Circular Walk 3: Easy 4.5 km Loop in the UK",
+      "meta_description": "Discover Circular Walk 3, an easy 4.5 km loop in the UK. Perfect for beginners and families, with gentle terrain, seasonal tips, and safety essentials.",
+      "h1": "Circular Walk 3 – Easy 4.5 km Circular Walk in the UK"
+    }
   }
 }

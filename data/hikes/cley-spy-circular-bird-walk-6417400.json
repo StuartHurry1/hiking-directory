@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 6417400
+  },
+  "ai": {
+    "summary": "A 13.2 km circular hike blending coastal marshland, boardwalks, and wildlife hides around Cley Spy, offering excellent birdwatching along the Norfolk coast.",
+    "terrain_summary": "Mostly flat with a mix of gravel paths, wooden boardwalks over marsh, and grassy tracks. Expect soft, muddy ground after rain and occasional exposed coastal sections.",
+    "safety_notes": "Check weather and tide times before setting out. Wear sturdy waterproof footwear and windproof clothing. The route includes marshboardwalks and exposed coastal sections; some paths can be muddy and slippery. Carry water and snacks, a map or GPS, and a small first-aid kit. Be mindful of other walkers and wildlife; stay on paths and supervise children. If visibility is poor or sea spray is high, seek shelter in a bird hide and avoid high-tide areas.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Weather-appropriate clothing (layers and windproof jacket)",
+      "Water and snacks",
+      "Hat and sunglasses",
+      "Binoculars and camera for wildlife",
+      "Small first-aid kit",
+      "Map, compass or GPS device",
+      "Insect repellent (seasonal)",
+      "Dry bag or waterproof case for electronics"
+    ],
+    "best_seasons": "Spring and autumn are ideal for birding, but the route can be enjoyed year-round.",
+    "seo": {
+      "title": "Cley Spy Circular Bird Walk - 13.2 km Coastal Wildlife Walk in Norfolk, UK",
+      "meta_description": "Explore the Cley Spy Circular Bird Walk, a 13.2 km moderate coastal circuit near Cley, Norfolk. Enjoy marshboardwalks, hides and abundant birdlife along the Norfolk coast.",
+      "h1": "Cley Spy Circular Bird Walk"
+    }
   }
 }

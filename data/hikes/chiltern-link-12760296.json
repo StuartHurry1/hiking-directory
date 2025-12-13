@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 12760296
+  },
+  "ai": {
+    "summary": "A demanding 48.4 km long-distance hike in the UK, challenging the legs with varied countryside along the Chiltern landscape. Suitable for experienced hikers prepared for long distances and changing weather.",
+    "terrain_summary": "Long trail with mixed terrain including rural farmland, woodland, and occasional gentle climbs. Expect uneven paths, some mud, and gated or stiles; several road crossings may be required.",
+    "safety_notes": "Hard distance and variable UK weather require solid navigation and fitness. Plan for sufficient daylight, water, and food. Carry a map and compass, a fully charged phone, and a basic first-aid kit. Inform someone of your route and expected finish. Be prepared for muddy or slippery sections and sudden weather changes.",
+    "recommended_gear": [
+      "Good quality walking boots or trail shoes",
+      "Water bottle or hydration system (2–3 litres)",
+      "Weather-appropriate layers and waterproof jacket",
+      "Map and compass (and/or GPS device)",
+      "Small first-aid kit and emergency whistle",
+      "Headlamp or flashlight",
+      "Snacks and high-energy foods",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Lightweight emergency bivy or space blanket",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn generally offer comfortable temperatures and improved trail conditions; summer is possible with longer daylight but can be hot, and winter hikes are challenging due to weather and shorter days.",
+    "seo": {
+      "title": "Chiltern Link – 48.4 km Hard Hike in the UK",
+      "meta_description": "Discover the 48.4 km Chiltern Link, a challenging long-distance hike in the UK. Get terrain, safety tips, gear suggestions, and best seasons.",
+      "h1": "Chiltern Link: 48.4 km Hard Hike in the UK"
+    }
   }
 }

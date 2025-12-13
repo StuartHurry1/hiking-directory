@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 16052471
+  },
+  "ai": {
+    "summary": "Christchurch Bay Way is a 16.7 km coastal hiking route along the UK coastline. The hike offers expansive sea views, beaches and cliff-top sections, and is rated hard due to long distance, varied terrain and exposure. It suits experienced hikers with good fitness who are prepared for changing coastal conditions. Region: Unknown region; UK coast.",
+    "terrain_summary": "Predominantly coastal terrain with a mix of shingle beaches, rocky/pebbly sections, quiet inland paths, boardwalks and cliff-top trails. Expect uneven footing, possible mud, wind exposure along the shore, and occasional steep ascents or descents.",
+    "safety_notes": "Check tide times and avoid beach crossings at high tide. Wear sturdy, grippy footwear and weather-appropriate clothing; pack waterproof layers. Stay on marked paths, keep a safe distance from cliff edges, and be prepared for strong coastal winds. Carry a map or GPS, a charged phone, a whistle, sufficient water and snacks, and inform someone of your plan; start with ample daylight; avoid this route in poor visibility or severe weather.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate waterproof jacket and layers",
+      "Backpack with water and snacks",
+      "Map and compass or offline GPS",
+      "Mobile phone with full battery and power bank",
+      "Hat, sunglasses, sunscreen",
+      "Lightweight emergency whistle",
+      "First aid kit and basic repair kit",
+      "Thermal layers or extra clothing for wind chill",
+      "Headlamp or flashlight (for extended daylight variance)"
+    ],
+    "best_seasons": "Late spring to early autumn; mild coastal conditions and longer daylight, though weather can still be changeable and windy.",
+    "seo": {
+      "title": "Christchurch Bay Way — 16.7 km UK Coastal Hike (Hard)",
+      "meta_description": "Discover Christchurch Bay Way, a 16.7 km challenging coastal hike in the UK. Learn about the terrain, safety tips, gear, and the best seasons for this rugged coastal route.",
+      "h1": "Christchurch Bay Way: A 16.7 km UK Coastal Hike (Hard)"
+    }
   }
 }

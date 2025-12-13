@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2899055
+  },
+  "ai": {
+    "summary": "A demanding 50.1 km hike through varied UK countryside along the Churnet Valley. The route blends quiet river paths, farmland tracks, and exposed sections, with several ascents and long, uneven stretches. Suitable for experienced hikers with strong endurance, ideally split into two or more days or tackled as long single-day sections with careful planning.",
+    "terrain_summary": "Mixed terrain including riverbank trails, rural footpaths, woodland tracks, and short asphalt sections. Expect uneven, sometimes rocky surfaces and muddy stretches after rain, with notable elevation gain on several segments. Navigation is generally straightforward, but carrying a map and compass or GPS is advised in unknown stretches.",
+    "safety_notes": "This long, hard hike (50.1 km) requires careful planning. Check the forecast, start early, and be prepared for sudden weather changes. Wear sturdy waterproof boots and layered clothing; carry navigation tools (map/compass or GPS), a charged phone, and sufficient water and high-energy food. A small first-aid kit, an emergency space blanket, and a means of communication with others are recommended. Inform someone of your route and expected finish time. Be mindful of mud, livestock, and occasional road sections; follow Leave No Trace and local access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing plus a waterproof outer layer",
+      "Map and compass or GPS device",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "Small first-aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency bivy or space blanket",
+      "Sun protection (hat, sunscreen)",
+      "Phone with portable power bank"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) offer the best conditions in the UK, with milder weather and longer daylight. Summer can be hot and busier; winter hikes are more challenging due to mud, reduced daylight, and weather volatility.",
+    "seo": {
+      "title": "Churnet Way: 50.1 km Hard Hike in the UK",
+      "meta_description": "Discover the Churnet Way, a challenging 50.1 km route in the UK. Learn about terrain, safety, gear, and the best seasons to hike this demanding trail.",
+      "h1": "Churnet Way — 50.1 km Hard Hike in the UK"
+    }
   }
 }

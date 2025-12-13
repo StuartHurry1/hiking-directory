@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18209126
+  },
+  "ai": {
+    "summary": "A tough 18.8 km circular hike in the UK, starting and finishing near Chedgrave. The route traverses mixed farmland and countryside, demanding good stamina and navigational ability from experienced walkers.",
+    "terrain_summary": "The loop combines long stretches of field paths, hedgerows, occasional stiles, muddy tracks and some firmer surface sections. Expect uneven ground, gradual climbs and potential boggy patches after rain. Navigation skills are helpful as line-of-sight can be broken by hedges and gullies.",
+    "safety_notes": "This is a long, hard route requiring planning and preparation. Carry a map and compass (and a charged phone as backup), stay hydrated, and bring sufficient food. Check the weather and daylight hours, wear sturdy boots, and be prepared for mud, livestock gates, and changing terrain. Let someone know your plan and turn back if the weather deteriorates or visibility drops.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered, weather-appropriate clothing (including waterproof shell)",
+      "Water and high-energy snacks",
+      "Map and compass (and GPS as backup)",
+      "Fully charged mobile phone with offline maps",
+      "Lightweight headtorch or flashlight",
+      "First aid kit",
+      "Walking poles (optional but helpful on uneven ground)",
+      "Emergency whistle",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Spring to autumn, with longer daylight hours and generally drier conditions. Winter hikes are possible but can be very muddy and exposed; plan for shorter days and harsher weather.",
+    "seo": {
+      "title": "Chedgrave Circular – 18.8 km Hard Hike in the UK",
+      "meta_description": "Discover the Chedgrave Circular, an 18.8 km challenging UK hike featuring varied countryside, practical safety tips, and gear lists for experienced walkers.",
+      "h1": "Chedgrave Circular: 18.8 km Hard Hike in the UK"
+    }
   }
 }

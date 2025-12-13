@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15480615
+  },
+  "ai": {
+    "summary": "Churnet Trail is a short, easy 0.8 km hike in the UK suitable for beginners and families. The route offers a gentle stroll with minimal elevation change, making it a quick option for a relaxed outdoor outing.",
+    "terrain_summary": "The trail consists of a mostly flat or gently undulating track, typically a compacted earth or gravel surface. Expect occasional roots or small uneven patches.",
+    "safety_notes": "Always check the weather before you go. Wear sturdy footwear and bring a light layer. Stay on the marked path, watch for uneven ground or roots, and supervise children. Bring water, and carry a charged phone for emergencies. If walking with dogs, keep them under control and on a leash where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Light rain jacket",
+      "Sunscreen / hat (seasonal)",
+      "Map or offline navigation (optional)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn; generally best from April to October, though conditions vary.",
+    "seo": {
+      "title": "Churnet Trail – Easy 0.8 km hike in the UK",
+      "meta_description": "Explore the Churnet Trail, a short 0.8 km easy hike in the UK. Perfect for beginners and families seeking a quick, gentle outdoor walk with practical safety and gear tips.",
+      "h1": "Churnet Trail – Easy 0.8 km walk in the UK"
+    }
   }
 }

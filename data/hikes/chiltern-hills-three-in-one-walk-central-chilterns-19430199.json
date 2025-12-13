@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 19430199
+  },
+  "ai": {
+    "summary": "Chiltern Hills Three-in-One walk, Central Chilterns is a hard, long-distance circuit in the UK that combines three routes into a single 39.7 km trek across chalk downland, woodlands and farmland, featuring several steep ascents and exposed sections.",
+    "terrain_summary": "The route traverses chalk downland along the Chiltern escarpment, with a mix of grassy ridges, woodland trails, hedgerows and farmland. Expect uneven footing, stiles and gates, and varying surfaces including rocky and muddy stretches. The terrain includes long climbs and descents and can be exposed in places; weather and footing may change with the seasons.",
+    "safety_notes": "Plan as a long day or split the hike into two stages. Check the forecast, as UK weather can shift quickly. Wear sturdy footwear and dress in layered, weather-appropriate clothing. Bring ample water (2–3 L) and high-energy foods. Carry a map and compass or GPS, and know how to use them; mobile signal may be patchy. Start early to ensure daylight and carry a headlamp as a backup. Stay on marked paths; watch for stiles and gates. Be mindful of exposure on ridges and ticks in woodland; use sun protection and insect repellent. Inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing plus waterproof outer layer",
+      "Backpack (20–40 L) with space for layers, water and food",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy snacks and meals",
+      "Topographic map and compass (or GPS) and knowledge to use them",
+      "Phone with offline maps and a portable power bank",
+      "Emergency whistle",
+      "First aid kit",
+      "Sun protection: sunscreen and sunglasses",
+      "Headlamp or flashlight with spare batteries",
+      "Rain cover or pack liner",
+      "Walking poles (optional but helpful for long ascents)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (late spring to early autumn)",
+    "seo": {
+      "title": "Chiltern Hills Three-in-One Walk – Central Chilterns (39.7 km, Hard)",
+      "meta_description": "Explore the challenging 39.7 km Chiltern Hills Three-in-One walk in Central Chilterns, UK. A hard hike across chalk downs, woodlands and farmland with practical safety tips and gear.",
+      "h1": "Chiltern Hills Three-in-One Walk – Central Chilterns"
+    }
   }
 }

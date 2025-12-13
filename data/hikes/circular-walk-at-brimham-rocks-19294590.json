@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19294590
+  },
+  "ai": {
+    "summary": "A short, scenic circular walk around Brimham Rocks, a dramatic outcrop of gritstone in North Yorkshire. At about 3.5 km, the easy route is suitable for families and casual walkers, delivering dramatic rock formations and open countryside views.",
+    "terrain_summary": "Mostly grassy and compact paths with some rocky sections along the rocks. Expect uneven surfaces, exposed rock ledges, and a few steps. Can be muddy after rain; good footwear recommended.",
+    "safety_notes": "Stay on marked paths and avoid climbing on the rock formations. Be mindful of loose stones and uneven ground, especially near the rock stacks. Weather can change quickly; bring waterproofs and warm clothing. Supervise children and keep pets under control. Take care on narrow/steep sections and watch for other walkers.",
+    "recommended_gear": [
+      "Sturdy walking boots with good grip",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered, waterproof if rain is forecast)",
+      "Sun protection (hat, sunscreen)",
+      "Map, guidebook, or GPS device",
+      "A small first aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for drier paths and longer daylight; the route can be walked year-round, but winter conditions may be muddy, icy, and more exposed.",
+    "seo": {
+      "title": "Circular Walk at Brimham Rocks – Easy 3.5km Hike in North Yorkshire, UK",
+      "meta_description": "Discover Brimham Rocks on a 3.5km circular hike. An easy route through striking gritstone formations in North Yorkshire, ideal for families and casual walkers.",
+      "h1": "Circular Walk at Brimham Rocks – 3.5km Easy Hike"
+    }
   }
 }

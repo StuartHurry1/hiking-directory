@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11318591
+  },
+  "ai": {
+    "summary": "A gentle 1.7 km circular stroll along a section of the Darent Valley Path D in the UK. The easy route is suitable for families and casual walkers, weaving through riverside habitats, fields, and quiet lanes with minimal elevation gain.",
+    "terrain_summary": "Mostly flat to gently undulating footpaths. Expect a mix of paved paths, gravel, and grassy tracks. After rain, some sections may be muddy or slippery.",
+    "safety_notes": "- Wear sturdy footwear and weather-appropriate clothing. - Stay on public rights of way and respect private land. - Carry a map or GPS and a charged phone. - Be aware of other users (runners, cyclists) on shared paths. - Keep children and pets supervised, and beware near the riverbanks.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing and a light waterproof layer",
+      "Water bottle and some snacks",
+      "Small backpack to carry essentials",
+      "Map, guidebook, or charged phone with offline maps",
+      "Sun protection (hat, sunscreen) in sunny weather"
+    ],
+    "best_seasons": "Year-round, with best conditions in spring to autumn; in winter expect mud and reduced daylight.",
+    "seo": {
+      "title": "Circular Walk from Darent Valley Path D — 1.7 km Easy Hike in the UK",
+      "meta_description": "Explore a short and easy 1.7 km circular trail along Darent Valley Path D in the UK. Perfect for a quick family-friendly stroll with varied scenery and minimal elevation.",
+      "h1": "Circular Walk from Darent Valley Path D (1.7 km, Easy)"
+    }
   }
 }

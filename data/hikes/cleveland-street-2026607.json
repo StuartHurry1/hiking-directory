@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 2026607
+  },
+  "ai": {
+    "summary": "An urban-to-suburban long-distance route in the UK following Cleveland Street and connected streets for a total distance of 32.3 km. The hike is rated hard due to its length, continuous street crossings, and variable terrain. It suits experienced walkers seeking a full-day challenge and opportunities to explore diverse city neighborhoods, parks, and riverside paths.",
+    "terrain_summary": "Primarily urban pavement with mixed surfaces including pavement, compact trails, and park paths. Expect frequent street crossings, gentle elevation changes in some sections, and occasional stair or curb navigations. Some sections may be wet after rain.",
+    "safety_notes": "Check weather forecast and daylight hours before starting. Wear high-visibility clothing and sturdy footwear. Carry a detailed map or offline navigation and a charged phone. Plan for rest stops and hydration; bring 1.5–2 liters of water and energy snacks. Stay on designated paths, obey pedestrian rules, and be aware of busy traffic and cyclists in urban stretches. Let someone know your route and expected finish time. In an emergency, call 999 (UK). If you get lost, seek help in busy areas or public transport hubs.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate layers (breathable base, insulating mid-layer, waterproof outer layer)",
+      "Lightweight daypack",
+      "Water bottle or hydration bladder (1.5–2 liters)",
+      "High-energy snacks",
+      "Map and compass or GPS device (with offline maps)",
+      "Phone charger or power bank",
+      "Headlamp or small flashlight",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)",
+      "High-visibility vest or reflective gear",
+      "Emergency whistle",
+      "Rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are best for this route. Summer offers long days but can be hot; winter presents shorter daylight hours and potentially more challenging conditions. Plan around daylight and weather.",
+    "seo": {
+      "title": "Cleveland Street Walk – 32.3 km Hard Hike in the UK",
+      "meta_description": "Discover the 32.3 km Cleveland Street hike in the UK. A challenging, long-distance urban route with varied terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "Cleveland Street Walk – 32.3 km, Hard"
+    }
   }
 }

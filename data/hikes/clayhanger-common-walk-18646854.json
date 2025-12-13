@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18646854
+  },
+  "ai": {
+    "summary": "Clayhanger Common Walk is a gentle 5.7 km route in the UK designed for beginners and families. The trail traverses common land with mostly flat, grassy trails and occasional gates; expect a peaceful countryside stroll with potential mud after rain.",
+    "terrain_summary": "Mostly flat, well-defined grassy and compacted earth paths across common land. Some muddy patches after rain; gates and occasional stiles may be present; footing is generally easy.",
+    "safety_notes": "Check local weather and daylight hours before setting out, as UK conditions can change quickly. Wear sturdy waterproof footwear and dress in layers. Stay on marked paths, close gates after passage, and respect livestock. Bring a map or GPS, sufficient water, a small first aid kit, and a phone with emergency numbers. Be mindful of dogs and children, and be prepared for sudden changes in terrain after rain.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Layered clothing and a light waterproof jacket",
+      "Water bottle",
+      "Snacks for energy",
+      "Map or offline navigation (GPS/phone)",
+      "Small first aid kit",
+      "Sun protection (sunscreen, hat) and insect repellent (seasonal)",
+      "Lightweight backpack",
+      "Phone with emergency contacts",
+      "Optional: headlamp for early/late walks"
+    ],
+    "best_seasons": "Spring to Autumn; walkable year-round with appropriate clothing and footwear",
+    "seo": {
+      "title": "Clayhanger Common Walk - Easy 5.7 km in the UK",
+      "meta_description": "Discover Clayhanger Common Walk, a gentle 5.7 km hike in the UK. Easy terrain, practical safety tips, gear recommendations, and best seasons for this family-friendly route.",
+      "h1": "Clayhanger Common Walk"
+    }
   }
 }

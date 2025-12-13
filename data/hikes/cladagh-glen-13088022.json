@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13088022
+  },
+  "ai": {
+    "summary": "Cladagh Glen is a short, easy hike in the UK, spanning about 1.3 km. It suits beginners and families looking for a gentle nature stroll through a scenic glen, with light elevation and a tranquil streamside environment.",
+    "terrain_summary": "The trail is generally easy with well-defined paths. Expect grassy or compact trail surfaces, with occasional damp or muddy sections near the stream. Some sections may be uneven or slick after rain, so sturdy footwear is recommended.",
+    "safety_notes": "Always check the weather before you go and plan for changing conditions. Wear sturdy footwear with good grip and bring waterproof clothing. The route can be muddy and slippery, especially after rain; take care near the water and watch your step on exposed rocks. Mobile signal may be limited in rural glen areas, so let someone know your plans and carry a map or offline navigation. Stay on marked paths and respect wildlife and surrounding habitats.",
+    "recommended_gear": [
+      "Sturdy footwear with good grip",
+      "Weather-appropriate clothing and a light waterproof jacket",
+      "Water and a small snack",
+      "Light backpack for essentials",
+      "Map or offline navigation and a fully charged phone",
+      "Sun protection (hat and sunscreen) if sunny",
+      "Optional: lightweight headtorch for low-light conditions"
+    ],
+    "best_seasons": "Year-round with a preference for late spring to early autumn when conditions are drier and trails are firmer.",
+    "seo": {
+      "title": "Cladagh Glen – Easy 1.3 km Hike in the UK",
+      "meta_description": "Explore Cladagh Glen, a short and easy 1.3 km hike in the UK. Perfect for beginners and families, featuring gentle terrain and scenic glen views. Includes safety tips and gear.",
+      "h1": "Cladagh Glen: Easy 1.3 km Hike"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 3148039
+  },
+  "ai": {
+    "summary": "Clay Way is a demanding long-distance hike in the United Kingdom. Covering about 33.5 km with a hard difficulty rating, the route traverses varied terrain and offers a strenuous challenge for experienced walkers, suitable as a full-day epic or a multi-day trek with careful planning.",
+    "terrain_summary": "The route features a mix of chalk and gravel paths, muddy forest tracks, grassy moorland, and occasional rocky or uneven sections. Expect significant elevation changes, steep ascents and descents, and gates or stiles to negotiate. Footing can be inconsistent and mud prone, especially after rain; navigation is generally straightforward on well-marked sections, but weather can reduce visibility.",
+    "safety_notes": "Check the weather and daylight hours before setting out; UK conditions can change quickly. Start early to ensure plenty of daylight. Carry a map and compass or a reliable GPS, and have a charged phone with offline maps. Wear sturdy waterproof boots and dress in layers with a waterproof shell. Bring enough water and high-energy food, plus a basic first-aid kit and an emergency shelter or bivy. Inform someone of your plan and expected return time. Be prepared for boggy sections, river crossings, and variable terrain; if conditions are unsafe, turn back. Follow Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and pants",
+      "Warm layers and hat/gloves as needed",
+      "Map and compass or GPS device",
+      "Charged phone with offline maps",
+      "Water bottle or hydration system (plus water purification if needed)",
+      "High-energy food and snacks",
+      "Lightweight emergency shelter or bivy",
+      "Basic first aid kit",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle for signaling",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring, summer and autumn (roughly March–October) offer the best hiking conditions in the UK; winter hikes are possible with advanced planning and gear but present greater risk due to cold, wind and reduced daylight.",
+    "seo": {
+      "title": "Clay Way – 33.5 km Hard Hike in the UK",
+      "meta_description": "Discover Clay Way, a challenging 33.5-kilometer hike in the United Kingdom. Learn about terrain, safety, gear, and the best seasons for this demanding route.",
+      "h1": "Clay Way: 33.5 km Hard Hike in the UK"
+    }
   }
 }

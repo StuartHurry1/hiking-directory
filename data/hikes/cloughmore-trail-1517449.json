@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1517449
+  },
+  "ai": {
+    "summary": "A versatile 8.1 km moderate hike on forest trails in the UK, with gentle climbs, occasional rocky stretches, and scenic views.",
+    "terrain_summary": "Predominantly woodland paths with some rocky sections and rooty ground. Elevation gain is moderate, with a few short ascents and descents; expect damp and muddy sections after rain. Navigation is straightforward on well-marked routes.",
+    "safety_notes": "Wear sturdy boots with good grip; stay on marked paths; check the forecast and avoid the route in high wind or ice; bring water and snacks; tell someone your plan and expected return time; watch for slippery rocks, uneven footing, and changes in weather; allow extra time in low light conditions.",
+    "recommended_gear": [
+      "Hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map or GPS device",
+      "Headlamp or flashlight (in case of late return)",
+      "Basic first-aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Walking poles (optional)",
+      "Rain cover for backpack (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when trails are drier and views are clearer; in winter expect more mud and colder conditions.",
+    "seo": {
+      "title": "Cloughmore Trail – 8.1 km Moderate Hike in the UK",
+      "meta_description": "Explore the Cloughmore Trail, an 8.1 km moderate hike in the UK. Enjoy forest paths, rocky viewpoints, and varied terrain with practical safety and gear tips.",
+      "h1": "Cloughmore Trail – 8.1 km Moderate Hike"
+    }
   }
 }

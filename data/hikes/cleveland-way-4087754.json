@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4087754
+  },
+  "ai": {
+    "summary": "The Cleveland Way is a challenging long-distance trail in the United Kingdom, stretching 208.1 km across varied landscapes. Hikers should be prepared for remote sections, significant elevation, and changing weather as they traverse upland moors, forests, and coastal cliffs.",
+    "terrain_summary": "Expect a mix of grassy moorland and rugged uplands, limestone pavements, forest tracks, coastal cliffs, and occasional road sections. The route combines sustained ascents and long ridgelines with exposed sections and long descents.",
+    "safety_notes": "Weather in the UK is highly changeable; plan for all conditions. The trail includes remote moorland and coast where services are sparse—carry maps and a compass and know how to navigate. Wear sturdy boots and bring insulating layers plus waterproofs. Monitor tide times for coastal sections and carry sun protection. Ensure adequate water and a method to purify it, and have a plan for accommodation or camping. Inform someone of your itinerary, start early to maximize daylight, and be prepared for fatigue on long days. Be mindful of fatigue, navigation errors, and weather-related hazards.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Layered clothing (fleece or warm layers)",
+      "Backpack with rain cover",
+      "Map and compass (or GPS with offline maps)",
+      "Water bottles or hydration system with purification method",
+      "High-energy food and snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First-aid kit",
+      "Whistle and emergency shelter or bivy",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Mobile phone with offline maps and portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September); conditions can be harsher outside this window",
+    "seo": {
+      "title": "Cleveland Way Long-Distance Trail – 208.1 km UK Hike Guide",
+      "meta_description": "Plan your Cleveland Way hike: a hard 208.1 km UK trail with varied terrain, safety notes, gear lists, and the best seasons for completion.",
+      "h1": "Cleveland Way – UK Long-Distance Trail Guide"
+    }
   }
 }
