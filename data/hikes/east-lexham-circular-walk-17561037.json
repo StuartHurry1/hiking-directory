@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17561037
+  },
+  "ai": {
+    "summary": "East Lexham Circular Walk is a 14.5 km loop in the United Kingdom that starts and ends at the same point, offering a moderate countryside hike around East Lexham. The route combines quiet country lanes, footpaths across fields, and hedgerows, returning to the starting point with rewarding views.",
+    "terrain_summary": "Terrain is a mix of rural footpaths, grassy tracks, hedgerows, and occasional paved lanes. Ground can be uneven and muddy after rain, with some stiles and gentle ascents and descents. Expect variable surfaces and scenic countryside surroundings throughout the loop.",
+    "safety_notes": "Plan for changing weather and daylight. Wear sturdy footwear and carry a map or GPS. Stay on marked paths, watch for livestock and uneven ground, and take care crossing stiles. Let someone know your plan and expected return time; mobile signal may be weak in rural areas. Bring water, snacks, and a basic first-aid kit; in autumn/winter, wear extra layers and use high-visibility gear if visibility is low.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate layers (base layer, fleece, waterproof jacket)",
+      "Map or GPS device (or offline map on phone)",
+      "Hat and sunscreen (seasonally)",
+      "Small first-aid kit (blister care, plasters, antiseptic wipes)",
+      "Mobile phone with emergency contacts",
+      "Lightweight rain cover for your backpack",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring and autumn are ideal due to milder weather and pleasant scenery. Summer offers longer daylight but can be busy; winter walks are possible with careful gear and navigation, though conditions can be muddy and visibility reduced.",
+    "seo": {
+      "title": "East Lexham Circular Walk – 14.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the East Lexham Circular Walk, a 14.5 km moderate hike in the UK. Learn about terrain, safety tips, and gear for a rewarding countryside day out.",
+      "h1": "East Lexham Circular Walk – 14.5 km, Moderate"
+    }
   }
 }

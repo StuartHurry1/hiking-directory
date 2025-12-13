@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 272293
+  },
+  "ai": {
+    "summary": "East Devon Way is a demanding long-distance hike in the UK, totaling about 119.7 km. The route traverses rolling Devon countryside with rural lanes, woodlands, and occasional coastal glimpses. It features notable elevation changes and exposed sections, making it a substantial multi-day challenge for experienced hikers.",
+    "terrain_summary": "The trail combines grassy downs, farm tracks, mud prone paths, woodlands, and some short road sections. Expect uneven footing, stiles, gradual ascents and descents, and variable weather that can make sections slippery or underfoot.",
+    "safety_notes": "Plan for changing weather and shorter daylight hours. Carry navigation tools (map/compass or GPS) and a charged phone; stay on marked routes. Be prepared for mud, steep ascents/descents, stiles, livestock gates, and exposed sections. Tell someone your itinerary and check-in plans. Pack a basic first aid kit, emergency layer, and shelter in case of delays.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Topographic map and compass (or GPS device)",
+      "Lightweight waterproof jacket and pants",
+      "Warm mid-layer and hat/gloves for chilly days",
+      "Hydration system or water bottles with sufficient capacity",
+      "High-energy food and snacks for multiple days",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit tailored for multi-day hikes",
+      "Emergency blanket or bivy sack",
+      "Whistle and small personal locator beacon (optional)",
+      "Sunscreen, sunglasses, and lip balm",
+      "Mobile phone with offline maps and power bank",
+      "Rain cover for backpack",
+      "Walking poles (optional but helpful for uneven ground)",
+      "Spare socks and basic repair kit (duct tape, multi-tool)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions for this route, with longer daylight and milder weather. Summer provides the longest days but can be busier; winter hikes are possible but more challenging due to mud, wind exposure, and limited daylight.",
+    "seo": {
+      "title": "East Devon Way – 119.7 km Hard-Difficulty Long-Distance Trail in the UK",
+      "meta_description": "Plan a 119.7 km hard hike on the East Devon Way in the UK. Discover rolling countryside, woodland, and coastal views with practical safety tips and gear.",
+      "h1": "East Devon Way – 119.7 km Hard-Difficulty Long-Distance Trail"
+    }
   }
 }

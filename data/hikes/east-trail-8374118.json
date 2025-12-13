@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 8374118
+  },
+  "ai": {
+    "summary": "East Trail is a gentle 4.7 km hike in the UK, designed for beginners and casual walkers. The route offers light terrain and a relaxed pace, making it a quick outdoor option for a morning or afternoon outing.",
+    "terrain_summary": "Mostly well-maintained paths with grassy fields, with gentle inclines and flat sections. Expect some soft earth, gravel, and occasional muddy patches in wet conditions.",
+    "safety_notes": "Check weather and daylight before you go. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths, bring a map or offline navigation, and carry enough water and snacks. Let someone know your plans and watch for changes in weather. In rural areas, mobile coverage may be limited.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle or hydration system",
+      "Map, compass, or offline map on your phone",
+      "Snack or energy bars",
+      "Sun protection (hat, sunscreen)",
+      "Phone with emergency whistle and basic first-aid essentials"
+    ],
+    "best_seasons": "Spring to Autumn; winters can be cold, windy, and muddy depending on weather.",
+    "seo": {
+      "title": "East Trail – Easy 4.7 km Hike in the UK",
+      "meta_description": "Discover East Trail, a gentle 4.7 km hike in the UK. Easy terrain for beginners with practical safety tips and gear recommendations.",
+      "h1": "East Trail – 4.7 km Easy Hike in the UK"
+    }
   }
 }

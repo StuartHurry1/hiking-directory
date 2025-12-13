@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 4626603
+  },
+  "ai": {
+    "summary": "A short, easy 2.5 km circular hike in the UK designed for beginners and families. The East Loop offers a gentle route with light elevation and pleasant countryside views, making for a quick, rewarding outdoor outing.",
+    "terrain_summary": "The trail is mostly well-marked and composed of compact dirt and grassy paths. It is generally flat with gentle undulations; expect some muddy patches after rain and occasional uneven sections.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check the forecast and plan for quick changes in weather. Stay on marked paths, bring water and snacks, and tell someone your route. Carry a map or GPS, a small first aid kit, and a charged phone. Exercise caution on wet or muddy sections and be mindful of other trail users.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Water bottle or hydration",
+      "Weather-appropriate clothing (layering)",
+      "Light rain jacket or shell",
+      "Hat and sunscreen (sun protection)",
+      "Map or GPS device / offline maps",
+      "Mobile phone with emergency contacts",
+      "Small first aid kit",
+      "Snacks",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal in most UK regions, though the loop can be enjoyed year-round with appropriate gear.",
+    "seo": {
+      "title": "East Loop: Easy 2.5 km UK Hike for Beginners",
+      "meta_description": "Explore the East Loop, a 2.5 km easy circular hike in the UK. Perfect for beginners and families, with gentle terrain, practical safety tips, and gear recommendations.",
+      "h1": "East Loop – Easy 2.5 km Walk in the UK"
+    }
   }
 }

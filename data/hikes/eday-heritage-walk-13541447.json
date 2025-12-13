@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 13541447
+  },
+  "ai": {
+    "summary": "Eday Heritage Walk is a challenging 24.7 km circuit that blends coastal scenery, open farmland, and historic sites. With a hard difficulty rating, hikers should be prepared for long distances, varied terrain, and variable UK weather.",
+    "terrain_summary": "Expect a mix of coastal paths, grassy lanes, rocky tracks, and some road sections. Ground can be uneven, muddy after rain, and exposed in windy sections; hills or ridges may require sustained effort.",
+    "safety_notes": "Plan for a full day and check local conditions. Carry a map and compass or GPS, and know how to use them. Bring enough water and food for the day and be prepared for sudden weather changes. Wear sturdy boots and weather-appropriate clothing; in the UK rain and wind are common even in summer. Keep devices charged but do not rely solely on them for navigation. Share your itinerary with someone and set a check-in plan. Be mindful of wildlife and livestock on rural trails. Watch for uneven ground, mud, and potential drop-offs near coastal edges. If coastal sections are involved, be aware of tides and local restrictions. If visibility is poor, consider postponing or turning back. Carry a lightweight emergency blanket or bivvy bag.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Warm layers, hat and gloves",
+      "Map and compass or GPS device",
+      "Fully charged phone and power bank",
+      "Water and high-energy snacks",
+      "Small first aid kit",
+      "Emergency blanket or bivvy bag",
+      "Headtorch with spare batteries",
+      "Sunscreen and sunglasses",
+      "Whistle",
+      "Personal medications as needed",
+      "Trail clothing suitable for rain"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) offer milder weather, longer daylight, and better trail conditions. Winter hiking can be demanding with strong winds, rain, and short days; consider guidance if attempting year-round.",
+    "seo": {
+      "title": "Eday Heritage Walk - 24.7 km Hard Hike in the UK",
+      "meta_description": "Discover the 24.7 km Eday Heritage Walk in the UK. A demanding coastal-and-inland hike with heritage features, practical tips, and essential gear.",
+      "h1": "Eday Heritage Walk - 24.7 km Hard Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18888463
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km loop that links the Red and Green routes around Dùn Coillich. Suitable for beginners and families seeking a quick, scenic woodland stroll in the UK.",
+    "terrain_summary": "A well-defined forest path with gentle gradients. Mostly smooth underfoot, with occasional exposed roots and small rocks. Likely damp in wet weather and shaded by trees.",
+    "safety_notes": "Suitable for most ages and fitness levels. Stay on marked paths, watch for slippery roots and wet leaves, and be cautious in wet or icy conditions. Check local guidance for any access restrictions.",
+    "recommended_gear": [
+      "Sturdy hiking footwear",
+      "Weather-appropriate clothing",
+      "Water",
+      "Light snack",
+      "Map or GPS device",
+      "Phone charged",
+      "Lightweight rain shell"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions; in winter, be prepared for cold, wet, or icy trails.",
+    "seo": {
+      "title": "Dùn Coillich Red/Green Link Hike – 0.4 km Easy Loop in the UK",
+      "meta_description": "Explore a brief 0.4 km easy hike on the Red/Green Link near Dùn Coillich in the UK. Learn about terrain, safety, and gear for a quick woodland stroll.",
+      "h1": "Dùn Coillich Red/Green Link – Easy 0.4 km Hike"
+    }
   }
 }

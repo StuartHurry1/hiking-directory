@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19399299
+  },
+  "ai": {
+    "summary": "A 7.1 km circular hike around Dunham Massey Mini Park in the UK, combining woodland trails with open parkland. The route offers a moderate challenge suitable for walkers with basic fitness and showcases the estate's green spaces along a continuous loop.",
+    "terrain_summary": "The loop uses a mix of compacted dirt paths, grassy trails and some gravel sections. Expect flat to gently undulating terrain with occasional muddy patches after rain, exposed roots in wooded sections, and well-marked paths throughout.",
+    "safety_notes": "Check the weather forecast and wear sturdy footwear with good grip. Stay on marked paths, watch for other park users and cyclists, and keep dogs under control where required. Bring water, a light layer for changing conditions, and a charged phone. If visiting with children, supervise closely around water features or busy junctions.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS",
+      "Light snack",
+      "Small first-aid kit",
+      "Phone with charged battery"
+    ],
+    "best_seasons": "Spring to autumn (March–October) generally offers the best conditions, but the loop is accessible year-round with appropriate footwear and clothing.",
+    "seo": {
+      "title": "Dunham Massey Mini Park Loop – 7.1 km Moderate Hike in the UK",
+      "meta_description": "Explore a 7.1 km loop at Dunham Massey Mini Park. A moderate hike through woodland and parkland with practical tips on terrain, safety, and gear.",
+      "h1": "Dunham Massey Mini Park Loop – 7.1 km Moderate Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 9375397
+  },
+  "ai": {
+    "summary": "Drumchapel Way is a challenging 15.9 km hike in the UK. The route blends urban fringe paths with natural terrain around Drumchapel, demanding good fitness and navigation skills. Expect long sections of uneven ground, some ascent and descent, and varying conditions. Allow roughly 5–7 hours depending on pace and breaks.",
+    "terrain_summary": "Hard route with mixed terrain: uneven and potentially muddy surfaces, grassy trails, and several climbs. You’ll traverse a combination of urban footpaths and more exposed rural sections; expect roots, loose rock, and variable footing. Weather can affect traction, so be prepared for slippery sections.",
+    "safety_notes": "This is a long, hard hike. Check weather and daylight, tell someone your plan, and carry map and navigation tools. Mobile signal may be patchy in fringe/rural areas. Bring enough water and food, a first aid kit, and dress in layers with a waterproof layer. Wear sturdy footwear and have a plan for turning back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers plus waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight (with extra batteries)",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Emergency whistle",
+      "Walking poles (optional) or trekking poles",
+      "Gloves and a warm layer for cooler sections"
+    ],
+    "best_seasons": "Spring and autumn (roughly March–May and September–October) are best. Summer is possible but can be hot and busier; winter conditions may bring ice, mud, and reduced daylight.",
+    "seo": {
+      "title": "Drumchapel Way – 15.9 km Hard Hike in the UK",
+      "meta_description": "Plan your Drumchapel Way adventure. A 15.9 km hard hike in the UK blending urban fringe paths with natural terrain. Terrain details, safety tips, gear, and best seasons.",
+      "h1": "Drumchapel Way: 15.9 km Hard UK Hike"
+    }
   }
 }

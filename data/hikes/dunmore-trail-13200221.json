@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13200221
+  },
+  "ai": {
+    "summary": "Dunmore Trail is a short, easy hike in the UK, offering a straightforward 1.9 km route suitable for beginners and families.",
+    "terrain_summary": "The trail features well-maintained paths with occasional uneven sections, grassy edges, and compact dirt. Expect gentle slopes and variable footing; conditions can become muddy after rain.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy, grippy footwear and dress in layers with a waterproof outer layer. Stay on marked paths, bring plenty of water, and have a light snack. Carry a map or a charged phone with offline navigation. Be mindful of daylight and turn back if visibility or footing becomes unsafe. Supervise children and pets at all times.",
+    "recommended_gear": [
+      "Comfortable waterproof walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle (1–2 liters)",
+      "Snacks",
+      "Hat and sunscreen (on sunny days)",
+      "Map or offline navigation / charged phone",
+      "Small first aid kit",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring, Summer and Autumn are ideal. The trail is accessible year-round, but winter conditions can be muddy or icy; adjust gear and pace accordingly.",
+    "seo": {
+      "title": "Dunmore Trail – Easy 1.9 km Hike in the UK",
+      "meta_description": "Explore the Dunmore Trail in the UK. A short, easy 1.9 km hike suitable for beginners and families. Learn about the terrain, safety tips, best seasons, and gear.",
+      "h1": "Dunmore Trail – Easy 1.9 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13039754
+  },
+  "ai": {
+    "summary": "A scenic 11.4 km moderate hike in the UK following routes around Ely and Carrickreagh. The walk combines open grassland, woodland edges, and occasional viewpoints, suitable for hikers with moderate experience and sturdy footwear.",
+    "terrain_summary": "The route features a mix of grassy tracks, forest paths, and uneven footing with occasional rocky or muddy patches. Expect gentle ascents toward higher viewpoints and some exposed sections near ridges or viewpoints; conditions can vary with weather.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy, waterproof footwear and dress in layers. Stay on marked paths and carry a map or GPS. Bring enough water and snacks, plus a basic first aid kit. Inform someone of your plan and expected return time. Be cautious around livestock and when crossing rural lanes; watch for slippery or uneven sections after rain.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS device",
+      "Phone with portable charger",
+      "Lightweight rain cover or pack rain protection",
+      "Small first aid kit",
+      "Hat and sunscreen",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (April–October) with caution for mud in shoulder seasons and shorter daylight in winter.",
+    "seo": {
+      "title": "Ely and Carrickreagh Walk — 11.4 km Moderate UK Hike",
+      "meta_description": "Discover the Ely and Carrickreagh hike, an 11.4 km moderate trail in the UK. Learn about terrain, safety tips, gear essentials, and the best seasons for this scenic route.",
+      "h1": "Ely and Carrickreagh Hike (11.4 km, Moderate)"
+    }
   }
 }

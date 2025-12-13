@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 17954602
+  },
+  "ai": {
+    "summary": "The Dundrum Coastal Path is an easy 5.8 km coastal walk in the UK, offering sea views, shoreline scenery, and a relaxed pace suitable for families. The route follows a coastal track along cliffs and beaches, with gentle ascents and downhills.",
+    "terrain_summary": "Terrain is a mix of flat to gently undulating coastal track with compacted earth, gravel, and occasional uneven rocks. Some sections run along cliff tops with exposed sea views; expect mud after rain and windy, salt-sprayed conditions near the shore. Wear sturdy footwear with good grip and be mindful of weather-driven hazards.",
+    "safety_notes": "Please check local tide times and weather before you go. Stay on marked paths and away from cliff edges, as gusty winds can surprise you along the coast. Wear sturdy footwear, carry water, sun protection, and a warm layer. Let someone know your plans and expected return time. If visibility is poor or seas are rough, postpone your visit; mobile signal may be limited in coastal areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or hiking boots",
+      "Water bottle",
+      "Light rain jacket or waterproof shell and extra layer",
+      "Sun protection (hat, sunscreen)",
+      "Map, guidebook, or offline map app",
+      "Phone with camera",
+      "Snack or energy bar",
+      "Light emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (March–September) offer milder weather and better visibility; summer provides the best sea views, while autumn can be very pleasant. Winter visits are possible but wind, rain, and slippery surfaces are common.",
+    "seo": {
+      "title": "Dundrum Coastal Path – Easy 5.8 km Coastal Walk in the UK",
+      "meta_description": "Explore the Dundrum Coastal Path, an easy 5.8 km coastal walk in the UK. Enjoy sea views, shoreline scenery, and gentle terrain—plus practical safety tips and gear for planning your day.",
+      "h1": "Dundrum Coastal Path: Easy 5.8 km Coastal Walk"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 13222182
+  },
+  "ai": {
+    "summary": "The E2 Hiking Trail Birmingham is a hard, long-distance route in the UK, spanning approximately 293.1 km. It offers a challenging multi-day trek that threads through a mix of urban surroundings near Birmingham, plus rural lanes, canal paths, and countryside sections. The route is best tackled by experienced hikers with careful planning and flexible pacing.",
+    "terrain_summary": "Terrain varies from asphalt and cycle paths in urban areas to gravel, grass, and mud on rural trails. Expect canal towpaths, woodlands, open moorland, and gentle to moderate hills. Distances between waypoints are substantial, so navigation and preparation are essential.",
+    "safety_notes": "Check weather forecasts and daylight hours; inform someone of your itinerary; carry a detailed map and compass or GPS; stay hydrated; carry sufficient food; have a backup plan for accommodation; wear sturdy footwear; be aware of road traffic when crossing urban sections; have a charged phone with offline maps; know emergency numbers (999 in the UK).",
+    "recommended_gear": [
+      "Quality waterproof trekking boots with good ankle support",
+      "Layered clothing system (base layer, insulating layer, waterproof outer shell)",
+      "Rucksack with rain cover (40–60 L depending on kit)",
+      "Water bladder or bottles (at least 2–3 L capacity total)",
+      "Headlamp with extra batteries",
+      "Map, compass, and/or GPS device with spare batteries",
+      "First aid kit and personal medications",
+      "Snacks and high-energy foods for multi-day portions",
+      "Emergency whistle and lightweight bivy or emergency shelter",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Multi-tool or knife",
+      "Phone power bank and offline navigation backups"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the best weather with longer days; hiking is possible year-round in the UK, but winter sections can be cold, wet, and storm-prone; plan for shorter daylight and more challenging conditions in winter.",
+    "seo": {
+      "title": "E2 Hiking Trail Birmingham (UK) – 293 km of Hard-Distance Trek",
+      "meta_description": "Explore the challenging 293.1 km E2 hiking trail near Birmingham, UK. Terrain, safety tips, gear recommendations, and best seasons for this hard long-distance hike.",
+      "h1": "E2 Hiking Trail Birmingham"
+    }
   }
 }

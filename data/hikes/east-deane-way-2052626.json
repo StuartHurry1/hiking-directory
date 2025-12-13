@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2052626
+  },
+  "ai": {
+    "summary": "The East Deane Way is a challenging long-distance trail in the United Kingdom, spanning 158.7 km and rated hard. The route traverses varied rural landscapes and offers multi-day trekking with demanding sections and remote stretches. It is best tackled by experienced hikers prepared for fatigue, navigation challenges, and changing weather.",
+    "terrain_summary": "Expect a mix of rural fields, hedgerows, woodland tracks, and occasional moorland-style terrain. The route includes rolling hills, uneven paths, and some muddy sections; long days without services are possible in remote stretches.",
+    "safety_notes": "Before setting out, check the forecast and daylight hours. Carry navigation tools (map, compass, and a charged GPS); tell someone your itinerary and expected finish. Plan for long days with limited access to services; bring sufficient water and high-energy food. Wear sturdy footwear, dress in layers, and be prepared for sudden weather changes. Watch for livestock on rural tracks and follow right-of-way rules. In late autumn and winter, shorten or split stages to avoid very short daylight periods.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and a waterproof outer shell",
+      "Backpack (20–30 L) with rain cover",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and snacks",
+      "Map, compass, and GPS device (with spare batteries)",
+      "Headlamp or torch with extra batteries",
+      "First aid kit",
+      "Emergency blanket or bivouac sack",
+      "Whistle for emergencies",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Power bank for phone and GPS"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) is typically the best window for the East Deane Way, offering longer daylight and generally drier trails, while winter hiking is more demanding with shorter days and harsher weather.",
+    "seo": {
+      "title": "East Deane Way: 158.7 km Hard Hike in the UK",
+      "meta_description": "Plan your trek on the East Deane Way, a 158.7 km hard-distance hike in the UK. Get terrain, safety tips, gear lists, and best seasons for this challenging trail.",
+      "h1": "East Deane Way – 158.7 km Hard UK Trail"
+    }
   }
 }

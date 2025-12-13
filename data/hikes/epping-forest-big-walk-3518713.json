@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3518713
+  },
+  "ai": {
+    "summary": "The Epping Forest Big Walk is a demanding long-distance hike in the UK, covering 63.5 km. It can be completed in a long day or split into two sessions, and traverses a mix of forest paths, gravel tracks, and occasional road crossings around the Epping area.",
+    "terrain_summary": "Primarily forest and footpath terrain with some gentle elevation changes. Expect rooty, muddy sections after rain, exposed gravel paths, and occasional road crossings. The route combines shaded trails with open edges, so conditions can vary with weather.",
+    "safety_notes": "Because the route is 63.5 km, plan for a very long day or multiple days. Check weather forecasts and daylight hours; wear suitable footwear and moisture-wicking layers. Carry a map and compass or GPS, plus a charged phone as a backup. Bring sufficient water and food, plus a small first aid kit, identification, and a whistle. Inform someone of your route and expected finish time. Be mindful of road crossings and traffic; in poor visibility, use reflective clothing and lights if starting early or finishing late. If fatigue sets in, consider turning back or splitting the hike into two sessions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots or shoes with good grip",
+      "Water, plus electrolyte drinks or snacks",
+      "Weather-appropriate clothing (layered system; waterproof jacket and pants)",
+      "Map and compass or GPS device; fully charged phone as backup",
+      "Headlamp or small flashlight with extra batteries",
+      "Basic first aid kit and emergency blanket",
+      "Whistle and personal identification",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Lightweight food for long day(s) and a small pouch for mid-hike snacks",
+      "Rucsac or daypack with enough capacity for gear and layers",
+      "Power bank to keep devices charged",
+      "Emergency plan and waterproof bag for electronics"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer longer daylight and milder conditions in the UK. The hike is still doable in winter with careful planning, shorter daylight, and weather-ready gear.",
+    "seo": {
+      "title": "Epping Forest Big Walk – 63.5 km Hard Hike in the UK",
+      "meta_description": "Plan your challenge with the Epping Forest Big Walk. A 63.5 km hard-distance hike in the UK featuring forest trails, gravel tracks, safety tips, gear lists, and best seasons.",
+      "h1": "Epping Forest Big Walk: 63.5 km Hard Hike in the UK"
+    }
   }
 }

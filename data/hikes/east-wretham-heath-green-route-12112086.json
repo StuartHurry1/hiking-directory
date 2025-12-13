@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12112086
+  },
+  "ai": {
+    "summary": "A short, easy 3 km hike along the East Wretham Heath Green Route in the UK. The route traverses open heathland and pine forest, making it suitable for families, beginners, and walkers seeking a relaxed outdoor experience.",
+    "terrain_summary": "Predominantly flat terrain with well-maintained paths. Expect a mix of compacted earth, gravel, and occasional wooden boardwalk sections, with some grassy patches and minor uneven areas after rain.",
+    "safety_notes": "Stay on marked paths and respect conservation areas. The terrain is generally easy, but can be muddy or uneven after rain. Heathland can have ticks, so perform a tick check after your walk. Wear sturdy footwear, bring water, and check the weather forecast. If venturing into remote sections, carry a map or GPS and inform someone of your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and lightweight snacks",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Hat and sunscreen",
+      "Insect repellent and tick protection",
+      "Map, compass, or GPS",
+      "Fully charged phone",
+      "Light rain cover or emergency poncho"
+    ],
+    "best_seasons": "Spring and autumn offer mild weather and wildlife activity; summer is also pleasant though can be busier; winter can be muddy and less comfortable.",
+    "seo": {
+      "title": "East Wretham Heath Green Route – Easy 3 km Hike in the UK",
+      "meta_description": "Discover the East Wretham Heath Green Route, a 3 km easy hike through heathland and pine forest in the UK. Practical tips, best seasons, and gear for a safe day out.",
+      "h1": "East Wretham Heath Green Route – Easy 3 km Hike"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 8128
+  },
+  "ai": {
+    "summary": "The Elham Valley Way is a long-distance footpath in the United Kingdom covering approximately 73.4 km. It is rated hard and traverses rural Kent-like countryside with rolling fields, hedgerows, chalk valleys, and occasional road sections. The route is best tackled by experienced hikers who can split the journey into multiple days and adapt to variable weather.",
+    "terrain_summary": "Expect a mix of well-trodden paths, country lanes, hedged field edges, farm tracks, chalky surfaces, and occasional woodland. The route includes gentle ascents and descents with some stiles and gates. Footing can be slippery after rain and mud is common in winter and wet seasons. Some sections may require road walking or crossing minor roads.",
+    "safety_notes": "Plan your trip with a sensible itinerary and check weather and daylight hours. Carry a map and compass (or GPS) and know how to use them; do not rely solely on phone navigation. Wear sturdy boots and bring layered clothing; waterproofs are essential. Hydration and nutrition: carry enough water (at least 1.5–2 liters per day) and high-energy foods; know water sources along the way. Be prepared for limited phone signal in rural stretches; inform someone of your route and expected return. Check for farm closures or cattle movement reminders; respect private property and gates. Be mindful of daylight saving time; start early to avoid finishing in the dark. In adverse weather, consider shortening or postponing the hike.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and waterproofs",
+      "Map and compass or GPS device",
+      "Sufficient water and high-energy foods",
+      "First aid kit and blister care supplies",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency shelter or space blanket",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Whistle for signaling",
+      "Power bank and charged phone",
+      "Lightweight rain cover for pack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (March–October) is generally ideal, offering longer daylight and drier conditions. Winter hiking is possible but comes with more mud, shorter days, and tougher weather; plan accordingly.",
+    "seo": {
+      "title": "Elham Valley Way — 73.4 km Hard-Difficulty UK Hike",
+      "meta_description": "Explore the Elham Valley Way, a challenging 73.4 km long-distance hike in the UK. Get terrain insights, safety tips, best seasons, and gear recommendations.",
+      "h1": "Elham Valley Way – 73.4 km Hard-Difficulty UK Hike"
+    }
   }
 }

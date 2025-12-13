@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 18884497
+  },
+  "ai": {
+    "summary": "Dun Coillich Green is a 16 km hard hike in the UK, requiring good fitness, navigation, and resilience. Expect sustained ascents, exposed sections, and uneven ground; the route is best suited to experienced hikers prepared for changing weather and boggy terrain.",
+    "terrain_summary": "A mix of steep grassy slopes, peat bogs, exposed rocky paths, and rough, uneven steps. Expect boggy stretches, moorland, and occasional forested sections. Navigation can be challenging in open terrain and cloud.",
+    "safety_notes": "This is a strenuous, potentially remote hike with real exposure to weather and terrain. Check a reliable forecast before setting out; UK weather can change quickly. Always carry a map and compass (GPS is helpful but not a substitute) and ensure you know the route. Wear sturdy boots and full-weather clothing; be prepared for rain, wind, and cold at height. Watch for boggy ground, loose rocks, and steep drop-offs. Turn back if visibility or conditions deteriorate. Ensure sufficient water and food, and carry a basic first aid kit and emergency signaling device.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and windproof jacket",
+      "Thermal layer and fleece",
+      "Extra socks",
+      "Map and compass (GPS as backup)",
+      "Headlamp with spare batteries",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks",
+      "Trekking poles",
+      "Hat and gloves",
+      "Emergency bivy or space blanket",
+      "First-aid kit",
+      "Whistle",
+      "Lightweight rain cover for backpack",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Late spring to autumn (roughly May–October). Winter conditions can be challenging due to ice, bogs, and reduced daylight; plan for shorter days and harsher weather.",
+    "seo": {
+      "title": "Dun Coillich Green – 16 km Hard Hike in the UK",
+      "meta_description": "Plan a 16 km challenging hike to Dun Coillich Green in the UK. Get terrain insights, safety tips, gear lists, and best seasons for this strenuous route.",
+      "h1": "Dun Coillich Green – 16 km Hard Hike (UK)"
+    }
   }
 }

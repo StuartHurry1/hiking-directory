@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 15695404
+  },
+  "ai": {
+    "summary": "Eamont Way is a challenging 21.8 km hike in the UK designed for experienced walkers. The route covers significant distance with varied terrain and elevation, demanding good stamina and navigation ability, especially in changing weather conditions.",
+    "terrain_summary": "The trail traverses mixed UK terrain with sections of well-defined paths and uneven ground. Expect rolling to moderate elevations, potentially muddy or slippery sections, and footing that can be loose or rocky. Weather and visibility can affect conditions along the route.",
+    "safety_notes": "Check the forecast before starting; UK weather can change rapidly. Carry a map and compass (or GPS) and know how to use them—do not rely solely on mobile signal. Wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Bring enough water and high-energy snacks; plan for longer distances. Inform someone of your start time and expected return. Pack a small first aid kit and a whistle. Be prepared for uneven, potentially slippery ground and exposed sections; consider trekking poles. Mind daylight hours; start early in winter. In an emergency, call 999 or 112.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layered system, waterproof outer layer)",
+      "Map and compass (or GPS) with a charged phone as backup",
+      "Water and high-energy snacks",
+      "Lightweight rain gear and an extra warm layer",
+      "Small first aid kit",
+      "Headlamp or flashlight with spare batteries",
+      "Emergency whistle, sunscreen, and a hat",
+      "Backpack rain cover or dry bag for gear",
+      "Portable charger or power bank"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); Winter can be challenging due to shorter daylight and harsher weather conditions.",
+    "seo": {
+      "title": "Eamont Way Hike – 21.8 km Hard Trail in the UK",
+      "meta_description": "Discover the 21.8 km hard-difficulty Eamont Way hike in the UK. Read terrain and safety notes, best seasons, and essential gear for this demanding trek.",
+      "h1": "Eamont Way – A 21.8 km Hard Hike in the UK"
+    }
   }
 }

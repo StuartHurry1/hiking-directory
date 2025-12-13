@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 12821072
+  },
+  "ai": {
+    "summary": "Ebury Way is a long-distance hike in the UK covering 16.9 km on a former railway line. It is classified as hard due to distance and stamina required, despite typically gentle gradients. The route offers steady terrain and the opportunity to enjoy varied scenery, with no specific themes noted.",
+    "terrain_summary": "The route mostly runs on a paved or compact gravel surface with gentle, steady gradients. Expect a mix of open sections and shaded stretches; some sections may be uneven or require attention at maintenance gaps. There can be road crossings and potential tunnels or bridges along the rail-line alignment.",
+    "safety_notes": "Plan for a long day of walking with adequate daylight. Wear sturdy footwear and bring weather-appropriate clothing. Carry water and snacks, navigation and a charged phone, and a basic first-aid kit. Check for route closures or track work, be mindful of road crossings, and beware of crowds on busier urban sections.",
+    "recommended_gear": [
+      "Sturdy hiking footwear with good grip",
+      "Water bottle or hydration system (2+ litres)",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Hat and gloves if cold",
+      "Map and/or offline navigation app",
+      "Small first-aid kit",
+      "Headtorch or flashlight (for tunnels or dark sections)",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, sunglasses)",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for better daylight and drier conditions; plan for shorter days and wetter weather in autumn and winter.",
+    "seo": {
+      "title": "Ebury Way Hike – 16.9 km Hard Trail in the UK",
+      "meta_description": "Explore the 16.9 km Ebury Way hike in the UK. Learn about terrain, safety tips, best seasons, and gear for this challenging rail-trail route.",
+      "h1": "Ebury Way – 16.9 km Hard Hike in the UK"
+    }
   }
 }

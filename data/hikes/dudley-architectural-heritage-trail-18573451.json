@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18573451
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km route following the Dudley Architectural Heritage Trail in the UK, showcasing historic buildings and plaques along an accessible urban path. The walk is suitable for most ages and focuses on architecture rather than strenuous terrain.",
+    "terrain_summary": "Predominantly paved sidewalks and urban streets. Mostly flat with short gentle ramps; occasional uneven sections from historic pavements or cobbles in older areas and parks.",
+    "safety_notes": "Urban trail: stay on sidewalks where possible and heed crossing signals. Be mindful of other pedestrians, cyclists, and traffic at street crossings. Dress for the weather and bring water; daylight is clearer in warmer months. The route is family-friendly and suitable for dogs on leash.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or offline navigation (or a smartphone with GPS)",
+      "Hat and sunscreen",
+      "Charged mobile phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions for this easy urban trail; visits in winter are possible but daylight and weather can be challenging.",
+    "seo": {
+      "title": "Dudley Architectural Heritage Trail – Easy 3.7 km UK Walk",
+      "meta_description": "Discover Dudley’s historic architecture on an easy 3.7 km walk along the Dudley Architectural Heritage Trail in the UK. Practical tips on terrain, safety, and gear.",
+      "h1": "Dudley Architectural Heritage Trail – Easy 3.7 km Walk"
+    }
   }
 }

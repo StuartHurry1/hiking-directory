@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3739976
+  },
+  "ai": {
+    "summary": "A challenging 16.3 km hike from Dunsford to Moretonhampstead in the UK, featuring sustained elevation, uneven surfaces and exposed sections. It's best suited to experienced hikers with good stamina and navigation skills. Weather can change quickly, so plan for variable conditions and ample time.",
+    "terrain_summary": "Mostly rough country tracks and forest paths with occasional tarmac. Expect steep ascents and descents, uneven footing, and possible boggy or muddy sections, especially after rain. Some exposed moorland stretches can increase wind and sun exposure.",
+    "safety_notes": "Check weather and daylight hours; bring a map and compass (don't rely on phone GPS alone). Wear sturdy waterproof boots and dress in layers; carry extra food and water. The route can be remote with limited mobile reception—inform someone of your plan. Watch for fatigue on long climbs, uneven ground, and sudden weather changes; have a plan for emergencies and know the return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and warm layers",
+      "Map and compass (GPS as backup)",
+      "Fully charged phone with offline map",
+      "Hydration bladder or bottles (2–3 L)",
+      "High-energy snacks or meals",
+      "First aid kit and emergency blanket",
+      "Headlamp or flashlight with spare batteries",
+      "Hat, gloves, and sun protection (depending on season)",
+      "Trekking poles (optional but helpful on long ascents)"
+    ],
+    "best_seasons": "Spring to autumn, with careful planning for weather; winter hiking is possible but requires experience and appropriate equipment.",
+    "seo": {
+      "title": "Dunsford to Moretonhampstead Trail – 16.3 km Hard Hike in the UK",
+      "meta_description": "Explore the Dunsford to Moretonhampstead Trail, a 16.3 km challenging route in the UK. Learn about terrain, safety tips, best seasons, and gear recommendations.",
+      "h1": "Dunsford to Moretonhampstead Trail – 16.3 km Hard Hike in the UK"
+    }
   }
 }

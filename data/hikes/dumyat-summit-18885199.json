@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18885199
+  },
+  "ai": {
+    "summary": "A popular 6.6 km round-trip hike to the Dumyat summit in Scotland. The route combines grassy slopes with short rocky sections, and a steady ascent to an exposed top with expansive views over the Forth Valley and the Ochil Hills.",
+    "terrain_summary": "Mostly grassy path with occasional rocky steps and damp ground. The final ascent can be steep and exposed; in wet weather surface may be slippery and there may be roots or loose scree on the upper slopes.",
+    "safety_notes": "Weather in the UK can change quickly; check forecasts before starting. Dress in layers with waterproof outerwear. Wear sturdy boots with good grip and stay on marked paths. Be mindful of exposed edges at the summit and strong winds. Bring water and snacks, and start early in shorter daylight months.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and energy snacks",
+      "Layered clothing plus a waterproof jacket",
+      "Warm hat and gloves (seasonal)",
+      "Map and compass or GPS",
+      "Phone with emergency numbers and a basic first-aid kit",
+      "Sunscreen and sunglasses (summer)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) for milder conditions and longer daylight; winter hikes are possible but more challenging due to snow, ice, and reduced visibility.",
+    "seo": {
+      "title": "Dumyat Summit Hike – 6.6 km Moderate Trail in Scotland, UK",
+      "meta_description": "Discover the Dumyat summit in Scotland with this 6.6 km moderate hike. Grassy slopes, rocky steps, and sweeping views over Stirling and the Forth Valley. Safety tips and gear included.",
+      "h1": "Dumyat Summit Hike – 6.6 km Moderate Route in Scotland, UK"
+    }
   }
 }

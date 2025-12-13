@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 7256101
+  },
+  "ai": {
+    "summary": "A demanding 56.2 km hike along the East Mendip Way in the UK. It traverses rolling limestone hills with long ascents and exposed ridges, offering a challenging route for experienced hikers. Depending on pace, it can be completed in a single long day or split into multiple days.",
+    "terrain_summary": "Rugged limestone and chalk terrain typical of the Mendip Hills. Expect rocky tracks, uneven footing, steep climbs and descents, occasional limestone pavements, and short scrambling sections. Weather can change quickly, bringing mud and slick surfaces. Many sections are exposed with long views, and some paths can be loose underfoot.",
+    "safety_notes": "This is a long, demanding route requiring solid navigation and preparation. Carry a map and compass (GPS as backup) and plan for 2–4 days or a series of long days. Weather in the UK is unpredictable—dress for wind and rain and monitor forecasts. Mobile signal may be limited in remote parts; inform someone of your route and expected times. Watch footing on loose stones, be mindful of livestock and farm gates, and stay hydrated with adequate food and water.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Layered clothing (base layer, insulating layer, hat, gloves)",
+      "Map and compass (GPS as backup)",
+      "Water bottles or hydration system (2–3 liters)",
+      "High-energy snacks and lightweight meals",
+      "First aid kit",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Headlamp or flashlight with spare batteries",
+      "Trekking poles (optional but helpful)",
+      "Emergency whistle",
+      "Map case or waterproof bag"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and longer daylight. Summer provides longer days but can be hot; winter hiking is possible with extra layers and careful planning due to mud and reduced daylight.",
+    "seo": {
+      "title": "East Mendip Way – 56.2 km Hard Hike in the UK",
+      "meta_description": "Discover the East Mendip Way, a 56.2 km challenging hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons.",
+      "h1": "East Mendip Way – 56.2 km Hard Hike in the UK"
+    }
   }
 }

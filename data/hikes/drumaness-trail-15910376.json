@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 15910376
+  },
+  "ai": {
+    "summary": "Drumaness Trail is a gentle 4.2-kilometer hike in the UK, suitable for walkers of all ages and fitness levels. The route follows flat or gently graded paths through countryside, offering relaxed scenery and a light, accessible outdoor experience.",
+    "terrain_summary": "Predominantly well-maintained footpaths and compacted earth tracks. The route is mostly flat with occasional gentle inclines. Surfaces can be muddy after rain, so sturdy footwear is recommended and traction may be limited in wet conditions.",
+    "safety_notes": "Check the forecast and dress for changing weather. Stay on marked paths; watch for uneven ground and mud. Bring a map or offline navigation, and keep your phone charged. Tell someone your plans and expected finish time. Hydrate regularly, and be mindful of livestock or road crossings if the path passes near rural lanes. Mobile signal can be limited in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water bottle",
+      "Trail snacks and a basic first-aid kit",
+      "Sunscreen, hat, and sunglasses",
+      "Map, compass, or offline navigation on a phone"
+    ],
+    "best_seasons": "Year-round, with the most comfortable conditions typically in spring and summer. Autumn can be scenic; winter visits are possible but may be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Drumaness Trail: 4.2 km Easy Hike in the UK",
+      "meta_description": "Discover Drumaness Trail, a 4.2 km easy hike in the UK. Flat paths through countryside, suitable for beginners and families seeking a relaxing outdoor outing.",
+      "h1": "Drumaness Trail – 4.2 km Easy Hike"
+    }
   }
 }

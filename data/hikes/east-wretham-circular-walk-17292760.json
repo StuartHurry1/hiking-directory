@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17292760
+  },
+  "ai": {
+    "summary": "A demanding 27.2 km circular hike near East Wretham, weaving through Thetford Forest and surrounding heathland. The trail combines long forest tracks with open sections, requiring good fitness and navigation.",
+    "terrain_summary": "Mixed terrain including gravel forest tracks, dirt paths, grassy stretches and open heath. Expect muddy patches after rain, exposed roots, and gradual elevation changes; some sections may require careful route-finding through woodland and heath.",
+    "safety_notes": "Plan for a full-day hike (roughly 6–9 hours). Carry a detailed map and compass or a reliable GPS, and know how to use them. Check weather and daylight hours; in winter the route can be exposed and very muddy. Wear sturdy waterproof boots and dress in layers. Bring ample water and high-energy food, plus a small first aid kit and a whistle. Tell someone your planned route and expected return time. Be mindful of other forest users and potential cyclists; navigation aids are helpful in remote sections. If visibility is poor or conditions worsen, consider turning back or choosing a shorter route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and extra layers",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Waterproof jacket and pants",
+      "Hat, sunglasses and sunscreen",
+      "First aid kit",
+      "Whistle and basic multi-tool",
+      "Headlamp or flashlight",
+      "Mobile phone with offline map",
+      "Trekking poles (optional)",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for better weather and daylight; winter hikes are possible but can be very muddy, cold, and exposed.",
+    "seo": {
+      "title": "East Wretham Circular Walk – 27.2 km Hard Hike in Thetford Forest, UK",
+      "meta_description": "Take on the East Wretham Circular Walk, a challenging 27.2 km loop through Thetford Forest in Norfolk, UK. Practical tips, gear suggestions, safety notes, and best seasons.",
+      "h1": "East Wretham Circular Walk – 27.2 km Hard Hike"
+    }
   }
 }

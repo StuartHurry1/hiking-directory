@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16123531
+  },
+  "ai": {
+    "summary": "The Eildon Hills Trail is a challenging 16.3 km loop in the UK that climbs the Eildon Hills for expansive views across the surrounding countryside. The route features strenuous ascents, exposed ridges, and varied terrain, including grassy slopes, rocky steps, and potential boggy sections. Weather can be changeable and winds can be strong, so good fitness and navigation are essential.",
+    "terrain_summary": "Terrain varies from grassy slopes and wide tracks to rocky steps and exposed ridges. Expect steep climbs, uneven ground, and occasional boggy patches after rain. The route can be exposed at the summits, with open moorland and panoramic views; footing may be loose in places.",
+    "safety_notes": "Plan as a long day and check the weather before departing. The UK hills can change rapidly; wear sturdy boots and carry appropriate clothing. Bring map and compass (or GPS) and know how to use them. Stay on marked paths where visible, note your turn-back time, and tell someone your plan. If visibility drops or winds strengthen, consider turning back. Pack plenty of water, food, a first aid kit, a whistle, and a lightweight emergency blanket. Daylight is variable; bring a headtorch if starting early or finishing late. Trekking poles can help on steep sections.",
+    "recommended_gear": [
+      "Sturdy, ankle-supporting hiking boots",
+      "Layered clothing with a waterproof outer layer",
+      "Map and compass (or GPS device) and a fully charged phone",
+      "Water and high-energy snacks",
+      "Hat, sunglasses, and sunscreen",
+      "Lightweight headtorch",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Trekking poles (optional)",
+      "Extra layer for wind/rain"
+    ],
+    "best_seasons": "Late spring to autumn (roughly April–October) offer the best balance of daylight and milder weather. Winter hikes are possible but require advanced preparation for cold, wet, and windy conditions.",
+    "seo": {
+      "title": "Eildon Hills Trail: 16.3 km Hard Hike in the UK",
+      "meta_description": "Explore the Eildon Hills Trail, a demanding 16.3 km hike in the UK featuring exposed ridges, rugged terrain, and sweeping views. Learn safety tips and essential gear.",
+      "h1": "Eildon Hills Trail: 16.3 km Hard Hike in the UK"
+    }
   }
 }

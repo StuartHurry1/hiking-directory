@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 16327221
+  },
+  "ai": {
+    "summary": "E2 (Humber Bridge) is a hard 17.6 km ridge hike in the UK. The route crosses exposed ridgelines with significant elevation gain, offering expansive views but demanding good fitness, navigation, and weather preparedness.",
+    "terrain_summary": "Primarily ridge terrain with uneven, rocky paths and grass-covered sections. Expect exposed shoulders, steep ascents and descents, potential scrambling on loose material, and variable footing. Weather on ridges can change rapidly, with strong winds and reduced visibility possible.",
+    "safety_notes": "This route involves long miles on exposed ridges and significant elevation. Plan for daylight hours, carry maps and a compass, and do not rely solely on phone GPS. Check weather forecasts, dress in layers, and wear sturdy boots with good grip. Start early to avoid poor light; in case of injury or deteriorating conditions, have a plan to seek shelter and call for help. Stick to marked paths, be cautious near edges, and consider trekking poles for balance on uneven ground.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof shell, hat and gloves as needed)",
+      "Map and compass (and/or GPS with backup navigation)",
+      "Hydration and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and personal medications",
+      "Trekking poles",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Emergency bivy or space blanket"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) for more daylight and milder conditions; winter hikes are possible with experience and proper gear.",
+    "seo": {
+      "title": "E2 (Humber Bridge) Ridge Hike – 17.6 km Hard Trail in the UK",
+      "meta_description": "Explore the E2 (Humber Bridge) ridge hike, a challenging 17.6 km route in the UK featuring exposed ridgelines, steep climbs, and panoramic views. Plan ahead for weather and safety.",
+      "h1": "E2 (Humber Bridge) Ridge Hike"
+    }
   }
 }

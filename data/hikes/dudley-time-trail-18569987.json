@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18569987
+  },
+  "ai": {
+    "summary": "A short, easy 4 km hike on the Dudley Time Trail in the UK. Designed for casual walkers and families, it combines gentle scenery with simple trail sections and urban pathways.",
+    "terrain_summary": "Mostly flat and well-maintained paths with a mix of tarmac, gravel, and compacted dirt. Expect occasional street crossings if the route uses urban sections.",
+    "safety_notes": "Carry a refillable water bottle and wear sturdy footwear. Check the forecast and dress for the conditions. Stay on marked trails, be mindful of other pedestrians and cyclists on shared paths, and let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat",
+      "Mobile phone with emergency contact",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the most pleasant conditions; the route can be enjoyed year-round with proper clothing and preparation.",
+    "seo": {
+      "title": "Dudley Time Trail | Easy 4 km Hike in the UK",
+      "meta_description": "Explore the Dudley Time Trail, a 4 km easy hike in the United Kingdom. Learn about terrain, safety tips, and gear to bring for a relaxed day outdoors.",
+      "h1": "Dudley Time Trail: An Easy 4 km Hike in the UK"
+    }
   }
 }

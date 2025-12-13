@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 9621393
+  },
+  "ai": {
+    "summary": "A 10.7 km circular hike around Dunkery Beacon and Horner Wood on Exmoor, delivering sweeping moorland and coastal views, with woodland sections and a few moderate ascents. The route is suitable for confident hikers with steady footing and an appetite for varied terrain.",
+    "terrain_summary": "The walk combines firm forest tracks, grassy moorland, rocky sections and uneven roots near the beacon, plus shaded woodland paths through Horner Wood. Expect some steep ascents and descents, exposed open ground on the moor, and potentially muddy patches after rain.",
+    "safety_notes": "Check weather conditions before setting out, as Exmoor can be windy and visibility can change quickly. Wear sturdy hiking boots with good grip and long trousers. Carry a map and compass or GPS, plus a fully charged phone as backup. Stay on public paths, and be mindful of boggy ground and uneven surfaces. Bring enough water and snacks. In winter, daylight is shorter—start early and consider a headtorch; in case of emergency, have a whistle and basic first aid kit. Keep dogs under control and be aware of livestock and seasonal restrictions in Horner Wood.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and snacks",
+      "Waterproof jacket and pants",
+      "Warm layers",
+      "Hat and gloves (seasonal)",
+      "Map and compass or GPS device",
+      "Fully charged phone (with offline map as backup)",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Small first aid kit",
+      "Headtorch for early/late starts",
+      "Lightweight emergency blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best visibility and conditions; winter can be windy, wet and muddy, requiring extra preparation.",
+    "seo": {
+      "title": "Dunkery and Horner Wood Circular Walk – 10.7 km on Exmoor, UK",
+      "meta_description": "Explore the Dunkery and Horner Wood circular hike. A 10.7 km, moderate Exmoor walk with moorland ridges, woodland paths, and sweeping coastal views. Plan your day here.",
+      "h1": "Dunkery and Horner Wood Circular Walk"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19741914
+  },
+  "ai": {
+    "summary": "A demanding long-distance countryside hike linking Dunstable Downs with the Whipsnade Estate. The route traverses chalk downs, open ridges, and wooded tracks, delivering expansive views and a challenging day for experienced hikers.",
+    "terrain_summary": "Undulating chalk downland with wide grassy paths, occasional stony sections, and woodland connectors. Expect exposed ridge sections on the downs, potential mud after rain, and long, uninterrupted stretches between waypoints. Navigation is straightforward on familiar routes in good visibility.",
+    "safety_notes": "Plan for 6–8 hours of hiking. Bring a detailed map and compass or a GPS device, and ensure your phone is charged. Carry sufficient water (2–3 litres) and high-energy snacks. Wear sturdy boots and dress in weather-appropriate layers, including a waterproof layer. Be mindful of exposure on open downs and potential wind. Be aware of livestock and frequent gate crossings; follow gate etiquette. Some sections are remote with limited mobile coverage; tell someone your route and expected return time. Check the forecast for strong winds, heavy rain, or ice, and avoid hiking in severe conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and compass or GPS",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "First aid kit",
+      "Whistle and fully charged phone",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring to autumn is ideal; winter hiking is possible with proper gear and daylight management, but conditions can be challenging.",
+    "seo": {
+      "title": "Dunstable Downs Countryside Walk – 23.3 km Hard Hike to Dunstable Downs & Whipsnade Estate (UK)",
+      "meta_description": "Discover a challenging 23.3 km hike across Dunstable Downs and Whipsnade Estate in the UK. Terrain insights, safety tips, best seasons, and essential gear for this long-distance route.",
+      "h1": "Dunstable Downs Countryside Walk: Dunstable Downs & Whipsnade Estate (23.3 km)"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3083535
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike covering 36.8 km from Dunsford to Exeter Way in the UK. The route traverses rural countryside with hedged lanes, fields, and intermittent woodlands. It’s best suited to experienced hikers comfortable with long days, elevation changes, and variable weather; plan for a full day or split into stages.",
+    "terrain_summary": "Mostly rural footpaths and field margins, with gates and occasional stiles. Surfaces vary from compacted earth and gravel to mud and short rocky sections. Expect gentle to steep climbs, exposed open sections, and occasional water crossings after rain; navigation can be tricky in poor visibility.",
+    "safety_notes": "Check the weather forecast and daylight hours before starting; UK weather can change quickly. Carry a detailed map and compass or a reliable GPS, and know how to use them. Start early to ensure daylight; tell someone your plan and expected return time. Wear sturdy waterproof footwear and dress in layers; bring a waterproof jacket. Stay on public paths, close gates behind you, and be mindful of livestock. Pack enough water and high-energy food; have a plan for sections with limited services. If you’re unsure about navigation or conditions, consider shortening the route or hiking in stages.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat, gloves)",
+      "Backpack (20–30 L) with a rain cover",
+      "Map and compass or GPS device (and spare batteries)",
+      "Fully charged phone with offline maps as backup",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and personal medications",
+      "Sufficient water (2–3 L) and high-energy snacks",
+      "Emergency shelter or space blanket",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Whistle and a multipurpose tool",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) usually offer better daylight and drier conditions, but always check forecast; winter hikes are possible but more challenging due to weather and daylight shortening.",
+    "seo": {
+      "title": "Dunsford to Exeter Way – 36.8 km Hard Hike in the UK",
+      "meta_description": "Plan a 36.8 km trek from Dunsford to Exeter Way. Learn about terrain, safety tips, gear, and the best seasons for this demanding UK long-distance hike.",
+      "h1": "Dunsford to Exeter Way – 36.8 km Hard Hike"
+    }
   }
 }

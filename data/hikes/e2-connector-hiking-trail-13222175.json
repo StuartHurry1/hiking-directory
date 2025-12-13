@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13222175
+  },
+  "ai": {
+    "summary": "An easy 2.8 km hike along the E2 connector in the UK. Suitable for beginners and families, offering a short, low-effort outdoor walk with gentle terrain and minimal elevation.",
+    "terrain_summary": "The route follows a typically well-maintained, signposted path. Expect gentle gradients and occasional muddy or uneven sections, especially after rain. Footing is generally firm, but suitable footwear is advised.",
+    "safety_notes": "Check the forecast and dress accordingly. Wear sturdy footwear and bring weather-appropriate layers. Stay on the marked path, keep your distance from others, and be mindful of children and dogs. Carry water and a snack, and have a map or GPS device and a charged phone. Let someone know your plan and expected return time. Be prepared for changing conditions and potential mud or slip hazards.",
+    "recommended_gear": [
+      "Water and snacks",
+      "Sturdy walking shoes or light hiking boots",
+      "Lightweight waterproof jacket",
+      "Extra layers (fleece or thermal layer)",
+      "Hat and sunscreen",
+      "Small first aid kit",
+      "Map or GPS device / smartphone with offline map",
+      "Whistle and emergency contact information",
+      "Phone with a charged battery"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the trail is walkable year-round with appropriate gear, though winter conditions can be colder and wetter.",
+    "seo": {
+      "title": "E2 Connector Hiking Trail – Easy 2.8 km Hike in the UK",
+      "meta_description": "Explore the easy 2.8 km E2 Connector hiking trail in the UK. Learn about terrain, safety, gear, and the best seasons for this family-friendly hike.",
+      "h1": "E2 Connector Hiking Trail (UK) – 2.8 km Easy Hike"
+    }
   }
 }

@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 9686281
+  },
+  "ai": {
+    "summary": "EHW - Alternatives is a demanding 17.5 km hike in the UK designed for experienced walkers. The route combines long ascents, varied surface types, and optional alternate sections that increase the challenge. Expect grassy climbs, rocky paths, boggy stretches, and occasional exposed sections along ridgelines. Good navigation, strong footing, and steady pacing are essential to complete the hike safely.",
+    "terrain_summary": "Terrain varies from grassy hillside and rough field margins to rocky steps and moorland bogs, with forest tracks in parts. Some sections can be faint or poorly marked, especially on the alternatives. Footing may be uneven or slippery in wet weather; waterproof boots, trekking poles, and careful focus help reduce risk. Weather in the UK can change rapidly, influencing trail conditions and visibility.",
+    "safety_notes": "Plan for changeable weather and reduced daylight in shoulder seasons. Carry a map and compass (and know how to use them), a fully charged phone with offline maps as a backup, and inform someone of your planned times. Pack extra layers, a waterproof shell, sufficient water and snacks, a first aid kit, a whistle, a headlamp, and an emergency blanket. Be aware of boggy areas, exposed ridges, and navigation challenges on route alternatives. If conditions worsen or navigation becomes difficult, turn back or seek a safer alternative.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket",
+      "Insulating layer (fleece or down)",
+      "Map and compass (or GPS with offline maps)",
+      "Water (2–3 liters) and high-energy snacks",
+      "Headlamp or flashlight",
+      "Extra clothing layers",
+      "Hat and gloves",
+      "Emergency shelter or space blanket",
+      "First aid kit",
+      "Whistle",
+      "Trekking poles",
+      "Sun protection (sunscreen, sunglasses)",
+      "Mobile phone with offline maps and portable charger"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September)",
+    "seo": {
+      "title": "EHW - Alternatives: A 17.5 km Tough UK Hike | Gear, Safety & Route Options",
+      "meta_description": "Discover the 17.5 km EHW - Alternatives hike in the UK. Explore terrain, safety tips, essential gear, and route alternatives designed for experienced walkers.",
+      "h1": "EHW - Alternatives: A 17.5 km UK Hiking Challenge"
+    }
   }
 }

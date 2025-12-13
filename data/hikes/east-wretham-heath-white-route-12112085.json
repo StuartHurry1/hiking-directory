@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12112085
+  },
+  "ai": {
+    "summary": "A short, easy 2.4 km walk along the East Wretham Heath White Route in the UK. The route follows straightforward paths across heathland, suitable for families, beginners, and those looking for a gentle outdoor experience. Expect flat terrain, seasonal wildlife, and open skies; check weather and wear appropriate footwear.",
+    "terrain_summary": "Predominantly flat, well-defined trails across heathland. Surfaces include compact gravel, grass, and occasional boardwalks over damp areas. Expect some uneven patches and soft ground after rain; the open terrain can be exposed to sun and wind.",
+    "safety_notes": "- Check weather and daylight hours before you go. - Wear sturdy, waterproof footwear and dress for the conditions. - Stay on marked paths and respect any seasonal access rules. - Keep dogs on a leash if required; be mindful of wildlife and grazing animals. - Be aware of ticks and insects; use repellent and perform a tick check after your walk. - Carry water, snacks, a map or phone with offline maps, and a small first aid kit. - Mobile signal may be limited in remote heathland area.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent and tick protection",
+      "Map, compass or GPS-enabled device",
+      "Small first aid kit",
+      "Phone with offline maps or offline navigation",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is best for comfortable temperatures, wildlife viewing, and longer daylight; winter can be cold, muddy, and the trails may be less pleasant.",
+    "seo": {
+      "title": "East Wretham Heath White Route – Easy 2.4 km Heathland Walk in the UK",
+      "meta_description": "Enjoy a gentle 2.4 km hike on the East Wretham Heath White Route. This easy, family-friendly walk across heathland offers flat terrain, wildlife viewing, and practical safety tips.",
+      "h1": "East Wretham Heath White Route – Easy 2.4 km Heathland Walk"
+    }
   }
 }

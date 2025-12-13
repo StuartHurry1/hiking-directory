@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18571976
+  },
+  "ai": {
+    "summary": "A gentle 1.5 km urban heritage trail through Dudley's Priory Park, highlighting public art and local history along easy, family-friendly paths.",
+    "terrain_summary": "Mostly flat, well-maintained paths with paved surfaces; some gravel sections and gentle slopes near park entrances; benches and art installations along the route.",
+    "safety_notes": "Stay on marked paths; be mindful of uneven paving and seasonal wet spots; watch for cyclists and other pedestrians in shared areas; supervise children near water features; check park hours and any event closures; carry water and wear appropriate footwear, especially in wet or icy conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket or sweater",
+      "Water bottle",
+      "Mobile phone or map",
+      "Sunscreen and hat (summer)",
+      "Light snack"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and autumn; summers are suitable with shade in the park, winters can be windy or wet.",
+    "seo": {
+      "title": "Dudley Public Art Heritage Trail (Priory Park Trail) – 1.5 km Easy Walk in West Midlands, UK",
+      "meta_description": "Explore a 1.5 km easy walk through Dudley's Priory Park along the Public Art Heritage Trail. Find public art, local history, and family-friendly paths in the West Midlands.",
+      "h1": "Dudley Public Art Heritage Trail (Priory Park Trail)"
+    }
   }
 }

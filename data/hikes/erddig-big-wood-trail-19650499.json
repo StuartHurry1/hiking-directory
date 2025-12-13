@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19650499
+  },
+  "ai": {
+    "summary": "A short, family-friendly woodland loop of about 3.3 km near Erddig in the UK. An easy-rated trail that runs on gentle forest paths, suitable for all ages and casual walkers.",
+    "terrain_summary": "Mostly flat to gently undulating forest paths with compact soil and some exposed roots. Expect shaded sections, occasional damp patches after rain, and a few open clearings along the route.",
+    "safety_notes": "Wear sturdy shoes and dress for the weather. Stay on marked paths, watch for roots and uneven ground, and check rainfall beforehand. Carry water and a small snack. Be aware of wildlife and ticks in woodland areas; keep dogs under control where required. Plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (including a waterproof jacket)",
+      "Water bottle",
+      "Light snack",
+      "Sun protection (hat and sunscreen)",
+      "Map or fully charged phone with offline map"
+    ],
+    "best_seasons": "All year round, with the best conditions in spring and autumn. The trail can be muddy in winter.",
+    "seo": {
+      "title": "Erddig Big Wood Trail - 3.3 km Easy Woodland Walk in the UK",
+      "meta_description": "Discover a short 3.3 km easy woodland loop at Erddig. Family-friendly and suitable for casual walkers, with shaded paths and flat terrain.",
+      "h1": "Erddig Big Wood Trail – 3.3 km Easy Woodland Walk"
+    }
   }
 }

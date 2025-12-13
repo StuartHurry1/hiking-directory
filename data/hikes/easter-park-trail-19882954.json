@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19882954
+  },
+  "ai": {
+    "summary": "Easter Park Trail is a short, 3 km easy hike in the United Kingdom, ideal for beginners, families, and casual walkers seeking a relaxed outdoor experience. The route runs through parkland with gentle gradients and pleasant greenery, making it suitable for a quick outing or a leisurely afternoon stroll.",
+    "terrain_summary": "Predominantly well-maintained gravel and dirt paths with gentle slopes. Expect shaded sections and grassy edges; after rain, the ground can be slightly uneven or slippery in places, so good footwear is advised.",
+    "safety_notes": "- Wear sturdy, close-toed shoes and watch footing on uneven or wet sections. - Check weather and daylight before you go. - Stay on marked paths and respect other park users. - Bring water and a light snack. - Carry a phone with emergency contacts and know your location. - If you have any medical conditions, carry a basic supply kit and inform someone of your plans.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun protection (sunscreen, hat) for sunny days",
+      "Snacks",
+      "Map or GPS-enabled phone",
+      "Small first aid kit",
+      "Fully charged phone"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in late spring to early autumn; be prepared for variable UK weather and potential mud outside dry periods.",
+    "seo": {
+      "title": "Easter Park Trail — Easy 3 km Hike in the UK",
+      "meta_description": "Explore Easter Park Trail, a beginner-friendly 3 km hike in the UK. Easy terrain, parkland scenery, and gentle slopes make it perfect for families and casual walkers.",
+      "h1": "Easter Park Trail: Easy 3 km Hike in the UK"
+    }
   }
 }

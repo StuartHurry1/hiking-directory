@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 5429437
+  },
+  "ai": {
+    "summary": "A strenuous 21-kilometer hike in the United Kingdom, following a pilgrimage-style route named the Edith Cavell Pilgrimage. Expect long, demanding sections, rugged terrain, and significant elevation changes that test fitness and navigation.",
+    "terrain_summary": "Primarily upland footpaths and rocky trails with steep ascents and descents. Expect uneven footing, possible loose scree, exposed ridges, and occasional boggy patches. Weather can make surfaces slick, especially in UK conditions.",
+    "safety_notes": "Plan for changing weather; carry waterproofs and warm layers. Navigation skills are required (maps and compass; do not rely solely on GPS). Some sections are remote—inform someone of your route and expected finish. Start early to avoid fading light. Follow posted signs, stay on designated paths, and practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and overpants",
+      "Layered clothing (base layer, fleece, warm hat)",
+      "Gloves (seasonal)",
+      "Water bottle or hydration system (2-3 liters)",
+      "High-energy snacks and a small meal",
+      "Map and compass (GPS optional, not sole navigation tool)",
+      "Headlamp or torch with extra batteries",
+      "Emergency space blanket or bivvy sack",
+      "First aid kit with blister care",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Rucksack or daypack with rain cover"
+    ],
+    "best_seasons": "Spring to autumn (roughly May–September).",
+    "seo": {
+      "title": "Edith Cavell Pilgrimage: 21-Kilometer Hard Hike in the UK",
+      "meta_description": "A challenging 21 km hike in the United Kingdom along the Edith Cavell Pilgrimage route. Rugged terrain, significant elevation, and essential safety tips and gear.",
+      "h1": "Edith Cavell Pilgrimage - 21 km Hard Hike in the UK"
+    }
   }
 }

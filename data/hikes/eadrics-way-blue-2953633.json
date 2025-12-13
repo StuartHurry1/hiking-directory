@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2953633
+  },
+  "ai": {
+    "summary": "A short, easy hike along Eadric's Way (blue) in the United Kingdom. The route covers 1.3 km and is suitable for beginners and families looking for a quick outdoor stroll with light terrain.",
+    "terrain_summary": "Mostly level or gently rolling paths with a mix of grassy trails, compact gravel, and well-trodden dirt. Expect occasional uneven sections and gentle slopes; route is generally well-marked.",
+    "safety_notes": "This is a short, easy route, but UK weather can change quickly. Wear sturdy footwear and bring a light waterproof layer. Stay on official paths, watch for uneven ground, mud, and gates. Carry water, sun protection in warm weather, and a map or charged device; inform someone of your plans. In an emergency, dial 999.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes",
+      "Light waterproof jacket",
+      "Sun protection",
+      "Map or offline navigation",
+      "Snack",
+      "Phone with charged battery",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn when the weather is usually milder and daylight longer; hikes are possible year-round with proper preparation.",
+    "seo": {
+      "title": "Eadric's Way (Blue) — 1.3 km Easy Hike in the UK",
+      "meta_description": "Explore Eadric's Way, a short 1.3 km blue-rated hike in the UK. Easy terrain for beginners and families, with safety tips, gear recommendations, and best seasons.",
+      "h1": "Eadric's Way (Blue) – Easy 1.3 km Hike in the UK"
+    }
   }
 }

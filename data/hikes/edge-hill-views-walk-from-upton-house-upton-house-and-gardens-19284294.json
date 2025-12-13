@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19284294
+  },
+  "ai": {
+    "summary": "A scenic 9.6 km circular ridge walk starting from Upton House, offering sweeping views from Edge Hill and across the surrounding countryside. The route is moderate, with rolling ascents, uneven ground, and exposed ridgeline sections that reward with panoramic vistas.",
+    "terrain_summary": "The hike follows a mix of grassy tracks, compact trails, and uneven footing. Expect gentle climbs, some steeper ascents on ridges, and occasional stile crossings. Ground can be muddy after rain, and winds on exposed sections can be strong.",
+    "safety_notes": "Check weather and daylight before setting out. Stay on official paths and be mindful of exposed ridge edges. Wear sturdy footwear and be prepared for mud, wind, and changes in weather. Carry water, snacks, and a basic first aid kit; use sun protection in sunny conditions. In winter, allow extra time for icy or slippery sections. Keep dogs under control and respect property boundaries around Upton House.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes with good grip",
+      "Weather-appropriate clothing (layers; waterproof jacket)",
+      "Water and high-energy snacks",
+      "Map, compass, or GPS device; fully charged phone",
+      "Hat and sunscreen for sun exposure",
+      "Small first aid kit; blister care",
+      "Walking poles (optional)",
+      "Headlamp or flashlight if finishing after dark"
+    ],
+    "best_seasons": "Late spring to early autumn; winter can be exposed and muddy on ridges",
+    "seo": {
+      "title": "Edge Hill Views Walk from Upton House – 9.6 km Ridge Walk in the UK",
+      "meta_description": "Explore the Edge Hill Views Walk from Upton House, a 9.6 km moderate ridge walk in the UK. Learn what to expect, gear tips, safety notes, and the best seasons for this scenic hike.",
+      "h1": "Edge Hill Views Walk from Upton House"
+    }
   }
 }

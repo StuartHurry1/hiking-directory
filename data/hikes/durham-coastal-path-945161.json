@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 945161
+  },
+  "ai": {
+    "summary": "A challenging coastal hike in the UK following the Durham Coastal Path for 38.4 km. The route features sea cliffs, beaches, and exposed sections, requiring good fitness, navigation, and weather prep.",
+    "terrain_summary": "Coastal trail with cliff top paths, muddy or wet sections, sandy beaches, and rocky shorelines. Expect uneven footing, strong winds, and tidal considerations. Navigation relies on local markers and OS maps; some remote stretches have limited signposting.",
+    "safety_notes": "Plan for variable coastal weather and strong winds. Check tide times and potential closures for coastal sections. Wear sturdy waterproof boots, layered clothing, and a waterproof jacket. Carry a map and compass or GPS, and keep a charged phone with offline maps. Tell someone your route and expected finish time. Start early to maximize daylight, and consider splitting the hike into 2 days for 38.4 km. Be cautious of unstable cliffs, mud, and sudden waves at the shore.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing with a warm midlayer",
+      "Waterproof jacket and pants",
+      "Hat and sunglasses",
+      "Water bottle or hydration system (2–3 L)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit and blister care",
+      "Emergency whistle and space blanket",
+      "Trekking poles (optional)",
+      "Snacks and energy food; consider extra meals for multi-day",
+      "Dry bag or waterproof pouch for valuables"
+    ],
+    "best_seasons": "May to September",
+    "seo": {
+      "title": "Durham Coastal Path - 38.4 km Coastal Hike in the UK",
+      "meta_description": "Discover the Durham Coastal Path: a 38.4 km coastal hike in the UK. Learn about terrain, safety tips, best seasons, and gear to plan your challenging coastal adventure.",
+      "h1": "Durham Coastal Path: 38.4 km UK Coastal Hike"
+    }
   }
 }

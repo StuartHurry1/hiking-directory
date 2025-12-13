@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507990
+  },
+  "ai": {
+    "summary": "A short, easy 0.9 km woodland walk in the UK, ideal for beginners and families. The route is mostly flat with light shade and gentle scenery.",
+    "terrain_summary": "The trail runs along compact forest paths with occasional roots and a few damp patches. Surfaces are generally firm but can become muddy after rain; expect a light incline in places.",
+    "safety_notes": "Check the weather before you go. Wear sturdy footwear and bring waterproof clothing if rain is possible. Stay on marked paths, watch your footing for roots and uneven ground, and avoid disturbing wildlife. Bring a map or GPS, and let someone know your plans, especially when walking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Map or GPS",
+      "Small first aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Best in spring or autumn when conditions are dry and temperatures are comfortable; can be enjoyed year-round with appropriate precautions for mud and cold.",
+    "seo": {
+      "title": "East Burn Woods – Easy 0.9 km Woodland Walk in the UK",
+      "meta_description": "Explore East Burn Woods, an easy 0.9 km hike in the UK. This guide covers terrain, safety tips, and gear for a short woodland stroll.",
+      "h1": "East Burn Woods: Easy 0.9 km Woodland Walk"
+    }
   }
 }

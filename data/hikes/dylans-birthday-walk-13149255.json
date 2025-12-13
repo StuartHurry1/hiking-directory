@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13149255
+  },
+  "ai": {
+    "summary": "A short, easy 3.4 km hike in the United Kingdom designed for beginners and families. Dylan's Birthday Walk offers a gentle route with pleasant surroundings and a light celebratory vibe.",
+    "terrain_summary": "Mostly well maintained footpaths with gentle gradients. Expect some grassy sections and a few uneven patches; underfoot is generally easy for casual walkers.",
+    "safety_notes": "Plan ahead with a weather check and daylight planning. Wear sturdy footwear, stay on marked trails, and carry water. Keep a map or GPS handy, tell someone your route, and avoid hiking alone in remote areas. Be mindful of others and wildlife, and watch for uneven surfaces after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water",
+      "Snack",
+      "Sun hat and sunscreen",
+      "Lightweight rain jacket",
+      "Map or GPS device",
+      "Compact first aid kit"
+    ],
+    "best_seasons": "Year round in the UK, with best conditions in spring and summer.",
+    "seo": {
+      "title": "Dylan's Birthday Walk - Easy 3.4 km Hike in the UK",
+      "meta_description": "Discover Dylan's Birthday Walk, a short and easy 3.4 km hike in the UK. Family friendly terrain, safety tips, and gear recommendations.",
+      "h1": "Dylan's Birthday Walk: Easy 3.4 km Hike in the UK"
+    }
   }
 }

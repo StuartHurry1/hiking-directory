@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19508737
+  },
+  "ai": {
+    "summary": "Eastergate Return is a short, easy 1.1 km hike in the UK. It’s ideal for families, beginners, and a quick outdoor escape, offering gentle terrain and countryside scenery with minimal elevation.",
+    "terrain_summary": "Mostly flat, well-trodden paths along rural lanes. Expect a mix of compact gravel, grass sections, and hedgerows; occasional uneven ground near field boundaries. Suitable for most footwear.",
+    "safety_notes": "- Check weather before you go; dress in layers and carry a lightweight waterproof if rain is forecast. - Wear sturdy walking shoes. - Be aware of road crossings and farm entrances; stay on designated paths. - Carry water and a charged phone; consider a simple map or offline navigation. - Take care in low light or icy conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof)",
+      "Hat and sunscreen",
+      "Small backpack",
+      "Phone with emergency contacts and offline map"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering particularly pleasant walking conditions.",
+    "seo": {
+      "title": "Eastergate Return - Easy 1.1 km Hike in the UK",
+      "meta_description": "Discover Eastergate Return, a short and easy 1.1 km hike in the UK. Perfect for beginners and families, with flat terrain, rural scenery, and practical safety tips.",
+      "h1": "Eastergate Return – Easy 1.1 km Hike in the UK"
+    }
   }
 }

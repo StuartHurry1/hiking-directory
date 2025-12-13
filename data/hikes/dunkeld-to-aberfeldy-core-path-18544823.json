@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 18544823
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Dunkeld to Aberfeldy Core Path in Scotland. The route covers about 40.9 km (roughly 25 miles) from Dunkeld to Aberfeldy, offering a mix of river valley scenery, woodland trails, and open farmland. It is best undertaken by experienced walkers with good navigation, ample daylight, and the fitness for a full-day (or longer) trek.",
+    "terrain_summary": "Varied terrain including forest tracks, riverside paths, farm tracks, and some open moorland and gentle hill sections. Surfaces range from compacted earth and gravel to muddy, uneven trails and short rocky stretches. Expect both gradual ascents and descents; weather can make trails slippery, and navigation may be required in places where waymarkers are sparse.",
+    "safety_notes": "This is a long, demanding hike. Plan for a full day (or more) on challenging terrain. Check weather and daylight hours before setting out. Carry a detailed map and compass (or GPS) and know how to use them; consider sharing your route with someone. Wear sturdy waterproof boots and bring appropriate layers, a waterproof shell, hat and gloves. Pack sufficient water and high-energy food, plus a headlamp, basic first aid kit, and a emergency layer. Mobile signal may be limited in remote sections; be prepared for wildlife on farmland sections and potential river crossings. In winter, ice, mud and reduced daylight increase risk.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate outer layer: waterproof jacket and trousers",
+      "Insulating layers (fleece or down)",
+      "Hat and gloves",
+      "Backpack (20–30 L) with rain cover",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "High-energy snacks and meals",
+      "Map and compass (and/or GPS) with route loaded",
+      "Phone with offline maps and a power bank",
+      "Headlamp or flashlight with extra batteries",
+      "Personal first aid kit",
+      "Emergency bivy or space blanket",
+      "Multi-tool or knife",
+      "Trekking poles (optional but helpful)",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "May to September (late spring to early autumn) for longer daylight and typically more favorable conditions; outside this window be prepared for shorter days and variable weather.",
+    "seo": {
+      "title": "Dunkeld to Aberfeldy Core Path – 41 km Scotland Hike",
+      "meta_description": "Explore the Dunkeld to Aberfeldy Core Path, a challenging 41 km route through Perthshire, Scotland. Varied terrain, river valleys, and woodland trails with practical safety tips and gear.",
+      "h1": "Dunkeld to Aberfeldy Core Path (41 km)"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 3447019
+  },
+  "ai": {
+    "summary": "A concise, easy 3.5 km circular hike in the UK suitable for beginners and families. The route offers a short, light walk with gentle terrain, making it a quick outdoor escape.",
+    "terrain_summary": "Predominantly well-maintained paths with a mix of compacted dirt and gravel. Occasional grassy sections and minor mud after rain; generally flat with gentle undulations.",
+    "safety_notes": "- Wear sturdy footwear. - Check the weather forecast before you go. - Stay on marked paths and follow any posted signs. - Bring water and a small snack. - Let someone know your planned route and expected return time. - Be mindful of traffic at any road crossings.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat (sunny days)",
+      "Map or smartphone with offline map",
+      "Small backpack for essentials",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "All-year round, with the best conditions in spring and autumn.",
+    "seo": {
+      "title": "Erewash Circular Route 13 – Easy 3.5 km Hike in the UK",
+      "meta_description": "Explore Erewash Circular Route 13, a short and easy 3.5 km circular hike in the UK. Perfect for beginners and families seeking a quick outdoor stroll with light terrain.",
+      "h1": "Erewash Circular Route 13 — Easy 3.5 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19211282
+  },
+  "ai": {
+    "summary": "A circular hike starting and finishing in Edale, exploring the High Peak area of the Peak District. The 12.1 km moderate route climbs and returns along the valley, offering views over Edale, surrounding moorland, and the Hope Valley. Suitable for walkers with some hill experience.",
+    "terrain_summary": "Mixed terrain including well-defined footpaths, grassy sections, rocky ascents, and uneven, stony ground. Watch for wet patches after rain and occasional exposed sections near Hollins Cross and Lose Hill. Suitable footwear required.",
+    "safety_notes": "Check the forecast and be prepared for upland weather changes. Carry a map and compass or GPS, dress in layers, and waterproofs. Stay on marked paths, watch footing on wet rock, and start early in shorter daylight months. Bring enough water and food, and have a small first aid kit and whistle for emergencies.",
+    "recommended_gear": [
+      "Walking boots with good grip",
+      "Weatherproof jacket and trousers",
+      "Warm layers (fleece/jacket)",
+      "Hat and gloves (seasonal)",
+      "Map and compass or GPS",
+      "Water and light snacks (2–3 L depending on conditions)",
+      "Headlamp or flashlight (in case of late finish)",
+      "Emergency whistle",
+      "Small first-aid kit",
+      "Sun protection (sunscreen and sunglasses)",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (April–October) are ideal; winter hiking is possible with careful planning and gear.",
+    "seo": {
+      "title": "Edale Circular Walk, High Peak – 12.1 km Moderate Hike in the Peak District",
+      "meta_description": "Explore the Edale Circular Walk in the Peak District: a 12.1 km moderate hike through Edale and High Peak with varied terrain, moorland scenery, and practical safety tips.",
+      "h1": "Edale Circular Walk, High Peak – 12.1 km Moderate Hike"
+    }
   }
 }

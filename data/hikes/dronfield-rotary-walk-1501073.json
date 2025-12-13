@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1501073
+  },
+  "ai": {
+    "summary": "Dronfield Rotary Walk is a long-distance circuit in the UK, totaling 84.8 km with a hard difficulty rating. It traverses rural countryside and village lanes, typically spread over two to three days for experienced hikers, offering varied scenery and a true endurance challenge.",
+    "terrain_summary": "Expect a mix of solid bridleways, compact country lanes, hedged footpaths, and several stiles. Terrain ranges from firm, well-made paths to muddy fields after rain. There may be some gentle climbs and longer flat stretches, with occasional road crossings and uneven ground.",
+    "safety_notes": "Plan the route in advance and check the weather; carry a detailed map and a charged phone; use a compass or GPS device. Wear sturdy waterproof boots and bring appropriate clothing for layering. Carry sufficient water and high-energy snacks, plus a small first aid kit and a whistle. Be aware of livestock, crops, and road traffic on any road sections. Share your itinerary with someone, monitor daylight hours, and have a backup plan in case of injury or weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Moisture-wicking base layers",
+      "Waterproof and breathable outer shell",
+      "Extra warm layer",
+      "Hat and gloves (season dependent)",
+      "Map and compass or GPS device",
+      "Charged mobile phone and power bank",
+      "Water and energy-rich snacks",
+      "Lightweight rain cover for backpack",
+      "Headlamp or flashlight",
+      "First aid kit and emergency whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) offers the most comfortable conditions for this 84.8 km route. Winter can be undertaken with additional planning for shorter daylight hours, wetter and more challenging conditions.",
+    "seo": {
+      "title": "Dronfield Rotary Walk – 84.8 km UK Long-Distance Hike",
+      "meta_description": "Explore the Dronfield Rotary Walk, an 84.8 km hard-distance circuit in the UK. Get practical tips on terrain, safety, and gear for a multi-day adventure.",
+      "h1": "Dronfield Rotary Walk (84.8 km) – A Hard UK Long-Distance Circuit"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17289185
+  },
+  "ai": {
+    "summary": "Dumbledore Trail is a short, easy 1.1 km walk in the UK suitable for families and beginners. The route follows a gentle path with light scenery and minimal elevation.",
+    "terrain_summary": "The trail uses a well-marked combination of gravel and dirt paths with some grassy sections. Expect gentle undulations and occasional uneven patches; conditions can be muddy after rain.",
+    "safety_notes": "Check the weather before you go. Wear sturdy, waterproof footwear and bring a light rain jacket. Stay on marked paths and be aware of other users on shared sections. Carry water and a small snack if needed. In winter daylight is short; start early and plan return before dark. Mobile signal may be weak in rural areas; inform someone of your plans and expected return time. Watch for low branches and wildlife.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Light rain jacket or windbreaker",
+      "Hat and sunscreen for sunny days",
+      "Map, GPS, or fully charged smartphone",
+      "Snack and a small first-aid kit"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are generally most pleasant; the trail can be hiked in winter with proper gear, though it may be muddy or icy.",
+    "seo": {
+      "title": "Dumbledore Trail — 1.1 km Easy Hike in the UK",
+      "meta_description": "Explore the Dumbledore Trail, a short 1.1 km easy hike in the UK. Perfect for families and beginners with a gentle, well-marked path and practical safety tips.",
+      "h1": "Dumbledore Trail — 1.1 km Easy UK Hike"
+    }
   }
 }

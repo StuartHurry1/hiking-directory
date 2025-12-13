@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 5523325
+  },
+  "ai": {
+    "summary": "Effingham walk (SCC) is a challenging 20.6 km circuit in the UK, starting near Effingham and looping through a mix of rural lanes, hedgerows, woodlands, and farmland. The route combines several gentle ascents with longer flat stretches and can be physically demanding.",
+    "terrain_summary": "Terrain is varied: tarmac roads, compact paths, grassy field edges, and woodland tracks. Expect uneven ground, occasional muddy sections after rain, stiles, and some exposed sections with limited shade.",
+    "safety_notes": "Plan for 6–8 hours. Check weather and daylight; wear sturdy waterproof boots. Carry a map and compass (or reliable GPS), plus a charged phone. Stay on official paths; mind livestock in fields and road crossings. Bring enough water and snacks; have a means to signal for help (whistle). Let someone know your route and ETA.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and insulating layers",
+      "Map and compass (or GPS device)",
+      "Water and energy snacks",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Gloves and a warm layer for cold weather",
+      "Basic first aid kit",
+      "Headlamp or flashlight (in case of delays)",
+      "Whistle and mobile phone with offline map"
+    ],
+    "best_seasons": "Spring to autumn for best conditions; summer offers longer daylight, while winter can be muddy and exposed; adjust gear accordingly.",
+    "seo": {
+      "title": "Effingham Walk (SCC) – 20.6 km Hard Hike in the UK",
+      "meta_description": "Explore the Effingham Walk (SCC), a challenging 20.6 km circuit in the UK. This hard hike combines rural lanes, fields and woodland with elevation and navigation challenges. Practical safety tips and gear.",
+      "h1": "Effingham walk (SCC) – 20.6 km Hard Hike"
+    }
   }
 }

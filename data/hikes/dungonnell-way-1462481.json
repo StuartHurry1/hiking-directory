@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1462481
+  },
+  "ai": {
+    "summary": "Dungonnell Way is a challenging 19.8 km hike in the UK designed for experienced walkers seeking a strenuous day on the trail. With a long distance and tough terrain, it demands solid fitness, navigation, and reliable gear.",
+    "terrain_summary": "The route features variable UK terrain: long stretches of uneven tracks, grassy ascents, and possible muddy or rocky sections. Expect steep climbs and descents, with sections on open ground where footing can be uncertain. Navigation is straightforward on well-marked paths but local uncertainties in unknown regions may occur.",
+    "safety_notes": "Plan for 6–8 hours of hiking. Wear sturdy, waterproof boots with good ankle support. Dress in layers and carry a waterproof outer layer. Bring enough water (at least 1–2 liters) and high-energy snacks. Carry a map and compass or a GPS device; ensure your phone is charged as a backup. Check the weather and daylight hours before starting; avoid extreme conditions. Expect muddy sections and potential ankle twists; use trekking poles if helpful. Stay on official paths and watch for signs. Inform someone of your planned route and expected return. In winter, be prepared for ice, wind, and reduced daylight; avoid this route in severe weather.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weather-appropriate clothing in layers (base layer, mid-layer, waterproof shell)",
+      "Water and high-energy snacks (at least 1–2 liters of water, plus snacks)",
+      "Map, compass, and/or GPS device; fully charged phone as backup",
+      "Small first aid kit and whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but helpful on long ascents)",
+      "Emergency blanket or space blanket",
+      "Headlamp or flashlight with extra batteries",
+      "Rain gear and extra socks"
+    ],
+    "best_seasons": "Spring to autumn; particularly late spring, summer, and early autumn. Winter hikes are more challenging due to mud, weather, and shorter daylight.",
+    "seo": {
+      "title": "Dungonnell Way – 19.8 km Hard Hike in the UK",
+      "meta_description": "Discover Dungonnell Way, a 19.8 km hard hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Dungonnell Way: A 19.8 km Hard Hike in the UK"
+    }
   }
 }

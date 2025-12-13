@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19859670
+  },
+  "ai": {
+    "summary": "A 7.2 km circular walk through Eaves Wood in the UK. This moderate hike combines woodland paths with gentle elevation changes, offering scenic forest views and a peaceful outdoor experience. The route starts and ends at the same point and is suitable for walkers with some prior experience.",
+    "terrain_summary": "Predominantly woodland and grassy paths with occasional compacted earth. Expect uneven surfaces, exposed roots, and occasional mud after rain. The route includes gentle to moderate climbs and some steps, but remains manageable for most hikers.",
+    "safety_notes": "Wear sturdy boots with good grip and stay on marked paths. Watch for uneven ground, exposed roots, and mud, especially after rain. Carry water, a map or GPS, and a basic first aid kit. Check the weather forecast before you go, and be prepared for changes in conditions in woodland areas. To reduce tick exposure, stay on open trails and perform a quick check after the hike. Plan your start time to avoid very short daylight hours in winter, and let someone know your intended route.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and some high-energy snacks",
+      "Map or GPS device",
+      "Small first aid kit",
+      "Insect repellent and sunscreen",
+      "Hat and gloves (seasonal)",
+      "Lightweight rain cover or pack liner"
+    ],
+    "best_seasons": "Spring to Autumn (with potentially muddy conditions in winter)",
+    "seo": {
+      "title": "Eaves Wood Circular Walk – 7.2 km Moderate Hike in the UK",
+      "meta_description": "Explore the 7.2 km Eaves Wood Circular Walk in the UK. A moderate woodland circuit offering gentle climbs, tranquil scenery, and practical tips for gear and safety.",
+      "h1": "Eaves Wood Circular Walk"
+    }
   }
 }

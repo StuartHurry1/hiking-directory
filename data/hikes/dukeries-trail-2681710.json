@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2681710
+  },
+  "ai": {
+    "summary": "The Dukeries Trail is a challenging long-distance hike in the United Kingdom, covering about 129.7 km. Designed for experienced trekkers, the route presents a mix of upland moor, woodland trails, exposed open sections, and rural lanes, with significant cumulative elevation.",
+    "terrain_summary": "Expect a varied mix of grassy paths over rolling hills, peat bogs in upland zones, woodland tracks, country lanes, and occasional road crossings. Some sections are exposed in open moorland; path marking can be intermittent in remote stretches. Navigation and map-reading are essential.",
+    "safety_notes": "This is a long, strenuous journey that may require multiple days or a very demanding single push. Plan thoroughly: know your daily distances and camping options, check weather forecasts, and carry appropriate clothing for sudden changes. Always carry a reliable map and compass (GPS as backup), and inform someone of your itinerary. Water sources can be scarce in some sections, so bring sufficient water and a means to treat it. Wear sturdy, waterproof boots and use trekking poles if helpful. Be prepared for boggy ground, steep ascents, gates/stiles, and variable UK weather; carry a first aid kit, emergency blanket, whistle, and a means of communication. Leave no trace and respect livestock and wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots (well broken-in)",
+      "Weather-appropriate layers and a waterproof jacket",
+      "Backpack with rain cover",
+      "Map and compass (and GPS as backup)",
+      "Water bottle or hydration bladder (2–3 litres total capacity)",
+      "High-energy snacks and lightweight meals (for multi-day trips)",
+      "First aid kit and emergency blanket",
+      "Headlamp with extra batteries",
+      "Whistle and personal locator beacon or charged mobile for emergencies",
+      "Trekking poles (optional but helpful)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Dry bags or waterproof stuff sacks",
+      "Emergency bivy or lightweight tarp for shelter",
+      "Extra socks and a warm hat/gloves for cold conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offer the best overall conditions and daylight for a 129.7 km hike. Winter can be challenging due to shorter days, colder temperatures, and often more difficult terrain; plan accordingly.",
+    "seo": {
+      "title": "Dukeries Trail – 129.7 km Hard Hike in the UK",
+      "meta_description": "Plan your trek on the Dukeries Trail, a challenging 129.7 km hike in the United Kingdom. Terrain, safety tips, gear lists, and best seasons.",
+      "h1": "Dukeries Trail: A 129.7 km Hard Hike in the UK"
+    }
   }
 }

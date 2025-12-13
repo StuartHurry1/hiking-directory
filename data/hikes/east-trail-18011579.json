@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 18011579
+  },
+  "ai": {
+    "summary": "East Trail is a short, easy 1.2 km hike in the UK, suitable for beginners and families. It offers a gentle walk with light scenery and minimal elevation.",
+    "terrain_summary": "The route follows flat or gently undulating paths, mostly well-maintained gravel and compact soil. Expect some roots or small rocks near shaded sections; can be uneven in places.",
+    "safety_notes": "Dress for changeable UK weather, wear sturdy footwear, stay on marked paths, and keep to daylight hours. Bring water and a basic map or GPS. Be cautious on wet or muddy sections and watch for other walkers and cyclists if the trail overlaps with shared routes.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sunscreen and hat (for sunny days)",
+      "Map or offline navigation app"
+    ],
+    "best_seasons": "Spring and autumn offer the most comfortable conditions; the trail is walkable year-round with appropriate gear for winter or rainy seasons.",
+    "seo": {
+      "title": "East Trail: 1.2 km Easy Hike in the UK",
+      "meta_description": "Explore East Trail, a short 1.2 km easy hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this beginner-friendly trail.",
+      "h1": "East Trail: 1.2 km Easy Hike in the UK"
+    }
   }
 }

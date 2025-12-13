@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 16146011
+  },
+  "ai": {
+    "summary": "East Feal Stroll is a roughly 7.9 km moderate hike in the UK designed for walkers with some experience. It offers a pleasant rural route with gently rolling terrain, scenic glimpses, and a mix of well-trodden paths and occasional grassy sections. Expect a couple of mild climbs and potential mud after rain; typical duration around 2 to 3 hours depending on pace and conditions.",
+    "terrain_summary": "The route traverses a mix of well-maintained paths, grassy fields, and minor upland tracks. Expect gentle ascents and descents, some uneven ground near field margins, and occasional gates or stiles. Ground can be muddy after rain, especially in lower fields or near streams; waterproof footwear is recommended.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy footwear with good grip and bring weather-appropriate clothing. Stay on marked paths, be prepared for mud, and mind gates or livestock. Carry a map and compass or GPS, plus a fully charged phone as a backup. Bring water and snacks, sun protection in sunny conditions, and a small first aid kit. Tell someone your plan and expected return time. If visibility is poor or ground is very wet, consider turning back.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (waterproof jacket, warm layer)",
+      "Backpack with water and snacks",
+      "Map and compass or GPS device",
+      "First aid kit",
+      "Headlamp or phone with flashlight",
+      "Sun protection (sunscreen, sunglasses)",
+      "Extra socks and basic repair kit (tape, zip ties)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) in the UK; winter can be muddy and daylight is shorter, affecting duration and safety.",
+    "seo": {
+      "title": "East Feal Stroll — 7.9 km Moderate Hike in the UK",
+      "meta_description": "Plan your walk on East Feal Stroll, a 7.9 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and the gear you’ll need for an enjoyable day on the trail.",
+      "h1": "East Feal Stroll: 7.9 km Moderate Hike in the UK"
+    }
   }
 }

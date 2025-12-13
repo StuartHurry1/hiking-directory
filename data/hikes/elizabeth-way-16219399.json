@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16219399
+  },
+  "ai": {
+    "summary": "Elizabeth Way is a challenging 15-kilometre hike in the UK that combines varied terrain, long distances, and potential elevation gain. The route traverses rural trails, fields, and occasional rocky sections, offering a rewarding day for experienced trekkers prepared for changeable weather.",
+    "terrain_summary": "The trail features a mix of grassy paths, rocky stiles, and boggy patches. Expect steep ascents and descents in places, exposed ridges, and uneven footing, especially after rain. Navigation is straightforward on well-marked paths, but in the less-traveled segments a map or GPS helps.",
+    "safety_notes": "For a hard 15 km hike in the UK, check the forecast, wear sturdy waterproof boots, and bring layered clothing and a waterproof jacket. Carry a map and compass or GPS, sufficient water and high-energy snacks, a small first aid kit, and a charged mobile phone. Tell someone your plan, start early if weather is poor, and be prepared for sudden changes in weather and footing.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Backpack with 20–30 litres capacity",
+      "Water bottle or hydration system",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle",
+      "Snacks or energy bars",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Trekking poles (optional)",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–September) generally offers the best hiking conditions in the UK; be prepared for mud and rain in shoulder seasons and for wind on exposed sections.",
+    "seo": {
+      "title": "Elizabeth Way: A 15 km Hard Hike in the UK",
+      "meta_description": "Plan your Elizabeth Way hike: a challenging 15 km trek in the UK with varied terrain, safety tips, best seasons, and essential gear for experienced trekkers.",
+      "h1": "Elizabeth Way — 15 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16837109
+  },
+  "ai": {
+    "summary": "A 12.4 km moderate circuit in the UK around Dunkeld-themed scenery, offering woodland trails, river sections, and seasonal 'grotto' sights. Suitable for hikers with some experience, it combines steady pacing with mixed terrain and gentle hills.",
+    "terrain_summary": "Mix of well-kept trails, woodland paths, and occasional rocky or muddy sections. Expect uneven ground in places, with gentle elevation changes and potential waterlogged stretches, especially after rain. Suitable for hikers with moderate fitness.",
+    "safety_notes": "Check weather and daylight; UK conditions can change quickly, especially in winter. Wear sturdy waterproof boots and dress in layers. Stay on marked paths; watch for slippery leaves and mud. Bring a map or GPS, a charged phone, and a basic first aid kit. Carry water and snacks, and keep to a sensible pace. Let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing and a waterproof outer layer",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Headlamp or torch (winter) with spare batteries",
+      "Lightweight emergency poncho or extra outer layer",
+      "Small first aid kit",
+      "Whistle for safety emergencies",
+      "Phone with full battery and emergency numbers",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "All seasons; winter for festive atmosphere, summer for longer daylight.",
+    "seo": {
+      "title": "Dunkeld Christmas Grotto Walk – 12.4 km Moderate Hike",
+      "meta_description": "Discover the Dunkeld Christmas Grotto Walk, a 12.4 km moderate hike in the UK featuring woodland trails, seasonal scenery, and scenic views.",
+      "h1": "Dunkeld Christmas Grotto Walk – 12.4 km Moderate Hike"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7904877
+  },
+  "ai": {
+    "summary": "A 7 km moderate hike from Edzell to the Rocks of Solitude, combining quiet country lanes, woodland paths and rocky viewpoints. The route is suitable for hikers with some experience and typically takes about 2–3 hours, depending on pace and conditions. The Rocks of Solitude offer distinctive rock formations and a sense of solitude in a largely rural setting.",
+    "terrain_summary": "Terrain alternates between narrow country lanes, well-trodden footpaths, and rocky sections near the Rocks of Solitude. Expect uneven surfaces, exposed roots and stones, and occasional muddy patches after rain. There are short ascents and descents with modest elevation gain.",
+    "safety_notes": "Plan for changeable weather and shorter daylight hours; check the forecast before departure. Wear sturdy, waterproof footwear with good grip and dress in layered clothing. Stay on marked paths and respect land access rules; be cautious near rocky edge sections. Carry a map or GPS, a fully charged phone, and a whistle for emergencies. Bring enough water and snacks; a lightweight rain shell is advisable. Let someone know your route and expected return time. If hiking in winter, be prepared for icy patches and shortened daylight.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layers",
+      "Fully charged phone and a map/GPS",
+      "Water and snacks",
+      "Hat and sun protection (seasonal)",
+      "Headlamp or flashlight (in case of late return)",
+      "Lightweight rain cover or poncho",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions for this route, with longer daylight and milder weather; winter hikes are possible but require careful planning and equipment.",
+    "seo": {
+      "title": "Edzell to Rocks of Solitude – 7 km Moderate Hike in the UK",
+      "meta_description": "Discover the Edzell to Rocks of Solitude hike: a 7 km moderate route through country lanes and rocky viewpoints. Practical safety tips, gear, and best seasons.",
+      "h1": "Edzell to Rocks of Solitude — 7 km Moderate Hike"
+    }
   }
 }

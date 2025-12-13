@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 370663
+  },
+  "ai": {
+    "summary": "Ebor Way is a demanding long-distance hike in the UK, spanning 310.2 km. The route weaves through varied countryside, historic towns and rural landscapes, demanding sustained daily effort and reliable navigation.",
+    "terrain_summary": "The trail traverses a mix of surfaces common to UK paths: grassy lanes, farmland tracks, chalk paths, woodlands, and occasional minor road sections. Elevation varies with rolling hills and some longer ascents; conditions can be muddy after rain. Wayfinding relies on waymarkers and maps.",
+    "safety_notes": "Treat this as a multi-day trek: monitor weather forecasts and daylight hours, carry a detailed map, compass, and a GPS backup, and inform someone of your itinerary. Be prepared for sudden weather changes, carry sufficient nutrition and water, and take care on rural roads, livestock areas, and exposed or remote sections. Have a plan for rests and emergencies; know where to seek help if needed.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing for variable temperatures",
+      "Rucksack with 40-60L capacity",
+      "Water containers or hydration system (2-3 liters)",
+      "Map and compass (and optional GPS)",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Emergency whistle and reflective gear",
+      "High-energy snacks and meals",
+      "Tent or bivouac gear and sleeping bag (for remote sections)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Mobile phone with portable charger",
+      "Emergency contact and insurance details"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the best balance of daylight and weather for this distance. Be prepared for rain and mud during shoulder seasons; winter hiking is possible only with careful planning and appropriate gear.",
+    "seo": {
+      "title": "Ebor Way – 310.2 km UK Long-Distance Hike",
+      "meta_description": "Plan and prepare for the 310.2 km Ebor Way in the UK. A hard-difficulty, long-distance trail with varied terrain, seasonal considerations, safety tips, and essential gear recommendations.",
+      "h1": "Ebor Way: 310.2 km UK Long-Distance Hike"
+    }
   }
 }

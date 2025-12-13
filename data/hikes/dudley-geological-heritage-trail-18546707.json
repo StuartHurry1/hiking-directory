@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18546707
+  },
+  "ai": {
+    "summary": "The Dudley Geological Heritage Trail is a short, easy 1.6 km walk in the United Kingdom that highlights local geology and rock formations along a small, well-marked route. Suitable for families and casual walkers, it offers a concise introduction to the area's geological heritage without strenuous effort.",
+    "terrain_summary": "Primarily flat, well-maintained paths with a mix of tarmac and compact gravel. Occasional uneven sections near exposed rocks or information stops; gentle slopes may be encountered. The route is accessible for most walkers, but stout footwear is recommended.",
+    "safety_notes": "Check the weather before you go and wear sturdy shoes. Stay on marked paths, heed any notice boards, and avoid touching unstable rock or cliff sections. Keep an eye on children and watch for other pedestrians or cyclists. Bring water and a light rain jacket in case of showers; know your limits and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Small backpack",
+      "Map or offline route",
+      "Camera or smartphone",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring, summer and early autumn are ideal in the UK, but the trail can be walked year-round with proper footwear and weather-appropriate clothing.",
+    "seo": {
+      "title": "Dudley Geological Heritage Trail – Easy 1.6 km Walk in the UK",
+      "meta_description": "Explore the Dudley Geological Heritage Trail, a short 1.6 km easy walk in the UK that highlights local geology. Learn about rock formations and keep your footing on well-maintained paths.",
+      "h1": "Dudley Geological Heritage Trail – Easy 1.6 km Walk"
+    }
   }
 }

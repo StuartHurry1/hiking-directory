@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 2564024
+  },
+  "ai": {
+    "summary": "A challenging 21.6 km hike in the UK countryside that links East Keskick and Hetchell Wood. The route is listed as 6.25 miles in some sources and 21.6 km in others, and it is expected to take about 3.5 hours, though pace will vary with terrain. The hike combines woodland trails with potential muddy, uneven sections and occasional steeper climbs.",
+    "terrain_summary": "Predominantly woodland trails through East Keskick and Hetchell Wood. Expect uneven surfaces, exposed roots, possible mud, and some steeper short climbs. Weather and damp conditions can affect footing; parts of the route may be shaded and cool year-round.",
+    "safety_notes": "Check weather forecast and daylight hours before starting. Wear sturdy waterproof boots and layered clothing. Carry map, compass or GPS, a charged phone, water and snacks. Stay on clearly marked paths, watch for slippery roots and mud, and be prepared for seasonal wildlife. In an emergency, call 999.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and extra layers",
+      "Waterproof jacket and trousers",
+      "Map and compass or GPS device",
+      "Phone with offline maps",
+      "Headlamp or torch",
+      "First aid kit",
+      "Whistle",
+      "Emergency blanket or space blanket",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn (roughly March to October) with careful planning in Winter; conditions can be challenging year-round in the UK",
+    "seo": {
+      "title": "East Keskick and Hetchell Wood Trail – 21.6 km Hard Hike in the UK",
+      "meta_description": "Explore the challenging 21.6 km East Keskick and Hetchell Wood hike in the UK. Woodland trails, hard terrain, and practical safety tips with gear recommendations.",
+      "h1": "East Keskick and Hetchell Wood – 21.6 km Hard Hike"
+    }
   }
 }

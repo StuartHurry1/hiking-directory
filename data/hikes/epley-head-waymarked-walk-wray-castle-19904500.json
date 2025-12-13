@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19904500
+  },
+  "ai": {
+    "summary": "A short, easy 3.5 km loop along the Epley Head Waymarked Walk starting near Wray Castle in the UK. Suitable for families and casual walkers, it offers gentle terrain, pleasant lakeside and headland views, and a straightforward route ideal for a relaxed half-day outing.",
+    "terrain_summary": "The surface is a mix of well-marked path, compact gravel, and short grassy sections with occasional exposed rocks. Most of the route is flat to gently undulating, with a few gentle ascents toward open headland. Expect mud after rain and some windy open stretches along the headland.",
+    "safety_notes": "Stay on the waymarked path; wear sturdy footwear; check weather and wind conditions for exposed headland sections; carry water, a lightweight layer, and a light waterproof; be mindful of others on narrower sections; watch for crowds near Wray Castle access points.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Small daypack",
+      "Map or offline navigation (or a charged phone with offline maps)",
+      "Hat and sun protection",
+      "Light first-aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) in the UK; winter visits are possible but often wetter and muddier, requiring extra care.",
+    "seo": {
+      "title": "Epley Head Waymarked Walk, Wray Castle – 3.5 km Easy Hike in the UK",
+      "meta_description": "Explore a 3.5 km easy loop at Epley Head Waymarked Walk near Wray Castle, UK. Gentle terrain, lakeside views, and a family-friendly route suitable for a relaxed day out.",
+      "h1": "Epley Head Waymarked Walk, Wray Castle"
+    }
   }
 }

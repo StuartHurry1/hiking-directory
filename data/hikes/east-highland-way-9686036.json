@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 9686036
+  },
+  "ai": {
+    "summary": "A challenging 339.4 km long-distance hike in the UK, tracing rugged Highland terrain from glens to lochs and exposed ridges. Classified as hard, it requires solid endurance, navigation skills, and several days on the trail.",
+    "terrain_summary": "Expect varied highland terrain: rocky paths, peat bogs, scree slopes, forested sections, open moorland, stream crossings, and remote stretches with little shelter. Significant elevation gain and rapidly changing weather are common on this route.",
+    "safety_notes": "Plan for multiple days on the trail and ensure you have strong fitness and navigation skills. Tell someone your itinerary and check weather forecasts regularly. Carry a detailed map and compass (GPS as backup), a fully charged headlamp, a first-aid kit, emergency shelter, sufficient water and food, and a means to communicate in remote areas. Be prepared for sudden weather changes, track closures, and limited rescue access in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Breathable waterproof jacket and insulating layers",
+      "Hat and gloves for variable weather",
+      "Map and compass (GPS as backup)",
+      "Headlamp with spare batteries",
+      "Water bottle or hydration system (3–4 L capacity)",
+      "High-energy food and lightweight stove or cooking setup if multi-day",
+      "Emergency shelter or bivy sack",
+      "Small first aid kit and blister care supplies",
+      "Whistle and multi-tool"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) in the UK Highlands; however, weather is highly variable year-round and daylight is essential for a route of this length.",
+    "seo": {
+      "title": "East Highland Way — 339.4 km Hard Long-Distance Trek in the UK",
+      "meta_description": "Explore the East Highland Way, a demanding 339.4 km trail in the UK. Get terrain details, safety tips, gear recommendations, and the best season to hike this challenging route.",
+      "h1": "East Highland Way: 339.4 km Hard Long-Distance Trek in the UK Highlands"
+    }
   }
 }

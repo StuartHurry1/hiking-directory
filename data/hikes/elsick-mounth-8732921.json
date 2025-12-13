@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8732921
+  },
+  "ai": {
+    "summary": "A 9.3 km moderate hike along the historic Elsick Mounth route in the UK, offering a mix of farmland tracks, quiet lanes, and gentle upland sections with countryside views.",
+    "terrain_summary": "Mostly well-defined paths and grassy tracks, with some rough sections and minor elevation changes. Expect hedgerows, field stiles, and occasional exposed footing; can be muddy after rain.",
+    "safety_notes": "- Weather in the UK can change quickly; check forecast and bring layers. - Wear sturdy footwear and be prepared for mud. - Follow waymarked routes; carry a map or GPS; know your route. - Mind livestock on farmland; close gates. - Take water, snacks, and a basic first-aid kit. - Let someone know your plan and expected return time. - Carry a charged phone; check signal in rural areas. - If navigation is uncertain, turn back.",
+    "recommended_gear": [
+      "Sturdy waterproof boots",
+      "Weather-appropriate clothing and an extra layer",
+      "Water and snacks",
+      "Map, compass, or GPS device",
+      "Light rain shell and sun protection",
+      "Small first-aid kit",
+      "Headlamp or flashlight (in case of late return)",
+      "Phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Elsick Mounth Hike – 9.3 km Moderate Trail in the UK",
+      "meta_description": "Discover the 9.3 km moderate hike along the historic Elsick Mounth in the UK. Practical tips on terrain, safety, and best seasons.",
+      "h1": "Elsick Mounth – 9.3 km Moderate Hike"
+    }
   }
 }

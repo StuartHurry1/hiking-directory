@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 409502
+  },
+  "ai": {
+    "summary": "Eden Valley Walk is a long-distance, hard-rated hike in the United Kingdom, covering 74.5 km. The route presents a challenging mix of hills, rough tracks, and varied terrain, best tackled by experienced hikers over multiple days.",
+    "terrain_summary": "The route traverses variable UK countryside with a mix of rural tracks, fields and potentially muddy or uneven surfaces. Expect short climbs and long, steady sections; plan for 2-4 days depending on pace.",
+    "safety_notes": "This is a demanding, long-distance hike. Prepare with proper navigation skills (map and compass or GPS) and a clear itinerary. Check the forecast and be prepared for rapid weather changes common in the UK. Wear sturdy, waterproof footwear and layered clothing; carry a waterproof outer layer. Bring sufficient water and high-energy food, plus a basic first aid kit. Inform someone of your planned route and estimated finish time. Carry a charged mobile device and a means of emergency communication; know when to turn back if conditions or fatigue worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof, breathable shell",
+      "Backpack (20-40 L) with a water-resistant cover",
+      "Map and compass or GPS device with offline maps",
+      "Water bottles or hydration bladder (2-3 L total)",
+      "High-energy food and snacks",
+      "Headlamp or torch with extra batteries",
+      "Basic first aid kit and emergency whistle",
+      "Emergency bivy or lightweight tent/shelter",
+      "Rain cover for gear and dry bags",
+      "Sun protection (hat, sunglasses, sunscreen)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); winter conditions can be severe and should only be attempted by experienced hikers.",
+    "seo": {
+      "title": "Eden Valley Walk: 74.5 km Hard UK Hike",
+      "meta_description": "Discover the Eden Valley Walk, a demanding 74.5 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons to tackle this challenging route.",
+      "h1": "Eden Valley Walk – 74.5 km Hard UK Hike"
+    }
   }
 }

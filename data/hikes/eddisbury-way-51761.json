@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 51761
+  },
+  "ai": {
+    "summary": "Eddisbury Way is a challenging long-distance footpath in the United Kingdom, covering about 75.9 km. The route weaves through rural countryside with farmland, woodlands, and quiet lanes, mixing easier stretches with several demanding climbs. It is best suited for experienced hikers comfortable with long days on varied terrain.",
+    "terrain_summary": "The trail uses a mix of well-marked footpaths, bridleways, and country lanes, with fields, hedgerows, and some road crossings. Surfaces can be uneven and muddy after rain, with stiles and gates to negotiate. Elevation includes rolling hills and a few steeper sections, offering scenic views when visibility is good.",
+    "safety_notes": "Plan for long daily distances and carry a current map and compass (or a GPS device). Check the weather forecast and daylight hours before starting. Inform someone of your itinerary. Bring enough water and energy-rich food, a waterproof jacket, and warm layers. Wear sturdy boots and be prepared for mud, livestock, and farm traffic. Follow access rights and trail etiquette, and carry a small first aid kit, whistle, and a charged mobile phone with offline maps for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and extra layer",
+      "Backpack with rain cover",
+      "Hydration system or water bottles (2–3 litres total)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Basic first aid kit",
+      "Energy snacks and meals for the day",
+      "Hat, sun cream, and sunglasses",
+      "Trekking poles (optional but helpful)",
+      "Emergency whistle and personal locator beacon (if available)",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Spring and autumn are generally ideal (roughly March to May and September to November) due to milder temperatures and better trail conditions; summer can be hot and more crowded; winter hiking is more challenging and can be hazardous.",
+    "seo": {
+      "title": "Eddisbury Way - 75.9 km Hard-Distance Hike in the UK",
+      "meta_description": "Discover the Eddisbury Way, a demanding 75.9 km long-distance trail in the United Kingdom. Learn about terrain, safety tips, and gear for this challenging UK hike.",
+      "h1": "Eddisbury Way: A 75.9 km Hard Hike in the UK"
+    }
   }
 }

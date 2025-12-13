@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19761174
+  },
+  "ai": {
+    "summary": "An 11.3 km moderate circular hike from Egham that loops through the countryside around Runnymede. The route combines rural lanes, field paths, and woodland trails with occasional views of the surrounding landscape and water, offering a pleasant mix of open and shaded sections for walkers with moderate fitness.",
+    "terrain_summary": "Mostly mixed surfaces: tarmac country lanes, compact gravel tracks, and well-trodden field paths. Expect short grassy or muddy sections, occasional stiles and gates, and some gentle elevation changes through farmland and woodland. The route may be slippery after rain and can be uneven in places.",
+    "safety_notes": "Check the weather and wear sturdy boots. Bring enough water and snacks. Be mindful of livestock in fields and share the paths with cyclists on bridleways. Navigation aids recommended (map or offline GPS). Watch for mud and slippery steps after rain; carry a light if you might be out near dusk. Keep dogs under control and respect private property and farm access.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass or offline GPS",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Insect repellent (seasonal)",
+      "Headlamp or flashlight for late walks",
+      "Phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal for this hike due to milder weather and longer daylight. Winter walks can be pleasant but may be muddy and have shorter daylight.",
+    "seo": {
+      "title": "Egham to Runnymede Countryside Circular Walk – 11.3 km Moderate Trail in the UK",
+      "meta_description": "Discover an 11.3 km circular hike from Egham to Runnymede. Fields, woods, and countryside paths with moderate terrain. Practical tips, gear, and best seasons.",
+      "h1": "Egham to Runnymede Countryside Circular Walk (11.3 km)"
+    }
   }
 }

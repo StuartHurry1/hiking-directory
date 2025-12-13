@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19774128
+  },
+  "ai": {
+    "summary": "A roughly 8.6 km moderate hike in the UK, following a rural return-style route with gentle elevation changes.",
+    "terrain_summary": "Mixed terrain with grassy rural paths, hedgerows, and some compact or uneven surfaces; expect gentle ascents and descents.",
+    "safety_notes": "Check local weather before you go; wear sturdy footwear; stay on marked paths; carry water and snacks; bring a map or GPS and a charged phone; pack a lightweight waterproof layer; be mindful of mud and livestock on rural sections; daylight hours vary.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water and snacks",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Map and compass or reliable GPS",
+      "Phone with emergency contacts and a fully charged battery",
+      "Small first aid kit",
+      "Hat, sunscreen, and sunglasses for sun protection",
+      "Lightweight backpack with rain cover"
+    ],
+    "best_seasons": "Spring through autumn; winter visits are possible with appropriate gear and daylight.",
+    "seo": {
+      "title": "Eastergate Return Walk – 8.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the Eastergate Return Walk, an 8.6 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Eastergate Return Walk (8.6 km, Moderate)"
+    }
   }
 }

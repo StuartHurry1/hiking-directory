@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19862338
+  },
+  "ai": {
+    "summary": "A short, easy 4.2 km woodland loop through Eaves Wood in the UK. Suitable for beginners and families, with flat to gently rolling terrain, well-marked paths, and a peaceful forest setting.",
+    "terrain_summary": "Predominantly well-maintained gravel and dirt tracks with a few wooden boardwalk sections. Terrain is mostly flat with gentle gradients, though parts can be muddy after rain. Expect roots and uneven patches.",
+    "safety_notes": "Check weather beforehand. Wear sturdy, waterproof footwear and dress in layers suitable for UK conditions. Stay on marked paths, follow waymarkers, and keep children within sight. Be mindful of other hikers and wildlife; muddy and slippery sections can appear after rain. Bring a map or offline GPS, a charged phone for emergencies, and enough water and snacks. If visibility is low or daylight is short, plan accordingly.",
+    "recommended_gear": [
+      "Comfortable waterproof walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle and snacks",
+      "Map or offline GPS device",
+      "Small first aid kit",
+      "Mobile phone with emergency numbers",
+      "Hat and sun protection (summer)",
+      "Lightweight rain cover or pack liner"
+    ],
+    "best_seasons": "Spring through autumn are ideal for this woodland trail in the UK, offering the best combination of daylight and trail conditions. The walk is still doable in winter with appropriate wet-weather gear.",
+    "seo": {
+      "title": "Eaves Wood Tramper Trail – Easy 4.2 km Woodland Walk in the UK",
+      "meta_description": "Discover Eaves Wood Tramper Trail, a gentle 4.2 km easy walk in the UK. Learn about the terrain, safety tips, and gear to bring for a comfortable family-friendly hike.",
+      "h1": "Eaves Wood Tramper Trail"
+    }
   }
 }

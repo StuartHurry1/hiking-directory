@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18884258
+  },
+  "ai": {
+    "summary": "Dun Coillich Red is a 6.7 km moderate hike in the UK. The route blends open hillside and forest tracks with a steady, non-technical ascent and varied terrain.",
+    "terrain_summary": "Mixed terrain including forest tracks, grassy slopes, and rocky or boggy sections. Footing can be uneven and some parts may feel exposed, especially in windy conditions. Navigation on a well-marked route is straightforward but it’s wise to carry a map and compass as backup.",
+    "safety_notes": "Check the weather forecast before setting out; upland conditions can change rapidly. Wear sturdy boots and bring waterproof clothing, warm layers, and enough water and snacks. Carry a map and compass (or reliable navigation tools) and know how to use them. Stay on the marked path, watch for slippery rocks and boggy ground, and allow extra time in case progress is slower than expected. Do not hike alone; inform someone of your plans and expected return time. If visibility worsens or a storm approaches, turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate waterproof jacket and layers",
+      "Map and compass (or GPS with backup navigation)",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight",
+      "Emergency whistle",
+      "First aid kit",
+      "Hat, gloves and sun protection",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly May–September; verify local conditions and daylight before the hike)",
+    "sei": null,
+    "seo": {
+      "title": "Dun Coillich Red - 6.7 km Moderate Hike in the UK",
+      "meta_description": "Explore Dun Coillich Red, a 6.7 km moderate hike in the UK. Read terrain and safety notes, best seasons, and gear recommendations for a successful trek.",
+      "h1": "Dun Coillich Red – 6.7 km Moderate Hike in the UK"
+    }
   }
 }

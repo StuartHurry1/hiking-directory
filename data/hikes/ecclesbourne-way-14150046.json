@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 14150046
+  },
+  "ai": {
+    "summary": "Ecclesbourne Way is a short, easy 5.3 km hike in the United Kingdom, following a historic rail corridor. The route offers a gentle, well-surfaced walk suitable for beginners, families, and casual walkers seeking a relaxed outdoor outing with countryside views.",
+    "terrain_summary": "The path is a flat to gently graded rail-trail with a well-maintained surface. It runs along an old railway alignment, usually free of steep climbs, with occasional gentle gradients. Expect level tarmac or packed gravel surfaces, signposted, with some shaded sections through hedgerows and past rural fields. The route is generally accessible for wheelchairs and strollers on sections where permitted.",
+    "safety_notes": "Check weather conditions before you go. Wear sturdy footwear and bring a lightweight rain jacket. Stay on the marked path, watch for pedestrians and cyclists on shared sections, and be mindful of road crossings near trail entrances. Carry a small first-aid kit, water, and a charged mobile phone. In summer, use sun protection and be mindful of insects; in winter, the surface can be slippery after rain.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Snacks",
+      "Hat and sunscreen",
+      "Light waterproof layer",
+      "Map or offline GPS / navigation aid",
+      "Small first aid kit",
+      "Phone with emergency numbers",
+      "Backpack to carry essentials",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "All year round, with particularly pleasant conditions in spring and early autumn.",
+    "seo": {
+      "title": "Ecclesbourne Way - Easy 5.3 km Rail Trail Walk in the UK",
+      "meta_description": "Discover Ecclesbourne Way, an easy 5.3 km hike on a historic rail trail in the UK. Learn about terrain, safety tips, gear, and the best seasons for this family-friendly route.",
+      "h1": "Ecclesbourne Way: Easy 5.3 km Rail Trail Walk in the UK"
+    }
   }
 }
