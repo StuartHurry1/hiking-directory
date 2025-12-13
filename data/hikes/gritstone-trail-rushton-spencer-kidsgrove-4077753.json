@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 4077753
+  },
+  "ai": {
+    "summary": "A challenging 42.4 km long-distance hike along the Gritstone Trail from Rushton Spencer to Kidsgrove, weaving across gritstone edges, moorland, and rural lanes in the UK.",
+    "terrain_summary": "Expect rugged gritstone edge sections, uneven rocky paths, and muddy tracks. The route includes exposed uplands with potential wind and rain, plus occasional farmland with gates and stiles. Distances accumulate quickly, and elevation can be significant.",
+    "safety_notes": "Plan for a remote route with limited services in sections. Check weather forecasts as conditions can change rapidly on exposed gritstone edges. Wear sturdy, grippy footwear and carry a map and compass (GPS is helpful but not a substitute). Bring ample food and water, appropriate clothing, a headlamp, and a basic first-aid kit. Be mindful of livestock and gates, and respect access rights and landowners.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Warm layers (fleece or down)",
+      "Hat and gloves as needed",
+      "Water (2–3 liters) and electrolyte drinks",
+      "High-energy snacks and meals",
+      "Map and compass (GPS optional) and a charged phone",
+      "Headtorch with spare batteries",
+      "Lightweight emergency blanket or bivvy",
+      "First-aid kit and blister care",
+      "Sun protection (sunscreen and sunglasses)",
+      "Backpack rain cover",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal. Summer provides longer daylight but weather can still be unpredictable; winter hikes are possible but require careful planning, shorter daylight hours, and warmer gear.",
+    "seo": {
+      "title": "Gritstone Trail Rushton Spencer to Kidsgrove – 42.4 km UK Hiking Challenge",
+      "meta_description": "Discover the Gritstone Trail from Rushton Spencer to Kidsgrove, a 42.4 km hard-distance hike through gritstone country. Terrain, safety tips, best seasons, and gear for the UK.",
+      "h1": "Gritstone Trail: Rushton Spencer to Kidsgrove (42.4 km)"
+    }
   }
 }

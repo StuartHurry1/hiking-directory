@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19223216
+  },
+  "ai": {
+    "summary": "Hannah's Meadow Walk is a 3.4 km easy, family-friendly stroll through tranquil UK meadows. The route features gentle, well-maintained paths and wide-open countryside scenery, making it suitable for beginners, children, and anyone seeking a relaxed outdoor experience.",
+    "terrain_summary": "Mostly flat grass paths with occasional gentle undulations. Surfaces are typically firm but can be soft and muddy after rain; expect uneven patches and narrow gaps along hedgerows. Enjoy open meadow views, wildflowers, and occasional minor elevation changes.",
+    "safety_notes": "Check the forecast and wear sturdy, comfortable footwear. Follow marked paths and be prepared for mud after rain. Keep dogs on a leash where required and watch for livestock. Stay hydrated, protect yourself from the sun with sunscreen and a hat, and carry a basic first aid kit. If walking alone, tell someone your plans and estimated return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket or fleece",
+      "Sun protection (sunscreen, hat)",
+      "Insect repellent",
+      "Map or offline navigation",
+      "Phone with charged battery and emergency contacts",
+      "Small snack"
+    ],
+    "best_seasons": "Spring and summer are ideal for flowers and longer daylight, but the walk can be done year-round with appropriate footwear and clothing.",
+    "seo": {
+      "title": "Hannah's Meadow Walk - Easy 3.4km Meadow Stroll in the UK",
+      "meta_description": "Discover Hannah's Meadow Walk, a gentle 3.4 km countryside stroll in the UK. Easy terrain, meadow scenery, practical safety tips, and gear recommendations.",
+      "h1": "Hannah's Meadow Walk: Easy 3.4km Meadow Stroll in the UK"
+    }
   }
 }

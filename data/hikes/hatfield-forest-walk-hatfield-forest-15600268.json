@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 15600268
+  },
+  "ai": {
+    "summary": "An easy 5.1 km lakeside loop at Hatfield Forest in the UK. This relaxed woodland walk follows gentle paths around the forest’s lakes, making it ideal for families, beginners, and anyone looking for a calm, scenic stroll. Plan roughly 1.5–2 hours at a comfortable pace, with plenty of wildlife and shaded sections to enjoy.",
+    "terrain_summary": "Predominantly flat or gently undulating woodland trails with surfaced paths around the lakes. Expect some compact or damp sections after rain and a few wooden boardwalks. The route is generally well-marked but can be muddy in winter.",
+    "safety_notes": "Stay on marked paths and watch for cyclists on shared routes. Wear sturdy footwear and dress for variable UK weather. Bring water and a light snack, plus a map or offline map on your phone. Be mindful of ticks in woodland areas, especially in warmer months, and supervise children and pets. Daylight varies by season; start early in winter to avoid darkness.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle or hydration",
+      "Map, guidebook, or offline map on your phone",
+      "Snacks for a 1.5–2 hour walk",
+      "Hat and sunscreen in sunny weather",
+      "Insect repellent",
+      "Small first aid kit",
+      "Phone with camera",
+      "Layered clothing for changeable UK weather"
+    ],
+    "best_seasons": "Year-round, with best conditions in spring and early autumn when trails are firmer, wildlife is active, and the weather is mild.",
+    "seo": {
+      "title": "Hatfield Forest Walk – Easy 5.1 km Lakeside Trail",
+      "meta_description": "Plan a family-friendly, easy 5.1 km lakeside hike at Hatfield Forest in the UK. Learn terrain, safety tips, and gear for a relaxing woodland stroll.",
+      "h1": "Hatfield Forest Walk: An Easy 5.1 km Lakeside Path"
+    }
   }
 }

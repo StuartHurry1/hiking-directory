@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 13807073
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.3 km hike on Gwinear-Gwithian FP 4 in Cornwall, UK. Ideal for beginners, families, or anyone seeking a quick, flat outdoor stroll with minimal elevation.",
+    "terrain_summary": "Short, well-maintained footpath walk. Generally flat with little to no elevation; surfaces range from compacted dirt to paved sections and are suitable for most hikers.",
+    "safety_notes": "This is a very short walk, but weather conditions can change. Wear sturdy footwear and stay on the marked path. Be mindful of uneven surfaces and potential water on the path after rain. Bring water, a means of communication, and tell someone your plan if you’re walking alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer or jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map, GPS or offline navigation",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Year-round with the most pleasant conditions in spring and summer; plan for rain and mud in autumn and winter.",
+    "seo": {
+      "title": "Gwinear-Gwithian FP 4 – Easy 0.3 km Hike in Cornwall, UK",
+      "meta_description": "Discover Gwinear-Gwithian FP 4, a compact 0.3 km easy footpath hike in Cornwall, UK. Perfect for beginners and families seeking a quick, flat outdoor escape.",
+      "h1": "Gwinear-Gwithian FP 4: Easy 0.3 km Hike in Cornwall, UK"
+    }
   }
 }

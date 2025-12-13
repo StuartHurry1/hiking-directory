@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17899881
+  },
+  "ai": {
+    "summary": "H100: Croxdale is a 13.7 km moderate hike in the UK. The route traverses varied countryside and is suitable for walkers with a reasonable fitness level, featuring a mix of open fields and gentle terrain.",
+    "terrain_summary": "Varied surfaces including grassy field paths, compact gravel tracks, and short woodland sections. Expect gentle ascents and descents with occasional gates or stiles and open countryside views.",
+    "safety_notes": "Plan for UK weather variability: wear layers and waterproofs, and use sturdy footwear. Stay on marked paths, watch for livestock and gates, and carry a map or GPS. Bring enough water and snacks, a small first-aid kit, and a charged phone. Inform someone of your plan and expected return time. Be mindful of shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system",
+      "Waterproof and windproof jacket",
+      "Extra warm layer",
+      "Map and compass or GPS device",
+      "Snacks or energy bars",
+      "Small first-aid kit",
+      "Headlamp or torch (for late finishes)",
+      "Phone with offline maps",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) for more favorable weather and daylight. Winter hikes can be wetter and shorter daylight hours.",
+    "seo": {
+      "title": "Croxdale H100: A 13.7 km Moderate Hike in the UK",
+      "meta_description": "Explore H100 Croxdale, a 13.7 km moderate hike in the UK. Learn about terrain, safety tips, and gear to enjoy a varied countryside route.",
+      "h1": "H100: Croxdale — 13.7 km Moderate Hike in the UK"
+    }
   }
 }

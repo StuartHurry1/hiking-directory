@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 19322012
+  },
+  "ai": {
+    "summary": "A 15.5 km loop that combines Hatfield Forest's woodland trails with a stretch along the Flitch Way. Rated hard due to distance and mixed terrain, with lakeside sections, gradual ascents, and uneven paths challenging for experienced hikers.",
+    "terrain_summary": "Mix of forest tracks, gravel paths, grassy byways and occasional boardwalks. Expect some muddy sections near lakes and along the Flitch Way, with exposed stretches and gentle to moderate gradients.",
+    "safety_notes": "Wear sturdy boots and bring waterproof layers. Check weather and path closures before you go. Carry enough water and snacks, a map or GPS, and a fully charged phone; mobile signal may be weak in parts of the forest. Stay on official paths, keep dogs under control, and be mindful of livestock when near farmland. Allow extra time for slower sections and daylight conditions, especially in autumn and winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing and layers",
+      "Map and compass or GPS device",
+      "Rain gear and sun protection",
+      "Headlamp or flashlight for potential delays",
+      "Small backpack with hydration or water bottle",
+      "Camera or smartphone for scenery",
+      "Insect repellent and basic first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn; summer offers longer daylight and better lake views, though expect mud in wetter conditions. Winter hikes can be challenging due to mud and reduced visibility.",
+    "seo": {
+      "title": "Hatfield Forest and Flitch Way Walk – 15.5 km Hard Lakes Hike in Essex, UK",
+      "meta_description": "Take on a challenging 15.5 km hike linking Hatfield Forest with the Flitch Way, featuring lakes, woodland trails, and varied terrain in Essex, UK.",
+      "h1": "Hatfield Forest and Flitch Way Walk – 15.5 km Hard Lakes Hike (Essex, UK)"
+    }
   }
 }

@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 9495897
+  },
+  "ai": {
+    "summary": "The Ham Mere Trail is a 5 km easy lakeside hike in the UK, offering a peaceful loop around Ham Mere with gentle terrain and scenic water views. Suitable for beginners and families seeking a relaxed outing.",
+    "terrain_summary": "Mostly well-maintained footpaths with short sections of gentle uneven ground. The route runs along the lakeside with occasional boggy or damp patches after rain; footing is easy for most hikers.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check for boggy or flooded sections after rain. Stay on marked paths, beware of slippery surfaces near the water, and keep a safe distance from the shore. Bring water and a small first aid kit; be mindful of local wildlife and seasonal changes to daylight if hiking at dusk.",
+    "recommended_gear": [
+      "Water bottle",
+      "Sturdy walking shoes",
+      "Light rain jacket",
+      "Hat or sunscreen",
+      "Map or GPS device",
+      "Snacks",
+      "Phone",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring and autumn are ideal for comfortable temperatures and good visibility; the hike is doable year-round, but wet or icy conditions can affect footing in winter.",
+    "seo": {
+      "title": "Ham Mere Trail: 5km Easy Lakes Walk in the UK",
+      "meta_description": "Explore the 5 km Ham Mere Trail in the UK. An easy, scenic lakeside hike suitable for beginners and families, with gentle terrain and beautiful water views.",
+      "h1": "Ham Mere Trail — 5km Easy Lakes Walk in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18593897
+  },
+  "ai": {
+    "summary": "An easy 4.4 km loop through Handsworth Park, suitable for families and casual walkers, featuring park paths, green spaces, and light art installations.",
+    "terrain_summary": "Predominantly flat with well-maintained paved paths; occasional gravel sections and gentle slopes near park features.",
+    "safety_notes": "Stay on marked paths and be mindful of other park users, including cyclists and joggers. Check weather forecast and daylight hours before you go, bring water, and wear appropriate footwear. Secure valuables, and supervise children closely in busy areas. In autumn and winter, be prepared for mud and reduced visibility in the evening.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Sun protection (hat and sunscreen)",
+      "Smartphone with offline map or local map",
+      "Small daypack",
+      "Power bank for devices"
+    ],
+    "best_seasons": "Spring and summer are ideal, though the trail is accessible year-round in the UK.",
+    "seo": {
+      "title": "Handsworth Park Arts Trail — Easy 4.4 km Walk in the UK",
+      "meta_description": "Discover the Handsworth Park Arts Trail, an easy 4.4 km route in Handsworth Park, UK. Practical tips, gear, safety notes, and the best seasons to visit.",
+      "h1": "Handsworth Park Arts Trail"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1561888
+  },
+  "ai": {
+    "summary": "Hangers Way is a challenging long-distance hike in the UK, spanning 96.6 km. Designed for experienced hikers, the route weaves across varied countryside and includes multiple days of walking. Expect a mix of fields, lanes, hedgerows, and potential mud; the cumulative distance demands good planning, stamina, and reliable navigation.",
+    "terrain_summary": "The terrain is mixed: rural footpaths, grassy tracks, hedgerows, occasional road sections, gates and stiles. Footing can be uneven and muddy after rain, with exposed sections depending on weather and the exact starting point. Navigation may be straightforward on well-marked sections but plan for possible detours when path signage is sparse.",
+    "safety_notes": "This is a hard, long-distance route. Plan the hike in 2–6 days depending on pace. Check weather forecasts; UK conditions can change quickly. Carry navigation tools (map, compass or GPS) and know how to use them. Start early to maximize daylight; carry sufficient water and food; wear appropriate clothing and footwear; stay on the official route; be cautious at gates, stile crossings, and road sections; be mindful of livestock and road traffic; inform someone of your itinerary; have a contingency plan for emergencies and know how to contact emergency services (999 in the UK); mobile coverage may be limited in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof boots",
+      "Weather-appropriate layered clothing",
+      "Backpack with rain cover",
+      "Sufficient water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or flashlight with spare batteries",
+      "First aid kit",
+      "Trekking poles (optional)",
+      "Lightweight emergency shelter or space blanket",
+      "Sunscreen and hat",
+      "Insect repellent"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best combination of daylight and typically drier conditions for this 96.6 km trek. The route can be tackled in other seasons with extra caution, waterproofing, and shorter daily stages to accommodate weather and daylight constraints.",
+    "seo": {
+      "title": "Hangers Way – 96.6 km Hard-Distance UK Hike",
+      "meta_description": "Plan your Hangers Way hike: a demanding 96.6 km long-distance trek in the UK. Learn terrain, safety, best seasons, and gear to prepare.",
+      "h1": "Hangers Way – 96.6 km Hard-Distance Hike in the UK"
+    }
   }
 }

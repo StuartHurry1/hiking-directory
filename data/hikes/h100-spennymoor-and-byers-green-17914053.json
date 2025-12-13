@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17914053
+  },
+  "ai": {
+    "summary": "A 19.8 km hard route linking Spennymoor and Byers Green in the UK. The hike traverses rural countryside with varied terrain, including fields, woodland edges, and occasional ascents. Suitable for experienced hikers with good fitness.",
+    "terrain_summary": "Varied terrain including grassy fields, muddy and uneven paths, stony sections, woodland edges, and some road or track sections. Expect elevation gain and exposed ground; conditions can change with the weather.",
+    "safety_notes": "This is a demanding hike. Ensure high fitness and pace yourself. Plan for 19.8 km of walking with potential remote sections. Carry water, a map or GPS, and a fully charged phone. Wear sturdy, ankle-supporting boots and weather-appropriate clothing. Check the forecast, inform someone of your route, watch for mud, livestock gates, and changing daylight. Have a plan for emergencies and know your limits.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Water bottle or hydration system (2–3 L depending on conditions)",
+      "Map and compass or GPS device",
+      "Phone with emergency contacts and a power source",
+      "Small first aid kit",
+      "Snacks or energy foods",
+      "Headlamp or flashlight (for possible delays)",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Emergency whistle",
+      "Emergency blanket or lightweight bivy",
+      "Spare socks and a small towel"
+    ],
+    "best_seasons": "Spring to autumn (March–October) with the best conditions in late spring and early autumn.",
+    "seo": {
+      "title": "H100 – Spennymoor to Byers Green Walk (19.8 km, Hard) | UK Hiking Guide",
+      "meta_description": "Discover the challenging H100 route from Spennymoor to Byers Green in the UK. A 19.8 km hike with varied terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "H100 – Spennymoor to Byers Green Walk (19.8 km, Hard)"
+    }
   }
 }

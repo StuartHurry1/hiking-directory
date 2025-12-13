@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 1105506
+  },
+  "ai": {
+    "summary": "Grizedale Tarn Trail is a 7.5 km moderate circular hike in the UK, weaving among Grizedale Forest with views of Grizedale Tarn. The route suits walkers with moderate fitness who enjoy wooded scenery and a lakeside backdrop, combining forest tracks, gentle climbs, and occasional uneven ground.",
+    "terrain_summary": "Terrain consists of well-defined forest paths and quiet lakeside tracks around Grizedale Tarn. Expect a mix of shaded woodland, gentle ascents and descents, and occasional uneven ground with exposed roots or small rocks. After rain the route can be muddy, so sturdy footwear is recommended.",
+    "safety_notes": "UK weather can change quickly. Always check forecasts and daylight hours. Stay on marked paths; carry a waterproof layer and warm clothing; bring enough water and snacks; have a map or GPS and a charged phone; tell someone your plan and expected return time; watch for other hikers and bicycles on shared sections; allow extra time in case of slower pace.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Lightweight waterproof jacket and a warm layer",
+      "Backpack with water and snacks",
+      "Map or GPS device and a fully charged phone",
+      "Water bottle or hydration system",
+      "Hat, sunscreen and insect repellent (seasonal)",
+      "Compact first-aid kit",
+      "Emergency whistle and a small flashlight",
+      "Spare socks and a thin towel for damp conditions"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the best conditions, but the trail is hikeable year-round with appropriate gear for winter conditions.",
+    "seo": {
+      "title": "Grizedale Tarn Trail – 7.5 km Moderate Lakeside Hike in the UK",
+      "meta_description": "Discover a scenic 7.5 km moderate hike around Grizedale Tarn in the UK. Forest trails, lakeside views, practical safety tips, and gear recommendations.",
+      "h1": "Grizedale Tarn Trail – 7.5 km Moderate Lakeside Hike"
+    }
   }
 }

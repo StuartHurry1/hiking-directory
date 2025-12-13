@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 3322788
+  },
+  "ai": {
+    "summary": "A challenging 23.1 km circular hike in the UK, starting and finishing at the same point. The route combines long stretches of rural countryside with mixed terrain and several gentle ascents, suitable for experienced hikers.",
+    "terrain_summary": "Expect a mix of grassy lanes, field margins, woodland paths, and occasional road sections. Ground can be uneven, muddy after rain, and gates or stiles may require a hand for passages. Navigation is useful due to a rural route with limited waymarking.",
+    "safety_notes": "Check weather and daylight; wear sturdy waterproof boots; bring a map or GPS; be prepared for mud and boggy sections; watch for livestock, gates, and road crossings; stay hydrated and well-nourished; inform someone of your plan; carry a basic first-aid kit and a charged phone with offline maps; in winter daylight is short and conditions can be harsher.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Hat and gloves (seasonal)",
+      "First aid kit",
+      "Whistle",
+      "Headtorch (with spare batteries)",
+      "Sun protection (glasses, sunscreen)",
+      "Lightweight emergency blanket or bivy"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are typically best for this hike, though with proper gear it can be tackled year-round.",
+    "seo": {
+      "title": "Hanbury Circular Walk – 23.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Hanbury Circular Walk, a demanding 23.1 km loop in the UK. Discover terrain, safety tips, gear recommendations, and the best seasons for this challenging trek.",
+      "h1": "Hanbury Circular Walk – 23.1 km, Hard"
+    }
   }
 }

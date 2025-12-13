@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17293025
+  },
+  "ai": {
+    "summary": "Harpley Circular Walk is a challenging 18.7 km loop in the United Kingdom. Designed for experienced hikers, the route combines varied terrain, long ascents and exposed sections that require a steady pace and solid navigation.",
+    "terrain_summary": "Expect a mix of grassy paths, woodland tracks, muddy fields and occasional short road sections. Elevation gain is notable for a loop of this length, with some uneven surfaces and damp ground. Navigation helps due to sparse marker placement in parts of the route.",
+    "safety_notes": "Prepare for a long day: check weather and daylight hours, and let someone know your plan. Carry a map and compass or GPS, plus a fully charged phone. Pack 2–3 litres of water, high-energy snacks, and appropriate clothing (layers, waterproof jacket, sturdy boots). Bring a small first aid kit, sun protection, a whistle and spare socks. Stay on public rights of way, be mindful of livestock, and be prepared for mud and potential boggy patches. In remote sections, have a backup plan and know how to contact help.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket and trousers)",
+      "Backpack with 2–3 litres water capacity",
+      "Map and compass or a GPS device",
+      "Fully charged mobile phone and power bank",
+      "High-energy snacks and a packed lunch",
+      "Headwear and sunscreen",
+      "Extra pair of socks",
+      "Lightweight emergency shelter or space blanket",
+      "Small first aid kit",
+      "Whistle for signaling",
+      "Optional: trekking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offers the best conditions with lighter mud and milder weather. Winter walking is possible but more challenging due to mud, cold, and shorter daylight; plan carefully.",
+    "seo": {
+      "title": "Harpley Circular Walk – 18.7 km Hard Circular Hike in the UK",
+      "meta_description": "Explore the Harpley Circular Walk, a challenging 18.7 km loop in the UK. Get terrain, safety tips, gear recommendations and the best seasons for this demanding hike.",
+      "h1": "Harpley Circular Walk – 18.7 km Hard Hike in the UK"
+    }
   }
 }

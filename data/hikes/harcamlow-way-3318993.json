@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 3318993
+  },
+  "ai": {
+    "summary": "The Harcamlow Way is a challenging long-distance footpath in the United Kingdom, covering about 514.4 km. It traverses rural England via a mix of farmland, woodlands, canal towpaths and hedged lanes, with variable terrain and several ascents. Suitable only for experienced hikers who can manage navigation, long days of hiking, and periods without services.",
+    "terrain_summary": "Variable terrain including well-trodden fields and tracks, muddy and grassy sections after rain, canal towpaths, woodland paths, occasional road stints, and multiple stiles/gates. Expect uneven surfaces, hedgerows, and longer stretches with little shelter or services; navigation aids recommended.",
+    "safety_notes": "Plan ahead for resupply and accommodation on a 500+ km route. Check weather forecasts and daylight hours. Carry a map, compass, or GPS, and inform someone of your itinerary. Wear sturdy boots and bring weather-appropriate clothing. Be prepared for mud, isolated stretches with limited phone signal, and road crossings. Watch for livestock, adjust pace to fatigue, and have contingency plans for shelter in bad weather. Carry a basic first aid kit and emergency contact method.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing plus waterproof/windproof outer shell",
+      "Backpack (20–40 L) with rain cover",
+      "Hydration system or water bottles, plus water purification option",
+      "High-energy food and snacks for multi-day segments",
+      "Map, compass, and/or GPS; offline backup maps",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and personal medications",
+      "Whistle and signaling device",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Emergency shelter or bivy sack",
+      "Spare laces, tape, multi-tool; repair kit for gear",
+      "Trekking poles (optional but helpful)",
+      "Phone with power bank and emergency contacts",
+      "Lightweight towel and basic sanitation items"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for longer daylight and milder conditions. Summer can be hot and busy at village stops; late autumn and winter bring more mud, shorter days, and higher weather risk. Always check local forecasts before starting longer sections.",
+    "seo": {
+      "title": "Harcamlow Way: UK Long-Distance Trail Guide – 514.4 km Hard Trek",
+      "meta_description": "Discover the Harcamlow Way, a challenging 514.4 km long-distance trail in the UK. Learn terrain, safety tips, gear recommendations, and the best seasons for this hard-route adventure.",
+      "h1": "Harcamlow Way: UK Long-Distance Trail Guide"
+    }
   }
 }

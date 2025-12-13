@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 74771
+  },
+  "ai": {
+    "summary": "A tiny, easy nature walk in the Guildford area of the United Kingdom. At only 0.2 km, it’s a quick, family-friendly outing that offers a brief connection with local greenery.",
+    "terrain_summary": "Mostly flat terrain with a mix of paved and compact dirt surfaces. Very gentle elevation change; suitable for walkers, strollers, and casual outings.",
+    "safety_notes": "Stay on designated paths and be mindful of other trail users. Check the weather before you go; wear sturdy footwear and bring a light layer. Keep pets on a short leash where required and watch for uneven surfaces after rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layer or jacket",
+      "Sun protection (hat and sunscreen)",
+      "Phone or camera",
+      "Small snack"
+    ],
+    "best_seasons": "All year round; spring and early autumn can be particularly pleasant.",
+    "seo": {
+      "title": "Guildford Nature Trail - Easy 0.2 km Hike in the Guildford Area, United Kingdom",
+      "meta_description": "Discover the 0.2 km Guildford Nature Trail in the Guildford area of the United Kingdom. An easy, family-friendly nature walk with flat terrain and practical safety tips and gear recommendations.",
+      "h1": "Guildford Nature Trail: Easy 0.2 km Hike in the Guildford Area, UK"
+    }
   }
 }

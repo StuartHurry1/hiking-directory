@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 3537408
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Gustav Holst Way from Corndean Lane to Guiting Power in the UK. Covering approximately 28.8 km, the route traverses rolling countryside with potential gradients, offering scenic views but demanding endurance and solid navigation.",
+    "terrain_summary": "Mixed terrain with lanes, countryside tracks, and field crossings. Expect uneven stony paths, hedgerows, occasional rocky sections, and gentle to steep ascents. Some sections may be muddy after rain. Navigation relies on waymarks and path networks; waterproof footwear recommended.",
+    "safety_notes": "Hard difficulty requires good fitness and preparation. Weather can change rapidly in UK countryside; check forecast. Route may involve long stretches without shelter; carry sufficient water and snacks. Ensure good navigation skills; have map or offline GPS. Tell someone your plans; carry a charged phone. Be aware of wildlife, livestock, and farm gates; close gates behind you. Use caution on road sections and vehicle traffic. In winter, daylight hours are limited; plan a daytime start.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing and waterproof outer shell",
+      "Backpack with hydration system or water bottles",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Snacks and energy gels",
+      "Lightweight rain pants",
+      "Hat and sun protection",
+      "First aid kit",
+      "Emergency whistle",
+      "Multitool or knife",
+      "Sunscreen",
+      "Extra clothing for insulation",
+      "Phone power bank"
+    ],
+    "best_seasons": "Spring to autumn (April–October) when daylight is longer and trails are generally drier; avoid mid-winter mud seasons if possible. Summer offers longer daylight but can be hot; spring and autumn provide milder temperatures and slower exposure.",
+    "seo": {
+      "title": "Gustav Holst Way: Corndean Lane to Guiting Power – 28.8 km UK Hard Hike",
+      "meta_description": "Discover the Gustav Holst Way from Corndean Lane to Guiting Power. A demanding 28.8 km hike across rolling UK countryside with varied terrain. Learn route notes, gear and safety tips.",
+      "h1": "Gustav Holst Way: Corndean Lane to Guiting Power (28.8 km, Hard)"
+    }
   }
 }

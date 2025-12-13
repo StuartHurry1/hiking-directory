@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19455173
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike tracing the chalk valleys of Hambleden, Turville and Fingest in the Central Chilterns. The 46.5 km route combines rolling hills, woodland and riverside paths through quintessential Buckinghamshire villages, offering rewarding views and a demanding day on foot.",
+    "terrain_summary": "The route covers long ascents and descents over rolling chalk hills, with a mix of well-trodden bridleways, farm tracks, woodland paths and occasional stiles. Surfaces vary from firm chalk and flint to muddy after rain; expect some road sections through villages and exposed hill-top sections with changing weather and wind.",
+    "safety_notes": "This is a long hike in rural countryside. Plan for a full day (or split into two) and carry a map and compass in addition to a phone. Stay on public rights of way, watch for traffic on village roads, and be prepared for weather changes and muddy conditions. Wear sturdy footwear, bring adequate clothing, water and snacks, and check for ticks in long grass. Let someone know your route and expected finish time; carry a plan for emergencies and know where to seek help along the way.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Map and compass (or GPS) and offline route access",
+      "Layered clothing plus a waterproof/windproof shell",
+      "Hat and gloves (season dependent)",
+      "Headlamp or flashlight",
+      "Snacks and energy bars",
+      "Small first-aid kit",
+      "Sunscreen, sunglasses and lip balm",
+      "Mobile phone with offline maps and a portable power bank"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best conditions with drier trails and milder weather; winter walking is possible but often wet, muddy and with shorter daylight.",
+    "seo": {
+      "title": "Hambleden Valley, Turville and Fingest Hike – Central Chilterns (46.5 km, Hard)",
+      "meta_description": "Discover the 46.5 km hard-distance route through Hambleden Valley, Turville and Fingest in the Central Chilterns. Route overview, terrain notes, safety tips and gear for a demanding UK hike.",
+      "h1": "Hambleden Valley, Turville and Fingest – Central Chilterns Long-Distance Hike"
+    }
   }
 }

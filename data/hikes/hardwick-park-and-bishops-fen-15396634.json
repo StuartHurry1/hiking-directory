@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 15396634
+  },
+  "ai": {
+    "summary": "A challenging 15.8 km hike in the UK that pairs Hardwick Park's estate paths with Bishop's Fen fenland, offering varied terrain and a demanding feel for experienced hikers.",
+    "terrain_summary": "Mixed terrain including parkland trails in Hardwick Park, rural tracks, and fenland sections. Expect muddy, uneven surfaces, occasional long grass, and some exposed or uphill stretches; footwear and navigation are important.",
+    "safety_notes": "Plan for weather variability and limited daylight in winter. Wear sturdy waterproof boots and layered clothing. Carry a map and compass (or GPS) and a fully charged phone. Inform someone of your route and expected return. Stay on public rights of way; be cautious of marshy or waterlogged sections and potential ticks in fenland. Bring sufficient water and snacks; allow extra time for mud and slower sections; in poor visibility, consider postponing.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof outer shell and warm layers",
+      "Backpack with hydration or water bottle",
+      "Map and compass or GPS device",
+      "Fully charged phone (offline maps)",
+      "Snacks and emergency food",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March–October); winter hiking is possible with extra preparation and daylight planning.",
+    "seo": {
+      "title": "Hardwick Park & Bishop’s Fen: 15.8 km UK Hiking Challenge",
+      "meta_description": "Explore the 15.8 km Hardwick Park & Bishop’s Fen hike in the UK. A challenging route with varied terrain, practical safety tips, and gear recommendations.",
+      "h1": "Hardwick Park & Bishop’s Fen: 15.8 km UK Hiking Challenge"
+    }
   }
 }

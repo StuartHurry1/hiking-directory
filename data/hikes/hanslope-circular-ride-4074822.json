@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 4074822
+  },
+  "ai": {
+    "summary": "Hanslope Circular Ride is a long, demanding circular hike in the UK, totaling about 54.1 km. The route loops back to its starting point and is best tackled by experienced hikers who can manage long days, mixed terrain, and potential weather changes. Region is not specified.",
+    "terrain_summary": "The terrain combines rural farmland, quiet country lanes, and short sections of path with mixed surfaces. Expect tarmac roads, compacted gravel, grassy trails in fields, and occasional muddy stretches after rain. Elevation is rolling but with several long gradients.",
+    "safety_notes": "This is a long, hard hike; ensure you are fit for a full-day or multi-day trek. Check the forecast; UK weather can change quickly. Carry a map and compass or GPS, and know your route. Bring enough water and food for a long day; plan rest stops. Wear sturdy footwear and weather-appropriate clothing; bring a waterproof layer. Stay visible on road sections; use reflective gear at dusk. Tell someone your route and expected return. Carry a basic first aid kit and a charged mobile phone. Be aware of livestock, gates, and potential closures; respect private land.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof, breathable jacket and layered clothing",
+      "Backpack with sufficient capacity",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "High-energy snacks and meals for a long day",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "First aid kit and blister treatment",
+      "Emergency whistle and personal locator beacon (optional)",
+      "Fully charged mobile phone with spare power bank",
+      "Weather-appropriate pants or rain shell",
+      "Lightweight fleece or insulating layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers longer daylight and more stable weather, making the 54 km route more manageable. Winter hiking is possible but conditions are harsher and daylight is limited.",
+    "seo": {
+      "title": "Hanslope Circular Ride – 54.1 km Hard Hike in the UK",
+      "meta_description": "Explore the Hanslope Circular Ride: a challenging 54.1 km hike in the UK with mixed terrain. Learn about terrain, safety, best seasons, and essential gear for a successful trek.",
+      "h1": "Hanslope Circular Ride – 54.1 km Hard Circular Hike (UK)"
+    }
   }
 }

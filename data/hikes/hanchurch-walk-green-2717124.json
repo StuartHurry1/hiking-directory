@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2717124
+  },
+  "ai": {
+    "summary": "Hanchurch Walk (Green) is a 13.6 km moderate hike in the UK that circles rural lanes and grassy fields around Hanchurch Green, offering countryside views and a steady tempo for walkers with a bit of experience.",
+    "terrain_summary": "The route uses a mix of well-trodden footpaths, field margins and quiet country lanes. Expect grassy sections, occasional mud after rain, compacted gravel, gates and stiles, and a few gentle climbs.",
+    "safety_notes": "Weather in the UK can change rapidly. Wear sturdy footwear and bring a waterproof layer. Follow waymarked paths, watch for livestock and gates, and mind exposed sections on roads. Carry a map or GPS, a charged phone, water, snacks, and a basic first-aid kit. Let someone know your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Waterproof jacket",
+      "Extra layers",
+      "Map and compass or GPS",
+      "Hat and sunscreen",
+      "Mobile phone and power bank",
+      "Basic first aid kit",
+      "Whistle",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Hanchurch Walk (Green) – 13.6 km Moderate Hike in the UK",
+      "meta_description": "Explore the 13.6 km Hanchurch Walk (Green) in the UK. A moderate-length countryside loop with grassy paths, fields, and quiet lanes—perfect for a doable day hike.",
+      "h1": "Hanchurch Walk (Green) – 13.6 km Moderate Hike"
+    }
   }
 }

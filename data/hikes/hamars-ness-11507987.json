@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 11507987
+  },
+  "ai": {
+    "summary": "Hamars Ness is a short, easy coastal hike in the UK, spanning about 0.8 km. It offers a gentle walk with sea views and a straightforward route suitable for most ages and abilities.",
+    "terrain_summary": "Coastal trail composed of grassy paths and compacted dirt, with occasional rocky or uneven sections near the shoreline. Expect exposed wind and possible damp or muddy ground after rain.",
+    "safety_notes": "Check the day’s weather and sea conditions before you go. Wear sturdy footwear and a windproof/waterproof layer. Stay on marked paths, mind the edges of cliffs or promontories, and be cautious of wet or slippery sections. Keep an eye on tides if the route approaches the shoreline, and carry a charged phone and a map. Let someone know your plans and return time.",
+    "recommended_gear": [
+      "Sturdy walking shoes",
+      "Windproof/waterproof jacket",
+      "Water and snacks",
+      "Hat and sunscreen",
+      "Map or charged smartphone",
+      "Lightweight backpack",
+      "First aid kit",
+      "Power bank"
+    ],
+    "best_seasons": "Spring to autumn for the most comfortable and dry conditions; winter can be windy and wet with shorter daylight.",
+    "seo": {
+      "title": "Hamars Ness – Easy 0.8 km Coastal Hike in the UK",
+      "meta_description": "Explore Hamars Ness, an easy 0.8 km coastal hike in the UK. Discover terrain, safety tips, and gear for a short, scenic walk.",
+      "h1": "Hamars Ness: Easy 0.8 km Coastal Hike in the UK"
+    }
   }
 }

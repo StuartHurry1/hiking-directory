@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 162598
+  },
+  "ai": {
+    "summary": "A demanding 73.5 km long-distance hike along the Gritstone Trail from Disley to the River Dane. The route traverses rugged gritstone edges, open moorland, and forest paths, with long ascents and exposed ridgelines offering panoramic views but challenging footing.",
+    "terrain_summary": "Primarily gritstone quarry and moorland tracks, with exposed ridgelines, rocky steps, and uneven, often muddy ground. Expect steep climbs, short rocky sections, and remote stretches where navigation and weather can change quickly.",
+    "safety_notes": "This is a hard distance with significant elevation gain. Carry navigation tools and know the route, as some segments have limited waymarking. Weather in the UK can change rapidly; dress in layers and be prepared for wind, rain, and cold even in summer. Start early to maximize daylight. Inform someone of your plan and expected finish. Bring ample food and water; have a plan for emergencies. Use trekking poles if needed to reduce strain. Take care on exposed ridges, and avoid exposed rock when footing is uncertain or visibility is poor.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and pants",
+      "Warm layers and a hat/gloves",
+      "Map, compass, and/or GPS device",
+      "Hydration system (2–3 liters) and energy snacks",
+      "First aid kit and whistle",
+      "Headlamp with spare batteries",
+      "Sun protection (sunscreen, sunglasses)",
+      "Lightweight emergency bivy or blanket",
+      "Trekking poles (optional but helpful)",
+      "Mobile phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal, with longer daylight and milder conditions. Summer offers good weather but can bring heat; winter hiking is possible only for experienced trekkers with extra precautions due to cold, mud, and reduced daylight.",
+    "seo": {
+      "title": "Gritstone Trail Disley to River Dane – 73.5 km UK Hike (Hard)",
+      "meta_description": "A detailed guide to the Gritstone Trail segment from Disley to the River Dane in the UK. 73.5 km of rugged terrain, hard difficulty, safety tips, gear checklist, and best-season advice.",
+      "h1": "Gritstone Trail (Disley – River Dane) Guide"
+    }
   }
 }

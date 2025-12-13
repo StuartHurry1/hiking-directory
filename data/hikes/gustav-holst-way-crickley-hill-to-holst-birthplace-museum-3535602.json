@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 3535602
+  },
+  "ai": {
+    "summary": "The Gustav Holst Way is a challenging 26.7 km route across the Gloucestershire countryside, linking Crickley Hill near Cheltenham with the Holst Birthplace Museum in Cheltenham, UK. The hike covers rolling farmland, woodland sections, and occasional exposed ridges, requiring good stamina and reliable navigation.",
+    "terrain_summary": "Expect a mix of grassy fields, stony tracks, and woodland trails. Elevation changes include steep ascents and descents, with some exposed sections that can be windy. Surface can be uneven with mud after rain, and wayfinding may involve cross-country paths and farm tracks. Suitable for experienced hikers with map-reading skills.",
+    "safety_notes": "Length and elevation make this hike strenuous. Plan for several hours of walking, monitor weather, and carry adequate clothing for rain and wind. Use a map and compass or GPS with offline access; stay on public rights of way. Be aware of livestock on farmland sections, rocky or muddy footing, and potential fatigue. Do not hike alone if possible; tell someone your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Warm layers and hat/gloves",
+      "Backpack with 2–3 L water",
+      "High-energy snacks",
+      "Map and compass or GPS",
+      "Sun protection (hat, sunscreen)",
+      "First aid kit",
+      "Emergency whistle",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)",
+      "Mobile phone with offline navigation app"
+    ],
+    "best_seasons": "Spring to autumn (April–October) generally offers better daylight and milder weather; plan around wet winters where trails can be muddy and visibility reduced.",
+    "seo": {
+      "title": "Gustav Holst Way: Crickley Hill to Holst Birthplace Museum – 26.7 km Hard Hike",
+      "meta_description": "Plan a challenging 26.7 km hike along the Gustav Holst Way from Crickley Hill to the Holst Birthplace Museum in Gloucestershire, UK. Terrain, safety tips, and gear for a hard-distance trek.",
+      "h1": "Gustav Holst Way: Crickley Hill to Holst Birthplace Museum"
+    }
   }
 }

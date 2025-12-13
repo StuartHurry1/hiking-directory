@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 10808576
+  },
+  "ai": {
+    "summary": "A challenging 16.3 km heritage walk linking Harrogate and Knaresborough in North Yorkshire, England. The route blends historic sites with riverside paths and countryside lanes, featuring several climbs and uneven sections that suit experienced hikers. Expect mills, abbey ruins, and scenic viewpoints as you traverse town centers and rural lanes. Plan 5–7 hours depending on pace and breaks.",
+    "terrain_summary": "Mixed surfaces including town pavements, compacted trails, grassy verge sections, stiles, steps, and uneven ground. Some sections involve longer ascents and steeper descents, with riverbank and historic site paths that can be muddy after rain. Occasional road exposures and busy crossings in urban segments; conditions vary with weather.",
+    "safety_notes": "Carry a map and compass; GPS or offline maps recommended. Be aware that mobile reception can be limited in rural sections. Check the forecast and prepare for rain with layered clothing and waterproofs. Wear sturdy boots, bring water, snacks, and a basic first aid kit. Exercise caution at road crossings and busy streets, and inform someone of your planned finish time. Start early in shorter daylight months to ensure adequate time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof and breathable jacket",
+      "Layered clothing for changeable weather",
+      "Hat and/or gloves",
+      "Water bottle or hydration system",
+      "Map and compass (or GPS device)",
+      "Mobile phone with offline maps",
+      "Snacks and energy bars",
+      "Small first aid kit",
+      "Whistle for emergencies",
+      "Headlamp or flashlight (for late starts or delays)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (April–October).",
+    "seo": {
+      "title": "Harrogate and Knaresborough Heritage Trail – 16.3 km Hard Walk in the UK",
+      "meta_description": "Tackle a demanding 16.3 km heritage trail between Harrogate and Knaresborough in the UK. Historic sites, varied terrain, and rewarding countryside views. Learn gear and seasonal tips for this challenging hike.",
+      "h1": "Harrogate and Knaresborough Heritage Trail – 16.3 km (Hard)"
+    }
   }
 }

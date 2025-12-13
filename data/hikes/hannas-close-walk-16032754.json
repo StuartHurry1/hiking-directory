@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16032754
+  },
+  "ai": {
+    "summary": "A short, easy 1.9 km walk in the UK designed for beginners and families. The route offers gentle scenery, mostly flat terrain, and a relaxed pace suitable for a quick outdoor outing.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with small grassy sections and a few gentle slopes. Surfaces include compact gravel and dirt; expect seasonal mud after rain.",
+    "safety_notes": "General outdoor safety for UK walks: wear sturdy footwear, check the weather before you go, and bring a light jacket. Stay on marked trails, watch for muddy or slippery sections, and mind gates or stiles. Supervise children and dogs, and carry a charged phone and basic navigation if you’re unfamiliar with the area.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Light rain jacket",
+      "Water bottle",
+      "Map or GPS-enabled phone",
+      "Hat and sunscreen (seasonal)",
+      "Small backpack with essentials",
+      "Phone charged and battery backup (power bank optional)"
+    ],
+    "best_seasons": "Spring to autumn for the most pleasant conditions; the walk is still doable in winter with warm clothing and daylight planning.",
+    "seo": {
+      "title": "Hanna's Close Walk – Easy 1.9 km Hike in the UK",
+      "meta_description": "Explore Hanna's Close Walk, a gentle 1.9 km easy hike in the UK. Learn about terrain, safety tips, and gear for this short, family-friendly route.",
+      "h1": "Hanna's Close Walk: An Easy 1.9 km Hike in the UK"
+    }
   }
 }

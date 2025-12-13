@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 2858440
+  },
+  "ai": {
+    "summary": "A challenging 20.2 km hike on the Hamstead Trail in the UK, demanding good stamina and navigation due to varied terrain and elevation changes.",
+    "terrain_summary": "Mixed UK terrain: forest tracks, grassy climbs, rocky sections, and muddy paths. Expect variable footing, occasional exposed areas, and potential boggy stretches, especially after rain.",
+    "safety_notes": "Hard difficulty; ensure solid fitness and prior hill-walking experience. Check weather and daylight hours. Wear sturdy waterproof boots and layered clothing. Carry a map or GPS, a compass, and a fully charged phone. Bring enough water and high-energy snacks, plus a basic first aid kit and an emergency whistle. Inform someone of your planned route and expected return time. Be cautious on wet, slippery surfaces and loose rock; navigation can be challenging in unknown regions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weatherproof jacket and warm layers",
+      "Backpack with space for essentials (≈20 L)",
+      "Water (2–3 L) and high-energy snacks",
+      "Map and compass or reliable GPS",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Emergency space blanket or bivy sack",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses (seasonal)",
+      "Walking poles for stability (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are best; be prepared for mud and rapidly changing weather, as winter hiking adds extra risk.",
+    "seo": {
+      "title": "Hamstead Trail – 20.2 km Hard Hike in the UK",
+      "meta_description": "Explore the challenging 20.2 km Hamstead Trail in the UK. Learn about terrain, safety tips, and essential gear for this hard difficulty hike.",
+      "h1": "Hamstead Trail: 20.2 km Hard Hike in the UK"
+    }
   }
 }

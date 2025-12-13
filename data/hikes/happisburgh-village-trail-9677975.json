@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 9677975
+  },
+  "ai": {
+    "summary": "Happisburgh Village Trail is a short, easy 4.1 km walk in the UK that takes you through Happisburgh village and surrounding countryside. It’s ideal for families and beginners looking for a light outdoor experience with minimal elevation gain.",
+    "terrain_summary": "The route is predominantly flat, with a mix of paved village streets and short sections of compacted gravel paths. Expect occasional grassy verges and a few gentle grades. Surface conditions are generally firm but can be uneven near verges or seasonal muddy spots.",
+    "safety_notes": "Weather in the UK can change quickly; check forecast before you go. Stick to the marked paths, be mindful of traffic on village streets, and watch for uneven surfaces or mud. If near coastal areas, be aware of tides, cliff erosion signs, and keep a safe distance from cliff edges.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate clothing",
+      "Sunscreen and a hat",
+      "Map or smartphone with offline map",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Happisburgh Village Trail – Easy 4.1 km UK Walk",
+      "meta_description": "Explore the easy 4.1 km Happisburgh Village Trail in the UK. A flat, family-friendly route through Happisburgh village with practical safety tips and gear recommendations.",
+      "h1": "Happisburgh Village Trail – 4.1 km Easy Walk"
+    }
   }
 }

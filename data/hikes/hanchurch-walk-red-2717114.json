@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 2717114
+  },
+  "ai": {
+    "summary": "A straightforward 5.1 km easy hike in the UK, suitable for families and casual walkers. The route offers gentle terrain and countryside views typical of rural Britain.",
+    "terrain_summary": "Predominantly well-marked paths with grassy trails and gentle gradients, some woodland sections, and occasional short road crossings.",
+    "safety_notes": "Wear sturdy footwear and check weather and daylight conditions before starting. Stick to marked paths, watch for uneven ground and road crossings, and carry water. Bring a small first aid kit and a mobile phone with emergency contacts. Keep dogs on a lead where required and respect livestock and private rights of way.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate layers",
+      "Light rain jacket",
+      "Map, compass, or offline navigation (or fully charged phone with offline map)",
+      "Snacks",
+      "Small first aid kit",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Phone and emergency contact info"
+    ],
+    "best_seasons": "Spring to autumn are most comfortable, but the route can be completed year-round with appropriate clothing and precautions.",
+    "seo": {
+      "title": "Hanchurch Walk (Red) — Easy 5.1 km hike in the UK",
+      "meta_description": "Discover the Hanchurch Walk (Red), an easy 5.1 km route in the UK. Perfect for families and casual walkers with gentle terrain and rural scenery.",
+      "h1": "Hanchurch Walk (Red) – Easy 5.1 km hike"
+    }
   }
 }

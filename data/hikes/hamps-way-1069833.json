@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1069833
+  },
+  "ai": {
+    "summary": "Hamps Way is a 13.7 km moderate-length hike in the UK. The route offers countryside scenery with a mix of surfaces and gentle elevation, suitable for hikers with some experience.",
+    "terrain_summary": "Predominantly rural trails and footpaths. Surfaces vary from tarmac and gravel to grassy paths. Expect gentle climbs and potential muddy sections after rain; waymarked routes may wind along fields and hedgerows.",
+    "safety_notes": "General safety: check the forecast and daylight hours; wear sturdy footwear; bring a map and compass or GPS; stay on marked paths; be prepared for uneven ground and mud; be aware of livestock and private land; carry water and snacks; bring a light rain layer; tell someone your planned route and expected return; carry a charged mobile phone for emergencies; in remote areas consider a whistle and a basic first-aid kit.",
+    "recommended_gear": [
+      "Water bottle or hydration system",
+      "Sturdy hiking boots or shoes with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map, compass, or GPS device",
+      "Snack or energy bars",
+      "Lightweight rain shell",
+      "Headwear and sun protection (hat, sunscreen)",
+      "Small first-aid kit",
+      "Whistle and mobile phone with offline maps",
+      "Emergency blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn; winter hiking possible with appropriate gear and daylight, though conditions can be more challenging.",
+    "seo": {
+      "title": "Hamps Way – 13.7 km Moderate Hike in the UK",
+      "meta_description": "Explore Hamps Way, a 13.7 km moderate hike in the UK. Learn about terrain, safety tips, and gear to plan your day on the trails.",
+      "h1": "Hamps Way – 13.7 km Moderate Hike in the UK"
+    }
   }
 }

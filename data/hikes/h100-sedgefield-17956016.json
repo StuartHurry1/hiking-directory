@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 17956016
+  },
+  "ai": {
+    "summary": "H100 - Sedgefield is an 8.4 km moderate ridge walk in the UK, offering rolling ridge terrain and panoramic views. The route traverses grassy ridgelines with occasional rocky sections, suitable for hikers with some experience and reliable footwear.",
+    "terrain_summary": "The hike follows grassy ridgelines with intermittent rocky patches and exposed sections. Expect uneven footing, potential boggy spots after rain, and short ascents and descents. Estimated elevation gain is moderate, typically around 200–300 meters.",
+    "safety_notes": "Check the weather forecast as ridge walks can be exposed to wind and sudden changes. Wear sturdy footwear with good grip and bring extra layers. Carry a map and compass or GPS, and a fully charged phone. Stay on marked paths, be cautious of slippery grass and mud, and let someone know your plan and ETA.",
+    "recommended_gear": [
+      "Sturdy ankle-support hiking boots",
+      "Waterproof jacket and extra layers",
+      "Map and compass or GPS device",
+      "Water bottle (2–3 L) and high-energy snacks",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Whistle for emergencies",
+      "Lightweight emergency poncho",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (approximately April to October) for the best conditions and views, avoiding deep winter weather on exposed ridges.",
+    "seo": {
+      "title": "H100 - Sedgefield Ridge Walk | 8.4 km Moderate Hike in the UK",
+      "meta_description": "Explore H100 - Sedgefield, an 8.4 km moderate ridge hike in the UK. Scenic ridges, varied terrain, safety tips, and gear recommendations for a rewarding day out.",
+      "h1": "H100 - Sedgefield Ridge Walk (8.4 km, Moderate)"
+    }
   }
 }

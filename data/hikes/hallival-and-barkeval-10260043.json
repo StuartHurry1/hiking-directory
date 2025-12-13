@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 10260043
+  },
+  "ai": {
+    "summary": "A 12.9 km moderate hike linking the Hallival and Barkeval hills in the UK. The route combines open moorland, ridgelines, and rocky ascents, delivering rewarding views for hikers with solid footing and navigation skills.",
+    "terrain_summary": "Expect grassy heaths, tussocky moor, and rocky sections. The route includes exposed ridgelines with potential wind and sudden weather changes, and may involve boggy ground after rain. Suitable for hikers comfortable with navigation and uneven footing.",
+    "safety_notes": "Plan for changing weather, especially on exposed uplands. Carry a map, compass, and a fully charged device; do not rely solely on GPS. Navigation can be challenging in low visibility. Wear sturdy boots, bring extra layers, water, and snacks. Start early to ensure daylight; tell someone your route and expected return. In remote areas, consider hiking with a partner or group.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing (base layer, fleece, outer shell)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Water and high-energy snacks",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Headtorch and spare batteries",
+      "First aid kit and emergency whistle",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "April–October for the best conditions, though weather can be unpredictable year-round; always check forecasts and daylight hours before setting out.",
+    "seo": {
+      "title": "Hallival and Barkeval: 12.9 km Moderate Hike in the UK",
+      "meta_description": "Explore the Hallival and Barkeval hike: a 12.9 km moderate trek across open moorland with ridgelines and rocky sections in the UK. Learn about terrain, safety, and gear.",
+      "h1": "Hallival and Barkeval Hike – 12.9 km, Moderate Difficulty"
+    }
   }
 }

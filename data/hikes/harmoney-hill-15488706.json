@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15488706
+  },
+  "ai": {
+    "summary": "Harmoney Hill is a short, easy 1.7 km hike in the UK. The trail is beginner-friendly with gentle grades, well-marked routes, and a mix of surfaces such as compacted dirt, gravel and grass.",
+    "terrain_summary": "The route features a gentle ascent on a well-marked path. Surfaces vary from compacted dirt and gravel to grassy sections. Expect occasional muddy patches after rain and a few small steps or roots along the way.",
+    "safety_notes": "Carry light rain gear and wear sturdy footwear. Stay on the marked trail, watch footing on uneven surfaces, and check local conditions before you go. Bring water for a short outing and inform someone of your plans if hiking solo. Weather in the UK can change quickly, so be prepared for rain and chilly winds.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layers, including a waterproof jacket)",
+      "Water bottle",
+      "Small backpack",
+      "Map or GPS device or a charged phone with offline map",
+      "Sunscreen and hat (for sunny days)",
+      "Light snack"
+    ],
+    "best_seasons": "Spring and autumn typically offer mild weather and pleasant scenery, though the hike is suitable year-round in the UK with appropriate gear.",
+    "seo": {
+      "title": "Harmoney Hill — Easy 1.7 km UK Hike",
+      "meta_description": "Discover Harmoney Hill, a short and easy 1.7 km hike in the UK. Learn about the terrain, safety tips, and gear for a quick, family-friendly outdoor experience.",
+      "h1": "Harmoney Hill: Easy 1.7 km UK Hike"
+    }
   }
 }

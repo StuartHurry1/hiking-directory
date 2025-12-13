@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 9073904
+  },
+  "ai": {
+    "summary": "Hanson Way is a short, easy countryside hike in the UK, covering about 2.4 km on well-defined paths. Ideal for beginners, families, and a relaxed outdoor outing.",
+    "terrain_summary": "Mostly flat to gently rolling terrain with clear pedestrian paths. Expect well-trodden surfaces, with occasional soft ground or muddy patches in wet weather and seasonal grass along the sides.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths, check local weather, carry water, and be mindful of other walkers. In unknown regions, bring a map or smartphone navigation and tell someone your plan.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate jacket or layers",
+      "Water bottle",
+      "Snack",
+      "Small backpack",
+      "Hat and sunscreen",
+      "Phone with offline map or local map app"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; winter hiking is possible with proper gear and shorter daylight hours.",
+    "seo": {
+      "title": "Hanson Way: Easy 2.4 km Hike in the UK",
+      "meta_description": "Discover Hanson Way, a short and easy 2.4 km hike in the UK. This guide covers terrain, safety tips, gear, and the best seasons to enjoy this stroll.",
+      "h1": "Hanson Way — Easy 2.4 km UK Hike"
+    }
   }
 }

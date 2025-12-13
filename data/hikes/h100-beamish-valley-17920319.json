@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 17920319
+  },
+  "ai": {
+    "summary": "H100 - Beamish Valley is a 12.2 km moderate circular hike through open countryside in the United Kingdom. The trail follows a mix of quiet country lanes and grassy paths, with light elevation changes and occasional gates and stiles. It offers pastoral scenery, hedgerows, and distant farmland views, suitable for walkers with moderate fitness and some navigation experience.",
+    "terrain_summary": "Mostly gentle to moderate terrain, including tarmacked country lanes, grassy field paths, occasional stiles and gates, and some muddy sections after rain. Elevation gain is moderate with rolling contours; footing can be uneven in grassy sections.",
+    "safety_notes": "Check weather forecast and daylight hours; wear sturdy waterproof footwear and dress in layers; carry a map, compass or GPS, a fully charged phone, and a whistle; stay on waymarked paths, watch for livestock and gates, and close gates behind you; carry sufficient water and snacks; let someone know your plans and estimated return time; in winter, be prepared for reduced daylight and slippery surfaces.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle / hydration system",
+      "Weather-appropriate clothing (layered)",
+      "Waterproof jacket and pants",
+      "Map and compass or GPS",
+      "Small first aid kit",
+      "Head torch or flashlight (winter)",
+      "Snacks or energy bars",
+      "Sunscreen and hat",
+      "Emergency whistle",
+      "Phone fully charged",
+      "Lightweight rain cover or pack liner"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) is ideal for visibility and comfortable conditions; summer offers longer days, autumn provides pleasant scenery; winter walks are possible but expect mud, shorter daylight, and colder conditions.",
+    "seo": {
+      "title": "H100 Beamish Valley Hike – 12.2 km Moderate UK Trail",
+      "meta_description": "Discover the H100 Beamish Valley hike in the UK. A 12.2 km moderate trek through open countryside with hedgerows, gates, and scenic farmland views. Practical safety tips and gear.",
+      "h1": "H100 - Beamish Valley: A 12.2 km Moderate UK Hike"
+    }
   }
 }

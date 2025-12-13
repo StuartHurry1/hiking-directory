@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17295879
+  },
+  "ai": {
+    "summary": "A 6.3 km moderate circular hike through marshland in the UK, featuring boardwalks, wetlands, and open scenery. Suitable for hikers with moderate fitness who enjoy wildlife and a fairly flat route with some uneven sections.",
+    "terrain_summary": "Flat to gently undulating marshland with long boardwalk sections, occasional muddy or grassy paths, and wet conditions are possible.",
+    "safety_notes": "Wear waterproof footwear and layered clothing; be prepared for muddy sections and slippery boards; stay on marked paths; watch for wildlife and avoid disturbing breeding birds; bring water and sun protection; check weather and forecast before you go; keep dogs on a leash where required.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and snacks",
+      "Rain jacket or shell",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Map, compass or GPS",
+      "Phone with offline maps"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when the wetlands are most active and conditions are drier.",
+    "seo": {
+      "title": "Ham Wall Loop Hike - 6.3 km Moderate Trail in the UK",
+      "meta_description": "Explore the 6.3 km Ham Wall Loop, a moderate marshland hike in the UK featuring boardwalks, wildlife, and scenic wetland views. Plan your day with practical safety tips and gear.",
+      "h1": "Ham Wall Loop - 6.3 km Moderate Hike in the UK"
+    }
   }
 }

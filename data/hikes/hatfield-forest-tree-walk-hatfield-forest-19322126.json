@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 19322126
+  },
+  "ai": {
+    "summary": "A 7.3 km moderate hike around Hatfield Forest, combining lakeside views with shaded woodland. The loop features ancient trees, tranquil water features, and a relaxed pace suitable for walkers seeking scenery and a comfortable woodland circuit.",
+    "terrain_summary": "Varied terrain including forest paths, grassy tracks, and occasional damp or muddy sections near the lakes. Expect uneven ground, tree roots, and gentle slopes; surfaces can be slippery when wet.",
+    "safety_notes": "Wear sturdy footwear and be prepared for uneven ground and changing weather. Stay on marked paths, supervise children near the water, and be mindful of dogs and restricted areas. Carry water, a light layer, and a small first aid kit; adjust pace or turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insect repellent",
+      "Map or GPS device (or offline map)",
+      "Phone with emergency contacts",
+      "Small first aid kit",
+      "Lightweight backpack"
+    ],
+    "best_seasons": "Spring through autumn (March–October)",
+    "seo": {
+      "title": "Hatfield Forest Tree Walk – 7.3 km Lakeside Hike in the UK",
+      "meta_description": "Discover Hatfield Forest Tree Walk, a 7.3 km moderate hike around tranquil lakes and ancient woodland in the UK. Practical tips, best seasons, and gear.",
+      "h1": "Hatfield Forest Tree Walk – 7.3 km Moderate Lakeside Hike"
+    }
   }
 }

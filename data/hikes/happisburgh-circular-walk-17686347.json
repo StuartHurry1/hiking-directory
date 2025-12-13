@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 17686347
+  },
+  "ai": {
+    "summary": "A demanding 23.5 km coastal circuit around Happisburgh on the North Norfolk coast. The route blends cliff-top paths, shingle and sandy beaches, pasture and farm lanes, with some quiet road sections. Expect long, exposed segments, variable footing, and rewarding sea views that shift with the weather.",
+    "terrain_summary": "Primarily coastal and rural terrain: cliff-top paths along chalk and flint cliffs, sections of shingle beach and sand, muddy field edges after rain, and occasional tarmac or gravel lanes. Elevation is rolling with some steeper climbs along the cliff edges; footing can be uneven, slippery when wet, and wind-swept.",
+    "safety_notes": "This is a coastal, long-distance hike with exposed sections. Check tide times if the route includes beaches and be mindful of cliff-edge erosion. Weather can change rapidly along the coast; carry waterproof clothing, extra layers, sun protection, and a windproof layer. Stay on marked paths, avoid unstable cliff edges, and be prepared for wind and mud. Tell someone your planned route and expected finish time, and carry a map, compass or offline GPS, sufficient water and snacks, and a small first-aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Warm hat and gloves for wind protection",
+      "Water and high-energy snacks",
+      "Map, compass or offline GPS",
+      "Phone with a charged battery",
+      "Sunscreen and sunglasses",
+      "Windproof layer and extra warm layer",
+      "Small first-aid kit and whistle",
+      "Emergency blanket or bivvy if longer or remote sections",
+      "Head torch for possible late finishes"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) for longer daylight and more predictable coastal weather; be prepared for wind and sudden showers year-round.",
+    "seo": {
+      "title": "Happisburgh Circular Walk – 23.5 km Coastal Circuit in Norfolk, UK",
+      "meta_description": "Conquer a 23.5 km coastal hike around Happisburgh on the North Norfolk coast. This guide covers terrain, safety, best seasons, and gear for a hard coastal walk.",
+      "h1": "Happisburgh Circular Walk: 23.5 km Coastal Circuit"
+    }
   }
 }

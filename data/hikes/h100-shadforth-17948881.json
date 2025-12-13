@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 17948881
+  },
+  "ai": {
+    "summary": "H100 – Shadforth is a 9.8 km moderate circular hike in the UK, offering a mix of countryside paths, meadows, and gentle woodland. The route suits hikers with average fitness and features rolling terrain with occasional stiles and gates, providing pleasant views and a relaxed day on the trail.",
+    "terrain_summary": "Terrain includes well-defined footpaths, field edges and gentle woodland. Expect uneven ground and some mud after rain, plus stiles and occasional gates. Elevation changes are gentle but steady, making it suitable for a relaxed day out with standard hiking gear.",
+    "safety_notes": "Check weather before you go; UK conditions can change quickly. Wear sturdy waterproof boots and layered clothing, and bring a waterproof layer. Stay on marked paths, be prepared for stiles and gates, and know your route. Start with daylight; plan for shorter days in autumn and winter and carry a headlamp if finishing after dark. Carry water and snacks, respect livestock, and keep gates as you found them. Inform someone of your plans and estimated return time. Be mindful of other hikers, cyclists, and dogs; keep dogs on lead where required.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layers)",
+      "Rain jacket or waterproof shell",
+      "Map, compass, or GPS device",
+      "Backpack with enough capacity for layers and water",
+      "Snacks or energy bars",
+      "Sunscreen, sunglasses, and hat",
+      "First-aid kit",
+      "Headlamp or flashlight (for early/late starts)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer milder weather and longer daylight, with summer providing extended days. Winter hikes are possible but can be muddy and daylight is limited.",
+    "seo": {
+      "title": "H100 - Shadforth: 9.8 km Moderate Hike in the UK",
+      "meta_description": "Explore H100 – Shadforth, a 9.8 km moderate hike in the UK. Get terrain details, safety tips, gear recommendations, and the best seasons to plan your day on the trail.",
+      "h1": "H100 - Shadforth: 9.8 km Moderate UK Hike"
+    }
   }
 }

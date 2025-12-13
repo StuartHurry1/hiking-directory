@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 16353995
+  },
+  "ai": {
+    "summary": "An 11.2 km figure-of-eight hike in Hale Purlieu, southwest Hampshire, UK. The route links two scenic loops through heathland, woodland and open countryside, delivering a varied mix of terrain and gentle climbs suitable for a moderate level of fitness. Expect peaceful rural scenery and rewarding views across the surrounding landscape.",
+    "terrain_summary": "Terrain varies from well-maintained gravel and dirt tracks to grassy forest paths and short field-edge sections. Expect uneven footing, possible mud after rain, and several gates or stiles to negotiate. The route combines open heathland with sheltered woodland, featuring gentle gradients rather than long ascents.",
+    "safety_notes": "Plan for changing UK weather and daylight. Wear sturdy boots with good grip and bring waterproof clothing. Carry a map or GPS, plus sufficient water and snacks. Some sections pass through farmland where livestock may be present; please close gates and keep dogs under control. Navigation is straightforward on well-marked paths, but bring a backup in case visibility is poor.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing and a waterproof jacket",
+      "Backpack with water and energy snacks",
+      "Map and compass or GPS device (and fully charged phone as backup)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Basic first-aid kit and any personal medications",
+      "Emergency whistle and a small flashlight or headtorch",
+      "Optional trekking poles",
+      "Lightweight rain cover for your pack"
+    ],
+    "best_seasons": "Spring through autumn are ideal for the Hale Purlieu figure-of-eight walk; winter conditions can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Hale Purlieu Figure of Eight Walk – 11.2 km Moderate Hike in SW Hampshire, UK",
+      "meta_description": "Explore the Hale Purlieu Figure of Eight Walk, an 11.2 km moderate hike through heathland and woodland in SW Hampshire, UK. Two scenic loops combine for a satisfying day out.",
+      "h1": "Hale Purlieu Figure of Eight Walk — 11.2 km, Moderate Hike in SW Hampshire, UK"
+    }
   }
 }

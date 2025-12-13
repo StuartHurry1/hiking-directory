@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 6288795
+  },
+  "ai": {
+    "summary": "Harrogate Ringway is a challenging long-distance circular hike of about 103 km around Harrogate, in the United Kingdom. The route traverses varied countryside including rural lanes, fields, woodlands, and open moorland, with noticeable elevation changes and numerous gates and stiles. It suits experienced hikers with solid navigation skills and good fitness, and may require multi-day planning depending on pacing.",
+    "terrain_summary": "The terrain is mixed: surfaced and unsurfaced paths, bridleways, country lanes, field margins, and occasional road crossings. Expect a range of elevations from gentle rollers to steeper ascents, with potential boggy or muddy sections after rain. Some sections are remote with limited facilities; navigation can be important due to the unknown region and the looping nature of the route.",
+    "safety_notes": "- Check weather forecasts and plan for UK conditions, which can be changeable.\n- Carry map and compass (or a reliable navigation device) and know how to use them.\n- Plan logistics for daylight hours and have a backup plan for bad weather or fatigue.\n- Bring sufficient food and water; consider extra water in hot conditions.\n- Wear sturdy footwear and appropriate clothing; carry a waterproof layer.\n- Inform someone of your route and expected finish times; carry a means to contact help (phone with offline maps can help).\n- Carry a basic first aid kit, emergency whistle, and a light source if your hike may extend into dusk.\n- Respect private land boundaries, gates, livestock, and seasonal closures; be prepared for longer trails than expected.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing (base, mid, outer) and extra socks",
+      "Waterproof jacket and waterproof pants",
+      "Backpack suitable for long days (e.g., 20–40 L)",
+      "Map and compass; or GPS device with full battery and backups",
+      "Fully charged phone with offline maps and emergency contacts",
+      "Sufficient water supply (2–3 liters) and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "Small first aid kit and a basic survivability kit (foil blanket, whistle)",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Trekking poles (optional but helpful for uneven terrain)",
+      "Emergency plan and a means to contact someone if separated"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) when daylight is longer and weather is more predictable. Winter hiking is possible but requires careful planning and preparation due to shorter days and harsher conditions.",
+    "seo": {
+      "title": "Harrogate Ringway: 103-km Hard-Distance Circular Hike in the UK",
+      "meta_description": "Explore the Harrogate Ringway, a challenging 103-km circular hike around Harrogate, UK. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Harrogate Ringway: 103-km Hard-Distance Circular Hike"
+    }
   }
 }

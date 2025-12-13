@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14017978
+  },
+  "ai": {
+    "summary": "A short, easy 2.7 km nature walk at Harrow Weald Common Nature Trail in the UK. The route features flat, well-marked paths through mixed woodland and heath, suitable for families and casual walkers.",
+    "terrain_summary": "Mostly flat with a mix of gravel, compacted earth and grassy paths. Some sections may be uneven or slightly muddy after rain; watch for tree roots along the edges. Parts of the trail are shaded while others are exposed to light.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths and be mindful of other visitors, including cyclists. Check the forecast and bring a waterproof layer if rain is expected. Supervise children and carry water.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (waterproof layer, hat, sun protection as needed)",
+      "Light jacket for cooler months",
+      "Insect repellent",
+      "Small first aid kit",
+      "Map or offline navigation (optional)"
+    ],
+    "best_seasons": "All year round; spring and summer offer the best wildlife viewing and blooming plants, while autumn and winter are suitable for a quieter stroll.",
+    "seo": {
+      "title": "Harrow Weald Common Nature Trail – 2.7 km Easy Hike in the UK",
+      "meta_description": "Explore Harrow Weald Common Nature Trail, a 2.7 km easy hike in the UK. Flat paths, family-friendly sections, wildlife, safety tips, and gear recommendations.",
+      "h1": "Harrow Weald Common Nature Trail – 2.7 km Easy Hike"
+    }
   }
 }

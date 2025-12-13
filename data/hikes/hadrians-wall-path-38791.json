@@ -17,5 +17,37 @@
   "source": {
     "type": "osm",
     "osmId": 38791
+  },
+  "ai": {
+    "summary": "Hadrian's Wall Path is a hard, long-distance hike along the historic Roman frontier in northern England. At 299.1 km, it challenges seasoned trekkers with varied terrain, frequent ascents, and days spent in remote countryside across rugged moorland, farmland, and stone-built sites. The region is listed as Unknown, within the UK, and the distance implies multiple days of trekking across diverse conditions.",
+    "terrain_summary": "Expect a mix of well-graded trails, rough field paths, rocky stiles, and occasional road sections. Terrain ranges from soft moorland and peat bogs to crisp paths near settlements, with exposed ridges and long ascents. Weather can be windy and wet, and footing can be uneven or slippery in places.",
+    "safety_notes": "This is a remote, long-distance route with limited daily services. Plan for self-sufficiency, especially on stretches with few resupply points. Weather in northern England can be highly variable; prepare for wind, rain, and cold, even in summer. Navigation is generally straightforward on the main route, but carry map/compass or a reliable GPS. Ensure proper footwear and clothing, carry a basic first aid kit, inform someone of your itinerary, and have a contingency plan for bad weather or injury; check rights of way and accommodation options ahead of time.",
+    "recommended_gear": [
+      "Waterproof breathable jacket with hood",
+      "Insulating mid-layer (fleece or down)",
+      "Sturdy waterproof hiking boots",
+      "Backpack 30–40 liters with rain cover",
+      "Trekking poles (optional but helpful)",
+      "Map and compass (or GPS device) and/or offline maps",
+      "Headlamp with extra batteries",
+      "First aid kit with blister care",
+      "Water purification method (filters or purification tablets)",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy food and lightweight meals",
+      "Emergency shelter (bivvy bag) or ultralight tent",
+      "Sleeping bag appropriate for season",
+      "Dry bag(s) for gear",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Thermal socks and spare socks",
+      "Multipurpose knife or multitool",
+      "Duct tape and lightweight repair kit",
+      "Personal ID and emergency contact information"
+    ],
+    "best_seasons": "Spring (March–May) and autumn (September–October) are ideal, offering milder conditions and fewer crowds. Summer provides longer daylight but can be busier and hotter; winter brings shorter days and harsher weather.",
+    "seo": {
+      "title": "Hadrian's Wall Path – 299.1 km Hard Hike in the UK",
+      "meta_description": "Explore Hadrian's Wall Path, a challenging 299.1 km long-distance trek in northern England. Learn terrain, safety tips, best seasons, and essential gear for this demanding trail along the historic Roman frontier.",
+      "h1": "Hadrian's Wall Path – 299.1 km Hard Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16703778
+  },
+  "ai": {
+    "summary": "Harringay Passage is a short, easy 3.2 km hike through urban and park environments in the UK. It's suitable for beginners and a quick outdoor leg-stretch, featuring straight sidewalks, tree-lined paths, and open spaces.",
+    "terrain_summary": "Mostly flat and well-maintained. The route combines paved urban paths with short stretches of gravel and park trails.",
+    "safety_notes": "- Be aware of pedestrians and cyclists on shared paths. - Follow local signs and keep to marked routes. - Check the weather and daylight hours before you go. - Wear sturdy, comfortable footwear and dress for changing conditions. - Bring a map or a charged phone with offline access. - Carry a small water bottle and a light snack. - At road crossings and busy intersections, pause and look both ways.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight jacket",
+      "Phone with offline map",
+      "Sunscreen and sunglasses",
+      "Hat for sun or rain",
+      "Light snack"
+    ],
+    "best_seasons": "Year-round, with spring and autumn especially pleasant.",
+    "seo": {
+      "title": "Harringay Passage: Easy 3.2 km Hike in the UK",
+      "meta_description": "Discover Harringay Passage, an easy 3.2 km hike in the UK. This guide covers terrain, safety tips, and gear for a short urban-to-park trail.",
+      "h1": "Harringay Passage: Easy 3.2 km UK Hike"
+    }
   }
 }

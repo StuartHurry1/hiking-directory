@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18184378
+  },
+  "ai": {
+    "summary": "Happy Valley Circular is a short, easy 2.2 km loop in the UK. It’s ideal for families and beginners, offering gentle terrain and pleasant countryside views without strenuous climbs.",
+    "terrain_summary": "The route uses well-maintained paths with a mix of compact gravel, grassy lanes, and a short boardwalk section. Expect gentle gradients and occasional mud after rain; sturdy footwear is recommended.",
+    "safety_notes": "This is an easy hike, but always check the weather and daylight. Bring a waterproof layer and extra clothing, wear shoes with good grip, and stay on marked paths. Be mindful of uneven surfaces, puddles after rain, and potential farm or livestock areas. Carry a map or GPS and let someone know your plan; mobile signal can be limited in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Water bottle",
+      "Small daypack",
+      "Phone and map or GPS",
+      "Snacks",
+      "Hat and sun protection (seasonally)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions for this short, easy circular walk; summer provides longer daylight, while autumn offers pleasant scenery.",
+    "seo": {
+      "title": "Happy Valley Circular Walk – Easy 2.2 km UK Hike",
+      "meta_description": "Discover the 2.2 km Happy Valley Circular in the UK. An easy, family-friendly loop with flat paths, gentle gradients, and countryside views. Practical gear and safety tips.",
+      "h1": "Happy Valley Circular: 2.2 km Easy UK Hike"
+    }
   }
 }

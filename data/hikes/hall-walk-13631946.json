@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 13631946
+  },
+  "ai": {
+    "summary": "Hall Walk is a challenging 15.5 km hike in the UK countryside. The route combines grassy fields, muddy tracks, and woodland paths with some steep sections, demanding good fitness, navigation, and careful footing.",
+    "terrain_summary": "Expect a mix of grassy climbs, uneven stone tracks, muddy forest paths, and occasional exposed sections. Ground can be wet and slippery, with stiles and boggy patches requiring sure footing. Elevation changes may be steep in places, so pace yourself and be prepared for changing weather.",
+    "safety_notes": "This is a hard, long hike. Plan for 5–8 hours. Check the weather and daylight hours before setting out; UK conditions can change quickly. Wear sturdy waterproof boots and bring layered clothing plus a waterproof outer layer. Carry a map and compass (or GPS) in case of poor visibility; do not rely on phone navigation alone. Bring sufficient water and high-energy snacks. Include a small first aid kit and a whistle for emergencies. Let someone know your plans and expected return time. Take care on wet or rocky sections and be mindful of livestock and gates in field sections; avoid the route in strong winds or flood risk.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing + waterproof outerwear",
+      "Backpack with rain cover",
+      "Map and compass (or GPS)",
+      "Fully charged phone with offline maps",
+      "Water and high-energy snacks",
+      "Hat, gloves, and extra socks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency blanket or bivvy bag",
+      "Whistle for emergencies",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for the most favorable conditions; winter hikes are possible with proper equipment and caution.",
+    "seo": {
+      "title": "Hall Walk – 15.5 km Hard Hike in the UK Countryside",
+      "meta_description": "Tackle Hall Walk, a demanding 15.5 km hike in the UK. Discover terrain, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Hall Walk – 15.5 km Hard Hike"
+    }
   }
 }

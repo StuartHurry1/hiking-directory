@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11497964
+  },
+  "ai": {
+    "summary": "Gulberwick Beach offers a quick, easy coastal stroll in the UK, covering about 0.3 km along the shoreline. It is suitable for all ages and abilities, with minimal elevation change and straightforward scenery.",
+    "terrain_summary": "Flat shoreline terrain typical of a beach walk. Expect firm sand or pebbles with some soft sections near the water, and occasional smooth, level paths along the coast. Generally easy and accessible.",
+    "safety_notes": "Check tide times before you go and avoid walking too close to unstable dunes or cliff edges. Be aware of waves and slipping on wet sand. Keep children and pets under supervision. Wear appropriate footwear, apply sun protection, and bring a light layer for changing conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Sunscreen",
+      "Hat or cap",
+      "Light jacket or layer",
+      "Tide-aware map or offline map on phone"
+    ],
+    "best_seasons": "Late spring to early autumn; summer typically offers the best beach conditions and daylight.",
+    "seo": {
+      "title": "Gulberwick Beach Hike - Easy 0.3 km Coastal Walk in the UK",
+      "meta_description": "Plan a quick 0.3 km coastal stroll at Gulberwick Beach in the UK. Learn about terrain, safety tips, and recommended gear for a short, enjoyable outing.",
+      "h1": "Gulberwick Beach Easy 0.3 km Coastal Walk"
+    }
   }
 }

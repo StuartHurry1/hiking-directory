@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 110754
+  },
+  "ai": {
+    "summary": "A scenic, easy 3.8 km nature trail that links Happy Valley and Farthing Downs in the UK. The walk combines chalk grassland with woodland edges and offers open views, wildlife spotting, and a relaxed pace suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-maintained paths across open chalk downs and woodland edges. The route is gently graded with some uneven or muddy sections after rain and a few short inclines. Most of the paths are suitable for standard footwear; expect a mix of compact soil, gravel, and exposed chalk in places. Some sections may be less stroller-friendly depending on the conditions.",
+    "safety_notes": "Check the weather forecast and wear sturdy footwear. Stay on marked paths, as some edges can be steep and loose chalk can be slippery. Be mindful of other walkers, cyclists, and dogs on shared routes. Carry water, a light layer, and a basic first aid kit. In rural parts of the UK mobile coverage may be patchy; let someone know your plans.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layering)",
+      "Water bottle",
+      "Small snack",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS",
+      "Light rain jacket or shell",
+      "Insect repellent",
+      "Basic first aid kit",
+      "Mobile phone with emergency numbers"
+    ],
+    "best_seasons": "Spring and autumn are especially pleasant for wildlife viewing and milder temperatures, but the trail is accessible year round with proper footwear and weather-appropriate clothing. Be prepared for mud in winter and heat in summer.",
+    "seo": {
+      "title": "Happy Valley & Farthing Downs Nature Trail – Easy 3.8 km Walk in the UK",
+      "meta_description": "Discover the easy 3.8 km Happy Valley & Farthing Downs Nature Trail in the UK. Open chalk downs, woodland edges, and wildlife with practical safety tips and gear.",
+      "h1": "Happy Valley & Farthing Downs Nature Trail"
+    }
   }
 }

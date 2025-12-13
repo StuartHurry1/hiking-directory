@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17952203
+  },
+  "ai": {
+    "summary": "A 11.5 km moderate hike along the H100 route between Newton Hall and Brasside, in the UK countryside. The walk combines rural lanes, fields and woodland and is suitable for hikers with moderate fitness.",
+    "terrain_summary": "Varied terrain including surfaced lanes, gravel tracks, grassy field edges and woodland paths. Expect gentle ascents and descents, occasional stiles, and possible mud after rain. Footing can be uneven, so sturdy boots are advised.",
+    "safety_notes": "Check the weather and daylight hours before you go. Stay on public rights of way and respect landowners. Bring a map or GPS and ensure your phone is charged. Watch for farm gates, livestock and road crossings. Carry water, snacks and a basic first aid kit. If visibility is poor or conditions worsen, turn back. Let someone know your planned route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2-2.5 L)",
+      "Layered clothing and a waterproof jacket",
+      "Hat and sunscreen",
+      "Map and compass or GPS device",
+      "Small first aid kit and emergency whistle",
+      "Energy snacks (nuts, bars, fruit)",
+      "Headlamp or flashlight",
+      "Phone with offline map and a power bank",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October).",
+    "seo": {
+      "title": "H100 Newton Hall & Brasside Walk – 11.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 11.5 km H100 route from Newton Hall to Brasside. A moderate UK countryside hike with varied terrain, safety tips, and gear recommendations.",
+      "h1": "H100: Newton Hall & Brasside Trail"
+    }
   }
 }
