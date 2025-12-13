@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 18028603
+  },
+  "ai": {
+    "summary": "Lakeside Way is a demanding long-distance hike in the UK, spanning approximately 99.7 km around lakes with varied scenery. The route combines lakeside footpaths, forest trails, and rural lanes, delivering significant elevation changes and exposed sections that challenge endurance and navigation. Designed for experienced hikers, this multi-day trek rewards perseverance with diverse water views and tranquil shorelines.",
+    "terrain_summary": "Expect a mix of well-maintained lakeside paths, muddy forest tracks, rocky sections, and occasional road crossings. Terrain can be slippery when wet and weather in the UK is changeable, so sturdy boots and good balance are essential. Over the full distance, cumulative elevation gain is substantial, with long climbs and some ridge-like stretches.",
+    "safety_notes": "This is a hard multi-day trek. Plan for 2–4 days with proper route planning and daily mileage. Check weather, daylight hours, and water availability; carry a map and compass (and GPS backup). Wear waterproof boots, bring layers, and pack shelter and enough food. Tell someone your itinerary, stay on marked paths, and be prepared for remote stretches with limited cell reception. Have a basic first-aid kit, a whistle, and emergency contact information. Know your limits and turn back if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy hiking boots with reliable ankle support",
+      "Weatherproof jacket and overpants",
+      "Warm layers (fleece or down)",
+      "Trekking poles (optional but helpful)",
+      "Water bottle or hydration system (2–3 L capacity)",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "Lightweight tent or bivouac shelter and a compact sleeping bag",
+      "Food and snacks for multi-day trek",
+      "Water treatment method (filters or purification tablets)",
+      "First aid kit and personal medications",
+      "Dry bags or pack liners to keep gear dry",
+      "Emergency whistle and space blanket"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers the nicest weather for this route in the UK, though experienced hikers can tackle it year-round with appropriate gear and shorter daylight hours.",
+    "seo": {
+      "title": "Lakeside Way – 99.7 km Hard Lakeside Hike in the UK",
+      "meta_description": "Embark on Lakeside Way, a challenging 99.7 km lakeside hike in the UK. Learn about terrain, safety notes, gear, and the best seasons for this demanding long-distance trek.",
+      "h1": "Lakeside Way: A 99.7 km Lakeside Hike in the UK (Hard)"
+    }
   }
 }

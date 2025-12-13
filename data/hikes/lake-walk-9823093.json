@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 9823093
+  },
+  "ai": {
+    "summary": "A gentle 1.1 km lakeside stroll in the UK, ideal for families and casual walkers. The easy, flat loop offers tranquil water views, opportunities to spot wildlife, and a peaceful escape around the lake.",
+    "terrain_summary": "Flat, well-maintained path around the lake. Mostly paved or compact gravel with occasional muddy patches after rain; some sections may be exposed to wind from the water.",
+    "safety_notes": "This short, easy route is suitable for most ages, but always stay on marked paths. Check the weather and be prepared for mud after rain. Keep children and pets under control, especially near the shoreline. Bring water, wear sun protection on sunny days, and dress for changing conditions. If mobility is a concern, verify accessibility before starting. Leave no trace and respect wildlife.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat or cap",
+      "Sunscreen",
+      "Sunglasses",
+      "Small backpack",
+      "Phone with offline map or a printable route map",
+      "Camera (optional)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn for the best light and lake views; summer provides longer daylight. Winter visits can be windy, muddy, or chilly, so plan accordingly.",
+    "seo": {
+      "title": "Lake Walk: Easy 1.1km Lakeside Trail in the UK",
+      "meta_description": "Discover Lake Walk, a gentle 1.1 km lakeside loop in the UK. An easy, family-friendly route with scenic water views, safety tips, and practical gear recommendations.",
+      "h1": "Lake Walk — Easy 1.1km Lakeside Trail (UK)"
+    }
   }
 }

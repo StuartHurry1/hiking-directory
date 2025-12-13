@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2165705
+  },
+  "ai": {
+    "summary": "The Kingfisher Trail is a demanding 22-kilometer hike in the UK, suited for experienced trekkers. It traverses varied terrain with significant elevation and long miles, offering rewards in views and solitude when conditions cooperate.",
+    "terrain_summary": "The route combines well-maintained paths with muddy sections, rocky ascents, and exposed stretches. Footing can be uneven and slippery after rain, and elevation gain is substantial for a 22 km hike. Terrain and scenery can vary by region within the UK.",
+    "safety_notes": "Plan for 4–7 hours of hiking depending on pace and conditions. Check local weather and daylight hours, as UK weather can change rapidly. Carry a map and compass as a backup to GPS, and know how to use them. Tell someone your planned route and ETA. Stay hydrated and bring extra food. Wear sturdy waterproof footwear and dress in layered clothing; bring a waterproof jacket and gloves in cold or wet conditions. Be prepared for mud, boggy sections, and rough terrain. Stay on marked paths, pack out all rubbish, and be mindful of gates and livestock. In remote sections, carry a small emergency bivy or space blanket and a whistle for signaling.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2–3 L)",
+      "Breathable waterproof jacket and waterproof pants",
+      "Insulating layer (fleece or puffy)",
+      "Extra socks",
+      "Hiking trousers or durable pants",
+      "Map and compass or GPS device",
+      "Mobile phone with offline maps and portable charger",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency whistle",
+      "Emergency bivy or space blanket",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are typically best for the Kingfisher Trail in the UK, offering longer daylight and drier conditions. Winter hiking is possible only for very experienced hikers with appropriate gear and conditions.",
+    "seo": {
+      "title": "Kingfisher Trail – 22km Hard Hike in the UK",
+      "meta_description": "Explore the 22-kilometer hard Kingfisher Trail in the UK. terrain overview, safety tips, essential gear, and best seasons for this demanding hike.",
+      "h1": "Kingfisher Trail: A 22km Hard Hike in the UK"
+    }
   }
 }

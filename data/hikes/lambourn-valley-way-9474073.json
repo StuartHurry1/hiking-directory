@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 9474073
+  },
+  "ai": {
+    "summary": "The Lambourn Valley Way is a hard, long-distance hike in the United Kingdom, covering 148 km through rural countryside. The route follows hedged lanes and river valleys with varied terrain, offering a challenging trek over multiple days with several ascents and descents, picturesque villages, and farmland scenery.",
+    "terrain_summary": "Primarily rural field paths, chalk tracks, and country lanes with occasional road sections. Elevation varies from gentle gradients to steeper climbs in places, including woodland and riverbank footing. Expect stiles, gates, mud after rain, and several farm and village crossings; surface quality ranges from gravel and turf to compacted earth.",
+    "safety_notes": "Plan for a multi-day trek with overnight stops. Check weather forecasts and daylight hours; navigation skills and map/compass are essential. Carry waterproof clothing, layers, adequate food and water, and a first aid kit. Inform someone of your route and timings. Be cautious around livestock, on country roads, and in remote sections; follow public rights of way and Leave No Trace principles.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Waterproof jacket and pants",
+      "Breathable layers (fleece or insulating layer)",
+      "Hat and gloves (season dependent)",
+      "Daypack with rain cover",
+      "Map and compass (and optional GPS)",
+      "Water supply (2–3 liters) and/or water filtration",
+      "High-energy snacks and meals for multi-day hike",
+      "First aid kit with basic supplies",
+      "Headlamp or flashlight with extra batteries",
+      "Sunscreen, sunglasses, and insect repellent",
+      "Emergency whistle and multipurpose knife",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring through Autumn (approximately March to October), with the most comfortable conditions in late spring and early autumn; winter hiking is more challenging due to mud and reduced daylight.",
+    "seo": {
+      "title": "Lambourn Valley Way: 148 km Hard UK Long-Distance Hike",
+      "meta_description": "Discover the Lambourn Valley Way, a challenging 148 km trail in the United Kingdom. Practical safety tips, terrain overview, and gear recommendations for a multi-day rural hike.",
+      "h1": "Lambourn Valley Way – 148 km Hard UK Trail"
+    }
   }
 }

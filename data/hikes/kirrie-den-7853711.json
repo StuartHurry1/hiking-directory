@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 7853711
+  },
+  "ai": {
+    "summary": "Kirrie Den is a gentle 4.5 km hike in the UK, suitable for beginners and families. The route offers easy, well-maintained paths through woodland and open countryside, with relaxing scenery and a light pace.",
+    "terrain_summary": "The trail is mostly easy, with well-marked paths, compact gravel or packed earth, and occasional grassy verges. Expect some damp or muddy sections after rain and a few gentle slopes.",
+    "safety_notes": "Since the route is in rural UK countryside, wear appropriate footwear, carry water, and check weather conditions. Stay on marked paths, watch for puddles and mud, be mindful of livestock and roadside edges, and daylight hours should be planned if walking outside peak times. If lost, retrace steps to the trailhead.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing (layering, waterproof jacket)",
+      "Water bottle",
+      "Snack and energy bars",
+      "Hat and sun protection in sunny weather",
+      "Map or offline GPS / fully charged phone",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn are ideal, with mild temperatures and better trail conditions; the route can be done in winter with extra footwear and possible mud considerations.",
+    "seo": {
+      "title": "Kirrie Den Walk – Easy 4.5 km Hike in the UK",
+      "meta_description": "Discover Kirrie Den, an easy 4.5 km hike suitable for beginners and families. Enjoy woodland paths, gentle terrain, and countryside scenery in the UK.",
+      "h1": "Kirrie Den – Easy 4.5 km Hike"
+    }
   }
 }

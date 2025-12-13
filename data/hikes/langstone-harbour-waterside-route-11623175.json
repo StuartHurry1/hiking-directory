@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 11623175
+  },
+  "ai": {
+    "summary": "Langstone Harbour Waterside Route is a challenging 53.6 km coastal hike around Langstone Harbour in the UK. The route follows a mix of paved paths, boardwalks, and shoreline tracks along estuaries and salt marshes, offering seabird watching and harbour views. It is a strenuous, long-distance trek that benefits from careful planning around tides, weather, and daylight.",
+    "terrain_summary": "Mostly flat to gently undulating coastal terrain with long waterfront sections. Expect a mix of asphalt, gravel, boardwalks, and occasional soft sand along beaches and tidal flats. Tidal conditions can affect segments and provide mud or slippery surfaces; wind and spray are common on exposed stretches.",
+    "safety_notes": "Check tide tables and plan around tidal windows to avoid getting cut off from shore. Wear sturdy waterproof footwear and dress in layers; UK coastal weather can change quickly. Carry sufficient water and food, a map or GPS, a fully charged phone, and a basic first-aid kit. Stay on marked paths, watch for slippery boardwalks, and be mindful of local wildlife and protected areas. Inform someone of your plans and expected finish time; daylight may be limited in winter.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing + waterproof/windproof jacket",
+      "Hat, gloves (seasonal)",
+      "Water bottle or hydration system (2–3 L for long hikes)",
+      "Trail snacks or energy bars; electrolyte drinks",
+      "Map, compass or GPS device; fully charged phone",
+      "Headlamp or flashlight (with extra batteries)",
+      "Small first-aid kit and emergency whistle",
+      "Sunscreen and sunglasses (sun exposure)",
+      "Lightweight emergency bivy or compact blanket",
+      "Trekking poles (optional but helpful on long sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers milder weather and longer daylight. Summer provides good visibility for wildlife and scenery, but can be hotter and busier; winter hiking is possible but requires careful planning for wind, rain, and shorter days.",
+    "seo": {
+      "title": "Langstone Harbour Waterside Route — 53.6 km Coastal Hike in the UK",
+      "meta_description": "Discover the Langstone Harbour Waterside Route, a demanding 53.6 km coastal trek in the UK. Learn terrain, safety tips, best seasons, and gear for this long-distance harbour walk.",
+      "h1": "Langstone Harbour Waterside Route – 53.6 km Coastal Hike (UK)"
+    }
   }
 }

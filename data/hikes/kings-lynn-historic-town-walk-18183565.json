@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 18183565
+  },
+  "ai": {
+    "summary": "King’s Lynn Historic Town Walk is an 8 km urban heritage route through the historic town centre of King’s Lynn, UK. This moderate-difficulty walk follows streets and quiet lanes, blending architectural landmarks with a relaxed pace suitable for most walkers.",
+    "terrain_summary": "Primarily urban terrain with paved sidewalks, cobbled streets, and level to gently rolling streets. Expect uneven cobbles in historic lanes and some stretches with gradients. Footing is typical of town walks; watch for pedestrians and occasional vehicle traffic in busy areas.",
+    "safety_notes": "Urban walking involves shared streets and potential traffic. Wear sturdy walking shoes, watch for cobbles and uneven pavement, and stay aware of surroundings in crowded areas. Check the weather, bring water, and start with daylight. If traveling with others, agree on meeting points and have a charged phone. For accessibility, note that some historic lanes and cobbles may be difficult for wheelchairs or strollers.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunglasses",
+      "Map or offline navigation (or smartphone with offline map)",
+      "Fully charged phone and power bank",
+      "Small backpack",
+      "Snack or energy bar",
+      "Umbrella (optional)"
+    ],
+    "best_seasons": "Spring and Autumn (Mar–May and Sep–Nov) offer pleasant temperatures and fewer crowds; summer can be busier and winter days are shorter.",
+    "seo": {
+      "title": "King’s Lynn Historic Town Walk – 8 km Moderate Urban Hike in the UK",
+      "meta_description": "Discover 8 km of history on the King’s Lynn Historic Town Walk. A moderate urban hike through the town center with terrain, safety, gear tips, and best seasons.",
+      "h1": "King’s Lynn Historic Town Walk – 8 km, Moderate"
+    }
   }
 }

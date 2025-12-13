@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8464024
+  },
+  "ai": {
+    "summary": "Laird's Trail is a 6 km moderate hike in the United Kingdom. The route offers a balanced mix of grassy paths and firmer trails, with occasional rocky sections and mild elevation gain, suitable for hikers with some experience.",
+    "terrain_summary": "The trail follows a combination of well-trodden paths and uneven sections. Expect grassy fields, compact earth, and occasional rocky steps. Ground conditions can be muddy after rain, and a modest ascent provides elevation gain without steep grades.",
+    "safety_notes": "Plan for changeable UK weather and variable trail conditions. Wear sturdy, waterproof footwear and bring a map or GPS. Pack a light rain jacket, warm layer, and enough water and snacks. Stay on marked paths, beware of slippery rocks after rain, and inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (layered) and a light rain jacket",
+      "Map or GPS device and a charged phone",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Whistle",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October).",
+    "seo": {
+      "title": "Laird's Trail – 6 km Moderate Hike in the UK",
+      "meta_description": "Discover Laird's Trail, a 6 km moderate hike in the United Kingdom. Learn about terrain, safety tips, the best seasons, and gear to plan your trek.",
+      "h1": "Laird's Trail: 6 km Moderate Hike in the UK"
+    }
   }
 }

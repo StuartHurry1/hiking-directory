@@ -20,5 +20,30 @@
   "source": {
     "type": "osm",
     "osmId": 18038767
+  },
+  "ai": {
+    "summary": "A demanding 172.1 km section of the King Charles III England Coast Path from Sutton Bridge to Skegness. The route mixes coastal ridge segments with flat fenland approaches, delivering spectacular sea views, long horizons, and challenging exposed sections. Expect multi-day treks, changing weather, and some remote stretches that test stamina and navigation.",
+    "terrain_summary": "Primarily coastal and ridge terrain: exposed coastal paths, rolling uplands, and long, flat stretches along dunes and marshes. Surface varies from compact paths to muddy margins, boardwalks, and soft sand. Strong winds and sea spray are common; plan for elevation gain over distance and limited resupply points.",
+    "safety_notes": "Plan for multi-day trekking with potential isolation in parts of the Lincolnshire coast. Check tide times and weather forecasts; some segments may be affected by tides or closures after heavy rain. Carry map, compass or GPS, and a reliable signaling method. Wear sturdy, waterproof footwear and dress in layered, weather-appropriate clothing. Bring enough water and high-energy food, and inform someone of your itinerary and expected return. Mobile coverage can be limited in remote sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate layered clothing (base layer, insulating layer, waterproof outer shell)",
+      "Lightweight rain jacket or shell and a warmer outer layer",
+      "Wide-brimmed hat and sunglasses",
+      "Map, compass, and/or GPS device",
+      "Water bottles or hydration system (2–3 liters capacity) and snacks",
+      "Headlamp or compact flashlight with extra batteries",
+      "Personal first aid kit and blister care",
+      "Emergency whistle and a fully charged mobile phone (with offline maps)",
+      "Sun protection (sunscreen) and lip balm",
+      "Trekking poles (optional but helpful on ridges and soft terrain)",
+      "Portable charger for devices"
+    ],
+    "best_seasons": "May to September offers the best conditions with longer daylight and more stable weather. Shoulder seasons (April–May and September–October) can be rewarding but bring variable conditions; winter is generally challenging due to storms, flooding risk, and reduced daylight.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Sutton Bridge to Skegness — 172.1 km Coastal Ridge Trek",
+      "meta_description": "A challenging 172.1 km section of the England Coast Path from Sutton Bridge to Skegness, featuring coastal ridges, open seascapes, and demanding terrain along the Lincolnshire coast.",
+      "h1": "King Charles III England Coast Path: Sutton Bridge to Skegness"
+    }
   }
 }

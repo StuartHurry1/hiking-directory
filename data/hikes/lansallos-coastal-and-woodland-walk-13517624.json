@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 13517624
+  },
+  "ai": {
+    "summary": "The Lansallos coastal and woodland walk is a 14.6 km circuit in the UK that blends dramatic coastal scenery with leafy woodland paths. Rated as moderate, the route takes you along cliff-edge tracks, past coves and through inland woodlands, offering sea views, varied terrain, and a satisfying day hike that can be completed in a half-day to a full day depending on pace and stops.",
+    "terrain_summary": "Expect mixed terrain: coastal cliff paths and pebbled tracks with occasional steps, short steep climbs, muddy woodland trails, and wooden boardwalk sections in damp conditions. Tidal exposure may affect some sections, and weather can change quickly, so waterproof layers are recommended.",
+    "safety_notes": "Check tide times if coastal segments are tide-dependent. Stay away from cliff edges on windy days and watch for wet, slippery rocks. Wear sturdy footwear and keep to marked paths. Bring a map or GPS, stay hydrated, and have a plan for daylight. Inform someone of your route and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Windproof and waterproof jacket",
+      "Warm layers and hat",
+      "Map and compass or GPS device",
+      "Phone in a waterproof case; power bank",
+      "First aid kit",
+      "Sun protection (sunscreen, sunglasses)",
+      "Emergency whistle",
+      "Lightweight rain cover for backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn",
+    "seo": {
+      "title": "Lansallos coastal and woodland walk – 14.6 km moderate coastal hike in the UK",
+      "meta_description": "Explore the 14.6 km Lansallos coastal and woodland walk, a moderate coastal hike in the UK featuring cliff-top views, woodlands, and sea panoramas. Plan your day with route details, safety tips, and gear recommendations.",
+      "h1": "Lansallos coastal and woodland walk (14.6 km)"
+    }
   }
 }

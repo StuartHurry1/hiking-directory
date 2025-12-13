@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 19271630
+  },
+  "ai": {
+    "summary": "Lakeside Amble is a 10.1 km moderate lakeside loop in the UK, offered by North Lakes Outdoors. The route combines serene lakeside paths with gentle woodland sections, delivering scenic water views, opportunities to spot wildlife, and a relaxed pace suitable for hikers with basic navigation skills.",
+    "terrain_summary": "Primarily well-surfaced paths along the lake edge, with short sections of stone steps and wooden boardwalks. Expect occasional muddy patches after rain and some uneven ground with tree roots. Elevation gain is gentle, featuring light rollers rather than steep climbs.",
+    "safety_notes": "Check the forecast before you go; UK weather can change rapidly. Wear sturdy waterproof boots and bring a waterproof layer. Carry a map or offline navigation, and let someone know your plan. Stay on marked trails near the water; watch for slippery surfaces after rain. Be mindful of crowds on weekends and cyclists on shared paths. Carry a whistle and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map or offline navigation device",
+      "Water bottle and snacks",
+      "Small first aid kit",
+      "Headlamp or flashlight if daylight fades",
+      "Sun protection (hat, sunscreen)",
+      "Phone with offline map",
+      "Light rain cover for backpack",
+      "Walking poles (optional)",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when trails are drier and lake scenery is most vibrant. Winter visits are possible but expect muddier paths, shorter daylight, and colder conditions.",
+    "seo": {
+      "title": "Lakeside Amble (10.1 km) – Moderate Lakeside Hike in the UK | North Lakes Outdoors",
+      "meta_description": "Explore Lakeside Amble, a 10.1 km moderate hike around tranquil UK lakes. Learn about terrain, safety, best seasons, and gear for a rewarding day on the water.",
+      "h1": "Lakeside Amble: A 10.1 km Moderate Lakeside Hike in the UK"
+    }
   }
 }

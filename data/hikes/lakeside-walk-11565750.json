@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 11565750
+  },
+  "ai": {
+    "summary": "Lakeside Walk is a gentle 4.1 km circular route along a scenic lake in the UK. With easy terrain and level paths, it's ideal for beginners, families, and anyone seeking a relaxing lakeside stroll.",
+    "terrain_summary": "The route follows well maintained paths that are mostly flat, with occasional gentle slopes. Expect some muddy patches near the water and short sections of wooden boardwalk. The surface is a mix of gravel, compacted earth, and grass, so footwear with good grip is advised.",
+    "safety_notes": "Check the weather and daylight hours before you go. The lake edge can be slippery when wet. Stay on marked paths and watch for cyclists and other pedestrians. Keep children and pets under control near the water. Wear sturdy footwear and bring a waterproof layer in case of rain. Bring a map or charged phone for navigation and emergency contacts.",
+    "recommended_gear": [
+      "Supportive walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Snack and sun protection",
+      "Hat and sunglasses",
+      "Small first aid kit",
+      "Map or offline navigation app",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions with milder weather and drier paths. In winter, the track is still walkable with proper clothing, but daylight hours are shorter and surfaces may be slippery.",
+    "seo": {
+      "title": "Lakeside Walk - Easy 4.1 km Lakeside Trail in the UK",
+      "meta_description": "Experience a gentle 4.1 km lakeside walk in the UK. Easy terrain, scenic lake views, perfect for beginners and families. Safety tips and gear included.",
+      "h1": "Lakeside Walk: Easy 4.1 km Lakeside Trail"
+    }
   }
 }

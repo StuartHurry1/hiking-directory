@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 15488324
+  },
+  "ai": {
+    "summary": "Lakeside walk is a 6.9 km moderate hike around serene lakes in the UK (region not specified). It weaves along lakeside paths, picnic spots, and gentle woodland edges, offering tranquil scenery and opportunities for wildlife watching.",
+    "terrain_summary": "The loop mixes gravel paths, compact dirt trails, short sections of boardwalk, and grassy approaches. Expect gentle slopes, some uneven ground, and damp, slippery surfaces after rain; waterproof footwear is advised.",
+    "safety_notes": "Check local conditions before setting out. Wear sturdy shoes, bring a map or offline navigation, and stay on marked paths. Be mindful of cyclists on shared sections, keep a safe distance from the water's edge, supervise children, and leash dogs where required. Bring water, weather-appropriate layers, and a basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Weather-appropriate clothing (layered, including a waterproof jacket)",
+      "Water bottle and snacks",
+      "Map or offline navigation on a phone",
+      "Small first aid kit",
+      "Hat, sunglasses, and sunscreen",
+      "Lightweight backpack rain cover",
+      "Headlamp or flashlight (for late return)"
+    ],
+    "best_seasons": "Spring to autumn, with peak conditions in late spring and early autumn.",
+    "seo": {
+      "title": "Lakeside walk – a 6.9 km moderate lakeside hike in the UK",
+      "meta_description": "Explore Lakeside walk, a 6.9 km moderate hike around tranquil lakes in the UK. Clear terrain, scenic views, safety tips, and essential gear for an enjoyable day out.",
+      "h1": "Lakeside walk: a 6.9 km moderate lakeside hike in the UK"
+    }
   }
 }

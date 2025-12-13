@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 17227387
+  },
+  "ai": {
+    "summary": "A demanding 80.3 km coastal trek along the England Coast Path from Ramsgate to Whitstable in Kent. This hard route follows cliff tops, shingle beaches, and seaside towns, delivering sweeping sea views and wildlife encounters, but it requires solid planning, fitness, and resilience on exposed coastal terrain.",
+    "terrain_summary": "Predominantly coastal path with mixed surfaces: rugged cliff-top trails with exposed edges, chalk and compact earth, pebbly and sandy beaches, wooden boardwalks, and occasional road or town sections. Expect uneven footing, steep ascents and descents in places, strong winds, salt spray, and variable weather. Some stretches may be muddy after rain; navigation is straightforward but plan for detours along the coast.",
+    "safety_notes": "Plan for long days and variable weather. Check tide times and cliff-edge warnings on coastal sections. Wear sturdy waterproof boots and bring layers, a waterproof jacket, and sun protection. Carry a map, compass or offline GPS, a charged phone, and a power bank. Bring sufficient water and high-energy snacks; have a plan for accommodation or transport in Ramsgate and Whitstable. Tell someone your route and expected finish times. Be prepared for sudden weather changes and sea spray; avoid unstable cliff edges and obey warning signs.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof outer layer",
+      "Backpack with rain cover and spare clothing",
+      "Water bottle or hydration system and high-energy snacks",
+      "Map, compass, or offline GPS",
+      "Fully charged phone and portable power bank",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "First aid kit, blister care, and emergency whistle",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly April to September) offer milder weather, longer daylight, and more predictable coastal conditions. Winters can be wet, windy, and dark, increasing risks on exposed sections.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Ramsgate to Whitstable (80.3 km) – Coastal Trek",
+      "meta_description": "A challenging 80.3 km stretch of the England Coast Path from Ramsgate to Whitstable in Kent. Coastal cliffs, beaches, towns, and practical safety and gear tips.",
+      "h1": "King Charles III England Coast Path: Ramsgate to Whitstable"
+    }
   }
 }

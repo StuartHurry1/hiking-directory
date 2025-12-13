@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 3971779
+  },
+  "ai": {
+    "summary": "A challenging long-distance coastal trek along the England Coast Path from Portland to Lulworth in Dorset, covering about 70.6 km of exposed cliffs, chalk downs, and rugged trails. It rewards hikers with dramatic sea views, wildlife, and constant coastal scenery, but requires good fitness, navigation, and careful planning for variable weather and long days.",
+    "terrain_summary": "Coastal cliff paths on chalk and rock, often exposed with uneven footing, steps, and occasional boardwalks. Trails traverse steep descents and climbs, zigzag shorelines, and sections close to cliff edges. Expect mud in wet weather and strong sea spray; footing can be loose and weathered in places.",
+    "safety_notes": "- Weather can change rapidly; carry waterproofs and warm layers. - Strong coastal winds can affect balance; stay on marked paths and away from cliff edges. - Tides and sea spray near coves and sea stacks; avoid wandering below cliffs during storms or high seas. - Navigation: carry a map and compass or a reliable GPS; some stretches are exposed with few landmarks. - Plan for daylight: the hike covers long distances; start early and know bail-out points. - Hydration and energy: bring enough water (2–3 L) and high-energy snacks. - Footing: wear sturdy boots; watch for loose stones, slippery rock, and mud. - Emergency readiness: carry a charged phone, a basic first-aid kit, and inform someone of your route. - Wildlife and nature: respect habitats and Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing plus a breathable waterproof jacket and trousers",
+      "Warm hat and lightweight gloves; sun hat for sunny days",
+      "Water bottle or hydration reservoir (2–3 liters capacity)",
+      "High-energy snacks plus electrolyte drinks",
+      "Map and compass or a reliable GPS device",
+      "Fully charged mobile phone with emergency contacts and offline maps",
+      "Personal first-aid kit (blister care, antiseptic, plasters)",
+      "Headlamp or flashlight (with spare batteries)",
+      "Compact emergency shelter or space blanket",
+      "Whistle, multipurpose tool, and tape for blisters",
+      "Sunscreen and sunglasses",
+      "Lightweight rain cover for your backpack",
+      "Trekking poles (optional but helpful on exposed or slippery sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) generally offers the best weather and daylight; winter hikes are possible for experienced hikers but come with higher risk from storms, ice, and limited daylight.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Portland to Lulworth – Dorset Coastal Hike",
+      "meta_description": "Plan your 70.6 km journey along the England Coast Path from Portland to Lulworth. A demanding coastal hike featuring dramatic cliffs, wind-swept trails, and spectacular sea views in Dorset.",
+      "h1": "King Charles III England Coast Path: Portland to Lulworth"
+    }
   }
 }

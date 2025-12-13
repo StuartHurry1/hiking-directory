@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 1337853
+  },
+  "ai": {
+    "summary": "Lark Valley Path is a challenging 113.1 km long-distance hike in the UK. The route is suited to experienced walkers and requires careful planning, navigation, and multi-day endurance.",
+    "terrain_summary": "The path traverses a mix of rural farmland, hedgerows, woodlands, riverbanks and open moorland. Expect uneven trails, mud, occasional steep climbs, stile crossings, and remote sections with limited services. Distances between resupply points can be long and waymarking may vary by region.",
+    "safety_notes": "Plan daily stages to fit daylight hours; carry a map, compass and navigation device; check the weather forecast and be prepared for rapidly changing conditions. Inform someone of your itinerary. Wear sturdy boots and weather-appropriate clothing. Carry sufficient water, food and a means to purify water. Have an emergency shelter, a whistle, a first aid kit, and a charged phone with offline maps; be mindful of livestock and private land boundaries; expect limited mobile reception in remote stretches.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Daypack 20–40 liters",
+      "Water bottles or hydration system with water purification method",
+      "Map and compass (and GPS as backup)",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency shelter or bivy sack",
+      "Food and high-energy snacks for multi-day hikes",
+      "Sun protection (hat, sunscreen)",
+      "Whistle",
+      "Multi-tool or knife",
+      "Trekking poles (optional but helpful)",
+      "Dry bags or waterproof covers",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October) offers the best weather and daylight for the Lark Valley Path; winter conditions can be challenging with reduced daylight and harsher weather.",
+    "seo": {
+      "title": "Lark Valley Path – 113.1 km UK Hard-Distance Hike",
+      "meta_description": "Discover the challenging 113.1 km Lark Valley Path in the UK. Learn about terrain, safety tips, gear, and the best seasons for this long-distance hike.",
+      "h1": "Lark Valley Path: UK 113.1 km Hard-Distance Hike"
+    }
   }
 }

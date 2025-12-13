@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 18976870
+  },
+  "ai": {
+    "summary": "A gentle 5.1 km lakeside circuit around the Arlington Court estate in the UK. This easy, family-friendly walk follows well-maintained paths beside a tranquil lake, offering scenic views, opportunities to spot wildlife, and a relaxed pace for casual walkers.",
+    "terrain_summary": "Mostly flat, with well-maintained gravel and grass paths around the lake. Some gentle gradients on estate ground, and occasional damp or muddy sections after rain. Expect shaded stretches and open lakeside sections; stay on marked paths.",
+    "safety_notes": "As this is a lakeside walk on estate grounds, be mindful of uneven or damp surfaces, especially after rain. Keep children within arm's reach near the water and follow all posted signs and estate rules. Wear sturdy footwear and carry weather-appropriate clothing; check opening times and path status before you go. Bring water, a map or smartphone, and a small first aid kit. Beware of ticks and insects in grassy areas; keep dogs under control and clean up after pets. If you are unsure about access, contact the estate for current conditions and any closures.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Small backpack with snacks",
+      "Map or offline map on phone",
+      "Phone charged for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) when paths are drier and wildlife is active; winter walks are possible but weather can be variable.",
+    "seo": {
+      "title": "Lake Walk at Arlington Court – Easy 5.1 km Lakeside Hike in the UK",
+      "meta_description": "Enjoy a gentle 5.1 km lakeside loop around Arlington Court, UK. An easy, family-friendly hike with tranquil waters, wildlife, and scenic views.",
+      "h1": "Lake Walk at Arlington Court (5.1 km) – Easy Lakeside Hike in the UK"
+    }
   }
 }

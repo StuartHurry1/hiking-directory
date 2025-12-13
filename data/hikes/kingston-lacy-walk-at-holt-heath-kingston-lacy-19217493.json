@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19217493
+  },
+  "ai": {
+    "summary": "A scenic 11.6 km circular hike near Kingston Lacy, combining open heathland, woodlands, and quiet country lanes. The route is rated moderate, with well-marked paths, occasional muddy patches, and gentle elevation changes, suitable for steady walkers with some experience.",
+    "terrain_summary": "Mixed terrain: open heathland with heather and gorse, mixed woodland trails, and farm tracks. Expect uneven footing, short ascents, exposed open sections, and occasional mud, especially after rain. Some stiles or gates along the way.",
+    "safety_notes": "Plan for weather changes common in UK summers or winters; carry water and a snack; wear sturdy boots; stay on marked paths; watch for livestock on farmland sections; check for any local access restrictions; use a map or GPS; tell someone your route and expected return time; keep dogs under control and on leads where required.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing (waterproof jacket and warm layer)",
+      "Map and compass or GPS device",
+      "Hat and sunscreen",
+      "Snack/food for the route",
+      "Small first aid kit",
+      "Insect repellent",
+      "Head torch or flashlight (in case you’re out after dark)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn are ideal for milder temperatures and wildlife viewing; summer offers longer daylight but can be busier; winter can be muddy and windy, with shorter daylight hours.",
+    "seo": {
+      "title": "Kingston Lacy Walk at Holt Heath – 11.6 km Moderate Hike in Dorset, UK",
+      "meta_description": "Discover an 11.6 km moderate hike at Holt Heath near Kingston Lacy. Enjoy heathland scenery, woodlands, and tranquil countryside in Dorset, UK.",
+      "h1": "Kingston Lacy Walk at Holt Heath (11.6 km)"
+    }
   }
 }

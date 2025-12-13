@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1624090
+  },
+  "ai": {
+    "summary": "Kirklees Way is a challenging long-distance hike across varied UK landscapes, spanning 384 km with a hard difficulty. The route traverses a mix of rural countryside, moorland, and occasional urban stretches, offering sustained exertion and changing weather conditions.",
+    "terrain_summary": "Expect a mix of rugged moorland, open fields, woodland tracks, hills and long ascents, plus potential canal or river paths and some road sections through towns. Elevation changes can be substantial and navigation may be tricky in remote parts; weather can shift quickly, affecting trail conditions.",
+    "safety_notes": "Plan for a hard, multi-day hike with long daily distances. Carry a detailed map and compass (and a GPS as backup), and know how to use them. Wear sturdy boots and layered, weatherproof clothing. Bring sufficient food and water (and a method to purify water). Pack a first-aid kit, headlamp, whistle, and a means to call for help. Check weather forecasts and daylight hours; some sections are remote with limited mobile reception. Inform someone of your route and expected timings.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Backpack (20–35 L capacity)",
+      "Detailed map and compass (and optionally a GPS)",
+      "Water containers or hydration system + water purification method",
+      "High-energy, non-perishable food for multi-day hikes",
+      "First-aid kit and any personal medications",
+      "Headlamp or flashlight with extra batteries",
+      "Emergency whistle and signal mirror",
+      "Lightweight bivy sack or emergency blanket",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but recommended)"
+    ],
+    "best_seasons": "Late spring to autumn (roughly March–October) is optimal for Kirklees Way in the UK, offering longer daylight and better trail conditions. Winter hiking is possible but can be very wet, muddy, dark, and exposed; plan accordingly.",
+    "seo": {
+      "title": "Kirklees Way – A 384 km UK Hard-Difficulty Long-Distance Hike",
+      "meta_description": "Discover Kirklees Way, a demanding 384 km long-distance hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons for this challenging trail.",
+      "h1": "Kirklees Way: 384 km UK Hard-Difficulty Long-Distance Trail"
+    }
   }
 }

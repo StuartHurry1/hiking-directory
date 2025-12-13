@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16234191
+  },
+  "ai": {
+    "summary": "Langford Health Route is a ~7.1 km moderate hike in the UK. The trail blends gentle ascents, open fields, and wooded paths, offering varied scenery and a manageable challenge for hikers with some experience. Expect a mix of smooth tracks and uneven ground with occasional mud after rain.",
+    "terrain_summary": "The route mainly follows well-marked paths and grassy tracks, with brief sections of rocky or uneven ground. Elevation gain is moderate, featuring a few gentle climbs and descents over 7.1 km. Gates and minor stiles are common; mud is frequent in wet conditions.",
+    "safety_notes": "Check the weather forecast before you go; UK conditions can change quickly, especially in exposed areas. Bring a map, compass or GPS, and ensure your phone is charged. Wear sturdy footwear and carry waterproof clothing. Stay on marked paths, be mindful of livestock in fields, and be prepared for mud or slippery surfaces after rain. If daylight is fading, turn back or seek shelter; inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water bottle or hydration system",
+      "Trail snacks",
+      "Map and compass or GPS device",
+      "Small first aid kit",
+      "Emergency whistle and a charged phone"
+    ],
+    "best_seasons": "Spring through autumn; winter hikes are possible with appropriate winter gear and daylight planning.",
+    "seo": {
+      "title": "Langford Health Route – 7.1 km Moderate UK Hike",
+      "meta_description": "Explore Langford Health Route in the UK. A 7.1 km moderate hike with varied terrain, safety tips, gear recommendations, and the best seasons to hike.",
+      "h1": "Langford Health Route – 7.1 km Moderate Hike in the UK"
+    }
   }
 }

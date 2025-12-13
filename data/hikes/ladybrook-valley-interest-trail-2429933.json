@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 2429933
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Ladybrook Valley Interest Trail in the UK. Spanning about 79 km, it is rated hard and traverses a mix of rural and urban paths with varied terrain, suited to experienced hikers seeking a substantial endurance challenge.",
+    "terrain_summary": "Terrain ranges from smooth, well-maintained paths and gravel tracks to muddy forest trails and occasional street sections. Expect gentle to moderate elevation with some steeper segments and exposed open sections during windy conditions.",
+    "safety_notes": "Plan for multi-day trekking or break the route into sections; check weather and daylight hours; inform someone of your route and expected finish time; carry a reliable map or GPS and know your navigation points; stay on marked trails and be cautious at road crossings; wear sturdy waterproof footwear and dress in layers; bring sufficient water and high-energy foods; carry a first aid kit and an emergency whistle; include rain protection and, if possible, a space blanket; ensure your phone is charged and consider a power bank; be prepared for sudden weather changes and potential limited signal in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weatherproof jacket and pants",
+      "Layered clothing for varying temperatures",
+      "Water bottle or hydration system",
+      "High-energy snacks and meals",
+      "Backpack (20–30 L)",
+      "Map, compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Mobile phone with offline maps or emergency contacts",
+      "Trekking poles (optional)",
+      "Emergency whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Space blanket or lightweight bivy (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder conditions and longer daylight for a 79 km hike. Winter hiking is possible with appropriate gear but presents higher risks and shorter days.",
+    "seo": {
+      "title": "Ladybrook Valley Interest Trail – 79 km Hard Hike in the UK",
+      "meta_description": "Explore the challenging 79 km Ladybrook Valley Interest Trail in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding long-distance hike.",
+      "h1": "Ladybrook Valley Interest Trail: 79 km Hard-Difficulty Hike in the UK"
+    }
   }
 }

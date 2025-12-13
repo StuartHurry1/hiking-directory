@@ -20,5 +20,29 @@
   "source": {
     "type": "osm",
     "osmId": 19509918
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the England Coast Path from Mablethorpe to the Humber Bridge, covering approximately 180.2 km with dramatic coastal ridges and exposed terrain.",
+    "terrain_summary": "Rugged coastal terrain featuring exposed sea cliffs, dunes, tidal sections, and intermittent ridges. Expect uneven paths, rocky footing, and slippery surfaces near the shore; weather can be windy and changeable with strong coastal currents.",
+    "safety_notes": "This route includes remote coastal stretches with limited services. Check tide times and forecast weather; avoid cliff edges in high wind or wet conditions. Carry navigation tools (map, compass, or GPS) and a reliable communication method. Plan for multiple days, arrange accommodation or safe campsites, bring ample water and food, and have an emergency plan and means to signal for help.",
+    "recommended_gear": [
+      "Sturdy waterproof boots with good grip",
+      "Layered clothing plus a waterproof jacket and pants",
+      "Windproof hat and gloves",
+      "Backpack with hydration system or sufficient water (2–3 liters)",
+      "Map, compass, and/or GPS with offline download",
+      "First aid kit and blister care supplies",
+      "Headlamp with extra batteries",
+      "Sun protection (sunglasses, sunscreen)",
+      "High-energy food and snacks for long days",
+      "Emergency whistle and a personal locator beacon (PLB) or satellite messenger",
+      "Space blanket or lightweight emergency shelter"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the most favorable conditions, but coastal weather remains changeable and storms can occur at any time.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Mablethorpe to Humber Bridge — 180.2 km Hard Coastal Hike",
+      "meta_description": "Explore the 180.2 km King Charles III England Coast Path segment from Mablethorpe to Humber Bridge. A hard, coastal-route with ridges, safety tips, and gear recommendations for hikers.",
+      "h1": "King Charles III England Coast Path: Mablethorpe to Humber Bridge"
+    }
   }
 }

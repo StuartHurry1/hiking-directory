@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 15969329
+  },
+  "ai": {
+    "summary": "A challenging coastal long-distance hike along the England Coast Path from Southend-on-Sea to Wallasea Island. Covering about 104.5 km, the route blends urban seafronts, estuary marshes, mudflats, and salt marshes, with significant exposure and a hard pacing requirement. It is typically completed as multiple days or long day stages.",
+    "terrain_summary": "The route starts along Southend-on-Sea’s promenade and riverside defenses, then traverses estuary banks, mudflats exposed at low tide, shingle and sandy beaches, and wooden boardwalks through salt marshes toward Wallasea Island. Expect soft footing in mud, uneven coastal paths, and occasional seawall sections; weather and wind can create spray and challenging conditions. Some stretches may have limited shade and variable surface stability.",
+    "safety_notes": "This is a long, exposed coastal route with tidal and weather-related hazards. Check tide tables for mudflat sections and plan around rising tides to avoid being cut off. Weather can change rapidly; bring extra layers, a waterproof shell, and sun protection. Footing can be slippery and uneven, so wear sturdy waterproof boots with good grip. Mobile signal can be weak in marshlands; carry a map and compass as backups and inform someone of your itinerary and timings. Carry enough food and water for multi-day segments and have a basic first-aid kit and emergency whistle.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good traction",
+      "Breathable, moisture-wicking clothing and extra layers",
+      "Waterproof outer shell and pants",
+      "Wide-brimmed hat, sunglasses, and sunscreen",
+      "Backpack with rain cover",
+      "Reusable water bottles or hydration system (at least 2–3 L total)",
+      "Map and compass or GPS device; offline navigation app",
+      "Phone charged with emergency contacts; power bank",
+      "Headlamp or small flashlight",
+      "Basic first-aid kit and blister care",
+      "Whistle and emergency blanket",
+      "Snacks and high-energy foods; electrolyte tablets",
+      "Lightweight towel and hand sanitizer"
+    ],
+    "best_seasons": "April–October for milder weather, longer daylight, and better trail conditions. Summer offers the most daylight but can bring heat and crowds; winter is possible only for experienced hikers due to higher winds, rain, and shorter days.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Southend-on-Sea to Wallasea Island (104.5 km) – Coastal Hike Guide",
+      "meta_description": "Explore the 104.5 km segment of the England Coast Path from Southend-on-Sea to Wallasea Island. A hard coastal hike with mudflats, marshes, and estuary views along the Thames estuary.",
+      "h1": "King Charles III England Coast Path: Southend-on-Sea to Wallasea Island"
+    }
   }
 }

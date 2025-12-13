@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 17243557
+  },
+  "ai": {
+    "summary": "This segment of the England Coast Path covers 30.2 km from Silecroft to Silverdale along the west Cumbrian coast. It is a hard, exposed coastal route featuring cliff-top sections, long beaches, tidal flats, and remote moorland. Hikers should be prepared for variable weather, strong winds, uneven surfaces, and limited services along the route.",
+    "terrain_summary": "Terrain alternates between exposed cliff-top tracks, rocky headlands, long stretches of pebbly or sandy beach, and occasional marshy estuary margins. Expect uneven, muddy, and sometimes slippery surfaces, with sections of soft sand and broken ground near coastal features; navigation is generally straightforward but keep to marked paths near cliff edges and beware of high tide flooding on beach segments.",
+    "safety_notes": "Plan around tides and sea conditions; some beach sections and estuaries can close at high tide or be flooded. Weather on the coast can change rapidly; dress in layers and carry waterproofs. The route has exposed sections and uneven ground; wear sturdy footwear and stay away from unstable cliff edges. Mobile signal can be unreliable in remote stretches; carry a map and compass or GPS, and let someone know your route and expected return time. Bring sufficient water and food, a small first aid kit, a whistle, and a light for emergencies. In remote parts, have a plan for turning back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof jacket and pants",
+      "Breathable base layers and an insulating layer",
+      "Warm hat and gloves",
+      "Map, compass, and/or GPS device",
+      "Fully charged phone and a portable power bank",
+      "Headtorch with spare batteries",
+      "First aid kit and emergency whistle",
+      "Water and high-energy snacks (2–3 liters water recommended)",
+      "Sun protection (sunscreen and sunglasses)",
+      "Dry bag or waterproof case for valuables",
+      "Trekking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is optimal for daylight and milder weather, but shoulder seasons can be workable with careful planning; winter hiking is challenging due to short days and harsher conditions.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Silecroft to Silverdale — 30.2 km Coastal Challenge",
+      "meta_description": "Tackle the 30.2 km hard segment of the England Coast Path from Silecroft to Silverdale. Rugged coastal scenery, cliff-top climbs, beaches, and tides with practical gear and safety tips.",
+      "h1": "King Charles III England Coast Path: Silecroft to Silverdale"
+    }
   }
 }

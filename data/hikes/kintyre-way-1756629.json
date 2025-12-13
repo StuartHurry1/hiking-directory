@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1756629
+  },
+  "ai": {
+    "summary": "Kintyre Way is a demanding 245.2 km long-distance hike that circles Scotland's Kintyre Peninsula in the UK. The route threads along coastal cliffs, rugged moorland, farmland lanes, and forest trails, delivering remote sections, sweeping sea views, and a true endurance challenge for experienced hikers.",
+    "terrain_summary": "Expect a varied mix of terrain: exposed coastal cliff paths, pebble and sandy beaches, boggy moorland, rocky trails, farmland tracks, and occasional surfaced roads. The route combines open, windswept segments with wooded stretches; reliable navigation is advisable in poor visibility.",
+    "safety_notes": "Prepare for variable UK weather and strong coastal winds. Some sections are remote with limited mobile coverage; carry map, compass, and a GPS if available. Allow extra time for rough terrain or weather changes, and consider buffer days. Stay hydrated, protect against sun and rain, check tide times for any beach crossings, and have an emergency plan and communication method.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof shell jacket and waterproof pants",
+      "Layered clothing for changing conditions (base layer, fleece, hat, gloves)",
+      "Backpack with rain cover",
+      "Map and compass (or GPS device) and/or offline maps",
+      "Fully charged phone with offline maps and emergency contacts",
+      "Water bottle or hydration system with purification tablets or filter",
+      "High-energy snacks and lightweight meals for multi-day hikes",
+      "First aid kit tailored for hikers",
+      "Headlamp with extra batteries",
+      "Emergency whistle and a lightweight thermal blanket",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "May to September (late spring to early autumn)",
+    "seo": {
+      "title": "Kintyre Way: 245.2 km Hard-Distance Hiking Trail in the UK",
+      "meta_description": "Explore the Kintyre Way, a challenging 245.2 km route around Scotland's Kintyre Peninsula. Learn about terrain, safety tips, gear, and the best seasons for this demanding UK hike.",
+      "h1": "Kintyre Way – 245.2 km Hard-Distance Trail in the UK"
+    }
   }
 }

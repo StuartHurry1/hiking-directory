@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 17141229
+  },
+  "ai": {
+    "summary": "A gentle 4.6 km farm walk along Route 3 with Blue Markers in the UK. The easy terrain makes it suitable for families and casual walkers seeking a relaxed rural stroll with light farmland scenery.",
+    "terrain_summary": "Primarily flat to gently undulating farm tracks and grassy paths. Expect some gravel, potential mud after rain, hedgerows and fields on either side, and occasional gates. Navigation follows Blue Marker route markers.",
+    "safety_notes": "General safety: walk on public rights of way and respect farmland operations. Weather in the UK can change quickly; check forecasts and dress in layers. Wear sturdy, waterproof footwear and be prepared for mud. Stay on marked paths, close gates behind you, and respect livestock and farm traffic. Keep dogs under control and on a short leash where required. Carry a map or offline navigation, a charged phone, and inform someone of your plan and expected return time. In an emergency, dial 999 in the UK. Mobile signal may be patchy in rural areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers)",
+      "Water and a snack",
+      "Light rain jacket or waterproof shell",
+      "Hat and sunscreen for sun exposure",
+      "Map, compass, or GPS device; ensure you can navigate using Blue Marker route",
+      "Fully charged phone and emergency contact",
+      "Small first aid kit",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; winter visits are possible but may be cold, wet and muddy.",
+    "seo": {
+      "title": "Lark Rise Farm Walks Route 3 Blue Markers | 4.6 km Easy UK Farm Walk",
+      "meta_description": "Discover Lark Rise Farm Walks Route 3, marked by Blue markers. A 4.6 km easy hike in the UK with farm tracks, gentle terrain and rural scenery. Family friendly.",
+      "h1": "Lark Rise Farm Walks: Route 3 Blue Markers"
+    }
   }
 }

@@ -20,5 +20,28 @@
   "source": {
     "type": "osm",
     "osmId": 19514585
+  },
+  "ai": {
+    "summary": "A demanding 143.9 km coastal hike along England's coast from the Humber Bridge to Easington, featuring exposed ridges, sea cliffs, and long stretches of beach with variable weather and tides.",
+    "terrain_summary": "Primarily coastal ridgelines and cliff-top paths interspersed with beaches and open moorland. Expect uneven footing, steep ascents and descents, tidal sections near estuaries, and frequent wind exposure. Coastal erosion and wet, slippery surfaces are common.",
+    "safety_notes": "Check tide times and weather forecasts before coastal sections. Stay on marked trails; some routes may be exposed with significant drop-offs. Carry a map or GPS, extra layers, waterproofs, and sufficient water. Tell someone your plan, know escape routes, and have a means to call for help. Be prepared for sudden changes in wind and sea spray. Do not attempt if storms or high surf are predicted.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Wide-brimmed hat and gloves (seasonal)",
+      "Map and compass, or GPS device",
+      "Headlamp with extra batteries",
+      "Trekking poles",
+      "Water (2–3 liters per day) and high-energy snacks",
+      "First aid kit and whistle",
+      "Sunscreen and sunglasses",
+      "Emergency blanket or bivy sack"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) for best conditions, with longer daylight and milder weather.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Humber Bridge to Easington – 143.9 km Coastal Ridge Hike",
+      "meta_description": "A rigorous 143.9 km section of the England Coast Path from Humber Bridge to Easington, featuring coastal ridges, rugged terrain, and essential hiking tips, gear, and safety notes.",
+      "h1": "King Charles III England Coast Path: Humber Bridge to Easington"
+    }
   }
 }

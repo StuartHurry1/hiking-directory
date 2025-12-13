@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19153001
+  },
+  "ai": {
+    "summary": "A 9.5 km coastal circular hike around Lantivet Bay in Cornwall, offering sea views, cliff-top paths, and a mix of grassy and rocky terrain. Moderate in difficulty, suitable for hikers with some experience.",
+    "terrain_summary": "Coastal routes with a mix of grassy cliff-top paths, uneven rocky sections, and occasional muddy stretches. Tracks can be exposed to wind and spray; sections may be steep in places.",
+    "safety_notes": "Check tides and weather before departure. Stay on marked paths near cliff edges and avoid unstable areas. Wear sturdy footwear and layer for wind and rain. Carry a map or GPS, enough water and snacks, a fully charged phone, and a basic first-aid kit. Hike with a companion if possible; daylight can be limited in winter and coastal conditions can change rapidly.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Weatherproof jacket and layered clothing",
+      "Water and snacks",
+      "Map and compass or offline navigation",
+      "Sun protection (hat and sunscreen)",
+      "Windproof layer",
+      "Lightweight backpack",
+      "Emergency whistle and basic first-aid kit",
+      "Phone with charged battery or power bank",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; plan around tides and sea conditions, as coastal winds can be strong in any season.",
+    "seo": {
+      "title": "Lantivet Bay Circular Walk – 9.5 km Coastal Hike in Cornwall, UK",
+      "meta_description": "Discover the 9.5 km Lantivet Bay circular hike in Cornwall. A moderate coastal trail with sea views, cliffs, and varied terrain.",
+      "h1": "Lantivet Bay Circular Walk – Cornwall, UK (9.5 km)"
+    }
   }
 }

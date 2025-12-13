@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12559791
+  },
+  "ai": {
+    "summary": "Kitchen Garden Walk is a short, easy 1.4 km hike in the UK suitable for families and casual walkers. The route follows flat, well-marked paths in a garden or garden-adjacent setting, offering gentle scenery and minimal elevation change for a relaxed outdoor experience.",
+    "terrain_summary": "Primarily flat, with well-maintained paths. Surfaces are mostly compact gravel or smooth dirt, with occasional grass sections and gentle slopes. Expect occasional curb crossings or narrow gaps at boundaries; overall easy to navigate.",
+    "safety_notes": "Check the local weather before you go and plan for UK conditions. Wear sturdy footwear and bring water, sun protection in warm weather, and a light rain jacket. Stay on marked paths, respect private property, and be mindful of others. The route is short and generally accessible, but uneven sections may require careful footing; children and pets should be supervised at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Sun protection",
+      "Light rain jacket",
+      "Map or offline navigation",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring through Autumn (weather permitting; the route can be enjoyed year-round with appropriate clothing)",
+    "seo": {
+      "title": "Kitchen Garden Walk – Easy 1.4 km Hike in the UK",
+      "meta_description": "Explore Kitchen Garden Walk, a short and easy 1.4 km route in the UK. Perfect for families and casual walkers seeking a quick, flat-ground outdoor stroll.",
+      "h1": "Kitchen Garden Walk: Easy 1.4 km Hike in the UK"
+    }
   }
 }

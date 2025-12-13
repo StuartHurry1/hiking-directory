@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 11565736
+  },
+  "ai": {
+    "summary": "A long-distance, hard coastal hike along the England Coast Path from South Bents to Amble, covering approximately 141.6 km with varied maritime scenery, clifflines, beaches, and estuaries. Expect remote stretches, tidal considerations, and exposure to sea winds.",
+    "terrain_summary": "Coastal terrain with a mix of pebbly beaches, sandy dunes, tidal flats, cliff sections, and occasional road or path segments. Some parts can be exposed to wind and weather; navigation skills are helpful. Potential mud in estuary areas and longer, steady climbs in places.",
+    "safety_notes": "Plan for a multi-day trek with daily distances matched to your pace. Check tide tables for sections involving beaches or estuaries. Wear sturdy waterproof boots and weather-appropriate clothing. Carry map/phone GPS and a charged power bank. Inform someone of your itinerary and expected timings. Be prepared for rapid weather changes common on the UK coast. Bring sufficient water and food for full days, and know emergency contacts. Respect wildlife and local access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered waterproof and windproof outerwear (jacket and pants)",
+      "Hat, gloves, and sun protection (sunscreen, sunglasses)",
+      "Map and compass, plus GPS device or offline maps",
+      "Water bottle or hydration system with high-energy snacks",
+      "Lightweight emergency shelter or bivy sack",
+      "First aid kit tailored for long-distance hiking",
+      "Headlamp with spare batteries",
+      "Trekking poles",
+      "Whistle and emergency signaling device",
+      "Mobile power bank and waterproof phone case",
+      " tide-aware planning items (tide tables, alternative route)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer the best weather and daylight for this 141.6 km coastal hike; plan for variable coastal conditions and potential winter closures.",
+    "seo": {
+      "title": "King Charles III England Coast Path: South Bents to Amble (141.6 km) – Coastal Hiking Guide",
+      "meta_description": "Discover the 141.6 km King Charles III England Coast Path segment from South Bents to Amble. A challenging UK coastal trek with terrain variety, safety tips, and gear recommendations.",
+      "h1": "King Charles III England Coast Path: South Bents to Amble"
+    }
   }
 }

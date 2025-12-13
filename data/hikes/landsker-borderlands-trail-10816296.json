@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 10816296
+  },
+  "ai": {
+    "summary": "The Landsker Borderlands Trail is a hard, long-distance route in the United Kingdom, spanning about 289.8 km. It follows historic borderlands, weaving through farmland, woodlands, uplands, and coastal segments. The route demands substantial fitness, navigation skills, and thorough preparation for variable UK weather and remote sections.",
+    "terrain_summary": "Expect a varied mix of terrain: gentle country lanes, hedgerow climbs, open uplands with long grassy slopes, woodland tracks, moorland stretches, and occasional coastal paths. Elevation gains can be substantial with long ascents and descents, uneven footing, gates and stiles, and potential mud after rain. Weather can change quickly, so be prepared for wind, rain, sun and sea spray on exposed sections.",
+    "safety_notes": "Plan for a multi-day trek with adequate daylight and rest days where needed. Carry a detailed map and compass or GPS, and know how to use them. Wear sturdy waterproof boots and pack layers for temperature changes. Check local conditions and tide times for coastal sections; be mindful of weather, floods, and remote stretches with limited services. Tell someone your route and expected finish times; carry a charged phone with offline maps as coverage may be poor. Hydration and food are essential; carry extra water on longer stretches and know the locations of possible resupply points. Wildlife, remote roads, and uneven terrain can pose risks; take care near cliff edges and livestock, and respect private property.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof shell",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Water bottle or hydration system (at least 2 liters)",
+      "High-energy snacks and meals",
+      "First aid kit with blister care",
+      "Emergency shelter or bivy sack",
+      "Whistle and personal locator beacon (optional but recommended)",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Chargeable power bank and waterproof pouch"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are best for drier conditions and longer daylight; winter hiking is possible but more challenging due to shorter days and harsher weather.",
+    "seo": {
+      "title": "Landsker Borderlands Trail: A 289.8 km UK Hard-Distance Hike",
+      "meta_description": "Discover the Landsker Borderlands Trail, a 289.8 km hard trek through the UK borderlands. Learn about terrain, safety, and gear for this challenging long-distance hike.",
+      "h1": "Landsker Borderlands Trail – 289.8 km Hard-Distance Hike in the UK"
+    }
   }
 }

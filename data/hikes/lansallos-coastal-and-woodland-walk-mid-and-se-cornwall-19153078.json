@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 19153078
+  },
+  "ai": {
+    "summary": "A scenic 14.1 km moderate hike along the Cornwall coast and surrounding woodlands, starting near Lansallos and looping through clifftop paths, beaches, and shady woodland trails with sea views.",
+    "terrain_summary": "Combination of clifftop coastal paths, hedge-lined tracks, woodland trails, and some stone steps. Expect uneven surfaces, exposed cliff sections, and occasional mud after rain. Sturdy boots and a map are recommended.",
+    "safety_notes": "Check tide times before coastal sections. Stay well back from cliff edges and keep dogs under control. Weather can change quickly; bring layers, waterproofs, and sun protection. Carry a map or GPS, a whistle, water, and snacks; inform someone of your planned route and route timing.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle and snacks",
+      "Weather-appropriate clothing (layers with a waterproof jacket)",
+      "Windproof layer and sun protection (hat, sunscreen)",
+      "Map, compass, or fully charged smartphone with offline map",
+      "Small first aid kit and whistle",
+      "Lightweight backpack with rain cover",
+      "Headlamp or flashlight (in case of late finish)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and better coastal views; winter can be windy and damp.",
+    "seo": {
+      "title": "Lansallos Coastal and Woodland Walk – 14.1 km Moderate Hike in Cornwall, UK",
+      "meta_description": "Discover the Lansallos coastal and woodland walk, a 14.1 km moderate coastal hike in Cornwall. Coastal views, woodland trails, safety tips, best seasons, and gear.",
+      "h1": "Lansallos Coastal and Woodland Walk (14.1 km) – Cornwall, UK"
+    }
   }
 }

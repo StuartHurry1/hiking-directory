@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7853710
+  },
+  "ai": {
+    "summary": "Kinnordy Loch offers a scenic 8.8 km loop in the UK suitable for hikers seeking a moderate challenge. The route circles the loch, passing woodland, open flats and occasional marshy patches, with boardwalks and well-maintained paths for most of the way.",
+    "terrain_summary": "Mostly easy-to-moderate terrain with a mix of flat paths, gravel tracks, and short sections of uneven ground. Expect some muddy patches after rain and a few wooden boardwalks near the water.",
+    "safety_notes": "- Check the weather forecast before you go; conditions can change quickly near the loch. - Wear sturdy waterproof hiking boots and layered clothing. - Stay on marked paths to protect wildlife and avoid boggy ground. - Bring a map or GPS, a phone with a charged battery, and a small first aid kit. - Keep dogs on a leash where required and be mindful of other visitors. - Carry water, snacks, sun protection in sunny weather, and an extra layer in cold or windy conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing and a waterproof jacket",
+      "Water bottle and some snacks",
+      "Map, compass or GPS device",
+      "Small first aid kit",
+      "Insect repellent and sunscreen",
+      "Hat and gloves for cold days",
+      "Binoculars (optional for wildlife viewing)"
+    ],
+    "best_seasons": "Spring and summer (roughly April–September) are best for wildlife viewing and drier trails, with autumn also pleasant; winter can be muddy and chilly.",
+    "seo": {
+      "title": "Kinnordy Loch Hike – 8.8 km Moderate Trail in the UK",
+      "meta_description": "Discover the 8.8 km Kinnordy Loch loop in the UK. A moderate hike with mixed terrain, wildlife, and scenic lochside views.",
+      "h1": "Kinnordy Loch – 8.8 km Moderate Hike"
+    }
   }
 }

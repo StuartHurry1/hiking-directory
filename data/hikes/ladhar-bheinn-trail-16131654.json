@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 16131654
+  },
+  "ai": {
+    "summary": "The Ladhar Bheinn Trail is a demanding 16.8 km hike in the UK that ascends rugged, exposed terrain to the summit of Ladhar Bheinn. It requires good fitness, solid navigation, and respect for rapidly changing mountain weather.",
+    "terrain_summary": "Expect a remote mountain environment with rocky paths, scree, peat bogs, and occasional scrambling. The route features long ascents, exposed ridges, and potentially wet, slippery sections; prepare for uneven footing and variable conditions.",
+    "safety_notes": "Plan for a long, remote hike with rapidly changing weather typical of Scottish mountains. Check the forecast, start early, and allow 6–10 hours depending on conditions. Bring a map and compass (or a GPS device) and know the route, as cell reception is often poor. Wear sturdy waterproof boots and layered clothing; carry waterproofs, extra warm layers, and sun protection. Stay hydrated and carry sufficient food; bring a whistle and an emergency blanket or bivvy for emergencies. Inform someone of your plans and check in if possible. In winter conditions, this route becomes a mountaineering objective requiring specialist gear; avoid if storms or fog are forecast.",
+    "recommended_gear": [
+      "Waterproof jacket with hood",
+      "Insulated layers (fleece or down)",
+      "Base layers",
+      "Waterproof trousers",
+      "Sturdy waterproof hiking boots",
+      "Map and compass (or GPS) with charged device",
+      "Headlamp with extra batteries",
+      "Warm hat and gloves",
+      "Backpack (40–60 L) with rain cover",
+      "Water and high-energy snacks (2–3 L total)",
+      "First aid kit",
+      "Emergency whistle",
+      "Emergency bivvy or space blanket",
+      "Sun protection (sunscreen and sunglasses)",
+      "Trekking poles",
+      "Spare socks"
+    ],
+    "best_seasons": "Late spring to early autumn (May–Sept) generally offers the best weather and daylight for this long, hard hike; be prepared for upland weather and rapidly changing conditions. Winter ascents require mountaineering gear and experience.",
+    "seo": {
+      "title": "Ladhar Bheinn Trail Hiking Guide | 16.8 km Hard Trek in the UK",
+      "meta_description": "Plan your Ladhar Bheinn Trail hike in the UK. A 16.8 km hard terrain trek with rugged, remote paths. Safety tips, gear list, and best seasons.",
+      "h1": "Ladhar Bheinn Trail Hiking Guide"
+    }
   }
 }

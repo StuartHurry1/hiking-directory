@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 5596686
+  },
+  "ai": {
+    "summary": "Knockie Viewpoint is a 6 km moderate hike in the UK, offering a rewarding viewpoint after a varied trail with gentle ascents and occasional rocky sections.",
+    "terrain_summary": "The route traverses grassy paths, short rocky climbs, and potential muddy sections. Expect uneven footing near the viewpoint and some exposed sections with modest elevation gain.",
+    "safety_notes": "Check the local forecast before setting out. Stay on marked paths, especially in boggy or rocky areas. Wear sturdy boots, bring layers for changeable UK weather, and carry a map or GPS. Let someone know your plans and pace yourself to avoid fatigue.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Windproof/water-resistant jacket",
+      "Light layer for warmth",
+      "Map and/or GPS device",
+      "Fully charged phone",
+      "Snacks or energy bars",
+      "Small first aid kit",
+      "Headtorch or flashlight (in case of late return)"
+    ],
+    "best_seasons": "Spring to autumn when daylight hours are longer and the weather is more stable. Avoid heavy rain periods if possible.",
+    "seo": {
+      "title": "Knockie Viewpoint Hike – 6 km Moderate Trail in the UK",
+      "meta_description": "Discover Knockie Viewpoint in the UK with a 6 km moderate hike. Learn about terrain, safety tips, and essential gear for a rewarding day on the trail.",
+      "h1": "Knockie Viewpoint: A 6 km Moderate Hike in the UK"
+    }
   }
 }

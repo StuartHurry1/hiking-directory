@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19217022
+  },
+  "ai": {
+    "summary": "A challenging 15.6 km circular hike in the High Peak area of the UK, featuring steady ascents, rocky terrain, and rewarding summit views from Lantern Pike.",
+    "terrain_summary": "Long, steady ascents with rocky, uneven trails; exposed ridges and some scrambles; loose gravel and wet patches possible; occasional boggy sections.",
+    "safety_notes": "This is a strenuous route with long climbs and uneven ground. Navigation can be challenging in poor visibility; carry a map and compass. Wear sturdy boots and weather-appropriate clothing; conditions on exposed ridges can change quickly; stay away from cliff edges, and plan extra time for descent. Inform someone of your itinerary and consider a GPS device or offline maps.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water (2–3 liters) and energy snacks",
+      "Layered clothing and a waterproof jacket",
+      "Hat and gloves if cold",
+      "Map and compass or GPS device",
+      "Headtorch or flashlight",
+      "Sun protection (sunscreen and sunglasses)",
+      "Emergency space blanket or bivouac sack",
+      "Small first aid kit",
+      "Whistle",
+      "Phone with offline maps (battery backup)"
+    ],
+    "best_seasons": "Spring to autumn",
+    "seo": {
+      "title": "Lantern Pike Circular (Ethel) – 15.6 km Hard Hike in High Peak, UK",
+      "meta_description": "Experience Lantern Pike Circular (Ethel): a 15.6 km hard hike in the High Peak area of the UK. Rugged terrain, exposed ridges, and sweeping summit views.",
+      "h1": "Lantern Pike Circular (Ethel) – High Peak, UK"
+    }
   }
 }

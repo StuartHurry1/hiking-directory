@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 3841669
+  },
+  "ai": {
+    "summary": "Kingley Vale Nature Trail is an easy 3.4 km circular hike through an ancient yew forest on the South Downs in the UK. The route is gentle and suitable for most hikers, including families, with mild elevation change and scenic viewpoints across the downs.",
+    "terrain_summary": "Mostly well-maintained paths across chalk downland and woodland, featuring a mix of gravel and dirt trails with some uneven sections and exposed roots. Muddy conditions are possible after rain, and there are gentle slopes rather than steep climbs. Some sections are more exposed, so sun protection is advised.",
+    "safety_notes": "Stay on marked paths to avoid unstable ground near the downs' edges. Wear sturdy footwear for uneven surfaces and potential mud. Weather on the South Downs can change quickly; bring layers and a waterproof if rain is forecast. Carry sufficient water, a basic first-aid kit, a map or GPS, and a charged phone. Be aware of other hikers and wildlife, and supervise children near edge areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water (at least 1 liter)",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS and a charged phone",
+      "Small first-aid kit",
+      "Snacks or energy bars",
+      "Insect repellent and tick prevention",
+      "Light rain cover for your backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers the best conditions with milder weather and longer daylight; the trail is still enjoyable in winter, but can be muddy and windy.",
+    "seo": {
+      "title": "Kingley Vale Nature Trail — Easy 3.4 km Hike in the UK",
+      "meta_description": "Discover Kingley Vale Nature Trail, a 3.4 km easy circular hike through ancient yew woodland on the South Downs in the UK. Practical tips on terrain, safety, and gear.",
+      "h1": "Kingley Vale Nature Trail - Easy 3.4 km Hike"
+    }
   }
 }

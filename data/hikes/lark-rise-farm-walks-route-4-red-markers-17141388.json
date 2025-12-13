@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 17141388
+  },
+  "ai": {
+    "summary": "A 10.3 km moderate hike following Route 4 (Red Markers) through rural farmland in the UK. The route offers countryside views, gentle gradients, and farm track surfaces.",
+    "terrain_summary": "Expect a mix of farm tracks, grassy field paths, and occasional uneven ground. Some stiles and gates may require light scrambling. Mud is possible after rain.",
+    "safety_notes": "Check weather and daylight; wear sturdy footwear and dress for variable conditions. Respect livestock and gates; keep to markers; carry a map or GPS, water, and a basic first aid kit; watch for muddy or slippery surfaces and uneven ground; let someone know your plan if walking solo.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Water bottle or hydration system",
+      "Map, compass or GPS device",
+      "Lightweight rain shell or waterproof jacket",
+      "Snack/energy bar",
+      "First aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Phone with charged battery",
+      "Backpack to carry essentials"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October).",
+    "seo": {
+      "title": "Lark Rise Farm Walks Route 4 – Red Markers (10.3 km, UK countryside)",
+      "meta_description": "Plan your 10.3 km moderate hike on Lark Rise Farm Walks Route 4, marked by red markers. Learn about terrain, safety tips, and the best seasons for this UK farm path.",
+      "h1": "Lark Rise Farm Walks: Route 4 (Red Markers)"
+    }
   }
 }

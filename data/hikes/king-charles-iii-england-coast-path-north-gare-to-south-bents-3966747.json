@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 3966747
+  },
+  "ai": {
+    "summary": "A challenging coastal long-distance trek along the England Coast Path from North Gare to South Bents, covering about 141.3 km. The route tracks varied coastlines with cliffs, beaches, estuaries and tidal flats, offering dramatic sea views but demanding solid planning, fitness and weather tolerance.",
+    "terrain_summary": "Expect a mix of rugged cliff and toe-paths, sandy beaches, dune systems, mud flats at low tide and occasional tidal crossings. Some sections are exposed to wind and spray, with uneven surfaces, wet grass and loose stones. Elevation changes are persistent but variable, and long stretches may have limited shelter or services. Always account for tides and navigation in remote coastal segments.",
+    "safety_notes": "Check daily tide times and potential coastal closures before starting. Some stretches can be cut off by tides or erosion, requiring detours or temporary return. Carry a map and compass or a reliable GPS, plus a charged phone with offline maps. Travel with a companion when possible, inform someone of your plan, and carry a basic first aid kit, whistle, and emergency blanket. Stay hydrated, protect against sun and rain, and be prepared for sudden weather changes and strong coastal winds. Respect wildlife and stay away from cliff edges and unstable ground.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Layered clothing plus waterproof and windproof shell",
+      "Hat, sunglasses and sunscreen",
+      "Daypack with rain cover",
+      "Water bottle or hydration system and high-energy snacks",
+      "Map and compass or GPS with offline maps",
+      "Tide table and knowledge of local estuaries",
+      "Head torch or flashlight with extra batteries",
+      "First aid kit and personal medications",
+      "Whistle and signal device",
+      "Mobile phone with emergency contacts and offline maps",
+      "Lightweight emergency bivvy or space blanket",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offers milder weather, longer daylight and better trail access; plan for shoulder-season weather and shorter days in late autumn.",
+    "seo": {
+      "title": "King Charles III England Coast Path: North Gare to South Bents 141.3 km",
+      "meta_description": "Discover the 141.3 km coastal hike along the England Coast Path from North Gare to South Bents. Hard terrain, seasonal guidance, safety tips, and gear essentials.",
+      "h1": "King Charles III England Coast Path: North Gare to South Bents"
+    }
   }
 }

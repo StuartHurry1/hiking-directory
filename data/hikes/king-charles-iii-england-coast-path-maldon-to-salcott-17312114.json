@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 17312114
+  },
+  "ai": {
+    "summary": "A strenuous coastal traverse along the England Coast Path from Maldon to Salcott, covering 84.8 km. The route combines estuary shorelines, tidal flats, and low-lying coastal terrain with strong exposure to wind and tides, demanding solid navigation, endurance, and careful planning.",
+    "terrain_summary": "Predominantly coastal path with a mix of compact trails, mud, mudflats at low tides, boardwalks, and occasional gravel or dirt tracks. Expect open exposure, shifting sands, and water effects from estuaries; navigation may require following signs along a remote coastline.",
+    "safety_notes": "Hard, long-distance coastal hike. Plan for multiple days or long daily distances. Check tide times and weather; some sections can be inaccessible at high tide. Wear sturdy waterproof boots with good grip; consider gaiters for mud. Carry enough water and energy-rich snacks; have a plan for shelter in bad weather. Bring a map, compass or offline GPS and a fully charged phone. Tell someone your route and expected times. Be prepared for sudden weather changes and sea spray; apply sunscreen and wear layers. Watch for muddy or slippery surfaces and close gates behind you when encountered.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Moisture-wicking base layers and additional insulating layer",
+      "Waterproof jacket and waterproof pants",
+      "Wide-brim hat or cap",
+      "Gloves (optional but useful in cold coastal winds)",
+      "Daypack with rain cover",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and some electrolyte options",
+      "Map and compass (or offline GPS) and a fully charged phone",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and emergency whistle",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional for stability on uneven ground)",
+      "Emergency bivy or space blanket (for multi-day trips)",
+      "Extra socks and lightweight dry bag for valuables"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are most favorable; winter conditions can be harsh with strong winds and shorter daylight.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Maldon to Salcott (84.8 km) – Coastal Hike Guide",
+      "meta_description": "Explore a hard 84.8 km section of the England Coast Path from Maldon to Salcott in the UK. Learn about terrain, safety, and gear for a coastal hiking challenge.",
+      "h1": "King Charles III England Coast Path: Maldon to Salcott"
+    }
   }
 }

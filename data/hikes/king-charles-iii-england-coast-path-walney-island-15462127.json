@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 15462127
+  },
+  "ai": {
+    "summary": "An extended coastal trek along Walney Island as part of the England Coast Path. This 37.6 km hard route traverses exposed shores, dunes, and tidal flats, with varied surfaces and strong winds. It rewards with expansive sea views and remote stretches, while demanding sustained effort.",
+    "terrain_summary": "Primarily coastal paths with a mix of tarmac, compact dirt, shingle, and sand, plus occasional boardwalks. Expect exposed headlands, dune systems, and some rocky sections; tidal considerations may affect beach progress. Weather can change quickly along the coast.",
+    "safety_notes": "This is a long, exposed coastal route with hard terrain and potential strong winds. Start early to maximize daylight and check tide times if beach sections are involved. Wear sturdy boots and layered clothing; carry waterproofs, a map and compass or GPS, and enough water and snacks. Mobile reception may be limited in remote sections; inform someone of your plan. Be prepared for sudden weather changes, soft sand, and erosion; carry a small first aid kit and whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate layers plus a waterproof jacket",
+      "Windproof hat and gloves",
+      "Waterproof pants or quick-drying trousers",
+      "Water and high-energy snacks (2–3 L of water, plus electrolytes)",
+      "Map and compass or GPS device; fully charged phone with offline maps",
+      "Sun protection: sunscreen, sunglasses",
+      "Headlamp with extra batteries",
+      "Small first aid kit and blister care",
+      "Emergency whistle and a lightweight emergency blanket",
+      "Dry bag for electronics and valuables"
+    ],
+    "best_seasons": "May–September for best weather and daylight; shoulder seasons can be workable with proper gear, while winter hikes face storms and shorter days.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Walney Island – 37.6 km Coastal Trek",
+      "meta_description": "Explore the 37.6 km Walney Island segment of the King Charles III England Coast Path. Get a practical overview of terrain, safety tips, gear, and the best season for this hard coastal hike.",
+      "h1": "Walney Island: King Charles III England Coast Path – 37.6 km Coastal Trek"
+    }
   }
 }

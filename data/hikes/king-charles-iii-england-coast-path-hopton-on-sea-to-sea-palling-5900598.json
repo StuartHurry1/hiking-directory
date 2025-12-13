@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 5900598
+  },
+  "ai": {
+    "summary": "A challenging multi-day coastal trek along the Norfolk coast as part of the King Charles III England Coast Path, running 73.3 km from Hopton-on-Sea to Sea Palling. Expect exposed headlands, sandy beaches, salt marshes and tidal estuaries, with rugged cliffs and panoramic sea views. The route is hard due to long distances, variable weather, and mixed terrain, requiring good navigation and fitness.",
+    "terrain_summary": "The route follows the England Coast Path across Norfolk's coastline: a mix of windswept headlands, shingle beaches, dune systems, grass paths, boardwalks, and occasional tarmac sections. Surfaces range from compact paths to soft sand and muddy estuary crossings; expect exposed open sections with strong winds, uneven footing on coastal cliffs, and potential flooding at high tides.",
+    "safety_notes": "Plan for multiple days with appropriate navigation skills. Check tide times for estuary crossings and be prepared to backtrack or detour. Inform someone of your itinerary and expected return. Weather on the coast can change rapidly; carry waterproof layers, sun protection, and a basic first aid kit. Mobile signal can be patchy in remote sections; carry a map and compass as backup. Stay clear of cliff edges, watch for erosion, and respect wildlife. Carry extra food and water; daylight hours vary by season.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and windproof jacket",
+      "Warm layer (fleece or insulated top)",
+      "Hat and gloves",
+      "Sunscreen, sunglasses, lip balm",
+      "Water bottle or hydration system with electrolytes",
+      "Map and compass (or GPS) and a charged device backup",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Emergency shelter or space blanket",
+      "Dry bags or waterproof roll-top bags for valuables",
+      "Tide timetable or coastal weather/app",
+      "High-energy snacks and a small stove optional",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May to September offer the best combination of daylight and milder conditions for this exposed coastal route; shoulder seasons can be windy and damp, while winter hiking is challenging due to short days and stronger seas.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Hopton-on-Sea to Sea Palling – Norfolk Coastal Hike",
+      "meta_description": "Explore the 73.3 km King Charles III England Coast Path segment from Hopton-on-Sea to Sea Palling. A hard coastal hike along Norfolk's shore with cliffs, beaches and marshes.",
+      "h1": "King Charles III England Coast Path: Hopton-on-Sea to Sea Palling"
+    }
   }
 }

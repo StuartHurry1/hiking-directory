@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 14425575
+  },
+  "ai": {
+    "summary": "A 10 km moderate hike along Knepp Wildland's White Route in the UK, showcasing open grassland, woodland edges, and a sense of Knepp's wild landscape.",
+    "terrain_summary": "The route combines wide grassy tracks, compact earth paths, and forest edge sections. Expect some uneven terrain and mud in wet weather; gates and occasional stiles crossings may appear.",
+    "safety_notes": "Weather can change quickly in the UK. Stay on marked paths and be mindful of livestock in open fields. Dogs should be kept under control or leashed where required. Bring water, snacks, and a map or GPS; ensure your phone is charged. Inform someone of your plans if hiking alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good traction",
+      "Water and snacks",
+      "Weather-appropriate clothing; waterproof jacket",
+      "Map or GPS device; charged phone",
+      "Sun protection (hat and sunscreen)",
+      "Insect repellent",
+      "Small backpack with rain cover",
+      "Camera or binoculars (optional)",
+      "Whistle and basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for better weather and wildlife viewing; winter hikes can be muddy, windy, and have shorter daylight.",
+    "seo": {
+      "title": "Knepp Wildland White Route – 10 km Moderate Hike in the UK",
+      "meta_description": "Explore the 10 km Knepp Wildland White Route. A moderate hike through open grasslands and woodland edges in the UK with practical tips on terrain, safety, and gear.",
+      "h1": "Knepp Wildland White Route — 10 km Moderate Hike"
+    }
   }
 }

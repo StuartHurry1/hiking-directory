@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18180510
+  },
+  "ai": {
+    "summary": "A short, family-friendly 2.6 km loop in the UK around the King’s Lynn area, designed for beginners and casual walkers. The route offers gentle terrain, light scenery, and a mostly flat profile, making it an easy option for a quick outdoor outing.",
+    "terrain_summary": "Mostly flat with a mix of paved paths, compact gravel tracks, and a few short grassy sections. The route may include quiet country lanes, with occasional exposure to wind if coastal edges are included. Suitable for strollers on paved portions.",
+    "safety_notes": "Wear sturdy shoes and check weather conditions before you go. Keep to the path on shared roads, and stay alert for traffic on lanes. Carry water, a light layer for changing conditions, and a basic first-aid kit. In remote sections, ensure your mobile signal is adequate and let someone know your planned return time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Map or GPS device",
+      "Small first-aid kit",
+      "Snack",
+      "Phone for emergencies"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions for comfortable walking, though the hike can be done year-round with appropriate clothing and daylight.",
+    "seo": {
+      "title": "King’s Lynn Weird Walk – Easy 2.6 km Hike in the UK",
+      "meta_description": "Explore King’s Lynn Weird Walk, a 2.6 km easy hike in the UK. Ideal for beginners, with flat terrain, safe routes, and practical gear tips.",
+      "h1": "King’s Lynn Weird Walk – Easy 2.6 km Hike"
+    }
   }
 }

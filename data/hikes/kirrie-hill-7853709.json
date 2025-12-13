@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 7853709
+  },
+  "ai": {
+    "summary": "Kirrie Hill offers a gentle 4.9 km circular hike in the UK countryside. Classified as easy, the route is suitable for beginners and families seeking a short day out with open views from the hilltop. The walk typically takes under 2 hours and can be enjoyed in most weather with proper footwear.",
+    "terrain_summary": "The trail follows a mix of well-trodden dirt paths and grassy fields, with a few gentle gradients and some uneven stones. Expect occasional muddy patches after rain and occasional exposed sections near the summit with open countryside views.",
+    "safety_notes": "Weather in the UK hills can change quickly; check a forecast before you go. Wear sturdy waterproof boots and bring layered clothing, a waterproof jacket, and a hat. Stay on marked paths, watch for uneven ground and livestock, and carry a map or offline navigation on your phone. Tell someone your planned route and expected return time. In winter, daylight is shorter and wind chill can be significant; consider appropriate winter gear.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Weather-appropriate layers (hat and gloves in cold weather)",
+      "Water bottle",
+      "Snacks",
+      "Lightweight waterproof jacket",
+      "Map or offline navigation on a phone",
+      "Small first aid kit",
+      "Sunscreen and hat for sun protection",
+      "Insect repellent (summer)",
+      "Head torch or flashlight if planning after dark"
+    ],
+    "best_seasons": "Spring (April–June) and autumn (September–October) are especially pleasant, offering mild temperatures and good views. The hike is still feasible in summer and winter, but winter can bring ice, stronger winds, and mud; plan accordingly.",
+    "seo": {
+      "title": "Kirrie Hill – Easy 4.9 km Hike in the UK",
+      "meta_description": "Explore Kirrie Hill with this easy 4.9 km hike in the UK. Gentle terrain, scenic hilltop views, safety tips, and gear suggestions for a relaxing day out.",
+      "h1": "Kirrie Hill Easy 4.9 km Hike"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 9502113
+  },
+  "ai": {
+    "summary": "The Kingfisher Trail is a short, easy 2.7 km hike in the United Kingdom. It’s well-suited for beginners and families, following gentle paths alongside water features with occasional shade and open views.",
+    "terrain_summary": "Mostly easy, well-maintained paths with some gravel surfaces. The route may include minor elevation changes, damp or muddy sections, and occasional boardwalks near water.",
+    "safety_notes": "Check the weather forecast and wear sturdy, waterproof footwear. Stay on marked trails, bring a map or phone with offline access, carry water, and keep a comfortable pace. Be mindful of wildlife and crowds near popular sections, and plan for shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light snack",
+      "Rain jacket or windbreaker",
+      "Hat and sunscreen",
+      "Phone or map",
+      "Small backpack"
+    ],
+    "best_seasons": "Spring to autumn; the trail is enjoyable in mild weather, though it can be hiked year-round with appropriate clothing.",
+    "seo": {
+      "title": "Kingfisher Trail – Easy 2.7 km Hike in the UK",
+      "meta_description": "Discover the Kingfisher Trail, a short 2.7 km easy hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best season to hike.",
+      "h1": "Kingfisher Trail – Easy 2.7 km Hike in the UK"
+    }
   }
 }

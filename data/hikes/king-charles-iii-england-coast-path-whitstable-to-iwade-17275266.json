@@ -19,5 +19,30 @@
   "source": {
     "type": "osm",
     "osmId": 17275266
+  },
+  "ai": {
+    "summary": "A challenging 80.7 km segment of the King Charles III England Coast Path, running from Whitstable to Iwade along the Kent coast. This hard coastal hike combines cliff-top trails, shingle beaches, tidal flats, and long, exposed sections with rewarding sea views and wildlife.",
+    "terrain_summary": "Expect a varied coastal terrain: elevated cliff-top paths with occasional steep descents, long shingle or sand beach stretches, mud flats at low tide, intermittent boardwalks, and rural lanes linking sections. Surf, wind, and salt spray are common. Some sections have uneven footing and limited shade; tides can partition segments, so route planning is essential.",
+    "safety_notes": "Plan for long days and variable weather along a remote coast. Check tide times and beach closures; some parts may require timing to avoid incoming tides. Carry a detailed map (OS map) or offline navigation, a compass, and a charged phone. Wear sturdy waterproof boots and windproof clothing. Stay away from cliff edges, be mindful of sea spray and gusts, and watch for fog. Tell someone your itinerary, carry a basic first aid kit, flashlight or headlamp, and sufficient water and food. Be prepared for limited services along the route; plan accommodation or day-by-day pacing accordingly.",
+    "recommended_gear": [
+      "sturdy waterproof hiking boots with good grip",
+      "layered clothing and a waterproof windproof jacket",
+      "hat, sunglasses, and sunscreen",
+      "water bottle or hydration system with at least 2 liters",
+      "high-energy snacks and a lightweight meal for long days",
+      "map, compass, and/or GPS device with the route loaded",
+      "phone with offline maps and a portable power bank",
+      "compact first aid kit and emergency whistle",
+      "headlamp or flashlight",
+      "dry bag for electronics and valuables",
+      "tide-aware footwear or spare socks for beach sections",
+      "basic rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer longer daylight and milder weather, but coastal conditions can be windy and unpredictable year-round; plan for cool mornings and possible rain.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Whitstable to Iwade — 80.7 km Coastal Hike (Hard)",
+      "meta_description": "Explore the 80.7 km Whitstable to Iwade stretch of the England Coast Path. A hard coastal hike through Kent with cliffs, beaches, and tidal sections.",
+      "h1": "Whitstable to Iwade: King Charles III England Coast Path"
+    }
   }
 }

@@ -19,5 +19,24 @@
   "source": {
     "type": "osm",
     "osmId": 15949910
+  },
+  "ai": {
+    "summary": "A very short, easy lakeside stroll along stepping stones in the UK. Ideal for a quick nature break by calm, reflective water.",
+    "terrain_summary": "Flat, easy terrain with a mix of packed paths and occasional stepping stones along the lakeside. Expect damp conditions and slippery surfaces near the water.",
+    "safety_notes": "Slippery stones when wet; keep to designated paths and avoid crossing unstable stepping stones. Supervise children near water. Check weather conditions and visibility; wear sturdy, non-slip footwear. Carry a mobile phone with emergency contacts and stay aware of your surroundings.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Light waterproof layer",
+      "Water bottle",
+      "Phone with emergency contacts",
+      "Small towel or hand sanitizer"
+    ],
+    "best_seasons": "All year round; best in spring to autumn when paths are drier and scenery is at its best.",
+    "seo": {
+      "title": "Lakeside walk stepping stones – easy UK lakeside stroll",
+      "meta_description": "Discover an easy, near-zero-distance lakeside stroll in the UK with stepping stones. Flat terrain, tranquil waters, safety tips, and gear to bring.",
+      "h1": "Lakeside walk stepping stones"
+    }
   }
 }

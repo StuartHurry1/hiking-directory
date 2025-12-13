@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 6688350
+  },
+  "ai": {
+    "summary": "Knaresborough Round is a strenuous 61.8 km circular hike in the UK. The route combines long distances with varied terrain and navigational challenges, suitable only for experienced walkers with solid endurance and planning.",
+    "terrain_summary": "Expect a mix of rural tracks, farmland paths, hedgerows, occasional road sections, and occasional stiles. Terrain can be muddy after rain; elevation changes are variable, with a cumulative demanding profile. Navigation may require a map or GPS.",
+    "safety_notes": "This is a hard, long-distance hike. Plan carefully: check weather and daylight hours, carry detailed navigation tools (map and compass or GPS) and a charged phone. Pack sufficient water, high-energy food, and a first-aid kit. Wear sturdy, ankle-supporting footwear and bring appropriate clothing, including waterproofs and a insulating layer. Start early to ensure daylight; tell someone your planned route and ETA. Be prepared for farm gates and livestock; follow public rights of way and close gates behind you. In bad conditions, consider shorter sections or postponing.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Water bottle or hydration system (2–3 liters)",
+      "High-energy snacks and meals for the day or more",
+      "Weather-appropriate clothing layers and waterproofs",
+      "Insulated layer for temperature changes",
+      "Map and compass or GPS device",
+      "Phone with portable charger",
+      "First aid kit",
+      "Headlamp or flashlight (plus extra batteries)",
+      "Sunscreen and sunglasses",
+      "Hat and gloves (seasonal)",
+      "Emergency space blanket or bivy",
+      "Trekking poles (optional but helpful)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); winter hikes are more challenging due to shorter days and adverse weather.",
+    "seo": {
+      "title": "Knaresborough Round – 61.8 km Hard Circular Hike in the UK",
+      "meta_description": "Explore Knaresborough Round, a challenging 61.8 km circular hike in the UK. Learn about terrain, safety tips, essential gear, and the best seasons for this demanding route.",
+      "h1": "Knaresborough Round: 61.8 km Hard Circular Hike in the UK"
+    }
   }
 }

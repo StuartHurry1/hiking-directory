@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 14247952
+  },
+  "ai": {
+    "summary": "A challenging 107.1 km hike along the England Coast Path from Shoreham-by-Sea to Eastbourne, tracing the Sussex coast with dramatic cliffs, beaches, and sweeping sea views. Suited for experienced walkers who enjoy long coastal routes and variable terrain.",
+    "terrain_summary": "Terrain varies from exposed cliff-top paths and chalk downs to beach sections and wooden boardwalks. Expect rocky or uneven footing, steep ascents and descents, stair segments, and occasional short road or village detours. Wind and salt spray are common along the coast.",
+    "safety_notes": "Plan for variable coastal weather and strong winds. Some sections run along cliff edges with erosion risk; stay on marked paths and heed warning signs. Check tide times, as low or high tides can affect beach crossings and access. Wear sturdy, waterproof footwear and bring layered clothing, a hat, and sun protection. Carry plenty of water and high-energy snacks; there are long stretches with few services. Bring a map, compass or GPS device; a charged mobile phone for emergencies. Inform someone of your route and expected finish time. In remote stretches, emergency services can be distant; carry a basic first-aid kit and an emergency blanket. Be mindful of crowds in coastal towns and respect wildlife and habitats.",
+    "recommended_gear": [
+      "Sturdy trekking boots with good ankle support",
+      "Waterproof and windproof jacket and layer system",
+      "Moisture-wicking base layers and mid-layers for insulation",
+      "Wide-brimmed hat and sunglasses",
+      "Map and compass or GPS device",
+      "Fully charged phone and portable charger",
+      "Water supply (3–4 liters) and high-energy snacks",
+      "Lightweight first-aid kit and basic emergency blanket",
+      "Headlamp or flashlight",
+      "Trekking poles (optional but helpful on steep sections)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) provides the best weather for this long coastal hike. Summer offers long daylight hours but can be busy; spring and autumn offer milder temperatures and fewer crowds. Winter hikes are discouraged due to strong winds, rain, and reduced daylight, which increase risk along exposed coastal terrain.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Shoreham to Eastbourne – 107 km Sussex Coast Hiking Guide",
+      "meta_description": "Explore the 107.1 km King Charles III England Coast Path route from Shoreham-by-Sea to Eastbourne. A challenging, scenic coastal trek along the Sussex coast with gear and safety tips.",
+      "h1": "King Charles III England Coast Path: Shoreham to Eastbourne"
+    }
   }
 }

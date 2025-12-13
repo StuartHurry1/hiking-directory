@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9769093
+  },
+  "ai": {
+    "summary": "A short, easy 1.6 km hike along a calm riverside in the UK. Suitable for families and beginners, it features flat paths, gentle scenery, and potential birdlife along the water, including kingfishers in season.",
+    "terrain_summary": "Flat to gently rolling terrain with a well-kept path, mostly compact gravel and a short boardwalk section. Expect occasional mud after rain and some exposed roots near the water.",
+    "safety_notes": "Check weather and daylight before starting. Wear sturdy, non-slip footwear and stay on marked paths. Supervise children near water and be mindful of other users on shared sections. Carry water and a phone or map; in remote areas let someone know your plan and expected return.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Sun protection (hat and sunscreen)",
+      "Snack or energy bar",
+      "Map, guidebook, or fully charged phone with offline map",
+      "Small backpack",
+      "Basic first aid kit",
+      "Insect repellent (optional)"
+    ],
+    "best_seasons": "Spring to autumn offer the most pleasant conditions; the route is walkable year-round with caution in winter due to mud and shorter daylight.",
+    "seo": {
+      "title": "Kingfisher Trail – Easy 1.6 km Walk in the UK",
+      "meta_description": "Explore the Kingfisher Trail, a 1.6 km easy walk in the UK. Flat, family-friendly terrain with possible birdwatching and riverside scenery. Includes safety tips and gear.",
+      "h1": "Kingfisher Trail – Easy 1.6 km Walk in the UK"
+    }
   }
 }

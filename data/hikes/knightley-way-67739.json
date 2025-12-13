@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 67739
+  },
+  "ai": {
+    "summary": "Knightley Way is a challenging long-distance trail in the UK, spanning 108.3 km. The route traverses varied countryside and demands solid stamina, good navigation, and thorough preparation. It is best tackled by experienced hikers looking for a multi-day trek.",
+    "terrain_summary": "Expect mixed terrain across rural countryside in the UK: long stretches on footpaths and lanes, occasional boggy sections, stiles, gentle to steep ascents, and some road crossings. Elevation varies, and weather can significantly affect footing and conditions.",
+    "safety_notes": "Plan and navigation: carry a current map and compass or GPS, know your route, and inform someone of your itinerary. Weather: UK weather is changeable; pack layered clothing, waterproof/windproof outerwear, and suitable footwear. Terrain/footing: wear sturdy boots, expect mud and uneven surfaces, and take care on descents. Daily pacing: plan rests, monitor fatigue, and be prepared to shorten or reroute if conditions worsen. Supplies: bring enough water and high-energy food; carry a means to purify water if refilling. Communications: mobile coverage may be limited in remote sections; carry a whistle and a fully charged power bank. Leave no trace: pack out waste and respect wildlife.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable jacket and pants",
+      "Insulated mid-layer and base layers",
+      "Backpack with rain cover",
+      "Map and compass or GPS device",
+      "Headlamp with extra batteries",
+      "Water bottles or hydration system plus water purification method",
+      "High-energy food and snacks for multiple days",
+      "First aid kit and blister care",
+      "Emergency blanket or bivy sack",
+      "Whistle and multi-tool",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers longer daylight, milder temperatures, and more reliable trail conditions. Winter hiking is possible but demanding and requires advanced planning, winter gear, and shorter daily goals.",
+    "seo": {
+      "title": "Knightley Way: 108.3 km Hard-Distance Hiking Guide in the UK",
+      "meta_description": "Plan your Knightley Way trek, a challenging 108.3 km long-distance hike in the UK. Learn terrain expectations, safety tips, best seasons, and essential gear for a multi-day adventure.",
+      "h1": "Knightley Way: A 108.3 km Hard-Distance Hiking Adventure in the UK"
+    }
   }
 }

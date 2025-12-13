@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 16058625
+  },
+  "ai": {
+    "summary": "Lake Walk (Derryadd) is a gentle 3.5 km lakeside loop in the UK, suitable for most walkers. The route follows well-maintained paths along a tranquil lake, offering water views, potential wildlife sightings, and a relaxed pace for families and casual hikers.",
+    "terrain_summary": "Predominantly flat with a well-trodden gravel surface. Occasional gentle gradients and a few muddy patches after rain; footwear with good grip is advised. The path runs close to the water, with benches along sections for rest.",
+    "safety_notes": "Check weather and daylight before you go. The route is exposed to sun and showers, so bring layers and rain protection. Stay on marked paths, watch for cyclists and other pedestrians, and supervise children near the water. Bring sufficient water and snacks, and ensure your mobile device is charged; signal can be limited in some segments.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Weather-appropriate clothing and a lightweight waterproof jacket",
+      "Small backpack with essentials",
+      "Water bottle or hydration",
+      "Sun protection (hat and sunscreen)",
+      "Map, guidebook, or offline navigation on your phone",
+      "Basic first aid kit",
+      "Snacks for the walk"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn; feasible year-round with caution in winter",
+    "seo": {
+      "title": "Lake Walk (Derryadd) — Easy 3.5 km Lakeside Walk in the UK",
+      "meta_description": "Explore Lake Walk (Derryadd), a gentle 3.5 km lakeside trail in the UK. Easy, family-friendly terrain with scenic water views, ideal for a relaxed day outdoors.",
+      "h1": "Lake Walk (Derryadd) — Easy Lakeside Trail"
+    }
   }
 }

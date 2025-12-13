@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 1116068
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike along the Lagan Towpath in the United Kingdom, totaling 46.7 km. The route follows a historic canal towpath beside the River Lagan, offering mostly flat terrain with long stretches of straight walking, occasional muddy spots after rain, and exposed sections where weather can affect progress. Given the distance, many hikers plan multi-day trips with planned stops.",
+    "terrain_summary": "Primarily flat and well-surfaced towpath (gravel or asphalt), with occasional muddy patches after rain and some debris along the path. Expect canal edges, frequent bridges, and occasional narrow sections where cyclists may share the route. Shade is limited in open stretches; footwear should be sturdy and grippy.",
+    "safety_notes": "Plan for a long day or multiple days. Carry sufficient water and food, particularly in exposed sections. Weather in the UK can change quickly; pack waterproofs, layers, and sun protection. Share your route plans with someone and carry a charged mobile phone. Stay alert for other towpath users (pedestrians and cyclists) and give way when required. Wear sturdy footwear, watch for muddy patches after rain, and bring a basic first aid kit and blister care supplies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water bottle or hydration system (2+ liters total)",
+      "Weatherproof jacket and extra warm layer",
+      "Cap/hat and sun protection (sunscreen)",
+      "Map, GPS device, or offline map on phone",
+      "Headlamp or flashlight",
+      "Small first aid kit and blister care",
+      "Snacks and energy foods (and a lightweight lunch for day hikes)",
+      "Power bank and waterproof bag/pouch for electronics",
+      "Lightweight rain cover for backpack",
+      "Emergency blanket or shelter"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) offers the best conditions with longer daylight and milder weather; winter hikes are more exposed, mud-prone, and carry higher risk of storms and shorter daylight.",
+    "seo": {
+      "title": "Lagan Towpath Hike (UK) – 46.7 km Hard Trail",
+      "meta_description": "Discover the Lagan Towpath in the UK: a 46.7 km hard-distance hike along a historic canal. Terrain details, safety tips, gear suggestions, and the best seasons for this long-distance trail.",
+      "h1": "Lagan Towpath: 46.7 km Hard Hike in the UK"
+    }
   }
 }

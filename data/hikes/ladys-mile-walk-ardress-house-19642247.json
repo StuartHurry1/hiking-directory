@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 19642247
+  },
+  "ai": {
+    "summary": "An easy 4.4 km walk titled Lady's Mile Walk, Ardress House in the UK. The route offers a gentle, mostly flat circuit around the Ardress House grounds with well-marked paths, suitable for families and walkers of all ages.",
+    "terrain_summary": "Predominantly flat, well-maintained paths with occasional grass or compacted earth sections. Some areas may be muddy after rain; watch for roots or uneven ground along the way.",
+    "safety_notes": "General safety: check the weather and daylight hours before you go. Wear sturdy, comfortable walking shoes with good grip. Stay on marked paths and watch for uneven surfaces, roots, or puddles. Keep pets under control and on a short leash where required. Bring water, dress in layers, and use sun protection in warmer months. Be mindful of other visitors and livestock if present, and carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes with good grip",
+      "Water bottle",
+      "Light rain jacket or layered clothing",
+      "Sun hat and sunscreen",
+      "Phone with offline map or local map",
+      "Small first aid kit",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this walk in the UK, while winter visits are possible but footing may be slippery and daylight shorter.",
+    "seo": {
+      "title": "Lady's Mile Walk, Ardress House – 4.4 km Easy UK Walk",
+      "meta_description": "Discover the 4.4 km Lady's Mile Walk at Ardress House in the UK. An easy, family-friendly route with well-marked paths, safety tips, and gear suggestions.",
+      "h1": "Lady's Mile Walk, Ardress House (4.4 km)"
+    }
   }
 }

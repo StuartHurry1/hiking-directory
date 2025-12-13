@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 18269898
+  },
+  "ai": {
+    "summary": "A challenging 117.8-km segment of the England Coast Path from Marsland Mouth to Newquay. This hard coastal trek blends rugged cliffs, sandy coves, and sweeping sea views with exposed headlands and long stretches between services. It rewards patient hikers with dramatic scenery but requires strong fitness, careful navigation, and thorough planning.",
+    "terrain_summary": "Rugged coastal terrain dominated by cliff tops, windswept headlands, shingle beaches, and patches of coastal moorland. Expect steep ascents and descents, uneven paths, and muddy sections after rain, with limited services between settlements. Tides and weather can affect routes, so stay on official paths and watch for unstable ground near cliff edges.",
+    "safety_notes": "Plan for remote coast: check weather and tide tables before each stage; wear sturdy boots and stay well back from cliff edges; carry a map, compass, and fully charged phone with offline backup; inform someone of your itinerary and expected finish; carry sufficient water and high-energy food; in an emergency call 999.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Layered clothing (base layer, mid-layer, and a warm layer)",
+      "Waterproof and windproof outer layer (jacket and pants)",
+      "Wide-brimmed hat, sunglasses, and sunscreen",
+      "Navigation tools: map and compass or GPS with offline maps",
+      "Fully charged phone with a power bank",
+      "Headlamp or flashlight with extra batteries",
+      "Water supply (2–3 liters) and high-energy snacks",
+      "First-aid kit with blister care and seasalt wipes",
+      "Emergency beacon or personal locator (PLB) for remote sections",
+      "Lightweight camping gear if planning overnight: bivy/shelter, sleeping bag, mat",
+      "Trekking poles",
+      "Dry bag or protective cases for electronics"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) offers the best daylight, milder weather, and trail conditions. Winter hiking can be hazardous due to high winds, heavy rain, and reduced daylight; always assess conditions before setting out.",
+    "seo": {
+      "title": "Marsland Mouth to Newquay — England Coast Path (117.8 km) Hard Coastal Trek",
+      "meta_description": "Explore the 117.8-km Marsland Mouth to Newquay section of the England Coast Path. A hard coastal hike with dramatic cliffs, tides, and stunning sea scenery. Includes safety tips, gear lists, and best seasons.",
+      "h1": "Marsland Mouth to Newquay on the England Coast Path"
+    }
   }
 }

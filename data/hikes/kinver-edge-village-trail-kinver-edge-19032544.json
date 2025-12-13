@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 19032544
+  },
+  "ai": {
+    "summary": "An easy 4.2 km circular hike on the Kinver Edge ridge, offering scenic countryside views and the historic Kinver Edge Village. Suitable for families and beginners.",
+    "terrain_summary": "Mostly well-maintained paths with gentle to moderate elevation. Some uneven ground and short rocky sections; the route runs along the sandstone ridge with exposed edges in places and shaded woodland sections inland.",
+    "safety_notes": "Wear sturdy footwear and stay back from cliff edges, especially in wind or rain; keep children and dogs under control; check the weather and avoid the ridge in stormy or icy conditions; stay on marked paths; bring water, sun protection and a light layer for changing conditions.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a light snack",
+      "Weather-appropriate clothing (layers + waterproof layer)",
+      "Sun protection (hat, sunscreen)",
+      "Light rain jacket",
+      "Map or offline navigation (optional)",
+      "Phone charged for emergencies"
+    ],
+    "best_seasons": "Spring and autumn are ideal for mild weather and good views; summer is fine on dry days; winter can be windy and icy on exposed ridges.",
+    "seo": {
+      "title": "Kinver Edge Village Trail – Easy 4.2 km Ridge Walk",
+      "meta_description": "Explore Kinver Edge Village Trail, an easy 4.2 km circular walk along the Kinver Edge ridge in the UK. Scenic views, family-friendly terrain, and practical safety tips.",
+      "h1": "Kinver Edge Village Trail – Easy 4.2 km Ridge Walk"
+    }
   }
 }

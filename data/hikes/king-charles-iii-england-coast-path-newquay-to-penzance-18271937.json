@@ -19,5 +19,33 @@
   "source": {
     "type": "osm",
     "osmId": 18271937
+  },
+  "ai": {
+    "summary": "Hard coastal trek covering 54.3 km along the England Coast Path from Newquay to Penzance in Cornwall. A demanding route of cliff-top paths, beaches, and tidal sections with spectacular sea views and varied terrain.",
+    "terrain_summary": "Expect rugged cliff-top trails, uneven stony paths, occasional beach sections, and woodland stretches. The route includes exposed sections subject to wind and spray, short ascents and descents, and mud after rain. Tidal restrictions may apply to some beach crossings, so plan ahead.",
+    "safety_notes": "Plan for a long, demanding day or multiple days; check tide times and weather forecasts before each section. Coastal conditions in Cornwall can change rapidly; be prepared for wind and spray. Stay on marked paths, avoid cliff edges, and watch for rockfalls. Carry a map and compass or offline GPS, a fully charged phone, and a backup power source. Bring enough water and high-energy snacks; wear sturdy waterproof footwear and weather-appropriate clothing. Inform someone of your route and estimated timings, especially when mobile signal is limited. In case of emergencies, call local services; seek shelter if lightning or severe weather approaches.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and an insulating layer",
+      "Weather-appropriate clothing (base layer, mid-layer, hat, gloves as needed)",
+      "Sun protection: sunglasses, sunscreen, and a hat for sunny days",
+      "Map and compass or a GPS device with offline maps",
+      "Fully charged phone and a backup power bank",
+      "Water bottle or hydration system (2 L recommended) and water purification method if needed",
+      "High-energy snacks and lightweight meals for multi-day trips",
+      "First aid kit with blister care and personal medications",
+      "Blister care items (plasters, tape, moleskin)",
+      "Headlamp or flashlight with extra batteries",
+      "Whistle and personal beacon if desired",
+      "Emergency blanket or lightweight bivy sack",
+      "Lightweight waterproof backpack rain cover",
+      "Trekking poles (optional but helpful on uneven terrain)"
+    ],
+    "best_seasons": "Spring to autumn (roughly May–September), with best weather and daylight; shoulder months (April or October) can be feasible with careful planning.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Newquay to Penzance – Cornwall Coastal Hike",
+      "meta_description": "Trek 54.3 km along England's coast path from Newquay to Penzance. A hard coastal hike with cliffs, beaches, safety tips, gear ideas, and best seasons.",
+      "h1": "King Charles III England Coast Path: Newquay to Penzance"
+    }
   }
 }

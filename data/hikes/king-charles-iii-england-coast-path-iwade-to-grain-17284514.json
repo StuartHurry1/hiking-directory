@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 17284514
+  },
+  "ai": {
+    "summary": "A demanding coastal trek along a segment of the England Coast Path from Iwade to Grain, spanning 92.7 km. Expect rugged shoreline, marshlands, estuary routes, and long horizons along Kent's southeast coast.",
+    "terrain_summary": "Primarily coastal trail segments with a mix of shingle beaches, muddy estuary banks, tidal flats, boardwalks, and occasional road and town sections. Elevation is relatively gentle but exposed, with gusty winds and sudden weather changes.",
+    "safety_notes": "Check tide times before crossing estuary sections and be prepared for restricted routes at high tide. The coastal route is exposed and winds can be strong, with rapidly changing weather. Ground can be muddy or loose on marsh edges and boardwalks; wear sturdy footwear and consider trekking poles. Services are limited in parts of the coast, so carry sufficient water and food and start early to avoid long stretches without options. Carry a map and compass or GPS, and let someone know your itinerary. Respect wildlife and stay on marked paths; keep dogs under control.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good traction",
+      "Layered clothing and a waterproof jacket",
+      "Water and high-energy snacks (at least 2–3 liters of water per day)",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Emergency first-aid kit and whistle",
+      "Light rain cover or packable rain cape",
+      "Trekking poles (optional) for stability on mud and mudflats",
+      "Phone with waterproof case and a portable power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (May–September) offers milder weather and longer daylight, with spring birds and blooms, while autumn provides quieter trails but can bring stronger winds. Winter conditions are harsh with higher storm risk and shorter days, making the hike more challenging.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Iwade to Grain (92.7 km) – Trail Guide",
+      "meta_description": "Plan your 92.7 km journey on the Iwade to Grain section of the King Charles III England Coast Path. Terrain overview, safety tips, gear checklist, and the best seasons for hiking.",
+      "h1": "King Charles III England Coast Path: Iwade to Grain"
+    }
   }
 }

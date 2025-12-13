@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 1494247
+  },
+  "ai": {
+    "summary": "Kingfisher Way is a demanding long-distance hike in the UK, covering 149.3 km. The route combines rural countryside, woodlands, and occasional road sections. Classified as hard, it requires steady pacing, endurance, and careful planning across multiple days. Proper preparation, navigation, and weather awareness are essential.",
+    "terrain_summary": "Predominantly rural and woodland trails with mixed surfaces including grass, packed earth, mud, and some gravel. Expect uneven ground, occasional stiles, short steep sections, and occasional road or track crossings. Navigation is straightforward in clear conditions but can be challenging in poor visibility.",
+    "safety_notes": "Plan for variable UK weather and generous exposure to wind and rain. Tell someone your itinerary and expected return. Carry a map and compass or reliable GPS, and keep a fully charged phone as a backup. Follow Leave No Trace, respect access rules, and be prepared for limited daylight in shoulder seasons. Consider footing and wildlife, and know your limits; seek local advice if unfamiliar with sections.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable, moisture-wicking layers",
+      "Waterproof and windproof outer shell",
+      "Map and compass or reliable GPS device",
+      "Headlamp with extra batteries",
+      "Trekking poles (optional but helpful for uneven terrain)",
+      "First aid kit with blister care",
+      "Sufficient food and water; water purification method",
+      "Emergency bivy or lightweight shelter",
+      "Whistle and ID",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Lightweight tarp or emergency blanket"
+    ],
+    "best_seasons": "Late spring to early autumn, roughly May to September; shoulder seasons can be workable with weather planning.",
+    "seo": {
+      "title": "Kingfisher Way – A Hard 149.3 km UK Hiking Challenge",
+      "meta_description": "Discover Kingfisher Way, a demanding 149.3 km trail in the UK. Learn about terrain, safety, gear, and the best seasons to hike.",
+      "h1": "Kingfisher Way: A Hard 149.3 km UK Hiking Adventure"
+    }
   }
 }

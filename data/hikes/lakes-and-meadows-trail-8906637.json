@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 8906637
+  },
+  "ai": {
+    "summary": "Lakes and Meadows Trail is an easy 4.8 km hike in the UK, taking walkers through tranquil lakes and open meadows. With gentle terrain and picturesque scenery, it’s suitable for families and first-time hikers seeking a relaxed outdoor day.",
+    "terrain_summary": "Predominantly flat to gently rolling paths along lakesides and through grassy meadows. Expect gravel tracks, occasional muddy sections after rain, and some uneven ground near the water's edge.",
+    "safety_notes": "- Check the weather forecast and daylight hours before you go. - Wear sturdy footwear and appropriate clothing for changeable UK weather. - Stay on marked paths and keep a safe distance from water edges. - Bring enough water and snacks, plus a small first aid kit. - Carry a map or GPS device, and have a means to call for help. - Supervise children and be mindful of seasonal wildlife. - Be prepared for muddy conditions after rain and short sections of uneven ground.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Map or GPS device / smartphone with offline maps",
+      "Small backpack with essentials",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Snacks",
+      "Basic first aid kit",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (roughly March to October) offer the best conditions; the trail is still hikeable in winter with warm clothing and waterproof gear.",
+    "seo": {
+      "title": "Lakes and Meadows Trail – Easy 4.8 km Hike in the UK",
+      "meta_description": "Explore the Lakes and Meadows Trail, an easy 4.8 km hike through lakeside scenery and open meadows in the UK. Ideal for beginners and families seeking a relaxed day outdoors.",
+      "h1": "Lakes and Meadows Trail – Easy 4.8 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 14425574
+  },
+  "ai": {
+    "summary": "A challenging 26.3 km circuit at Knepp Wildland in the UK. The Red Route combines open downs, hedgerow paths, and woodland tracks for a demanding day hike with variable terrain and wildlife viewing opportunities.",
+    "terrain_summary": "The route traverses open grassland, gravel bridleways, muddy in-field paths, woodland edges, and occasional road sections. Expect uneven footing, potential mud after rain, cattle grids, and exposed, windy sections on the downs.",
+    "safety_notes": "Plan for a long day: 26.3 km with significant elevation. Check the forecast and daylight hours. Carry a map and compass (or GPS), and know your limits. Stay on marked paths, and be mindful of livestock; give cattle space and avoid disturbing birds and other wildlife. Bring enough water (2–3 L) and high-energy snacks. Wear sturdy waterproof boots and layers; weather can change quickly. Mobile signal may be limited; tell someone your route and ETA. Carry a whistle and basic first aid, plus a light source if you may be out near dusk.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and trousers",
+      "Warm layers and hat/gloves for wind",
+      "Backpack with water and snacks",
+      "Map and compass or GPS",
+      "Mobile phone with offline maps and power bank",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Emergency whistle",
+      "Extra socks",
+      "Sun protection (sunscreen, sunglasses)",
+      "Optional trekking poles",
+      "Small rain cover for gear"
+    ],
+    "best_seasons": "Spring to autumn (roughly late March to October) when daylight is longer and conditions are more forgiving; summer offers better visibility of wildlife, while late autumn and early spring can be damp and muddy.",
+    "seo": {
+      "title": "Knepp Wildland Red Route – 26.3 km UK hike",
+      "meta_description": "Discover the Knepp Wildland Red Route, a hard 26.3 km hike in the UK. Learn about terrain, safety, best seasons, and gear for this demanding day on the Knepp Estate.",
+      "h1": "Knepp Wildland Red Route – 26.3 km Hard Hike in the UK"
+    }
   }
 }

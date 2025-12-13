@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 12099384
+  },
+  "ai": {
+    "summary": "Ladymuir Trail is an 8.6 km moderate hike in the UK countryside. The route offers varied terrain, scenic viewpoints, and a steady pace suitable for hikers with some experience. The walk typically takes about 2.5 to 3 hours, depending on pace and stops, and can be completed as a loop or an out-and-back along rolling footpaths.",
+    "terrain_summary": "The trail mixes well maintained paths with damp forest floors and occasional rocky or uneven sections. Expect grassy verges, rooty patches, and potential boggy or muddy spots after rain. Surfaces range from compact gravel to uneven earth and may be slippery when wet.",
+    "safety_notes": "Check the weather forecast before you go, as conditions in the UK can change rapidly. Stay on marked paths, wear sturdy footwear, and bring a waterproof layer. Carry water and snacks, a map or GPS, and a small first aid kit. Tell someone your planned route and expected return time. In low visibility or icy conditions, consider shortening the route or turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Breathable weatherproof jacket and extra layers",
+      "Fleece or insulation layer",
+      "Trail map and compass or GPS device",
+      "Headlamp or flashlight for potential late return",
+      "Snack or energy bars",
+      "Sunscreen, hat, and sunglasses",
+      "Small first aid kit",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for drier paths and longer daylight; winter can be cold, windy, and very muddy.",
+    "seo": {
+      "title": "Ladymuir Trail: 8.6 km Moderate Hike in the UK",
+      "meta_description": "Explore Ladymuir Trail, an 8.6 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for a day on the trail.",
+      "h1": "Ladymuir Trail — 8.6 km Moderate Hike in the UK"
+    }
   }
 }

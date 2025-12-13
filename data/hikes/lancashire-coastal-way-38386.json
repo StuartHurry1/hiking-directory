@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 38386
+  },
+  "ai": {
+    "summary": "The Lancashire Coastal Way is a hard, long-distance coastal trek in the UK, totaling 170.1 km along the Lancashire coastline. It combines sea views, beaches, cliffs, and promenades, demanding good fitness, navigation, and preparation for variable coastal weather.",
+    "terrain_summary": "The route blends flat promenades, sandy beaches, rocky beach sections, grassy cliff-top paths, and occasional road or town walking. Expect exposed coastal conditions, mud, uneven surfaces, and possible erosion or rockfalls. Navigation can be straightforward in towns but challenging in remote stretches with tide-influenced crossings.",
+    "safety_notes": "Check tide times before crossing exposed beaches or estuaries; some segments depend on tidal conditions. Weather in the northwest can change rapidly, so carry waterproofs and warm layers. Wear sturdy, waterproof footwear and be prepared for mud and slippery surfaces. Stay on designated paths near cliffs to avoid unstable edges and rockfalls. Have a map or GPS, a means to re-supply, and inform someone of your itinerary; carry a charged phone and emergency whistle. Plan for shorter daylight hours in winter and have a plan for emergency shelters or accommodation if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Thermal layers and a fleece",
+      "Windproof hat and gloves",
+      "Map, compass, or GPS device",
+      "Water bottle or hydration system; water purification option",
+      "Energy snacks and a light stove or means to heat drinks if camping",
+      "First aid kit with blister care",
+      "Emergency shelter or bivy sack",
+      "Headlamp with spare batteries",
+      "Sunscreen and sunglasses",
+      "Phone with offline maps and power bank",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly April to September) are typically best for the Lancashire Coastal Way, offering longer daylight and milder weather; winter hiking is feasible but more demanding due to storms, cold, and shorter days.",
+    "seo": {
+      "title": "Lancashire Coastal Way: 170 km Coastal Trek in the UK | Hike Guide",
+      "meta_description": "Plan a 170 km coastal adventure along the Lancashire coast. Discover terrain, safety tips, and gear for the hard Lancashire Coastal Way hike in the UK.",
+      "h1": "Lancashire Coastal Way – 170 km Coastal Trek in the UK"
+    }
   }
 }

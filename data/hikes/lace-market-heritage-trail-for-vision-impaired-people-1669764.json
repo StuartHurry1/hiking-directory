@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 1669764
+  },
+  "ai": {
+    "summary": "A short, accessible heritage walk through Nottingham's Lace Market. This 1.1 km easy route is designed with vision-impaired hikers in mind, featuring clear wayfinding cues, tactile information where available, and landmarks along a flat, urban path.",
+    "terrain_summary": "Predominantly paved sidewalks along historic streets, with a few cobbled sections and curb edges. The route is largely flat and suitable for walkers using mobility aids, though city traffic, street furniture, and busy crossings can affect navigation.",
+    "safety_notes": "Stay attentive at road crossings and with limited street lighting; be mindful of cyclists and street vendors; consider a sighted guide or mobility aid as needed. Use available audio descriptions or guides, stick to well-lit, populated sections after dark, and carry emergency contact information.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "White cane or mobility aid",
+      "Braille or large-print trail map, or a smartphone with accessibility features",
+      "Audio guide or smartphone with accessibility apps",
+      "Water bottle and snacks",
+      "Weather-appropriate clothing and a light jacket",
+      "Personal emergency contact card",
+      "Sunglasses or hat for sun protection",
+      "Small flashlight or headlamp for low-light conditions"
+    ],
+    "best_seasons": "Spring through autumn (roughly March–October) offer the best conditions for this urban trail; visits are possible year-round with appropriate clothing for rain and cold.",
+    "seo": {
+      "title": "Lace Market Heritage Trail for Vision Impaired People – 1.1 km Easy Walk in Nottingham, UK",
+      "meta_description": "Accessible 1.1 km heritage trail through Nottingham's Lace Market designed for vision-impaired walkers. Learn landmarks, accessibility features, safety tips, and gear.",
+      "h1": "Lace Market Heritage Trail for Vision Impaired People – 1.1 km Easy Route in Nottingham, UK"
+    }
   }
 }

@@ -19,5 +19,27 @@
   "source": {
     "type": "osm",
     "osmId": 1084419
+  },
+  "ai": {
+    "summary": "Lake Trail is a short, easy 2 km hike in the UK that circles a tranquil lake. Suitable for beginners, families, and casual walkers, it offers gentle terrain and peaceful lakeside scenery with opportunities to spot wildlife.",
+    "terrain_summary": "The route follows a well-maintained dirt path around the lake. Expect a flat to gently undulating profile with occasional small rise and potential muddy patches after rain. Some sections may be close to the water’s edge; stay on the path and supervise children.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check forecast and daylight hours before you go. Stay on marked paths, keep away from unstable banks, and supervise children near the water. Bring water, snacks, a map or phone with offline access, a basic first aid kit, sunscreen, and insect repellent. Let someone know your plan and start time.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Backpack with water and snacks",
+      "Hat and sunglasses",
+      "Sunscreen",
+      "Insect repellent",
+      "Map, guidebook, or offline map on your phone",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn; summer is ideal for lake views, though the trail is enjoyable year-round with proper gear.",
+    "seo": {
+      "title": "Lake Trail – 2 km Easy Lakeside Walk in the UK",
+      "meta_description": "Explore the Lake Trail, a 2 km easy hike in the UK. A family-friendly lakeside loop with gentle terrain, ideal for beginners and leisurely strolls.",
+      "h1": "Lake Trail – Easy 2 km Lakeside Walk in the UK"
+    }
   }
 }

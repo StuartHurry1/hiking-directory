@@ -19,5 +19,32 @@
   "source": {
     "type": "osm",
     "osmId": 18269765
+  },
+  "ai": {
+    "summary": "A challenging 109.2 km coastal trek along the England Coast Path from Minehead to Combe Martin. Beginning on the Somerset coast and ending near Exmoor, the route blends cliff-top panoramas, sandy beaches, moorland sections, and charming coastal villages. It is a hard, multi-day hike with exposed coastal terrain and varied footing.",
+    "terrain_summary": "Expect a mix of cliff-top trails, rocky steps, grassy moorland, heath, and beach sections. Some stretches may be eroded or muddy, and tidal/shoreline crossings can require timing. Elevation includes long ascents and descents along sea cliffs with strong coastal winds. Footing ranges from compact paths to uneven rocks and exposed stretches.",
+    "safety_notes": "This is a hard coastal route with exposure to wind and weather. Check forecasts and tide times; some sections may be affected by tides or be temporarily inaccessible. Navigation can be challenging along exposed coast—carry a map and compass or a reliable GPS device. Wear sturdy, grippy footwear and be prepared for mud, rain, and sudden weather changes. Plan multi-day logistics in advance, arrange accommodation or camping, and inform someone of your itinerary. Bring sufficient water and food, a basic first aid kit, and an emergency signaling device.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Warm layers (fleece or insulating layer)",
+      "Hat and gloves",
+      "Map and compass or GPS device",
+      "Tide tables or navigation app",
+      "Water bottle or hydration system (2–3 L)",
+      "Energy-dense food and snacks",
+      "First aid kit",
+      "Emergency shelter or lightweight bivy",
+      "Headlamp with extra batteries",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles",
+      "Dry bag for valuables"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal for this coastal trek due to milder weather and longer daylight. Shoulder seasons can be pleasant, but winter hiking poses higher risk from storms, mud, and limited daylight.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Minehead to Combe Martin — Coastal Trek in the UK",
+      "meta_description": "Explore the 109.2 km King Charles III England Coast Path route from Minehead to Combe Martin. A demanding coastal hike with dramatic cliffs, beaches, and Exmoor scenery.",
+      "h1": "King Charles III England Coast Path: Minehead to Combe Martin"
+    }
   }
 }

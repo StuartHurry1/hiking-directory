@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 12798818
+  },
+  "ai": {
+    "summary": "A challenging 60 km section of the England Coast Path, running along the Lincolnshire coast from Skegness to Mablethorpe. The route combines long sandy beaches, dune systems, and occasional wooden boardwalks with exposed sea winds and occasional cliff-top sections. Most hikers complete it in 2–3 days depending on pace and breaks, while offering rewardingly diverse coastal scenery and sea views.",
+    "terrain_summary": "Predominantly coastal track with mixed surfaces: firm dunes, sandy beaches, shingle, and occasional boardwalks. Expect long stretches with little shade, strong winds, and variable footing—sand can be soft and uneven, and some sections run close to the waterline or over elevated dune ridges. Occasional seasonal erosion or weather-related closures may occur; tides can affect beach stretches, so plan timing accordingly.",
+    "safety_notes": "Plan around tides and weather; check local conditions before starting and be prepared for sudden changes in wind and spray. Some sections have sparse services; carry enough water and food, a map or GPS, and a fully charged phone. Stay on marked paths, heed warning signs, and avoid cliff-edge areas after heavy rain. Inform someone of your planned route and expected finish time. In remote stretches, have a means of signaling for help and consider a lightweight emergency bivvy or blanket.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layered clothing (waterproof jacket + insulating layer)",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Map and compass or GPS with offline maps; fully charged phone and power bank",
+      "Water (2 liters or more) and high-energy snacks",
+      "First aid kit and blister care supplies",
+      "Whistle and emergency blanket",
+      "Trekking poles (optional but helpful on soft sand or dunes)",
+      "Headlamp or flashlight with spare batteries",
+      "Dry bag or waterproof pouches for electronics",
+      "Personal identification and some cash/phone access"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–Sept) for milder weather, longer daylight, and easier navigation. Be prepared for wind and sudden weather changes year-round; winter hiking is more challenging and not recommended for casual walkers.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Skegness to Mablethorpe – 60 km Coastal Trek",
+      "meta_description": "Explore the 60 km hard coastal section of the England Coast Path from Skegness to Mablethorpe. Learn terrain, safety tips, gear, and best seasons for this Lincolnshire coast hike.",
+      "h1": "King Charles III England Coast Path: Skegness to Mablethorpe"
+    }
   }
 }

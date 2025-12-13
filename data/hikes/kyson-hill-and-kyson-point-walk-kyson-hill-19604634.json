@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19604634
+  },
+  "ai": {
+    "summary": "An 8.8 km circular hike near Kyson Hill in the UK, rated moderate. The route climbs gentle hills, passes Kyson Point with coastal views, and traverses a mix of grassy fields, hedged lanes, and coastal paths. The trail offers varied scenery and is suitable for hikers with moderate fitness and proper footwear.",
+    "terrain_summary": "Coastal and upland terrain including grassy paths, hedged lanes, and uneven tracks. Some sections may be muddy after rain, with short rocky or stony stretches near Kyson Point. Expect exposed open sections and variable footing; sturdy footwear is recommended.",
+    "safety_notes": "Check tide times and weather before starting, as coastal sections can be affected by tides and conditions. Wear sturdy waterproof footwear and bring layers; coastal winds can be cool even in mild weather. Stay on marked paths; some stretches are narrow. Bring a map or GPS device, plus a charged phone with offline access if possible, as reception may be unreliable in remote parts. Carry sufficient water and snacks, and let someone know your planned route and ETA. Be mindful of livestock and gates along the route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Map and/or GPS device (or a fully charged phone with offline maps)",
+      "Headwear and sunscreen",
+      "Small first aid kit",
+      "Waterproof bag or dry pouch for electronics",
+      "Whistle for safety"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this hike, offering milder conditions and better visibility. Winter walks are possible with proper gear and weather checks.",
+    "seo": {
+      "title": "Kyson Hill and Kyson Point Walk – 8.8 km Moderate UK Hike",
+      "meta_description": "Explore the Kyson Hill and Kyson Point Walk, an 8.8 km moderate hike in the UK. Enjoy coastal scenery, varied terrain, and practical safety and gear tips.",
+      "h1": "Kyson Hill and Kyson Point Walk"
+    }
   }
 }

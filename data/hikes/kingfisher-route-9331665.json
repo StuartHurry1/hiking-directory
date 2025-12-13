@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9331665
+  },
+  "ai": {
+    "summary": "Kingfisher Route is an 8.9 km moderate hike in the UK, offering mixed terrain and potential changeable weather. Region is currently Unknown.",
+    "terrain_summary": "The trail combines forest tracks, open fields, and occasional rocky or muddy sections with moderate elevation changes. Surfaces can be uneven and slippery when wet, so sturdy footwear and a steady pace are advised.",
+    "safety_notes": "Check the forecast and daylight hours before you go. Stay on marked paths, carry a map or offline GPS, and bring sufficient water and snacks. Wear waterproof layers and sturdy boots for UK conditions, and tell someone your planned route and ETA. If hiking near coastal areas, be aware of tides and weather changes.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and warm layers",
+      "Hydration (water or electrolyte drinks) and snacks",
+      "Map and compass or offline GPS",
+      "Fully charged phone",
+      "Basic first aid kit",
+      "Sun protection (sunscreen, hat) and lip balm",
+      "Headlamp or flashlight (for early/late light)",
+      "Light emergency blanket or space blanket (optional)"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) typically offer the best conditions in the UK, though weather can be variable any time of year.",
+    "seo": {
+      "title": "Kingfisher Route – 8.9 km Moderate Hike in the UK",
+      "meta_description": "Discover the Kingfisher Route, an 8.9 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and gear to plan a great day on the trail.",
+      "h1": "Kingfisher Route – 8.9 km Moderate Hike in the UK"
+    }
   }
 }

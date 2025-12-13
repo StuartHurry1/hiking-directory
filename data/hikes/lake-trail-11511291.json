@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 11511291
+  },
+  "ai": {
+    "summary": "Lake Trail is a gentle 5.1 km lakeside loop in the UK, perfect for families and beginner hikers. The route winds along tranquil shoreline with calm waters, open views, and opportunities to spot wildlife. The easy terrain and consistent scenery make it a relaxing outing suitable for all ages.",
+    "terrain_summary": "Terrain consists of flat to gently rolling paths, primarily compact gravel and dirt. There are a few short boardwalk sections along the water and minimal elevation gain. The surface is generally well-maintained, but can be muddy after rain and may be slick in damp conditions. Some shaded stretches; weather can affect footing.",
+    "safety_notes": "Stay on official paths and be mindful of other users (cyclists on shared sections). Wear sturdy footwear and bring layers for changing UK weather. Carry water and a small first-aid kit. Check forecasts and daylight hours; in winter, plan for reduced daylight and possible icy patches. Let someone know your plan if hiking alone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Layered clothing",
+      "Sun protection (hat & sunscreen)",
+      "Map or GPS / fully charged phone",
+      "Snack or energy bar",
+      "Small first aid kit"
+    ],
+    "best_seasons": "Spring to autumn offer the best conditions for this hike, with milder weather and longer daylight. The route can be enjoyed year-round, but winter steps may be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Lake Trail – Easy 5.1 km Lakeside Hike in the UK",
+      "meta_description": "Explore Lake Trail, an easy 5.1 km lakeside hike in the UK. Flat terrain, serene lake views, and family-friendly scenery along a gentle loop.",
+      "h1": "Lake Trail: Easy 5.1 km Lakeside Hike in the UK"
+    }
   }
 }

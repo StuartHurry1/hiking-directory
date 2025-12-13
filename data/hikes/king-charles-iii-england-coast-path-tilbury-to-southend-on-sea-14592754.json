@@ -19,5 +19,36 @@
   "source": {
     "type": "osm",
     "osmId": 14592754
+  },
+  "ai": {
+    "summary": "A challenging long-distance coastal trek along the King Charles III England Coast Path from Tilbury to Southend-on-Sea, spanning 131.7 km. The route follows sea-facing trails, estuaries and marshlands with a mix of promenades, beaches, and rural paths. Expect a hard pace, variable terrain, wind exposure and potential tidal interruptions; plan for multiple days with proper rest and navigation.",
+    "terrain_summary": "Predominantly coastal routes with shingle and sand beaches, mud flats near estuaries, wooden boardwalks, sea walls, tidal rivers and marshy sections, plus short road sections through towns. Terrain varies from soft sands and mud to firm promenades; navigation is generally straightforward, though some sections follow long estuarine rivers.",
+    "safety_notes": "Check tide times before crossing estuary sections and plan for potential delays. Wear sturdy waterproof footwear and dress in layers for wind chill. Carry a map and compass or GPS with offline backups, plus a fully charged device. Bring enough water and high-energy food; plan for longer daylight in summer and shorter daylight in winter. Inform someone of your route and estimated finish time. Be cautious on busy roads and promenades; coastal weather can change rapidly, with wind, rain or fog reducing visibility. Have a contingency plan for shelter and consider weather or tide disruption when planning multi-day legs.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and pants",
+      "Thermal or mid-layer clothing",
+      "Hat and gloves",
+      "Lightweight backpack",
+      "Water bottles or hydration system (2–3 L total)",
+      "High-energy snacks",
+      "Map and compass (and/or GPS with offline maps)",
+      "Headlamp with spare batteries",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "First aid kit",
+      "Emergency space blanket or bivvy",
+      "Lightweight trekking poles",
+      "Dry bags or pack liner",
+      "Power bank and charging cable",
+      "Personal ID and emergency contact information",
+      "Whistle"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer milder weather and longer daylight for a coast-hugging trek; winter sections can be hazardous due to storms, cold winds and shorter days.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Tilbury to Southend-on-Sea – 131.7 km Coastal Trek",
+      "meta_description": "Embark on a 131.7 km coastal hike along the King Charles III England Coast Path from Tilbury to Southend-on-Sea. A hard, scenic route across estuaries, marshes and shoreline with practical safety tips and gear recommendations.",
+      "h1": "King Charles III England Coast Path: Tilbury to Southend-on-Sea"
+    }
   }
 }

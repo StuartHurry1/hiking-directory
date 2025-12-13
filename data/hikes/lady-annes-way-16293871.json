@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 16293871
+  },
+  "ai": {
+    "summary": "Lady Anne's Way is a demanding long-distance trail in the UK, covering about 296 km. It traverses a mix of rural farmland, small villages, and varied countryside, requiring steady pacing and solid navigation from experienced hikers.",
+    "terrain_summary": "Mixed terrain: fields, hedged lanes, occasional forest tracks, and some road sections. Surfaces can be uneven with stiles and gates, and there may be upland or exposed sections depending on the route.",
+    "safety_notes": "This is a multi-day trek with long daily distances; plan rest stops and overnight stops in advance. Carry a detailed map and compass as backup to GPS, and ensure you know the route. Check weather forecasts and daylight hours before setting out; UK weather can change rapidly. Inform someone of your itinerary and expected finish times. Bring sufficient water and high-energy food; water sources can be scarce in rural sections. Wear sturdy, waterproof footwear and dress in layers; be prepared for rain, wind, and cold. Be aware of livestock, farm crossings, and road traffic on rural sections. Pack a basic first aid kit and a lightweight emergency shelter, and practice navigation and signaling in case of difficulties. Consider a guidebook or offline maps if signal is unreliable.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, waterproofs, hat, gloves)",
+      "Detailed map and compass (and GPS as backup)",
+      "Hydration system or water bottles (plan for 2–3 liters per day)",
+      "High-energy snacks and meals",
+      "Headlamp with extra batteries",
+      "Personal first aid kit",
+      "Emergency shelter or space blanket",
+      "Walking poles (optional)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Phone with power bank and offline maps"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) typically offers the best daylight and drier conditions; shoulder seasons can be rewarding but weather is more variable.",
+    "seo": {
+      "title": "Lady Anne's Way: 296 km UK Long-Distance Trail",
+      "meta_description": "Plan your hike on Lady Anne's Way, a challenging 296 km UK trail through varied countryside, suitable for experienced trekkers seeking a true endurance challenge.",
+      "h1": "Lady Anne's Way — 296 km UK Long-Distance Trail"
+    }
   }
 }

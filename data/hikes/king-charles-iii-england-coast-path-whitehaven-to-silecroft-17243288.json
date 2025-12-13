@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 17243288
+  },
+  "ai": {
+    "summary": "A challenging long-distance coastal hike along the England Coast Path from Whitehaven to Silecroft. Covering about 97.4 km, this hard route traverses rugged coastline, windy headlands, beaches, and occasional inland connectors, with varying terrain and exposure.",
+    "terrain_summary": "Primarily cliff-top and coastal paths, with sections of rocky terrain, sandy beaches, mud flats, and exposed ridges. Expect uneven footing, spray from the sea, and strong winds off the Irish Sea. Some stretches are remote with limited services, and navigation may rely on signs, maps, and GPS.",
+    "safety_notes": "This is a remote coastal route with significant exposure. Weather can change rapidly; be prepared for wind, rain, and cold even in summer. Some sections involve exposed cliff edges and long non-serviced stretches. Carry navigation tools (map, compass, and GPS), fully charged devices, and inform someone of your plans. Check tide times before beach crossings and avoid crossings at high tide or rough seas. Plan multi-day stages with bail-out options and know your limits; turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof and windproof jacket and pants",
+      "Layers: base layer, fleece or mid-layer",
+      "Map, compass, and/or GPS device",
+      "Fully charged phone with offline maps",
+      "2–3 liters of water and high-energy food",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Emergency whistle and a personal locator beacon (or satellite messenger)",
+      "First aid kit with blister care",
+      "Headlamp or flashlight with extra batteries",
+      "Trekking poles",
+      "Emergency shelter or space blanket",
+      "Extra socks and moisture-wicking layers"
+    ],
+    "best_seasons": "May to September (late spring through early autumn) generally offers the best daylight and more stable conditions, but coastal weather can still be windy or wet. Shoulder seasons can provide quieter trails with fewer crowds.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Whitehaven to Silecroft — 97.4 km Coastal Hike",
+      "meta_description": "Explore the King Charles III England Coast Path from Whitehaven to Silecroft. A 97.4 km hard coastal hike along the northwest coast of England with terrain, safety tips, and gear recommendations.",
+      "h1": "King Charles III England Coast Path: Whitehaven to Silecroft"
+    }
   }
 }

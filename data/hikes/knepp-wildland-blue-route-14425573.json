@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 14425573
+  },
+  "ai": {
+    "summary": "A 4.9 km easy circular hike on Knepp Wildland in the UK. The route traverses flat to gently undulating grassy tracks within a wildlife-focused rewilding area. Suitable for beginners and families; conditions vary with weather. Be mindful of livestock and stay on designated paths.",
+    "terrain_summary": "Predominantly grassy paths and earth tracks with flat to gently rolling terrain. Expect occasional muddy sections in wet weather and some uneven ground.",
+    "safety_notes": "Stay on marked paths and respect wildlife. Keep dogs on a leash unless otherwise posted. Be aware of livestock and seasonal grazing; do not approach animals. Check weather and wear suitable footwear; bring water and a light snack.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing (waterproof jacket and layers)",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline GPS",
+      "Snack or energy bars"
+    ],
+    "best_seasons": "Spring and summer (March–September) are ideal, though the route can be enjoyed year-round with appropriate weather gear.",
+    "seo": {
+      "title": "Knepp Wildland Blue Route - Easy 4.9 km Hike in the UK",
+      "meta_description": "Discover Knepp Wildland Blue Route, a 4.9 km easy hike in Knepp Estate, UK. Flat terrain, wildlife-rich landscape, and family-friendly trails.",
+      "h1": "Knepp Wildland Blue Route – Easy 4.9 km Hike"
+    }
   }
 }

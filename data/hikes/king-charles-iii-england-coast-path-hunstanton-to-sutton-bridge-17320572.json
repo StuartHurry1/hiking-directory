@@ -20,5 +20,30 @@
   "source": {
     "type": "osm",
     "osmId": 17320572
+  },
+  "ai": {
+    "summary": "A challenging 97 km section of the King Charles III England Coast Path, running from Hunstanton to Sutton Bridge along the Norfolk coast. Expect exposed coastal winds, long shoreline walking, tidal estuaries, marshes, and ridges. The route combines rugged cliff and ridge sections with remote stretches and limited resupply points, demanding endurance, navigation, and prudent weather planning.",
+    "terrain_summary": "Coastal and ridge terrain featuring a mix of chalk cliffs near Hunstanton, shingle and sandy beaches, long exposed shorelines, marshlands and tidal estuaries along The Wash, and elevated ridges. Expect uneven surfaces, variable footing, potential mud in low-tide areas, and strong winds off the sea. Navigation can be straightforward on markers but remote stretches require map and compass awareness.",
+    "safety_notes": "Tide times and estuary crossings can affect schedule and safety; remote sections mean limited services and mobile reception. Weather can change rapidly with strong winds and cold gusts near the coast. Wear sturdy boots, carry waterproof layers, and bring navigation tools (map/compass or GPS). Plan for daylight hours, inform someone of your route, carry a whistle, headlamp, and extra food and water. Be cautious on wet or uneven ground and near cliff edges.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Insulating layer for wind chill",
+      "Broad-brimmed hat or cap and sun protection",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone and portable power bank",
+      "Water and high-energy snacks (plus electrolyte drinks)",
+      "Whistle and emergency blanket",
+      "Headlamp or flashlight with extra batteries",
+      "Lightweight rain cover for backpack",
+      "Trekking poles (optional but helpful on uneven terrain)",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "The ideal window is late spring to early autumn (May–September) for milder weather and longer daylight; spring and autumn can offer quieter trails but remain subject to coastal winds and variable conditions. Winter hiking is possible only for well-prepared hikers due to stronger winds, shorter days, and higher exposure.",
+    "seo": {
+      "title": "King Charles III England Coast Path: Hunstanton to Sutton Bridge – 97 km Coastal Trek",
+      "meta_description": "Explore a demanding 97 km section of the England Coast Path from Hunstanton to Sutton Bridge. Coastal ridges, marshes, and remote stretches on the Norfolk coast with safety and gear tips.",
+      "h1": "King Charles III England Coast Path: Hunstanton to Sutton Bridge"
+    }
   }
 }

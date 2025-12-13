@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18714193
+  },
+  "ai": {
+    "summary": "The Lagan Trail is a short, easy 3.1 km hike in the UK suitable for beginners and families, offering a relaxed stroll along a waterway with gentle scenery and accessible terrain.",
+    "terrain_summary": "Mostly flat with gentle inclines. The trail surface is a mix of compact gravel, dirt paths, and paved sections, making it suitable for walkers of all ages and light strollers.",
+    "safety_notes": "Wear sturdy footwear and stay on the marked path. Be mindful of other trail users, especially on shared sections. Check weather and daylight hours before you go, bring water, and dress for possible changes in temperature. Supervise children at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or GPS-enabled device",
+      "Small backpack",
+      "Snack or energy bar"
+    ],
+    "best_seasons": "Spring to Autumn (March–October) with mild weather; winter visits are possible with proper clothing and precautions.",
+    "seo": {
+      "title": "Lagan Trail – Easy 3.1 km Hike in the UK",
+      "meta_description": "Explore the easy 3.1 km Lagan Trail in the UK. A family-friendly, beginner-friendly hike with gentle terrain, scenic waterway views, and practical packing and safety tips.",
+      "h1": "Lagan Trail: Easy 3.1 km Hike in the UK"
+    }
   }
 }
