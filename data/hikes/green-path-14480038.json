@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 14480038
+  },
+  "ai": {
+    "summary": "Green Path is a 2.9 km easy hike in the UK suited for beginners. The route follows a gentle, well-marked trail through accessible terrain, offering a relaxed outdoor experience with minimal elevation changes.",
+    "terrain_summary": "The trail is mostly flat or gently undulating, surfaced with compact dirt and gravel. There are short grassy sections and occasional damp patches after rain. Footing is generally good and the path is well-marked.",
+    "safety_notes": "Conditions can change quickly in the UK. Wear sturdy footwear, bring water and a light layer, and use sun protection in bright weather. Stay on the marked path, watch for mud and uneven ground after rain, and check daylight hours in shorter days. If hiking in farmland areas, follow any access rules and respect livestock.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen",
+      "Hat and sunglasses",
+      "Map or offline GPS",
+      "Phone with emergency contact",
+      "Small first-aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring, Summer and Autumn. Year-round with proper gear; winter can be challenging due to damp conditions and reduced daylight.",
+    "seo": {
+      "title": "Green Path: Easy 2.9 km Hike in the UK",
+      "meta_description": "Discover Green Path, a 2.9 km easy hike in the UK. Learn about terrain, safety tips, best seasons, and gear for a relaxed outdoor stroll.",
+      "h1": "Green Path — Easy 2.9 km Hike in the UK"
+    }
   }
 }

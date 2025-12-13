@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 13924539
+  },
+  "ai": {
+    "summary": "A scenic 11.4 km loop around Great Lumley Village in the UK, offering a moderate hike through rural lanes and charming village scenery.",
+    "terrain_summary": "Mostly rural tarmac and compact country lanes with short stretches of gravel path and grassy verges. Expect gentle undulations and occasional uneven footing on older tracks.",
+    "safety_notes": "Carry a map or GPS; wear sturdy boots; stay on marked paths; be cautious of traffic on rural lanes; check weather and daylight hours; bring water and a small first aid kit.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Light rain jacket",
+      "Map or GPS device",
+      "Snack/energy bars",
+      "Hat and sunscreen",
+      "Light backpack"
+    ],
+    "best_seasons": "Spring to autumn for best weather and trail conditions; can be tackled in winter with appropriate warm clothing and footwear.",
+    "seo": {
+      "title": "Great Lumley Village Loop — 11.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the Great Lumley Village Loop, an 11.4 km moderate hike in the UK. Enjoy rural lanes, village scenery, and a gentle physical challenge with practical safety tips.",
+      "h1": "Great Lumley Village Loop (11.4 km, Moderate)"
+    }
   }
 }

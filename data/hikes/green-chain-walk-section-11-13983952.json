@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 13983952
+  },
+  "ai": {
+    "summary": "Green Chain Walk section 11 is a long-distance, hard-rated hike in the UK. The route covers about 18.2 km and features a mix of terrain and elevation, requiring good stamina and navigation.",
+    "terrain_summary": "Expect mixed terrain across woodland tracks, open fields, and uneven paths. Footing can be rough with mud, exposed stones, and occasional steep sections. Navigation is straightforward but may require map reading in areas with limited signage.",
+    "safety_notes": "This is a hard hike of around 18.2 km; plan for 6–9 hours depending on conditions and pace. Check weather and tides if coastal segments are involved. Wear sturdy boots, bring waterproofs, extra layers, a hat and gloves, and a hat. Carry a map and compass or GPS, sufficient water (2–3 L), energy snacks, a basic first-aid kit, a whistle, and a light source. Stay on path, be mindful of uneven ground, and be prepared for sudden changes in weather; inform someone of your plans when hiking alone.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate layers",
+      "Water bottle (2–3 L)",
+      "Map and compass or GPS device",
+      "Rain gear and extra insulation",
+      "Hat, gloves if cold",
+      "Head torch or flashlight",
+      "Snack/energy bars",
+      "Small first-aid kit",
+      "Whistle",
+      "Sun protection",
+      "Emergency blanket or bivy sack",
+      "Insect repellent",
+      "Light rain cover for pack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offers longer daylight and generally milder, drier conditions, though weather can still be changeable in the UK.",
+    "seo": {
+      "title": "Green Chain Walk Section 11: 18.2 km Hard Hike in the UK",
+      "meta_description": "Discover Green Chain Walk Section 11, an 18.2 km challenging hike in the UK. Terrain overview, safety tips, recommended gear, and best seasons for this route.",
+      "h1": "Green Chain Walk Section 11 — 18.2 km Hard Hike (UK)"
+    }
   }
 }

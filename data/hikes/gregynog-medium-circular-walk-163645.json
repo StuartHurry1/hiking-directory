@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 163645
+  },
+  "ai": {
+    "summary": "Gregynog Medium Circular Walk is a 6.9 km moderate hike in the UK. The loop offers varied terrain including woodland paths, grassy tracks, and gentle climbs, suitable for walkers with moderate fitness.",
+    "terrain_summary": "Varied terrain with packed earth, grass, and some muddy sections. Expect a mix of shaded woodland paths and open fields; some gentle ascents and descents.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Bring water and a snack. Stay on marked paths, watch for uneven ground and mud, and check the forecast before setting out. In remote areas carry a map or GPS and let someone know your route. Be mindful of livestock or cyclists on shared paths.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or offline GPS",
+      "Snack or energy bars",
+      "Hat and sunscreen",
+      "Basic first aid kit",
+      "Headlamp or flashlight (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal; winter walking is possible with appropriate gear but conditions can be wet and muddy.",
+    "seo": {
+      "title": "Gregynog Medium Circular Walk (6.9 km) – Moderate Hike in the UK",
+      "meta_description": "Discover the 6.9 km Gregynog Medium Circular Walk: a moderate UK hike featuring varied terrain, scenic views, practical safety tips, and gear recommendations.",
+      "h1": "Gregynog Medium Circular Walk (6.9 km)"
+    }
   }
 }

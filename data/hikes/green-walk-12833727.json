@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12833727
+  },
+  "ai": {
+    "summary": "Green Walk is a 7.8 km moderate hike in the United Kingdom suitable for walkers with some experience, offering a mix of scenery and varied terrain.",
+    "terrain_summary": "Expect a mix of well-defined paths, grassy tracks, and occasional rocky or muddy sections. The route has moderate elevation change and can be uneven in places.",
+    "safety_notes": "Always check the weather before you go and be prepared for sudden changes in the UK. Wear sturdy boots and dress in layers. Carry a map and compass (or fully charged GPS) and do not rely solely on smartphones. Tell someone your planned route and expected return time. Bring enough water and a snack, plus a small first aid kit. If the trail is exposed or winds are high, consider sun protection and warm layers. In winter, be mindful of ice and shorter daylight; plan for shorter daylight hours and have a headtorch. If the path runs near roads or water, stay on marked paths and watch for mud and slippery rock.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers (breathable top, insulating layer, waterproof shell)",
+      "Water bottle (at least 1–2 liters) and snacks",
+      "Map and compass, or fully charged GPS device",
+      "Lightweight rain jacket and hat",
+      "Small first aid kit and whistle",
+      "Headlamp or flashlight (in case of late finish or dim conditions)",
+      "Phone with emergency numbers and power bank"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are generally best for clear trails and milder conditions. Winter hikes are possible but can be cold, muddy, and daylight hours are shorter; plan accordingly.",
+    "seo": {
+      "title": "Green Walk – 7.8 km Moderate Hike in the UK",
+      "meta_description": "Discover Green Walk, a 7.8 km moderate hike in the UK. Explore terrain, safety tips, gear suggestions, and the best seasons for this trail.",
+      "h1": "Green Walk: 7.8 km Moderate Hike in the UK"
+    }
   }
 }

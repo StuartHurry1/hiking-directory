@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 163646
+  },
+  "ai": {
+    "summary": "An 11.8 km circular walk in the UK with moderate difficulty, taking you through estate parkland, woodlands and open fields. Expect gentle ascents, well-maintained paths and scenic views around Gregynog.",
+    "terrain_summary": "Predominantly well-defined paths and tracks across estate grounds, mixed with woodland trails and short stretches of grassy fields. Surfaces range from compact gravel to damp earth; can be muddy after rain. Elevation changes are gradual with occasional steps.",
+    "safety_notes": "Check weather and daylight hours before you set out. Wear sturdy waterproof footwear and bring a layered outfit. Stay on marked paths and respect private land. Carry a map or GPS, enough water and some snacks. Have a small first aid kit and a phone with emergency numbers. Be aware of livestock and ticks in woodland; be prepared for variable UK conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Water and snacks",
+      "Waterproof jacket and layers",
+      "Map or GPS device",
+      "Small first aid kit",
+      "Sunscreen and hat",
+      "Headlamp or flashlight (in case of late return)",
+      "Whistle",
+      "Comfortable backpack",
+      "ID and payment method"
+    ],
+    "best_seasons": "Spring to autumn; year-round hiking is possible but winter conditions can be more challenging.",
+    "seo": {
+      "title": "Gregynog Long Circular Walk – 11.8 km Moderate Hike in the UK",
+      "meta_description": "Explore the 11.8 km Gregynog Long Circular Walk in the UK. A moderate, scenic loop through estate parkland and woodlands with gentle hills.",
+      "h1": "Gregynog Long Circular Walk (11.8 km)"
+    }
   }
 }

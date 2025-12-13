@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 16123552
+  },
+  "ai": {
+    "summary": "A hard 18.3 km hike in the UK that links the iconic Grey Mare's Tail waterfall with Loch Skeen. The route blends long, exposed ascents with rough, rocky paths and loose scree, delivering spectacular highland scenery. It demands good fitness, navigation, and proper gear, and weather can be highly variable.",
+    "terrain_summary": "From the car park you face long climbs over rough tracks and moorland, followed by steep rocky sections and loose scree as you near Loch Skeen. The upper sections are exposed with uneven footing, boulder fields, and damp ground near the loch. Conditions can be windy with rapidly changing visibility; mud, wet rocks, and occasional scrambling are common features.",
+    "safety_notes": "Plan for changeable Scottish mountain weather: check forecasts, carry a map and compass (and GPS as backup), and tell someone your route and timings. Wear sturdy boots and layers, bring waterproofs, food, water, and a basic first aid kit. Stay on marked paths where possible, avoid cliff edges and loose scree, start early to ensure daylight, and be prepared to turn back in adverse conditions or if fatigue sets in.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Warm mid-layer (fleece or similar)",
+      "Hat and gloves",
+      "Map and compass (and optional GPS)",
+      "Headlamp or torch",
+      "Backpack 20–30 L with rain cover",
+      "Water and method to purify or filter (or extra water)",
+      "High-energy snacks and a light meal",
+      "Basic first aid kit",
+      "Emergency bivvy or space blanket",
+      "Trekking poles (optional but helpful)",
+      "Sunglasses and sunscreen",
+      "Winter add-ons: microspikes and ice axe if conditions require"
+    ],
+    "best_seasons": "Spring to autumn (roughly May to September) offer the best weather and daylight; winter hikes are possible but require technical gear and mountaineering experience.",
+    "seo": {
+      "title": "Grey Mare's Tail and Loch Skeen Trail – 18.3 km Hard Hike in the UK",
+      "meta_description": "Tackle the 18.3 km Grey Mare's Tail and Loch Skeen Trail in Scotland. A demanding hike featuring the waterfall and high loch, with terrain notes, safety tips, and gear recommendations.",
+      "h1": "Grey Mare's Tail and Loch Skeen Trail"
+    }
   }
 }

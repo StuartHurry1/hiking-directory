@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18196191
+  },
+  "ai": {
+    "summary": "Gresham Heritage Walk is a 5 km easy route that highlights local heritage sites while keeping to gentle paths. Suitable for families and beginners, it offers a relaxed pace, scenic views, and opportunities to learn about the area’s history along the way.",
+    "terrain_summary": "The route combines mostly flat, well-maintained pavements with some gentle gradients and a few cobbled or uneven sections. Expect urban streets, park paths, and a riverside promenade in places. Shade is available in parks, but sections along roads may be exposed.",
+    "safety_notes": "Wear comfortable walking shoes and be mindful of traffic on shared paths. Stay on designated routes, watch for cyclists on multi-use paths, and cross streets at pedestrian crossings. In UK weather can change quickly, so bring a light layer and check the forecast. If walking with kids or pets, keep them within sight at all times.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat or sunglasses and sunscreen)",
+      "Map or offline navigation (or a location-tracking app)",
+      "Phone with emergency contacts and battery backup",
+      "Small backpack or waist pack for essentials"
+    ],
+    "best_seasons": "Spring, Summer and Autumn (roughly March to October) are typically best in the UK, avoiding deep winter conditions.",
+    "seo": {
+      "title": "Gresham Heritage Walk – Easy 5 km Historic Route in the UK",
+      "meta_description": "Explore the Gresham Heritage Walk, a gentle 5 km route through historic sites in the UK. Easy terrain, family-friendly pacing, practical safety tips, and gear suggestions.",
+      "h1": "Gresham Heritage Walk: Easy 5 km Route"
+    }
   }
 }

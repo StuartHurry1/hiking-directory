@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 19557914
+  },
+  "ai": {
+    "summary": "A challenging 15.1 km circular hike in the UK that links Greendale with Middle Fell. Expect varied terrain, including rough moorland, grassy ascents and uneven paths, with several steep sections and potential boggy patches. Best suited to experienced hikers with good navigation skills and fitness.",
+    "terrain_summary": "Mostly unsurfaced trails over rough moorland and rocky ground. Steep ascents and descents, with uneven footing and occasional boggy sections after rain. Gates and stiles may be encountered; weather can change quickly on exposed upland terrain.",
+    "safety_notes": "Plan for a full day, check weather and daylight; wear sturdy boots and layered clothing; carry map and compass (or trusted GPS) and know how to use them. Bring enough water and high-energy snacks, a waterproof jacket, hat and gloves, a small first-aid kit, and a whistle. Inform someone of your route and expected return. Be prepared for sudden weather changes, and turn back if visibility or footing becomes unsafe.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof outer layer",
+      "Insulating mid-layer",
+      "Map and compass (or GPS) and fully charged phone",
+      "2–3 litres of water and high-energy snacks",
+      "Hat and gloves (seasonal)",
+      "Rucksac with rain cover",
+      "Small first aid kit",
+      "Headtorch with spare batteries",
+      "Emergency whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional)",
+      "Gaiters (optional for boggy sections)"
+    ],
+    "best_seasons": "Spring to autumn (March–October); winter hiking is possible for experienced walkers with appropriate gear.",
+    "seo": {
+      "title": "Greendale and Middle Fell Walk – 15.1 km Hard Hike in the UK",
+      "meta_description": "Tackle the 15.1 km Greendale and Middle Fell Walk. A challenging circular route featuring rugged moorland, steep climbs and panoramic views—best for experienced walkers.",
+      "h1": "Greendale and Middle Fell Walk – 15.1 km, Hard Route"
+    }
   }
 }

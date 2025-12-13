@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14500447
+  },
+  "ai": {
+    "summary": "A brief, easy 0.2 km section of the Green Chain Walk in the UK. Ideal for a quick, relaxed stroll to enjoy local scenery and a touch of outdoor time.",
+    "terrain_summary": "Predominantly flat and well-surfaced, likely a mix of pavement and compact trail. May pass through parkland or urban fringe areas.",
+    "safety_notes": "Stay aware of other walkers and cyclists on shared paths. Watch for changes in surface, weather, and footing. Keep to the designated path, bring a charged phone, and dress for UK conditions. Keep dogs under control and hydrated if temperatures rise.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate light clothing",
+      "Water bottle",
+      "Phone with map or GPS",
+      "Rain jacket or compact umbrella",
+      "Hat and sunscreen (for sunny days)",
+      "Light snack (optional)"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the most comfortable temperatures; summer is fine but can be busier; winter days are shorter and wetter.",
+    "seo": {
+      "title": "Green Chain Walk Section 1 – 0.2 km Easy UK Trail",
+      "meta_description": "Explore a short 0.2 km section of the Green Chain Walk in the UK. An easy, scenic stroll suitable for all ages along a flat, well-maintained route.",
+      "h1": "Green Chain Walk – Section 1 (0.2 km)"
+    }
   }
 }

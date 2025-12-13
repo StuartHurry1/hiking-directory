@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10165856
+  },
+  "ai": {
+    "summary": "Green Trail is a short, easy hike in the UK, about 1.8 km round trip. The trail is flat and well-marked, making it suitable for families, beginners, and casual walkers.",
+    "terrain_summary": "Generally flat with a well-maintained path, light gravel in sections, and occasional grassy verges. Some sections may be muddy after rain.",
+    "safety_notes": "Check the forecast before you go, wear sturdy shoes, stay on marked trails, and bring water. Be prepared for sudden UK weather changes and shorter daylight hours in winter; tell someone your plan and carry a phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weatherproof jacket (waterproof if rain is expected)",
+      "Water and a light snack",
+      "Map or fully charged smartphone with offline map",
+      "Sun protection (hat and sunscreen)",
+      "Small first-aid kit",
+      "Whistle for emergencies",
+      "Extra layers for cooler weather"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); the trail is typically most comfortable and dry during these months, though it can be walked year-round with suitable footwear.",
+    "seo": {
+      "title": "Green Trail – 1.8 km Easy Hike in the UK",
+      "meta_description": "Discover a short, easy 1.8 km hike on the Green Trail in the UK. Flat, well-marked, and family-friendly.",
+      "h1": "Green Trail – 1.8 km Easy Hike in the UK"
+    }
   }
 }

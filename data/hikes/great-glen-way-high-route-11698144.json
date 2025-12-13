@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11698144
+  },
+  "ai": {
+    "summary": "A hard, 18.4 km section of the Great Glen Way High Route in the UK, offering rugged terrain, significant elevation changes, and remote scenery. Geared toward experienced hikers with solid navigation and fitness.",
+    "terrain_summary": "Expect varied terrain: steep ascents and descents, uneven paths, rocky outcrops, and wet or boggy sections. Some parts may be exposed and weather can change rapidly, so nav skills and good footwear are essential.",
+    "safety_notes": "This is a remote, hard segment with variable weather. Carry a map and compass (don’t rely on GPS alone). Wear sturdy, waterproof footwear and layered clothing. Bring extra food and water; check the forecast and daylight hours. Tell someone your plan and expected return. Be prepared for sudden weather changes, poor visibility, and challenging terrain; carry a whistle, first aid kit, and emergency shelter. If in doubt, turn back or seek local advice.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and insulating layers",
+      "Map, compass, and/or GPS",
+      "Water and high-energy snacks",
+      "First aid kit and any personal medications",
+      "Headlamp with spare batteries",
+      "Emergency blanket or bivy sack",
+      "Whistle and multitool",
+      "Trekking poles",
+      "Rain pants and extra socks",
+      "Lightweight shelter or space blanket (optional)",
+      "Waterproof backpack cover"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) is best; winter conditions can be severe and routes may be more challenging.",
+    "seo": {
+      "title": "Great Glen Way High Route – 18.4 km Hard Hike in the UK",
+      "meta_description": "Explore a challenging 18.4 km segment of the Great Glen Way High Route in the UK. Rugged terrain, remote scenery, safety tips, and essential gear for experienced hikers.",
+      "h1": "Great Glen Way High Route – 18.4 km Hard Hike in the UK"
+    }
   }
 }

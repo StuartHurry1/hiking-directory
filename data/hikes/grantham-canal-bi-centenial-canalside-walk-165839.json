@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 165839
+  },
+  "ai": {
+    "summary": "A gentle 3.7 km stroll along the Grantham Canal’s canalside towpath. Classified as an easy route, it offers flat terrain and tranquil water views, suitable for families, casual walkers, and beginners exploring the UK.",
+    "terrain_summary": "Flat, well-maintained towpath along the canal. Surface is mostly compacted gravel and packed earth; occasional sections may be grassy or uneven near locks. Mostly level with some shaded stretches along the route.",
+    "safety_notes": "Watch for cyclists and other users on narrow sections. Stay away from the canal edge and supervise children. Wear sturdy footwear and bring water. Check for weather-related closures or muddy conditions after rain; mobile reception may be limited in rural parts.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Hat and sunscreen",
+      "Small backpack for essentials",
+      "Phone with maps or offline guide"
+    ],
+    "best_seasons": "Spring to autumn; generally the most pleasant for scenery and weather, though the route is walkable year-round with appropriate clothing.",
+    "seo": {
+      "title": "Grantham Canal Bi-Centenial Canalside Walk – Easy 3.7 km Canal Walk in the UK",
+      "meta_description": "Explore the easy 3.7 km Grantham Canal Bi-Centenial Canalside Walk in the UK. Flat towpath, serene water views, and beginner-friendly scenery—perfect for a relaxed day out.",
+      "h1": "Grantham Canal Bi-Centenial Canalside Walk"
+    }
   }
 }

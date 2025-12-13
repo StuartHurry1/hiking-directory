@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 16202083
+  },
+  "ai": {
+    "summary": "A scenic 8.4 km circular hike through Great Wood at Felbrigg, featuring woodland trails and lakeside views. Moderate difficulty makes it suitable for most walkers seeking a peaceful lakeside experience in the UK.",
+    "terrain_summary": "Predominantly well-marked woodland paths with a mix of compact soil, exposed roots, and occasional muddy patches. Sections near water can be damp or slippery; there are gentle to moderate inclines and some boardwalk sections near the lakes.",
+    "safety_notes": "Check the weather forecast before you go; trails can be muddy and slippery after rain. Wear sturdy waterproof boots and carry a waterproof layer. Stay on marked paths and supervise children and pets near water. Ticks can be present in woodland areas—check after your walk. Bring water, a small first-aid kit, a charged phone, and know your route; inform someone of your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate outer layer (waterproof jacket and trousers)",
+      "Lightweight backpack with water and snacks",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Small first-aid kit and emergency whistle",
+      "Walking poles (optional)",
+      "Headtorch (in case you’re out near dusk)"
+    ],
+    "best_seasons": "Spring to autumn for the best conditions and lake views; winter can be muddy with shorter daylight hours.",
+    "seo": {
+      "title": "Great Wood Walk, Felbrigg – 8.4 km Moderate Lakeside Hike in the UK",
+      "meta_description": "Explore the Great Wood Walk at Felbrigg: an 8.4 km circular hike through woodland with lakes. Practical tips, gear ideas, and best seasons for a UK lakeside stroll.",
+      "h1": "Great Wood Walk, Felbrigg – 8.4 km Lakeside Woodland Hike"
+    }
   }
 }

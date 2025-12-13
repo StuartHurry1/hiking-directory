@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 9749720
+  },
+  "ai": {
+    "summary": "An easy 2.4 km coastal hike on the Green Trail at Giant's Causeway in Northern Ireland. The route offers sea views, basalt column scenery, and a gentle, well-marked path suitable for most ages. Plan for about 1–1.5 hours and check tide and weather conditions before you go.",
+    "terrain_summary": "Coastal path over uneven ground with basalt columns, compact gravel, and occasional steps. Portions are exposed along the headland; trails can be slippery when wet and near sea spray. Wear sturdy footwear and stay mindful of footing.",
+    "safety_notes": "Despite the easy rating, the trail runs along cliff edges and across uneven basalt surfaces. Wear sturdy shoes with good grip; stay on marked paths; avoid wet, mossy rocks. Check tide tables and weather forecast; avoid exposed sections in strong winds or high seas. Bring water, sun protection, and a small first aid kit. In an emergency, call UK emergency services (999).",
+    "recommended_gear": [
+      "Sturdy hiking shoes with good grip",
+      "Water bottle",
+      "Windproof/water-resistant jacket",
+      "Hat and sunglasses",
+      "Lightweight backpack",
+      "Sunscreen",
+      "Basic first aid kit",
+      "Map or offline GPS / charged phone"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) typically offers the best conditions, with May–September often providing milder weather and longer daylight.",
+    "seo": {
+      "title": "Green Trail, Giant's Causeway – Easy 2.4 km Coastal Hike in the UK",
+      "meta_description": "Discover the Green Trail at Giant's Causeway, a short and easy 2.4 km coastal hike in Northern Ireland. Learn about terrain, safety tips, best seasons, and gear.",
+      "h1": "Green Trail, Giant's Causeway – Easy 2.4 km Coastal Hike"
+    }
   }
 }

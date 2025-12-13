@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 18035539
+  },
+  "ai": {
+    "summary": "Greenbank Trail is a short, easy 2.7 km hike in the UK, suitable for beginners and families. The route follows a gentle, well-marked path with mild elevation and scenic surroundings. Region is currently listed as Unknown.",
+    "terrain_summary": "Mostly flat to gently rolling terrain with a well-defined path. Surfaces include compacted trail and some grass edges; conditions can be muddy after rain.",
+    "safety_notes": "Check local conditions before you go. Wear sturdy footwear and weather-appropriate clothing. Stay on marked paths and follow signs. Bring water, snacks, and a small first-aid kit. Let someone know your plans and expected return time. Be mindful of other walkers and any cyclists on shared sections. If weather deteriorates, turn back and seek shelter if needed.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water and light snacks",
+      "Weather-appropriate clothing (jacket, layers)",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Light waterproof layer",
+      "Map or GPS device / fully charged phone",
+      "Small backpack",
+      "Basic first-aid items"
+    ],
+    "best_seasons": "Spring to autumn is ideal; winter can be muddy and daylight hours are shorter.",
+    "seo": {
+      "title": "Greenbank Trail - Easy 2.7 km Hike in the UK",
+      "meta_description": "Discover Greenbank Trail, a gentle 2.7 km hike in the UK. Easy terrain for beginners and families, with safety tips, gear suggestions, and the best seasons.",
+      "h1": "Greenbank Trail: Easy 2.7 km UK Hike"
+    }
   }
 }

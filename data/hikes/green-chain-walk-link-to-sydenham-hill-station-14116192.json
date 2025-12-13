@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 14116192
+  },
+  "ai": {
+    "summary": "A compact, easy 0.5 km section of London's Green Chain Walk near Sydenham Hill station. This short urban-green route offers a pleasant stroll through parks and green corridors, suitable for all ages and fitness levels.",
+    "terrain_summary": "Mostly paved paths and well-maintained park trails with flats and gentle gradients. Urban greenery, with occasional grass sections and curb crossings typical of parkland in south London.",
+    "safety_notes": "Stay on marked paths and watch for other pedestrians and cyclists. Cross roads at designated crossings and follow signals. Be mindful of traffic when accessing entrances from streets. Check the weather and daylight hours, and carry a mobile phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water",
+      "Light waterproof jacket (seasonal)",
+      "Phone with maps or trail app",
+      "Sunscreen and hat (summer)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant walks in spring and autumn when temperatures are mild and park surroundings are at their best.",
+    "seo": {
+      "title": "Green Chain Walk: 0.5 km Easy Segment near Sydenham Hill, UK",
+      "meta_description": "Explore a short and easy 0.5 km segment of London's Green Chain Walk near Sydenham Hill station. An urban-green stroll through parks and greenways in the UK.",
+      "h1": "Green Chain Walk: 0.5 km Easy Segment Near Sydenham Hill"
+    }
   }
 }

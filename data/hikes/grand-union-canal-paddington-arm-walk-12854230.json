@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 12854230
+  },
+  "ai": {
+    "summary": "A long-distance hike along the Grand Union Canal Paddington Arm in the UK, spanning about 34.1 km. The route runs mainly along canal towpaths with a mix of urban and rural scenery, historic locks, and period features. The hike is demanding due to distance and the need for good planning, but the flat terrain makes it feasible for well-prepared walkers comfortable with long days.",
+    "terrain_summary": "Predominantly flat canal towpath. Surfaces are mostly compact gravel or tarmac with some uneven sections and occasional muddy patches after rain. Expect a mix of urban street sections and quieter rural stretches; elevation changes occur mainly at locks and where the towpath detours away from the water.",
+    "safety_notes": "Plan around daylight hours, check for towpath closures or maintenance, and be mindful of weather and water safety along the canal edge. Wear sturdy boots, carry water and snacks, a map or offline navigation app, a fully charged phone, and a small first-aid kit. Tell someone your route and expected finish time. Be aware of cyclists and other canal users; keep to the left and announce your presence. In urban sections, stay alert to traffic and crowded pavements; in wet conditions, the path can be slippery.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Lightweight waterproof jacket",
+      "Layered clothing for changing weather",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Map, compass or offline navigation app",
+      "Fully charged phone and power bank",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Small first-aid kit",
+      "Lightweight backpack",
+      "Headlamp or flashlight",
+      "Optional trekking poles",
+      "Whistle or signaling device"
+    ],
+    "best_seasons": "Spring to Autumn (roughly April to October); feasible year-round with suitable gear and daylight considerations.",
+    "seo": {
+      "title": "Grand Union Canal Paddington Arm Walk – 34.1 km UK long-distance hike",
+      "meta_description": "Discover the 34.1 km Grand Union Canal Paddington Arm Walk in the UK. Flat towpath, historic locks, mixed urban and rural scenery, safety tips, gear, and best seasons.",
+      "h1": "Grand Union Canal (Paddington Arm) Walk"
+    }
   }
 }

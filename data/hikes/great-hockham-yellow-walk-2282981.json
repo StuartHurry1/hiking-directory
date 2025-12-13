@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2282981
+  },
+  "ai": {
+    "summary": "A moderate 8.6 km countryside hike in the UK, offering a mix of farmland paths and quiet woodland. Suitable for walkers with some experience seeking a varied, pleasant day outdoors.",
+    "terrain_summary": "Predominantly firm footpaths and minor tracks with a mix of open fields and shaded woodland. Expect occasional mud after rain, gentle ascents, and several gates or stiles to negotiate.",
+    "safety_notes": "Weather in the UK can change quickly. Wear sturdy walking boots and bring waterproof clothing. Stay aware of livestock and gates on farmland, and take care on uneven surfaces. Carry water, snacks, a map or GPS, and a phone with emergency numbers. Let someone know your plans and return time.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Waterproof jacket and extra layer",
+      "Water and snacks",
+      "Map or GPS device",
+      "Hat and sunscreen",
+      "Comfortable clothing suitable for layering",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring to autumn for milder weather and longer daylight; winters can be muddy with shorter days.",
+    "seo": {
+      "title": "Great Hockham Yellow Walk – 8.6 km Moderate UK Hike",
+      "meta_description": "Discover the 8.6 km Great Hockham Yellow Walk in the UK. Learn about terrain, safety tips, best seasons, and gear for a smooth moderate hike.",
+      "h1": "Great Hockham Yellow Walk (8.6 km) – Moderate UK Hike"
+    }
   }
 }

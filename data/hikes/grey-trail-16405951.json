@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16405951
+  },
+  "ai": {
+    "summary": "Grey Trail is a short, easy 4.3 km hike in the UK, ideal for beginners, families, or a relaxed outdoor outing. The route features mostly flat to gently rolling terrain with hedge-lined sections and occasional open views.",
+    "terrain_summary": "The path is well-defined and on mostly firm surfaces, including compact dirt and gravel with a few grassy stretches. Expect gentle ascents and descents and occasional mud after wet weather. The route is suitable for walkers of all ages and does not require technical climbing.",
+    "safety_notes": "Check local weather and daylight hours before you go. Wear sturdy, waterproof footwear and bring a weather-appropriate layer. Stay on the marked path and follow all signs. Expect occasional mud after rain and watch for uneven ground. Keep children and dogs close and observe any leash or access rules. Carry a map or GPS and a charged phone, and tell someone your planned route if you’re hiking alone.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Snacks",
+      "Map or offline GPS",
+      "Sunscreen and hat",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; the trail is often quieter in shoulder seasons. Winter hikes are possible but can be muddy or slippery; check conditions and dress accordingly.",
+    "seo": {
+      "title": "Grey Trail Hike | 4.3 km Easy Trail in the UK",
+      "meta_description": "Explore Grey Trail, a 4.3 km easy hike in the UK. Perfect for beginners and families, with flat to gentle terrain, hedge-lined sections, and simple navigation.",
+      "h1": "Grey Trail – Easy 4.3 km Hike in the UK"
+    }
   }
 }

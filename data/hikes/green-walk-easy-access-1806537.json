@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 1806537
+  },
+  "ai": {
+    "summary": "Green Walk (Easy Access) is a 5 km low-difficulty hike in the United Kingdom, designed for relaxed walkers and families. The route features gentle gradients and accessible paths, making it suitable for a wide range of fitness levels.",
+    "terrain_summary": "The terrain is flat to gently undulating, with mostly paved or compacted gravel paths. Expect occasional grassy or muddy patches after rain; surfaces are generally smooth enough for strollers and most wheelchairs, but check local accessibility details.",
+    "safety_notes": "Plan for weather and daylight hours. Stay on marked paths, watch for uneven surfaces and slippery sections after rain, and carry a light rain layer. Bring water, a small first aid item, and let someone know your route and expected return. In winter, daylight is shorter and footwear traction is important.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Weather-appropriate clothing in layers (including waterproof jacket)",
+      "Small backpack with essentials",
+      "Water bottle",
+      "Sunscreen and hat (for sun exposure)",
+      "Map or offline GPS device",
+      "Mobile phone with emergency contacts"
+    ],
+    "best_seasons": "Spring, Summer, and Autumn are ideal; the hike is generally accessible year-round with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Green Walk (Easy Access) – 5 km Easy Hike in the UK",
+      "meta_description": "Explore Green Walk (Easy Access), a gentle 5 km hike in the United Kingdom. Learn about terrain, safety tips, and gear for a family-friendly walking experience.",
+      "h1": "Green Walk (Easy Access) – 5 km Easy Hike in the UK"
+    }
   }
 }

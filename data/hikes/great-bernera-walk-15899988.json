@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 15899988
+  },
+  "ai": {
+    "summary": "A 14.9 km moderate-grade coastal hike in the UK, following the Great Bernera area. The route features coastal paths, grassy tracks, and uneven ground, offering sea views and varied scenery suitable for hikers with moderate fitness.",
+    "terrain_summary": "Mixed terrain including coastal seawalls and paths, grassy and rocky sections, and some uneven ground. Expect mud in damp conditions and occasional steps or rocky patches along the route.",
+    "safety_notes": "Check weather forecasts and tidal conditions before starting. Wear sturdy, waterproof footwear and dress in layers. Carry a map and compass or GPS, plus a fully charged phone. Bring enough water and snacks, and inform someone of your plans. Be prepared for limited mobile reception in some parts of the UK coastal area.",
+    "recommended_gear": [
+      "Water bottle (2L or more)",
+      "Layered clothing with a waterproof jacket",
+      "Sturdy hiking boots or shoes with good grip",
+      "Map and compass or GPS device",
+      "Snack/energy foods (plus a small lunch if needed)",
+      "Basic first aid kit",
+      "Headlamp or flashlight (optional for late starts)",
+      "Whistle and mobile phone with offline maps",
+      "Rain cover or waterproof backpack liner",
+      "Sun protection (hat, sunscreen)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longer daylight and milder weather, while being prepared for wind and rain year-round.",
+    "seo": {
+      "title": "Great Bernera Walk – 14.9 km Moderate Coastal Hike in the UK",
+      "meta_description": "Explore the 14.9 km Great Bernera Walk in the UK. A moderate coastal hike with varied terrain, safety tips, gear suggestions, and the best seasons for hiking.",
+      "h1": "Great Bernera Walk"
+    }
   }
 }

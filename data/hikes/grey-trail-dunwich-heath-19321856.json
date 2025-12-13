@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19321856
+  },
+  "ai": {
+    "summary": "A scenic 4 km easy hike on the Grey Trail at Dunwich Heath, UK. A family-friendly loop through open heathland with distant sea views and birdlife.",
+    "terrain_summary": "Flat to gently undulating grassy and gravel paths across open heath. Expect sandy patches and occasional wet ground after rain; sturdy footwear and a light layer are advisable.",
+    "safety_notes": "Check weather and coastal conditions before hiking; winds and fog can reduce visibility. Stay on marked paths to protect delicate heathland and wildlife. Wear sturdy shoes and bring a waterproof jacket. The 4 km route can take 1.5–2 hours at a relaxed pace; daylight hours vary by season. If near the coast, be mindful of tides and soft sand; carry water, a map or GPS, and a charged phone, and let someone know your planned return time.",
+    "recommended_gear": [
+      "Sturdy hiking shoes",
+      "Lightweight waterproof jacket",
+      "Water and snacks",
+      "Sun protection (hat and sunscreen)",
+      "Map or GPS device",
+      "Basic first aid kit",
+      "Phone with portable charger",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Late spring to early autumn (April–October) for mild weather and better trail conditions; winter visits are more likely to be windy, cold and muddy.",
+    "seo": {
+      "title": "Grey Trail, Dunwich Heath – 4 km Easy Hike in the UK",
+      "meta_description": "Discover the 4 km Grey Trail at Dunwich Heath, UK. An easy, family-friendly hike through open heathland with practical safety tips and gear recommendations.",
+      "h1": "Grey Trail, Dunwich Heath – Easy 4 km Hike"
+    }
   }
 }

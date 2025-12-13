@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 163644
+  },
+  "ai": {
+    "summary": "A short, easy 2.4 km circular walk near Gregynog in the UK. The route is gentle and suitable for beginners and families, offering rural scenery and a relaxed pace.",
+    "terrain_summary": "Mostly flat to gently rolling paths along well-maintained tracks, with small grassy sections and possible mud after rain. Some sections may be uneven underfoot.",
+    "safety_notes": "Check the weather and wear sturdy shoes. Stick to public rights of way and be mindful of livestock on rural tracks. Bring water and a light layer; keep children and dogs under supervision and on short leashes where required.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Hat and sunscreen for sunny days",
+      "Map or a charged phone with offline map"
+    ],
+    "best_seasons": "All year, with spring and autumn offering the most comfortable temperatures. Summer provides longer daylight; winter can be damp and chilly.",
+    "seo": {
+      "title": "Gregynog Short Circular Walk – Easy 2.4 km in the UK",
+      "meta_description": "Discover Gregynog Short Circular Walk, a gentle 2.4 km loop ideal for beginners and families in the UK. Flat terrain, rural scenery, and a relaxed outdoor experience.",
+      "h1": "Gregynog Short Circular Walk (2.4 km)"
+    }
   }
 }

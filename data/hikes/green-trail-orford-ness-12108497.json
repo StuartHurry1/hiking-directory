@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 12108497
+  },
+  "ai": {
+    "summary": "A moderate 13.4 km coastal hike along the Green Trail at Orford Ness, exposing you to sweeping shingle beaches, dune systems, and salt marshes with expansive coastal views.",
+    "terrain_summary": "The route combines firm coastal paths, dune grasslands, and occasional boardwalks through marshy areas, with long exposed stretches over shingle and open shorelines. Expect uneven sections, wind exposure, and seasonal mud in low-lying zones.",
+    "safety_notes": "Check access and permission requirements for Orford Ness, as parts of the reserve may be restricted. Coastal routes can be weather- and tide-dependent; always check forecast and tide times before starting. Wear sturdy walking boots, dress in layers, and bring a windproof jacket. Carry enough water and snacks, a map or GPS, and a charged phone (with offline maps). Stay on marked paths to protect wildlife and habitats, and watch for fragile vegetation and nesting birds. Be mindful of wind, spray, and sun exposure; in autumn and winter, conditions can be harsher. If unsure, consider a guided walk or local advice.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Windproof and waterproof jacket",
+      "Layered clothing for changing conditions",
+      "Water bottle (1–2 L) and high-energy snacks",
+      "Map and/or GPS device or a fully charged phone with offline maps",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Small first aid kit and whistle",
+      "Emergency blanket or warm layers for wind chill",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring through autumn (March–October) for the most comfortable conditions and daylight; winter can be windy and harsher, with stormier seas and shorter days.",
+    "seo": {
+      "title": "Green Trail, Orford Ness – 13.4 km Coastal Hike in the UK",
+      "meta_description": "Explore the 13.4 km Green Trail at Orford Ness, UK. A moderate coastal hike across dunes, shingle, and salt marsh with safety tips and gear recommendations.",
+      "h1": "Green Trail, Orford Ness – 13.4 km Coastal Hike"
+    }
   }
 }

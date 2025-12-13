@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 19947105
+  },
+  "ai": {
+    "summary": "An easy 5 km loop from Grasmere Village to Allan Bank and back, offering lakeside scenery, woodland paths, and gentle ascents. Ideal for families and casual walkers seeking Lakeland views without difficult terrain.",
+    "terrain_summary": "Mix of grassy field paths, compact stone tracks, and woodland lanes. Generally gentle gradients with occasional steps and a few muddy or uneven sections, especially after rain. Expect open viewpoints toward Grasmere and the surrounding fells.",
+    "safety_notes": "Weather in the Lake District can change rapidly. Wear sturdy footwear, stay on marked paths, and bring waterproofs. Be mindful of livestock in field sections, check your map and phone battery, and start early in winter daylight.",
+    "recommended_gear": [
+      "Sturdy walking boots",
+      "Waterproof jacket and insulating layers",
+      "Water and some snacks",
+      "Map, compass or GPS device",
+      "Lightweight backpack for essentials",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses (summer)"
+    ],
+    "best_seasons": "Spring, Summer and Autumn; year-round with proper gear and caution in winter.",
+    "seo": {
+      "title": "Grasmere Village to Allan Bank Loop — Easy 5 km Lakeside Hike in the Lake District",
+      "meta_description": "Explore the Grasmere Village to Allan Bank Loop, a gentle 5 km hike through lakeside scenery and woodland in the Lake District. Perfect for families and casual walkers.",
+      "h1": "Grasmere Village to Allan Bank Loop"
+    }
   }
 }

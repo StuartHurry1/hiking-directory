@@ -17,5 +17,37 @@
   "source": {
     "type": "osm",
     "osmId": 3212473
+  },
+  "ai": {
+    "summary": "The Greenwich Meridian Trail is a long-distance hike that follows the Prime Meridian across the United Kingdom, covering approximately 1163.8 km. Starting near Greenwich, the route traverses a diverse tapestry of landscapes, from urban cores to rural countryside, historic towns, and coastal patches, presenting a serious challenge for experienced hikers seeking a through-hike along the line of longitude.",
+    "terrain_summary": "Expect a mix of terrains: city streets and riverside paths in urban sections, quiet lanes through rolling farmland, moorland and woodland in upland areas, and occasional coastal or riverside trails. Elevation varies with gentle gradients in some stretches and steeper segments in others, with seasonal weather influences adding mud and damp conditions in many parts.",
+    "safety_notes": "Prepare for a long through-hike with variable weather. Use a detailed map and compass or GPS, plan resupply points, and inform someone of your itinerary. Wear sturdy boots and waterproof clothing, bring layers, and carry a first aid kit, headlamp, whistle, and emergency bivvy. Stay aware of traffic on road sections, watch for slip hazards, and be mindful of weather changes, daylight hours, and potential river or coastal exposure.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and breathable jacket",
+      "Mid-layer fleece or insulating layer",
+      "Thermal base layers",
+      "Map and compass (with knowledge to navigate) or GPS device",
+      "Headlamp with extra batteries",
+      "Water bottles or hydration system plus water filter or purification tablets",
+      "High-energy food and snacks for multi-day sections",
+      "Lightweight tent or bivy sack (optional for wild camping areas)",
+      "Emergency blanket or bivy sack",
+      "First aid kit and blister care",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Rain cover for backpack",
+      "Trekking poles",
+      "Multi-tool or knives",
+      "Whistle and personal locator beacon (optional)",
+      "Mobile power bank and charging cable",
+      "Plastic bags for wet gear and trash",
+      "Extra socks and spare clothes"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) when daylight is longer and temperatures are milder; winter hiking is more challenging due to short days and weather.",
+    "seo": {
+      "title": "Greenwich Meridian Trail – UK Prime Meridian Hike (1163.8 km)",
+      "meta_description": "Explore the Greenwich Meridian Trail, a hard 1,163.8 km through-hike across the UK along the Prime Meridian. Varied terrain from urban routes to moorland and coast.",
+      "h1": "Greenwich Meridian Trail: A 1,163.8 km UK Prime Meridian Hiking Adventure"
+    }
   }
 }

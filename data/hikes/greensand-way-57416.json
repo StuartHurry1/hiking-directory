@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 57416
+  },
+  "ai": {
+    "summary": "The Greensand Way is a long-distance hiking route across Southeast England, following the Greensand Ridge for approximately 694 km in the UK. The route links remote countryside, historic towns and scenic viewpoints over chalk hills, woodlands, and farmland. It demands fitness and good navigation due to long distances between towns and varied terrain, but rewards hikers with classic English countryside scenery and a true sense of wilderness along a ridge that often offers sweeping views.",
+    "terrain_summary": "Terrain includes chalk ridge downs, rolling farmland, woodlands, bridleways, and minor roads. Expect persistent ascents and descents, muddy tracks after rain, stiles and gates, and sections with limited waymarks in rural stretches. Footing can be uneven, with rocky or scree-like patches in upland sections and exposed ridgeline walking in windy conditions.",
+    "safety_notes": "Plan for variable UK weather and long stretches between resupply points; carry up-to-date maps and a compass as GPS may fail; wear sturdy footwear and carry appropriate clothing for mud, rain, and wind; check daylight hours and start early in winter; inform someone of your itinerary and expected finish times; respect private land and farm access; pack a basic first aid kit, water purification methods, whistle, and emergency shelter; be mindful of seasonal restrictions on camping and wild camping rules; ensure you have sufficient water and a means to rehydrate.",
+    "recommended_gear": [
+      "Sturdy hiking boots or trail shoes",
+      "Durable backpack (40–60 L)",
+      "Map and compass (and GPS as backup)",
+      "Water bottle or hydration system with purification method",
+      "Lightweight waterproof jacket and breathable layer",
+      "Warm mid-layer and/or down jacket for evenings",
+      "Hat, gloves, and moisture-wicking clothing",
+      "First aid kit and blister care",
+      "Headlamp with extra batteries",
+      "Food and high-energy snacks for long stretches",
+      "Mobile power bank and charging cable",
+      "Emergency shelter (foil bivy or small tarp) and space blanket",
+      "Multi-tool or knife",
+      "Sunscreen, sunglasses and insect repellent",
+      "Cash and cards in case of remote resupply",
+      "Repair kit for gear (duct tape, zip ties)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) generally offers the best weather and daylight for the Greensand Way. Summer can bring heat and crowds near towns; winter walking is possible but requires careful planning due to mud, cold temperatures, shorter days, and potential ice.",
+    "seo": {
+      "title": "Greensand Way – UK long-distance hike along the Greensand Ridge (694 km)",
+      "meta_description": "Plan your Greensand Way adventure. A challenging 694 km hike across Southeast England’s Greensand Ridge with terrain insights, safety tips, gear lists, and best seasons.",
+      "h1": "Greensand Way: UK long-distance hike along the Greensand Ridge"
+    }
   }
 }

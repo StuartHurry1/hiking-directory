@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16315829
+  },
+  "ai": {
+    "summary": "A 9.3 km circular hike known as the Great Plantation Loop in the United Kingdom. The route is rated moderate and threads through plantation woodland, offering steady terrain, forest shade, and potential muddy sections after rain. Suitable for hikers with some experience and good footwear.",
+    "terrain_summary": "Mostly woodland track through plantation forest with mixed surfaces. Expect uneven footing, exposed roots, damp leaf litter, and occasional muddy patches. Elevation change is moderate, with short ascents and descents; trails are generally well-marked but can be indistinct in dense areas.",
+    "safety_notes": "Plan for changing UK weather and shorter daylight in winter. Wear sturdy waterproof boots and clothing. Carry a map or GPS, a fully charged phone, and a whistle. Stay on marked paths, keep a safe distance from others, and be cautious of roots and slippery sections after rain. Let someone know your route and expected return time. Bring extra food and water for the 9.3 km distance. Insect repellent and sun protection as needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and waterproof jacket",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "First aid kit",
+      "Headlamp or flashlight",
+      "Walking poles (optional)",
+      "Phone with offline maps",
+      "Sunscreen and hat (seasonal)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) typically offers the best conditions in the UK, with longer daylight and drier paths. Winter visits can be muddy with shorter daylight; wear appropriate clothing and be prepared for colder winds.",
+    "seo": {
+      "title": "Great Plantation Loop – 9.3 km Moderate Hike in the UK",
+      "meta_description": "Discover the Great Plantation Loop, a 9.3 km moderate hike through UK woodland. Practical tips on terrain, safety, gear, and the best seasons.",
+      "h1": "Great Plantation Loop: 9.3 km Moderate Woodland Hike"
+    }
   }
 }

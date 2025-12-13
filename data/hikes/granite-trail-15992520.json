@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 15992520
+  },
+  "ai": {
+    "summary": "Granite Trail is a short, easy hike in the UK that covers about 1.1 km. The route offers a gentle walk on well-maintained paths along a granite landscape, suitable for families and beginners.",
+    "terrain_summary": "Predominantly level with compact gravel paths and some granite sections. Expect occasional damp patches after rain, small steps in places, and the possibility of uneven ground near the edges. Wildlife and scenic views may be encountered.",
+    "safety_notes": "Check weather before you go; UK conditions can change quickly. Wear sturdy footwear and bring a light, weather-appropriate layer. Stay on marked paths, keep children and dogs under control, and be mindful of other hikers. Carry water and a small first aid kit. If visibility is low, use a map or GPS and have a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (waterproof jacket, layers)",
+      "Water bottle",
+      "Snack for energy",
+      "Map or GPS device / fully charged phone",
+      "Small first aid kit",
+      "Sunscreen and hat (seasonal)",
+      "Insect repellent (summer)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October).",
+    "seo": {
+      "title": "Granite Trail - Easy 1.1 km Hike in the UK",
+      "meta_description": "Explore Granite Trail, a short and easy 1.1 km hike in the UK. Learn about the terrain, safety tips, and gear for a safe, enjoyable outing.",
+      "h1": "Granite Trail – Easy 1.1 km Hike in the UK"
+    }
   }
 }

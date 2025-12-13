@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 5893824
+  },
+  "ai": {
+    "summary": "Great Harwood Nature Walk is an 11.7 km moderate-length circuit in the UK that showcases countryside, green spaces, and a mix of woodland and meadow scenery. Suitable for hikers with some experience and comfortable footwear.",
+    "terrain_summary": "Mostly well-defined trails with a mix of compact paths, gravel, and short grassy sections. Expect gentle to moderate inclines, occasional steps or boardwalks, and potential muddy patches after rain. Some road crossings may be necessary.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Check the forecast and local conditions before starting; UK weather can change quickly. Stay on marked trails, watch for other walkers and cyclists, and be cautious on road crossings. Carry a map or GPS, a charged phone, water, and snacks. After the walk, perform a quick tick check if traversing grassy or brushy areas.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Weather-appropriate clothing (layers and a waterproof jacket)",
+      "Water bottle or hydration system",
+      "Snack or energy bars",
+      "Map, compass, or GPS device",
+      "Fully charged phone",
+      "Small first aid kit",
+      "Insect repellent and sunscreen",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Spring through autumn offer the best conditions; the route can be walked year-round with extra caution in winter due to mud and weather changes.",
+    "seo": {
+      "title": "Great Harwood Nature Walk - 11.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the Great Harwood Nature Walk, an 11.7 km moderate hike through UK countryside. Learn about terrain, safety tips, gear, and the best seasons.",
+      "h1": "Great Harwood Nature Walk (11.7 km, Moderate)"
+    }
   }
 }

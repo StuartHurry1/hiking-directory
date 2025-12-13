@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 12858191
+  },
+  "ai": {
+    "summary": "A 21.7 km long canal-side hike along the Grand Union Canal Wendover Arm in the UK. Typically a linear route that can be walked out-and-back or completed as a point-to-point trip with transport at the ends. The hike is rated hard due to distance, with stretches of uneven canal towpath, mud after rain, and multiple lock crossings. Suitable for experienced walkers with good navigation and fitness.",
+    "terrain_summary": "Primarily the canal towpath: flat in most sections but with uneven, compacted gravel and muddy patches, especially after rain. Expect occasional gates, stiles, uneven planks at lock approaches, and several road crossings. Some sections run close to water with exposure to wind and damp conditions; lighting may vary along the line.",
+    "safety_notes": "Watch for water hazards along the canal and near locks. Weather can change quickly, so carry appropriate clothing and waterproofs. Wear sturdy boots with good tread and bring a map or offline navigation. Daylight hours vary by season; start early in winter. Mobile reception can be patchy in remote sections. Consider carrying a whistle, a basic first-aid kit, and enough water and snacks for the distance. Let someone know your route and expected finish time.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or offline navigation app",
+      "Fully charged phone with offline map",
+      "Water bottle (2–3 litres for the day) and snacks",
+      "Small first-aid kit and basic emergency items",
+      "Whistle and personal identification",
+      "Headtorch or small flashlight (plus extra batteries)",
+      "Trekking poles (optional but helpful on uneven ground)",
+      "Sunscreen, sunglasses, and hat for sun exposure",
+      "Insect repellent and spare dry bag or zip-locks for valuables",
+      "Emergency blanket or space blanket"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and conditions are drier. The route can be done year-round with appropriate gear, but winter hiking requires extra caution for cold, ice, and reduced daylight.",
+    "seo": {
+      "title": "Grand Union Canal (Wendover Arm) Walk – 21.7 km Hard UK Hike",
+      "meta_description": "Discover the 21.7 km Grand Union Canal Wendover Arm walk in the UK. A challenging canal towpath trek with potential mud, locks, and long distances. Gear, safety tips, and best seasons included.",
+      "h1": "Grand Union Canal (Wendover Arm) Walk – 21.7 km, Hard"
+    }
   }
 }

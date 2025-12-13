@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19770468
+  },
+  "ai": {
+    "summary": "An easy 4.9 km hike at Green Walk, Emmetts in the UK. This relaxed route is suitable for families and new walkers, following well-marked paths through gentle countryside with grassy trails and light woodland. Expect pleasant views, mild elevation changes, and opportunities to observe local wildlife and wildflowers depending on the season.",
+    "terrain_summary": "Predominantly well-maintained grassy and gravel paths with short woodland sections. Some areas may be muddy after rain; expect gentle gradients and occasional exposed roots or uneven footing. Stroller-friendly on dry days; wear sturdy footwear with good grip.",
+    "safety_notes": "Check the weather and daylight hours before you go. Wear sturdy footwear and bring a light waterproof layer. Stay on marked paths, respect wildlife and livestock if present, and carry a map or offline navigation in case of poor signal. Bring water and a small snack, and consider a compact first-aid kit and insect repellent. Be mindful of ticks in grassy areas and seasonal allergens.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Extra layer for warmth",
+      "Wide-brim hat and sunscreen",
+      "Snacks",
+      "Map or offline GPS",
+      "Small first-aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to autumn (March–October)",
+    "seo": {
+      "title": "Green Walk, Emmetts – Easy 4.9 km Hike in the UK",
+      "meta_description": "Discover Green Walk at Emmetts: a gentle 4.9 km hike in the UK perfect for beginners and families. Learn about terrain, safety tips, gear, and the best seasons.",
+      "h1": "Green Walk, Emmetts – Easy 4.9 km Hike"
+    }
   }
 }

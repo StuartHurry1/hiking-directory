@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17329760
+  },
+  "ai": {
+    "summary": "Greenwood Trail is a very short (0.7 km), easy hike in the United Kingdom, suitable for families, beginners, and anyone looking for a quick nature stroll. The route offers a gentle gradient and a well-maintained surface, making it accessible to most ages and fitness levels.",
+    "terrain_summary": "Predominantly flat and well-surfaced, likely gravel or tarmac, with tree cover and mild shade. The short distance makes it a relaxed outing with minimal elevation.",
+    "safety_notes": "Check the local weather before you go; UK rain can make surfaces slippery. Stay on marked paths, be mindful of other pedestrians or cyclists on shared routes, and supervise children at all times. Bring a light layer for cooler conditions and waterproofs for rain.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof jacket",
+      "Water bottle",
+      "Sunscreen and hat",
+      "Mobile phone with map",
+      "Small backpack"
+    ],
+    "best_seasons": "Spring to autumn is ideal for pleasant weather, with summer offering longer daylight. The trail can be walked year-round, but be prepared for rain and cooler conditions in winter.",
+    "seo": {
+      "title": "Greenwood Trail - Short Easy Hike in the UK (0.7 km)",
+      "meta_description": "Discover Greenwood Trail, a quick 0.7 km easy hike in the United Kingdom. Gentle terrain, family-friendly, with safety tips and gear recommendations.",
+      "h1": "Greenwood Trail: A Short, Easy UK Hike"
+    }
   }
 }

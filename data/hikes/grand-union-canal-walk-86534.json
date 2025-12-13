@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 86534
+  },
+  "ai": {
+    "summary": "The Grand Union Canal Walk is a challenging long-distance hike along the UK's historic Grand Union Canal, covering about 219 km. The route runs along long, flat towpaths with occasional locks, bridges, and urban sections. Expect sustained distance, variable surfaces, and a mix of rural scenery and canal-side towns. It requires solid planning, a steady pace, and readiness for weather changes and navigational decisions.",
+    "terrain_summary": "Primarily flat canal towpath terrain with intermittent sections on rural banks and urban canal-side paths. Surface is mostly compact dirt and gravel with some paved stretches; occasional uneven areas near locks and undergrowth. Expect wet conditions after rain and seasonal debris or mud in certain stretches.",
+    "safety_notes": "Walk segments can be busy on towpaths, so stay alert for cyclists and other pedestrians. Navigate locks, narrow bridges, and road crossings with care. UK weather can change quickly—bring waterproof layers, warm clothing, and sun protection. Maintain distance from the water's edge, supervise children, and plan for divisions between towns for supplies and bail-out points. Ensure adequate daylight for longer stretches and have a plan for emergencies along the route.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Breathable waterproof jacket and layered clothing",
+      "Daypack with hydration (2–3 liters) and snacks",
+      "First aid kit and any personal medications",
+      "Map and/or GPS device loaded with the Grand Union Canal route",
+      "Headlamp or compact flashlight with spare batteries",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Phone with power bank and offline maps",
+      "Lightweight emergency shelter or thermal blanket",
+      "Compact rain cover for gear and a small towel for damp conditions"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) is ideal for the Grand Union Canal Walk, offering longer daylight and generally drier conditions; winter sections can be harsher with cold, wind, and limited daylight.",
+    "seo": {
+      "title": "Grand Union Canal Walk – 219 km UK Long-Distance Canal Trek",
+      "meta_description": "Plan your adventure on the Grand Union Canal Walk, a 219 km long-distance hike along England's iconic canal towpaths. Terrain, safety tips, gear, and best seasons.",
+      "h1": "Grand Union Canal Walk (219 km) – UK Long-Distance Canal Trek"
+    }
   }
 }

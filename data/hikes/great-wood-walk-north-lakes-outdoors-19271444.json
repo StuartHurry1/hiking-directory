@@ -19,5 +19,28 @@
   "source": {
     "type": "osm",
     "osmId": 19271444
+  },
+  "ai": {
+    "summary": "The Great Wood Walk is a 7.7 km moderate hike in the UK, offering woodland paths and lakeside views. Run by North Lakes Outdoors, it suits fit casual hikers seeking a scenic, manageable day out.",
+    "terrain_summary": "Primarily well-defined woodland trails with occasional rough or muddy sections. Expect gentle elevation changes, shaded routes, and several viewpoints overlooking nearby lakes.",
+    "safety_notes": "Plan for UK weather: check the forecast and daylight hours. Wear sturdy waterproof footwear and bring a waterproof layer. Carry enough water and snacks. Carry a map, compass or offline navigation, and a charged mobile phone. Inform someone of your route and expected return. Be mindful of slippery surfaces after rain and possible mud in woodland sections. In autumn and winter, daylight is shorter and temperatures can be cool near the water.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Backpack",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map and compass or offline maps",
+      "Extra layers (fleece or insulating layer) and a hat",
+      "Mobile phone with emergency numbers",
+      "Emergency whistle",
+      "Headlamp or flashlight (for early/late finishes)"
+    ],
+    "best_seasons": "Spring to autumn; the trail is accessible year-round with appropriate gear, but be prepared for rain and mud outside the dry season.",
+    "seo": {
+      "title": "Great Wood Walk – 7.7 km Moderate Lakeside Trail in the UK | North Lakes Outdoors",
+      "meta_description": "Discover the 7.7 km Great Wood Walk in the UK with North Lakes Outdoors. A moderate lakeside hike through woodland, offering tranquil views and varied terrain suitable for casual hikers.",
+      "h1": "Great Wood Walk: 7.7 km Moderate Lakeside Trail"
+    }
   }
 }

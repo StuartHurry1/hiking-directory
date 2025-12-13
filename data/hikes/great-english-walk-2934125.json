@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 2934125
+  },
+  "ai": {
+    "summary": "Great English Walk is a 7.3 km hike in the United Kingdom that offers a moderate challenge and scenic countryside views. The route is suitable for hikers with some experience and generally follows well-maintained paths, with potential uneven or muddy sections.",
+    "terrain_summary": "Mixed terrain including gravel tracks, grassy fields, and occasional stony or uneven footing. Expect some muddy patches after rain and sections with gentle ascents and descents.",
+    "safety_notes": "Before you go: check the weather forecast and daylight hours; navigation: carry a map and compass or a reliable GPS; personal safety: inform someone of your plan and expected return; footing: wear sturdy, waterproof footwear and be prepared for mud; weather: UK conditions can change quickly, so dress in layers and bring a waterproof jacket; daylight: start early in shorter days to avoid hiking after dark; emergency: carry a whistle and a charged phone; wildlife and livestock: keep distance and close gates.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Water and snacks",
+      "Map and compass or GPS",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat)",
+      "Sun protection (sunscreen, sunglasses)",
+      "Small first aid kit",
+      "Headlamp or flashlight",
+      "Whistle",
+      "Fully charged phone",
+      "Light rain cover for backpack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) typically offer milder weather and longer daylight, though the hike can be done year-round with proper gear.",
+    "seo": {
+      "title": "Great English Walk – 7.3 km Moderate Hike in the UK",
+      "meta_description": "Explore the Great English Walk, a 7.3 km moderate hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear.",
+      "h1": "Great English Walk – 7.3 km Moderate Hike in the UK"
+    }
   }
 }

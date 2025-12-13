@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 7674761
+  },
+  "ai": {
+    "summary": "Greenway Red Route is a short, easy 3.8 km hike in the UK, ideal for beginners and casual walkers seeking a relaxed outdoor outing.",
+    "terrain_summary": "The trail runs on well-maintained paths with gentle elevation. Expect mostly level ground, minor undulations, and occasional muddy patches after rain. The route may pass through grassy lanes, woodlands, and hedgerows with clear wayfinding and occasional stiles or gates.",
+    "safety_notes": "Wear sturdy footwear and bring a light rain jacket. Carry water and a small snack. Check the forecast and be prepared for changing UK weather. Stay on marked paths, give way to other hikers and cyclists on shared sections, and carry a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Water bottle (1–2 liters)",
+      "Light rain jacket and an extra layer",
+      "Trail map or GPS/navigation device",
+      "Hat and sunscreen",
+      "Phone with emergency contacts and a portable power bank"
+    ],
+    "best_seasons": "Spring to Autumn (April–October) are ideal; winter hikes are possible with warm clothing and waterproof gear.",
+    "seo": {
+      "title": "Greenway Red Route – 3.8 km Easy Hike in the UK",
+      "meta_description": "Discover the 3.8 km Greenway Red Route in the UK. An easy, beginner-friendly hike with gentle terrain, practical safety tips, and essential gear.",
+      "h1": "Greenway Red Route – 3.8 km Easy Hike in the UK"
+    }
   }
 }

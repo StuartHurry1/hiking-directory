@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 15458688
+  },
+  "ai": {
+    "summary": "Green Lane is a short, easy 1.2 km hike in the UK, suitable for beginners. The route follows a quiet lane with minimal elevation, offering a relaxed walk through rural surroundings.",
+    "terrain_summary": "Primarily flat with a mix of compacted gravel, paved or well-trodden dirt. Expect gentle surfaces and occasional grassy patches; minimal ascent.",
+    "safety_notes": "Always check weather and local access. Wear sturdy shoes and bring water. Stay on the designated path, mind gates and livestock, and watch for uneven ground. Mobile reception may be limited in rural areas; let someone know your plans.",
+    "recommended_gear": [
+      "Comfortable, supportive walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Sun protection (hat and sunscreen)",
+      "Map, guide or offline GPS (optional)"
+    ],
+    "best_seasons": "Spring through autumn are ideal. The route can be enjoyed all year with appropriate clothing and footwear.",
+    "seo": {
+      "title": "Green Lane – Easy 1.2 km UK Hike",
+      "meta_description": "Explore Green Lane, an easy 1.2 km hike in the UK. A beginner-friendly route with flat terrain, suitable for a quick outdoor outing.",
+      "h1": "Green Lane: Easy 1.2 km Hike in the UK"
+    }
   }
 }

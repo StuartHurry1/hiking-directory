@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2739209
+  },
+  "ai": {
+    "summary": "An easy 3.4 km hike in the UK along flat fenland paths. Suitable for beginners and families, the Great Fen Trail offers tranquil scenery, minimal elevation, and opportunities to observe birds and wetland habitat. The route is mostly well-maintained with occasional wooden boardwalks and short sections that can be muddy after rain.",
+    "terrain_summary": "Flat, easy terrain with compact trails and occasional wooden boardwalks over wet fenland. Expect mud and puddles in damp weather; footwear should be sturdy and waterproof.",
+    "safety_notes": "Before you go: check the forecast and daylight hours. Wear sturdy waterproof footwear and bring a lightweight rain jacket, water, and a small snack. Stay on marked paths, watch for mud and slippery boardwalks, and supervise children closely. In case of severe weather or flooding, turn back and contact someone with your plans.",
+    "recommended_gear": [
+      "Sturdy waterproof walking shoes or boots",
+      "Lightweight waterproof jacket and an extra layer",
+      "Water and a small snack",
+      "Sun protection (hat, sunglasses, sunscreen) in sunny weather",
+      "Map or offline maps on your phone and a charged power bank",
+      "Small first aid kit",
+      "Insect repellent (seasonally)",
+      "Optional trekking poles for stability on uneven boardwalks"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions in spring to autumn; expect mud and shorter daylight in winter.",
+    "seo": {
+      "title": "Great Fen Trail – Easy 3.4 km Fenland Walk in the UK",
+      "meta_description": "Explore the Great Fen Trail, a short and easy 3.4 km hike through fenland in the UK. Flat terrain, wildlife, and family-friendly scenery with safety tips and gear.",
+      "h1": "Great Fen Trail – Easy 3.4 km UK Fenland Walk"
+    }
   }
 }

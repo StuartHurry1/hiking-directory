@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 12853883
+  },
+  "ai": {
+    "summary": "The Grand Union Canal Walk is a hard, long-distance route along the Grand Union Canal in the UK, covering 73.2 km. The path largely follows canal towpaths with varied urban and rural scenery, offering flat terrain punctuated by locks and barriers along the way.",
+    "terrain_summary": "Primarily flat towpath along the Grand Union Canal, with sections that pass through villages and towns. Expect uneven surfaces, occasional muddy patches, canal edge hazards, locks and gates, with exposure to weather in open stretches.",
+    "safety_notes": "Plan for multi-day walking or long-day legs. Stay aware of canal edges and gaps near lock gates. Respect surrounding traffic where the towpath shares space with cyclists. Check weather and daylight hours; wear appropriate footwear; carry a map or offline navigation; stay hydrated and fed; have a plan for transport back if completing a long section.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable layers with a waterproof jacket",
+      "Comfortable daypack with hydration",
+      "Water bottle or hydration bladder",
+      "Map and compass or offline mapping app",
+      "Hat, sunglasses, and sunscreen",
+      "Energy snacks and meals for long days",
+      "First aid kit and personal medications",
+      "Headlamp or small flashlight",
+      "Whistle and personal identification",
+      "Mobile phone with emergency numbers and power bank",
+      "Lightweight rain cover for pack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October). All-season hiking is possible, but winter sections require shorter daylight hours and extra planning.",
+    "seo": {
+      "title": "Grand Union Canal Walk – 73.2 km Long-Distance Hike in the UK",
+      "meta_description": "Explore the 73.2 km Grand Union Canal Walk along England's canal towpaths. Practical hiking tips, safety notes, gear lists, and best seasons for this UK long-distance route.",
+      "h1": "Grand Union Canal Walk – 73.2 km Long-Distance Hike in the UK"
+    }
   }
 }

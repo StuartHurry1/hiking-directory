@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 12858065
+  },
+  "ai": {
+    "summary": "An 18.8 km long-distance walk along the Grand Union Canal’s Aylesbury Arm in the UK. The route follows a mostly flat towpath with locks, bridges, and waterway scenery. It is a hard hike due to the distance and potential mud after rain, requiring good navigation and preparation. Suitable for experienced walkers planning a full-day or longer outing.",
+    "terrain_summary": "Terrain is predominantly canal towpath: flat or gently undulating, surfaced with hard-packed gravel or paving. Expect muddy patches after rain, occasional exposed roots, and crossings around lock gates or footbridges. Some remote stretches may have limited services and phone reception.",
+    "safety_notes": "Plan your route and timing, and tell someone your itinerary. Wear sturdy waterproof footwear and dress in layers; bring a waterproof jacket. Carry sufficient water and high-energy snacks. Use a map or offline navigation app, and keep a charged phone and power bank. Be mindful of other canal users (cyclists, rowers), and watch for slippery surfaces near locks and bridges. In remote areas, expect limited mobile coverage and plan for contingencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate clothing (layers; waterproof/windproof jacket)",
+      "Backpack with sufficient capacity for supplies",
+      "Water bottle or hydration system (2–3 L recommended)",
+      "Map, printed or offline GPS/navigation app",
+      "Phone with portable charger",
+      "Lightweight headlamp or small flashlight",
+      "First aid kit and blister care",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Snacks or energy bars",
+      "Lightweight rain shell and extra socks",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October); longer days and typically drier conditions make for a more comfortable walk, though it can be undertaken in winter with proper gear and planning.",
+    "seo": {
+      "title": "Grand Union Canal (Aylesbury Arm) Walk – 18.8 km Hard UK Canal Walk",
+      "meta_description": "Discover the Grand Union Canal (Aylesbury Arm) Walk, an 18.8 km hard-distance hike in the UK. Flat towpath, canal scenery, locks, and potential mud—plan ahead for weather and services.",
+      "h1": "Grand Union Canal (Aylesbury Arm) Walk"
+    }
   }
 }

@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 6025323
+  },
+  "ai": {
+    "summary": "Great Torrington Circular is a 14.7 km loop hike in the UK with a moderate difficulty. The route blends country lanes, leafy footpaths, and grassy trails, offering scenic views of rolling countryside and farmland. Expect varied surfaces and typical UK weather changes throughout the day.",
+    "terrain_summary": "Terrain includes well-defined paths, grassy verges, exposed field edges, stone tracks, and occasional muddy or uneven sections. The route has gentle ascents with a few short steeper climbs and several gates and stiles to navigate. Footing can be slippery after rain.",
+    "safety_notes": "Check the forecast and daylight hours; UK weather can change quickly. Wear sturdy, waterproof footwear and layered clothing. Stay on marked paths; follow gates and stile etiquette and watch for livestock. Bring a map and compass or GPS, and know how to orient yourself. Carry enough water and snacks; inform someone of your plans and have a charged phone with emergency contacts. If visibility is poor, consider a shorter route or postponing.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes with good grip",
+      "Layered clothing and a waterproof/windproof jacket",
+      "Water bottle or hydration system",
+      "Trail snacks or a light meal",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Small first aid kit",
+      "Sun protection (hat, sunscreen) and sunglasses",
+      "Optional: walking poles"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) are typically best for this hike, though it can be done year-round with appropriate clothing and daylight.",
+    "seo": {
+      "title": "Great Torrington Circular – 14.7 km Moderate UK Hike",
+      "meta_description": "Discover the Great Torrington Circular, a 14.7 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this scenic loop.",
+      "h1": "Great Torrington Circular – 14.7 km Moderate Hike (UK)"
+    }
   }
 }

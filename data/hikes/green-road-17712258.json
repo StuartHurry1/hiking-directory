@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 17712258
+  },
+  "ai": {
+    "summary": "Green Road is a short, easy 3.8-kilometer hike in the UK along a relatively flat, well-maintained route suitable for beginners and casual walkers. The path runs along a green corridor with limited elevation gain and simple surface conditions.",
+    "terrain_summary": "The trail consists of a mostly flat to gently rolling surface with a mix of tarmac and compacted gravel. Expect grassy verges, occasional muddy patches after rain, and some sections alongside a road. Good traction footwear recommended.",
+    "safety_notes": "Wear sturdy shoes and weather-appropriate clothing. Check local weather and daylight; avoid hiking in heavy rain or icy conditions. Stay on marked paths, keep an eye out for cyclists and walkers on shared sections, and let someone know your plan. Mobile signal may be weak in rural parts.",
+    "recommended_gear": [
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Sturdy walking shoes or boots",
+      "Small backpack",
+      "Map or offline navigation (or smartphone with offline map)",
+      "Light rain jacket",
+      "Snacks",
+      "Sun protection (hat and sunscreen)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in Spring and Summer. Winter conditions can be wet and muddy; plan accordingly.",
+    "seo": {
+      "title": "Green Road: Easy 3.8 km Hike in the UK",
+      "meta_description": "Discover Green Road, an easy 3.8 km hike in the UK. Learn about terrain, safety tips, best seasons, and essential gear for this short, beginner-friendly route.",
+      "h1": "Green Road — Easy 3.8 km Hike in the UK"
+    }
   }
 }

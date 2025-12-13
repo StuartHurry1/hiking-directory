@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 3170152
+  },
+  "ai": {
+    "summary": "The Great Trossachs Path is a demanding long-distance hike in the UK, covering approximately 142.9 km. It traverses varied Scottish scenery and tests stamina with continuous ascents, rough terrain, and remote sections where weather can shift quickly. Suitable for experienced trekkers with thorough planning.",
+    "terrain_summary": "Expect a mix of forest trails, open moorland, rocky paths, and occasional road sections. Terrain can be muddy after rain and includes steep ascents and uneven ground. Some parts are exposed with changing conditions, and navigation may be essential in remote stretches.",
+    "safety_notes": "Plan for variable weather and long days. Carry map and compass and know how to use them. Share your itinerary with someone and stick to marked routes where possible. Be prepared for limited phone signal in remote areas. Bring enough food and water, proper layering, and emergency gear for hypothermia and injuries. Check local advisories for wildlife and trail conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket",
+      "Insulating layers (fleece/padded jacket)",
+      "Waterproof pants",
+      "Map and compass (or GPS device)",
+      "Headlamp with extra batteries",
+      "First-aid kit",
+      "Emergency bivy or thermal blanket",
+      "Water purification method (filter/tablets)",
+      "Sunglasses and sun hat",
+      "Gloves and beanie for colder days",
+      "Trekking poles",
+      "High-energy snacks and sufficient water",
+      "Whistle and multi-tool",
+      "Dry bags or protective covers for electronics"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offers longer daylight and more favorable conditions; the hike is possible year-round with appropriate preparation for colder, wetter, and darker days.",
+    "seo": {
+      "title": "Great Trossachs Path – 142.9 km UK Hard Hike",
+      "meta_description": "Discover the Great Trossachs Path, a challenging 142.9 km trek through varied Scottish landscapes. Learn about terrain, safety considerations, gear, and the best seasons for this hard UK hike.",
+      "h1": "Great Trossachs Path: A Tough 142.9 km Hike Across Scotland"
+    }
   }
 }

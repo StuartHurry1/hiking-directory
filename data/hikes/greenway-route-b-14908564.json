@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14908564
+  },
+  "ai": {
+    "summary": "Greenway Route B is an easy 3.4 km hike in the UK. The route offers a gentle, family-friendly walk along well-maintained paths with light elevation and minimal technical difficulty.",
+    "terrain_summary": "Terrain is primarily flat to gently rolling, on a mix of surfaced paths and well-trodden trails. Expect grassy sections and occasional mud after rain; good footwear is recommended.",
+    "safety_notes": "Wear sturdy footwear, check the weather forecast, and stay on marked paths. Bring water, a light layer, and a small first aid kit. Be mindful of daylight hours in winter and keep children and pets under supervision.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Weather-appropriate clothing (layers, hat, gloves as needed)",
+      "Water and snacks",
+      "Map, guidebook, or GPS-enabled device",
+      "Light rain jacket",
+      "Compact first aid kit",
+      "Phone charged with emergency contacts"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); the route can be enjoyed year-round with proper clothing and footwear.",
+    "seo": {
+      "title": "Greenway Route B — Easy 3.4 km Hike in the UK",
+      "meta_description": "Discover Greenway Route B, an easy 3.4 km hike in the UK. Learn about terrain, safety tips, and gear for a comfortable outdoor experience.",
+      "h1": "Greenway Route B: Easy 3.4 km Hike in the UK"
+    }
   }
 }

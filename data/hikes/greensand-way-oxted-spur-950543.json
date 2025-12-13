@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 950543
+  },
+  "ai": {
+    "summary": "A 10 km moderate hike along the Greensand Way's Oxted Spur, weaving through chalk grassland, woodland and rural lanes near Oxted in the UK. Suitable for casual walkers who can manage occasional climbs and uneven ground.",
+    "terrain_summary": "Mostly well-marked rolling terrain with a mix of grass paths, gravel tracks and woodland trails. Expect gentle ascents and descents, sections of uneven ground, and occasional muddy patches after rain. You may cross a few field margins and rural byways.",
+    "safety_notes": "- Check the forecast; weather can change quickly in the countryside. - Wear sturdy boots and weather-appropriate clothing; GPS is recommended as sections can be poorly signposted in places. - Stay on marked paths; keep an eye out for farmers and farm traffic at field margins. - Watch for mud, slippery roots, and uneven ground; take your time on descents. - Bring enough water and snacks; sun protection in summer. - Mobile reception may be limited in remote sections; inform someone of your route and expected return time. - Keep dogs under control and on short leads where required.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Layered clothing with a waterproof jacket",
+      "Water and snacks",
+      "Map and compass or GPS device",
+      "Mobile phone with offline maps",
+      "Small first aid kit",
+      "Sun protection (hat and sunscreen)",
+      "Emergency whistle",
+      "Lightweight rain cover for your backpack",
+      "Headlamp or flashlight (if planning to hike into dusk)"
+    ],
+    "best_seasons": "Spring to autumn, particularly May-June and September-October for pleasant weather and scenery. Winter hikes are more challenging due to mud and limited daylight.",
+    "seo": {
+      "title": "Greensand Way Oxted Spur Hike – 10 km Moderate Walk in South East England (UK)",
+      "meta_description": "Explore a 10 km moderate hike along the Greensand Way's Oxted Spur near Oxted, UK. Rolling chalk landscapes, woodlands and rural paths with practical gear and seasonal tips.",
+      "h1": "Greensand Way: Oxted Spur Walk (10 km)"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19426550
+  },
+  "ai": {
+    "summary": "The Great Glen Way High Route is an 11.5 km moderate hike in the UK. It follows sections of the historic Great Glen corridor and combines forest tracks, open moorland, and occasional rocky segments, delivering varied scenery and steady elevation gains for a rewarding day on the trail.",
+    "terrain_summary": "Predominantly forest paths with intermittent open moorland and short rocky stretches. Expect moderate elevation gain, damp or muddy sections after rain, and some exposed viewpoints. Proper footwear and layers help manage changing conditions.",
+    "safety_notes": "Always check the weather forecast before you go; UK conditions can change quickly. Wear sturdy boots and dress in layers; bring waterproof protection. Carry a map and compass (or GPS) and know how to use them; stay on marked paths. Tell someone your plan and expected return. Carry enough water and emergency supplies; be prepared for shorter daylight hours in autumn/winter. Be cautious on exposed sections and watch for slippery rocks, boggy ground, and sudden mist.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Layered clothing (fleece, hat, gloves)",
+      "Map and compass (or GPS) and know how to use them",
+      "Hydration system or water bottle (at least 2 L)",
+      "Energy snacks or light meals",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Phone with offline maps and emergency contacts",
+      "Lightweight emergency shelter or space blanket",
+      "Sunscreen and sunglasses",
+      "Whistle"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) are best for this route; be prepared for wet and windy conditions year-round",
+    "seo": {
+      "title": "Great Glen Way High Route – 11.5 km Moderate Hike in the UK",
+      "meta_description": "Explore the 11.5 km Great Glen Way High Route in the UK. A moderate hike with varied terrain, safety tips, gear recommendations, and best seasons.",
+      "h1": "Great Glen Way High Route – 11.5 km Moderate UK Hike"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 18173443
+  },
+  "ai": {
+    "summary": "A challenging 16.1 km circular hike from Gressenhall to Beetley and back, featuring rural lanes, farmland, and mixed terrain. The route is long and physically demanding, with uneven surfaces, possible mud, and some gentle climbs requiring good stamina and careful footing.",
+    "terrain_summary": "Mixed terrain across country lanes, gravel tracks, grassy paths, and field margins. Expect uneven surfaces, mud after rain, stiles and gates, and occasional road crossings. Some sections may be exposed or involve short climbs; footwear with good grip is recommended.",
+    "safety_notes": "Plan for 4–6 hours. Use a map and compass or GPS; mobile signal can be unreliable in rural areas. Wear sturdy, waterproof footwear and dress for changing conditions. Be prepared for mud, wind, and sudden rain; carry a waterproof layer. Watch for livestock and secure gates behind you. Stay hydrated and bring snacks; carry a small first aid kit and emergency whistle. Check daylight hours and weather before setting out; avoid too-long winter traverses in fading light.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and layers",
+      "Map and compass or GPS device",
+      "Fully charged mobile phone (with offline maps as backup)",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Extra warm layers and hat/gloves (seasonal)",
+      "Lightweight rain cover for your pack",
+      "First aid kit and emergency whistle",
+      "Sun protection (sunscreen, sunglasses) and insect repellent",
+      "Walking poles (optional) for stability",
+      "Headlamp or flashlight (for low-light conditions or winter walks)"
+    ],
+    "best_seasons": "Spring to autumn, with caution in winter due to mud, shorter daylight, and potentially harsher conditions.",
+    "seo": {
+      "title": "Gressenhall/Beetley Circular Walk – 16.1 km Hard UK Route",
+      "meta_description": "A demanding 16.1 km circular hike near Gressenhall and Beetley in the UK. Mixed terrain, gates, and rural scenery. Plan 4–6 hours.",
+      "h1": "Gressenhall/Beetley Circular Walk"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 2282980
+  },
+  "ai": {
+    "summary": "Great Hockham Green Walk is a short, easy 4.2 km hike in the UK countryside. The route is suitable for beginners and families seeking a peaceful outdoor experience.",
+    "terrain_summary": "Predominantly easy terrain with well-maintained paths, grass fields, and short sections of village lanes. Expect flat to gently rolling ground on a mix of gravel and dirt tracks.",
+    "safety_notes": "Check the weather before you go and wear sturdy footwear. Stay on marked paths, respect livestock and gardens, and carry water. Bring sun protection in warm months and a light waterproof layer for changeable UK weather. If the route is remote, let someone know your plans and carry a map or a device with a way to call for help.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat, sunscreen)",
+      "Layers for changing weather",
+      "Map or GPS-enabled device",
+      "Phone with emergency contact information"
+    ],
+    "best_seasons": "Spring and summer are ideal; the walk is also accessible in autumn and mild winter with appropriate clothing.",
+    "seo": {
+      "title": "Great Hockham Green Walk - Easy 4.2 km UK Hike",
+      "meta_description": "Discover the Great Hockham Green Walk, a gentle 4.2 km hike in the UK countryside. Learn about terrain, safety tips, and gear for a relaxed outdoor experience.",
+      "h1": "Great Hockham Green Walk"
+    }
   }
 }

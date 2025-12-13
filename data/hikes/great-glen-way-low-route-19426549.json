@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19426549
+  },
+  "ai": {
+    "summary": "A challenging 20.6 km segment of the Great Glen Way in the UK. This hard-rated trek traverses varied Highland terrain, including forest tracks, rocky sections, and exposed moorland, with potential boggy patches and elevation gain. It rewards experienced hikers with remote scenery, loch views, and a sense of rugged wilderness.",
+    "terrain_summary": "Dual terrain: woodland paths, open moor, and rocky ground. Expect uneven footing, tree roots, and occasional water crossings. Some sections are exposed to winds; navigation is straightforward along the route, but weather can reduce visibility and trail conditions can be muddy after rain.",
+    "safety_notes": "Plan for a long day: 6–9 hours depending on pace and conditions. Weather in the UK Highlands can change rapidly, with wind, rain, and cold even in summer. Always carry a map and compass as primary navigation, and use a GPS as backup. Wear sturdy waterproof boots and bring extra layers, a hat, and gloves. Tell someone your plan and expected return. Carry enough water and high-energy snacks; know your resupply points. Be prepared for boggy patches and potential trail erosion; avoid travel in poor visibility or severe weather, and consider a buddy system for safety.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Thermal layers and moisture-wicking base layers",
+      "Hat, gloves, and sun protection",
+      "Map, compass, and GPS (backup)",
+      "Water bottle or hydration reservoir + at least 2–3 L water",
+      "High-energy snacks",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Headlamp with extra batteries",
+      "Sunscreen",
+      "Trekking poles (optional)",
+      "Dry bag or pack liner"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) give the best conditions in the UK. Summer offers longer daylight hours, but weather can still be volatile, so be prepared for rain, wind, and temperature swings. Shoulder seasons can be rewarding with fewer crowds but cooler conditions.",
+    "seo": {
+      "title": "Great Glen Way Low Route: 20.6 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 20.6 km hike along the Great Glen Way Low Route in the UK. Learn terrain highlights, safety tips, gear, and the best seasons for this rugged trail.",
+      "h1": "Great Glen Way Low Route – 20.6 km Hard Hike in the UK"
+    }
   }
 }

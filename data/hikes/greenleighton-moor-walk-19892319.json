@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19892319
+  },
+  "ai": {
+    "summary": "Greenleighton Moor Walk is an 11.5 km moderate hike across open moorland in the UK. The route offers rolling terrain and rewarding views on clear days, with a manageable elevation gain suitable for hikers with some experience.",
+    "terrain_summary": "Expect grassy footpaths across open moorland, tussocky grasses, and occasional boggy patches. The path can be uneven and exposed in places, with rocky or compacted sections. Navigation can be challenging on featureless moor, so carry a map and compass or a GPS device.",
+    "safety_notes": "Weather on UK moors can change quickly. Wear sturdy waterproof boots and dress in layers with a waterproof outer layer. Stay on marked paths, inform someone of your plan and expected return, and carry a map and compass (or GPS). Bring sufficient water and snacks. Be cautious of boggy areas and livestock if present. Mobile signal may be limited in remote sections.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Hat and gloves (for wind protection)",
+      "Small first aid kit",
+      "Whistle for emergencies"
+    ],
+    "best_seasons": "Spring to autumn for milder, drier conditions; the route can be tackled year-round with appropriate gear.",
+    "seo": {
+      "title": "Greenleighton Moor Walk – 11.5km Moderate Moorland Hike in the UK",
+      "meta_description": "Plan your Greenleighton Moor Walk. An 11.5 km moderate hike across open moorland in the UK with terrain notes, safety tips, and gear recommendations.",
+      "h1": "Greenleighton Moor Walk – 11.5km Moderate Moorland Hike"
+    }
   }
 }

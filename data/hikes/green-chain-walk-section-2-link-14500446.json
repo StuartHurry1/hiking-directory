@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14500446
+  },
+  "ai": {
+    "summary": "A short, easy 0.4 km section of the Green Chain Walk in the UK, designed for a quick, low-effort stroll with minimal elevation gain.",
+    "terrain_summary": "Mostly flat with smooth surfaces (paved paths or compact trails). Occasional grassy or muddy patches may occur; expect light, even terrain suitable for beginners.",
+    "safety_notes": "Carry a light layer and water. Wear sturdy footwear. Stay on the designated path and heed trail signs. Be mindful of other pedestrians and potential coastal or road crossings. Check local conditions and weather before setting out. Have a charged phone and let someone know your plan.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sunscreen and hat",
+      "Phone with offline map or GPS",
+      "Small backpack",
+      "Snack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) generally offers the best conditions for this short walk; it can be done year-round with extra caution in wetter or colder months.",
+    "seo": {
+      "title": "Green Chain Walk Section 2 – 0.4 km Easy Walk in the UK",
+      "meta_description": "Explore Green Chain Walk Section 2, a short 0.4 km easy route in the UK. Quick terrain overview, safety tips, and gear recommendations.",
+      "h1": "Green Chain Walk Section 2: 0.4 km Easy Walk"
+    }
   }
 }

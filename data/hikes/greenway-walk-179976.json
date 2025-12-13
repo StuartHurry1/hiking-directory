@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 179976
+  },
+  "ai": {
+    "summary": "Greenway Walk is a demanding 28.3 km hike in the UK, designed for experienced walkers seeking a long, challenging day or a split two-day trek. The route combines varied terrain and sustained elevation, demanding good fitness, navigation, and preparation.",
+    "terrain_summary": "The path uses a mix of well-maintained footpaths, grassy lanes, woodland trails, and occasional road or field-edge sections. Surfaces may be uneven, muddy after rain, and rutted in places. Expect several sustained gradients and multiple gates or stiles along the way.",
+    "safety_notes": "Plan for 6–9 hours of walking. Check the weather forecast and daylight hours before you go. Carry a detailed map and compass (GPS as backup) and ensure your phone is charged in case of emergency. Wear sturdy waterproof boots and dress in layered clothing to adapt to changing conditions. Bring enough water (2–3 L) and high-energy snacks. Pack a weather-appropriate waterproof jacket, sun protection in sunny conditions, a small first aid kit, and an emergency whistle. Tell someone your planned route and expected finish time. Be mindful of livestock, gates, and potentially uneven navigation in unknown areas; consider shortening the route if visibility is poor or the ground is hazardous.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof and windproof jacket",
+      "Breathable layers and extra socks",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a small meal",
+      "Map and compass (GPS backup)",
+      "Headlamp or flashlight with spare batteries",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Sunscreen, sunglasses, and hat",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) generally offers the best daylight and milder weather; winter treks are possible with extra precautions such as appropriate clothing and shorter routes.",
+    "seo": {
+      "title": "Greenway Walk: 28.3 km Hard Hike in the UK",
+      "meta_description": "Discover Greenway Walk, a challenging 28.3 km hike in the UK. Learn about terrain, safety, gear, and the best seasons for this demanding long-distance trek.",
+      "h1": "Greenway Walk – 28.3 km Hard Hike in the UK"
+    }
   }
 }

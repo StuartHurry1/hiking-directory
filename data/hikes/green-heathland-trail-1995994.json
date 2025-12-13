@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 1995994
+  },
+  "ai": {
+    "summary": "The Green Heathland Trail is a 13.6 km moderate hike in the UK that takes you through open heathland with occasional woodland. The route offers wide skies, seasonal wildflowers, and a steady, well-signed path suitable for hikers with some experience.",
+    "terrain_summary": "Expect open heathland on sandy or peaty ground with short grassy sections, scattered scrub, and occasional damp or boggy patches after rain. The footing is generally gentle but uneven, with exposed stretches and occasional woodland pockets. Wear sturdy boots and be prepared for wind on open slopes.",
+    "safety_notes": "Check the forecast before you go; heathland can be windy and exposed. Wear sturdy boots and bring layered clothing, waterproofs, and sun protection. Carry a map and compass or GPS, a means of communication, plenty of water, snacks, and a basic first aid kit. Tell someone your route and expected return time; beware of boggy areas after rain and keep to marked paths.",
+    "recommended_gear": [
+      "Sturdy walking boots with good ankle support",
+      "Water bottle or hydration system (1–2 liters)",
+      "Layered clothing plus a waterproof/windproof jacket",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Snack or energy bars for energy along the trail",
+      "Sunscreen, hat, and sunglasses",
+      "Small first aid kit and blister care",
+      "Emergency whistle and reflective gear",
+      "Light rain cover or packable waterproof layer"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) are ideal for this trail due to better visibility and drier conditions; winter walking is possible with proper clothing but conditions can be more challenging.",
+    "seo": {
+      "title": "Green Heathland Trail — 13.6 km Moderate Hike in the UK",
+      "meta_description": "Discover the Green Heathland Trail, a 13.6 km moderately challenging hike through open heathland and woodland in the UK. Tips, gear, and best seasons.",
+      "h1": "Green Heathland Trail (13.6 km) – Moderate Hike in the UK"
+    }
   }
 }

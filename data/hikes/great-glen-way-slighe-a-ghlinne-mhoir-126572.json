@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 126572
+  },
+  "ai": {
+    "summary": "An epic, hard-distance hike along the Great Glen Way, known in Gaelic as Slighe a' Ghlinne Mhòir. The route covers approximately 378.1 km in the UK, threading from Fort William toward Inverness through highland landscapes, lochs, and Caledonian Canal corridors. Expect long days, challenging terrain, and spectacular Scottish scenery.",
+    "terrain_summary": "Mixed terrain including canal towpaths along the Caledonian Canal, forest tracks, peat bogs, rocky ascents, and lochside trails. Long sections can be muddy after rain; navigation is straightforward on the official route but weather and visibility can change quickly in the Highlands. Some stretches involve exposure with open viewpoints.",
+    "safety_notes": "Very long-distance hike in remote Scottish countryside. Plan for 15–25+ days at a steady pace (roughly 15–25 km per day, depending on fitness and conditions). Check the weather forecast and daylight hours; Scottish weather can change rapidly. Carry waterproof, windproof gear, warm layers, and sturdy footwear. Use maps and a compass or a GPS device; stay on marked paths. Inform someone of your itinerary and expected timelines. Be prepared for river or stream crossings after rain and for boggy sections. Adhere to the Scottish Outdoor Access Code and practice Leave No Trace; plan camping options in advance and respect landowners and habitats. Have a plan for emergency communication and know local emergency numbers.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Waterproof shell jacket and pants",
+      "Insulating layers (fleece or down)",
+      "Moisture-wicking base layers and hiking socks",
+      "Warm hat and lightweight gloves",
+      "Backpack with rain cover (40–60 L for multi-day trips)",
+      "Water bottle or hydration bladder plus water purification method",
+      "Map, compass, and/or GPS device",
+      "Headlamp with extra batteries",
+      "Sleeping bag suitable for Scottish nights (comfort -5 to 0°C)",
+      "Sleeping mat",
+      "Lightweight shelter (tarp or tent) or bivy sack",
+      "First aid kit with blister care",
+      "Emergency whistle and multi-tool",
+      "Dry bags or packing cubes",
+      "Personal toiletries, towel, and sunscreen",
+      "Energy-dense snacks and meals planning"
+    ],
+    "best_seasons": "May–September is typically best for longer days and drier weather; April and October can be workable with favorable conditions and careful planning.",
+    "seo": {
+      "title": "Great Glen Way - Slighe a' Ghlinne Mhòir: UK Long-Distance Trek (378.1 km, Hard)",
+      "meta_description": "Plan your adventure on the Great Glen Way, Gaelic Slighe a' Ghlinne Mhòir. A 378.1 km hard hike across Scotland’s Highlands via canals, lochs, and rugged trails. Gear lists, safety tips, best seasons, and route overview included.",
+      "h1": "Great Glen Way - Slighe a' Ghlinne Mhòir (378.1 km, Hard)"
+    }
   }
 }

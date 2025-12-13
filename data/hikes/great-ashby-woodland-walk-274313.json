@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 274313
+  },
+  "ai": {
+    "summary": "A scenic 8.7 km woodland loop in the UK offering a moderate hike through shaded forest with gentle elevation changes; suitable for walkers with some stamina and an interest in tranquil, tree-lined trails.",
+    "terrain_summary": "Predominantly well-defined woodland paths with varied surfaces. Expect a mix of dirt tracks, compact gravel, and occasional boardwalks; minor roots underfoot; sections can be muddy after rain and slight elevation changes.",
+    "safety_notes": "Check the weather forecast before you go and dress in layers. Wear sturdy waterproof footwear and stay on marked trails. Bring a map or offline GPS, a fully charged phone, and enough water and snacks. Be mindful of mud, roots, and uneven ground; avoid wildlife disturbance. Let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing (layers, waterproof outer layer)",
+      "Backpack with water and snacks",
+      "Water bottle or hydration system",
+      "Map, guidebook, or offline GPS",
+      "Fully charged mobile phone",
+      "Small first aid kit",
+      "Headlamp or flashlight (in case of late return)",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "Spring through autumn are ideal for comfortable conditions and daylight; winter visits are possible with waterproof gear and caution on mud and slick surfaces.",
+    "seo": {
+      "title": "Great Ashby Woodland Walk - 8.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the 8.7 km Great Ashby Woodland Walk in the UK. A moderate woodland hike with tree-lined paths, practical safety tips, gear suggestions, and the best seasons for visiting.",
+      "h1": "Great Ashby Woodland Walk – 8.7 km Moderate Hike"
+    }
   }
 }

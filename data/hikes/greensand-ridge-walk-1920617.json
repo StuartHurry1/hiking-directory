@@ -19,5 +19,31 @@
   "source": {
     "type": "osm",
     "osmId": 1920617
+  },
+  "ai": {
+    "summary": "A demanding long-distance trek along the Greensand Ridge in the UK, covering about 217.3 km. Expect varied terrain with ridgeline sections, chalk and greensand escarpments, woodlands, and open farmland. Suitable for experienced hikers with strong navigation and fitness.",
+    "terrain_summary": "Ridgetop paths and steep ascents/descents along chalk and greensand escarpments. Mixed surfaces include exposed open country, forest tracks, and farmland; frequent changes in elevation require good footing and navigation.",
+    "safety_notes": "Route involves long days, exposed sections, and variable weather. Carry adequate map and navigation tools, inform someone of your plan, and start early in long daylight periods. Wet and muddy conditions can slow progress; be cautious on exposed ridges and during fog or storms. Ensure sufficient daylight, water, and weather-appropriate clothing; have a plan for emergencies and withdrawal if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Weatherproof jacket and pants (breathable and waterproof)",
+      "Layered clothing for temperature changes",
+      "Backpack 20–40L with rain cover",
+      "Water supply with purification (water bottle or hydration system)",
+      "Map, compass, and/or GPS device (and knowledge to use them)",
+      "Emergency whistle",
+      "First aid kit",
+      "Headlamp with extra batteries",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Emergency blanket or bivy sack",
+      "Trekking poles (optional but helpful)",
+      "High-energy snacks and meals"
+    ],
+    "best_seasons": "Spring to autumn (roughly late spring to early autumn) offer the best daylight and weather; winter hiking is possible but more exposed and muddy, with higher avalanche and weather risks in some segments.",
+    "seo": {
+      "title": "Greensand Ridge Walk – 217 km UK Ridge Trek",
+      "meta_description": "Discover the Greensand Ridge Walk, a challenging 217.3 km long-distance hike in the UK. Learn about terrain, safety, gear, and the best seasons for this ridge-focused adventure.",
+      "h1": "Greensand Ridge Walk – 217 km UK Ridge Trek"
+    }
   }
 }
