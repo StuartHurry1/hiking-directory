@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 6080321
+  },
+  "ai": {
+    "summary": "Capital Ring (Section 01) is the first leg of a long-distance circular walk in the UK, covering 24.8 km. This hard section blends urban paths, parkland, and canal towpaths, with occasional gentle gradients. It is best tackled by experienced hikers with good navigation skills and stamina.",
+    "terrain_summary": "A mixed surface route: sections along city streets and pavements, park trails, canal towpaths, and some grassy or compact earth paths. Expect frequent urban crossings, potential crowding, and occasional muddy patches after rain. Elevation is generally gentle but the overall distance and exposure to urban hazards require steady footing and attention to wayfinding.",
+    "safety_notes": "This is a long and challenging section with city traffic, canal edges, and variable surfaces. Stay alert for pedestrians, cyclists, and road junctions. Plan for daylight hours, carry a charged phone and map, and have a navigation backup. Weather can change quickly; prepare for wind, rain, and mud. Let someone know your plans and estimated finish time.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing (layers, moisture-wicking base layer)",
+      "Water bottle or hydration system",
+      "Lightweight rain jacket and pack cover",
+      "Hat, sunglasses, and sunscreen",
+      "Map and compass or offline navigation app",
+      "Fully charged smartphone with power bank",
+      "Energy snacks and a light meal (e.g., nuts, bars, fruit)",
+      "Small first aid kit",
+      "Whistle for emergencies",
+      "Headlamp or flashlight (compact)",
+      "Dry bag or waterproof pouch for valuables"
+    ],
+    "best_seasons": "Spring and autumn are ideal due to milder temperatures and good daylight. Summer is doable with longer days but can be hot and crowded; winter is challenging with shorter daylight and potentially slippery surfaces.",
+    "seo": {
+      "title": "Capital Ring (Section 01) — 24.8 km Hard Hike in the UK",
+      "meta_description": "A detailed guide to Capital Ring Section 01, a hard 24.8 km leg blending urban trails, parks, and canal towpaths. Terrain, safety tips, and essential gear for this long-distance UK hike.",
+      "h1": "Capital Ring (Section 01) — 24.8 km Hard Hike in the UK"
+    }
   }
 }

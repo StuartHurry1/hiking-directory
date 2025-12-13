@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 14638771
+  },
+  "ai": {
+    "summary": "A challenging 288.6 km long-distance hike along the Camino Ingles to Santiago, rated hard. This route weaves coastal and rural terrain with substantial daily distances, demanding fitness, reliable navigation, and preparation for variable weather as you follow a historic pilgrimage path toward Santiago de Compostela.",
+    "terrain_summary": "Mixed terrain including coastal paths, rural lanes, woodland trails, and occasional road sections. Expect uneven dirt tracks, rocky segments, short steep climbs, and exposed uplands. Weather can be highly changeable with sea breezes, sun exposure, and rain.",
+    "safety_notes": "Plan for long daily distances; ensure conditioning and pacing. Be prepared for variable weather, especially in coastal and upland sections; bring layers, waterproofs, and sun protection. Some segments are remote with limited services; hike with a partner or inform someone of your itinerary and expected times. Navigation relies on waymarkers and GPS—carry a map, a charged device, and a backup power bank. Road sections require extra caution due to traffic; wear high-visibility gear in low light. Carry a basic first-aid kit, emergency whistle, and know the nearest bailout points or shelters.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing (base layer, fleece, waterproof shell)",
+      "Rucksack with 40–50 L capacity",
+      "Water bottle or hydration bladder (at least 2–3 L)",
+      "GPS device or map and compass",
+      "Headlamp with extra batteries",
+      "Lightweight rain shell and insulated layer",
+      "Sun hat, sunglasses, sunscreen",
+      "Insect repellent and basic first-aid kit",
+      "Energy-dense snacks and meals for long days",
+      "Walking poles (optional but helpful)",
+      "Emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring and autumn (approximately April–May and September–October) typically offer milder weather and lighter crowds; summer can be hot and winter often wet and icy.",
+    "seo": {
+      "title": "Camino Ingles to Santiago — 288.6 km Hard Hike (UK Region)",
+      "meta_description": "Explore the 288.6 km Camino Ingles to Santiago de Compostela, a challenging hard hike from the UK region. Learn terrain, safety tips, gear, and best seasons.",
+      "h1": "Camino Ingles to Santiago — 288.6 km Hard Hike"
+    }
   }
 }

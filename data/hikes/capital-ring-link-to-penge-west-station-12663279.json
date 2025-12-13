@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12663279
+  },
+  "ai": {
+    "summary": "A tiny, easy segment of the Capital Ring near Penge West station. At just 0.2 km, it’s ideal for a quick, city-friendly stroll that offers a brief taste of London’s urban scenery.",
+    "terrain_summary": "Pavement and sidewalks along urban streets with flat terrain; possible curb crossings; street lighting and common city surfaces.",
+    "safety_notes": "Urban walking segment; stay aware of traffic at crossings, watch for cyclists and other pedestrians, and keep valuables secure. Use daylight or reflective clothing in low light conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Smartphone with map or navigation app",
+      "Sun protection (hat and sunscreen)",
+      "Small backpack or crossbody bag"
+    ],
+    "best_seasons": "All year; best in spring and autumn for milder weather.",
+    "seo": {
+      "title": "Capital Ring: Penge West Station Segment (0.2 km) – Easy Urban Walk",
+      "meta_description": "Explore a short 0.2 km section of London's Capital Ring starting at Penge West station. An easy, city-friendly walk perfect for a quick outing.",
+      "h1": "Capital Ring Segment: Penge West Station (0.2 km) – Easy Urban Walk"
+    }
   }
 }

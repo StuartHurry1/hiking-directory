@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12567687
+  },
+  "ai": {
+    "summary": "This is a short, easy 0.8 km section of the Capital Ring near Mottingham Station in London. The walk follows urban paths with a mix of pavements and green space, suitable for a quick, level stroll suitable for all ages and fitness levels.",
+    "terrain_summary": "Mostly flat urban terrain: pavement sidewalks, short street crossings, and sections of parkland or residential green space. Expect some busy streets and occasional uneven surfaces near crossings.",
+    "safety_notes": "Urban walk: stay aware of traffic at crossings, watch for cyclists and vehicles, keep valuables secure, and be mindful of other pedestrians. If using public transport to start or end, check current timetables.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate outer layer",
+      "Water bottle",
+      "Map or offline navigation on phone",
+      "Light backpack",
+      "Sunscreen (in sunny weather)",
+      "Phone charger/power bank"
+    ],
+    "best_seasons": "Year-round; particularly pleasant in spring and summer when weather is milder and daylight is longer.",
+    "seo": {
+      "title": "Capital Ring Segment: Mottingham Station (0.8 km) – Easy Urban Walk in London",
+      "meta_description": "Explore a short 0.8 km section of the Capital Ring from Mottingham Station in London. An easy, flat urban walk through pavements and green space for a quick outdoor break.",
+      "h1": "Capital Ring Segment: Mottingham Station (0.8 km) – Easy Urban Walk"
+    }
   }
 }

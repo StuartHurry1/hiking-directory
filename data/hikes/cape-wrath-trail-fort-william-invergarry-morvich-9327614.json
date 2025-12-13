@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 9327614
+  },
+  "ai": {
+    "summary": "Cape Wrath Trail is a renowned long-distance trek in Scotland, covering roughly 248.6 km from Fort William to Morvich via Invergarry. It traverses rugged Highland landscape, including lochs, moorland, forests, and remote coastal sections, demanding stamina, navigation, and resilience to variable weather.",
+    "terrain_summary": "Terrain ranges from boggy moorland and peat flats to rocky ridges, forest tracks, and river crossings. Expect steep ascents and descents, long days on exposed terrain, and remote sections with limited resupply. Coastal and tidal segments near Cape Wrath add additional navigation and timing considerations.",
+    "safety_notes": "Plan for rapidly changing weather and limited rescue access. Carry detailed map and compass (GPS backup), know your route and tide times for coastal sections, and inform someone of your itinerary. The route is remote with limited cell service; carry a personal locator beacon or satellite messenger, sufficient food and water, proper insulation, and a well-fitted pack. Start early, monitor weather, and carry a contingency plan for bad conditions or injury.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Waterproof and breathable outer layers (jacket and trousers)",
+      "Insulating layers (fleece or down, hat and gloves)",
+      "Map and compass (GPS as backup) and knowledge of navigation",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Emergency beacon or satellite messenger (PLB/IR device)",
+      "Lightweight tent or bivy sack + sleeping system",
+      "Sleeping bag suitable for cool to cold temperatures",
+      "Sleeping mat",
+      "Stove, fuel, and lightweight cookset (or cold meals if preferred)",
+      "Enough high-energy food and snacks for multi-day segments",
+      "Water purification method (filter, tablets) or water bottles with purification capability",
+      "Sunscreen, sunglasses, insect repellent",
+      "Whistle, multi-tool or knife, duct tape",
+      "Spare clothing and socks, repair kit"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is preferable for the Cape Wrath Trail, with the best conditions typically in June–August. Winter travel is possible only with advanced mountaineering experience and extra precautions.",
+    "seo": {
+      "title": "Cape Wrath Trail: Fort William → Invergarry → Morvich – UK Long-Distance Hike",
+      "meta_description": "Guide to the Cape Wrath Trail in the UK, a demanding 248.6 km trek from Fort William to Morvich via Invergarry. Terrain, safety tips, gear, and best seasons.",
+      "h1": "Cape Wrath Trail: Fort William to Morvich"
+    }
   }
 }

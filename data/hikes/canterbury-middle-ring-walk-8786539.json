@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8786539
+  },
+  "ai": {
+    "summary": "A challenging 32.4 km circular hike around Canterbury's historic middle ring, combining rural lanes, footpaths, and occasional street sections. The route is demanding with long distances, variable terrain, and potential mud.",
+    "terrain_summary": "Mixed terrain: tarmac, unmade tracks, fields, and farmland. Expect gates and stiles, uneven ground, and damp conditions after rain. Navigation can be tricky in sections that run alongside countryside edges close to the city.",
+    "safety_notes": "This is a long and strenuous hike. Plan for a full day and check the weather forecast. Wear sturdy boots and bring waterproof clothing. Carry enough water and snacks, plus a map or GPS. Be mindful of road crossings, livestock, and gates. Let someone know your plan and expected finish time. In winter daylight is limited and mud can be extensive; during summer hydrate and protect from sun.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Water bottle or hydration system (2–3 liters)",
+      "Lightweight, waterproof jacket and layered clothing",
+      "Navigation: map or GPS device and compass",
+      "Headwear, sunglasses, sunscreen",
+      "First aid kit and whistle",
+      "Energy snacks and a light meal",
+      "Emergency foil blanket and basic repair kit"
+    ],
+    "best_seasons": "Spring and autumn (April–June and September–October) are ideal, offering milder weather and longer daylight. Summer is possible but can be busy; winter hiking is challenging due to mud and shorter days.",
+    "seo": {
+      "title": "Canterbury Middle Ring Walk – 32.4 km Hard Circular Hike in the UK",
+      "meta_description": "Discover the Canterbury Middle Ring Walk, a 32.4 km challenging circular route around Canterbury. Practical tips, terrain details, and gear recommendations.",
+      "h1": "Canterbury Middle Ring Walk: 32.4 km Hard Circular Hike in the UK"
+    }
   }
 }

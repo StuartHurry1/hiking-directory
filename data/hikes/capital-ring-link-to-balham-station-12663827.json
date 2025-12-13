@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12663827
+  },
+  "ai": {
+    "summary": "A very short, easy urban segment of the Capital Ring near Balham station in the UK. This 0.2 km stretch is best treated as a quick connector between nearby streets and green spaces, suitable for a brief stroll.",
+    "terrain_summary": "Urban terrain: sidewalks and short road sections, with nearby park paths. Mostly flat and well-maintained.",
+    "safety_notes": "Urban walk: stay to the sidewalk, obey pedestrian crossings, and be aware of traffic, cyclists, and other pedestrians. In low light, use reflective clothing and lights; consider weather conditions (rain, icy pavements) and keep valuables secure.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate clothing",
+      "Water bottle",
+      "Phone with map",
+      "ID/passport (optional)"
+    ],
+    "best_seasons": "All year round, with extra caution in winter and wet conditions.",
+    "seo": {
+      "title": "Capital Ring: Balham Station Segment (0.2 km) — Easy Urban Walk in the UK",
+      "meta_description": "Discover a 0.2 km segment of the Capital Ring near Balham Station in London, UK. An easy urban stroll along sidewalks and park paths with safety tips and gear suggestions.",
+      "h1": "Capital Ring: Balham Station Segment (0.2 km)"
+    }
   }
 }

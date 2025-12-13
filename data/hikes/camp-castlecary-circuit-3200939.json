@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 3200939
+  },
+  "ai": {
+    "summary": "The Camp Castlecary Circuit is a 10.2 km moderate circular hike in the UK. The route weaves through a mix of woodland, open moorland, and river-side sections, offering steady elevation and rewarding views at key points along the way.",
+    "terrain_summary": "Expect a combination of well-kept paths, damp grassy stretches, and short rocky steps. The surface ranges from compact gravel and boardwalks to soft earth; some sections can be muddy after rain. The route is largely non-technical with gentle climbs and descents.",
+    "safety_notes": "Always check the weather before you go; UK conditions can change quickly. Carry a map and compass or a reliable GPS since mobile coverage may be unreliable in remote areas. Wear sturdy walking boots and bring waterproofs, extra layers, and sufficient water and snacks. Stick to marked paths, watch for livestock or uneven ground, and start early enough to finish before dark. Let someone know your plans and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and trousers",
+      "Extra layers (fleece or wool)",
+      "Map and compass or GPS device",
+      "Sufficient water and snacks",
+      "Small first aid kit",
+      "Head torch or flashlight",
+      "Whistle",
+      "Emergency foil blanket",
+      "Sun protection (sunglasses, sunscreen)",
+      "Phone with portable charger"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) offer the best conditions and daylight. Winter hiking is possible with experience and proper gear, but expect harsher weather, more mud, and shorter daylight.",
+    "seo": {
+      "title": "Camp Castlecary Circuit – 10.2 km Moderate Hike in the UK",
+      "meta_description": "Discover the Camp Castlecary Circuit, a 10.2 km moderate hike in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for hiking.",
+      "h1": "Camp Castlecary Circuit – 10.2 km Moderate Hike in the UK"
+    }
   }
 }

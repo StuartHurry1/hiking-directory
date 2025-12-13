@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 11983990
+  },
+  "ai": {
+    "summary": "A short, easy 2 km segment of London's Capital Ring linked to Grove Park station. This urban hike weaves through local parks and quiet streets, offering a quick, family-friendly stroll with some green space and light scenery.",
+    "terrain_summary": "Primarily urban and suburban paths: paved footways through parks and along residential streets, with occasional grassy or greenspace sections. Expect well-maintained paths and short, level sections suitable for casual walkers.",
+    "safety_notes": "This is an urban route. Be mindful of traffic, cyclists, and road crossings. Stay on designated footpaths and use crossings at junctions. In winter daylight is limited, plan accordingly and wear visible clothing. Keep valuables secure and supervise children near roads. A map or offline route can help in areas with spotty mobile reception.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Layered clothing appropriate for the season",
+      "Phone or camera for photos"
+    ],
+    "best_seasons": "All year round; best in spring and early autumn when temperatures are mild and daylight is comfortable.",
+    "seo": {
+      "title": "Capital Ring Segment: Grove Park Station Link (2 km) – Easy London Hike",
+      "meta_description": "Explore a short, easy 2 km section of the Capital Ring from Grove Park station in London. Urban paths, parks, and quiet streets make for a family-friendly, quick outdoor stroll.",
+      "h1": "Capital Ring Segment: Grove Park Station Link (2 km) – Easy London Hike"
+    }
   }
 }

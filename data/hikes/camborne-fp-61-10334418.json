@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10334418
+  },
+  "ai": {
+    "summary": "A very short, easy walk of 0.4 km along Camborne FP 61 in the UK. Suitable for most ages and abilities, ideal for a quick outdoor stretch.",
+    "terrain_summary": "Flat to gently graded public footpath with compacted earth or gravel. Likely to be dry in summer; may be muddy after rain and near hedgerows or field edges.",
+    "safety_notes": "Stay on the public footpath; respect surrounding private land. Wear sturdy footwear and bring a light layer and rain gear. Check the weather before you go and plan for quick changes. The surface can be uneven or slippery when wet, so take care, especially in windy or icy conditions. Be mindful of livestock or farm signals if the path passes through fields. Ensure your phone is charged in case of emergency.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water and a small snack",
+      "Map or offline navigation (or GPS on your phone)",
+      "Fully charged mobile phone",
+      "Hat and sunscreen (summer)"
+    ],
+    "best_seasons": "All year round; generally most pleasant in late spring to early autumn, but the short length makes it suitable in any season with appropriate gear.",
+    "seo": {
+      "title": "Camborne FP 61 – Easy 0.4 km Public Footpath Hike in the UK",
+      "meta_description": "Explore Camborne FP 61, a brief and easy 0.4 km hike in the UK. Learn about terrain, safety tips, best seasons, and gear for a quick outdoor outing.",
+      "h1": "Camborne FP 61: 0.4 km Easy Public Footpath Walk"
+    }
   }
 }

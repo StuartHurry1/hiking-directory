@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 10306630
+  },
+  "ai": {
+    "summary": "Cape Wrath Trail (Allt Beithe - Carnoch) is a hard UK segment of about 24.9 km, featuring rugged coastal moorland, peat bogs, and remote, exposed terrain. This long hike requires solid navigation, endurance, and preparedness for rapidly changing weather.",
+    "terrain_summary": "Rugged, remote trail with peat bogs, rocky sections, and exposed ridgelines. Expect boggy footing, uneven ground, wind-driven spray near the coast, and occasional river crossings. Navigation by map and compass is recommended; GPS can help as backup.",
+    "safety_notes": "Plan for rapidly changing weather and short daylight hours. Tell someone your route and expected finish time. Carry a reliable map and compass (GPS as backup) and know how to use them. The route traverses a remote area with limited cell service—be prepared to turn back or bivouac if weather turns. Start early, carry sufficient food and water, and monitor tide times if coastal sections are involved. Wear layers, carry a warm layer for cold conditions, and have a whistle and basic first aid kit.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and overpants",
+      "Insulating layer (fleece or down)",
+      "Map and compass (GPS backup)",
+      "Headlamp with extra batteries",
+      "Water bottle or hydration system plus water filter or purification tablets",
+      "High-energy food and snacks",
+      "Emergency bivy sack or lightweight shelter",
+      "First aid kit suited for remote hiking",
+      "Whistle",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Gloves and extra socks",
+      "Trekking poles (optional)",
+      "Dry bag for electronics and rain cover for pack"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) for longest daylight and more stable conditions. Shoulder seasons (April or October) possible with caution; winter hiking requires advanced skills and equipment.",
+    "seo": {
+      "title": "Cape Wrath Trail – Allt Beithe to Carnoch (24.9 km, hard) | UK Hiking Guide",
+      "meta_description": "A practical guide to the Cape Wrath Trail segment from Allt Beithe to Carnoch in the UK. 24.9 km of hard terrain, rugged coastal moorland, safety tips, gear checklist, and best season.",
+      "h1": "Cape Wrath Trail: Allt Beithe to Carnoch (24.9 km, hard)"
+    }
   }
 }

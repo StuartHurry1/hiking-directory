@@ -17,5 +17,39 @@
   "source": {
     "type": "osm",
     "osmId": 6334405
+  },
+  "ai": {
+    "summary": "The Cape Wrath Trail is a rigorous, remote wilderness trek across Scotland’s West Highlands, stretching about 232 km from Fort William to Morvich (often via Glenfinnan and surrounding paths). It features rugged mountains, long moorland tracts, peat bogs, river crossings, and exposed coastal sections, requiring solid navigation, fitness, and self-sufficiency over multiple days.",
+    "terrain_summary": "Terrain ranges from high mountain ridges and rocky corries to soft peat bogs and open moorland. Expect long, often featureless legs between water sources, river crossings with changing water levels, and coastal sections exposed to wind and spray. Navigation is essential, and weather can turn quickly; plan for remote camping with limited resupply points.",
+    "safety_notes": "This is a hard wilderness route with remote sections and rapid weather changes. Hazards include sudden storms, hypothermia, dehydration, fatigue, river crossings, and navigation errors. Always carry a loot plan and beacon, share your itinerary, check forecasts, and ensure you have a means to call for help. Know your limits, carry sufficient reserves, and camp responsibly.",
+    "recommended_gear": [
+      "Topographic map and compass (and know-how)",
+      "GPS device (optional) and spare batteries",
+      "Sturdy waterproof hiking boots and gaiters",
+      "Waterproof breathable shell jacket and pants",
+      "Insulated mid-layer and down jacket",
+      "Thermal base layers",
+      "Bivouac sack or lightweight tent and groundsheet",
+      "Sleeping bag suitable for season + insulated mat",
+      "Portable stove, fuel, and pot; high-calorie food",
+      "Water purification method (filter, tablets, or UV)",
+      "Headlamp with extra batteries",
+      "First aid kit and personal medications",
+      "Multitool or knife",
+      "Firestarter or lighter",
+      "Emergency bivy or shelter and a whistle",
+      "Trekking poles",
+      "Dry bags and pack liners",
+      "Sun protection (hat, sunglasses, sunscreen)",
+      "Insect repellent",
+      "Personal locator beacon or satellite messenger (recommended)",
+      "Mobile power bank and charging cable"
+    ],
+    "best_seasons": "May–September (late spring to early autumn) for longer days and more stable weather; shoulder seasons possible but weather can be harsher and days shorter.",
+    "seo": {
+      "title": "Cape Wrath Trail: Fort William → Glenfinnan → Morvich – 232 km Wilderness Trek (UK)",
+      "meta_description": "Plan your 232 km Cape Wrath Trail trek from Fort William to Morvich. A demanding, remote route across Scotland's West Highlands with gear, safety tips, and best-season guidance.",
+      "h1": "Cape Wrath Trail: Fort William to Morvich (232 km)"
+    }
   }
 }

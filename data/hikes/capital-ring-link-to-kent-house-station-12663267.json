@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12663267
+  },
+  "ai": {
+    "summary": "A brief, easy 0.4 km section of the Capital Ring near Kent House station in the UK. This short urban walk offers a flat, paved route suitable for a quick stroll or a convenient link between transit stops.",
+    "terrain_summary": "Flat, mostly paved urban terrain. Expect city streets and potential park-edge segments with minimal elevation change.",
+    "safety_notes": "Watch crossings and traffic on urban streets. Stay on designated footpaths and be mindful of cyclists on shared paths. In low light, wear reflective clothing and carry a light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Mobile device with offline map",
+      "Sunscreen or hat for sunny days"
+    ],
+    "best_seasons": "Year-round; spring and summer provide the best daylight and pleasant conditions, but the short distance makes it suitable in any season.",
+    "seo": {
+      "title": "Capital Ring: Kent House Station Short Walk (0.4 km) - Easy Urban Stroll",
+      "meta_description": "Discover a tiny 0.4 km segment of London's Capital Ring near Kent House station. An easy, flat, urban walk suitable for a quick stroll or transit link.",
+      "h1": "Capital Ring: Kent House Station Short Walk (0.4 km)"
+    }
   }
 }

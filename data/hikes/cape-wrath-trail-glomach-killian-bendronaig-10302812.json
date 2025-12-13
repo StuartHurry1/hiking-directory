@@ -17,5 +17,39 @@
   "source": {
     "type": "osm",
     "osmId": 10302812
+  },
+  "ai": {
+    "summary": "A remote, hard-grade long-distance trek along a Highland corridor in the UK, covering about 35.7 km between Glomach, Killian, and Bendronaig. The route combines rough tracks, peat bogs, river crossings, and exposed ridges, demanding solid navigation, fitness, and weather preparedness.",
+    "terrain_summary": "The terrain features open moorland, rocky paths, boggy sections, and multiple river crossings. Expect steep climbs and descents, wind-exposed ridges on higher ground, and sections that can be muddy or waterlogged. Navigation is essential, as the trail can be indistinct in mist.",
+    "safety_notes": "This is a remote and exposed route with limited mobile coverage; carry a personal locator beacon and inform someone of your itinerary. Weather in the Highlands can change rapidly; always check the forecast and be prepared for wind, rain, and cold. Navigation is essential; bring a map and compass and know how to use them, as some sections are poorly marked. Start early to ensure daylight and plan for a full day with a bailout option if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Warm layers (fleece or down)",
+      "Insulated hat and gloves",
+      "Backpack with rain cover",
+      "Map, compass, and/or GPS",
+      "Personal locator beacon or satellite messenger",
+      "Headlamp with extra batteries",
+      "Tent or bivvy sack and sleeping bag",
+      "Sleeping mat",
+      "Portable stove, fuel, and cooking gear",
+      "Food and water treatment (filter/purifier)",
+      "Water bottles or hydration system",
+      "Trekking poles",
+      "Gaiters",
+      "First aid kit",
+      "Multi-tool or knife",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Emergency whistle",
+      "Spare clothing (base layers and socks)"
+    ],
+    "best_seasons": "Best from late spring to early autumn (roughly May to September). Winter hiking is strongly discouraged for most hikers due to severe weather and shorter daylight.",
+    "seo": {
+      "title": "Cape Wrath Trail: Glomach-Killian-Bendronaig (35.7 km) – UK",
+      "meta_description": "Detailed guide to the 35.7 km Cape Wrath Trail segment from Glomach through Killian to Bendronaig in the UK. Terrain, safety notes, gear recommendations, and best seasons for experienced hikers.",
+      "h1": "Cape Wrath Trail: Glomach to Bendronaig (Killian) – 35.7 km"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12719549
+  },
+  "ai": {
+    "summary": "A very short, easy urban segment of the Capital Ring near the Royal Albert DLR area in London. This 0.5 km route is flat, pavement-based, and suitable for a quick, low-effort stroll to enjoy riverside views and nearby green spaces.",
+    "terrain_summary": "Urban pavement with sidewalks along a riverside route. Mostly flat, occasional curb crossings, and paved paths through parks or promenades. Light crowds and city infrastructure are typical.",
+    "safety_notes": "Be aware of traffic at crossings and busy pedestrian areas. Stick to designated pavements, watch for cyclists and other pedestrians, and monitor weather conditions. Wear comfortable shoes, carry water, and keep a phone with maps for navigation and emergency contact.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Phone with offline map",
+      "Sunscreen or hat",
+      "Light backpack",
+      "Portable charger (optional)"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions in spring and summer; ensure appropriate clothing in autumn and winter.",
+    "seo": {
+      "title": "Capital Ring: 0.5 km Easy Walk near Royal Albert DLR, London",
+      "meta_description": "Explore a short, easy 0.5 km segment of the Capital Ring around Royal Albert DLR in London. Learn about terrain, safety, gear, and the best seasons for this urban stroll.",
+      "h1": "Capital Ring: 0.5 km Easy Walk by Royal Albert DLR"
+    }
   }
 }

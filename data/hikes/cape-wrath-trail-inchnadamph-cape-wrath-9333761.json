@@ -17,5 +17,43 @@
   "source": {
     "type": "osm",
     "osmId": 9333761
+  },
+  "ai": {
+    "summary": "The Cape Wrath Trail from Inchnadamph to Cape Wrath is a remote 180.9 km hike in the United Kingdom. Classified as hard, it typically takes about 9 to 14 days depending on pace and conditions. The route traverses Assynt and the northwest Highlands, featuring moorland, granite peaks, boggy ground, and dramatic coastal scenery. Expect wild camping, limited resupply points, and substantial navigation and endurance requirements.",
+    "terrain_summary": "Terrain is varied and demanding. Open moorland and peat bogs slow progress, while granite ridges and rocky slabs demand careful footing. Coastal sections bring exposure to wind and spray, with long stretches along cliffs and beaches. Elevation gains are significant over rugged terrain, and tree cover is scarce, making weather highly influential on progress. The route has few official paths; navigation relies on map and compass with route finding across featureless ground in places.",
+    "safety_notes": "The trail is extremely remote with limited phone reception in many sections. Weather in the Highlands can change rapidly; carry appropriate clothing for cold, wet, and windy conditions at any time of year. Plan for self sufficiency with sufficient food, fuel, and emergency gear. Bring a map, compass, and backup navigation device, and inform someone of your itinerary. Start early, monitor day length, and have a plan for wild camping or resupply. Be cautious with river fords and coastal crossings, and avoid dangerous routes during high tides or bad weather. Carry a first aid kit, a navigation device, a personal locator beacon or satellite messenger, and a means to signal for help.",
+    "recommended_gear": [
+      "Lightweight tent or bivy",
+      "Cold rated sleeping bag",
+      "Insulated sleeping mat",
+      "Stove and fuel",
+      "Cooking pot and utensils",
+      "Water bottle with purifier or treatment method",
+      "Map and compass (GPS backup)",
+      "Headlamp with extra batteries",
+      "Waterproof jacket and waterproof pants",
+      "Insulation layers (fleece or down)",
+      "Base layers and thermal socks",
+      "Sturdy hiking boots with ankle support",
+      "Gaiters",
+      "Trekking poles",
+      "Emergency shelter or space blanket",
+      "First aid kit",
+      "Multi-tool or knife",
+      "Firestarter (matches or lighter)",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Insect repellent",
+      "Personal locator beacon or satellite messenger",
+      "Dry bags and stuff sacks",
+      "Sufficient food for multi day stretches and a resupply plan",
+      "Personal hygiene items"
+    ],
+    "best_seasons": "May to September is the typical best window for the Cape Wrath Trail, offering longer daylight and generally drier conditions. Spring and autumn can be excellent but weather is more variable and the route is very exposed. Winter conditions are harsh and not advised for casual hikers.",
+    "seo": {
+      "title": "Cape Wrath Trail: Inchnadamph to Cape Wrath | 180.9 km UK Remote Hike",
+      "meta_description": "Tackle the Cape Wrath Trail from Inchnadamph to Cape Wrath, a 180.9 km hard and remote hike across Scotland's northwest coast. Get terrain, safety tips, gear lists, and best seasons.",
+      "h1": "Cape Wrath Trail: Inchnadamph to Cape Wrath"
+    }
   }
 }

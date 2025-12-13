@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 14222916
+  },
+  "ai": {
+    "summary": "A short, easy urban segment of the Capital Ring trail in the UK, covering 0.6 km along flat, well-surfaced paths. This section is suitable for walkers of all ages and abilities seeking a quick outdoor stroll with minimal elevation.",
+    "terrain_summary": "Flat and well-maintained surfaces along urban parkland and canal-side paths; mix of paved sections and compact gravel with minimal elevation gain.",
+    "safety_notes": "Urban trail walking: stay on designated paths, be mindful of pedestrians and cyclists sharing routes, watch for street crossings when segments run near roads, daylight hours, weather-appropriate clothing, and bring water and basic first-aid supplies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Hat and sunscreen",
+      "Small backpack or daypack",
+      "Map, offline route, or smartphone with GPS",
+      "Basic first aid item (band-aids)"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn.",
+    "seo": {
+      "title": "Capital Ring Section 13 — Easy 0.6 km Hike in the UK",
+      "meta_description": "Explore Capital Ring Section 13, a short and easy 0.6 km segment in the UK. Ideal for a quick urban stroll with flat, well-maintained paths.",
+      "h1": "Capital Ring (Section 13)"
+    }
   }
 }

@@ -17,5 +17,34 @@
   "source": {
     "type": "osm",
     "osmId": 10306728
+  },
+  "ai": {
+    "summary": "A challenging 16.2 km section of the Cape Wrath Trail, from Craig to Bealach Ban, in the UK. Remote coastal scenery, rugged footing and exposed weather require solid fitness and navigation skills.",
+    "terrain_summary": "Rugged coastal route with rocky paths, peat bogs, uneven ground and short scrambles. Open exposure to wind and sea spray, potential mud, and limited shelter between points; expect variable footing and potential stream crossings.",
+    "safety_notes": "Very remote with limited cell service. Carry map and compass and know your escape points. Weather can change rapidly; bring layered clothing, waterproofs, and an emergency shelter. Start early, factor in extra time, and be mindful of tides on coastal sections. Bring sufficient water and food, inform someone of your plan, and consider a personal locator beacon for emergencies. Stay away from unstable cliff edges and heed local warnings.",
+    "recommended_gear": [
+      "Waterproof rain jacket and waterproof trousers",
+      "Insulated mid-layer (fleece or lightweight down)",
+      "Sturdy hiking boots with good grip and ankle support",
+      "Topographic map and compass (GPS as backup)",
+      "Fully charged navigation device (GPS/phone) with offline maps",
+      "Headlamp with extra batteries",
+      "Emergency shelter or bivy bag",
+      "First-aid kit tailored for remote trips",
+      "Water bottle or hydration system and water purification method",
+      "High-energy food and snacks for a full day",
+      "Sun protection: hat, sunglasses, sunscreen",
+      "Warm hat and gloves for wind chill",
+      "Trekking poles (optional but helpful on rough terrain)",
+      "Whistle and multitool",
+      "Dry bags or pack liners and a small daypack for essentials",
+      "Personal locator beacon or satellite messenger (optional)"
+    ],
+    "best_seasons": "May–September (typical best window for drier, calmer conditions; shoulder seasons possible but weather can still be unpredictable).",
+    "seo": {
+      "title": "Cape Wrath Trail: Craig–Bealach Ban (16.2 km) – UK Coastal Hike Guide",
+      "meta_description": "Discover the 16.2 km Craig to Bealach Ban section of the Cape Wrath Trail in the UK. A hard, remote coastal hike with rugged terrain, safety tips, and gear recommendations.",
+      "h1": "Cape Wrath Trail – Craig to Bealach Ban (16.2 km)"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12661372
+  },
+  "ai": {
+    "summary": "A short, easy segment of the Capital Ring that starts near Finsbury Park Station in London. This 1.2 km stretch offers a quick urban-green experience with parks, tree-lined streets, and light pedestrian traffic, ideal for a quick outdoor stroll or a casual exit from the Capital Ring network.",
+    "terrain_summary": "Mostly flat, paved sidewalks and park paths. You’ll pass through sections of Finsbury Park and nearby green spaces, with occasional crossings of quiet streets. Expect urban terrain with some benches and grassed areas.",
+    "safety_notes": "Urban walk safety: be mindful of traffic at crossings and cyclists on shared paths. Secure valuables in crowded areas and during busy times. Short daylight hours in winter—plan for daylight or bring a light.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket or layerable clothing",
+      "Mobile phone with offline map or route notes",
+      "Small backpack or sling bag",
+      "Sunscreen and hat in sunny weather"
+    ],
+    "best_seasons": "Spring to autumn; the segment is pleasant in mild weather, but it can be walked year-round; rain and darkness may affect comfort.",
+    "seo": {
+      "title": "Capital Ring Segment: 1.2 km Easy Walk from Finsbury Park Station | London Hike Guide",
+      "meta_description": "Discover an easy 1.2 km stretch of the Capital Ring starting near Finsbury Park Station in London. A flat, urban-green walk through parks and streets—great for a quick outdoor break or training stroll.",
+      "h1": "Capital Ring: 1.2 km Easy Walk from Finsbury Park Station"
+    }
   }
 }

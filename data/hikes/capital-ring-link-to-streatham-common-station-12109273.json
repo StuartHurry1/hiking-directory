@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12109273
+  },
+  "ai": {
+    "summary": "A short, easy urban segment of the Capital Ring near Streatham Common Station in London. This 0.2 km walk offers a quick, low-effort stroll through parkland and light urban paths as part of the larger Capital Ring route.",
+    "terrain_summary": "Paved paths and parkland sections with some urban street crossings. Generally flat and suitable for all ages; watch for pedestrians and cyclists on shared paths.",
+    "safety_notes": "Though short, stay aware of traffic at crossings and busy streets nearby. Use crosswalks, keep children within sight, and wear appropriate footwear. In winter, be cautious of wet surfaces and limited lighting; carry a small light if walking after dark.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Map or offline navigation (optional)",
+      "Portable phone battery or power bank"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and autumn in London. Summer can be busy; winter may be cold and damp.",
+    "seo": {
+      "title": "Capital Ring Short Walk near Streatham Common Station (0.2 km) – Easy Urban Trail",
+      "meta_description": "Explore a tiny, easy 0.2 km segment of the Capital Ring near Streatham Common Station in London. Perfect for a quick urban stroll.",
+      "h1": "Capital Ring: Streatham Common Station Short Walk (0.2 km)"
+    }
   }
 }

@@ -17,5 +17,37 @@
   "source": {
     "type": "osm",
     "osmId": 9332336
+  },
+  "ai": {
+    "summary": "A strenuous, remote Scottish Highlands traverse covering about 216.6 km from Kinlochewe to Inchnadamph. The Cape Wrath Trail offers wild landscapes, rugged ridges, lochs, peat bogs and long days with significant elevation changes in a sparsely populated setting.",
+    "terrain_summary": "Remote Highland terrain with boggy moorland, rocky paths, exposed ridges, river crossings and lengthy stretches between settlements. Navigation skills are important, and weather can be unpredictable and severe even in summer.",
+    "safety_notes": "Navigation is essential: carry a detailed map and compass and know how to use them. Weather in the Scottish Highlands is highly changeable and can be severe; bring waterproof and insulating layers. Plan for multiple remote days with limited resupply; carry extra food and know water sources and purification methods. Inform someone of your route and expected timeline; carrying a personal locator beacon or satellite messenger is recommended. River crossings and wet moorland can be hazardous after rain; be prepared to adjust or turn back. Overnight camping is common; practice Leave No Trace and camp where permitted. Fatigue, exposure, and wildlife are factors; pace yourself and monitor symptoms of altitude or cold stress if relevant.",
+    "recommended_gear": [
+      "Topographic map and compass (GPS as backup)",
+      "Sturdy waterproof boots with good grip and gaiters",
+      "Waterproof, breathable jacket and pants",
+      "Insulating mid-layer and warm hat/gloves",
+      "Sleeping bag suitable for Scottish nights",
+      "Lightweight tent or bivy sack and sleeping mat",
+      "Backpack with rain cover and proper padding",
+      "Cooking gear and stove with fuel",
+      "Water treatment (filters or purification tablets)",
+      "High-energy, calorie-dense food for several days",
+      "Headlamp with extra batteries",
+      "Personal first aid kit and any required medications",
+      "Blister care kit and repair kit",
+      "Emergency beacon or satellite messenger (optional but recommended)",
+      "Whistle, multitool, and knife",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Extra moisture-wicking clothing and socks",
+      "Dry bags or waterproof stuff sacks",
+      "Trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer longer daylight and better trail conditions, but weather remains highly changeable and passes can be hazardous year-round.",
+    "seo": {
+      "title": "Cape Wrath Trail: Kinlochewe to Inchnadamph — UK Highland Trek Guide",
+      "meta_description": "Plan a challenging 216.6 km hike along the Cape Wrath Trail from Kinlochewe to Inchnadamph in the Scottish Highlands. Explore terrain, safety considerations, best seasons, and gear.",
+      "h1": "Cape Wrath Trail (Kinlochewe → Inchnadamph) – Full Hike Guide"
+    }
   }
 }

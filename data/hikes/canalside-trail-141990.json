@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 141990
+  },
+  "ai": {
+    "summary": "An easy 3.2 km canal-side walk in the UK along the Canalside Trail. The route is flat, scenic, and suitable for families and casual walkers.",
+    "terrain_summary": "Flat, well-maintained towpath with occasional gravel sections and shade near trees. Shared with cyclists in some sections; be mindful near bridges and locks.",
+    "safety_notes": "Stay on the marked path. Be aware of cyclists on shared sections. Check weather and bring water. Supervise children near edges and locks. Use sun protection on sunny days.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Mobile phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for drier, milder conditions; winter can be wet and muddy with shorter daylight.",
+    "seo": {
+      "title": "Canalside Trail – Easy 3.2 km Canal Walk in the UK",
+      "meta_description": "Discover the easy 3.2 km Canalside Trail in the UK. A flat, canal-side walk suitable for all ages with safety tips and gear recommendations.",
+      "h1": "Canalside Trail: Easy 3.2 km Canal Walk in the UK"
+    }
   }
 }

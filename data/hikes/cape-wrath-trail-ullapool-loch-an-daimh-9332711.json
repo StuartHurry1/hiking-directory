@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 9332711
+  },
+  "ai": {
+    "summary": "A challenging 33.6 km hike in Scotland from Ullapool to Loch an Daimh, featuring rugged coastal sections, peat moorland, and remote terrain. Best suited for experienced hikers with solid navigation skills and good fitness.",
+    "terrain_summary": "Rugged, remote terrain combining coastal paths, open moorland, and occasional woodland. Expect rocky trails, boggy ground, exposed ridges, streams, and significant elevation changes. Weather is highly variable, with limited shelter and facilities along much of the route; navigation and preparedness are essential.",
+    "safety_notes": "Very remote with long stretches between settlements; plan thoroughly and inform someone of your route and ETA. Carry navigation tools (map, compass, or GPS), sufficient food and water, and a means to purify water. Check weather conditions and avoid severe winds or storms. Be prepared for boggy sections, uneven footing, and potential rapid weather changes. Carry an emergency shelter and know how to contact local emergency services if needed.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Warm layers and a waterproof/windproof shell",
+      "Hat, gloves, and sun protection (sunglasses, sunscreen)",
+      "Waterproof backpack cover",
+      "Map, compass, and/or GPS device",
+      "Headlamp with extra batteries",
+      "Water bottles or hydration system; water purification method",
+      "High-energy food sufficient for a full day (plus contingency)",
+      "Emergency bivy or space blanket",
+      "First aid kit",
+      "Whistle and multitool",
+      "Trekking poles (optional but helpful)",
+      "Dry bags for electronics and valuables"
+    ],
+    "best_seasons": "May–September (late spring to early autumn)",
+    "seo": {
+      "title": "Cape Wrath Trail (Ullapool → Loch an Daimh) — 33.6 km, Hard | UK Hike Guide",
+      "meta_description": "A detailed guide to the 33.6 km Cape Wrath Trail segment from Ullapool to Loch an Daimh. Learn terrain, safety tips, and gear recommendations for this challenging Scottish hike.",
+      "h1": "Cape Wrath Trail: Ullapool to Loch an Daimh (33.6 km)"
+    }
   }
 }

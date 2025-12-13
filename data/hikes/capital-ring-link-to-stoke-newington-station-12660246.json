@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12660246
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.2 km segment of the Capital Ring near Stoke Newington Station in London. This ultra-short urban stroll is perfect for a quick break or a relaxed leg stretch, suitable for all ages and fitness levels.",
+    "terrain_summary": "Flat urban pavement along a short stretch of the Capital Ring. Expect smooth surfaces with occasional curb edges and street furniture; some sections may have moderate pedestrian or cyclist traffic.",
+    "safety_notes": "Stay aware of road crossings and traffic when exiting or entering the route. Watch for cyclists on shared paths, keep valuables secure in crowded areas, and use reflective gear after dark.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light weather-appropriate layer",
+      "Phone with map or offline access",
+      "Small backpack or waist pack"
+    ],
+    "best_seasons": "Year-round in the UK; late spring to early autumn offers the most pleasant conditions and daylight, while winter visits require extra care due to reduced daylight and potential weather.",
+    "seo": {
+      "title": "Capital Ring Stoke Newington Station Segment (0.2 km) – Easy Urban Hike UK",
+      "meta_description": "Explore a short 0.2 km stretch of the Capital Ring near Stoke Newington Station in the UK. An easy, urban hike suitable for all ages and quick outings.",
+      "h1": "Capital Ring: Stoke Newington Station Segment (0.2 km)"
+    }
   }
 }

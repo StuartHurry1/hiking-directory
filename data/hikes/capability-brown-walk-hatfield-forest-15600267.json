@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 15600267
+  },
+  "ai": {
+    "summary": "A gentle 5.5 km loop through Hatfield Forest, following Capability Brown-era landscape design with tranquil lakes, shady woodland, and open glades. Ideal for beginners, families, and walkers seeking a relaxed day out in the United Kingdom.",
+    "terrain_summary": "Primarily easy forest tracks and grassy paths. Flat to gently undulating with occasional roots and a few uneven sections. Expect lakeside views, occasional boardwalks, and potential mud after rain.",
+    "safety_notes": "Wear sturdy footwear and stay on marked paths. Be mindful of uneven ground, low branches, and slippery surfaces when wet. Check the weather and daylight hours before you go. Keep children and dogs under close supervision. Carry water, a light layer, and a basic first aid kit; bring a map or offline GPS in case of signal loss. Be aware of ticks in woodland areas and follow local guidelines.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Map or offline GPS",
+      "Insect repellent",
+      "Small first-aid kit",
+      "Snacks"
+    ],
+    "best_seasons": "Year-round, with particularly pleasant conditions in spring and autumn; expect muddier trails in winter and after rain.",
+    "seo": {
+      "title": "Capability Brown Walk, Hatfield Forest – Easy 5.5 km Lakeside Walk in the UK",
+      "meta_description": "Discover the Capability Brown Walk at Hatfield Forest. A gentle 5.5 km route through lakeside scenery in the UK, ideal for beginners and families.",
+      "h1": "Capability Brown Walk, Hatfield Forest (Easy 5.5 km Lakes Trail)"
+    }
   }
 }

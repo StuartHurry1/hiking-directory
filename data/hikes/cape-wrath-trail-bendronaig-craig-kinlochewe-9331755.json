@@ -17,5 +17,40 @@
   "source": {
     "type": "osm",
     "osmId": 9331755
+  },
+  "ai": {
+    "summary": "A challenging 64.2 km segment of the Cape Wrath Trail from Bendronaig to Kinlochewe in the UK. This remote, multi-day trek traverses rugged coastal and Highland terrain, demanding solid navigation, fitness, and weather preparedness.",
+    "terrain_summary": "Rugged NW Scotland terrain with a mix of coastal paths, moorland, peat bogs, and rocky ridges. Expect long remote sections, few resupply points, river/stream crossings, and exposure to wind and changing weather.",
+    "safety_notes": "Remote, long-distance hike with limited rescue options. Prepare for rapid weather changes and challenging navigation. Carry map and compass (GPS optional), know your route, and have a detailed itinerary. Ensure adequate clothing, water supply, and water purification. Plan for water and food; be mindful of tidal or coastal conditions and river crossings. Carry a first aid kit, whistle, headlamp, and emergency signaling device (PLB or satellite messenger if possible). Inform someone of your itinerary and check-in plans. In the UK, know how to contact emergency services at 999/112.",
+    "recommended_gear": [
+      "Map and compass",
+      "GPS device (optional)",
+      "Sturdy waterproof boots",
+      "Layered clothing (base, mid, outer)",
+      "Waterproof jacket and pants",
+      "Warm hat and gloves",
+      "Backpack with rain cover",
+      "Sleeping bag appropriate for season",
+      "Sleeping mat",
+      "Tent or bivy (weather dependent)",
+      "Stove or cooking system and fuel",
+      "Cookware and utensils",
+      "Water purification method (filter/chemical)",
+      "High-energy food and snacks",
+      "Headlamp with extra batteries",
+      "First aid kit with blister care",
+      "Whistle",
+      "Repair kit and duct tape",
+      "Emergency shelter/space blanket",
+      "Personal locator beacon (PLB) or satellite messenger (optional)",
+      "Plastic bags for dry gear",
+      "Personal medications"
+    ],
+    "best_seasons": "May to September offers longer daylight and typically drier weather; outside this window, conditions can be severe and daylight limited.",
+    "seo": {
+      "title": "Cape Wrath Trail – Bendronaig to Kinlochewe (64.2 km, Hard) UK",
+      "meta_description": "Guide to the Cape Wrath Trail segment Bendronaig → Kinlochewe. A 64.2 km hard hike through remote NW Scotland with terrain, safety tips, gear lists, and best seasons.",
+      "h1": "Cape Wrath Trail: Bendronaig to Kinlochewe – 64.2 km Hard Hike"
+    }
   }
 }

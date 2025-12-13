@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 10306763
+  },
+  "ai": {
+    "summary": "Cape Wrath Trail (Ceasan Dorcha) is a UK coastal hike listed here with a distance of 12.6 km and a moderate difficulty. The route traverses rugged coastlines, exposed moorland, and uneven terrain, offering remote scenery and a sense of adventure.",
+    "terrain_summary": "Expect rugged coastal paths, rocky sections, and open moorland with potential boggy patches. Footing can be uneven and weather highly variable; the route is exposed to wind and rain. Some parts may be remote with limited cell service, requiring good navigation and self-sufficiency.",
+    "safety_notes": "Remote route with limited cell service; inform someone of your plan. Weather can change rapidly—carry appropriate clothing and check forecasts. Navigation skills are important, even on familiar segments. Be aware of tide times and coastal exposure. Ensure enough daylight for the hike and have an emergency plan and equipment.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weatherproof jacket and pants",
+      "Warm layers (fleece or down)",
+      "Hat and gloves",
+      "Backpack with rain cover",
+      "Map and compass (and backup GPS)",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Emergency bivy or space blanket",
+      "Whistle",
+      "Sunscreen and sunglasses",
+      "Extra socks"
+    ],
+    "best_seasons": "Late spring to early autumn; particularly June–September for longer daylight and milder weather, though conditions can still be windy or wet.",
+    "seo": {
+      "title": "Cape Wrath Trail (Ceasan Dorcha) – 12.6 km Moderate Coastal Hike in the UK",
+      "meta_description": "Discover Cape Wrath Trail (Ceasan Dorcha) in the UK. 12.6 km of moderate coastal terrain with rugged scenery, safety tips, best seasons, and gear recommendations.",
+      "h1": "Cape Wrath Trail (Ceasan Dorcha) – 12.6 km, Moderate Difficulty"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12568270
+  },
+  "ai": {
+    "summary": "This is a short, easy 1 km section of the Capital Ring near Hendon Central Underground Station in London. It’s an urban stroll combining parkland and pavements, suitable for casual walkers and families.",
+    "terrain_summary": "Predominantly flat pavements and well-trodden footpaths. Short stretches through parks may include grassy paths. Urban sections with street lighting and occasional road crossings; mostly level with minimal elevation change.",
+    "safety_notes": "Stay on designated footpaths and pavements. Be mindful of traffic when crossing roads. Share the path with other pedestrians and cyclists in busy areas. Carry a charged mobile phone, and plan around weather and daylight hours. If walking alone, consider notifying someone of your route and expected finish time.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Phone with maps or offline route",
+      "Sunglasses/hat (seasonal)",
+      "Small backpack or waist pack"
+    ],
+    "best_seasons": "All year, with especially pleasant conditions in spring and autumn",
+    "seo": {
+      "title": "Capital Ring: 1 km Easy Walk from Hendon Central Underground Station",
+      "meta_description": "Discover a short, easy 1 km segment of the Capital Ring near Hendon Central Underground Station in London. Flat terrain, urban scenery, practical safety tips and gear.",
+      "h1": "Capital Ring – Hendon Central 1 km Easy Walk"
+    }
   }
 }

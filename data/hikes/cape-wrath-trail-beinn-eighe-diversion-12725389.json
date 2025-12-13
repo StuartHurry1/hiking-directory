@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 12725389
+  },
+  "ai": {
+    "summary": "A challenging 32.8 km subsection of the Cape Wrath Trail following the Beinn Eighe Diversion, combining rugged mountains, remote coastlines and long, strenuous hiking. Designed for experienced trekkers, this route demands solid navigation, reliable weather tolerance and the stamina to cover long distances in remote terrain.",
+    "terrain_summary": "Expect a mix of high mountain paths, rocky ascents, peat bogs and scree, with short stretches along exposed coastal sections. The Beinn Eighe Diversion adds technical ground and navigation considerations compared with the main trail. The route is remote with limited resupply points and weather can shift rapidly, requiring good preparedness and route-finding skills.",
+    "safety_notes": "This is a remote, hard-grade route. Hikers should not go solo without a plan. Check the forecast and be prepared for sudden weather changes, wind, and rain. Carry a detailed map and compass (and know how to use them); a GPS device is helpful but do not rely on it alone. Inform someone of your itinerary and expected finish time. Bring a personal locator beacon or satellite messenger if traveling alone. Water sources may be scarce; carry or treat sufficient water and know how to purify. Wear appropriate clothing and sturdy footwear, and allow extra time for navigation and difficult sections. In winter conditions, avoid this diversion unless you are highly skilled and properly equipped.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof outer layer (jacket and pants)",
+      "Insulating mid-layer and base layers",
+      "Water bottle(s) or hydration reservoir",
+      "Map, compass and backup navigation (GPS optional)",
+      "Emergency whistle",
+      "First aid kit and personal medications",
+      "Headlamp with extra batteries",
+      "Emergency blanket or bivy sack",
+      "Water purification method (filters or tablets)",
+      "Sun protection (sunscreen, sunglasses, hat)",
+      "Trekking poles",
+      "Multi-tool or knife",
+      "Fire-starting kit (waterproof matches or lighter)",
+      "Personal locator beacon or satellite messenger (recommended for solo trips)"
+    ],
+    "best_seasons": "May–September are typically best for this section due to longer daylight hours and more stable weather in the UK. It can be hiked in spring or autumn, but be prepared for rapidly changing conditions and shorter days; winter travel is generally not recommended for safety reasons.",
+    "seo": {
+      "title": "Cape Wrath Trail (Beinn Eighe Diversion) – 32.8 km Challenge in the UK",
+      "meta_description": "Explore the Cape Wrath Trail Beinn Eighe Diversion, a 32.8 km hard hike in the UK featuring rugged mountains, remote coast, and demanding navigation. Includes safety tips and gear.",
+      "h1": "Cape Wrath Trail (Beinn Eighe Diversion) – 32.8 km"
+    }
   }
 }

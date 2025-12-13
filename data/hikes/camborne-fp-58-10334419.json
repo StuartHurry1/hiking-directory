@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10334419
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km hike along a UK footpath, suitable for beginners and families. The route offers a gentle, well-maintained surface with minimal ascent, making it a quick option for a daytime stroll.",
+    "terrain_summary": "Mostly flat or gently graded trail with a mix of compacted earth and short sections of grass. Expect a well-maintained path with occasional exposed roots or uneven spots after rain. Footing is generally straightforward for walkers of all ages.",
+    "safety_notes": "Weather can change quickly in the UK. Wear sturdy footwear with good grip. The path can be slippery when wet and may have mud or uneven patches. Stay on the marked route, be mindful of other walkers and cyclists, and carry a phone for emergencies. Pack extra layers in cold or windy conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes or hiking trainers",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Snack (optional)",
+      "Phone or map",
+      "Light rain jacket"
+    ],
+    "best_seasons": "Year-round, with the most pleasant conditions in late spring to early autumn; in winter be prepared for mud and colder temperatures.",
+    "seo": {
+      "title": "Camborne FP 58 – Easy 0.8 km Hike in the UK",
+      "meta_description": "Explore Camborne FP 58, a short and easy 0.8 km hike in the UK. Perfect for beginners and families, with practical safety tips and gear recommendations.",
+      "h1": "Camborne FP 58 – 0.8 km Easy Hike"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 10535237
+  },
+  "ai": {
+    "summary": "A 0.3 km easy section of the Capital Ring (Section 03) designed to avoid stairs, providing a short, flat route suitable for most walkers.",
+    "terrain_summary": "Predominantly flat pavement and well-maintained footpaths; minimal elevation with occasional small uneven patches; this variant avoids steps entirely.",
+    "safety_notes": "Even on a short, step-free route, stay alert for road crossings and other pedestrians. Surface conditions can vary with weather. Wear comfortable footwear, bring water, and check daylight hours and weather conditions before starting.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light rain jacket",
+      "Sunscreen",
+      "Cap or hat",
+      "Phone with offline map (optional)"
+    ],
+    "best_seasons": "All year round; best in spring and autumn for milder weather and lighter crowds.",
+    "seo": {
+      "title": "Capital Ring (Section 03) – Accessible Route (UK)",
+      "meta_description": "Discover a short, easy, step-free section of the Capital Ring in the UK. This 0.3 km route is flat and suitable for pedestrians, wheelchairs, and strollers.",
+      "h1": "Capital Ring (Section 03) – Accessible Route (UK)"
+    }
   }
 }

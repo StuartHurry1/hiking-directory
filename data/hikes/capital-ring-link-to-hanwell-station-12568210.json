@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12568210
+  },
+  "ai": {
+    "summary": "A very short, easy urban stroll along a segment of the Capital Ring near Hanwell Station in the UK. Approximately 0.6 km, suitable for all ages, with flat terrain and a mix of residential streets and parkland.",
+    "terrain_summary": "Predominantly paved paths and sidewalks along residential streets, with a short stretch through a green space. Mostly flat with curb edges; occasional gentle gradients at crossings.",
+    "safety_notes": "Stay to designated paths, be mindful of pedestrians and cyclists in shared spaces, and watch for traffic at road crossings. Daylight can be limited in winter; wear visibility gear if walking at dawn/dusk. Secure valuables and have a small map or phone for navigation.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Lightweight rain jacket",
+      "Water bottle",
+      "Small backpack",
+      "Sun protection (hat and sunscreen)",
+      "Smartphone with offline map or route",
+      "Light snack",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (year-round with proper clothing and daylight considerations)",
+    "seo": {
+      "title": "Capital Ring: Hanwell Station Segment (0.6 km) – Easy Urban Hike",
+      "meta_description": "Explore a short 0.6 km easy segment of the Capital Ring near Hanwell Station in the UK. Terrain details, safety tips, gear suggestions, and ideal seasons for this quick urban walk.",
+      "h1": "Capital Ring: Hanwell Station Segment (0.6 km)"
+    }
   }
 }

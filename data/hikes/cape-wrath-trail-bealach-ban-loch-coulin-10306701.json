@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 10306701
+  },
+  "ai": {
+    "summary": "A 12.8 km moderate hike along a segment of the Cape Wrath Trail from Bealach Ban to Loch Coulin in the UK. The route traverses rugged coastal moorland and hills, with exposed sections and changeable weather, suitable for hikers with some experience.",
+    "terrain_summary": "Rugged coastal moorland and rocky tracks with exposed viewpoints, uneven footing, boggy patches, and occasional steep grades. Weather and sea wind can be strong; expect panoramic sea and mountain scenery.",
+    "safety_notes": "Check the forecast and daylight hours; stay on marked paths; carry a map and compass (or GPS) and know how to use them; inform someone of your route and expected return; bring sufficient water and high-energy food; wear sturdy boots and dress in layers with a waterproof outer layer; be mindful of exposed cliff edges, boggy ground, and sudden weather changes; avoid hiking alone in poor conditions and have a plan for emergency communication.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing (base layer, fleece, and waterproof outer layer)",
+      "Waterproof jacket and waterproof pants",
+      "Warm hat and gloves for cold conditions",
+      "Map and compass (or GPS with offline maps)",
+      "Hydration system or 2–3 liters of water",
+      "High-energy snacks and a light meal",
+      "Headlamp or flashlight with extra batteries",
+      "Mini first aid kit and blister care",
+      "Emergency whistle and space blanket or bivy",
+      "Sun protection: sunscreen and sunglasses",
+      "Phone with portable charger",
+      "Lightweight rain cover for your backpack",
+      "Optional trekking poles"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) offer the most reliable conditions; winter can be harsh with wind, rain, and limited daylight.",
+    "seo": {
+      "title": "Cape Wrath Trail – Bealach Ban to Loch Coulin (12.8 km) | Moderate UK Hike",
+      "meta_description": "Explore a 12.8 km moderate section of the Cape Wrath Trail (Bealach Ban to Loch Coulin) in the UK. Rugged coastal moorland, exposed ridges, safety tips, and gear to plan your hike.",
+      "h1": "Cape Wrath Trail: Bealach Ban to Loch Coulin (12.8 km)"
+    }
   }
 }

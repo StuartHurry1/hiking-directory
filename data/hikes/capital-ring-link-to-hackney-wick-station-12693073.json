@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12693073
+  },
+  "ai": {
+    "summary": "A very short, easy urban walk along the Capital Ring near Hackney Wick Station, covering 0.4 km of pavements and canal towpaths in London, UK.",
+    "terrain_summary": "Flat, urban terrain with pavement sections, canal towpaths, and occasional crossings; primarily city scenery along the Capital Ring route.",
+    "safety_notes": "Urban walk: stay aware of cyclists and traffic at crossings; use well-lit paths in the evening; keep belongings secure in crowded areas; daylight improves visibility.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or weather-appropriate layer",
+      "Smartphone with offline map and charger",
+      "Small snack or energy bar"
+    ],
+    "best_seasons": "Spring to autumn; generally best in mild weather, but the route is accessible year-round with appropriate footwear for wet conditions.",
+    "seo": {
+      "title": "Capital Ring Walk: Hackney Wick Station Segment (0.4 km) – Easy Urban Stroll in London",
+      "meta_description": "Explore a 0.4 km easy urban section of the Capital Ring near Hackney Wick Station in London, UK. Flat pavements and canal towpaths ideal for a quick, scenic city walk.",
+      "h1": "Capital Ring Walk: Hackney Wick Station Segment"
+    }
   }
 }

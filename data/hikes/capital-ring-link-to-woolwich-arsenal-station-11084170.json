@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 11084170
+  },
+  "ai": {
+    "summary": "A short, easy 2.3 km segment of the Capital Ring that runs toward Woolwich Arsenal station. This urban leg offers a flat, scenic riverside stroll with parks and open spaces along the Thames.",
+    "terrain_summary": "Primarily paved paths and sidewalks with occasional grass verges; mostly flat with gentle, easily navigable terrain; some street crossings required.",
+    "safety_notes": "Urban trail—watch for pedestrians, cyclists, and traffic at crossings. Stay aware of surroundings, especially in busy areas. Carry a map or offline route and plan for weather changes. Daylight preferred; bring a light layer.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (light waterproof jacket)",
+      "Sunscreen and sunglasses",
+      "Phone with offline map or local map app",
+      "Small backpack or crossbody bag",
+      "Light snack (optional)"
+    ],
+    "best_seasons": "All year round; best in spring and autumn when temperatures are mild and crowds are thinner.",
+    "seo": {
+      "title": "Capital Ring: Easy 2.3 km walk to Woolwich Arsenal",
+      "meta_description": "Discover a short, easy 2.3 km segment of the Capital Ring near Woolwich Arsenal station in London. Flat riverside walking with parks and views of the Thames.",
+      "h1": "Capital Ring — 2.3 km Easy Walk to Woolwich Arsenal Station"
+    }
   }
 }

@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12225712
+  },
+  "ai": {
+    "summary": "A short, easy urban segment of the Capital Ring near Richmond station in London, about 1.2 km. This leg offers a quick taste of London's green spaces, with mostly flat, paved paths suitable for a relaxed stroll.",
+    "terrain_summary": "Predominantly flat, paved paths through parks and urban streets, with short sections of grass or greenspace.",
+    "safety_notes": "An urban walk: stay on marked paths, watch for cyclists and other pedestrians, and use traffic crossings safely. Bring a charged phone for navigation and check the forecast for rain or cold. Wear appropriate footwear.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light rain jacket",
+      "Water bottle",
+      "Phone with map or offline navigation",
+      "Small snack",
+      "Sunscreen/hat (seasonal)"
+    ],
+    "best_seasons": "Year-round; spring and autumn are particularly pleasant, but the route is short enough to enjoy in any season.",
+    "seo": {
+      "title": "Capital Ring Segment Near Richmond Station – 1.2 km Easy Walk (London, UK)",
+      "meta_description": "Discover a short, easy 1.2 km segment of the Capital Ring near Richmond station in London. Urban green spaces, flat paths, and a quick, scenic stroll.",
+      "h1": "Capital Ring Segment Near Richmond Station (1.2 km)"
+    }
   }
 }

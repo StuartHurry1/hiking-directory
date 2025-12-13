@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 6473820
+  },
+  "ai": {
+    "summary": "Capital Ring (Section 10) is a 16.6 km long, hard-rated section of London's Capital Ring circular walk. The route weaves through a mix of urban streets, parkland, canal towpaths, and woodlands, delivering a varied day on foot with several exposed stretches and occasional elevation gain.",
+    "terrain_summary": "The terrain is mixed: urban pavements and city streets interspersed with gravel canal towpaths, park trails, and woodland paths. Expect uneven surfaces, some muddy patches after rain, occasional steps, and gentle elevation changes. Navigation is straightforward on the line-of-sight signs, but parts traverse busy urban areas.",
+    "safety_notes": "Stay on marked paths, especially along canal edges and road crossings. Watch for pedestrians and cyclists on shared sections. Wear sturdy footwear and weather-appropriate clothing; London weather can be changeable. Carry water, snacks, a map or offline route, a charged phone, and a small first-aid kit. Start with ample daylight; if finishing near dusk, carry a light and high-visibility clothing.",
+    "recommended_gear": [
+      "Sturdy walking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate clothing and a waterproof layer",
+      "Lightweight backpack",
+      "Map, guidebook or offline navigation app",
+      "Snacks or energy bars",
+      "Headlamp or small flashlight (for late finishes)",
+      "Small first-aid kit",
+      "Sun protection (sunscreen, hat)",
+      "Mobile phone with emergency contacts",
+      "Light rain cover for bag"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offers the best conditions, with longer daylight and drier trails. The route is doable year-round with proper clothing and planning.",
+    "seo": {
+      "title": "Capital Ring Section 10 – 16.6 km Hard London Hike",
+      "meta_description": "Discover Capital Ring Section 10, a 16.6 km hard hike through London’s parks, canals and streets. Practical tips, safety notes, and gear recommendations for this urban–rural trail segment.",
+      "h1": "Capital Ring Section 10: 16.6 km Hard London Trail"
+    }
   }
 }

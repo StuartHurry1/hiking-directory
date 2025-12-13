@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 5621423
+  },
+  "ai": {
+    "summary": "Camel Trail is a challenging long-distance hike in the UK, covering 93.1 km along a scenic, mostly flat river corridor. The route demands proper pacing and multi-day planning due to the distance, with steady footing and minimal elevation gain.",
+    "terrain_summary": "Terrain: A wide, well-maintained rail-trail surface (gravel/compact path) running along the Camel River. Predominantly flat with gentle gradients, but expect exposed sections and potential mud after rain. Be aware of other trail users (cyclists, horses) and occasional road crossings.",
+    "safety_notes": "Because the hike covers 93.1 km, plan for multiple days and realistic daily distances. Check weather and daylight forecasts in advance; UK conditions can change quickly. Wear sturdy waterproof footwear and dress in layers; carry sufficient water (2–3 L per day) and high-energy snacks. Stay aware of other trail users and keep to the side; heed any posted closures. Carry a map and compass or GPS with a backup; bring a charged phone and power bank. Inform someone of your itinerary and expected return. In remote sections, mobile signal may be unreliable; carry a whistle and emergency blanket. Respect wildlife and pack out all waste.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Layered clothing and waterproof shell",
+      "Water 2–3 liters per day",
+      "High-energy snacks and meals",
+      "Map and compass or GPS with offline backup",
+      "Fully charged phone and portable power bank",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit including blister care",
+      "Emergency blanket or bivy",
+      "Hat, sunglasses, sunscreen",
+      "Lightweight rain gear and spare socks"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best daylight and generally milder weather; winter hikes are possible but expect cold, wetter conditions and reduced daylight.",
+    "seo": {
+      "title": "Camel Trail Hiking Guide: 93.1 km UK Long-Distance Trek",
+      "meta_description": "Plan your Camel Trail trek in the UK. A 93.1 km hard-distance hike along a scenic river corridor with safety tips, gear lists, best seasons, and route notes.",
+      "h1": "Camel Trail Hiking Guide"
+    }
   }
 }

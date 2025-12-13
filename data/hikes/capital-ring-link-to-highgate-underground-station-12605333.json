@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 12605333
+  },
+  "ai": {
+    "summary": "An ultra-short, easy segment of the Capital Ring trail starting near Highgate Underground Station. This 0.3 km walk offers a quick green-space or street-side stroll in London, suitable for a relaxed outing or a leg-stretch.",
+    "terrain_summary": "Pavement and urban footpaths with occasional park trails; mostly flat with gentle gradients. Expect a mix of streets, greenspace paths, and possibly steps.",
+    "safety_notes": "Urban hike safety: stay on public paths, watch for traffic and cyclists on shared routes, monitor weather, and carry a phone with emergency contacts. In London, be mindful of personal belongings in busy areas. Daylight is recommended for comfort.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Phone with map",
+      "Light waterproof jacket",
+      "Sunscreen and hat (seasonal)",
+      "Small backpack or hands-free option"
+    ],
+    "best_seasons": "All year, but daylight and weather influence comfort; spring and summer are especially pleasant for short urban walks.",
+    "seo": {
+      "title": "Capital Ring segment near Highgate Underground Station — 0.3 km easy walk",
+      "meta_description": "Explore a short, easy 0.3 km segment of the Capital Ring around Highgate Underground Station in London. Perfect for a quick stroll along urban paths and parkland.",
+      "h1": "Capital Ring: Highgate Underground Station Segment (0.3 km)"
+    }
   }
 }

@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 10320587
+  },
+  "ai": {
+    "summary": "The Cape Wrath Trail segment Letterewe–Carnmore–Larachantivore is a remote, hard-distance hike in northwest Scotland, covering about 53.6 km. It traverses rugged hills, peat bogs, and exposed coastal sections with long days, limited services, and variable weather.",
+    "terrain_summary": "Expect a mix of rocky upland tracks, peat bogs, rivers, and exposed coast. The route combines remote moorland with cliff-top sections, often with few waypoints and challenging navigation. Weather can be wet and windy; footing can be rough and boggy, with tides affecting coastal portions.",
+    "safety_notes": "This is a remote backcountry route with limited emergency support. Weather can be severe and change rapidly; dress in layers and be prepared for cold conditions even in summer. Navigation and map-reading skills are essential. Plan water and food carefully, monitor tide times if coastal sections are involved, carry a beacon or satellite messenger if possible, and let someone know your itinerary.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Breathable waterproof jacket and pants",
+      "Insulating mid-layer and base layers",
+      "Warm hat and gloves",
+      "Headtorch with extra batteries",
+      "Map, compass, and optional GPS",
+      "Water filter or purification tablets",
+      "Lightweight shelter (tent or bivvy) and a warm sleeping bag",
+      "Cooking gear or energy-dense food and stove",
+      "First aid kit and blister care",
+      "Emergency space blanket or bivvy",
+      "Multitool and duct tape",
+      "Trekking poles",
+      "Dry bags and pack liner, pack cover",
+      "Sun protection and sunglasses"
+    ],
+    "best_seasons": "May through September",
+    "seo": {
+      "title": "Cape Wrath Trail: Letterewe–Carnmore–Larachantivore (53.6 km) – Remote Highland Trek",
+      "meta_description": "A concise guide to the Cape Wrath Trail segment Letterewe–Carnmore–Larachantivore in the UK: distance, terrain, safety tips, and gear for a demanding backcountry hike.",
+      "h1": "Cape Wrath Trail: Letterewe–Carnmore–Larachantivore"
+    }
   }
 }

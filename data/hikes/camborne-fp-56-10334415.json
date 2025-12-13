@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 10334415
+  },
+  "ai": {
+    "summary": "A short, easy 0.5 km hike along the Camborne FP 56 footpath in the UK. Region not specified; suitable for beginners and families with minimal elevation gain.",
+    "terrain_summary": "Primarily flat or gently rolling with a well-defined footpath. Surfaces may be grass, gravel, or compact earth and can be muddy after rain.",
+    "safety_notes": "This is a very short, easy route, but weather can change quickly. Wear sturdy footwear, stay on the marked path, and be aware of others on shared sections. Bring a charged phone and a basic first aid kit; supervise children and pets.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight hiking boots",
+      "Weather-appropriate clothing and layers",
+      "Water bottle",
+      "Map, guidebook, or navigation app on your phone",
+      "Small backpack to carry essentials",
+      "Lightweight rain jacket or poncho",
+      "Basic first aid kit and blister care",
+      "Sunscreen and hat"
+    ],
+    "best_seasons": "All year round; spring and autumn often offer optimal temperatures and daylight. In winter, be prepared for shorter days and potentially slippery conditions.",
+    "seo": {
+      "title": "Camborne FP 56 – 0.5 km Easy Hike in the UK",
+      "meta_description": "Discover a short 0.5 km easy hike on the Camborne FP 56 footpath in the UK. Includes terrain, safety tips, gear suggestions, and best seasons.",
+      "h1": "Camborne FP 56 – Easy 0.5 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 12664630
+  },
+  "ai": {
+    "summary": "A short, easy 1.3 km section of the Capital Ring near Hendon Station in London. This urban hike is suitable for a casual stroll, with flat terrain, pavements, and light park segments.",
+    "terrain_summary": "Flat and mostly on pavements and park paths. It mixes urban streets with small green spaces; expect street crossings and some benches along the route.",
+    "safety_notes": "Stay on pavements and cross at designated pedestrian crossings. Keep valuables secure in crowded areas and be aware of cyclists and other pedestrians. Check the forecast and daylight hours, and carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Phone with charged battery and offline map",
+      "Cap or hat and sunscreen",
+      "Small snack",
+      "Wallet or ID and emergency contact information",
+      "Light daypack"
+    ],
+    "best_seasons": "Year-round in the UK; spring and autumn offer the most comfortable temperatures and daylight, while summer provides longer days and winter can be chilly.",
+    "seo": {
+      "title": "Capital Ring Hendon Station Segment – Easy 1.3 km Hike in London, UK",
+      "meta_description": "Explore an easy 1.3 km section of the Capital Ring near Hendon Station in London. Terrain overview, safety tips, and recommended gear for urban hiking.",
+      "h1": "Capital Ring Hendon Station Segment – 1.3 km Easy Hike"
+    }
   }
 }

@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 5510507
+  },
+  "ai": {
+    "summary": "Capel walk (SCC) is a challenging 19.3 km hike in the UK, aimed at experienced walkers. The route features varied terrain and notable elevation changes, delivering a rewarding endurance challenge and rural scenery.",
+    "terrain_summary": "Long grass paths, farm tracks, and mixed surface trails with potential mud. Expect uneven footing, gentle to substantial ascents, and occasional open-country sections with exposure.",
+    "safety_notes": "Check weather and daylight hours before setting out. Wear sturdy waterproof boots and dress in layers; bring a waterproof jacket. Carry a detailed map (or GPS) and a compass; don’t rely on phone alone. Bring sufficient water and energy snacks; a small first aid kit and emergency whistle are recommended. Inform someone of your route and finish time; carry a fully charged phone and a portable charger. Stay on marked paths and take care on slippery surfaces after rain.",
+    "recommended_gear": [
+      "Sturdy waterproof walking boots",
+      "Layers of clothing and a waterproof jacket",
+      "Map and compass or GPS device",
+      "Water (2–3 litres) and high-energy snacks",
+      "Headtorch or flashlight (plus spare batteries)",
+      "Hat and gloves (seasonal)",
+      "Small first aid kit",
+      "Emergency whistle",
+      "Phone with fully charged battery and portable charger",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October); summer conditions are often best, but be prepared for heat and sun.",
+    "seo": {
+      "title": "Capel Walk (SCC) – 19.3 km Hard Hike in the UK",
+      "meta_description": "Discover Capel Walk (SCC), a 19.3 km hard hike in the UK. Learn about terrain, safety tips, and essential gear to tackle this challenging route.",
+      "h1": "Capel Walk (SCC) – 19.3 km Hard Hike in the UK"
+    }
   }
 }

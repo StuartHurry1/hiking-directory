@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 9487696
+  },
+  "ai": {
+    "summary": "The Cape Wrath Trail segment from Carnach to Inverie to Barisdale is a demanding 44.7 km trek through remote NW Scotland, combining coastal paths, heather moorland, and rugged climbs. Expect long days, changing weather, and spectacular sea loch scenery.",
+    "terrain_summary": "Remote, varied terrain including coastal cliff paths, boggy moorland, rocky ascents, peat bogs, river crossings, and long stretches with limited resupply. Navigation can be challenging in poor visibility; good maps, compass, and situational awareness are essential.",
+    "safety_notes": "Very remote with limited cell coverage and few refreshment points. Plan for multi-day marches, carry reliable navigation, and be prepared for sudden weather changes, strong winds, and cold nights. Check tides on coastal sections, share your itinerary, and have an emergency plan and evacuation route.",
+    "recommended_gear": [
+      "Sturdy waterproof boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Layered clothing system (base layers, fleece, and/or down jacket)",
+      "Map and compass (and/or GPS device) with backup batteries",
+      "Headlamp with extra batteries",
+      "First aid kit tailored for multi-day hikes",
+      "Water bottles or hydration bladder with a plan for purification (filter or tablets)",
+      "High-energy food and lightweight camping snacks",
+      "Sleeping bag appropriate for expected night temperatures and a compact sleeping mat",
+      "Lightweight tent or bivy sack with a groundsheet",
+      "Trekking poles (optional but helpful)",
+      "Emergency signaling device and whistle, plus a small repair kit",
+      "Sun protection (hat, sunscreen) and insect repellent",
+      "Dry bags or waterproof sacks for protecting valuables",
+      "Power bank for devices"
+    ],
+    "best_seasons": "May–September are generally the most favorable for this remote segment, offering longer daylight and more stable conditions. Weather can still be harsh and changeable; winter travel is not recommended for most hikers.",
+    "seo": {
+      "title": "Cape Wrath Trail – Carnach to Inverie to Barisdale (44.7 km) | UK Remote Trek",
+      "meta_description": "A practical guide to the 44.7 km Cape Wrath Trail section from Carnach via Inverie to Barisdale in the UK, including terrain, safety notes, gear lists, and best seasons.",
+      "h1": "Cape Wrath Trail: Carnach → Inverie → Barisdale (44.7 km) – Rugged UK Trek"
+    }
   }
 }

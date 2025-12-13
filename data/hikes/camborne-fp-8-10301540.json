@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 10301540
+  },
+  "ai": {
+    "summary": "Camborne FP 8 is a short, easy 1.6 km hike in the United Kingdom suitable for beginners and families. The route follows a public footpath on gentle terrain, offering a quick outdoor leg stretch and light scenery.",
+    "terrain_summary": "Mostly flat to gently undulating footpath with well-maintained gravel and grassy surfaces. Some sections may be muddy after rain; be prepared for uneven ground and farm or field edges near gates.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Bring water, a small first-aid kit, and a map or GPS. Watch for uneven steps, livestock gates, and seasonal hazards on farmland. Let someone know your plans and avoid hiking alone after dark.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Light rain jacket",
+      "Map or GPS device",
+      "Snacks"
+    ],
+    "best_seasons": "Spring to autumn offer the most comfortable conditions with longer daylight; in winter the route can be wet and muddy, so check conditions first.",
+    "seo": {
+      "title": "Camborne FP 8: Easy 1.6 km UK Hike",
+      "meta_description": "Discover Camborne FP 8, a short and easy 1.6 km hike in the UK. Learn about terrain, safety tips, best seasons, and recommended gear for a comfortable outdoor stroll.",
+      "h1": "Camborne FP 8: Easy 1.6 km UK Hike"
+    }
   }
 }

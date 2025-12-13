@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 9331992
+  },
+  "ai": {
+    "summary": "A rugged, remote long-distance hike along a 65.2 km segment of the Cape Wrath Trail in northwest Scotland, from Bendronaig to Kinlochewe via Strathcarron. This hard route traverses open moorland, peat bogs, and exposed ridges, with significant elevation changes and limited day-length. It’s best suited for experienced hikers seeking wild scenery and solitude.",
+    "terrain_summary": "Remote Highland terrain with a mix of peat bogs, heather moorland, rocky ridges, scree, river crossings, and forest tracks. Expect long stretches without shelter, occasional fences, and variable footing across upland moor and coastal-influenced terrain.",
+    "safety_notes": "Plan for remote travel with limited resupply and phone coverage. Check weather conditions as coastal and highland weather can change rapidly. Navigation should rely on map and compass (GPS as backup). Start early to maximize daylight; carry emergency shelter and a means to call for help in an emergency. Inform someone of your route and expected completion. Be prepared for river crossings and potential boggy sections; have sturdy footwear and adequate waterproofing. Hydration and food planning are essential for multi-day segments; know your turnaround points if weather closes in.",
+    "recommended_gear": [
+      "Map and compass (bring OS maps and know your route)",
+      "GPS device as backup (optional but useful)",
+      "Sturdy waterproof backpack and rain cover",
+      "Hiking boots with good ankle support (waterproof)",
+      "Moisture-wicking base layers, insulation layer, and a breathable waterproof outer layer",
+      "Hat, gloves, and sun protection",
+      "Extra dry clothes and socks",
+      "Water purification method (filter, purifier tablets, or boiling)",
+      "Hydration system or water bottles (at least 2 liters capacity)",
+      "Headlamp with spare batteries",
+      "First-aid kit including blister care",
+      "Emergency shelter or bivy bag",
+      "Lightweight stove or emergency cooking setup (optional)",
+      "Firestarter or matches in waterproof container",
+      "Compass and route notes; waterproof map case"
+    ],
+    "best_seasons": "May–September for the best weather and daylight. Shoulder months (April–May, October) possible with careful planning; outside this window, weather and daylight can make the route significantly more challenging.",
+    "seo": {
+      "title": "Cape Wrath Trail Segment: Bendronaig → Kinlochewe (65.2 km, Hard) – Bendronaig to Kinlochewe",
+      "meta_description": "Explore a 65.2 km section of Scotland's Cape Wrath Trail from Bendronaig to Kinlochewe via Strathcarron. Learn terrain, safety notes, gear, and best seasons for this demanding remote hike.",
+      "h1": "Cape Wrath Trail — Bendronaig to Kinlochewe (Bendronaig → Strathcarron → Kinlochewe), 65.2 km"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12345567
+  },
+  "ai": {
+    "summary": "A short, easy 1.8 km section of the Capital Ring around Boston Manor Underground Station in London. It makes for a quick urban stroll that combines parkland paths with light street sections, suitable for beginners, families, or a lunchtime wander.",
+    "terrain_summary": "Mostly flat and well-surfaced: paved paths through parks, along green corridors, and some pavement along streets. Gentle gradients in park areas; expect mixed surfaces and curb crossings.",
+    "safety_notes": "Urban route safety: be mindful of traffic at crossings and on shared paths. Stay on designated paths, watch for cyclists and other pedestrians, and keep valuables secure. Daylight or good lighting is advised; wear proper footwear and be prepared for weather changes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Mobile phone with maps",
+      "Small backpack",
+      "Sunscreen and hat",
+      "Light snack"
+    ],
+    "best_seasons": "Year-round, with spring and autumn offering especially pleasant weather; be prepared for rain and shorter daylight in winter.",
+    "seo": {
+      "title": "Capital Ring: 1.8 km Easy Walk from Boston Manor Underground Station (London)",
+      "meta_description": "Discover an easy 1.8 km section of the Capital Ring near Boston Manor Underground Station in London. Flat, urban-to-park terrain—great for a quick, relaxed stroll.",
+      "h1": "Capital Ring: 1.8 km Easy Walk from Boston Manor Underground Station"
+    }
   }
 }

@@ -17,5 +17,35 @@
   "source": {
     "type": "osm",
     "osmId": 9331377
+  },
+  "ai": {
+    "summary": "The Cape Wrath Trail section from Morvich to Bendronaig covers about 53.6 km of remote Highland terrain in the UK. This hard, exposed route traverses moorland, rocky tracks, river fords, and wide-open landscapes, offering a demanding but remote wilderness experience with limited shelter options and long daylight variation depending on season.",
+    "terrain_summary": "Expect a rugged mix of open moor, peat bog, rocky paths, river crossings and occasional ridge lines. The terrain is remote with few resupply points; navigation is essential, and weather can be unpredictable with strong winds and cold nights even in summer. Ground can be soft and boggy, with stony tracks underfoot and exposed sections requiring good footwear and balance. Plan for long days and variable visibility.",
+    "safety_notes": "This is a remote, exposure-prone section: carry a reliable map and compass (GPS as backup), inform someone of your route, and expect limited mobile reception. Be prepared for rapid weather changes, potential river fords, and deep bogs. Carry adequate clothing, a shelter and fire-starting tools, and practice Leave No Trace. If weather deteriorates, be prepared to shorten or abandon the hike at a shelter or bothy.",
+    "recommended_gear": [
+      "Waterproof jacket and pants",
+      "Sturdy hiking boots with ankle support",
+      "Warm layers (fleece/puffy)",
+      "Sleeping bag suitable for cold Scottish nights",
+      "Sleeping mat",
+      "Lightweight tent or bivy sack",
+      "Stove, fuel, and cooking pot",
+      "Food for multi-day hike",
+      "Water purification (filter or tablets)",
+      "Map and compass (GPS as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Emergency shelter/foil blanket",
+      "Dry bags or waterproof sacks",
+      "Trekking poles (optional)",
+      "Hat, gloves, sunglasses, sunscreen",
+      "Insect repellent"
+    ],
+    "best_seasons": "May-September (peak conditions typically July-August).",
+    "seo": {
+      "title": "Cape Wrath Trail: Morvich to Bendronaig (53.6 km) – A Rugged Scottish Highland Trek",
+      "meta_description": "Plan and prepare for the 53.6 km Cape Wrath Trail segment from Morvich to Bendronaig in the UK. Read terrain, safety tips, gear lists, and best-season guidance for a challenging Highland hike.",
+      "h1": "Cape Wrath Trail — Morvich to Bendronaig (53.6 km)"
+    }
   }
 }

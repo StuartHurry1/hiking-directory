@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12567758
+  },
+  "ai": {
+    "summary": "A short, easy urban walk along a segment of the Capital Ring near Beckenham Junction Station in the UK. At about 0.7 km, it’s a light stroll suitable for all ages, with pedestrian paths through parks and city streets.",
+    "terrain_summary": "Primarily paved urban paths with some grassy park areas. Expect typical city surfaces; some sections may be uneven or shaded in parks.",
+    "safety_notes": "Urban route: stay on marked paths, watch for pedestrians and cyclists on shared routes, and cross roads at designated crossings. For after dark walks, stick to well lit areas and carry a charged phone with emergency contacts.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light jacket or layer",
+      "Phone with offline map or route guide",
+      "Optional camera or snack"
+    ],
+    "best_seasons": "All year round, with spring to autumn offering the most pleasant weather; be prepared for rain and cool winds in winter.",
+    "seo": {
+      "title": "Capital Ring Beckenham Junction Segment (0.7 km) — Easy Urban Walk",
+      "meta_description": "Explore a short, easy 0.7 km section of the Capital Ring near Beckenham Junction Station in the UK. An accessible urban stroll through parks and streets.",
+      "h1": "Capital Ring Segment Near Beckenham Junction (0.7 km)"
+    }
   }
 }

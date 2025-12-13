@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 8795681
+  },
+  "ai": {
+    "summary": "The Canterbury Inner Ring Walk is a 7.3 km circular route around Canterbury's historic city walls in the UK. Rated moderate, it combines urban streets, grassy paths, and short riverside sections, offering views of medieval architecture and city scenery in about 2–3 hours depending on pace.",
+    "terrain_summary": "Surface varies from cobbled streets and compact gravel to grassy riverside paths, with occasional stairs or steps. The route is mostly flat with gentle rises; can be muddy after rain. Be mindful of uneven surfaces, road crossings, and low doorways or overhanging branches on older sections.",
+    "safety_notes": "Wear sturdy footwear and check the weather before setting out. Expect mixed surfaces, street crossings and potential slip hazards on wet cobbles. Stay alert for cyclists on shared paths, give way to pedestrians on narrow sections, and carry a map or offline route. If visibility is poor or daylight is limited, consider traveling with a companion.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Weather-appropriate clothing (layers, waterproof shell)",
+      "Water bottle and snacks",
+      "Small backpack to carry essentials",
+      "Map, GPS, or offline route copy",
+      "Phone with emergency contacts and a basic first-aid kit",
+      "Sun protection (sunscreen, hat) in sunny months",
+      "Compact umbrella (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions for this 7.3 km circuit; the route can be enjoyed year-round but winter conditions can be muddy and daylight limited.",
+    "seo": {
+      "title": "Canterbury Inner Ring Walk – 7.3 km Circular Walk Around Canterbury’s Historic City Walls (UK)",
+      "meta_description": "Explore Canterbury’s medieval city walls on the 7.3 km Canterbury Inner Ring Walk. A moderate, mostly urban circuit offering history, architecture, and river views.",
+      "h1": "Canterbury Inner Ring Walk"
+    }
   }
 }

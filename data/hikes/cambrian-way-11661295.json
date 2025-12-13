@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 11661295
+  },
+  "ai": {
+    "summary": "The Cambrian Way is an ultra-challenging long-distance hike through diverse Welsh landscapes, totaling approximately 1499.4 km in this plan. It combines remote uplands, exposed ridges, moorland, river valleys, and changing weather, demanding strong endurance, solid navigation, and careful preparation.",
+    "terrain_summary": "Expect rugged mountain ascents, rocky trails, peat bogs, and open moorland interspersed with forest tracks and occasional road sections. Much of the route traverses remote countryside with limited shelter, so good map skills and planned pacing are essential.",
+    "safety_notes": "Conditions in upland UK can change rapidly. Carry reliable navigation tools (map and compass, with GPS as backup), inform someone of your route and daily plan, and have an emergency shelter. Prepare for long stretches with limited water sources and potential weather closures. Monitor fatigue, plan for cold or wet conditions even in summer, and be prepared for extended exposure in high sections.",
+    "recommended_gear": [
+      "Sturdy, well-fitting hiking boots with ankle support",
+      "Waterproof and windproof shell jacket and pants",
+      "Breathable base layers and mid-layers",
+      "Backpack with 40–60 liters capacity and rain cover",
+      "Lightweight tent or bivvy sack for emergencies",
+      "Dry sacks and gear compression bags",
+      "Map (Ordnance Survey) and compass, plus GPS as backup",
+      "Headlamp with spare batteries",
+      "First aid kit tailored for multi-day treks",
+      "Water purification method (filters or tablets)",
+      "High-energy food and snacks, plus a small stove if permitted",
+      "Insulating hat, gloves, and extra socks"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is generally best for the Cambrian Way, offering longer daylight and more stable trail conditions. Be prepared for cold or wet conditions even in summer, and occasional snow at higher elevations.",
+    "seo": {
+      "title": "Cambrian Way – UK Long-Distance Trek (1499.4 km)",
+      "meta_description": "Plan your epic 1499.4 km hike along the Cambrian Way in the UK. Explore terrain, safety, gear lists, and the best seasons for this challenging long-distance trek.",
+      "h1": "Cambrian Way – UK Long-Distance Trail (1499.4 km)"
+    }
   }
 }

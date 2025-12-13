@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12753832
+  },
+  "ai": {
+    "summary": "A very short, easy urban segment of the Capital Ring near the King George V DLR in the UK. Just 0.5 km, ideal for a quick stroll or a gentle leg-stretch between transit stops.",
+    "terrain_summary": "Predominantly paved paths and sidewalks with light urban surroundings. Mostly flat with occasional parkland stretches along a city-side route.",
+    "safety_notes": "Urban hike safety: stay aware of traffic and crossings, keep to sidewalks, watch for cyclists and roadworks. Weather can change quickly; bring a light layer and rain protection. Keep personal belongings secure and inform someone of your plan if you are alone.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light weather-appropriate clothing",
+      "Water bottle",
+      "Phone with map or offline directions",
+      "Sun protection (seasonal)"
+    ],
+    "best_seasons": "Year-round; best in spring and autumn for milder weather and daylight",
+    "seo": {
+      "title": "Capital Ring: King George V DLR – Short Urban Hike in the UK",
+      "meta_description": "Discover a 0.5 km easy urban section of the Capital Ring near King George V DLR in London, UK. Perfect for a quick, city-centre stroll.",
+      "h1": "Capital Ring: King George V DLR Short Urban Hike"
+    }
   }
 }

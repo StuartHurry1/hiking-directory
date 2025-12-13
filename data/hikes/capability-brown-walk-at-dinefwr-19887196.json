@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19887196
+  },
+  "ai": {
+    "summary": "A short, easy 3 km stroll through the Capability Brown-designed grounds of Dinefwr, offering gentle paths, open vistas, and a touch of historic landscaping. Suitable for families and casual walkers, with flat to gently undulating terrain and scenic river views.",
+    "terrain_summary": "Gravel and compacted paths with some grassy sections. Mostly flat with gentle slopes on short sections. Occasional steps or boardwalks near garden features.",
+    "safety_notes": "Check weather and daylight before you go. Stay on marked paths and follow any site guidelines. Be mindful of livestock or cyclists on shared routes. Carry a map or fully charged phone, and bring water and appropriate clothing for rain or wind.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Layers for variable weather",
+      "Hat and sunscreen (seasonal)",
+      "Map or phone with offline access"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October); can be walked year-round with appropriate weather gear.",
+    "seo": {
+      "title": "Capability Brown Walk at Dinefwr – Easy 3 km stroll in the UK",
+      "meta_description": "Discover the Capability Brown-designed grounds at Dinefwr with an easy 3 km walk. A family-friendly route on flat paths with scenic views and historic landscaping in the UK.",
+      "h1": "Capability Brown Walk at Dinefwr"
+    }
   }
 }

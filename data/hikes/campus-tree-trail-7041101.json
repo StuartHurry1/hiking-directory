@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 7041101
+  },
+  "ai": {
+    "summary": "A scenic 11.7 km moderate hike along a university campus tree trail in the UK. The route winds through shaded campus paths, lawns, and woodland edges, with a mix of paved and gravel sections. Suitable for most walkers, it offers gentle elevation changes and opportunities to enjoy a variety of tree species and campus scenery.",
+    "terrain_summary": "Terrain includes paved paths, compact gravel, and occasional grassy or rooty sections. Expect gentle elevation changes and a few short climbs. Footing is generally good on maintained paths, but may be damp or slippery after rain. In wooded areas, roots and uneven ground can be encountered near tree lines.",
+    "safety_notes": "Check campus hours and any construction notices before you go. Stay on designated paths and follow posted signs. Wear sturdy footwear and weather-appropriate clothing; UK weather can be changeable. Bring water, a snack, and a charged phone. Be mindful of other pedestrians and cyclists; share the route. Watch for wet or slippery surfaces, especially after rain. Carry a light in the evenings and be cautious in dusk. If walking in woodland, be aware of uneven ground and insects; supervise children near roads and campus facilities.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing and waterproof layer",
+      "Reusable water bottle",
+      "Snack and small energy reserves",
+      "Light backpack or daypack",
+      "Camera or phone for photos",
+      "Map or offline route (or campus map on phone)",
+      "Phone charger/portable power bank",
+      "Sunscreen and hat in sunny weather",
+      "Insect repellent (seasonal)"
+    ],
+    "best_seasons": "Spring to early autumn (roughly March to September) are ideal for comfortable conditions on the Campus Tree Trail. Summer can be warm; autumn offers pleasant colors. Winter hikes are possible but may be chilly and damp.",
+    "seo": {
+      "title": "Campus Tree Trail – 11.7 km Moderate Hike in the UK",
+      "meta_description": "Explore the Campus Tree Trail, an 11.7 km moderately challenging hike across UK university campuses. Enjoy shaded paths, diverse trees, and a relaxing outdoor experience.",
+      "h1": "Campus Tree Trail – 11.7 km Moderate Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 5509689
+  },
+  "ai": {
+    "summary": "Canons and Cornmills is a challenging 24.1 km hike in the UK that traverses rural countryside and historic mill sites. The route combines uneven tracks, grassy paths, and occasional mud, with steady elevation gains that test endurance but reward with varied scenery and a touch of historical intrigue.",
+    "terrain_summary": "Varied terrain including grassy fields, compact tracks, stiles, and muddy sections. Expect a mix of gentle ascents and occasional steeper segments. Water or canal-side portions may be damp after rain; navigation helps near mills and built features.",
+    "safety_notes": "This is a long, hard day out. Check the forecast and daylight hours. Carry a map and compass or GPS, inform someone of your plan, and bring sufficient water and food. Wear sturdy waterproof boots, dress in layers, and be prepared for mud, weather changes, and potential remote stretches. Stay on official paths and be cautious near water hazards around mills.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and insulating layers",
+      "Backpack with rain cover",
+      "2–3 liters of water (and a hydration system)",
+      "High-energy snacks and a light meal",
+      "Map and compass or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and safety whistle",
+      "Sunscreen and sun hat",
+      "Emergency blanket and multi-tool",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring and autumn offer mild temperatures and better trail conditions; summer provides longer daylight but can bring heat and crowds; winter is possible but more challenging due to mud, rain, and cold.",
+    "seo": {
+      "title": "Canons and Cornmills – 24.1 km Hard Hike in the UK",
+      "meta_description": "Discover Canons and Cornmills, a demanding 24.1 km hike in the UK. Learn about terrain, safety tips, and gear for this rugged route with historic mills and rural scenery.",
+      "h1": "Canons and Cornmills: 24.1 km Hard Hike in the UK"
+    }
   }
 }

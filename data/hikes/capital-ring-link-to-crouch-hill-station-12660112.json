@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12660112
+  },
+  "ai": {
+    "summary": "A very short segment of the Capital Ring around Crouch Hill in London. This easy, urban walk covers about 0.7 km and is suitable for all ages seeking a quick, city-center stroll.",
+    "terrain_summary": "Urban walking surface along city streets and park paths; mostly paved with short grassy sections; generally flat with minimal elevation change.",
+    "safety_notes": "Be mindful of road crossings and pedestrian traffic in busy London streets; stay on designated paths; keep an eye on belongings in crowded areas; check the weather and wear appropriate clothing and footwear; share the space with cyclists and other walkers on mixed-use routes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket or layer",
+      "Phone with offline map or route description",
+      "Sunscreen and a small hat (seasonal)"
+    ],
+    "best_seasons": "Year-round in the UK; spring through autumn offer the most comfortable conditions, but be prepared for rain and cooler temperatures any time of year.",
+    "seo": {
+      "title": "Capital Ring Segment near Crouch Hill Station – Easy 0.7 km Walk in London (UK)",
+      "meta_description": "Explore a short, easy 0.7 km section of the Capital Ring around Crouch Hill in London. Urban stroll, practical safety tips, and packing suggestions for a quick city walk.",
+      "h1": "Capital Ring – Crouch Hill Station Segment (0.7 km)"
+    }
   }
 }

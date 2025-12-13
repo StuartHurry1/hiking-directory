@@ -17,5 +17,23 @@
   "source": {
     "type": "osm",
     "osmId": 12663962
+  },
+  "ai": {
+    "summary": "A short 1.3 km easy urban segment of the Capital Ring starting near Brentford Station in west London. This flat, low-effort walk combines parkland, canal paths and light street sections for a quick outdoor break.",
+    "terrain_summary": "Predominantly flat and easy underfoot, with paved sidewalks, park paths and a canal towpath. Expect occasional curb crossings and urban surroundings; some sections may be on grass or gravel near parks.",
+    "safety_notes": "As an urban walk, stay aware of pedestrians, cyclists and traffic at crossings. Secure valuables, carry a charged phone and map access, and dress for the weather. If walking after dark, ensure good visibility and consider a flashlight or phone torch.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate layer (jacket or fleece)",
+      "Phone with charged battery and offline map",
+      "Sunscreen and a hat (for sunny days)"
+    ],
+    "best_seasons": "Year-round, with spring and summer offering the most daylight and pleasant walking conditions.",
+    "seo": {
+      "title": "Capital Ring Brentford Station Segment – 1.3 km Easy London Walk",
+      "meta_description": "Explore a short 1.3 km section of the Capital Ring from Brentford Station. An easy urban walk through parks and canal paths in London, with safety tips and gear.",
+      "h1": "Capital Ring Brentford Station Segment – Easy 1.3 km Urban Walk"
+    }
   }
 }

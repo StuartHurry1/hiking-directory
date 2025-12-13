@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 12664070
+  },
+  "ai": {
+    "summary": "An easy 2.7 km segment of the Capital Ring leading to Harrow-on-the-Hill station. This urban-friendly route combines light parkland and streets, suitable for beginners and casual walkers seeking a short, flat stroll in the UK.",
+    "terrain_summary": "Primarily paved paths and sidewalks with occasional grassy park sections. Mostly flat with gentle inclines; some curb crossings and brief stair access at park entrances may occur.",
+    "safety_notes": "Stay on marked paths and obey pedestrian signals. Be mindful of traffic at road crossings and keep to the sidewalk. Watch for cyclists on shared routes. Use daylight or high-visibility gear; carry a charged phone, a small first aid kit, and secure valuables. Supervise children and pets.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Light waterproof layer",
+      "Water bottle",
+      "Phone with offline map",
+      "Sunscreen and hat",
+      "Small first aid kit",
+      "Light snack"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for milder weather and longer daylight; summers can be warm, winters are shorter daylight but can be fine on dry days.",
+    "seo": {
+      "title": "Capital Ring to Harrow-on-the-Hill Station – Easy 2.7 km Walk",
+      "meta_description": "A concise guide to an easy 2.7 km Capital Ring leg terminating at Harrow-on-the-Hill station in the UK. Urban walk with parkland sections, suitable for beginners.",
+      "h1": "Capital Ring Leg to Harrow-on-the-Hill Station – Easy 2.7 km Walk"
+    }
   }
 }
