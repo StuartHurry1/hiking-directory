@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13014330
+  },
+  "ai": {
+    "summary": "Garlic Farm Trail is a gentle 4.5 km route in the UK, suitable for beginners and families. The path winds through farmland with open views and light shade, offering a relaxed, easy-going walk.",
+    "terrain_summary": "Primarily well-maintained farm tracks and short grassy sections. Surfaces are usually firm but may become muddy after rain; expect occasional gravel, gentle slopes, and hedgerow shade.",
+    "safety_notes": "Always check local access rules and farm hours before you go. Wear sturdy walking shoes and weather-appropriate clothing. Stay on marked paths, close gates behind you, and keep dogs under control. Be mindful of livestock, farm machinery, and changing weather. Carry water and a charged mobile phone; in rural sections signal may be limited. Respect signage and farm property.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, rain jacket)",
+      "Sun protection (hat and sunscreen)",
+      "Snack and a map or offline navigation on your phone",
+      "Small first-aid kit",
+      "Camera or smartphone for photos",
+      "Leash for dogs (if allowed on the trail)"
+    ],
+    "best_seasons": "Spring to autumn; typically best in mild, dry conditions with longer daylight.",
+    "seo": {
+      "title": "Garlic Farm Trail – Easy 4.5 km Hike in the UK",
+      "meta_description": "Explore Garlic Farm Trail, an easy 4.5 km hike in the UK. Friendly for beginners and families, with farmland scenery, practical safety tips, gear suggestions, and the best seasons to visit.",
+      "h1": "Garlic Farm Trail – Easy 4.5 km UK Hike"
+    }
   }
 }

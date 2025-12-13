@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 16031642
+  },
+  "ai": {
+    "summary": "Glen Loanan is a very short, easy hike in the UK, covering roughly 0.5 km. A gentle stroll suitable for beginners, families, and casual walkers seeking a tranquil glen experience.",
+    "terrain_summary": "A short, primarily flat trail with natural surface. Expect grassy paths, packed dirt, and occasional roots or small stones. The surface may be muddy after rain; watch your footing.",
+    "safety_notes": "- Wear sturdy footwear with good tread. - Stay on marked paths and respect private property. - Be mindful of weather changes in the UK; short hikes can become slippery in rain. - Bring water in warm weather; sunscreen or a hat in sunny conditions. - Monitor children closely near water or uneven ground.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate layer (light jacket)",
+      "Snack",
+      "Map or offline GPS",
+      "Phone with emergency contacts",
+      "Sunscreen and insect repellent (seasonal)",
+      "Compact rain gear (packable rain jacket)"
+    ],
+    "best_seasons": "Spring, summer and autumn are ideal for comfortable conditions; winter hiking is possible with proper clothing and waterproof footwear.",
+    "seo": {
+      "title": "Glen Loanan – Easy 0.5 km Hike in the UK",
+      "meta_description": "Discover Glen Loanan, an easy 0.5 km hike in the UK. Perfect for beginners and families, featuring a gentle trail, natural terrain, and tranquil glen scenery.",
+      "h1": "Glen Loanan: Easy 0.5 km Hike in the UK"
+    }
   }
 }

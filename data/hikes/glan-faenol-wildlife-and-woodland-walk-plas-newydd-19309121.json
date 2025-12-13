@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19309121
+  },
+  "ai": {
+    "summary": "An easy 3.5 km circular walk through Glan Faenol's woodland and surrounding coastal landscapes near Plas Newydd. Ideal for families and casual walkers seeking wildlife viewing, gentle terrain, and tranquil scenery.",
+    "terrain_summary": "Mostly well-maintained gravel and grassy paths with some dirt sections and gentle slopes. Expect occasional exposed roots and short stair-like features. Ground can be muddy after rain; waterproof footwear recommended. Some sections offer coastal views and marshland observations.",
+    "safety_notes": "Check weather and tide times if coastal sections are involved. Wear sturdy footwear and bring water. Stay on marked paths, supervise children and dogs (on leash where required). Be cautious of uneven ground and muddy patches after rain. Carry a map or offline navigation and inform someone of your hike duration.",
+    "recommended_gear": [
+      "Comfortable waterproof walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Hat and sunscreen",
+      "Snacks",
+      "Map or offline navigation",
+      "Phone/camera",
+      "Small first-aid kit",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring to Autumn; pleasant conditions most of the year, with the gentlest weather and best wildlife viewing from late spring through early autumn.",
+    "seo": {
+      "title": "Glan Faenol Wildlife and Woodland Walk — 3.5 km Easy Trail near Plas Newydd, UK",
+      "meta_description": "Explore Glan Faenol's woodland on an easy 3.5 km walk near Plas Newydd. Family-friendly hike with wildlife viewing, coastal scenery, and gentle terrain in the UK.",
+      "h1": "Glan Faenol Wildlife and Woodland Walk – 3.5 km Easy Trail near Plas Newydd"
+    }
   }
 }

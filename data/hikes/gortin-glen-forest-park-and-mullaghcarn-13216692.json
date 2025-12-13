@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13216692
+  },
+  "ai": {
+    "summary": "A scenic 7.6 km moderate hike that combines the shaded forest trails of Gortin Glen Forest Park with a steady ascent onto Mullaghcarn. The route starts among lush woodland, traverses grassy uplands, and culminates in panoramic views from the summit. Expect a mix of well-maintained paths and rocky sections, with an approximate hiking time of 2.5–3 hours for most walkers.",
+    "terrain_summary": "Primarily forest tracks through Gortin Glen, followed by grassy and rocky ascent toward Mullaghcarn. Surfaces vary from smooth dirt trails to exposed rock slabs and uneven footing. Path conditions can become muddy in wet weather; the summit area is exposed and can be windy.",
+    "safety_notes": "Weather in Northern Ireland can change rapidly; check forecasts before you go. The ascent to Mullaghcarn is steady but exposed near the summit, stay on marked paths, and watch for slippery rocks after rain. Bring a map or GPS, sufficient water and snacks, and inform someone of your plan. If visibility is poor or daylight is fading, consider turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and layered clothing",
+      "Backpack with water and snacks",
+      "Map or GPS device (and compass as backup)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Headlamp or flashlight (in case of late finish)",
+      "Trekking poles (optional but helpful)",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March to October) offer milder, drier conditions and better views; winter hikes can be windy, muddy, and shorter on daylight.",
+    "seo": {
+      "title": "Gortin Glen Forest Park & Mullaghcarn Hike – 7.6 km Moderate Trek in Northern Ireland",
+      "meta_description": "Explore Gortin Glen Forest Park and Mullaghcarn, a 7.6 km moderate hike in Northern Ireland. Forest trails, rocky uplands, and scenic summit views in Tyrone.",
+      "h1": "Gortin Glen Forest Park & Mullaghcarn Hike"
+    }
   }
 }

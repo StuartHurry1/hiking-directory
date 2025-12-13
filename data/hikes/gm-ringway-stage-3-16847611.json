@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16847611
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 3 is a demanding 20.2 km hike in the UK. The route features sustained ascents and exposed sections across varied terrain, suited to experienced hikers with solid fitness and navigation skills.",
+    "terrain_summary": "Expect a mix of grassy moorland, rocky ridges, muddy tracks and uneven stone paths. Short steep climbs, boggy patches and occasional scrambling may occur. Weather can change quickly, especially at higher elevations, so be prepared and carry navigation aids as needed.",
+    "safety_notes": "Plan for rapidly changing UK conditions: check the forecast, daylight hours, and any access constraints. Tell someone your plan and expected return time. Carry sufficient water and high-energy food. Wear sturdy, ankle-supporting boots and dress in layers with a waterproof outer layer. Stay on marked paths where possible; watch for loose stones, wet rocks and boggy sections. Carry a map and compass, with a GPS device as backup, and know how to navigate. Bring a headlamp, spare batteries, a basic first aid kit, a whistle, and a means to signal for help. In winter, expect ice and snow; consider crampons, an ice axe, and extra time for a safe descent. If conditions worsen or you feel exhausted, turn back to a safer point.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Layered clothing and a weatherproof jacket",
+      "Map, compass, and GPS (or offline map on a phone)",
+      "Backpack with 20–30 L capacity",
+      "Water and high-energy snacks (2–3 liters of water; electrolyte drinks)",
+      "Thermal base layers and a warm mid-layer",
+      "Waterproof trousers and gloves if conditions are cold or wet",
+      "Headlamp or torch with extra batteries",
+      "First aid kit and personal emergency tools (whistle, foil blanket)",
+      "Trekking poles (optional but helpful on rough or steep sections)"
+    ],
+    "best_seasons": "Spring to autumn (roughly May to September) offer the best trail conditions, but the route can be hiked year-round with proper equipment and experience. Winter conditions require additional planning and potentially mountaineering skills.",
+    "seo": {
+      "title": "GM Ringway Stage 3 Hike – 20.2 km Hard Trail in the UK",
+      "meta_description": "Discover GM Ringway Stage 3, a challenging 20.2 km hike in the UK. Learn about terrain, safety tips, and gear to plan this hard stage.",
+      "h1": "GM Ringway Stage 3: 20.2 km Hard Hike in the UK"
+    }
   }
 }

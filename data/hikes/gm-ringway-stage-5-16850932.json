@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16850932
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 5 is a demanding 23 km segment of the GM Ringway long-distance path in the UK. It combines varied terrain and sustained ascent, testing fitness and navigation skills.",
+    "terrain_summary": "Terrain is varied: rolling farmland, woodland trails, open moorland, and occasional rocky or muddy sections. Expect long sections of uneven ground, stiles and gates, and several road or track crossings. Navigation can be challenging in exposed or feature-poor sections, so carry a map and compass even if you have a GPS.",
+    "safety_notes": "This is a hard stage suitable for experienced hikers. Plan for 6–9 hours depending on pace and conditions. Check the forecast and daylight hours before setting out. Wear sturdy, waterproof footwear and bring layered clothing. Carry a map and compass as primary navigation tools (GPS as backup). Stay on marked paths, take care on exposed or slippery sections, and watch for boggy ground after rain. Inform someone of your plans, carry a whistle and a fully charged phone, and bring a basic first aid kit, sufficient water, and high-energy snacks. Start early in winter to maximize daylight; in poor weather or fog, consider postponing or turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Waterproof jacket and trousers",
+      "Warm layers and a hat/gloves",
+      "Map and compass (GPS as backup)",
+      "Whistle and a fully charged phone",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks",
+      "First aid kit",
+      "Headlamp with spare batteries",
+      "Sunscreen and sunglasses",
+      "Trekking poles (optional)",
+      "Emergency blanket"
+    ],
+    "best_seasons": "Spring to autumn; the best window is roughly March to October when daylight is longer and conditions are milder. Winter hiking is possible but challenging due to shorter days and potential severe weather.",
+    "seo": {
+      "title": "GM Ringway Stage 5 – 23km Hard Hike in the UK",
+      "meta_description": "Plan your GM Ringway Stage 5 hike: a 23 km hard stage in the UK with diverse terrain, safety tips, and gear guidance.",
+      "h1": "GM Ringway Stage 5 (UK) – 23km, Hard"
+    }
   }
 }

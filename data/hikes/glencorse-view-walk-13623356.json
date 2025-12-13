@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 13623356
+  },
+  "ai": {
+    "summary": "A moderate 8.4 km hike in the UK offering countryside views and steady pacing suitable for walkers with varied terrain.",
+    "terrain_summary": "Primarily rural paths with a mix of gravel, grassy tracks, and gentle slopes. Expect occasional gates or stiles and some uneven footing; some stretches may be muddy after rain.",
+    "safety_notes": "Check the latest weather forecast before you go. Wear sturdy footwear and dress in layers; bring a waterproof layer. Stay on marked paths, watch for livestock and other trail users, and carry a map or GPS. Bring sufficient water, snacks, and a basic first aid kit. Mobile signal may be limited in rural areas, so let someone know your plans and start early in shorter daylight months.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle (1–2 L)",
+      "Layered clothing and a waterproof jacket",
+      "Small rucksack",
+      "Map, compass, or GPS device",
+      "Phone with offline maps",
+      "Snack or lunch",
+      "Sun protection (hat and sunscreen)",
+      "Basic first aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions, but the walk can be done year-round with appropriate gear for colder or wetter weather.",
+    "seo": {
+      "title": "Glencorse View Walk — 8.4 km Moderate Hike in the UK",
+      "meta_description": "Explore the Glencorse View Walk, an 8.4 km moderate hike in the UK. Scenic countryside, practical safety tips, and gear recommendations for a confident day on the trail.",
+      "h1": "Glencorse View Walk – 8.4 km Moderate Hike in the UK"
+    }
   }
 }

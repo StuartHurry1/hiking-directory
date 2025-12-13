@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9802443
+  },
+  "ai": {
+    "summary": "Garden Trail is a short, easy 1.4 km hike in the UK designed for casual walkers and families. The route follows a flat, well-maintained path through garden-like scenery, making it a quick and relaxing outing that can be completed in about 30 minutes.",
+    "terrain_summary": "Flat to gently undulating route with a well-maintained surface (paved or compact gravel). Mostly shaded in parts, with occasional open sections. Easy for all ages.",
+    "safety_notes": "As with any outdoor walk, check the weather before you go. Wear sturdy, comfortable footwear and bring a light layer or rain jacket. Stay on the marked path, watch for other walkers, and supervise children and pets. Bring water, and carry a small first aid kit and a charged phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing (layers)",
+      "Rain jacket or windbreaker",
+      "Sunscreen and hat (seasonal)",
+      "Map or offline navigation (optional)",
+      "Mobile phone with emergency contacts",
+      "Small first aid kit",
+      "Snacks (optional)"
+    ],
+    "best_seasons": "Spring, summer, and autumn are ideal in the UK, but the trail can be enjoyed year-round with appropriate clothing.",
+    "seo": {
+      "title": "Garden Trail – Easy 1.4 km Walk in the UK",
+      "meta_description": "Explore Garden Trail, a short and easy 1.4 km hike in the UK. Perfect for families and casual walkers with flat terrain and garden scenery.",
+      "h1": "Garden Trail: Easy 1.4 km Walk in the UK"
+    }
   }
 }

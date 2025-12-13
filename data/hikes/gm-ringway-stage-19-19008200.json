@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 19008200
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 19 is a 24.6 km hard hike in the UK along the GM Ringway. Expect steep climbs, rugged terrain, and a full day on the trails with variable weather.",
+    "terrain_summary": "Mixed terrain with steep ascents and descents, rocky paths, boggy sections, woodland, and occasional open moorland. Some sections may involve road or field paths and water crossings.",
+    "safety_notes": "Plan for a long day (6–10 hours). Check the weather forecast and be prepared for sudden changes common in the UK. Navigation can be challenging in remote stretches; carry a map and compass (GPS as backup). Wear sturdy boots and dress in layers; carry a waterproof jacket and extra warm layer. Inform someone of your planned route and estimated finish time. Bring sufficient food and water, and have a small first aid kit and a whistle.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof and windproof jacket",
+      "Insulating mid-layer or fleece",
+      "Moisture-wicking base layers",
+      "Hat and gloves",
+      "Map and compass (and GPS as backup)",
+      "Fully charged phone and power bank",
+      "Headlamp or flashlight",
+      "Water bottles or a hydration system (2–3 L)",
+      "High-energy snacks and a light meal",
+      "Emergency bivy or space blanket",
+      "First aid kit",
+      "Whistle",
+      "Sun protection (sunscreen, sunglasses)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September).",
+    "seo": {
+      "title": "GM Ringway Stage 19 – 24.6 km Hard Hike in the UK",
+      "meta_description": "Explore GM Ringway Stage 19: a 24.6 km hard hike across varied UK terrain. Plan for a full day with steep sections, rugged trails, and unpredictable weather.",
+      "h1": "GM Ringway Stage 19 – 24.6 km Hard Hike (UK)"
+    }
   }
 }

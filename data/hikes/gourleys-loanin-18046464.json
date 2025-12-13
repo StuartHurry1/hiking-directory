@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18046464
+  },
+  "ai": {
+    "summary": "Gourley's Loanin is a very short, easy hike in the United Kingdom, covering about 0.8 km. The route is beginner-friendly and typically completes in around 10–15 minutes at a relaxed pace.",
+    "terrain_summary": "Predominantly flat with well-maintained paths. Surfaces may be compacted earth or grass; elevation gain is minimal. Expect occasional damp patches in wetter weather.",
+    "safety_notes": "- Check local weather and daylight hours before setting out. - Wear sturdy, comfortable footwear and dress in layers. - Stay on marked paths and respect any private property or livestock. - Carry a small amount of water, a charged phone, and a basic map or offline route. - Be mindful of other hikers; paths can be shared and surface can be slippery in wet or icy conditions.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Weather-appropriate clothing (layers)",
+      "Water bottle",
+      "Small backpack or daypack",
+      "Phone with offline map and emergency contacts",
+      "Sunscreen and hat for sunny days"
+    ],
+    "best_seasons": "Spring to autumn are typically the most comfortable; winter hikes are possible with appropriate gear and daylight.",
+    "seo": {
+      "title": "Gourley's Loanin – Easy 0.8 km Hike in the UK",
+      "meta_description": "Explore Gourley's Loanin, a short and easy 0.8 km hike in the UK. Perfect for beginners and families, with practical safety tips and gear suggestions.",
+      "h1": "Gourley's Loanin – Easy 0.8 km Hike in the UK"
+    }
   }
 }

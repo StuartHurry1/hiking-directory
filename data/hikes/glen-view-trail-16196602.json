@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 16196602
+  },
+  "ai": {
+    "summary": "Glen View Trail is a short, easy 1.9 km hike in the UK countryside. It is suitable for beginners, families, and casual walkers seeking a peaceful stroll with gentle terrain and natural scenery.",
+    "terrain_summary": "The route uses well maintained paths with gentle gradients. The surface is mainly compact gravel or dirt with grassy shoulders. Expect occasional muddy patches after rain and a few damp sections; footwear with good grip is advised.",
+    "safety_notes": "Wear sturdy footwear and weather appropriate clothing. Check the forecast and daylight hours before you go. Stay on marked paths and be mindful of uneven ground and wet conditions. Mobile reception can be limited in rural areas, so carry a basic map or download offline maps. Bring water and a small snack, and consider telling someone your plan if walking alone. Be aware of cyclists or livestock on shared sections and take care on slippery surfaces after rain.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Lightweight waterproof jacket",
+      "Water bottle",
+      "Map or offline navigation (or a phone with offline maps)",
+      "Small snack",
+      "Sun protection (hat and sunscreen)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to autumn are ideal for this easy trail. Winter visits are possible with proper footwear and daylight, but expect mud and more challenging conditions.",
+    "seo": {
+      "title": "Glen View Trail – Easy 1.9 km Hike in the UK Countryside",
+      "meta_description": "Plan a short beginner friendly 1.9 km hike on Glen View Trail in the UK countryside. Learn about terrain, safety tips, gear suggestions, and best seasons for this easy walk.",
+      "h1": "Glen View Trail: Easy 1.9 km Walk in the UK"
+    }
   }
 }

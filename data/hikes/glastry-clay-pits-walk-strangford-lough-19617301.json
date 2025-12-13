@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 19617301
+  },
+  "ai": {
+    "summary": "A short, easy 0.8 km circular walk around the Glastry Clay Pits near Strangford Lough in the UK. The route is suitable for all ages and offers insight into historic clay quarrying with a mix of grassy paths and open ground by the water.",
+    "terrain_summary": "Flat to gently undulating terrain with a mix of grassy fields, compact paths and some exposed clay pit edges. Ground can be soft or muddy after rain; expect uneven sections and potential puddles near water.",
+    "safety_notes": "Stay on defined routes where present; be cautious near the edges of clay pits and water, as edges can be unstable. Wear sturdy footwear and weather-appropriate clothing. Check local access rules and tide times if the route is close to shore. Keep dogs under control, supervise children, and carry a phone for emergencies. In case of emergency call 999.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Weather-appropriate clothing",
+      "Light snack",
+      "Map or offline GPS",
+      "Phone/camera",
+      "Bug repellent",
+      "Small first-aid kit",
+      "Hat and sun protection (in sunny weather)"
+    ],
+    "best_seasons": "All year, with particularly pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Glastry Clay Pits Walk, Strangford Lough — Easy 0.8 km Hike in the UK",
+      "meta_description": "Discover the Glastry Clay Pits Walk near Strangford Lough. An easy 0.8 km hike in the UK with grassy paths, historic clay pits, and scenic water views. Plan your visit today.",
+      "h1": "Glastry Clay Pits Walk, Strangford Lough"
+    }
   }
 }

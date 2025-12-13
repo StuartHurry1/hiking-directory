@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 16846619
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 1 is a 20.2 km hard hike in the UK, serving as the opening stage of the GM Ringway route. The route combines urban streets, canal towpaths, and rural trails with elevation gains, demanding stamina, good navigation, and solid footwear. Suitable for experienced hikers comfortable with mixed surfaces and longer distances.",
+    "terrain_summary": "Mixed terrain including urban footpaths, canal towpaths, rural lanes, grassy fields, and woodland trails. Expect uneven surfaces, gates and occasional stiles, sections of mud, and some road walking to connect segments. Short, potentially busy urban stretches may be encountered.",
+    "safety_notes": "Plan around variable UK weather and daylight; check forecasts and shorten or postpone if conditions are unsafe. Wear sturdy boots with good grip and carry waterproofs and extra layers. Bring a map, compass or GPS, and ensure your phone is charged. Stay on marked paths, watch for traffic on road sections, and let someone know your route and expected finish time. Carry sufficient water and snacks, a basic first aid kit, and an emergency whistle. In remote sections, have a means to call for help and consider a lightweight, portable shelter if rain is forecast.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy hiking boots",
+      "Water bottle or hydration system",
+      "Energy-rich snacks",
+      "Map and compass or GPS device",
+      "Extra layers (fleece/wleece jacket or equivalent)",
+      "Hat and gloves (seasonal)",
+      "Sunscreen and sunglasses",
+      "Headlamp or flashlight (for late finishes)",
+      "Emergency whistle",
+      "Basic first aid kit",
+      "Backpack rain cover",
+      "Trekking poles (optional)",
+      "Power bank for phone"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March–October), with the best conditions typically May–July.",
+    "seo": {
+      "title": "GM Ringway Stage 1 - 20.2 km Hard Hike in the UK",
+      "meta_description": "Explore GM Ringway Stage 1, a challenging 20.2 km hike in the UK. Mixed urban and rural terrain, elevation gains, and practical safety and gear tips.",
+      "h1": "GM Ringway Stage 1: 20.2 km Hard Hike (UK)"
+    }
   }
 }

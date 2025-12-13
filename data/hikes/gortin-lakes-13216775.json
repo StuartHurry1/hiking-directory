@@ -19,5 +19,25 @@
   "source": {
     "type": "osm",
     "osmId": 13216775
+  },
+  "ai": {
+    "summary": "Gortin Lakes offers a short, easy lakeside hike in the UK. The 0.9 km loop provides tranquil water views, woodland scenery, and a gentle stroll suitable for beginners, families, and casual nature-goers.",
+    "terrain_summary": "A short, mostly flat loop along well-maintained paths around the lakes. The surface is primarily compact gravel and earth; expect the occasional muddy patch or uneven area near the shoreline after rain.",
+    "safety_notes": "Even on short hikes, be mindful of UK weather. This 0.9 km route is gentle but can become slippery when wet. Wear sturdy footwear and dress in layers. Stay on marked paths, keep a safe distance from the water, and supervise children. If you’re hiking with dogs, keep them on a leash where required. Carry a charged phone and inform someone of your plans. In an emergency, call 999 for police, fire, or ambulance.",
+    "recommended_gear": [
+      "Sturdy waterproof footwear",
+      "Light waterproof jacket and layers",
+      "Water and a small snack",
+      "Sunscreen, hat, and sunglasses",
+      "Map or offline map on your phone",
+      "Power bank for phone",
+      "Lightweight rain cover or extra layer"
+    ],
+    "best_seasons": "Spring to autumn; the hike is feasible year-round with proper clothing and footwear.",
+    "seo": {
+      "title": "Gortin Lakes – Easy 0.9 km Lakeside Walk in the UK",
+      "meta_description": "Explore the gentle 0.9 km Gortin Lakes walk in the UK. An easy, family-friendly lakeside loop with practical safety tips, gear, and seasonal guidance.",
+      "h1": "Gortin Lakes – Easy 0.9 km Lakeside Walk"
+    }
   }
 }

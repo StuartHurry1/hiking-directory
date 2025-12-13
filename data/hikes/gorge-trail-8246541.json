@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 8246541
+  },
+  "ai": {
+    "summary": "Gorge Trail is a short, 2.5 km hike in the UK suitable for beginners. The route follows a gorge riverbank along a well-marked path, offering accessible scenery and a relaxed pace.",
+    "terrain_summary": "Primarily a well-maintained path along a gorge with gentle slopes. Expect occasional uneven ground, exposed roots, and some mud. The trail is overall easy and suitable for most walkers.",
+    "safety_notes": "- Check local weather before you go; conditions near water and in gorge environments can change quickly. - Wear sturdy, closed-toe hiking shoes with good grip. - Stay on the marked path and respect barriers; keep a safe distance from edges. - Bring a light rain jacket and warmer layers; the gorge can be cooler and damper than surrounding areas. - Carry enough water and a small snack; inform someone of your plans if hiking alone. - Be cautious on muddy sections after rain and avoid shortcuts. - Keep pets under control and clean up after them where required. - In remote UK locations, mobile signal may be limited; carry a map or offline navigation.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots",
+      "Weather-appropriate clothing",
+      "Water bottle",
+      "Snacks",
+      "Map or offline navigation on phone",
+      "Small backpack",
+      "Sunscreen",
+      "Hat",
+      "Light rain jacket",
+      "Whistle (optional)"
+    ],
+    "best_seasons": "Spring through autumn generally offer the best conditions; the hike can be done year-round with proper footwear and weather gear.",
+    "seo": {
+      "title": "Gorge Trail Hike in the UK - 2.5 km Easy Gorge Walk",
+      "meta_description": "Discover Gorge Trail, a 2.5 km easy hike in the UK. Learn about terrain, safety tips, and gear for a short, scenic gorge walk.",
+      "h1": "Gorge Trail — 2.5 km Easy Gorge Walk"
+    }
   }
 }

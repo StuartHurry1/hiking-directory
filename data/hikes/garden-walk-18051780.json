@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 18051780
+  },
+  "ai": {
+    "summary": "Garden Walk is a short, easy 2.6 km hike in the United Kingdom, offering a gentle stroll through a managed garden setting suitable for families and casual walkers.",
+    "terrain_summary": "Mostly well-maintained garden paths with paved and compact gravel surfaces. The route is largely flat with gentle undulations; some edges may be uneven.",
+    "safety_notes": "Wear sturdy, comfortable footwear. Stay on marked paths and respect garden rules. Carry water and check garden hours or closures. Be mindful of other visitors, especially children and wildlife. In wet conditions, surfaces can be slippery; proceed with care. Plan for weather changes and carry a light layer.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Lightweight backpack",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn for the best blooms and pleasant walking weather. The route can be walked year-round in milder UK regions, with cooler, wetter conditions in winter.",
+    "seo": {
+      "title": "Garden Walk – Easy 2.6 km Garden Trail in the UK",
+      "meta_description": "Enjoy Garden Walk, a gentle 2.6 km route in the United Kingdom. Flat, well-maintained paths ideal for families and casual hikers. Safety tips and gear included.",
+      "h1": "Garden Walk: Easy 2.6 km Garden Trail in the UK"
+    }
   }
 }

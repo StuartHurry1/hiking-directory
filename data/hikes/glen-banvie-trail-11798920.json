@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 11798920
+  },
+  "ai": {
+    "summary": "Glen Banvie Trail is a challenging 32.1 km hike in the UK, intended for experienced hikers. This guide provides a concise overview of terrain, safety, gear, best seasons, and SEO metadata for planning.",
+    "terrain_summary": "Expect varied terrain including rough tracks, rocky sections, forest paths, moorland, and possible boggy ground. Significant elevation gain and several exposed sections; navigation skills are recommended. Weather in the UK can change quickly, so be prepared for wet conditions and reduced daylight, especially outside summer.",
+    "safety_notes": "Plan for long hours and changeable conditions. Tell someone your route and expected finish time. Carry a map and compass (or a GPS with offline maps) and know how to use them. Stay on the route, monitor fatigue and hydration, and have contingencies for bad weather. In upland or exposed sections, be prepared for sudden weather changes and turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base layer, insulating layer, waterproof outer layer)",
+      "Backpack with 20–30 L capacity",
+      "Water and high-energy snacks (2 L+ water depending on conditions)",
+      "Map and compass; GPS or offline maps as backup",
+      "Headlamp with spare batteries",
+      "First aid kit",
+      "Emergency blanket or bivvi sack",
+      "Whistle",
+      "Rain gear (jacket and pants)",
+      "Sun protection (sunscreen and sunglasses)",
+      "Hat and gloves (seasonal)",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "May to September is generally the best window for visibility and moderate weather in the UK; shoulder months (April, October) can be good with careful preparation, while winter hiking is more demanding and less predictable.",
+    "seo": {
+      "title": "Glen Banvie Trail — 32.1 km Hard Hike in the UK",
+      "meta_description": "Plan your Glen Banvie Trail hike: a 32.1 km hard route in the UK. Get terrain insights, safety tips, gear recommendations, best seasons, and practical planning guidance.",
+      "h1": "Glen Banvie Trail – 32.1 km Hard Hike in the UK"
+    }
   }
 }

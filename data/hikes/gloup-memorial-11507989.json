@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 11507989
+  },
+  "ai": {
+    "summary": "A short, easy 1.6 km coastal memorial walk in the UK to Gloup Memorial. Suitable for most ages and fitness levels, with gentle terrain and scenic views along the coast.",
+    "terrain_summary": "Short coastal path with mostly even surfaces. Some sections may be grassy or compact earth; expect occasional uneven ground and small steps near the memorial.",
+    "safety_notes": "As with coastal paths, check weather and tide conditions. Stay on the designated path, keep away from cliff edges, and supervise children. Wear sturdy footwear and bring a light layer for wind and changeable weather.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light waterproof jacket",
+      "Sun hat",
+      "Sunscreen",
+      "Light snack"
+    ],
+    "best_seasons": "Spring to autumn; winter can be windy and damp",
+    "seo": {
+      "title": "Gloup Memorial – 1.6 km Easy Coastal Hike in the UK",
+      "meta_description": "Discover the 1.6 km easy hike to Gloup Memorial in the UK. Coastal scenery, gentle terrain, practical safety tips, and gear suggestions for all ages.",
+      "h1": "Gloup Memorial: Easy 1.6 km Coastal Hike"
+    }
   }
 }

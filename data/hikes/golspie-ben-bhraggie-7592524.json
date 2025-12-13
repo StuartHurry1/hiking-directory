@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 7592524
+  },
+  "ai": {
+    "summary": "A short, easy 3 km hike from Golspie to the summit of Ben Bhraggie in the Scottish Highlands. The route follows grassy paths to a historic monument, with coastal views over the Moray Firth and a beginner-friendly ascent.",
+    "terrain_summary": "Mostly grassy paths with a gentle to moderate ascent. Some rocky sections near the summit and a few uneven patches underfoot. The final approach is a grassy incline to the monument; expect exposed winds at the top and coastal weather, so dress in layers and wear sturdy footwear.",
+    "safety_notes": "- Weather can change quickly; check forecasts before you go. - The summit area can be windy and exposed; keep a firm footing and avoid loose ground in wet conditions. - Stay on marked paths; watch for uneven ground and loose stones. - Be mindful of others on the path and keep dogs under control where required. - Tides and coastal spray can affect visibility; plan the return route accordingly. - Respect the historic monument at the summit and avoid climbing on or behind it. - Carry water and a small first-aid kit; have a means to call for help if needed.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and a light snack",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Light daypack",
+      "Sun protection (hat, sunscreen)",
+      "Map or offline GPS (or guidebook)",
+      "Phone/camera",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "April–October; late spring and early autumn offer the best conditions for comfortable walking, while winters can be windy and icy.",
+    "seo": {
+      "title": "Golspie to Ben Bhraggie: Easy 3 km Hike in Scotland",
+      "meta_description": "Embark on an easy 3 km hike from Golspie to Ben Bhraggie in the Scottish Highlands. Grassy paths, a historic summit monument, and coastal views make this a perfect beginner-friendly day out.",
+      "h1": "Golspie to Ben Bhraggie: Easy 3 km Hike"
+    }
   }
 }

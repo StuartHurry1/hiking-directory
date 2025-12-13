@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 17890332
+  },
+  "ai": {
+    "summary": "A brief, easy 0.4 km woodland stroll in Glassdrummomd Wood, UK. A short, family-friendly hike through shaded trees with a gentle, flat path.",
+    "terrain_summary": "Flat, well-trodden woodland track with leaf litter and occasional roots. Expect shaded sections and potentially damp patches after rain. Easy footing overall.",
+    "safety_notes": "As with any woodland walk, wear sturdy footwear, dress for the weather, and watch for uneven ground, slick leaves, or muddy patches. Be mindful of ticks in long grass, keep to the trail, and bring a charged phone. Hydrate as needed for the short distance; carry water if preferred. In poor visibility, stay on the path and consider walking with a companion.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Weather-appropriate clothing",
+      "Small daypack",
+      "Water bottle",
+      "Phone with emergency contacts",
+      "Sunscreen and sunglasses",
+      "Insect repellent (optional)"
+    ],
+    "best_seasons": "All year round, with spring and autumn offering the best scenery and milder conditions.",
+    "seo": {
+      "title": "Glassdrummomd Wood – Easy 0.4 km UK Woodland Walk",
+      "meta_description": "Discover Glassdrummomd Wood. An easy 0.4 km woodland stroll in the UK suitable for families and beginners. Learn about terrain, safety tips, and gear.",
+      "h1": "Glassdrummomd Wood – Easy 0.4 km Woodland Walk"
+    }
   }
 }

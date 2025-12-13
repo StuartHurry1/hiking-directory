@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 1577593
+  },
+  "ai": {
+    "summary": "A short, family-friendly 0.5 km hike in the UK featuring oversized play sculptures along an easy, well-maintained path.",
+    "terrain_summary": "Mostly flat and smooth; paved or compacted surface with gentle grade. Suitable for strollers when dry; some tree shade and occasional roots near the edges.",
+    "safety_notes": "Check weather and wear appropriate footwear. Stay on marked paths, supervise children, and keep pets on a leash where required. Bring water, watch for other pedestrians and cyclists on shared routes.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light layers or jacket",
+      "Sunscreen",
+      "Hat",
+      "Small backpack for belongings"
+    ],
+    "best_seasons": "Spring to autumn for comfortable conditions; visits in winter are possible with warm clothing and rain gear.",
+    "seo": {
+      "title": "Giant Play Sculpture Trail – 0.5 km Easy Family Walk in the UK",
+      "meta_description": "Discover a short, easy 0.5 km hike in the UK featuring giant play sculptures. Family-friendly, stroller-accessible, and suitable for a quick outdoor outing.",
+      "h1": "Giant Play Sculpture Trail – 0.5 km Easy Family Walk"
+    }
   }
 }

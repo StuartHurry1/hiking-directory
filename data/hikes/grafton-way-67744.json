@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 67744
+  },
+  "ai": {
+    "summary": "Grafton Way is a demanding long-distance hike in the UK, covering approximately 89.1 km. The route demands solid navigation, steady legs, and careful planning to manage variable terrain and weather across a multi-day trek.",
+    "terrain_summary": "Expect a mix of grassy moorland, gravel tracks, forest paths, hedgerows, and occasional river crossings. Footing can be uneven and rocky in places, with exposed sections on higher ground. Navigation is important in areas with limited signage, and weather can change quickly in the UK.",
+    "safety_notes": "Plan for variable weather and short daylight hours. Carry a detailed map and reliable navigation tool (map and compass or GPS). Tell someone your itinerary and expected finish times. Stay on public rights of way, pack sufficient water and food, and have a means to signal for help (whistle, mobile signal where available). Have a first aid kit, emergency shelter, and appropriate layers for warmth and rain. Let someone know if you need to shorten or cancel the route due to conditions.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Waterproof jacket and waterproof pants",
+      "Breathable base layers and insulating mid-layer",
+      "Hat and gloves for variable weather",
+      "Backpack with rain cover",
+      "Water bottle or hydration system (2–3 liters total)",
+      "High-energy snacks and meals",
+      "Map, compass, and/or GPS device",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Emergency blanket or bivy sack",
+      "Sunscreen and sunglasses",
+      "Trekking poles",
+      "Whistle",
+      "Multi-tool or knife"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) generally offers the best conditions for this distance in the UK. Winter hiking is possible but presents greater risks from cold, snow, and reduced daylight.",
+    "seo": {
+      "title": "Grafton Way – 89.1 km UK Long-Distance Trail",
+      "meta_description": "Plan your 89.1 km hike along the Grafton Way in the UK. Learn about terrain, safety tips, gear recommendations, and the best seasons for this challenging route.",
+      "h1": "Grafton Way – 89.1 km UK Long-Distance Trail"
+    }
   }
 }

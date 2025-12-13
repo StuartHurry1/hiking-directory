@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 9741191
+  },
+  "ai": {
+    "summary": "A gentle 4.3 km coastal walk in the UK, finishing at the mouth of the River Heddon. Easy for most walkers and families, with mostly flat or gently undulating paths and scenic sea views along the Exmoor coast.",
+    "terrain_summary": "Mostly flat to gently undulating trails with a mix of gravel and dirt paths. Some sections may be muddy after rain, and there are a few steps near the estuary. Expect coastal winds and potential spray; watch footing near the shoreline.",
+    "safety_notes": "Weather can change quickly along the coast. Stay away from unstable cliff edges and heed local signs. Wear sturdy footwear for uneven surfaces and heed tide times if exploring the estuary or beach area. Keep children close and ensure you have a means of calling for help in low-signal areas.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water and a light snack",
+      "Windproof jacket or layer",
+      "Hat and sunglasses",
+      "Map or offline navigation (optional)",
+      "Phone with emergency contacts saved",
+      "Small backpack",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer milder weather and longer days; summer provides the best sea views but can be busier. Winter walks are possible but can be windy, wet and with shorter daylight hours.",
+    "seo": {
+      "title": "Gentle Walk to Heddon's Mouth – Easy 4.3 km Coastal Walk in the UK",
+      "meta_description": "Discover a family-friendly 4.3 km easy coastal walk to Heddon's Mouth on the Exmoor coast, UK. Learn about terrain, safety, gear and the best seasons for this scenic hike.",
+      "h1": "Gentle Walk to Heddon's Mouth – 4.3 km Easy Coastal Path"
+    }
   }
 }

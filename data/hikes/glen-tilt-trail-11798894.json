@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 11798894
+  },
+  "ai": {
+    "summary": "The Glen Tilt Trail is a strenuous 28.2 km route through rugged Scottish countryside. As a hard level hike, it requires good fitness, solid navigation, and preparation for variable weather. The route combines forest tracks, rocky riverbanks, and open moorland with several stream crossings and steep sections.",
+    "terrain_summary": "Expect a mix of muddy forest tracks, rocky slabs, peat bogs, and river crossings. Surfaces are uneven and can be slippery after rain. Some stretches are exposed with short climbs; navigation aids are helpful in mist as paths can be indistinct.",
+    "safety_notes": "Weather in the Highlands can change quickly. Always carry waterproofs and extra layers. The trail is remote with limited cell coverage in parts; bring a map and compass and know how to use them. Long, rough sections and river crossings demand good footwear and judgment, especially after rain. Tell someone your route and expected return time. Pack a first aid kit, sufficient food and water, a headlamp, and a whistle. Consider trekking poles for stability. If conditions are flooded, icy, or severe, postpone the hike.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Layered clothing system (base layer, insulation, waterproof outer layer)",
+      "Waterproof and windproof jacket and pants",
+      "Hat and gloves",
+      "Map and compass (and a GPS device as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit",
+      "Sufficient water and a means to purify or treat water",
+      "High-energy food and snacks",
+      "Emergency blanket or bivy sack",
+      "Whistle",
+      "Trekking poles (optional but helpful)",
+      "Waterproof pack cover or dry bags",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Best from April to October for milder conditions and longer daylight. Winter and early spring hikes are possible but involve deep mud, snow, ice and shorter days; require advanced skills and equipment.",
+    "seo": {
+      "title": "Glen Tilt Trail: A 28.2 km Hard Hike in Scotland, UK",
+      "meta_description": "Explore Glen Tilt Trail, a challenging 28.2 km hike in Scotland. Learn terrain, safety tips, gear recommendations, and the best seasons for this rugged UK trail.",
+      "h1": "Glen Tilt Trail – 28.2 km Hard Hike in Scotland, UK"
+    }
   }
 }

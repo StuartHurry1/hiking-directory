@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 1230517
+  },
+  "ai": {
+    "summary": "GHB Ward Walk is a challenging 34.9 km hike in the United Kingdom. Classified as hard, it demands good stamina, navigation skill, and thorough preparation. The route traverses variegated terrain and likely covers long distances between resupply points, making it suitable for experienced hikers who are comfortable with endurance trekking.",
+    "terrain_summary": "The trail covers varied UK terrain: paved paths, gravel tracks, grassy byways and wooded sections. Expect rolling climbs, uneven footing, mud after rain, and occasional gate or stile crossings. Navigation can be straightforward on open sections but may require careful map reading in wooded or overgrown areas.",
+    "safety_notes": "Treat this as a long day or multi-stage hike. Check the weather and daylight hours before starting, tell someone your plan and expected finish, and carry navigation backups. Stay on signed routes, monitor fatigue, hydrate regularly, and eat for sustained energy. Carry a whistle, a compact first aid kit, and an emergency layer; in remote sections have a plan for delays and know the nearest exit points. Be mindful of road crossings, farm animals, and changing conditions, especially in winter.",
+    "recommended_gear": [
+      "OS map and compass or GPS device",
+      "Sturdy waterproof hiking boots",
+      "Waterproof jacket and pants",
+      "Layered clothing plus hat and gloves",
+      "2–3 liters of water plus electrolytes",
+      "High-energy snacks and meals",
+      "Headlamp with extra batteries",
+      "Small first aid kit",
+      "Whistle",
+      "Emergency shelter or bivvy bag",
+      "Mobile phone with power bank",
+      "Sun protection (sunscreen and sunglasses)",
+      "Personal ID and emergency contact card"
+    ],
+    "best_seasons": "Spring to autumn is ideal; winter hiking is possible with extra gear and shorter daylight.",
+    "seo": {
+      "title": "GHB Ward Walk – 34.9 km Hard UK Hike",
+      "meta_description": "Discover GHB Ward Walk, a demanding 34.9 km hike in the United Kingdom. Terrain notes, safety guidance, essential gear, and best seasons for this challenging route.",
+      "h1": "GHB Ward Walk: 34.9 km Hard Hike in the UK"
+    }
   }
 }

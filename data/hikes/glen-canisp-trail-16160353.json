@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 16160353
+  },
+  "ai": {
+    "summary": "Glen Canisp Trail is a challenging 44.6 km route in the UK that tests endurance with varied Highlands terrain. It suits experienced hikers comfortable with long distances, significant elevation, and remote sections where weather can change quickly.",
+    "terrain_summary": "The route traverses rugged Highland terrain: open moorland, rocky climbs, peat bogs, and intermittent scree. Expect uneven footing, potential wet sections, and exposed sections with expansive views; navigation skills are important in mist or poor visibility.",
+    "safety_notes": "This is a long, remote hike. Check the forecast and daylight hours before setting out. Carry a map and compass (GPS as a backup) and know how to use them. Inform someone of your plan and expected finish time. Bring sufficient food and water, with a means to purify water. Have a warm, waterproof layer and a light emergency shelter. Carry a first-aid kit, whistle, and a charged phone as a backup; be prepared for rapid weather changes; consider staggering the route over two days if you’re not confident in completing it in a single day. In remote sections, there may be weak navigation markers and river crossings; turn back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and pants",
+      "Insulating mid-layer and hat",
+      "Map, compass, and/or GPS device; fully charged",
+      "Headlamp with extra batteries",
+      "Water bottle and/or hydration system; water purification method",
+      "High-energy food and emergency snacks",
+      "Lightweight emergency bivouac or space blanket",
+      "First-aid kit and personal medications",
+      "Whistle and multitool",
+      "Rucksack with dry bags or waterproof cover",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the best weather and daylight for this long, strenuous route. Winter conditions are harsher and not recommended for most hikers.",
+    "seo": {
+      "title": "Glen Canisp Trail Guide – 44.6 km Hard Hike in the UK",
+      "meta_description": "Plan your Glen Canisp Trail ascent: a 44.6 km hard hike in the Scottish Highlands. Learn terrain, safety tips, essential gear, and the best seasons.",
+      "h1": "Glen Canisp Trail: A 44.6 km Hard Hike in the UK"
+    }
   }
 }

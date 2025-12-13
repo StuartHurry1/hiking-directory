@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 9825111
+  },
+  "ai": {
+    "summary": "A gentle, easy 4.7 km hike around Gelert’s Grave in the UK. The route follows woodland paths and riverside trails, making it suitable for families and casual walkers who want a relaxed walk with a touch of Welsh legend.",
+    "terrain_summary": "Mostly compact paths through woodland and along the river, with gentle gradients. Some sections may be muddy or slick in wet weather, and there are a few steps and wooden bridges.",
+    "safety_notes": "Weather can change quickly in the UK. Wear sturdy footwear with good grip and stay on marked paths. Be cautious on slippery surfaces near the river and on bridges. Bring waterproofs and warm layers, plus a bottle of water and snacks. Supervise children and keep them away from edges; mobile signal can be unreliable in wooded areas. Share your plans with someone before you go if hiking alone.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight fleece or extra layer",
+      "Snacks",
+      "Hat and sunscreen (seasonal)",
+      "Small first aid kit",
+      "Mobile phone and power bank",
+      "Map or offline GPS (or compass)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) for milder weather and longer daylight; winter visits can be wetter and muddier, so be prepared for tougher conditions.",
+    "seo": {
+      "title": "Gelert's Grave Walk – Easy 4.7 km Hike in the UK",
+      "meta_description": "Explore Gelert's Grave Walk, an easy 4.7 km hike in the UK. Woodland paths, river views, and the legend of Gelert near Beddgelert. Practical safety tips and gear.",
+      "h1": "Gelert's Grave Walk – Easy 4.7 km Hike"
+    }
   }
 }

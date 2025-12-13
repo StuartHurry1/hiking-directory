@@ -19,5 +19,29 @@
   "source": {
     "type": "osm",
     "osmId": 7111804
+  },
+  "ai": {
+    "summary": "A challenging 20 km circular ridge walk in the UK, starting near Gorebridge and looping back, featuring exposed high ridgelines, steep ascents, and panoramic views. Suitable for experienced hikers with solid navigation skills.",
+    "terrain_summary": "Rugged ridge terrain with exposed grassy slopes, rocky outcrops, uneven paths, and potential boggy sections. Expect steep ascents and descents, loose scree, and wind exposure on higher sections.",
+    "safety_notes": "This is a hard, long route with exposed sections. Weather in the UK can change rapidly; check forecasts before setting out. Navigation is essential—bring a map and compass and know how to use them (GPS is helpful but not a substitute). Wear sturdy, ankle-supporting boots and waterproof clothing. Carry sufficient water and high-energy food for the duration, plus extra layers, a hat, gloves, and a whistle. Tell someone your planned route and expected return time; have a contingency plan in case of bad weather or emergency; be prepared for limited mobile signal on ridges.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Waterproof and breathable jacket and trousers",
+      "Layered clothing suitable for variable UK weather (base layer, fleece, hat, gloves)",
+      "Map and compass (and a GPS device as backup)",
+      "Water bottle or hydration system (2 liters recommended for a 6-8 hour hike)",
+      "High-energy snacks and a small lunch",
+      "First-aid kit with blister care",
+      "Emergency whistle",
+      "Mobile phone with offline maps and a fully charged power bank",
+      "Headlamp or small flashlight with spare batteries",
+      "Trekking poles (optional but helpful on long ridges)"
+    ],
+    "best_seasons": "Late spring to early autumn; winter and early spring can be tackled by experienced hikers with proper gear and careful planning, but conditions may be severe.",
+    "seo": {
+      "title": "Gorebridge Circular Walk – 20km Hard Ridge Hike in the UK",
+      "meta_description": "Discover the Gorebridge Circular Walk: a demanding 20 km ridge hike in the UK. Learn about terrain, safety, and gear for the experienced hiker.",
+      "h1": "Gorebridge Circular Walk: A 20km Hard Ridge Hike in the UK"
+    }
   }
 }

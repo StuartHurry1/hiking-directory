@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 1503293
+  },
+  "ai": {
+    "summary": "A light, family-friendly 3 km loop on the Blue Path through Gosford Forest Park in the UK. This easy route follows well-maintained trails through deciduous woodland, suitable for beginners and those seeking a relaxed day outdoors.",
+    "terrain_summary": "Flat to gently undulating forest paths with a mix of gravel and compact dirt. The route is generally easy, but residual mud after rain and occasional exposed roots or small dips can occur.",
+    "safety_notes": "Difficulty: easy. Stay on marked trails and follow park rules. Check weather and trail conditions before you go. Wear sturdy footwear, bring water, and dress for changing UK weather. Be mindful of other hikers, cyclists, and wildlife; keep dogs on a leash. Carry a charged phone for emergencies and know local emergency numbers.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Light rain jacket or layerable clothing",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Map or park app for navigation",
+      "Small backpack with snacks",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to Autumn; year-round hiking possible with weather considerations, but conditions are typically most comfortable March to October.",
+    "seo": {
+      "title": "Gosford Forest Park Blue Path – Easy 3 km Hike in the UK",
+      "meta_description": "Explore the Blue Path at Gosford Forest Park, a 3 km easy hike in the UK. Trail details, terrain, safety tips, gear, and the best seasons for visiting.",
+      "h1": "Gosford Forest Park Blue Path – Easy 3 km Hike"
+    }
   }
 }

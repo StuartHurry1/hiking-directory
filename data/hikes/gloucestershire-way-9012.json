@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 9012
+  },
+  "ai": {
+    "summary": "The Gloucestershire Way is a challenging long-distance trail that circles the county of Gloucestershire in the United Kingdom. At around 402.9 km, the route covers a diverse mix of rolling farmland, quiet woodlands, and historic market towns, with several steep sections that test endurance and navigation. The hike rewards perseverance with varied scenery, tranquil countryside, and a strong sense of rural England.",
+    "terrain_summary": "Expect a varied terrain that includes grassy bridleways, muddy footpaths, rocky stiles, hedged lanes, and occasional road crossings. The route traverses rolling hills and upland edges, passes through woodlands and pastures, and features both exposed and sheltered sections depending on the season. While waymarkers are common, remote stretches can be harder to follow after adverse weather, so navigation skills are important.",
+    "safety_notes": "Plan for changeable UK weather; check forecasts and be prepared for rain, wind, or heat. Wear sturdy, waterproof boots and dress in layers. Carry a map and compass (or a reliable GPS) and know how to use them; don't rely solely on electronic devices. Tell someone your route and expected timings, and carry a charged mobile phone with a power bank. Stay hydrated and carry high-energy snacks; bring a first-aid kit and blister care. Be cautious at road crossings and around livestock; some sections have limited shelter and can be exposed in bad weather. In remote areas, be mindful of limited mobile signal and have an emergency plan.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof and windproof jacket",
+      "Extra warm layers and hat",
+      "Backpack with rain cover",
+      "Hydration system or water bottles (2–3 L total)",
+      "Map and compass (or GPS) with route notes",
+      "Portable power bank and spare batteries",
+      "Sun protection: hat, sunscreen, sunglasses",
+      "Insect repellent",
+      "First-aid kit and blister care",
+      "Emergency whistle and lightweight reflective blanket",
+      "Multi-tool or knife",
+      "Snacks and energy bars"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly March to October) is typically best for the Gloucestershire Way. Mild weather and drier trails make the long distance hike more comfortable, but be prepared for changing conditions any time of year in the UK.",
+    "seo": {
+      "title": "Gloucestershire Way – 402.9 km Hard-Difficulty Long-Distance Trail in the UK",
+      "meta_description": "Discover the Gloucestershire Way, a challenging 402.9 km long-distance hike through Gloucestershire’s countryside in the United Kingdom. From rolling hills to woodlands and historic towns, plan your trek with practical tips, gear suggestions, and best seasons.",
+      "h1": "Gloucestershire Way – 402.9 km Hard-Difficulty Long-Distance Trail"
+    }
   }
 }

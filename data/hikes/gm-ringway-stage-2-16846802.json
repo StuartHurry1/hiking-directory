@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16846802
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 2 is a challenging 17.7 km section of the GM Ringway in the United Kingdom, designed for experienced hikers seeking a rewarding day on varied terrain.",
+    "terrain_summary": "The route traverses a mix of country lanes, fields, and occasional rough trails. Expect stiles, gates, and potentially muddy surfaces, with some exposed sections and gentle to moderate elevation gains. Navigation relies on waymarks and maps; in poor weather some sections can become harder.",
+    "safety_notes": "This is a demanding 17.7 km hike (hard difficulty) and can take 4 to 6 hours or more depending on pace and conditions. Use a detailed map and compass; do not rely on GPS alone. The UK weather can change quickly; bring layers, waterproofs, and sun protection. Parts of the route may go through farmland with gates and livestock; watch your footing. Ensure you have enough water and food, a charged phone, and a headlamp in case of reduced daylight. Tell someone your planned route and expected return time, and carry a basic first aid kit and whistle for emergencies. In case of severe weather or low visibility, consider postponing or turning back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing (layers, waterproof jacket, hat)",
+      "Map and compass; GPS device as backup",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit",
+      "Whistle and emergency blanket",
+      "Knife or multi-tool",
+      "Phone with offline maps and a portable charger",
+      "Sun protection (sunscreen, sunglasses)"
+    ],
+    "best_seasons": "Spring to Autumn; the route is best in dry conditions, though with proper gear it can be tackled year-round.",
+    "seo": {
+      "title": "GM Ringway Stage 2 – 17.7 km Hard Hike in the UK",
+      "meta_description": "Explore GM Ringway Stage 2, a challenging 17.7 km hike in the United Kingdom. Learn about terrain, safety tips, gear, and the best seasons for this stage.",
+      "h1": "GM Ringway Stage 2 – 17.7 km, Hard Difficulty in the UK"
+    }
   }
 }

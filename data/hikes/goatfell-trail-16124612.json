@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 16124612
+  },
+  "ai": {
+    "summary": "Goatfell Trail is a hard, high-elevation hike in the United Kingdom known for steep ascents and exposed ridges. The typical routes climb toward Goat Fell's summit and offer sweeping views, but the distance given (43.2 km) is unusually long for a single-day hike and may reflect a multi-day route or data error; verify distances locally before setting out.",
+    "terrain_summary": "Expect rugged, rocky terrain with steep ascents, loose scree, and exposed ridges. Trails can be wet and boggy in places, with frequent wind near the summit. Navigation skills are important in poor visibility, and route-finding may be required on less-marked paths.",
+    "safety_notes": "Weather in the UK can change quickly; check a reliable forecast before starting. Carry appropriate clothing for layer-based warmth, wind, and rain. Bring a map and compass (GPS as backup), plenty of water and energy-dense food, and a first aid kit. Start early to maximize daylight; do not hike alone if possible, and inform someone of your planned route and estimated return. In case of emergency, know the local emergency numbers and have a means to call for help.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (waterproof shell, insulating layers)",
+      "Map and compass (GPS backup)",
+      "Headlamp or flashlight",
+      "First aid kit",
+      "Walking poles (optional but helpful on steep sections)",
+      "Emergency whistle",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Light rain cover or packable rain shell"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April–October) generally offers the best hiking conditions, with longer daylight and milder weather. Winter ascents are possible but require mountaineering skills, proper equipment, and awareness of avalanche and ice risk.",
+    "seo": {
+      "title": "Goatfell Trail Guide: A Hard Hike in the UK",
+      "meta_description": "Plan your Goatfell Trail hike with terrain insights, safety tips, a gear checklist, and the best seasons for this challenging UK ascent.",
+      "h1": "Goatfell Trail: A Hard Hike in the UK"
+    }
   }
 }

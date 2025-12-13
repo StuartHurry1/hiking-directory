@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 19008379
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 20 is a challenging 21.9 km leg of the GM Ringway route in the UK. It combines mixed terrain and elevation gains, requiring good fitness, navigation, and reliable footwear for a full-day hike.",
+    "terrain_summary": "Mixed terrain with possible road sections, farm tracks, and uneven trails. Expect elevation changes and variable footing; weather can make paths muddy or slippery.",
+    "safety_notes": "This is a hard, long-distance stage. Plan for longer travel times and variable conditions. Check weather and daylight; carry navigation tools (map/compass or GPS) and a fully charged phone. Wear sturdy waterproof boots, bring waterproofs, extra layers, hat and gloves as needed. Stay hydrated and nourished, and inform someone of your planned route and timings. Be cautious on road sections and respect private land, with proper navigation in unknown areas.",
+    "recommended_gear": [
+      "Waterproof jacket",
+      "Insulated layer",
+      "Sturdy hiking boots",
+      "Backpack (20–30L)",
+      "Map and compass or GPS device",
+      "Fully charged phone",
+      "Water bottle or hydration system",
+      "High-energy snacks",
+      "Headlamp or flashlight",
+      "Sun protection (hat, sunscreen)",
+      "Lightweight emergency blanket",
+      "Basic first-aid kit",
+      "Whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) are ideal; winter conditions can bring mud, cold, and reduced daylight.",
+    "seo": {
+      "title": "GM Ringway Stage 20 — 21.9 km Hard Hike in the UK",
+      "meta_description": "Explore GM Ringway Stage 20, a demanding 21.9 km hike in the UK. Learn about terrain, safety tips, gear, and the best seasons for this stage.",
+      "h1": "GM Ringway Stage 20 — 21.9 km Hard Hike in the UK"
+    }
   }
 }

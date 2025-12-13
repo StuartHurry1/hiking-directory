@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 5423894
+  },
+  "ai": {
+    "summary": "Goldeneye Trail is a short, easy 3.7 km walk in the UK, ideal for casual walkers, families, and beginners. The route offers gentle terrain, light elevation, and pleasant scenery at a relaxed pace.",
+    "terrain_summary": "The trail follows well-marked paths with flat to gently rolling grades. Surfaces are mostly compact earth or gravel, with occasional damp patches after rain and a few mild ups and downs. Suitable footwear is recommended.",
+    "safety_notes": "Check weather and daylight hours before you go. Wear sturdy walking shoes, bring water, and stay on marked paths. Be cautious of mud after wet weather, watch for other hikers and cyclists, and supervise children. Carry a basic map or phone with offline access.",
+    "recommended_gear": [
+      "Comfortable walking shoes or boots",
+      "Light waterproof layer",
+      "Water bottle",
+      "Map or offline GPS",
+      "Sunscreen and hat (summer)",
+      "Small first aid kit",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring to Autumn; winter visits are possible but can be muddy and daylight is shorter.",
+    "seo": {
+      "title": "Goldeneye Trail – Easy 3.7 km Walk in the UK",
+      "meta_description": "Discover the Goldeneye Trail: an easy 3.7 km hike in the UK, perfect for beginners and families. Gentle terrain, scenic views, and a relaxed pace.",
+      "h1": "Goldeneye Trail – Easy 3.7 km Walk in the UK"
+    }
   }
 }

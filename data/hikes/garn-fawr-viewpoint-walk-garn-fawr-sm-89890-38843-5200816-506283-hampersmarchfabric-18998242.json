@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 18998242
+  },
+  "ai": {
+    "summary": "A short, easy 2.4 km loop to Garn Fawr Viewpoint offering sweeping coastal views. Suitable for families and casual hikers, with a gentle incline and occasional rocky sections along the cliff-edge route.",
+    "terrain_summary": "Coastal ridge path with grassy tracks and some rocky steps near the viewpoint. Expect exposed sections along the cliff edge and possible mud after rain. Wear sturdy footwear and stay on marked paths, especially with children or dogs.",
+    "safety_notes": "Cliff edges and unstable ground near the viewpoint; keep a safe distance from edges and supervise children/dogs. Weather can change quickly on the coast—check forecasts, winds, and sea state before you go. Paths can be slippery when wet; wear appropriate footwear and proceed with caution. Bring water and snacks; mobile signal may be limited in some areas.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water and snacks",
+      "Weather-appropriate clothing (layered, waterproof jacket)",
+      "Hat, sunglasses, and sunscreen",
+      "Map, compass, or GPS device (offline map recommended)",
+      "Small first aid kit",
+      "Camera or smartphone for photos"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) for more reliable weather and better light. The walk is doable year-round, but be prepared for wind, rain, and shorter daylight in winter.",
+    "seo": {
+      "title": "Garn Fawr Viewpoint Walk – Easy 2.4 km Coastal Trail in the UK",
+      "meta_description": "Discover Garn Fawr Viewpoint on a gentle 2.4 km coastal walk. Easy terrain, stunning sea views, practical safety tips, and gear suggestions for a short UK hike.",
+      "h1": "Garn Fawr Viewpoint Walk – Easy 2.4 km Coastal Trail"
+    }
   }
 }

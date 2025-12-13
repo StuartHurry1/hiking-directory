@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 19002800
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 16 is a challenging 28.7 km segment of the GM Ringway network in the UK. This stage blends rural trails with occasional urban sections and features significant elevation changes, demanding solid navigation and endurance from experienced hikers.",
+    "terrain_summary": "Expect a mix of surfaces: rural fields and lanes, woodland paths, exposed track, and some paved urban stretches. Trails can be muddy after rain; uneven footing, stiles, gates, and occasional short steep ascents/descents. Navigation can be tricky in unfamiliar areas, so carry a map or GPS.",
+    "safety_notes": "This is a long, hard hike of ~28.7 km in variable UK conditions. Plan for the distance, elevation, and potentially changing weather. Wear sturdy boots, bring layers, and carry waterproofs. Bring a map or GPS and know how to navigate. Check daylight hours and plan start/finish times accordingly. Watch for mud, livestock, fences, and road crossings. Keep to marked paths, respect private land, and follow local regulations. Inform someone of your route and expected completion. In case of signs of severe weather, be prepared to turn back.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and high-energy snacks",
+      "Weather-appropriate clothing (layers, waterproofs, hat, gloves if cold)",
+      "Map and compass or GPS device",
+      "Phone with offline maps and emergency contacts",
+      "Headlamp or spare flashlight",
+      "Lightweight rain shell",
+      "First aid kit (blister care, basic bandages, antiseptic)",
+      "Walking poles (optional)",
+      "Emergency whistle",
+      "Sun protection (sunglasses, sunscreen)",
+      "Energy gels or snacks for long days"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions and daylight for Stage 16. In winter, conditions can be harsher and daylight shorter; plan accordingly.",
+    "seo": {
+      "title": "GM Ringway Stage 16 – 28.7 km Hard Hike in the UK",
+      "meta_description": "A detailed guide to GM Ringway Stage 16, a 28.7 km hard hike in the UK. Terrain overview, safety tips, gear list, best seasons, and route notes.",
+      "h1": "GM Ringway Stage 16 – 28.7 km Hard Hike"
+    }
   }
 }

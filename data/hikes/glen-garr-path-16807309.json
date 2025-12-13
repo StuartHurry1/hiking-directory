@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 16807309
+  },
+  "ai": {
+    "summary": "Glen Garr Path is a moderate 6.5 km hike in the United Kingdom. The region is not specified. The route is suitable for hikers with some experience and offers a mix of gentle climbs, grassy tracks, and potential muddy sections, with weather and footing varying.",
+    "terrain_summary": "The trail features grassy paths, damp moorland sections, and occasional rocky or exposed footing. Expect uneven ground and waterlogged patches after rain, with possible mud and loose stones, especially in wetter seasons.",
+    "safety_notes": "Plan for changing UK weather: check the forecast and daylight hours, and tell someone your route and timing. Wear sturdy waterproof boots and weather-appropriate clothing. Stay on marked paths, carry a map and compass or GPS, bring sufficient water and snacks, and have a small first-aid kit. Be prepared for mud, slippery sections, and sudden weather changes; avoid the route in severe conditions.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate clothing and waterproof jacket",
+      "Map and compass or GPS device",
+      "Water and high-energy snacks",
+      "Headlamp or flashlight",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Lightweight rain cover or poncho"
+    ],
+    "best_seasons": "Spring, Summer and Autumn",
+    "seo": {
+      "title": "Glen Garr Path – 6.5 km Moderate Hike in the United Kingdom",
+      "meta_description": "Discover Glen Garr Path, a 6.5 km moderate hike in the United Kingdom. Learn about the terrain, safety tips, and gear for this UK trail.",
+      "h1": "Glen Garr Path: A 6.5 km Moderate Hike in the United Kingdom"
+    }
   }
 }

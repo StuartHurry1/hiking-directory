@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 17329758
+  },
+  "ai": {
+    "summary": "Giants Trail is a very short, easy hike in the UK, covering about 0.3 km. Suitable for beginners, families, and casual walkers looking for a quick outdoor stretch.",
+    "terrain_summary": "The trail is a flat or gently graded path with a well-maintained surface. It typically features minimal elevation and easy footing, making it accessible for most walkers.",
+    "safety_notes": "Check the weather forecast before you go. Wear sturdy, comfortable shoes and bring a light layer. Stay on marked paths and supervise children and pets. Carry water and be mindful of other hikers on the trail.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Light rain jacket",
+      "Sun protection (hat and sunscreen)",
+      "Map or offline navigation",
+      "Phone with charged battery"
+    ],
+    "best_seasons": "Spring to autumn; winter hikes are possible with proper gear.",
+    "seo": {
+      "title": "Giants Trail - Short Easy 0.3 km Hike in the UK",
+      "meta_description": "Explore Giants Trail, a 0.3 km easy hike in the UK. Perfect for beginners and families, featuring flat terrain and minimal elevation for a quick outdoor escape.",
+      "h1": "Giants Trail: A Short Easy Hike in the UK"
+    }
   }
 }

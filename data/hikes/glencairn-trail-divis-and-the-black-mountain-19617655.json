@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19617655
+  },
+  "ai": {
+    "summary": "A 6.2 km moderate circuit along the Glencairn Trail around Divis and the Black Mountain in the UK, featuring rolling upland scenery, grassy slopes, and expansive views from exposed ridgelines.",
+    "terrain_summary": "Grassy upland paths with occasional rocky sections and short ascents. Expect exposed ridgelines and potential mud after rain; footing is generally good but boots with grip are advised.",
+    "safety_notes": "Weather in UK uplands can change rapidly; check a current forecast before you go. Wear sturdy waterproof boots and dress in layers. Stay on marked paths and be prepared for wind on the ridges. Bring a map and compass or GPS and know how to use them. Take sufficient water and high-energy snacks. Let someone know your route and expected return time. Carry a small first-aid kit and a whistle for emergencies. In winter or wet conditions the terrain can be more challenging and daylight is shorter; reconsider if conditions are poor.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and layered clothing",
+      "Hat and gloves (seasonal)",
+      "Map and compass or GPS",
+      "Water and high-energy snacks",
+      "Small first-aid kit",
+      "Emergency whistle",
+      "Sunscreen and sunglasses",
+      "Headlamp or flashlight",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (March-October) for better visibility and drier conditions; winter hikes can be more challenging due to mud, ice and shorter daylight.",
+    "seo": {
+      "title": "Glencairn Trail, Divis and the Black Mountain – 6.2 km Moderate Hike in the UK",
+      "meta_description": "Explore a 6.2 km moderate hike on the Glencairn Trail around Divis and the Black Mountain in the UK. Upland scenery, exposed ridgelines, and practical safety tips.",
+      "h1": "Glencairn Trail: A 6.2 km Hike Around Divis and the Black Mountain"
+    }
   }
 }

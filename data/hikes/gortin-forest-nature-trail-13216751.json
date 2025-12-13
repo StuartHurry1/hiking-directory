@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13216751
+  },
+  "ai": {
+    "summary": "A short, easy 2.1 km forest nature trail in the UK. The route runs along well-marked paths through mixed woodland, offering frequent shade, gentle terrain, and opportunities to observe local flora and fauna. Suitable for beginners and families seeking a relaxing escape into nature.",
+    "terrain_summary": "Mostly easy, well-maintained forest paths with gentle elevation. Surface is packed earth with occasional gravel; expect occasional tree roots and damp patches after rain. Signposts are clear and the route is suitable for most walkers.",
+    "safety_notes": "Stay on marked trails, wear sturdy footwear, and be prepared for changing weather. Bring water and a light layer; rain can make paths muddy. Watch footing on roots and uneven sections. Be aware of wildlife and ticks in wooded areas; keep dogs on a leash where required. Let someone know your plans and check for local advisories before you go.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Weather-appropriate clothing",
+      "Water and a small snack",
+      "Light rain jacket or layer",
+      "Map or offline navigation (or GPS on smartphone)",
+      "Sunscreen and hat in sunny conditions",
+      "Insect repellent (seasonal)",
+      "Phone with emergency contacts"
+    ],
+    "best_seasons": "Spring through autumn for the most comfortable conditions. The trail is accessible year-round with appropriate gear, though winter can be muddy and weather-dependent.",
+    "seo": {
+      "title": "Gortin Forest Nature Trail – Easy 2.1 km Hike in the UK",
+      "meta_description": "Discover a short, easy 2.1 km hike through forest on the Gortin Forest Nature Trail in the UK. Ideal for beginners and families seeking a relaxing outdoor outing.",
+      "h1": "Gortin Forest Nature Trail – Easy 2.1 km Hike in the UK"
+    }
   }
 }

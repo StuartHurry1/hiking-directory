@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 279313
+  },
+  "ai": {
+    "summary": "Garden City 15 is a long, hard hike in the UK, covering 22.3 km and demanding sustained effort. The route traverses varied terrain and requires solid navigation, preparation, and fitness, making it suitable for experienced hikers seeking a challenging day on the hills.",
+    "terrain_summary": "Expect mixed UK terrain: forest tracks, open moorland, and occasional rocky sections. The path can be muddy or boggy, with uneven ground and notable elevation changes. Weather can be changeable, so be prepared for sun, rain, and wind in the same day.",
+    "safety_notes": "This is a long, hard hike (22.3 km). Before setting out: check the forecast and daylight hours; carry a map and compass or a GPS device. Wear sturdy waterproof boots and dress in layers suitable for changing weather. Bring ample water and high-energy snacks; consider electrolyte drinks. Stay on marked paths where possible and be prepared for muddy or rocky sections. In remote areas, carry a means of communication, know your turnaround time, and have a plan for emergencies. Be mindful of weather changes, wind exposure, and navigation challenges in unknown terrain.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Layered clothing (base, insulating, and outer shell)",
+      "Water bottle or hydration system (2–3 liters) and snacks",
+      "Map and compass (or GPS) and knowledge to use them",
+      "Rain jacket and extra warm layer",
+      "Hat, gloves, sun protection",
+      "Headlamp or flashlight with spare batteries",
+      "Compact first aid kit and emergency whistle",
+      "Emergency blanket or bivouac sack",
+      "Trekking poles (optional) and a portable charger for devices"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when daylight is longer and weather is more stable, though conditions can still be challenging in the UK.",
+    "seo": {
+      "title": "Garden City 15: 22.3 km Hard Hike in the UK",
+      "meta_description": "Discover Garden City 15, a demanding 22.3 km hike in the United Kingdom. Read terrain notes, safety tips, gear suggestions, and the best seasons to tackle this route.",
+      "h1": "Garden City 15 – 22.3 km Hard UK Hike"
+    }
   }
 }

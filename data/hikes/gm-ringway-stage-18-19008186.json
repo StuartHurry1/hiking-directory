@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 19008186
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 18 is a roughly 29.7 km section of the GM Ringway long-distance path in the United Kingdom. It is rated hard, demanding good stamina and navigation across varied terrain. The route typically combines rural lanes, fields, and potential woodland and urban links, with occasional ascent and scenic viewpoints.",
+    "terrain_summary": "Mixed terrain with a combination of hedged farmland, country lanes, and unpaved paths. Expect uneven surfaces, potential mud after rain, and short steep sections. Elevation gain can be demanding in places; prepare for a long day on your feet.",
+    "safety_notes": "Plan for a full-day hike with a conservative pace. Wear sturdy, waterproof boots and dress for changing UK weather. Carry a map and compass or GPS, a fully charged phone, and a means to navigate if coverage is poor. Bring enough water and high-energy snacks, plus a first aid kit and a weather-appropriate layer system. Tell someone your route and expected finish time, and be mindful of road crossings and changing daylight.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Waterproof and breathable outer layer",
+      "Moisture-wicking base layers",
+      "Map and compass or GPS device",
+      "Water bottle or hydration system (2–3 L)",
+      "High-energy snacks and a small lunch",
+      "Headlamp or torch with spare batteries",
+      "First aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Gloves and a warm hat for cold weather",
+      "Emergency whistle",
+      "Lightweight rain cover for backpack",
+      "Power bank/charging cable",
+      "Emergency shelter or space blanket (optional for longer trips)"
+    ],
+    "best_seasons": "Late spring to early autumn, roughly April to October.",
+    "seo": {
+      "title": "GM Ringway Stage 18 – 29.7 km Hard Hike in the UK",
+      "meta_description": "Discover GM Ringway Stage 18, a challenging 29.7 km segment of the GM Ringway in the United Kingdom. Read terrain notes, safety tips, and gear recommendations.",
+      "h1": "GM Ringway Stage 18: 29.7 km, Hard Difficulty (UK)"
+    }
   }
 }

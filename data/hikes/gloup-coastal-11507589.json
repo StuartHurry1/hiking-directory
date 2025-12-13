@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 11507589
+  },
+  "ai": {
+    "summary": "The Gloup Coastal hike is a short, easy 4.6 km walk along the UK coastline. It offers sea views with an accessible route suitable for most walkers, though it can be exposed to wind and spray from the sea.",
+    "terrain_summary": "The route combines flat paths with sections of compact earth, gravel, and occasional rocky or uneven ground near the shore. Expect some boards or steps in places and possible slippery surfaces when wet. Parts may run close to cliff edges with open exposure to the sea.",
+    "safety_notes": "Check tide timings and weather forecasts before you go. Stay on marked paths, keep a safe distance from cliff edges, and be cautious on windy days when gusts can be strong near the coast. Wear sturdy footwear, dress in layers, bring water, and have a charged phone for emergencies.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Water and snacks",
+      "Hat and sunscreen",
+      "Map/phone with offline map or GPS",
+      "Small first aid kit",
+      "Whistle",
+      "Power bank for charging devices"
+    ],
+    "best_seasons": "Spring to Autumn (May–September) offer the most comfortable conditions for this coastal walk, though it can be done year-round with proper gear.",
+    "seo": {
+      "title": "Gloup Coastal Hike – Easy 4.6 km Coastal Walk in the UK",
+      "meta_description": "Explore the easy 4.6 km Gloup Coastal hike in the UK. Coastal scenery, accessible terrain, safety tips, best seasons, and gear recommendations for a pleasant coastal day.",
+      "h1": "Gloup Coastal Hike (4.6 km) – Easy UK Coastal Walk"
+    }
   }
 }

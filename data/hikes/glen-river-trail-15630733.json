@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 15630733
+  },
+  "ai": {
+    "summary": "A scenic 13 km moderate hike along the Glen River in the United Kingdom, offering riverbank views, woodland sections, and moderate elevation changes suitable for hikers with some experience.",
+    "terrain_summary": "The route follows riverbanks with a mix of compact gravel paths, grassy tracks, boardwalk sections, and occasional exposed roots. After rain it can be muddy and uneven, so sturdy footwear with good grip is recommended. Expect gentle ascents and flat stretches with intermittent woodland shade and open river viewpoints.",
+    "safety_notes": "Plan for 3–4 hours. Check weather and daylight hours before you go. Wear sturdy, waterproof hiking boots and dress in layers. Stay on marked paths; be cautious of muddy or uneven sections after rain. Bring a map or GPS device, a fully charged phone, water, snacks, and a basic first aid kit. Tell someone your route and expected return time. In remote stretches, mobile signal may be limited.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good grip",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Backpack with rain cover",
+      "Water bottle or hydration system",
+      "Snacks or energy bars",
+      "Map and/or GPS device",
+      "Fully charged mobile phone (with offline maps)",
+      "Basic first aid kit",
+      "Headlamp or flashlight",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Insect repellent",
+      "Trekking poles (optional)",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring through autumn; winter hike possible with extra gear and longer daylight.",
+    "seo": {
+      "title": "Glen River Trail — 13 km Moderate Hike in the UK",
+      "meta_description": "Explore the 13 km Glen River Trail in the United Kingdom. A moderate hike with river views, practical safety tips, and a gear list for a great day outdoors.",
+      "h1": "Glen River Trail – 13 km Moderate Hike in the UK"
+    }
   }
 }

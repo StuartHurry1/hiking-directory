@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 2007452
+  },
+  "ai": {
+    "summary": "A short, easy 1.2 km walk on the Geopark Way Colwall Link in the UK. This quick stroll is ideal for families and casual walkers seeking a brief taste of geopark landscapes around Colwall.",
+    "terrain_summary": "Mostly well-maintained paths with a gentle mix of tarmac, gravel tracks, and grassy sections. Minimal elevation change, but expect uneven ground and occasional mud after rain.",
+    "safety_notes": "Wear sturdy footwear and dress for changeable UK weather. Stay on marked paths, watch for slippery sections when wet, and keep an eye out for other walkers. Carry water, a light snack, and a fully charged phone. Check daylight hours in winter; plan the walk for daylight, and be cautious near road crossings in the Colwall area.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Water bottle",
+      "Lightweight rain jacket",
+      "Small backpack",
+      "Map or offline navigation on phone",
+      "Sun protection (sunscreen, hat)",
+      "Phone with emergency contacts",
+      "Basic first-aid kit"
+    ],
+    "best_seasons": "Year-round; best in spring and summer, with autumn also pleasant. Winter can be cooler and wetter.",
+    "seo": {
+      "title": "Geopark Way Colwall Link – 1.2km Easy Walk (UK Hiking Guide)",
+      "meta_description": "Discover the Geopark Way Colwall Link, a short 1.2 km easy hike in the UK. Terrain, safety tips, gear recommendations, and the best seasons for this Colwall segment.",
+      "h1": "Geopark Way Colwall Link – 1.2km Easy Walk"
+    }
   }
 }

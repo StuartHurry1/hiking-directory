@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 19400440
+  },
+  "ai": {
+    "summary": "A tiny, easy 0.2 km walk to Gelert's Grave, a historic site linked to the legend of Gelert. Suitable for most ages, with a flat route and gentle scenery, in the UK.",
+    "terrain_summary": "Primarily a flat, well-defined path with occasional uneven stones. Short route; expect gravel or compact earth; may be muddy after rain.",
+    "safety_notes": "As with all outdoor walks in the UK, check the weather forecast and wear sturdy footwear. The path is short but can be slippery when wet; stay on designated paths, supervise children, and watch for other visitors near the grave site. Bring water, dress for the conditions, and avoid the area in high winds or icy conditions.",
+    "recommended_gear": [
+      "Sturdy walking shoes with good grip",
+      "Light rain jacket or waterproof layer",
+      "Water bottle",
+      "Sunscreen and hat for sunny days",
+      "Map or offline GPS (or a charged phone)",
+      "Small backpack for essentials"
+    ],
+    "best_seasons": "Year-round, with spring and summer offering milder weather and longer daylight; autumn provides colorful scenery; winter visits are possible but can be windy and muddy.",
+    "seo": {
+      "title": "Gelert's Grave Walk: A Short Easy 0.2 km Trail in the UK",
+      "meta_description": "Explore Gelert's Grave on a 0.2 km easy walk in the UK. A short, family-friendly route to a historic site with gentle terrain and charming scenery.",
+      "h1": "Gelert's Grave Walk – A Short Easy 0.2 km Route"
+    }
   }
 }

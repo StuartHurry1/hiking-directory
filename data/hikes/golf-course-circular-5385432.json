@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 5385432
+  },
+  "ai": {
+    "summary": "The Golf Course Circular is a 9.7 km moderate loop hike around a UK golf course. Starting and finishing on public paths, the route blends paved sections, gravel paths, and grassy edges, offering open views of greens and fairways. Suitable for hikers with moderate fitness and proper footwear.",
+    "terrain_summary": "Terrain is varied but non-technical: mainly well-maintained public paths along the course perimeter, including tarmac, compact gravel, and grassy sections. Expect occasional uneven turf and possible mud in wet weather. Some stretches run close to playing areas; observe course rules and be mindful of golfers and equipment.",
+    "safety_notes": "Always check local conditions and course access before you go. In the UK, weather can change quickly; bring waterproof layers and a hat. Wear sturdy footwear and stay on public rights of way. Be mindful of golf traffic, especially during peak hours. Carry a map or offline navigation, a charged phone, and sufficient water. Let someone know your plan and consider shorter daylight hours in winter.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Water bottle or hydration system",
+      "Weather-appropriate layers (jacket, fleece)",
+      "Lightweight rain shell",
+      "Hat and sunscreen",
+      "Small first-aid kit",
+      "Snack or energy bars",
+      "Map or offline navigation app",
+      "Phone and portable charger",
+      "Sunglasses",
+      "Trekking poles (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best overall conditions, with milder weather and longer daylight. Winter walks are possible with proper clothing and shorter daylight.",
+    "seo": {
+      "title": "Golf Course Circular: 9.7 km Moderate Hike in the UK",
+      "meta_description": "Explore a 9.7 km moderate loop around a UK golf course. Terrain, safety tips, gear, and best seasons for this scenic hike.",
+      "h1": "Golf Course Circular – 9.7 km Moderate Loop Hike in the UK"
+    }
   }
 }

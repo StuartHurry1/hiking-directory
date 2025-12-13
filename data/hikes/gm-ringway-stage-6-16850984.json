@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16850984
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 6 is a challenging 28.1 km leg of the GM Ringway network in the United Kingdom. Suited to experienced hikers, it combines varied terrain and elevation changes, offering a rewarding but demanding day on the trail.",
+    "terrain_summary": "Expect a mix of surfaces including quiet country lanes, grassy field edges, woodland tracks, and some rough or muddy sections. The route features elevation gains and descents, with potential exposed or uneven footing in places; navigate road crossings safely and be prepared for changing weather.",
+    "safety_notes": "Hard difficulty for 28.1 km; plan for several hours on foot and allow extra time for navigation or extended breaks. Check weather, wear sturdy waterproof boots, and dress in layers. Carry a map and compass as primary navigation tools (GPS as backup), ample water and food, a basic first aid kit, headlamp or flashlight, a whistle, and a means to contact others. Let someone know your planned start and finish times, and be prepared for limited cell service in remote segments.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Water and/or hydration system",
+      "Map and compass (and GPS as backup)",
+      "Weather-appropriate clothing (layers)",
+      "Waterproof shell and warm layers",
+      "Hat and gloves (if cold)",
+      "Food and high-energy snacks",
+      "Headlamp or torch with extra batteries",
+      "Small first aid kit",
+      "Whistle",
+      "Phone with offline maps",
+      "Emergency blanket or bivy",
+      "Lightweight rain cover for backpack"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) are ideal; winter conditions can be challenging with reduced daylight and weather variability.",
+    "seo": {
+      "title": "GM Ringway Stage 6 – 28.1 km Hard Hike in the UK",
+      "meta_description": "Explore GM Ringway Stage 6, a demanding 28.1 km hike in the UK. Learn about terrain, safety tips, and gear to plan a successful journey.",
+      "h1": "GM Ringway Stage 6 – 28.1 km Hard Hike (UK)"
+    }
   }
 }

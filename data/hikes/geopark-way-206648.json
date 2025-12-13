@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 206648
+  },
+  "ai": {
+    "summary": "Geopark Way is a demanding long-distance hike in the UK, covering about 435.1 km and rated hard. It traverses diverse landscapes and geological sites, demanding endurance, good navigation, and careful planning.",
+    "terrain_summary": "Terrain varies from moorland and chalk downs to woodlands, farmland, and limestone pavements. Expect steep climbs, uneven paths, boggy sections after rain, occasional road crossings, and stile gates. Navigation can be challenging in remote stretches, and weather can change rapidly.",
+    "safety_notes": "Plan as a multi-day trek with rest days. Carry enough food and water, plus a water purification method. Bring map and compass (and a GPS as backup). Wear sturdy, waterproof footwear and layered clothing. Check weather forecasts, have a plan for daylight, and tell someone your route and expected return. Be prepared for limited phone signal in remote sections. Respect local landowners, livestock, and the environment; follow waymarked routes and leave no trace.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Weatherproof jacket and waterproof pants",
+      "Breathable base layers and a warm mid-layer",
+      "Rucksack (40–60L) with rain cover",
+      "Water bottles or hydration bladder plus water purification method",
+      "Map and compass (and a GPS device as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit and emergency whistle",
+      "Sleeping bag and compact bivy or tent plus sleeping mat (for multi-day trips)",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (April–October) offers longer days and generally drier conditions, but winter trekking is possible with extra precautions.",
+    "seo": {
+      "title": "Geopark Way – 435.1 km Hard UK Hike",
+      "meta_description": "Explore the Geopark Way, a 435.1 km hard-distance trail across the UK, featuring diverse geology, rugged terrain, and remote sections.",
+      "h1": "Geopark Way: UK 435.1 km Hard Distance Hike"
+    }
   }
 }

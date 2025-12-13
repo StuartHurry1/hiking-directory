@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16477153
+  },
+  "ai": {
+    "summary": "An ultra-short, easy connector trail through Glasswater Wood in the UK. At about 0.2 km, this woodland path links nearby routes and is suitable for a quick, relaxed stroll for families or casual walkers.",
+    "terrain_summary": "Flat, well-maintained woodland path with packed earth and gravel. Occasional tree roots and shade; expect seasonal damp or muddy sections after rain.",
+    "safety_notes": "- Stay on the marked trail and be mindful of other users. - Wear sturdy footwear and weather-appropriate clothing. - Check the forecast; the path can be damp or slippery after rain. - In winter daylight is shorter; plan accordingly. - Carry a basic mobile phone and a small first-aid item, especially if children are with you.",
+    "recommended_gear": [
+      "Comfortable walking shoes or lightweight boots",
+      "Weather-appropriate clothing (layering for the season)",
+      "Small water bottle",
+      "Sun protection (hat and sunscreen) or sunglasses",
+      "Lightweight map or offline navigation on your phone",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Year-round in the UK, with particularly pleasant walks in spring and autumn.",
+    "seo": {
+      "title": "Glasswater Wood - Connecting Trail | Easy 0.2 km Woodland Walk in the UK",
+      "meta_description": "Explore Glasswater Wood's Connecting Trail, a short and easy 0.2 km woodland path in the UK. Ideal for a quick family-friendly stroll with practical safety tips and gear.",
+      "h1": "Glasswater Wood - Connecting Trail"
+    }
   }
 }

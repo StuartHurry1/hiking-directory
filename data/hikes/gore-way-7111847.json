@@ -17,5 +17,27 @@
   "source": {
     "type": "osm",
     "osmId": 7111847
+  },
+  "ai": {
+    "summary": "Gore Way is a 9.8 km moderate hike in the United Kingdom. The exact region is not specified, but the trail offers countryside scenery and moderate inclines suitable for hikers with some experience.",
+    "terrain_summary": "The route combines rural country lanes, grassy paths, and light woodland sections. Surfaces can be uneven, with gentle ascents and descents and occasional mud, particularly after rain.",
+    "safety_notes": "Check local weather and daylight hours. Wear sturdy footwear and dress in layers. Stay on marked paths, and carry a map or GPS. Bring water and snacks, a small first-aid kit, and a charged phone. Inform someone of your plan and expected return time. In remote sections, be prepared for limited signal.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good grip",
+      "Weather-appropriate outerwear (waterproof jacket)",
+      "Layered clothing for changing conditions",
+      "Water and high-energy snacks",
+      "Map and compass or GPS device",
+      "Mobile phone with offline maps",
+      "Sun protection (hat, sunscreen)",
+      "Small first aid kit",
+      "Emergency whistle"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions; the trail can be hiked year-round with extra caution in winter.",
+    "seo": {
+      "title": "Gore Way Hike - 9.8 km Moderate Trail in the UK",
+      "meta_description": "Explore Gore Way, a 9.8 km moderate hike in the United Kingdom. Learn about terrain, safety tips, gear recommendations, and the best seasons for this route.",
+      "h1": "Gore Way Hiking Trail"
+    }
   }
 }

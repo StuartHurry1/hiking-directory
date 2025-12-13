@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 19119640
+  },
+  "ai": {
+    "summary": "The Glen Lednock Circular Walk is a demanding 16.7 km circuit in the United Kingdom that threads through woodland, exposed moorland, and river edges. With several steep ascents and boggy sections, it rewards hikers with varied scenery, distant hill views, and opportunities to spot wildlife.",
+    "terrain_summary": "Expect a mix of well-trodden forest tracks, narrow paths, and rougher, exposed ground. The route traverses woodland, open moor, and often damp or muddy sections; sections may be stony or uneven, and some ascents can be steep. Weather can change quickly; waterproof footwear and layer management are advised.",
+    "safety_notes": "Check local conditions before you go. Carry a map and compass (or a GPS device) and know how to use them. In remote sections, tell someone your planned route and expected return time. Be prepared for rapid weather changes, and choose appropriate clothing and footwear. Stay on marked paths, watch for boggy ground and slippery rocks, and be mindful of other trail users. Bring sufficient water and snacks, and have a small first aid kit and emergency supplies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Weather-appropriate clothing layers (waterproof outer layer)",
+      "Waterproof jacket and pants",
+      "Map and compass or GPS device",
+      "Water and energy-rich snacks",
+      "Small first aid kit",
+      "Headwear and gloves for cold conditions",
+      "Trekking poles (optional but helpful on long ascents)",
+      "Headlamp or flashlight (in case of late finish or low light)",
+      "Emergency whistle and space to carry a personal emergency beacon if trekking in remote sections"
+    ],
+    "best_seasons": "Spring to Autumn (roughly March–October) are generally best for this 16.7 km circuit; in winter the route can be slippery and exposed, with reduced daylight and potential ice or mud.",
+    "seo": {
+      "title": "Glen Lednock Circular Walk — 16.7 km Hard Hike in the UK",
+      "meta_description": "Plan your Glen Lednock Circular Walk, a 16.7 km challenging circuit in the UK featuring woodland tracks, moorland, and scenic views. Includes terrain notes, safety tips, and gear recommendations.",
+      "h1": "Glen Lednock Circular Walk (16.7 km, Hard)"
+    }
   }
 }

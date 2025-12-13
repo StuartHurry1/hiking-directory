@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 112694
+  },
+  "ai": {
+    "summary": "Goyt Way is a strenuous 33.2 km long-distance hike in the United Kingdom. The route typically combines rural lanes, woodland paths, and open moorland, with varying elevation that demands solid stamina. Expect changeable UK weather, long daylight hours in season, and the need for good navigation on exposed sections.",
+    "terrain_summary": "The terrain is varied: muddy trails, grassy tracks, gravel paths, and occasional rocky steps. Expect short steep ascents and uneven footing, with exposed moorland sections that can be windy. In fog or rain, navigation and footing become more challenging.",
+    "safety_notes": "Plan as a full-day or multi-day trek. Wear sturdy waterproof boots and bring layered clothing. Carry a map, compass or GPS, fully charged phone, headlamp, and a first aid kit. Bring enough water and high-energy snacks; consider electrolyte drinks. Weather in the UK can change rapidly—pack waterproofs and a warm layer. Stay aware of daylight hours, especially outside spring and summer, and tell someone your route and expected finish time. Be prepared for mud, bogs, and possible road crossings; in an emergency dial 999 in the UK.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with good ankle support",
+      "Breathable waterproof jacket and a warm layer",
+      "Moisture-wicking base layers and extra socks",
+      "Backpack 15–25 L with rain cover",
+      "Water and high-energy snacks (plus electrolytes)",
+      "Map and compass or GPS device (with offline maps) and fully charged phone",
+      "Headlamp or flashlight with extra batteries",
+      "First aid kit and blister care",
+      "Whistle, multitool, and emergency blanket",
+      "Sun protection (sunscreen, hat) and insect repellant",
+      "Trekking poles (optional but helpful)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer longer daylight and milder conditions. Winter hiking is possible but challenging due to mud, cold, and reduced daylight; plan carefully and check local conditions.",
+    "seo": {
+      "title": "Goyt Way: 33.2 km Hard Hike in the UK",
+      "meta_description": "Explore the Goyt Way, a challenging 33.2 km hike in the United Kingdom. Get terrain, safety tips, best seasons, and gear guidance to plan your long-distance trek.",
+      "h1": "Goyt Way – 33.2 km Hard Hike in the UK"
+    }
   }
 }

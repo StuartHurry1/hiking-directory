@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 13216772
+  },
+  "ai": {
+    "summary": "A 6.7 km moderate forest hike in the UK, offering a woodland loop with varied terrain and potential scenic viewpoints. Suitable for hikers with some experience, featuring shaded paths and gentle elevation changes.",
+    "terrain_summary": "Forest trail with mixed surfaces: packed earth and gravel, occasional tree roots, and some uneven sections. Expect gentle to moderate ascents and descents; surfaces can be muddy after rain; shade from trees provides cool conditions.",
+    "safety_notes": "Check the weather forecast and wear appropriate footwear. Stay on marked paths; bring a map or offline navigation. Carry enough water and snacks. Be mindful of changing light and use sun protection. Watch for uneven ground and roots to avoid slips. In remote sections, let someone know your plan; mobile coverage may be limited. Respect wildlife and practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots or shoes",
+      "Waterproof jacket and layered clothing",
+      "Backpack with water and snacks",
+      "Map, compass, or offline GPS",
+      "Sun protection: hat and sunscreen",
+      "First-aid kit",
+      "Headlamp or flashlight (if hiking near dusk)",
+      "Insect repellent"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) typically offers the best conditions; the route can be hiked year-round in the UK, but plan for rain and cooler temperatures in winter.",
+    "seo": {
+      "title": "Gortin Forest Ladies View: 6.7 km Moderate Hike in the UK",
+      "meta_description": "Explore a 6.7 km moderate forest trail at Gortin Forest in the UK. Learn about terrain, safety, and gear to plan your hike.",
+      "h1": "Gortin Forest Ladies View Hike"
+    }
   }
 }

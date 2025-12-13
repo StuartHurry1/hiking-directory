@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 1503294
+  },
+  "ai": {
+    "summary": "The Gosford Forest Park Red Trail is an 11.4 km route through woodland and parkland in the UK. Rated moderate in difficulty, the trail combines forest paths with gentle elevation changes and scenic viewpoints around Gosford Forest Park.",
+    "terrain_summary": "Mostly well-maintained forest and gravel paths with some uneven sections and gentle climbs. Expect shaded woodland, open glades, and occasional roots along the trail.",
+    "safety_notes": "Stay on marked paths. Wear sturdy footwear and weather-appropriate clothing. Bring water, a map or GPS, and a charged phone. Be aware of uneven ground, shallow streams after rain, and changing weather. In remote sections, let someone know your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots or walking shoes",
+      "Water bottle (1–2 L)",
+      "Weather-appropriate clothing and a light rain jacket",
+      "Map or GPS device / smartphone with offline map",
+      "Sunscreen, hat, and sunglasses",
+      "Snack energy (bars, fruit)",
+      "Headlamp or small flashlight (in case of late return)",
+      "Small first-aid kit"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) when the weather is mild and daylight hours are longer. Avoid heavy winter conditions; summer can be warm but expect shaded stretches and occasional rain.",
+    "seo": {
+      "title": "Gosford Forest Park Red Trail – 11.4 km Moderate Hike in the UK",
+      "meta_description": "Discover the 11.4 km Red Trail at Gosford Forest Park in the UK. A moderate hike through woodland paths with varied terrain, suitable for hikers seeking a scenic forest walk.",
+      "h1": "Gosford Forest Park Red Trail — 11.4 km Moderate Hike (UK)"
+    }
   }
 }

@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 4822728
+  },
+  "ai": {
+    "summary": "A short, easy 0.9 km walk in the UK, ideal for beginners and families. The route is flat with a gentle surface, offering a relaxed introduction to outdoor walking.",
+    "terrain_summary": "Flat to gently rolling terrain on a well-maintained path with minimal elevation change, suitable for a casual stroll.",
+    "safety_notes": "Check the forecast and daylight hours before you go; wear sturdy, comfortable shoes; bring water and a small snack; carry a charged phone and a simple map; stay on designated paths and be mindful of other walkers and cyclists; be prepared for changing UK weather (rain, wind, chilly conditions); if you feel unwell or conditions worsen, turn back and seek shelter.",
+    "recommended_gear": [
+      "Sturdy walking shoes or trainers",
+      "Water bottle",
+      "Light weather-appropriate layer (jacket or fleece)",
+      "Compact rain jacket",
+      "Phone with offline map or route description",
+      "Small first aid kit",
+      "Sunscreen and hat (for sunny days)"
+    ],
+    "best_seasons": "Year-round, with especially pleasant conditions in spring and summer.",
+    "seo": {
+      "title": "Gentle Walk – 0.9 km Easy Hike in the UK",
+      "meta_description": "Discover a short, easy 0.9 km hike in the UK. Perfect for beginners and families. Learn about terrain, safety tips, gear, and best seasons.",
+      "h1": "Gentle Walk (0.9 km) – Easy UK Hike"
+    }
   }
 }

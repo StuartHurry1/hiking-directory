@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 7674758
+  },
+  "ai": {
+    "summary": "The Grand Tour Yellow route is a short, easy 3.9 km hike in the UK. With gentle grades and well-marked paths, it suits beginners and casual walkers looking for a relaxed outdoor experience.",
+    "terrain_summary": "Predominantly well-trodden paths with gentle climbs. Expect a mix of grassy trails, compact gravel, and some uneven or muddy sections. Footing is generally stable, but moderate care may be needed in damp conditions.",
+    "safety_notes": "Check local conditions before you go. Wear sturdy footwear and bring water. Stay on marked paths and be prepared for changes in weather common in the UK. Carry a map or GPS device, and let someone know your plans, especially if hiking alone. In winter, daylight is limited and surfaces can be slippery.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light boots",
+      "Water bottle",
+      "Lightweight waterproof jacket",
+      "Hat and sunscreen",
+      "Map or offline map on a smartphone",
+      "Energy snack (e.g., bar)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March to October) offer the best conditions and longest daylight; winter can be cold, wet, and muddy.",
+    "seo": {
+      "title": "Grand Tour Yellow route — Easy 3.9 km hike in the UK",
+      "meta_description": "Explore the Grand Tour Yellow route: an easy 3.9 km hike in the UK with gentle terrain, scenic views, and practical safety tips and gear suggestions.",
+      "h1": "Grand Tour Yellow route: Easy 3.9 km UK hike"
+    }
   }
 }

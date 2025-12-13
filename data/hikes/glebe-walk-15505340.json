@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 15505340
+  },
+  "ai": {
+    "summary": "Glebe Walk is a short, easy 0.9 km hike in the United Kingdom. The route is suitable for families and casual walkers, offering a gentle stroll with light scenery and minimal elevation gain.",
+    "terrain_summary": "Primarily flat or gently rolling paths with well-maintained surfaces. Expect a mix of tarmac, compact gravel, and short grassy sections; surface conditions may vary along the route. Wheelchair and stroller accessibility depends on the exact section.",
+    "safety_notes": "This is a short, easy route—check the weather and daylight. Stay on marked paths, watch for uneven surfaces, and supervise children and pets. Bring water, wear appropriate footwear, and carry a phone for emergencies.",
+    "recommended_gear": [
+      "Comfortable walking shoes",
+      "Water bottle",
+      "Weather-appropriate clothing and a light layer",
+      "Small backpack",
+      "Map or GPS-enabled device",
+      "Phone with emergency contacts",
+      "Light first aid kit",
+      "Sunscreen and a hat"
+    ],
+    "best_seasons": "All year round; best conditions in spring and autumn for moderate weather and daylight.",
+    "seo": {
+      "title": "Glebe Walk – Easy 0.9 km Hike in the UK",
+      "meta_description": "Discover Glebe Walk, a short and easy 0.9 km hike in the UK. Get terrain details, safety tips, and gear recommendations for a relaxed outdoor stroll.",
+      "h1": "Glebe Walk – Easy 0.9 km Hike in the UK"
+    }
   }
 }

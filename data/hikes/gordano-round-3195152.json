@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 3195152
+  },
+  "ai": {
+    "summary": "Gordano Round is a challenging long-distance circular hike in the United Kingdom, covering approximately 91.3 km. The route tests endurance with varied terrain and is rated hard, weaving coastal paths, farmland, and rural lanes with changing scenery.",
+    "terrain_summary": "Expect coastal paths along estuaries, grassy tracks, hedgerows, farm lanes, occasional road sections, and uneven, muddy footpaths. Stiles and gates are common; some segments can be boggy after rain and navigation may require careful map reading.",
+    "safety_notes": "Treat as a strenuous undertaking: plan as a multi-day route or a very long day. UK weather can change rapidly; carry layers and waterproofs. Navigation skills are essential; bring a map and compass even if using a GPS backup. Inform someone of your route and expected return. Carry 2–3 liters of water per person, high-energy food, and a first aid kit. Wear sturdy boots with good grip; be prepared for steep ascents and exposed sections. Be mindful of daylight limits, sea spray on coastal parts, and livestock. Have a contingency plan if conditions worsen.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots with ankle support",
+      "Weatherproof jacket and insulating layer",
+      "Breathable hiking trousers or quick-dry shorts",
+      "Backpack (20-25 L) with waterproof liner",
+      "2-3 liters of water plus electrolyte drinks",
+      "High-energy snacks and meals",
+      "Map and compass (plus GPS as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Emergency whistle and multitool",
+      "Sun protection (sunscreen, hat, sunglasses)",
+      "Mobile phone with power bank and offline maps",
+      "Pack rain cover or waterproof pants",
+      "Emergency shelter or space blanket"
+    ],
+    "best_seasons": "Spring to autumn; year-round with proper gear",
+    "seo": {
+      "title": "Gordano Round – 91.3 km Hard Circular Hike in the UK",
+      "meta_description": "Conquer Gordano Round, a 91.3 km challenging circular trail in the UK. Practical tips, terrain overview, safety notes, and gear recommendations to prepare.",
+      "h1": "Gordano Round – 91.3 km Hard Circular Hike in the UK"
+    }
   }
 }

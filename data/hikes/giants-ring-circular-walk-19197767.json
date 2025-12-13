@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 19197767
+  },
+  "ai": {
+    "summary": "A gentle 5 km circular walk around the Giant's Ring, a prehistoric monument in the UK. The route is designed for beginners and families, featuring easy terrain, scenic countryside views, and a relaxed pace suitable for a leisurely day out.",
+    "terrain_summary": "Mostly flat to gently rolling paths on grass and compacted surfaces. Occasional muddy patches after rain and a few short uneven sections near the monument.",
+    "safety_notes": "Wear sturdy footwear with good grip. Check weather and daylight; plan for around 1.5 hours. Stay on official paths and observe signage around the site. Be mindful of livestock in surrounding fields. Bring water and a light snack. Carry a map or offline navigation; ensure your phone is charged. Let someone know your plan and expected return. In winter, be prepared for slippery surfaces and reduced visibility.",
+    "recommended_gear": [
+      "Sturdy walking shoes or lightweight boots",
+      "Water and a light snack",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Sun protection (hat and sunscreen)",
+      "Map, compass, or offline GPS on your phone",
+      "Small first aid kit",
+      "Phone with a charged battery (and a power bank if possible)",
+      "Lightweight daypack to carry essentials"
+    ],
+    "best_seasons": "All year; spring and autumn offer especially pleasant conditions, with milder temperatures and good light.",
+    "seo": {
+      "title": "Giant's Ring Circular Walk – 5km Easy Hike in the UK",
+      "meta_description": "Explore the Giant's Ring Circular Walk, a gentle 5-km route in the UK suitable for beginners. Learn about the prehistoric monument and enjoy accessible trails.",
+      "h1": "Giant's Ring Circular Walk (5 km, Easy)"
+    }
   }
 }

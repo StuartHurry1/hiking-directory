@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13201411
+  },
+  "ai": {
+    "summary": "A challenging long-distance hike from Glenties to Killeter in the UK, covering about 29.9 km. Designed for experienced hikers with reliable navigation and stamina; expect varied terrain and elevation changes.",
+    "terrain_summary": "The route traverses a mix of open fields, rural tracks, forest paths, and minor roads. Expect uneven surfaces, potential boggy sections after rain, and some exposed, hilly sections. Navigation may involve multiple stile crossings and country grounds with variable access.",
+    "safety_notes": "This is a strenuous, long-distance route with remote segments. Check the weather forecast and be prepared for rapid changes. Carry a map and compass (or GPS) and know how to use them. Wear sturdy boots, dress in layers, and bring waterproof outerwear. Pack sufficient food and water, a first aid kit, headlamp, and emergency signaling device. Let someone know your plan and expected finish time; carry a charged mobile phone with offline maps where available. Consider shorter sections or turning back if conditions deteriorate.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing plus a waterproof outer layer",
+      "Backpack with water (2–3 liters) and high-energy snacks",
+      "Map and compass or GPS device; know how to navigate",
+      "Headlamp or compact flashlight",
+      "First aid kit and emergency whistle",
+      "Sunscreen and sunglasses",
+      "Insulating layer and hat/gloves for cold or wind",
+      "Emergency blanket or bivy sack",
+      "Mobile phone with offline maps and a power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May to September) offer the best conditions; in other seasons the route can be more exposed and weather can be harsher, requiring extra preparation.",
+    "seo": {
+      "title": "Glenties to Killeter – 29.9 km Hard Hike in the UK",
+      "meta_description": "Plan a challenging 29.9 km hike from Glenties to Killeter in the UK. This guide covers terrain, safety considerations, gear, and the best seasons for this long-distance trek.",
+      "h1": "Glenties to Killeter – 29.9 km Hard Hike"
+    }
   }
 }

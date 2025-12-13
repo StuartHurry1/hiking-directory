@@ -17,5 +17,24 @@
   "source": {
     "type": "osm",
     "osmId": 16276802
+  },
+  "ai": {
+    "summary": "A short, easy 1.5 km hike in the UK that follows a gentle route and reveals local biodiversity.",
+    "terrain_summary": "Mostly flat, well-maintained paths of gravel or compact soil with occasional grassy sections. Some uneven patches may occur.",
+    "safety_notes": "Stay on marked paths, supervise children, wear sturdy footwear, check weather conditions, and bring water. Be mindful of wildlife and avoid disturbing habitats.",
+    "recommended_gear": [
+      "Comfortable walking shoes or light hiking boots",
+      "Water bottle",
+      "Lightweight waterproof layer",
+      "Hat and sunscreen",
+      "Insect repellent",
+      "Camera/binoculars (optional)"
+    ],
+    "best_seasons": "Spring to autumn are ideal; the trail is enjoyable in mild conditions, but it can be done year-round with appropriate clothing.",
+    "seo": {
+      "title": "Glenkinnon Biodiversity Trail – Easy 1.5 km Hike in the UK",
+      "meta_description": "Discover Glenkinnon Biodiversity Trail, a short 1.5 km easy hike in the UK. Accessible paths, wildlife, and family-friendly scenery.",
+      "h1": "Glenkinnon Biodiversity Trail – Easy 1.5 km Hike in the UK"
+    }
   }
 }

@@ -17,5 +17,30 @@
   "source": {
     "type": "osm",
     "osmId": 13883681
+  },
+  "ai": {
+    "summary": "A challenging 19.8 km circuit in the UK that combines historic sites with rugged countryside, suitable for experienced hikers prepared for long distances and varied terrain.",
+    "terrain_summary": "Expect a mix of rough footpaths, farm tracks, and occasional road sections. Surfaces can be uneven, muddy, and steep in places, with stiles, gates, and potential moorland exposure.",
+    "safety_notes": "Plan your day and tell someone your route and timings. Navigation can be difficult in poor visibility—carry a map and compass (or a GPS device) and know how to use them. Weather in the UK can change quickly; bring waterproof layers and a warm layer. Wear sturdy, ankle-supporting boots, and pace yourself to avoid fatigue on the long distance. Stay on public paths, be mindful of livestock, and check for any access restrictions. Carry sufficient water and snacks; emergency whistle, first aid kit, and a charged phone (with offline maps). In winter, daylight is limited and conditions can be hazardous; consider shorter sections or alternative routes.",
+    "recommended_gear": [
+      "Sturdy, waterproof hiking boots with good ankle support",
+      "Waterproof jacket and pants",
+      "Insulating layer (fleece or lightweight down)",
+      "Hat and gloves (seasonal)",
+      "Map and compass (or GPS device) and knowledge to use them",
+      "Fully charged mobile phone; offline map backup",
+      "Water and high-energy snacks",
+      "Small first aid kit; blister care",
+      "Emergency whistle and headtorch/flashlight",
+      "Sunscreen and sunglasses",
+      "Rain cover for backpack; extra socks",
+      "Walking poles (optional)"
+    ],
+    "best_seasons": "March-October is typically best for this long, exposed hike due to longer daylight and firmer ground. Winter hiking is possible but can be challenging with mud, ice, and reduced visibility.",
+    "seo": {
+      "title": "Gaunless Valley Heritage Walk – 19.8 km Hard Trek in the UK",
+      "meta_description": "Discover the Gaunless Valley Heritage Walk, a 19.8 km strenuous route in the UK across varied terrain with heritage highlights. Safe hiking tips and gear guidance included.",
+      "h1": "Gaunless Valley Heritage Walk – A 19.8 km Hard Trek in the UK"
+    }
   }
 }

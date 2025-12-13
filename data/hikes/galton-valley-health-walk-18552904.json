@@ -19,5 +19,26 @@
   "source": {
     "type": "osm",
     "osmId": 18552904
+  },
+  "ai": {
+    "summary": "A gentle 5.8 km health walk in the UK, suitable for beginners and all ages. The route uses easy terrain with occasional gentle ridge sections, offering fresh air, light elevation changes, and pleasant views of urban and rural landscapes.",
+    "terrain_summary": "Mostly well-maintained paths and tarmac with short gravel or grassy sections. Expect gentle ascents along ridge areas and some uneven ground, with possible mud after rain. The route may pass through parks or along open countryside, providing intermittent views.",
+    "safety_notes": "- Check weather and daylight hours before you go. - Wear sturdy, closed-toe footwear with good grip and dress in layers. - Bring water and a light snack; carry a small first aid kit and a charged phone. - Stay on marked paths and watch your footing on ridge sections and any uneven ground. - If you have medical conditions or mobility limits, consult a clinician and consider a shorter option. - Be mindful of others, keep pets under control, and take extra care when near edges.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots with good grip",
+      "Water bottle (1–2 litres)",
+      "Light waterproof jacket and an extra layer",
+      "Sun protection (hat and sunscreen)",
+      "Map, guidebook, or fully charged phone with offline map",
+      "Small first aid kit",
+      "Snacks or energy bars",
+      "Light-weight rain cover or poncho"
+    ],
+    "best_seasons": "Spring to autumn (March–October) for the best conditions; winter hikes are possible but may be muddy or icy.",
+    "seo": {
+      "title": "Galton Valley Health Walk – 5.8 km Easy Ridge Walk in the UK",
+      "meta_description": "Discover the Galton Valley Health Walk: a gentle 5.8 km route in the UK with ridge-like paths, accessible terrain, practical safety tips, and gear recommendations for a comfortable day outdoors.",
+      "h1": "Galton Valley Health Walk – 5.8 km Easy Ridge Route (UK)"
+    }
   }
 }

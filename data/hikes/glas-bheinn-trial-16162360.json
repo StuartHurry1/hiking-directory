@@ -17,5 +17,32 @@
   "source": {
     "type": "osm",
     "osmId": 16162360
+  },
+  "ai": {
+    "summary": "Glas Bheinn Trial is a challenging long-distance hike in the UK, covering approximately 39.3 km. Classified as hard, it traverses varied terrain and exposed sections, making for a demanding trek that may require multi-day planning depending on pace and conditions.",
+    "terrain_summary": "Expect a mix of forest tracks, moorland, rocky paths, and potentially exposed bealachs. The route can be boggy in places and navigation may be challenging in poor visibility. Terrain may be steep at times with uneven footing and occasional scrambling on rocky sections.",
+    "safety_notes": "Plan for rapidly changing UK weather; bring layers and waterproofs. Navigation can be difficult in unknown regions; carry a map and compass and know how to use them. Tell someone your route and expected return time. Hike with a partner if possible; carry a whistle, headlamp, first aid kit, emergency shelter, and a fully charged phone with offline maps. Be mindful of daylight hours and turn back if weather worsens or you lose the route.",
+    "recommended_gear": [
+      "Sturdy hiking boots with good ankle support",
+      "Layered clothing and waterproof outer shell",
+      "Hiking socks and spare pair",
+      "Hydration system with at least 2 liters of water",
+      "High-energy snacks and a balanced meal",
+      "Map and compass (and GPS device as backup)",
+      "Headlamp with extra batteries",
+      "First aid kit and blister care",
+      "Emergency shelter or bivvy",
+      "Whistle and personal locator beacon (PLB) if available",
+      "Rain gear and sun protection (hat, sunglasses, sunscreen)",
+      "Trekking poles (optional but helpful)",
+      "Multi-tool or knife",
+      "Backup power bank"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly May–September) is ideal in the UK; however, experienced hikers may undertake the route year-round with appropriate equipment and caution.",
+    "seo": {
+      "title": "Glas Bheinn Trial - A 39.3 km Hard Hike in the UK",
+      "meta_description": "Discover the Glas Bheinn Trial hike in the UK. A demanding 39.3 km route with rugged terrain, safety tips, gear recommendations, and best seasons for trekking.",
+      "h1": "Glas Bheinn Trial: A Challenging 39.3 km UK Hike"
+    }
   }
 }

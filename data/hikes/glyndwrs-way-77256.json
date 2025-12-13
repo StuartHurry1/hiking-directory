@@ -17,5 +17,33 @@
   "source": {
     "type": "osm",
     "osmId": 77256
+  },
+  "ai": {
+    "summary": "Glyndŵr's Way is a challenging long-distance footpath in Wales, United Kingdom, spanning about 547 km. It threads through rural Welsh landscapes, historic sites, and remote countryside, offering a demanding itinerary ideal for experienced hikers seeking a substantial multi-day trek.",
+    "terrain_summary": "The route combines country lanes, river valleys, woodland tracks, and open upland sections. Expect a mix of gentle trails and steep climbs, with occasional rough or uneven surfaces, exposed weather, and boggy or muddy stretches in wet conditions. Navigation is advisable in remote stretches, as some segments are less clearly waymarked.",
+    "safety_notes": "Plan for multiple days of hiking with substantial elevation changes. Weather in Wales can be highly variable; layered clothing and waterproof gear are essential. Carry a current map and compass (and know how to use them), plus a GPS as a backup. Use appropriate camping or shelter arrangements where permitted, and be mindful of road crossings and farm access. Inform someone of your itinerary, monitor daylight hours, and be prepared for limited mobile reception in remote areas. Wildlife, livestock, and remote terrain require caution; carry a basic first-aid kit and a whistle for emergencies.",
+    "recommended_gear": [
+      "Sturdy hiking boots with ankle support",
+      "Waterproof jacket and trousers",
+      "Breathable base layers and mid-layers",
+      "Hat, gloves, and sun protection",
+      "Map and compass (and knowledge to use them)",
+      "GPS device or offline maps as backup",
+      "Headlamp with extra batteries",
+      "Sleep system or emergency shelter (if camping)",
+      "Lightweight tent or bivvy (if camping overnight)",
+      "High-energy food and snacks; portable stove if camping",
+      "Water bottle or hydration system; water purification method",
+      "First-aid kit with blister care",
+      " multitool or knife",
+      "Whistle and reflective gear",
+      "Backpack around 40–50 L with rain cover"
+    ],
+    "best_seasons": "Late spring to early autumn (roughly April to October) when weather is more favorable and days are longer; shoulders seasons can be variable with rain and wind, while winter hiking requires significant preparedness.",
+    "seo": {
+      "title": "Glyndŵr's Way — Wales Long-Distance Trail (547 km) in the UK",
+      "meta_description": "Plan your Glyndŵr's Way hike, a hard 547 km long-distance trail through Wales, UK. Explore route overview, terrain, safety tips, gear recommendations, and ideal seasons for this challenging trek.",
+      "h1": "Glyndŵr's Way: Wales' 547 km Hard-Distance Trail"
+    }
   }
 }

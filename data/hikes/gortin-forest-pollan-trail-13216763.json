@@ -17,5 +17,28 @@
   "source": {
     "type": "osm",
     "osmId": 13216763
+  },
+  "ai": {
+    "summary": "A family-friendly 3.6 km easy forest trail through Gortin Forest, offering a gentle stroll with shaded paths, suitable for all ages and abilities.",
+    "terrain_summary": "Mostly flat to gently undulating forest track with a mix of dirt and gravel surfaces; some leaf litter and damp patches after rain; occasional roots and steps.",
+    "safety_notes": "Weather can change quickly in woodland areas; wear sturdy footwear and bring a waterproof layer; stay on marked paths; watch for uneven ground, exposed roots and muddy sections after rain; keep dogs on a lead where required and supervise children; carry a map or have offline navigation and a charged phone.",
+    "recommended_gear": [
+      "Sturdy walking shoes or light hiking boots",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Rain jacket or windbreaker",
+      "Map or offline navigation (GPS)",
+      "Fully charged phone",
+      "Small first-aid kit",
+      "Sun protection (hat, sunscreen)",
+      "Insect repellent",
+      "Light pack with emergency blanket (optional)"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the most comfortable conditions, with summer providing longer daylight; winter can be muddier and less predictable.",
+    "seo": {
+      "title": "Gortin Forest Pollan Trail – Easy 3.6 km Forest Walk in the UK",
+      "meta_description": "Discover a gentle 3.6 km easy trail through Gortin Forest. Perfect for families and beginners, with shaded paths, wildlife, and a relaxing woodland setting in the UK.",
+      "h1": "Gortin Forest Pollan Trail — Easy 3.6 km Forest Walk"
+    }
   }
 }

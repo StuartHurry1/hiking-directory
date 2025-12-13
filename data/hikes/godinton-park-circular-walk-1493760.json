@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 1493760
+  },
+  "ai": {
+    "summary": "A 7.5 km circular hike around Godinton Park in the UK, weaving through manicured parkland and shaded woodland with gentle gradients. The route is suitable for walkers with a moderate fitness level and offers varied scenery at a relaxed pace.",
+    "terrain_summary": "Mixed surfaces including compacted gravel paths, grassy sections, and shaded woodland trails. Expect gentle slopes and some uneven ground; footwear with good grip is advised.",
+    "safety_notes": "Check weather conditions and daylight hours; wear sturdy footwear and bring a light rain jacket. Stay on marked paths, watch for uneven ground and wet leaves, and be mindful of other trail users. Carry water, a basic map or GPS, and a means to contact someone in case of emergency. Keep dogs under control and be prepared for seasonal changes in trail conditions.",
+    "recommended_gear": [
+      "Sturdy hiking shoes or boots with good grip",
+      "Water bottle",
+      "Weather-appropriate clothing (layers, waterproof jacket)",
+      "Cap or hat and sunscreen",
+      "Map or GPS device",
+      "Phone with emergency contacts",
+      "Snack or energy bar",
+      "Lightweight rain cover or packable rain jacket"
+    ],
+    "best_seasons": "Spring to autumn (roughly April to October) for the best conditions; in colder months ensure proper footwear and warm clothing for variable UK weather.",
+    "seo": {
+      "title": "Godinton Park Circular Walk – 7.5 km Moderate Hike in the UK",
+      "meta_description": "Discover the Godinton Park Circular Walk, a 7.5 km moderate route through parkland and woodland in the UK. Terrain details, safety tips, gear recommendations, and best seasons.",
+      "h1": "Godinton Park Circular Walk"
+    }
   }
 }

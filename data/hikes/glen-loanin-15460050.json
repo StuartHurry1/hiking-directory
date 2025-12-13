@@ -17,5 +17,25 @@
   "source": {
     "type": "osm",
     "osmId": 15460050
+  },
+  "ai": {
+    "summary": "Glen Loanin is a short, easy 1.1 km hike in the UK. The route follows a gentle, accessible path through mild countryside, making it suitable for beginners, families, and anyone seeking a quick outdoor escape.",
+    "terrain_summary": "Mostly flat to gently undulating track, comprising grass, compacted dirt, and occasional muddy patches after rain. The surface is generally well-maintained, with some sections where footing can be uneven or slick when wet.",
+    "safety_notes": "Wear sturdy footwear and weather-appropriate clothing. Stay on the marked path and watch for uneven ground, wet leaves, or mud. Check the forecast and avoid the route in heavy rain or poor visibility. Bring water, a charged phone, and inform someone of your plans. Be mindful of livestock in rural areas and gates you may need to pass through.",
+    "recommended_gear": [
+      "Sturdy walking shoes or boots",
+      "Light waterproof jacket",
+      "Water bottle or hydration",
+      "Small daypack",
+      "Map or smartphone with offline maps",
+      "Sun protection (hat, sunscreen)",
+      "Basic first aid and blister care"
+    ],
+    "best_seasons": "Spring to autumn offer the most favorable conditions and daylight; summer provides longer days, while winter can be cold and muddy.",
+    "seo": {
+      "title": "Glen Loanin Hike – 1.1 km Easy Walk in the UK",
+      "meta_description": "Explore Glen Loanin, a short 1.1 km easy hike in the UK. A gentle terrain walk suitable for beginners and families, with scenic countryside and minimal elevation.",
+      "h1": "Glen Loanin – 1.1 km Easy Hike in the UK"
+    }
   }
 }

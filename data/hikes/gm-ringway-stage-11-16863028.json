@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16863028
+  },
+  "ai": {
+    "summary": "Stage 11 of the GM Ringway is a challenging 32.7 km hike in the UK that combines urban and rural terrain. The route requires solid fitness and navigation due to long distances and variable ground conditions. Expect a full-day trek with exposure in parts, including potential boggy sections and multiple stile crossings.",
+    "terrain_summary": "A varied mix of surfaces: urban streets and pavements in towns, rural lanes, fields and footpaths, possible moorland tracks and boggy ground, grassy ascents, and frequent gate and stile crossings. Elevation gain can be substantial in places; footing may be uneven and weather-dependent.",
+    "safety_notes": "Plan for a full-day walk at a steady pace. Check weather and daylight hours; some sections may be exposed. Wear sturdy waterproof boots and dress in layers. Carry a map and compass or GPS, a fully charged phone, and emergency contact information. Bring enough water and high-energy snacks; include a lightweight rain shell and extra layers. Be prepared for navigation challenges at junctions or road crossings. Inform someone of your route and expected return time. Respect livestock and follow local access rules.",
+    "recommended_gear": [
+      "Sturdy waterproof hiking boots",
+      "Weather-appropriate layers (base layer, insulating layer, waterproof outer layer)",
+      "Water and energy snacks (plus a little extra)",
+      "Map and compass or GPS device",
+      "Fully charged phone with offline maps",
+      "Headlamp or small flashlight",
+      "Whistle for emergencies",
+      "First aid kit with blister care",
+      "Emergency blanket or bivy bag",
+      "Hiking poles (optional but helpful on long or uneven sections)",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Rain cover for backpack",
+      "Spare laces and basic repair kit"
+    ],
+    "best_seasons": "Spring through autumn (roughly March to October) for better daylight and more predictable weather; in winter, conditions can be harsher and logistics more challenging.",
+    "seo": {
+      "title": "GM Ringway Stage 11 – 32.7 km Hard Hike in the UK",
+      "meta_description": "Discover GM Ringway Stage 11, a 32.7 km hard-distance hike in the UK. terrain details, safety tips, gear recommendations, and the best seasons for this stage.",
+      "h1": "GM Ringway Stage 11: 32.7 km Hard Hike in the UK"
+    }
   }
 }

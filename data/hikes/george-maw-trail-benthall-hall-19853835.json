@@ -17,5 +17,29 @@
   "source": {
     "type": "osm",
     "osmId": 19853835
+  },
+  "ai": {
+    "summary": "A demanding 16 km hike following the George Maw Trail around Benthall Hall in the UK. The route combines woodland tracks, rural paths and uneven terrain with several steep sections, offering rural scenery and glimpses of historic grounds. Suitable for experienced hikers with good navigation and fitness.",
+    "terrain_summary": "Primarily woodland paths and rural tracks with uneven ground, exposed roots, and occasional stone steps. Expect muddy sections, steep ascents and descents, and variable footing. Some stretches may be narrow or overgrown; surfaces can become slippery after rain.",
+    "safety_notes": "This is a challenging hike. Wear sturdy hiking boots and weather-appropriate clothing. Carry a map or GPS and know the route. Check local conditions; trails can be muddy and slippery after rain. Stay on marked trails; watch for uneven ground, roots, and loose stones. Mobile signal may be limited in rural areas. Bring water, snacks, a basic first aid kit, and a light source. Allow extra time for slower sections and tell someone your plan and expected return time.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Weather-appropriate clothing",
+      "Water and snacks",
+      "Map and/or GPS device",
+      "Phone with offline maps",
+      "Lightweight jacket or rain shell",
+      " Hat and gloves (seasonally appropriate)",
+      "Walking poles (optional but helpful on uneven terrain)",
+      "First aid kit",
+      "Whistle and multitool",
+      "Sunscreen and sunglasses"
+    ],
+    "best_seasons": "Spring to autumn (roughly March–October) offer the best conditions and daylight for a 16 km circuit. Summer provides longer daylight but may be busier; autumn offers scenic foliage. Winter hiking is possible but challenging due to mud, weather, and shorter daylight.",
+    "seo": {
+      "title": "George Maw Trail at Benthall Hall – 16 km Hard Hike in the UK",
+      "meta_description": "Take on the George Maw Trail around Benthall Hall, a 16 km hard hike in the UK. Explore woodland tracks, rugged terrain, safety tips, gear recommendations, and the best seasons.",
+      "h1": "George Maw Trail at Benthall Hall – 16 km Hard Hike (UK)"
+    }
   }
 }

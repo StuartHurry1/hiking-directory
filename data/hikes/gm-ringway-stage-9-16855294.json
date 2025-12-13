@@ -17,5 +17,31 @@
   "source": {
     "type": "osm",
     "osmId": 16855294
+  },
+  "ai": {
+    "summary": "GM Ringway Stage 9 is a hard, long-distance stage of the GM Ringway in the United Kingdom. Covering 34.5 km, it features varied terrain, potential remote sections, and elevation changes that reward stamina and good navigation. Designed for experienced hikers, the stage requires careful pacing, daylight planning, and gear readiness, especially for changeable UK weather.",
+    "terrain_summary": "Expect a mix of farm tracks, grassy paths, woodland, and occasional boggy or wet ground. The route includes open moorland sections and gently to moderately steep climbs along uneven footing and rocky or compacted surfaces. Navigation is important due to possible waymark ambiguities, and weather can shift quickly, especially in exposed sections.",
+    "safety_notes": "Plan your hike with a detailed route and share it with someone. Check the forecast and daylight hours before starting. Carry a map and compass (and know how to use them) or a reliable GPS. Wear sturdy boots and dress in layers with waterproof outerwear. Bring enough water and high-energy food for a long day, plus a charged phone and a backup power source. In remote stretches mobile reception may be poor; carry a whistle and know how to summon help. Be prepared for sudden weather changes; have an emergency bivvy or space blanket and know when to turn back. Leave gates as you find them; follow landowner access rules and practice Leave No Trace.",
+    "recommended_gear": [
+      "Sturdy hiking boots",
+      "Waterproof jacket and pants",
+      "Insulating layer",
+      "Map and compass (or GPS)",
+      "Fully charged phone and portable charger",
+      "Adequate water (2–3 L) and high-energy snacks",
+      "First aid kit",
+      "Headlamp with extra batteries",
+      "Emergency bivvy or space blanket",
+      "Whistle",
+      "Sun protection (hat, sunscreen, sunglasses)",
+      "Trekking poles (optional)",
+      "Emergency contact device (e.g., SPOT/PLB) if available"
+    ],
+    "best_seasons": "Spring to autumn (roughly April–October) generally offers the best daylight hours and milder conditions in the UK, but be prepared for rain, wind, and fog at any time of year. Winter hiking is possible only for very experienced hikers with appropriate gear and daylight constraints.",
+    "seo": {
+      "title": "GM Ringway Stage 9 – 34.5 km Hard Hike in the UK",
+      "meta_description": "Plan your attempt at GM Ringway Stage 9, a challenging 34.5 km hike in the UK. Read terrain notes, safety tips, and gear recommendations to prepare for a demanding day out.",
+      "h1": "GM Ringway Stage 9: 34.5 km Hard Hike in the UK"
+    }
   }
 }

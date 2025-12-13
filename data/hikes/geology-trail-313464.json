@@ -17,5 +17,26 @@
   "source": {
     "type": "osm",
     "osmId": 313464
+  },
+  "ai": {
+    "summary": "Geology Trail is a short, easy 2.8 km loop in the UK that highlights local rock formations and simple geological features along the way, suitable for families and beginners.",
+    "terrain_summary": "The route runs on well-marked paths that are mostly flat with a few gentle rises. Expect a mix of compact gravel, grassy sections, and occasional muddy patches after rain. The surface is generally easy for walkers with basic fitness.",
+    "safety_notes": "Stay on marked paths, check weather conditions before you go, and wear sturdy footwear. Be cautious on wet or uneven sections, watch for slippery rocks, and bring water. If exploring exposed rock faces, keep a safe distance from edges and heed any local warnings or closures.",
+    "recommended_gear": [
+      "Sturdy walking shoes or hiking boots",
+      "Water bottle",
+      "Weather-appropriate clothing (layered, rain jacket)",
+      "Small backpack",
+      "Map or offline map on phone",
+      "Snacks or energy bars",
+      "Sun protection (hat and sunscreen)",
+      "Camera or notebook"
+    ],
+    "best_seasons": "Spring and Summer (April–September). The trail is enjoyable in dry conditions but can be walked year-round with appropriate footwear and weather protection.",
+    "seo": {
+      "title": "Geology Trail – 2.8 km Easy Walk in the UK",
+      "meta_description": "Explore Geology Trail, a 2.8 km easy walk in the UK featuring exposed rocks and simple geological features. Practical safety tips and gear recommendations.",
+      "h1": "Geology Trail – 2.8 km Easy Walk in the UK"
+    }
   }
 }
